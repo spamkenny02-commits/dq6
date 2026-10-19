@@ -1,0 +1,41 @@
+{
+  "version": "v0.28",
+  "result_sha256": "cb669821ed8207538b1fb90e5c70e93a61d4331cd6117a6586641be53725f0d4",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "diagnostic_extension": "dq6-fr/emulator-tests/peek_extension.cpp",
+  "cold_boot_reaches_journal_menu": true,
+  "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "render_fixture_ids": [
+    1181,
+    5471,
+    6804,
+    5615,
+    1259,
+    6447,
+    5735,
+    5742,
+    4113,
+    4932,
+    1848
+  ],
+  "pages_visually_reviewed": 72,
+  "render_readable": true,
+  "variable_names_observed": [
+    "AM",
+    "Rookie",
+    "Laura"
+  ],
+  "controls_sampled": [
+    "C9",
+    "D3",
+    "D0",
+    "CC",
+    "D5"
+  ],
+  "all_150_messages_emulated": false,
+  "natural_scenes_played": false,
+  "full_playthrough": false,
+  "limits": "Redirections temporaires au camp ; les choix Oui/Non en fin de certains bancs viennent du dialogue hôte. Pas de validation naturelle de ces scènes. Préfixe anonyme natif conservé.",
+  "screenshots": "Locales, empreintes dans qa-render-fixtures.json ; aucune ROM, SRAM ni état publié."
+}

@@ -1,0 +1,795 @@
+[
+  {
+    "id": 1111,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]弟「聞きましたよ![LINE]この地下ふかくに　すごい賢者さまが[LINE]とじこめられてたんですってね。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「聞きましたよ！\n\tこの地下ふかくに　すごい賢者さまが\n\tとじこめられてたんですってね。\n@c0@"
+    ],
+    "ds_fr_body": "On m'a dit qu'un grand Penseur était enfermé au sous-solⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5173,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]ホルス「ははっ　[CODE D3]は[LINE]なかなか　正直だな。[END STRING AC]",
+    "ds_jp": [
+      "@a@bホルス「ははっ　%a000120は\n\tなかなか　正直だな。\n@c0@"
+    ],
+    "ds_fr_body": "Votre franchise vous perdra. Peu importe. Votre venue sera toujours appréciée au royaume du roi Pierreⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 6749,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]司会「そうでしょう　そうでしょう![LINE]今さら　やめるなんて[LINE]いわないで　くださいねっ。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「そうでしょう　そうでしょう！\n\t今さら　やめるなんて\n\t言わないで　くださいねっ。\n@c0@"
+    ],
+    "ds_fr_body": "Je savais que vous ne laisseriez pas tomberⓠ Ne me faites plus peur comme çaⓠ J'ai les nerfs à vifⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 4355,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4][CODE D9]シェーラ「ずいぶんと[LINE]たくましく　なって......。[WAIT][LINE][CODE D4][CODE D9]シェーラ「ともかく　私とともに[LINE]ムドーの所に　いきましょう。[WAIT][LINE][CODE D4][CODE D9]シェーラ「そうすれば　すべてが[LINE]はっきりと　するはずです![WAIT][LINE][CODE D4][CODE D9]シェーラ「私が　なぜ　この世界で[LINE]レイドック王に　なっていたかも[LINE]わかることでしょう。[END STRING AC]",
+    "ds_jp": [
+      "@a@bシェーラ「ずいぶんと\n\tたくましくなって……。\n@c0@",
+      "@a@bシェーラ「ともかく　私とともに\n\tムドーの所に　行きましょう。\n@c0@",
+      "@a@bシェーラ「そうすれば　すべてが\n\tはっきりと　するはずです！\n@c0@",
+      "@a@bシェーラ「私が　なぜ　この世界で\n\tレイドック王に　なっていたのかも\n\tわかることでしょう。\n@c0@"
+    ],
+    "ds_fr_body": "Vous avez beaucoup grandi, %a000090... Enfin, ne laissons pas les événements de ce soir retarder notre attaque contre Meurtor... Cette confrontation finale révélera tout... ... y compris comment je suis devenue le roi Somnus dans ce monde.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 4847,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ボクの父ちゃん[LINE]お城の兵隊なんだけど[LINE]いつも　いってたよ。[WAIT][LINE][CODE C9]王子さまが　いると[LINE]お城の中が　明るくなるってさ。[WAIT][LINE]王子さまって　お城の中でも[LINE]たいまつを　もってるんだね。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ボクの父ちゃん\n\tお城の兵隊なんだけど\n\tいつも　いってたよ。\n@c0@",
+      "@a@b＊「%a000090王子さまが　いると\n\tお城の中が　明るくなるってさ。\n@c0@",
+      "@a@b＊「王子さまって　お城の中でも\n\tたいまつを　もっているんだね。\n@c0@"
+    ],
+    "ds_fr_body": "Mon père, c'est le soldat le plus costaud, le plus courageux et le plus meilleur du châteauⓠ Il dit que le château est bien plus joyeux quand le prince est là. Ça veut dire que le prince fait le clown ou quoiⓡ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 6904,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4][CODE CA]「よう　[CODE C9][LINE]よく見ると　この城も　ずいぶん[LINE]ぼろくなってるようだなあ。[WAIT][LINE][CODE D4][CODE CA]「[CODE C9]が　王さまに[LINE]なる時には　この城も[LINE]たてかえたほうが　よさそうだぜ。[WAIT][LINE][CODE D4][CODE CA]「そん時は　ぜひ　オレに[LINE]まかせてくれよなっ![LINE]いいか　約束だぜ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b%a002000「よう　%a000090\n\tよく見ると　この城も　ずいぶん\n\tぼろくなってるようだなあ。\n@c0@",
+      "@a@b%a002000「%a000090が\n\t王さまになる頃には　この城も\n\tたてかえたほうが　よさそうだぜ。\n@c0@",
+      "@a@b%a002000「そん時は　ぜひ　オレに\n\tまかせてくれよなっ！\n\tいいか　約束だぜ。\n@c0@"
+    ],
+    "ds_fr_body": "Salut, %a000090ⓠ Ce château est un peu branlant... Tu devrais peut-être songer à le réparer un peu avant d'être couronné. Si ça te tente, tu sais où me trouverⓠ Je te ferai un prix d'ami, promisⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 2462,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]村長「そして　毎年　そのお金で[LINE]精霊のかんむりを　買ってきて[LINE]村まつりの時に　かざるのだが...[WAIT][LINE][CODE D4]村長「今年は　[CODE C9]に[LINE]精霊のかんむりを[LINE]買ってきてほしいんじゃよ。[WAIT][LINE][CODE D4]村長「この村から　ふもとの町へ[LINE]おりるのは　大変だが[LINE][CODE C9]なら　大丈夫じゃろう。[WAIT][LINE][CODE D4]村長「売り物は　この　木ぼり細工と[LINE]きぬおりもの　10枚じゃ。[LINE]行ってくれるか?　[CODE C9]。[END STRING AC]",
+    "ds_jp": [
+      "@a@b村長「そして　毎年　そのお金で\n\t精霊のかんむりを　買ってきて\n\t村まつりの時に　かざるのだが……\n@c0@",
+      "@a@b村長「今年は　%a000090に\n\t精霊のかんむりを\n\t買ってきてほしいんじゃよ。\n@c0@",
+      "@a@b村長「この村から　ふもとの町へ\n\tおりるのは　大変だが\n\t%a000090なら　大丈夫じゃろう。\n@c0@",
+      "@a@b村長「売りものは　この　木ぼり細工と\n\tきぬおりもの　１０枚じゃ。\n\t行ってくれるか？　%a000090。\n@c0@"
+    ],
+    "ds_fr_body": "La recette ainsi obtenue nous permet d'acheter la couronne sacrée qu'on utilise chaque année lors de la fête de la bénédiction. Cette année, %a000090, j'aimerais t'envoyer acheter la couronne au nom de notre village. Le chemin qui descend de la montagne est parfois hasardeux, mais je suis sûr que tu t'en sortiras très bien. Dix longueurs de soie et un bibelot en bois devraient rapporter plus que nécessaire pour la couronne.\n㈡\nTu penses pouvoir t'en charger, %a000090ⓡ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5014,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "こうして　待っていれば[LINE]きっとまた　美しい姫が[LINE]カガミの中に　現われるはず![WAIT][LINE]......そう思って　ずっと[LINE]カガミを　見ているのですが...[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「こうして　待っていれば\n\tきっとまた　美しい姫が\n\t鏡の中に　現れるはず！\n@c0@",
+      "@a@b＊「……そう思って　ずっと\n\t鏡を　見ているのですが……。\n@c0@"
+    ],
+    "ds_fr_body": "Une autre princesse va forcément apparaître dans le miroir si j'attends ici assez longtemps, vous ne croyez pasⓡ Ou pas... J'espère que j'aurai un jour l'occasion de dire ses quatre vérités au type qui l'a sauvéeⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 1921,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D9]そう......　では　あの男......[LINE]ゴランは　あなたたちに[LINE]私のことを　いわなかったのね。[WAIT][LINE][CODE D9]思えば　あれから　50年...。[LINE]ゴランも　じゅうぶん[LINE]反省したようね。[WAIT][LINE][CODE D9]......いいわ。[LINE]あの村に　かけた　呪いを[LINE]といて　あげましょう。[WAIT][LINE][CODE D9]クスクス......[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「そう……　では　あの男……\n\tゴランは　あなたたちに\n\t私のことを　いわなかったのね。\n@c0@",
+      "@a@b＊「思えば　あれから　５０年……。\n\tゴランも　じゅうぶん\n\t反省したようね。\n@c0@",
+      "@a@b＊「……いいわ。\n\tあの村に　かけた　呪いを\n\t解いてあげましょう。　クスクス……。\n@c0@"
+    ],
+    "ds_fr_body": "Mmm... Alors, Saul Ytaire a réussi à tenir sa langue, on dirait... J'imagine qu'en cinquante ans, ce vilain garçon a fini par retenir la leçon. Très bien. Je vais lever le sort que j'ai jeté sur ce village. Mais d'abord...",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 2578,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]村長「おお　[CODE C9]か。[LINE]いよいよ　旅立ちじゃな。[WAIT][LINE][CODE D4]村長「この山を　おりて[LINE]南に　ずっと　歩いてゆくと[LINE]レイドックの城下町じゃ。[WAIT][LINE][CODE D4]村長「そうカンタンには　王さまに[LINE]会えんかも知れんが　[CODE C9]なら[LINE]きっと　なんとかなるじゃろう。[WAIT][LINE][CODE D4]村長「おお　それから　そういえば[LINE]買い物の　おつりを　まだ[LINE]かえしてもらってなかったの。[WAIT][LINE][CODE D4]村長「よし!　それは　せんべつとして[LINE][CODE C9]に　やろう。[LINE]なにかの時に　役だてておくれ。[WAIT][LINE][CODE D4]村長「気をつけて　ゆくのだぞ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b村長「おお　%a000090か。\n\tいよいよ　旅立ちじゃな。\n@c0@",
+      "@a@b村長「この山を　おりて\n\t南に　ずっと　歩いてゆくと\n\tレイドックの城下町じゃ。\n@c0@",
+      "@a@b村長「そうカンタンには　王さまに\n\t会えんかもしれんが　%a000090なら\n\tきっと　なんとかなるじゃろう。\n@c0@",
+      "@a@b村長「おお　それから\n\t買い物の　おつりを　まだ\n\tかえしてもらってなかったの。\n@c0@",
+      "@a@b村長「よし！　それは　せんべつとして\n\t%a000090に　やろう。\n\tなにかの時に　役だてておくれ。\n@c0@",
+      "@a@b村長「気をつけて　ゆくのだぞ。\n@c0@"
+    ],
+    "ds_fr_body": "Eh bien, mon garçon... Le moment est venu de nous dire au revoir, on dirait. Somnia est situé au sud de la montagne. Reste dans cette direction et tu tomberas pile dessus, c'est aussi simple que çaⓠ Ça risque d'être difficile d'obtenir une audience avec le roi, mais si l'un d'entre nous peut y arriver, c'est bien toi, %a000090. Oh, une dernière choseⓢ j'ai oublié de te réclamer la monnaie de la couronne... Ahh, je te taquine, voyonsⓠ Tu en auras bien plus besoin que nous, pour sûrⓠ Ce sera notre cadeau pour ton départ. Plusieurs chemins s'offrent à toi, %a000090.\nSuis ton instinct et fais la fierté de notre village.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 2551,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]村長「ふーむ。　山の精霊さまの[LINE]おつげといい　[CODE C9]には[LINE]なにか　あるのかも　知れんな。[WAIT][LINE][CODE D4]村長「よし　村長として　[CODE C9]に[LINE]この村から　旅立つことを[LINE]ゆるそう![WAIT][LINE][CODE D4]村長「そして　これは[LINE]レイドック城に　入るための[LINE]通行証じゃ。　これを　やろう。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b村長「ふーむ。　山の精霊さまの\n\tおつげといい　%a000090には\n\tなにかが　あるのかも　しれんな。\n@c0@",
+      "@a@b村長「よし　村長として　%a000090を\n\tこの村から　旅立つことを\n\tゆるそう！\n@c0@",
+      "@a@b村長「そして　これは\n\tレイドック城に　入るための\n\t通行証じゃ。　これを　やろう。\n@c0@"
+    ],
+    "ds_fr_body": "Entre ça et l'étrange discours qui t'était destiné lors de la cérémonie, te voilà dans une drôle de situation, %a000090. Enfin, qui suis-je pour m'opposer à ta destinéeⓡ Je vais t'accorder l'autorisation spéciale de quitter le village. Tiens, prends ceci. C'est un laissez-passer pour le château de Somnia.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 812,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "エンデじいさんの　つくった防具が[LINE]高く売れたおかげで　こんなに[LINE]りっぱな　畑が　できたんだよ。[WAIT][LINE]けど　エンデじいさんは[LINE]いなくなっちまって......。[WAIT][LINE]たったひとり　残された[LINE]ばあさんを　ああやって守ってる[LINE]犬の　シルバーが　ふびんでねえ...。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「エンデじいさんの　作った防具が\n\t高く売れたおかげで　こんなに\n\tりっぱな　畑が　できたんだよ。\n@c0@",
+      "@a@b＊「けど　エンデじいさんは\n\tいなくなっちまって……。\n@c0@",
+      "@a@b＊「たったひとり　残された\n\tばあさんを　ああやって守ってる\n\t犬の　シルバーが　ふびんでねえ……。\n@c0@"
+    ],
+    "ds_fr_body": "Le vieux Clume était l'habitant le plus célèbre de Morneville. Personne ne faisait de meilleures armures que lui. Depuis qu'il est parti, on a perdu ce qu'il nous rapportait avec ses armures, et la ville a du mal à joindre les deux bouts. Clume a disparu, mais sa femme vit encore ici. Elle s'occupe du fidèle chien de Clume, Airain.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 4230,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]レイドック王「よろしい![LINE]さっそくだが　キミたちにも[LINE]手伝ってもらうことにしよう。[WAIT][LINE][CODE D4]レイドック王「この世界のどこかに[LINE]真実だけをうつす　ラーのカガミと[LINE]いうものが　あるらしいのだ。[WAIT][LINE][CODE D4]レイドック王「いつも　あと少しで[LINE]その姿を　かき消してしまう[LINE]魔王ムドーなのだが......。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bレイドック王「よろしい！\n\tさっそくだが　キミたちにも\n\t手伝ってもらうことにしよう。\n@c0@",
+      "@a@bレイドック王「この世界のどこかに\n\t真実だけをうつす　ラーの鏡（かがみ）\n\tというものが　あるらしいのだ。\n@c0@",
+      "@a@bレイドック王「いつも　あと少しで\n\tその姿を　かき消してしまう\n\t魔王ムドーなのだが……。\n@c0@"
+    ],
+    "ds_fr_body": "Très bien. Il y a une quête dangereuse que je réserve à mes meilleurs soldats. Quelque part dans ce monde se trouve une relique appelée miroir de Râ . On dit que son reflet révèle toujours la vérité. Meurtor est un ennemi sournois. Il nous a très souvent trompés,",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 1140,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]ソルディ「おぬしたちは　ただ者では[LINE]ないとは　思っていたが　やはり...。[WAIT][LINE][CODE D4]ソルディ「思えば　[CODE C9]らと[LINE]はじめて会ったのは　城の志願兵に[LINE]おうぼ　してきたときだったな。[WAIT][LINE][CODE D4]ソルディ「あの頃から　ふしぎな感じが[LINE]しておったのだ。[LINE]なにやら　なつかしいような...[WAIT][LINE][CODE D4]ソルディ「それ以前にも　どこかで[LINE]知り合いだったような......。[WAIT][LINE][CODE D4]ソルディ「まあ　よい。[LINE]つもる話は　あとに　しよう。[LINE]皆が上で　まっているからな。[WAIT][LINE][CODE D4]ソルディ「マサール...じゃなかった[LINE]クリムト大賢者も　いずれ[LINE]目を　さますだろう。[WAIT][LINE][CODE D4]ソルディ「さあ　いくぞ。[END STRING AC]",
+    "ds_jp": [
+      "@a@bソルディ「それにしても……\n\tおぬしたちは　ただ者では　ないとは\n\t思っていたが　やはり……。\n@c0@",
+      "@a@bソルディ「思えば　%a000090らと\n\tはじめて会ったのは　城の志願兵に\n\tおうぼ　してきたときだったな。\n@c0@",
+      "@a@bソルディ「あの頃から　ふしぎな感じが\n\tしておったのだ。\n\tなにやら　なつかしいような……\n@c0@",
+      "@a@bソルディ「それ以前にも　どこかで\n\t知り合いだったような……。\n@c0@",
+      "@a@bソルディ「まあ　よい。\n\tつもる話は　あとに　しよう。\n\t皆が上で　まっているからな。\n@c0@",
+      "@a@bソルディ「マサール……じゃなかった\n\tクリムト大賢者も　いずれ\n\t目を　さますだろう。\n@c0@",
+      "@a@bソルディ「さあ　いくぞ。\n@c0@",
+      "@a@bクリムト「……　……。\n@c0@"
+    ],
+    "ds_fr_body": "Vous savez, c'est étrange, mais je savais depuis le début qu'il y avait quelque chose de spécial chez vous. Nos chemins se sont croisés la première fois lorsque vous avez débarqué au château pour intégrer l'armée. J'ai senti qu'il y avait quelque chose de particulier chez vous. Quelque chose de... nostalgique... C'était comme si nous nous connaissions déjà... En tout cas, nous pourrons reparler de tout ça plus tard. Tout le monde attend en haut. Pascal... euh... Blaise se réveillera bientôt. Allons-yⓠ ............",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 2389,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "海の悪魔を　やっつけてくれて[LINE]ありがとう。[WAIT][LINE]でも　海の底には　私たちでも[LINE]知らないことが　まだまだ[LINE]いっぱい　あるの。[WAIT][LINE]気をつけて　旅をつづけてね。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「海の悪魔を　やっつけてくれて\n\tありがとう。\n@c0@",
+      "@a@b＊「でも　海の底には　私たちにも\n\t知らないことが　まだまだ\n\tいっぱい　あるの。\n@c0@",
+      "@a@b＊「気をつけて　旅をつづけてね。\n@c0@"
+    ],
+    "ds_fr_body": "Votre combat contre Gracos\nlui a été fatal.\n㈡\n*ⓢ Nul n'est meilleur que vous\npour vaincre le malⓠ Mais dans les profondeurs demeurent\nd'innombrables ennemis.\n㈡\n*ⓢ Aussi ai-je pris la décision...\nde rester à jamais iciⓠ Mes sœurs sirènes et moi\nvous souhaitons bon courage.\n㈡\n*ⓢ Nos pensées vous accompagneront,\ntout au long de votre voyageⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 1203,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ありがとうよ[LINE]おかげで　たすかったよ。[WAIT][LINE]オレは　はやてのイリア。[LINE]へへ　オレとしたことが[LINE]とんだドジを　ふんじまったぜ。[WAIT][LINE][CODE D4]イリア「そこの宝箱を開けたとたん[LINE]なかにいた　まものに[LINE]とりつかれちまってよ。[WAIT][LINE][CODE D4]イリア「気がついたら　ジーナに[LINE]きりかかっていて[LINE]それで　ジーナが　オレを......。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ありがとうよ\n\tおかげで　たすかったよ。\n@c0@",
+      "@a@b＊「オレは　はやてのイリア。\n\tヘヘ　オレとしたことが\n\tとんだドジを　ふんじまったぜ。\n@c0@",
+      "@a@bイリア「そこの宝箱を開けたとたん\n\tなかにいた　まものに\n\tとりつかれちまってよ。\n@c0@",
+      "@a@bイリア「気がついたら　ジーナに\n\tきりかかっていて\n\tそれで　ジーナが　オレを……。\n@c0@"
+    ],
+    "ds_fr_body": "Je dois beaucoup à vous. Ma vie êtяe à vousⓠ Je suis Seяgueï le Cycloиe. Ha ha haⓠ Gяosse eяяeuя je fais. Pas hoиte de le diяe. J'ouvяe le coffяe paя là, et VLAИⓠ Uи moиstяeⓠ Ou c'est PAИⓡ Bяef, lui s'accяocheя à moi. Eиsuite, le moиstяe va suя Svetlaиa. Et puis elle...",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 2874,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]村長「魔物のいっぴきが　いっておった[LINE][CODE C9]を　さがせ......とな。[WAIT][LINE][CODE D4]村長「もちろん　おまえと関係のない[LINE]ほかの[CODE C9]という者のことかも[LINE]しれん。しかし......[WAIT][LINE][CODE D4]村長「......わしが　なにを　いいたいか[LINE]わかると　思うが......[WAIT][LINE][CODE D4]村長「わしのクチからは　いいたくない。[LINE]そんなことをいったら　ターニアと[LINE]カオをあわせられなくなりそうじゃ。[WAIT][LINE][CODE D4]村長「これから　どうするか......[LINE]おまえが　決めてくれて　かまわん。[WAIT][LINE][CODE D4]村長「だが　よく　かんがえてみて[LINE]ほしいのじゃ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b村長「まものの１匹が　いっておった。\n\t%a000090を　さがせ……とな。\n@c0@",
+      "@a@b村長「もちろん　おまえと関係のない\n\tほかの%a000090という者のことかも\n\tしれん。　しかし……\n@c0@",
+      "@a@b村長「……わしが　なにを　いいたいか\n\tわかると　思うが……\n@c0@",
+      "@a@b村長「わしのクチからは　いいたくない。\n\tそんなことをいったら　ターニアと\n\tカオを合わせられなくなりそうじゃ。\n@c0@",
+      "@a@b村長「これから　どうするか……\n\tおまえが　決めてくれて　かまわん。\n@c0@",
+      "@a@b村長「だが　よく　かんがえてみて\n\tほしいのじゃ。\n@c0@"
+    ],
+    "ds_fr_body": "Tu vois... J'ai entendu un monstre prononcer ton nom. Je suis sûr qu'ils cherchaient un autre %a000090, bien sûr, mais... Enfin... Tu comprends ce que je veux dire... Je ne vais pas te le demander moi-même, %a000090. J'aurais du mal à regarder Mélodie dans les yeux après cela... Je voudrais donc que tu décides par toi-même ce que tu dois faire. Mais je te demande de bien réfléchir à ta décision.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3851,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "やったあ!　長老さま[LINE]ありがとう　ございます![WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「やった！　長老さま\n\tありがとう　ございます！\n@c0@"
+    ],
+    "ds_fr_body": "Merci beaucoup pour tout ce que vous avez fait pour ma pôv' mèreⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3526,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]ビビアン「ねえ　知ってる?[LINE]ムドーをたおしたのは　レイドックの[LINE]王子に似た　若者なんだって。[WAIT][LINE][CODE D4]ビビアン「それって　もしかして[LINE]いつか私を助けてくれた　あの[LINE]さすらいの剣士じゃないかしら。[WAIT][LINE][CODE D4]ビビアン「世界ーの剣をさがして[LINE]旅をしているって　いってたし[LINE]剣のうでも　すごそうだったわ。[WAIT][LINE][CODE D4]ビビアン「あの人なら　きっと[LINE]ムドーをたおすのも[LINE]たやすかったはずよね。[END STRING AC]",
+    "ds_jp": [
+      "@a@bビビアン「ねえ　知ってる？\n\tムドーをたおしたのは　レイドックの\n\t王子に似た　若者なんだって。\n@c0@",
+      "@a@bビビアン「それって　もしかして\n\tいつか私を助けてくれた　あの\n\tさすらいの剣士じゃないかしら。\n@c0@",
+      "@a@bビビアン「世界一の剣をさがして\n\t旅をしているって　言ってたし\n\t剣のウデも　すごそうだったわ。\n@c0@",
+      "@a@bビビアン「あの剣士なら　きっと\n\tムドーをたおすのも\n\tたやすかったはずよね。\n@c0@"
+    ],
+    "ds_fr_body": "Hé, vous avez entenduⓡ Il paraît que celui qui a éliminé Meurtor était le sosie du prince de Somniaⓠ Donc, ça veut dire que c'était pas le guerrier solitaire, vous savez, celui qui m'a sauvée. Je vous en ai parlé, heinⓡ Bien sûrⓠ Mais c'était un costaud. Il cherchait l'épée la plus puissante du monde. Vous vous rendez compteⓡ Il aurait sûrement pu tuer ce vieux Meurtor, c'est sûr. Il devait être trop occupé.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 4061,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ケケケ......。[LINE]いいことを　おしえてやろう。[WAIT][LINE]この世界のどこかに[LINE]大魔王さまよりも　もっと強い[LINE]おかたが　いるそうだ。[WAIT][LINE]その　おかたに　かかれば[LINE]たとえ　大魔王さまでも[LINE]ひとたまりも　ないだろうな。[WAIT][LINE]オレは　そのことを[LINE]知ってしまったので　こんな所に[LINE]とじこめられたのだ。ケケケ......。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ケケケ……。\n\tいいことを　おしえてやろう。\n@c0@",
+      "@a@b＊「この世界のどこかに\n\t魔王ムドーさまよりも　もっと強い\n\tおかたが　いるそうだ。\n@c0@",
+      "@a@b＊「その　おかたに　かかれば\n\tたとえ　魔王ムドーさまでも\n\tひとたまりも　ないだろう。\n@c0@",
+      "@a@b＊「オレは　そのことを\n\t知ってしまったので　こんな所に\n\tとじこめられたのだ。　ケケケ……。\n@c0@"
+    ],
+    "ds_fr_body": "Hé hé héⓠ Vous voulez que ze vous diseⓡ Meurtor n'est pas le sorcier le plus puissant. L'un de nous le surpasseⓠ Ceux qui l'affrontent n'ont aucune çanceⓠ Même Meurtor ne pourrait pas le vaincreⓠ On m'a emprisonné ici pour éviter que ze parle de ça. Mais c'est ratéⓠ Hé hé héⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5252,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]神父「もしも　人の心に　くらやみが[LINE]あれば　悪魔は　そこを[LINE]ねらってくるものです。[WAIT][LINE][CODE D4]神父「つねに　信じることを　忘れず[LINE]心を　神の光で　みたしておけば[LINE]何も　おそれることは　ないのです。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「もしも　ひとの心に　暗闇があれば\n\t悪魔は　そこを\n\tねらってくるものです。\n@c0@",
+      "@a@b＊「つねに　信じることを　忘れず\n\t心を　神の光で　みたしておけば\n\t何も　おそれることは　ないのです。\n@c0@"
+    ],
+    "ds_fr_body": "Écoutez-moi, mes amis. Écoutez-moiⓠ Purifiez vos âmes de leur noirceur, sinon le démon s'en repaîtraⓠ Gardez la foiⓠ Laissez la lumière de la Déesse emplir vos cœurs et plus jamais vous n'aurez peur des ténèbres.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 4903,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "じいの　いうことも　わかるよ。[WAIT][LINE]でも　私だって　あの姫を[LINE]カガミの中から　助け出して[LINE]あげたいと　思うんだ。[WAIT][LINE]あらゆる方法で　調べたすえ[LINE]姫は　何者かの　呪いによって[LINE]カガミに　とじこめられ......[WAIT][LINE]その呪いを　とくには[LINE]ある呪文を　カガミの前で[LINE]となえればいいと　わかった。[WAIT][LINE]そして　その呪文のことばも[LINE]発見できたんだ。[WAIT][LINE]でも　ダメだったんだよ。[LINE]だれが　となえても......。[WAIT][LINE]姫は　カガミの中のままさ......。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「じいの　いうことも　わかるよ。\n@c0@",
+      "@a@b＊「でも　私だって　あの姫を\n\t鏡の中から　助け出して\n\tあげたいと　思うんだ。\n@c0@",
+      "@a@b＊「あらゆる方法で　調べたすえ\n\t姫は　何者かの　呪いによって\n\t鏡の中に　閉じ込められ……\n@c0@",
+      "@a@b＊「その呪いを　解くには\n\tある呪文を　鏡の前で\n\tとなえればいいと　わかった。\n@c0@",
+      "@a@b＊「そして　その呪文の言葉も\n\t発見できたんだ。\n@c0@",
+      "@a@b＊「でも　ダメだったんだよ。\n\tだれが　となえても……。\n@c0@",
+      "@a@b＊「姫は　鏡の中のままさ……。\n@c0@"
+    ],
+    "ds_fr_body": "Je comprends ce que le vieil homme ressent... Mais le roi n'est pas le seul à attendre que la princesse soit libérée de ce miroir. J'ai tenté tout ce que j'ai pu pour l'aider. La personne qui l'a enfermée doit lui avoir jeté un sort très puissant... On m'a dit que cette malédiction pouvait être brisée en jetant un sort particulier au miroir. J'ai même appris la formule de ce sort... Mais tout ça pour rien. Peu importe qui le lance, ce sort ne fonctionne pas... (soupir) La princesse reste donc prisonnière du miroir...",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5673,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4][CODE D9][CODE CB]「いいの。[LINE]もう　いいのよ　テリー。[LINE]だれのせいでも　ないわ。[WAIT][LINE][CODE D4][CODE D9][CODE CB]「それより聞いて　テリー。[LINE]あなたのちからを　必要としているのは[LINE]今はもう　私じゃない。[WAIT][LINE][CODE D4][CODE D9][CODE CB]「あなたが　これまで[LINE]つかんだ　ちからを　これからは[LINE]世界のために　使って欲しいの。[WAIT][LINE][CODE D4][CODE D9][CODE CB]「テリー......。[LINE]私たちの　仲間に[LINE]なってくれるわね?[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b%a002010「いいの。\n\tもう　いいのよ　%a002040。\n\tだれのせいでも　ないわ。\n@c0@",
+      "@a@b%a002010「それより聞いて　%a002040。\n\tあなたのチカラを　必要としているのは\n\t今はもう　私じゃない。\n@c0@",
+      "@a@b%a002010「あなたが　これまで\n\tつかんだ　チカラを　これからは\n\t世界のために　使って欲しいの。\n@c0@",
+      "@a@b%a002010「%a002040……。\n\t私たちの　仲間に\n\tなってくれるわね？\n@c0@"
+    ],
+    "ds_fr_body": "Ne t'en fais pas, %a002040. C'est du passé. Ce n'était la faute de personne. C'est important que tu m'écoutes maintenant. %0%a002040, ce n'est pas moi qui ai besoin de ta force. Je veux que tu utilises toute ta puissance pour nous aider à sauver le monde. %0%a002040... Tu veux bien te joindre à nousⓡ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 719,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "やっぱり　そうか。[LINE]では　大賢者マサールどのに[LINE]たのまれた　ことづてをつたえよう。[WAIT][LINE]もし　われに　会いたくば[LINE]われの　かくせし抜け道をぬけよ。[WAIT][LINE]宝の底に　それは　ねむる。[WAIT][LINE]わしには　なんのことか[LINE]わからぬが　たしかに　つたえたぞ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「やっぱり　そうか。\n\tでは　大賢者マサールどのに\n\tたのまれた　ことづてをつたえよう。\n@c0@",
+      "@a@b＊「もし　われに　会いたくば\n\tわれの　かくせし抜け道をぬけよ。\n@c0@",
+      "@a@b＊「宝の底に　それは　ねむる。\n\t湖の宝箱を　よく　調べよ。\n@c0@",
+      "@a@b＊「わしには　なんのことか\n\tわからぬが　たしかに　伝えたぞ。\n@c0@"
+    ],
+    "ds_fr_body": "Je le savais. Écoutez, j'ai un message à vous transmettre de la part du grand Penseur Pascal en personne. ⓥPour me rencontrer, empruntez mon passage secret.ⓦ ⓥMon trésor dissimule son entrée. Examinez très attentivement le coffre du lac.ⓦ Pour moi, ça n'a ni queue ni tête, mais c'est son message au mot prèsⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3664,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]ジーナ「ひゃー!?　あんたたち![WAIT][LINE][CODE D4]ジーナ「泊めたと　思ったら[LINE]いなくなって　いったい[LINE]どこに　いってたのさ![WAIT][LINE][CODE D4]ジーナ「あれ　いま気がついたけど[LINE]あんたたち　わしの　ゆめに[LINE]でてきた人に　そっくりだの。[WAIT][LINE][CODE D4]ジーナ「それに　きのうまでの[LINE]あの　つらいゆめは[LINE]みなくなったし......。[WAIT][LINE][CODE D4]ジーナ「けど　ゆめと　ちがって[LINE]あの人は死に　わしは　この町に[LINE]住みついたのさ。[WAIT][LINE][CODE D4]ジーナ「おや?　ところで[LINE]あんたが　もってる　そのリング。[WAIT][LINE][CODE D4]ジーナ「わしが　若いころ[LINE]なくしたリングに　よく[LINE]にているねえ。[WAIT][LINE][CODE D4]ジーナ「さて?[LINE]だれかに　あげたんだったか......。[WAIT][LINE][CODE D4]ジーナ「いやだよ。もうろくは[LINE]したくない　ものだねえ。[LINE]ほっほっほ。[END STRING AC]",
+    "ds_jp": [
+      "@a@bジーナ「泊めたと　思ったら\n\tいなくなって　いったい\n\tどこに　行ってたのさ！\n@c0@",
+      "@a@bジーナ「あれ　いま気がついたけど\n\tあんたたち　わしの　夢に\n\t出てきたひとに　そっくりだの。\n@c0@",
+      "@a@bジーナ「それに　きのうまでの\n\tあの　つらい夢は\n\t見なくなったし……。\n@c0@",
+      "@a@bジーナ「けど　夢と　ちがって\n\tあのひとは死に　わしは　この町に\n\t住みついたのさ。\n@c0@",
+      "@a@bジーナ「おや？　ところで\n\tあんたが　持ってる　そのリング。\n@c0@",
+      "@a@bジーナ「わしが　若いころに\n\tなくしたリングに　よく\n\tにているねえ。\n@c0@",
+      "@a@bジーナ「さて？\n\tだれかに　あげたんだったか……。\n@c0@",
+      "@a@bジーナ「いやだよ。　もうろくは\n\tしたくない　ものだねえ。\n\tほっほっほ。\n@c0@"
+    ],
+    "ds_fr_body": "Apяès vous alleя au lit, vous avez dispaяu comme paя magiqueⓠ Mais... atteиdezⓠ Vous яessemblez aux geиs daиs mes яêvesⓠ Ces яêves hoяяibles soиt fiиis. La иuit d'avaиt, moи яêve était difféяeиt... Daиs ce яêve, il était vivaиt. Mais eи vяai, il est moяt daиs la gяotte. Je suis яestée daиs cette ville, seule... Mais... qu'est-ce que c'estⓡ C-cette bague. Quaиd j'étais jeuиe, j'avais uиe bague paяeille. Je l'ai doииée à uиe peяsoииe. Mais à qui...ⓡ Ma mémoiяe est яouillée. C'est duя de vieilliя... Hé hé hé.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5036,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ん?　なんだ　おまえら。[WAIT][LINE]オレか?　オレは　この城の王子[LINE]ホルスさまだ。[LINE]よく　おぼえて　おくんだぞ。[WAIT][LINE][CODE D4]ホルス「はっはっはっはっ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ん？　なんだ　おまえら。\n@c0@",
+      "@a@b＊「オレか？　オレは　この国の王子\n\tホルスさまだ。\n\tよく　覚えて　おくんだぞ。\n@c0@",
+      "@a@bホルス「はっはっはっはっ。\n@c0@"
+    ],
+    "ds_fr_body": "Quoiⓡ Qui je suisⓡⓐ Vous ne savez pas qui je suisⓡⓐ (tousse) Je suis Pierre, prince héritier du royaume de Pierreforteⓠ Vive moiⓠ C'était commentⓡ Plutôt impressionnant, heinⓡ Je me suis pas mal entraîné.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3177,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "あ　ホルス王子......。[LINE]また　洗礼のどうくつへ[LINE]むかわれるのですか?[WAIT][LINE]もしや　また　わしを[LINE]おともに　つれていこうと[LINE]おっしゃるのか?[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あ　ホルス王子……。\n\tまた　洗礼の洞くつへ\n\t向かわれるのですか？\n@c0@",
+      "@a@b＊「もしや　また　わしを\n\tお供に　つれていこうと\n\tおっしゃるのか？\n@c0@"
+    ],
+    "ds_fr_body": "Prince Pierreⓠ C'est moiⓠ Vous vous souvenezⓡ J'étais garde au châteauⓠ On est allés à la grotte Sacrée ensemble, vous vous souvenezⓡ Si jamais vous avez besoin de moi...",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 1038,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "やあ　きのうは　ボクの兄を[LINE]助けてくださって[LINE]ありがとうございました。[WAIT][LINE]そのお礼と　クーデターの[LINE]けいきづけに　ぶどう酒を[LINE]いっぱい　どうです?[WAIT][LINE]...あれ?　おっと　これは[LINE]ゆうべ　兵士たちに　くばった[LINE]ぶどう酒の方だった。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「やあ　きのうは　ボクの兄を\n\t助けてくださって\n\tありがとうございました。\n@c0@",
+      "@a@b＊「そのお礼と　クーデターの\n\tけいきづけに　ジュースでも\n\tいっぱい　どうです？\n@c0@",
+      "@a@b＊「……あれ？　おっと　これは\n\tゆうべ　兵士たちに　くばった\n\tぶどう酒の方だった。\n@c0@"
+    ],
+    "ds_fr_body": "Je vous remercie du fond du cœur d'avoir sauvé mon frère de la guillotine hier. Pour vous remercier, voici une dose de jus de raisin. Portons un toast à la révolutionⓠ Une minuteⓠ Euh... C'est le vin qu'on a donné aux soldats. Désoléⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3942,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ドスン　ドスンと[LINE]あしおとが　したろ　なっ?[WAIT][LINE]おおきな　まものが[LINE]あるいているのを[LINE]見ただろ　なっ?[WAIT][LINE]そう　あれは[LINE][CODE CF]さん　だったんだ。[LINE]あーっ　スッキリした![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ドスン　ドスンと\n\t足音が　したろ　なっ？\n@c0@",
+      "@a@b＊「おおきな　まものが\n\t歩いているのを　見ただろ　なっ？\n@c0@",
+      "@a@b＊「そう　あれは\n\t%a002050さん　だったんだ。\n\tあーっ　スッキリした！\n@c0@"
+    ],
+    "ds_fr_body": "Vous savez quoiⓡ Les bruits de pas du monstre me manquent presque la nuit. C'était réglé comme du papier à musique. Je les entendais et je me disaisⓢ ⓥVoilà notre %a002050ⓠⓦ Ça fait du bien de plus avoir de secret à porterⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3883,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "私の子どもが　まものに[LINE]おそわれたのです。[WAIT][LINE]でも　あわや　と　いうとき[LINE][CODE CF]さまに　たすけられて。[WAIT][LINE]あのかたは　この町の英雄。[LINE]いえっ　まさしく[LINE]すくいの　神ですよ![END STRING AE]",
+    "ds_jp": [
+      "@a@b＊「私の子どもが　まものに\n\tおそわれたのです。\n@c0@",
+      "@a@b＊「でも　あわや　と　いうとき\n\t%a002050さまに　助けていただいて。\n@c0@",
+      "@a@b＊「あのかたは　この町の英雄。\n\tいえっ　まさしく\n\t救いの　神ですよ！\n@c0@"
+    ],
+    "ds_fr_body": "Voilà comment ça s'est passé. Mon petit gars a été attaqué par une bande de monstres. C'était de vraies terreursⓠ Notre %a002050 ne pouvait pas rester les bras croisés, alors il a foncé et sauvé le petit cabotⓠ Vous savez que notre %a002050 n'a même pas voulu qu'on le remercieⓡ C'est le héros le plus humble qui soitⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5351,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "私は　王の命をうけて[LINE]伝説の盾の　いいつたえについて[LINE]研究を　しています。[WAIT][LINE]ゴイルの像から　南にまっすぐ。[LINE]つきあたって　左手をカベにつけ[LINE]そのまま　カベづたいに歩き...[WAIT][LINE]さいしょの　しげみを調べよ![LINE]......とは　どこのことを[LINE]いっているのか。うーむ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「私は　王の命を受けて\n\t伝説の盾の　言い伝えについて\n\t研究を　しています。\n@c0@",
+      "@a@b＊「黄金の竜から　南にまっすぐ。\n\tつきあたって　左手をカベにつけ\n\tそのまま　カベづたいに歩き……\n@c0@",
+      "@a@b＊「最初の　しげみを調べよ！\n\t……とは　どこのことを\n\tいっているのか。　うーむ。\n@c0@"
+    ],
+    "ds_fr_body": "Le roi Clément m'a demandé de faire des recherches approfondies sur le bouclier légendaire. ⓥAu sud du dragon doré. Faites le tour du mur, puis examinez l'herbe pour ouvrir le chemin.ⓦ C'est un indice intéressant, mais je ne sais absolument pas à quoi ça fait référence.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 2019,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ここから北にいった山奥には[LINE]ゲント族とよばれる人びとが[LINE]住んでいる村が　あるんだ。[WAIT][LINE]そこの　いやしのチカラをもとめて[LINE]ここを　とおっていく旅人が[LINE]最近　多いんだよ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ここから北に出て　東の川ぞいを\n\t北へのぼった　山奥に……\n@c0@",
+      "@a@b＊「ゲント族とよばれる　人びとが\n\t住んでいる村が　あるんだ。\n@c0@",
+      "@a@b＊「そこの　いやしのチカラをもとめて\n\tここを　通っていく旅人が\n\t最近　多いんだよ。\n@c0@"
+    ],
+    "ds_fr_body": "Pour atteindre le village sacré de Paradisia, allez jusqu'à la rivière à l'est, puis suivez-la vers le nord jusque dans les montagnes. Vous trouverez Paradisia non loin de l'endroit où la rivière prend fin. Il y a de plus en plus de pèlerins en quête de guérison qui passent par ici depuis la défaite de Meurtor.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5330,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "大親分は　おからだの具合が[LINE]よく　ねえんだ。[WAIT][LINE]話しかけたり　するんじゃねえぞ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「大親分は　お身体の具合が\n\tよく　ねえんだ。\n@c0@",
+      "@a@b＊「話しかけたり　するんじゃねえぞ。\n@c0@"
+    ],
+    "ds_fr_body": "Le patron est pas très en forme. Il parle pas aux voyous dans votre genre.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 6515,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE DE]わしは　命名神マリナン様に[LINE]つかえる神官じゃ。[WAIT][LINE]おぬしたちの中で　今の名前を[LINE]かえたい者がおったら　わしに[LINE]いうがよい。[WAIT][LINE]だれか　名前をかえるか?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「わしは　命名神マリナン様に\n\t仕える　神官じゃ。\n@c0@",
+      "@a@b＊「おぬしたちの中で　今の名前を\n\t別のものに　変えたい者がおったら\n\tわしに　言うがよい。\n@c0@",
+      "@a@b＊「誰か　名前を変えるか？\n@c0@"
+    ],
+    "ds_fr_body": "Je suis au service d'Alias, le tout-puissant dieu des noms. Si quelqu'un dans votre équipe souhaite changer de nom, je l'écouteⓠ En quoi puis-je vous aider aujourd'huiⓡ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 1768,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ふふふ...　どうだい[LINE]わたしの　じまんの[LINE]メタルスライムは。[WAIT][LINE]足の早さじゃ[LINE]どのスライムにも[LINE]負けや　しないぞ。[WAIT][LINE]まあ　いつも　にげてばかりで[LINE]勝ったことは　いちども[LINE]ないがな。　はっはっは![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ふふふ……　どうだい\n\tわたしの　じまんの\n\tメタルスライムは。\n@c0@",
+      "@a@b＊「足の速さじゃ\n\tどんなスライムにも　負けやしないぞ。\n@c0@",
+      "@a@b＊「まあ　いつも　逃げてばかりで\n\t勝ったことは　１度も　ないがな。\n\tはっはっは！\n@c0@"
+    ],
+    "ds_fr_body": "Hé héⓠ Vous avez déjà vu un gluant de métal aussi rapideⓡ Il est ma plus grande fiertéⓠ Question vitesse, mon champion est imbattable. Rien ne peut l'arrêterⓠ Bon, d'accord, il a fui tous ses combats. Mais au moins, il reste invaincu, pas vraiⓡ Hé héⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 4751,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]レイドック王「おお　なるほど![LINE]それで　ふんい気が　変わったように[LINE]感じられるのじゃな。[WAIT][LINE][CODE D4]レイドック王「[CODE C9]よ!　そなたが[LINE]りっぱな　王子として　成長して[LINE]わしは　うれしいぞ![WAIT][LINE][CODE D4]レイドック王「おっ　そうじゃ[LINE]こうしては　おれん!　うたげの[LINE]じゅんびを　させなくては。[END STRING AC]",
+    "ds_jp": [
+      "@a@bレイドック王「おお　なるほど！\n\tそれで　雰囲気が　変わったように\n\t感じられるのじゃな。\n@c0@",
+      "@a@bレイドック王「%a000090よ！　そなたが\n\tりっぱな　王子として　成長してくれて\n\tわしは　うれしいぞ！\n@c0@",
+      "@a@bレイドック王「おおっ　そうじゃ\n\tこうしては　おれん！　うたげの\n\t準備を　させなくては。\n@c0@"
+    ],
+    "ds_fr_body": "Ah, je voisⓠ C'est ce qui a changé chez toi... Tu as grandiⓠ Je suis très fier de toi, %a000090. Tu feras un bon roi un jourⓠ Mais assez parlé. Nous ne voulons pas être en retard pour notre fêteⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3872,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ひとつき前まで　この町も[LINE]まものに　ねらわれて[LINE]たいへんだったのさ。[WAIT][LINE]だが　この町の勇者[CODE CF]が[LINE]まものを　たいじして[LINE]くれたんだ。[WAIT][LINE]いやあー。[LINE]あの　たたかいぶりは[LINE]みごと　だったぜ![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ひと月前までは　この町も\n\tまものに　ねらわれて\n\tたいへんだったのさ。\n@c0@",
+      "@a@b＊「だが　この町の勇者%a002050が\n\tまものを　退治してくれたんだ。\n@c0@",
+      "@a@b＊「いやあー。\n\tあの　戦いぶりは　みごとだったぜ！\n@c0@"
+    ],
+    "ds_fr_body": "Bon sang, j'avais jamais vu ça, je vous le disⓠ\nY'avait des hordes de monstresⓠ Comme vous le verrez, on n'accepte pas que les étrangers viennent troubler la paix de Monstriaⓠ Heureusement, %a002050, notre héros, les a arrêtésⓠ %0%a002050 est quelqu'un de bien, pour sûrⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3651,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "もう　ずいぶん　昔のことだが[LINE]この町に　男女の2人組の[LINE]とうぞくが　やってきてな。[WAIT][LINE]町の上にある洞くつに[LINE]宝をさがしにいったが[LINE]もどったときは　ひとりだった。[WAIT][LINE]いったい　なにが　あったのか......。[WAIT][LINE]ともかく　もどったほうの1人は[LINE]それから　この町に　ひっそりと[LINE]住みついてな。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「もう　ずいぶん　昔のことだが\n\tこの町に　男女のふたり組の\n\tとうぞくが　やってきてな。\n@c0@",
+      "@a@b＊「町の北にある洞くつに\n\t宝をさがしに　行ったが\n\tもどったときは　ひとりだった。\n@c0@",
+      "@a@b＊「いったい　なにが　あったのか……。\n@c0@",
+      "@a@b＊「ともかく　もどってきたほうの\n\tひとりは　その後　この町に\n\tひっそりと　住みついてな。\n@c0@"
+    ],
+    "ds_fr_body": "Quand j'étais gamin, j'ai entendu parler de deux brigands qui étaient venus ici à la recherche d'un trésor. Ils se sont aventurés dans la grotte au nord pour le trouver, mais ils n'en sont jamais revenus. Je n'ai aucune idée de ce qu'ils ont pu trouver dans cette grotte... Tout ce que je sais, c'est que la femme brigand qui en est revenue a abandonné ses filouteries et s'est installée à Desmodia.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 4877,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "これは聞いた話ですが...[WAIT][LINE]ある特別な人だけは　けんじゃや[LINE]バトルマスター　スーパースターから[LINE]勇者に　なれるみたいですよ。[WAIT][LINE]オレじゃ　無理かなあ......。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「これは聞いた話ですが……。\n@c0@",
+      "@a@b＊「ある特別なひとだけは　バトルマスター\n\tけんじゃ　スーパースターなどから\n\t勇者に　なれるみたいですよ。\n@c0@",
+      "@a@b＊「オレじゃ　無理かなあ……。\n@c0@"
+    ],
+    "ds_fr_body": "C'est juste une rumeur... Mais apparemment, certains peuvent devenir des ⓥhérosⓦ en maîtrisant les vocations gladiateur, sage, sommité ou ranger. Héros... Ça, c'est un boulot qui plaît aux filles.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 2854,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "あっ　[CODE C9]あんちゃん![LINE]すごいじゃん!　魔物のでかいのを[LINE]やっつけたんだって?[WAIT][LINE]おいら　見なおしちゃったよ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あっ　%a000090あんちゃん！\n\tすごいじゃん！　でっかいまものを\n\tやっつけたんだって？\n@c0@",
+      "@a@b＊「おいら　見なおしちゃったよ。\n@c0@"
+    ],
+    "ds_fr_body": "%0%a000090ⓠ Tu as vraiment battu ce gros monstreⓡ Bravoⓠ Je t'avais mal jugé, %a000090.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3925,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4][CODE CF]「しかし　今　わかりましたが[LINE]私が　怪物に変身していたのは[LINE]げんかくでは　なかったようですね。[WAIT][LINE][CODE D4][CODE CF]「とすれば　これまで　私は[LINE]町の人たちに　どれほどの[LINE]めいわくを　かけていたでしょう...。[WAIT][LINE][CODE D4][CODE CF]「しかし　さっきのクスリの[LINE]おかげで　たとえ怪物に変身しても[LINE]ちゃんと理性を　たもってられる。[WAIT][LINE][CODE D4][CODE CF]「そればかりか　自分で自由に[LINE]怪物に　変身できるように[LINE]なったみたいですよ![WAIT][LINE][CODE D4][CODE CF]「そうだ!　このチカラは[LINE]きっと　みなさんの　おやくに[LINE]たつはず![WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b%a002050「しかし　今　わかりましたが\n\t私が　怪物に変身していたのは\n\t幻覚では　なかったようですね。\n@c0@",
+      "@a@b%a002050「と　すれば　これまで　私は\n\t町のみなさんに　どれほどの\n\t迷惑を　かけていたことでしょう……。\n@c0@",
+      "@a@b%a002050「しかし　さっきのクスリの\n\tおかげで　たとえ怪物に変身しても\n\tちゃんと理性を　たもっていられる。\n@c0@",
+      "@a@b%a002050「そればかりか　自分の意志で\n\t自由に　怪物に　変身できるように\n\tなったみたいですよ！\n@c0@",
+      "@a@b%a002050「そうだ！　このチカラは\n\tきっと　みなさんの\n\tお役に　立つはず！！\n@c0@"
+    ],
+    "ds_fr_body": "Et moi qui pensais que mon esprit me jouait des tours et que j'imaginais me transformer en monstreⓠ J'ai dû faire vivre des choses horribles aux habitants de Monstria... Mais ces graines dégoûtantes m'ont ramené à la raison. Même en monstre, j'ai toute ma tête. Je sais que je suis %a002050. Et en plus... j'ai l'impression que je peux me transformer en monstre quand je veuxⓠ C'est génialⓠ Hé, je crois que ça pourrait vous être utileⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 1163,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]ランド「よう　[CODE C9][LINE]いよいよ　旅立ちだな。[WAIT][LINE][CODE D4]ランド「なーに　ターニアちゃんなら[LINE]オレが　めんどうを見るから[LINE]アニキは　心配しなくていいぜ。[WAIT][LINE][CODE D4]ランド「オレ　こう見えても[LINE]根は　けっこうマジメなんだ。[LINE]なかなか信じてもらえないけどさ。[WAIT][LINE][CODE D4]ランド「だから　アニキも　安心して[LINE]いってきてくれよ。[END STRING AC]",
+    "ds_jp": [
+      "@a@bランド「よう　%a000090\n\tいよいよ　旅立ちだな。\n@c0@",
+      "@a@bランド「なーに　ターニアちゃんなら\n\tオレが　めんどうを見るから\n\tアニキは　心配しなくていいぜ。\n@c0@",
+      "@a@bランド「オレ　こう見えても\n\t根は　けっこうマジメなんだ。\n\tなかなか信じてもらえないけどさ。\n@c0@"
+    ],
+    "ds_fr_body": "Hé, mon pote. Tu pars déjàⓡ T'en fais pas pour Mélodie, d'accordⓡ Je veillerai sur elle. Je sais que je donne parfois l'impression d'être un vaurien, mais au fond, je suis un gars plutôt sérieux. C'est juste que personne le sait...",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 4980,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]フォーン王「おお!　[CODE D3]![LINE]よく　来てくれたな。[WAIT][LINE][CODE D4]フォーン王「そなたの　おかげで[LINE]私は　イリカを　妻に[LINE]むかえることが　できる![WAIT][LINE][CODE D4]フォーン王「本来なら　盛大な[LINE]式をあげ　そなたたちも[LINE]招くところ　なのだが......[WAIT][LINE][CODE D4]フォーン王「まあ　それは[LINE]そのうちに......と　いうことで[LINE]置いておこう。[WAIT][LINE][CODE D4]フォーン王「ともかく　礼をいうぞ。[LINE]そして　これは　わが城に[LINE]古くから　あるものなのだが......。[WAIT][LINE][CODE D4]フォーン王「この水門のカギを[LINE]そなたたちに　たくそう![WAIT][LINE][CODE D4]フォーン王「このカギが　あれば[LINE]さらなる世界が　そなたたちの[LINE]前に　ひらけるだろう。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bフォーン王「おお！　%a000120！\n\tよく　来てくれたな。\n@c0@",
+      "@a@bフォーン王「そなたの　おかげで\n\t私は　イリカを　妻に\n\tむかえることが　できる！\n@c0@",
+      "@a@bフォーン王「本来なら　盛大な\n\t式を挙げ　そなたたちも\n\t招くところ　なのだが……\n@c0@",
+      "@a@bフォーン王「まあ　それは\n\tそのうちに……と　いうことで\n\t置いておこう。\n@c0@",
+      "@a@bフォーン王「ともかく　礼をいうぞ。\n\tそして　これは　わが城に\n\t古くから　あるものなのだが……。\n@c0@",
+      "@a@bフォーン王「この水門のカギを\n\tそなたたちに　たくそう！\n@c0@"
+    ],
+    "ds_fr_body": "Ohⓠ %0%a000120ⓠ Je suis content que vous soyez làⓠ Grâce à vous, je peux faire de ma chère Cristal ⓥMadame Louis de Jolirocheⓦⓠ Brillant, n'est-ce pasⓡ Comme l'anneau à son doigtⓠ Nous allons organiser une cérémonie digne de ce nom. Et bien sûr, je vous inviteⓠ Mais pourquoi se précipiterⓡ J'ai attendu ce moment toute ma vie. Je peux bien attendre encore un peu, n'est-ce pasⓡ Ha haⓠ Mais pour l'instant, laissez-moi vous récompenser. C'est un objet que notre famille détient depuis des générations. La clef de l'écluse est à vousⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5580,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ゼニス王によると　この城を[LINE]封じていた　デュランも　また[LINE]大魔王の配下に　すぎなかったと。[WAIT][LINE]大魔王　デスタムーアは[LINE]自分だけの　世界をつくり　そこに[LINE]すべての世界をのみこむつもりです。[WAIT][LINE]王の話によると　すでに[LINE]なん人もの人びとが　その世界に[LINE]のみこまれていったとか......。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ゼニス王によると　この城を\n\t封じていた　デュランも　また\n\t大魔王の配下に　すぎなかったと。\n@c0@",
+      "@a@b＊「大魔王　デスタムーアは\n\t自分だけの　世界をつくり　そこに\n\tすべての世界を　飲み込むつもりです。\n@c0@",
+      "@a@b＊「すでに　大勢の人びとが　その世界に\n\t飲み込まれていったとか……。\n@c0@"
+    ],
+    "ds_fr_body": "Dragore a plongé notre château dans l'oubli, mais selon le seigneur Zénith, ce n'était qu'un subalterne de Mortamor, le démon suprême. En vérité, Mortamor compte construire son propre monde, puis avaler tous ceux qui se trouvent à l'intérieur. On raconte que de nombreuses victimes ont déjà disparu dans son univers diabolique...",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5043,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]ホルテン「わが王家には[LINE]15さいになると　城の南にある[LINE]洗礼の洞くつに　おもむき......[WAIT][LINE][CODE D4]ホルテン「そこで　洗礼を[LINE]うけねばならぬ　という[LINE]しきたりが　あるのだ。[WAIT][LINE][CODE D4]ホルテン「じつは　すでに　なんどか[LINE]洞くつに　ゆかせたのだが......[WAIT][LINE][CODE D4]ホルテン「いずれも　ともをさせた[LINE]兵士たちの　ちからが　たりず[LINE]しっぱいに　おわっておる。[WAIT][LINE][CODE D4]ホルテン「そこで[LINE]きびしい旅の地を　こえてきた[LINE]そなたたちに　たのみたい![WAIT][LINE][CODE D4]ホルテン「洗礼の洞くつに　むかう[LINE]わが息子　ホルスの[LINE]おともを　してもらいたいのだ。[WAIT][LINE][CODE D4]ホルテン「どうだ?[LINE]やってくれるか?[END STRING AC]",
+    "ds_jp": [
+      "@a@bホルテン「わが王家には\n\t１５才になると　城の南にある\n\t洗礼の洞くつに　おもむき……\n@c0@",
+      "@a@bホルテン「そこで　洗礼を\n\t受けねばならぬ　という\n\tしきたりが　あるのだ。\n@c0@",
+      "@a@bホルテン「実は　すでに　何度か\n\t洞くつに　行かせたのだが……\n@c0@",
+      "@a@bホルテン「いずれも　供をさせた\n\t兵士たちの　チカラが　足りず\n\t失敗に　終わっておる。\n@c0@",
+      "@a@bホルテン「そこで\n\tきびしい旅の地を　こえてきた\n\tそなたたちに　たのみたい！\n@c0@",
+      "@a@bホルテン「洗礼の洞くつに　向かう\n\tわが息子　ホルスの\n\t供をしてもらいたいのだ。\n@c0@",
+      "@a@bホルテン「どうだ？\n\tやってくれるか？\n@c0@"
+    ],
+    "ds_fr_body": "La tradition veut qu'à ses quinze ans, le prince de Pierreforte se rende à la grotte Sacrée, au sud, pour y accomplir le rite royal de purification. J'ai moi-même accompli ce rite, tout comme mon père avant moi et son père avant lui. Enfin, vous avez compris. Je vais à présent baisser d'un ton de façon à ne pas chagriner la mère du garçon.\n㈡\nLe fait est que notre Pierrot est, je le crains, un froussard, une poule mouillée, bref, un lâche. Je l'ai envoyé à la grotte avec toute une escorte à plusieurs reprises, mais l'opération a invariablement échoué. Mais vous semblez avoir triomphé de nombreux combats. Je sens que je peux compter sur vous.\n㈡\nJ'aimerais vous demander de conduire mon Pierrot jusqu'à la grotte Sacrée et de veiller à ce qu'il accomplisse le rite de purification. Qu'est-ce que vous en ditesⓡ Vous acceptez de m'aiderⓡ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3333,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "そなたたち　あまり見ぬ顔だが[LINE]旅の者か?[WAIT][LINE]なんと!　レイドック王の[LINE]命令により　ラーのカガミを[LINE]さがして旅をしているだと!?[WAIT][LINE]バカなことをっ![LINE]レイドック王は　ずいぶん前から...。[WAIT][LINE]おっと　あぶない　あぶない。[LINE]これは　いわぬ　約束だったな。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「なんと！　レイドック王の\n\t命令により　ラーの鏡を\n\tさがして旅をしているだと！？\n@c0@",
+      "@a@b＊「バカなことをっ！\n\tレイドック王は　ずいぶん前から……。\n@c0@",
+      "@a@b＊「おっと　あぶない　あぶない。\n\tこれは　言わぬ　約束だったな。\n@c0@"
+    ],
+    "ds_fr_body": "Quoiⓡⓐ Vous recherchez le miroir de Râ sur ordre du roi de Somniaⓡⓐ Mais enfinⓡⓐ Ça fait des siècles que le roi... Oh, flûte, j'en ai trop dit. Allez, bon voyage, d'accordⓡ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5176,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ホルスのようすが　少しずつ[LINE]かわってきました。[WAIT][LINE]洗礼のぎしきが　あの子の[LINE]なにかを　かえたようですわ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ホルスのようすが　少しずつ\n\t変わってきました。\n@c0@",
+      "@a@b＊「洗礼の儀式が　あの子の\n\tなにかを　変えたようですわ。\n@c0@"
+    ],
+    "ds_fr_body": "Il était temps que les gens cessent de raconter des horreurs au sujet de mon petit Pierrot. Pierre le Pleutreⓠ Désormais, ce sera Pierre le Prodige, vous pouvez me croireⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5320,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "なんでも　先代の王のときに[LINE]けんじょう品がわりに　王に[LINE]くれちまったって　話だぜ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「なんでも　先代の王のときに\n\t献上品がわりに　王に\n\tくれちまったって　話だぜ。\n@c0@"
+    ],
+    "ds_fr_body": "Ouais, elle est partie. Il paraît qu'on l'a donnée au roi. En guise de cadeau.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3633,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "そうっ　やっぱり。[LINE]あなたたちの町でも[LINE]この川の水は　ゆうめいなのね![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「そうっ　やっぱり。\n\tあなたたちの町でも\n\tこの川の水は　有名なのね！\n@c0@"
+    ],
+    "ds_fr_body": "Évidemmentⓠ Méfiez-vous des imitationsⓠ La sève de desmodium est la seule véritable essenceⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 6542,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE DE][CODE D3]は　5000ゴールドを[LINE]さしだした。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b%a000120は　５０００ゴールドを\n手わたした。\n@c0@"
+    ],
+    "ds_fr_body": "%0%a000120 remet 5000 pièces d'or à Fortuné Friquet.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 2856,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "まさか　この美しい　あたしを[LINE]ねらって......なんて　じょうだんよ[LINE]じょうだん。[WAIT][LINE]でも　ターニアちゃんくらい[LINE]かわいい娘だったら　魔物でも[LINE]ホレちゃうかもね。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「まさか　この美しい　あたしを\n\tねらって……㈢㈢なんて\n\t冗談よ　冗談。\n@c0@",
+      "@a@b＊「でも　ターニアちゃんくらい\n\tかわいい娘だったら　まものでも\n\tホレちゃうかもね。\n@c0@"
+    ],
+    "ds_fr_body": "Peut-être qu'ils ont été attirés par mon charme... ㈢Hé... C'est possibleⓠ Pourtant, cette Mélodie... Elle est assez jolie pour faire fondre le cœur d'un monstre.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 1906,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D9]おや　あんたらも[LINE]はかまいりかい?[WAIT][LINE][CODE D9]あたい?　ああ　あたいは[LINE]サリイだけど　それが[LINE]どうかしたか?[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「おや　あんたらも\n\t墓参りかい？\n@c0@",
+      "@a@b＊「あたい？　ああ　あたいが\n\tサリイだけど　それが\n\tどうかしたか？\n@c0@",
+      "@a@bサリイ「…………。\n@c0@"
+    ],
+    "ds_fr_body": "Ohⓡ Vous êtes aussi là pour honorer la mémoire des mortsⓡ Qui je suisⓡ Je m'appelle Martel. Pourquoiⓡ ............",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 4457,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "あ　これは　[CODE C9]さまに[LINE][CODE CA]さま。[WAIT][LINE]私は　王さまの　身のまわりの[LINE]お世話をするよう　申しつけられた[LINE]メイドで　ございます。[WAIT][LINE]......なーんて　かっこつけても[LINE]すぐに　ボロが　出ちゃうのよね。[WAIT][LINE]だって　あたし　カジノで[LINE]王さまに　スカウトされた[LINE]おどり子だもの。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あ　これは　みなさま。\n@c0@",
+      "@a@b＊「私は　王さまの　身のまわりの\n\tお世話をするよう　申しつけられた\n\tメイドで　ございます。\n@c0@",
+      "@a@b＊「……なーんて　かっこつけても\n\tすぐに　ボロが　出ちゃうのよね。\n@c0@",
+      "@a@b＊「だって　あたし　カジノで\n\t王さまに　スカウトされた\n\tおどり娘だもの。\n@c0@"
+    ],
+    "ds_fr_body": "Ohⓠ Bonjour à vousⓠ Je suis la secrétaire et la servante personnelle du roi Somnus. Tout ce qui le concerne ME concerne, moi aussi. Je dois avouer que j'ai pas l'habitude de faire autant de chichis et de manières. En fait, le roi m'a embauchée sur un coup de tête, au casino. C'est toujours mieux que de repousser des ivrognes aux mains baladeuses.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5468,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]ブラスト「おう　おまえたちか。[LINE]はっはっは　まいったよ[WAIT][LINE][CODE D4]ブラスト「こんな　短い間に[LINE]2回も　3回も　負けちまうとはな。[END STRING AC]",
+    "ds_jp": [
+      "@a@bブラスト「おう　おまえたちか。\n\tはっはっは　まいったよ。\n@c0@",
+      "@a@bブラスト「こんな　短い間に\n\tこう　何度も　負けちまうとはな。\n@c0@"
+    ],
+    "ds_fr_body": "Hé, mais regardez qui c'estⓠ Écoutez, j'abandonne, d'accordⓡ J'ai été battu deux fois dans un court laps de temps. Je crois que je ne supporterai pas une autre défaite.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 1590,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "こりゃあ　わしの　ヒイじいの話で[LINE]わしが　見たわけじゃないがな......。[WAIT][LINE]ここから東の　大きな川をこえて[LINE]さらに東にいった　山奥に[LINE]とても大きな神殿が　あったそうだ。[WAIT][LINE]あれが　ウワサに聞く[LINE]ダーマの神殿じゃないかと[LINE]ヒイじいは　いうとったな。[WAIT][LINE]それと　もう　ひとつ![WAIT][LINE]森のなかの　砂地のところに[LINE]川をこえられる　ぬけ道があると[LINE]いうとった。[WAIT][LINE]しらべれば　すぐに見つかるとな。[LINE]どうだ　わしの話は[LINE]ために　なるだろう。わっはっはっ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「こりゃあ　わしの　ヒイじいの話で\n\tわしが　見たわけじゃないがな……。\n@c0@",
+      "@a@b＊「ここから東の　大きな川をこえて\n\tさらに東にいった　山奥に\n\tとても大きな神殿が　あったそうだ。\n@c0@",
+      "@a@b＊「あれが　ウワサに聞く\n\tダーマの神殿じゃないかと\n\tヒイじいは　いうとったな。\n@c0@",
+      "@a@b＊「それと　もう　ひとつ！\n\t東の大きな川をわたる方法だが……\n@c0@",
+      "@a@b＊「ここから東に行った　川岸の\n\t木にかこまれた場所に　川の底をわたる\n\tぬけ道があると　言うとった。\n@c0@",
+      "@a@b＊「しらべれば　すぐに見つかるとな。\n\tどうだ　わしの話は\n\tために　なるだろう。　わっはっはっ。\n@c0@"
+    ],
+    "ds_fr_body": "Je n'ai jamais vu cet endroit, mais mon grand-père y est allé à l'époque. Il m'a parlé d'un grand temple dans les collines à l'est d'ici, de l'autre côté de la grande rivière. Il m'a décrit l'endroit très précisément. Je suis sûr que c'était l'abbaye des Vocationsⓠ Je vais même vous dire comment traverser la rivière. C'est un petit bonus, heinⓠ Partez vers l'est et cherchez une clairière parmi les arbres. Vous y trouverez un tunnel qui mène sous la rivière pas loin. Il faudra peut-être un peu le chercher, mais il est bien là. Je parie que vous regrettez pas de m'avoir trouvé, heinⓡ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5113,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ホルス兄ちゃんは[LINE]このタルの中に　かくれて[LINE]いたんだってね。[WAIT][LINE]この中に　はいるには[LINE]身体の小さい　ボクでも[LINE]すごく　苦労するのに。[WAIT][LINE]ホルス兄ちゃんって[LINE]とっても　身体が[LINE]やわらかなんだね。すごいや![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ホルス兄ちゃんは\n\tこのタルの中に　かくれて\n\tいたんだってね。\n@c0@",
+      "@a@b＊「この中に　入るには\n\tカラダの小さい　ボクでも\n\tすごく　たいへんなのに……。\n@c0@",
+      "@a@b＊「ホルス兄ちゃんって　とっても\n\tカラダが　やわらかなんだね。\n\tすごいや！\n@c0@"
+    ],
+    "ds_fr_body": "Le prince Pierre est mon prince préféré au mondeⓠ Y'a pas meilleur que lui pour jouer à cache-cacheⓠ Vous vous rendez compte, il a réussi à se cacher dans un de ces tonneauxⓡ C'est le meilleurⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 2673,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ランドが　せっかく　ガイドの仕事を[LINE]はじめたのに　もう　気軽に　外を[LINE]旅する人も　いなくなっちゃったよ。[WAIT][LINE]なにせ　まものの数は　へらないし[LINE]皆　不安なのさ。[WAIT][LINE]まったく　どうなってるんだろうな。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ランドが　せっかく　ガイドの仕事を\n\tはじめたのに　もう　気軽に　外を\n\t旅するひとも　いなくなっちゃったよ。\n@c0@",
+      "@a@b＊「なにせ　まものの数は　へるどころか\n\tどんどん　増えてきてるからね……\n\tみんな　不安なのさ。\n@c0@",
+      "@a@b＊「まったく　どうなってるんだろうな。\n@c0@"
+    ],
+    "ds_fr_body": "Sylvain a eu une bonne idée de lancer son affaire de guide touristique, mais les gens n'ont pas le courage de voyager ces temps-ci. On peut pas leur en vouloir. Les monstres sont toujours aussi nombreux. Bon sang, je suis même sûr qu'ils sont encore plus nombreuxⓠ Seule la Déesse sait comment tout ça va finir...",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3880,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ゆうべから　このやどに[LINE]とまって　いるのですが[LINE]どうも　つかれがとれません。[WAIT][LINE]よなかに　何か　ものすごい[LINE]じしんが　あったような......。[WAIT][LINE]はて。[LINE]あれは　やはり[LINE]ゆめ　だったのでしょうか?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ゆうべから　この宿に\n\t泊まっているのですが\n\tどうも　つかれがとれません。\n@c0@",
+      "@a@b＊「夜中に　何か　ものすごい\n\t地震が　あったような……。\n@c0@",
+      "@a@b＊「はて。\n\tあれは　やはり\n\t夢だったのでしょうか？\n@c0@"
+    ],
+    "ds_fr_body": "J'ai passé la nuit dans cette humble auberge, mais je me sens aussi fatigué qu'à mon arrivée. J'ai entendu des bruits terribles cette nuitⓠ On aurait dit que la terre tremblaitⓠ Ça fait cher la nuit blanche, vous pouvez me croireⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 5040,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "よくぞ　来た　旅の者たちよ。[LINE]わしが　この城の王　ホルテンだ。[WAIT][LINE][CODE D4]ホルテン「して　わが城に　なにか用か?[LINE]もし　とくに用がないというなら[LINE]わが　ねがいを　聞いてもらえぬか?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「よくぞ来た　旅の者たちよ。\n\tわしが　この国の王　ホルテンだ。\n@c0@",
+      "@a@bホルテン「して　わが城に　何か用か？\n\tもし　これといった用が　ないのなら\n\tわが願いを　聞いてもらえぬか？\n@c0@"
+    ],
+    "ds_fr_body": "Que pensez-vous de mon beau royaumeⓡ Pas mal, heinⓡ Le roi Pierrick est dans la placeⓠ Ma foi, on dirait que vous n'êtes pas du genre à avoir froid aux yeuxⓠ Qu'en dites-vousⓡ Vous m'aideriez à résoudre un petit problèmeⓡ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3046,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "へい　らっしゃい![LINE]もう　バザーも　おわって[LINE]店じまいセールだよ![WAIT][LINE]当店じまんの　世界地図が[LINE]なんと　10ゴールド![LINE]お客さん　買うよね?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「へい　らっしゃい！\n\tもう　バザーも　終わって\n\t店じまいセールだよ！\n@c0@",
+      "@a@b＊「当店じまんの　とうぞくのカギが\n\tなんと　１０ゴールド！\n\tお客さん　買うよね？\n@c0@"
+    ],
+    "ds_fr_body": "Bienvenue, bienvenue, bienvenueⓠ J'organise des soldesⓠ Tout doit disparaîtreⓠ Je vends la célèbre clef de voleur au prix incroyable de 10 pièces d'or. Ça vous tenteⓡ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3772,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4][CODE CE]「はい。おじいさまの[LINE]いうことに　まちがいは[LINE]ありませんでした。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b%a002030「はい。　おじいさまの\n\tおっしゃることに　まちがいは\n\tありませんでした。\n@c0@"
+    ],
+    "ds_fr_body": "J'ai souvent l'impression que je ferais bien de donner des leçons aux professeurs...",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3711,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D4]ジーナ「まあ　まあっ　あんたたち[LINE]聞いたわよ　すごいじゃないか[LINE]しっぷうのジーナ　かおまけだよ![WAIT][LINE][CODE D4]ジーナ「ラーのカガミが　思いのほか[LINE]やくに　たったみたいで[LINE]ほんとうに　よかったよ。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bジーナ「まあ　まあっ　あんたたち\n\t聞いたわよ　すごいじゃないか！\n\tしっぷうのジーナ　顔負けだよ！\n@c0@",
+      "@a@bジーナ「ラーの鏡（かがみ）が\n\t思いのほか　役に立ったみたいで\n\t本当に　よかったよ。\n@c0@"
+    ],
+    "ds_fr_body": "J'ai eиteиdu diяe que vous avez fait uиe belle victoiяeⓠ J'ai l'impяessioи d'êtяe jeuиe eиcoяeⓠ Je suis coиteиte que miяoiя de Râ a bieи seяvi.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 2300,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "[CODE D9]あっ!　まだ　あたしの名前を[LINE]いってなかったね。[LINE][CODE CC]っていうの。でも......[WAIT][LINE][CODE D4][CODE D9][CODE CC]「おぼえてるのは　それだけ。[LINE]どうして　こんなことになったか[LINE]なんにも　思いだせなくて...。[WAIT][LINE][CODE D4][CODE D9][CODE CC]「ホント　さみしかったよ。[WAIT][LINE][CODE D4][CODE D9][CODE CC]「あ　ごめん。[LINE]じゃまを　しちゃったね。[LINE]さあ　しゅっぱーつ![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あっ！　まだ　あたしの名前を\n\t言ってなかったね。\n\t%a002020っていうの。　でも……\n@c0@",
+      "@a@b%a002020「おぼえているのは　それだけ。\n\tどうして　こんなことになったのか\n\tなんにも　思いだせなくて……。\n@c0@",
+      "@a@b%a002020「ホント　さみしかったよ。\n@c0@"
+    ],
+    "ds_fr_body": "Oh, j'oublie mes bonnes manièresⓠ Je ne me suis pas présentée. Je m'appelle %a002020... J'adorerais en dire plus, mais je ne me souviens que de mon prénom. Je suis une amnésique invisible, c'est dingue, nonⓡ Ahhⓠ J'avais tellement de questions et personne à qui les poserⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 3973,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "どこかの国じゃ　世界が[LINE]平和になったなんて話もあったが[LINE]ありゃ　うそだね。[WAIT][LINE]見てみなよ　この村を。[WAIT][LINE]海の魔物のせいで　漁が　できず[LINE]ひさんなもんだよ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「どこかの国じゃ　世界が\n\t平和になったなんて話もあったが\n\tありゃ　ウソだね。\n@c0@",
+      "@a@b＊「見てみなよ　この村を。\n@c0@",
+      "@a@b＊「海が荒れて　漁ができず\n\tひさんなもんだよ。\n@c0@"
+    ],
+    "ds_fr_body": "Là où j'étais dernièrement, tout le monde parlait de la paix qui était revenue dans le monde. Quelle blagueⓠ Il suffit de regarder autour de soiⓠ La mer est tellement agitée, que personne ne va pêcher. C'est une tragédieⓠ",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  },
+  {
+    "id": 1095,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "ん?　はるか北のほうに[LINE]城のようなものが　見えます。[WAIT][LINE]もしかして　あそこに[LINE]デスタムーアが......!　ひい...。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ん？　はるか北のほうに\n\t巨大な岩山が　見えます。\n@c0@",
+      "@a@b＊「もしかして　あそこに\n\tデスタムーアが……！　ひい……。\n@c0@"
+    ],
+    "ds_fr_body": "Mmmⓡ Regardez çaⓠ Il y a une grande montagne au nord. Est-ce qu'il pourrait s'agir du repaire de Mortamorⓡ Brrr. Je frissonne rien que d'y penser.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  }
+]

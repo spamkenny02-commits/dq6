@@ -1,0 +1,122 @@
+{
+  "kind": "readable_translation_delta",
+  "version": "v0.28",
+  "baseline": "v0.27",
+  "baseline_count": 5402,
+  "new_count": 150,
+  "recipe": "dq6-fr/pass28.py",
+  "merged_selection_sha256": "2e284a003b276b3cc740d5e7352792d305a70995d7435d0ad53903841f0114d3",
+  "generated_inputs": {
+    "correspondances-revues.json": "5f7b6573944d600da3a89096cf8dab31ceb78b02e2868c19e4ba198065de7a44",
+    "adaptations-francaises.json": "ef11909bafe16f0271467d87bd586b900e6b0ba46f722663f7c9122576dd17da",
+    "liaisons-variables-natives.json": "dc21472882f38d38310eb55169c64964afa1246f5ec27c1c7c2420620071a006",
+    "charset.json": "f84c9183341fab8591f23ee608b0bdf6b9191a09ceeecf04a95afca114027c55"
+  },
+  "files": [
+    {
+      "path": "dq6-fr/pass28.py",
+      "sha256": "3882b27c2cdc93c801a62d4af2bcf3f1c6c700023e9ad0e6a7532b7f3ca0f16e",
+      "bytes": 2903
+    },
+    {
+      "path": "patches/DQVI-FR-DS-v0.28-BASE-JP-PARTIEL.bps",
+      "sha256": "d145e146a068685d931563306f77c317a8e189792c2e5db262defaf960f5e7c5",
+      "bytes": 677295
+    },
+    {
+      "path": "dq6-fr/v0.28/init.py",
+      "sha256": "1320a9dcaa9ee9376afeadb66f8169cbc019a94e69e9331ad15ee69097e3d43e",
+      "bytes": 1385
+    },
+    {
+      "path": "dq6-fr/v0.28/prepare.py",
+      "sha256": "45ef73ebee216f2b7f781ce1c71562f961e30703843f6d520819bbf404ff15cd",
+      "bytes": 16347
+    },
+    {
+      "path": "dq6-fr/v0.28/build.py",
+      "sha256": "01feaafc7d8b267d248e563a3e6d518a72f2572a13163496781a3dd4ab0ca143",
+      "bytes": 8690
+    },
+    {
+      "path": "dq6-fr/v0.28/verify.py",
+      "sha256": "b410b1a0d6f2d3c465694cf752caf7d964ce01039fc7e52bcf7111edff44cdfd",
+      "bytes": 5590
+    },
+    {
+      "path": "dq6-fr/v0.28/names.py",
+      "sha256": "f0dd949c5d28b235b031d7f4b32fc71f01bed9557b8f14e658df7cecddbe985f",
+      "bytes": 3452
+    },
+    {
+      "path": "dq6-fr/v0.28/test_render.py",
+      "sha256": "cebff689287126f65eeba5c02c9a2947b51530ba10a424a8a79f008874d53972",
+      "bytes": 1964
+    },
+    {
+      "path": "dq6-fr/v0.28/LISEZ-MOI.md",
+      "sha256": "171076e603639d087258759dc2e2d58615f7fa73634aa0decbdc898f73f518d7",
+      "bytes": 2475
+    },
+    {
+      "path": "dq6-fr/v0.28/revue-lot-v028.json",
+      "sha256": "14c8f1dd4c3f6e066d0dbf06e999bdb7f34a14944c682b7cca0fdc42fa6f13aa",
+      "bytes": 214832
+    },
+    {
+      "path": "dq6-fr/v0.28/audit-candidats-differes.json",
+      "sha256": "93a94ad376a63366c7ee156d04b1466d99e9ba13ad9d6ca54d1fd4dd65fb41f6",
+      "bytes": 88887
+    },
+    {
+      "path": "dq6-fr/v0.28/revues-preparatoires-remplacees.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "path": "dq6-fr/v0.28/nouveaux-messages.json",
+      "sha256": "e479f9bcbb49f7005a0e6edc0295490fe99af27431556c24c2a860453e9393e5",
+      "bytes": 567643
+    },
+    {
+      "path": "dq6-fr/v0.28/etat-projet.json",
+      "sha256": "f73e8a230f309abc755faf5852c9a7acabb9d2ef1ef1ca34086a1b4f60edca7b",
+      "bytes": 1121
+    },
+    {
+      "path": "dq6-fr/v0.28/couverture-preparation.json",
+      "sha256": "8cd4de612fe726ee73924647ce7fda821cd0a57c7dcc4ba01c38d372a6ffaf53",
+      "bytes": 184
+    },
+    {
+      "path": "dq6-fr/v0.28/validation.json",
+      "sha256": "15982fc26758c486411c35fd00f31fec7a77c32c2a90f975c3f0b3cda1c39643",
+      "bytes": 1032
+    },
+    {
+      "path": "dq6-fr/v0.28/qa-patchs-regression.json",
+      "sha256": "54dac01a25b8253d32e2292cfe592b77767295596b9c875ce03bcfb2f8c51c62",
+      "bytes": 1011
+    },
+    {
+      "path": "dq6-fr/v0.28/qa-revue-lot.json",
+      "sha256": "d89df257e2d82253193e236ad251fc77aedc489e7ffdabfe0dc36c5d8fb0d27c",
+      "bytes": 1002
+    },
+    {
+      "path": "dq6-fr/v0.28/qa-bus.json",
+      "sha256": "32742a41245b775d8efdf86ef2dc0ed308283341c36e15f50916174fd9bf51cb",
+      "bytes": 112
+    },
+    {
+      "path": "dq6-fr/v0.28/qa-render-fixtures.json",
+      "sha256": "5b14d219aaafa325594b1b20a3cbf34f41670e2006658e223663ed8d55ab75da",
+      "bytes": 24934
+    },
+    {
+      "path": "dq6-fr/v0.28/qa-emulation-v028.json",
+      "sha256": "ebc565b6aab64fd06f239647f721524c122357d18c3ff2577183374c17c495a8",
+      "bytes": 1180
+    }
+  ]
+}

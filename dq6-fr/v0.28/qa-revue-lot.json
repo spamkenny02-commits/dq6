@@ -1,0 +1,18 @@
+{
+  "new_reviewed_ids": 150,
+  "exact_reviewed_and_inserted_sets_match": true,
+  "prepared_not_inserted": 0,
+  "deferred_discovery_candidates": 65,
+  "explicit_adaptations": 19,
+  "recipe_idempotent": true,
+  "source_sfc_japanese_checked": true,
+  "ds_japanese_and_french_read": true,
+  "secondary_ips": "Consulté ; de nombreuses entrées sont décalées, lacunaires ou erronées. Elles ne remplacent pas le contrôle japonais et DS.",
+  "scope": "Seuls les 150 IDs du lot relu sont autorisés à entrer ; une nouvelle correspondance automatique hors lot reste différée.",
+  "inputs_sha256": {
+    "correspondances-revues.json": "5f7b6573944d600da3a89096cf8dab31ceb78b02e2868c19e4ba198065de7a44",
+    "adaptations-francaises.json": "ef11909bafe16f0271467d87bd586b900e6b0ba46f722663f7c9122576dd17da",
+    "liaisons-variables-natives.json": "dc21472882f38d38310eb55169c64964afa1246f5ec27c1c7c2420620071a006",
+    "charset.json": "f84c9183341fab8591f23ee608b0bdf6b9191a09ceeecf04a95afca114027c55"
+  }
+}

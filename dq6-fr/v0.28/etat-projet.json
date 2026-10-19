@@ -1,0 +1,17 @@
+{
+  "release": "v0.28",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5552,
+    "visible_total": 6957,
+    "new_this_pass": 150,
+    "remaining": 1405
+  },
+  "prepared_not_inserted": 0,
+  "deferred_discovery_candidates": 65,
+  "separate_tables": "Noms, menus, objets, sorts, combat : audit et traduction encore nécessaires, hors compte du script principal.",
+  "baseline": "v0.27",
+  "rom_bytes": 8388608,
+  "notes": "150 textes relus et intégrés ; 19 adaptations explicites aux faits SFC. 5402 anciennes sélections inchangées, BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 456996 octets contrôlés sur le bus. Snes9x : Journal au démarrage à froid et 72 pages de onze messages relues par redirections au camp, avec noms C9/D3/D0/CC. Aucun parcours naturel complet ni validation des 150 scènes en jeu. Audits 322/323 et blocage 1836 ouverts.",
+  "next": "Poursuivre depuis la dernière version Git ; relire les candidats différés et les 1405 messages restants, puis les tables séparées. Les anciens IPS ont de nombreux décalages et ne sont pas une validation sémantique."
+}

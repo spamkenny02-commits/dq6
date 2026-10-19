@@ -1,6 +1,12 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.27, 5402/6957 messages du script principal ; 1555 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.28, 5552/6957 messages du script principal ; 1405 restants, plus les tables séparées menus, noms, objets, sorts et combat. ROM cible : 8 Mio ; examiner 4 Mio après finalisation.
+
+## Lot v0.28 : 150 ajouts
+
+150 textes relus et intégrés, 0 préparé non inséré ; 65 autres propositions examinées restent DIFFERE_NON_INSERE. 19 adaptations détaillées dans revue-lot-v028.json, notamment la réalité du récit de Méphisto et la régénération en combat plutôt qu’en marchant. Aucune ancienne sélection intégrée modifiée. Recette idempotente dq6-fr/pass28.py, delta sources/lots/v0.28.json ; seules les 150 nouvelles identités relues peuvent être intégrées. Les ouvertures mixtes de Tulipe (3256) et l’alias カルベ/カルベ夫人 (6804, déjà établi dans cette branche) sont contrôlés explicitement.
+
+Contrôles : 5402 anciens messages inchangés, octets hors zones autorisées conservés, BPS/IPS réappliqués, 6960 entrées redécodées, mauvaises sources rejetées. Snes9x : 870 groupes, 456996 octets sur le bus, Journal au démarrage à froid, 72 pages de onze textes relues avec noms variables. Redirections de diagnostic au camp, aucun parcours naturel des 150 scènes. Audits 322/323 et 1836 ouverts. Lire l’audit des 65 candidats différés ; ne pas intégrer automatiquement leurs propositions. L’ancien IPS présente beaucoup de textes décalés ou lacunaires. Les 1405 restants sont ici marqués hors_lot_revu ; reprendre aussi les motifs détaillés de v0.27 pour les commandes bloquées.
 
 ## Lot v0.27 : 150 ajouts
 
