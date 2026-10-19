@@ -1,15 +1,15 @@
 {
-  "release": "v0.21",
+  "release": "v0.22",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 5078,
+    "validated": 5098,
     "visible_total": 6957,
     "new_this_pass": 20,
-    "remaining": 1879
+    "remaining": 1859
   },
   "separate_tables": "Noms, menus, objets, sorts, combat : audit et traduction encore nécessaires, hors compte du script principal.",
-  "baseline": "v0.20",
+  "baseline": "v0.21",
   "rom_bytes": 8388608,
-  "notes": "20 dialogues supplémentaires relus : fin de la quête de l’insigne du courage et Calcado/Aridéa avant et après l’île des Sourires. 5078/6957 messages du script principal ; 1879 restants, plus les tables séparées. Les 5058 sélections précédentes restent identiques. Deux variantes de genre DS neutralisées et une double apostrophe corrigée. BPS/IPS relus, 6960 entrées redécodées, 870 groupes contrôlés sur le bus. 31 pages de rendu ciblé sur six messages, sans parcours naturel complet.",
+  "notes": "20 dialogues supplémentaires relus à Aridéa/Sorcéria, soit 5098/6957 messages intégrés du script principal ; 1859 restants, plus les tables séparées. Les 5078 anciennes sélections restent identiques. Accueil DS neutralisé et identité de Madame Soren alignée sur la réplique voisine 374. BPS/IPS relus, 6960 entrées redécodées, 870 groupes contrôlés sur le bus et 28 pages sur six messages relues. Audit ouvert : la localisation DS a réordonné les informations sur le tapis ; insertion 322 différée et ancien message 323 à revoir ensemble, sans modifier les anciens tokens ici. Le compte intégré ne vaut pas validation sémantique complète de toutes les anciennes sélections. Aucun parcours naturel complet déclaré.",
   "next": "Poursuivre sans attendre une relance ; sauvegarder le prochain passage."
 }

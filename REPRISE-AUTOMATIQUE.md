@@ -1,6 +1,6 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.21, 5078/6957 messages du script principal ; 1879 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.22, 5098/6957 messages du script principal ; 1859 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
 
 Après un clone, lancer `python restore_sources.py`. Ce script vérifie les empreintes des morceaux sous sources/ et patches/, restaure les sources complètes de la v0.19 et les IPS. Les fichiers déjà modifiés sont conservés. Le BPS utilisable directement est sous patches/. Le fractionnement des archives sert uniquement au transfert ; le script les reconstitue automatiquement.
 
@@ -29,3 +29,11 @@ Après restauration, les sélections de v0.20 sont présentes sans exécuter un 
 `restore_sources.py` restaure dans l’ordre v0.19, v0.20 puis v0.21 : les deltas sont des JSON lisibles avec empreintes, sans archive opaque ajoutée. Le script idempotent `dq6-fr/pass21.py` reconstruit les entrées du lot. Les sélections intégrées sont reconstituées sans ROM en fusionnant les 20 nouvelles avec les 5058 précédentes. Reconstruction locale complète : `init.py`, `prepare.py`, `build.py`, `verify.py` sous `dq6-fr/v0.21/`. Le BPS est dans `patches/` ; l’IPS est régénéré par build.py.
 
 Rapports : 6960 entrées redécodées, BPS/IPS réappliqués, 870 groupes et 417222 octets contrôlés sur le bus, 31 pages sur six répliques en banc de camp (220,246,248,251,255,282). Les captures et états restent locaux ; le protocole et leurs empreintes sont suivis. Aucun parcours complet ni scène naturelle complète déclaré. Conserver le blocage 1836 comme différé. Ne pas gonfler le compte principal avec les tables séparées.
+
+## Lot v0.22 du 19 octobre 2026
+
+20 ajouts relus à Aridéa/Sorcéria, 5098 messages intégrés, 1859 restants. Les 5078 anciennes sélections sont inchangées. Accueil DS neutralisé et Madame Soren identifiée comme dans la réplique 374 précédente. ROM résultat SHA256 `b37fb9066bd91c194ba903549d592c29977991abcb08376d7582bde96b471c06`. Reconstruction : `init.py`, `prepare.py`, `build.py`, `verify.py` sous `dq6-fr/v0.22/`. Ne pas réexécuter verify.py d’une ancienne version dans le checkout source : ses rapports historiques peuvent différer si l’ancienne ROM de comparaison manque ; utiliser un dossier de reproduction distinct pour ces anciens essais.
+
+Le restaurateur applique les deltas lisibles jusqu’à v0.22 sans ROM. `pass22.py` est idempotent et limité aux entrées du lot. Il enregistre aussi un audit de la branche du tapis : FR DS 584–588 réordonne fabrication, vol et propriétaire par rapport au japonais. Le message 322 est différé ; la traduction ancienne de 323 doit être révisée avec cette branche. Ne pas compter ce constat comme un ajout et ne pas déclarer la validation sémantique complète des anciennes sélections. L’audit `audit-tapis-reordonne.json` garde les deux langues et l’ancien texte ; les anciens tokens restent conservés ici conformément à la consigne. Conserver aussi le blocage 1836.
+
+Contrôles v0.22 : BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 418571 octets sur le bus ; 28 pages de rendu ciblé sur six messages (298,313,318,361,373,376). Aucun parcours naturel complet ni validation globale des tables séparées. Le BPS est publié directement ; l’IPS est régénéré par build.py. Les sources, adaptations et rapports sont publiés, les ROM et états restent locaux.

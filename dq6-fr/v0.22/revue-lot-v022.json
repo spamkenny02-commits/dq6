@@ -1,0 +1,459 @@
+[
+  {
+    "id": 283,
+    "file": "0034.p",
+    "ids": [
+      499,
+      500,
+      501,
+      502
+    ],
+    "sfc_jp": "ここは　カルカドの町だよ。[LINE]おやっ　あんたたちはっ![WAIT][LINE]あんたたちの　おかげで[LINE]みんなが　もどってきたけど[LINE]町は　あいかわらず　このとおり。[WAIT][LINE]いっしょうけんめい　世話しても[LINE]ふしぎなことに　草木が　ちっとも[LINE]育たなくてね......。[WAIT][LINE]なんか　悪いちからが[LINE]はたらいて　いるんじゃないかって[LINE]みんな　不安がっているんだよ。[END STRING AC]",
+    "sfc_vf_secondaire": "C'est la ville de Calcado.[LINE]Oh, c'est toi![WAIT][LINE]Maintenant que tout le monde est revenu, la ville est comme avant.[WAIT][LINE]Malheureusement, mes plantes ne grandiront pas, peu importe comment je m'en occupe.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ここは　カルカドの町だよ。\n\tおやっ　あんたたちはっ！\n@c0@",
+      "@a@b＊「あんたたちの　おかげで\n\tみんなが　もどってきたけど\n\t町は　あいかわらず　このとおり。\n@c0@",
+      "@a@b＊「いっしょうけんめい　世話しても\n\t不思議なことに　草木が　ちっとも\n\t育たなくてね……。\n@c0@",
+      "@a@b＊「なんか　悪いチカラが\n\tはたらいて　いるんじゃないかって\n\tみんな　不安がっているんだよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Bienvenue à Aridéa... Oh, regardez qui voilàⓠ\n@c0@",
+      "@a@b*ⓢ Tout le monde est revenu, grâce à vous. Mais Aridéa reste toujours le même désert...\n@c0@",
+      "@a@b*ⓢ On plante des graines. On les arrose. On leur parle, mêmeⓠ Mais rien ne pousse... C'est étrange...\n@c0@",
+      "@a@b*ⓢ Les gens ont peur qu'une puissance maléfique empêche de faire quoi que ce soit. C'est pas justeⓠ\n@c0@"
+    ],
+    "review": "Aridea apres liberation : habitants revenus mais vegetation toujours sterile ; les quatre segments DS reprennent retour, desert, echec des plantations et crainte du mal. Meme ordre, pas de conclusion de guerison ajoutee.",
+    "status": "RELU"
+  },
+  {
+    "id": 296,
+    "file": "0034.p",
+    "ids": [
+      554,
+      555,
+      556,
+      557,
+      558
+    ],
+    "sfc_jp": "[CODE D4]マハメド「ふーむ...　気に　なる...。[LINE]おっ　あんたたちかっ。[LINE]いや　あの時のことなんだが...[WAIT][LINE][CODE D4]マハメド「しあわせの国のボス[LINE]ジャミラスとか　いったな...[LINE]あいつが　死んでゆくとき...[WAIT][LINE][CODE D4]マハメド「だれかの名をよんだような[LINE]そんな気が　するんだ。[WAIT][LINE][CODE D4]マハメド「もし　聞きちがいで[LINE]なかったら　たしか[LINE]なんとかムーアさまと......。[WAIT][LINE][CODE D4]マハメド「いったい　だれなんだ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Mahamed.Hmmm… Ce me tracasse…[WAIT][LINE][CODE D4]Mahamed.Oh, les gars! Pour ce qui est arrivé…[WAIT][LINE][CODE D4]Mahamed.Ce qu'a dit Jamiras… en mourrant…[WAIT][LINE][CODE D4]Mahamed.On aurait dit un nom… Moore, je crois…[WAIT][LINE][CODE D4]Mahamen.De qui parlait-il donc?[END STRING AC]",
+    "ds_jp": [
+      "@a@bマハメド「ふーむ　気になる……。\n\tおっ　あんたたちかっ。\n\tいや　あの時のことなんだが……\n@c0@",
+      "@a@bマハメド「しあわせの国の主\n\tたしか　ジャミラスとか　いったな……\n\tあいつが　死んでゆくとき……\n@c0@",
+      "@a@bマハメド「だれかの名を呼んだような\n\tそんな気が　するんだ。\n@c0@",
+      "@a@bマハメド「もし　聞きちがいで\n\tなかったら　たしか\n\tなんとかムーアさまと……。\n@c0@",
+      "@a@bマハメド「いったい　だれなんだ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aSeb Tique@bOh, c'est vousⓠ Je pensais justement à l'île qu'on appelle l'île des Sourires.\n@c0@",
+      "@aSeb Tique@bVous vous souvenez du chef de cette îleⓡ Jamirus, c'est çaⓡ\n@c0@",
+      "@aSeb Tique@bQuand il est mort, je suis sûr qu'il a murmuré le nom de quelqu'un...\n@c0@",
+      "@aSeb Tique@bOn aurait dit ⓥMeurⓦ-quelque chose. Ou quelque chose-ⓥmeurⓦⓡ Je ne suis pas sûr.\n@c0@",
+      "@aSeb Tique@bÇa vous dit quelque choseⓡ Je me demande de qui il parlait...\n@c0@"
+    ],
+    "review": "Seb Tique apres Jamirus : reflexion sur l’ile, nom du chef, dernier murmure, fragment du nom du maitre et interrogation. Les cinq labels japonais マハメド sont identiques ; nom et indice francais de la DS conserves.",
+    "status": "RELU"
+  },
+  {
+    "id": 298,
+    "file": "0056.p",
+    "ids": [
+      501,
+      502,
+      503
+    ],
+    "sfc_jp": "魔法都市　カルベローナへ[LINE]ようこそ。[WAIT][LINE]あなたがたが　大魔王の海底神殿を[LINE]ほろぼして　くださったので[LINE]長き　封印の時より　めざめました。[WAIT][LINE]そして　あなたがたが[LINE]いらっしゃるのを　お待ちして[LINE]いたのです。[END STRING AC]",
+    "sfc_vf_secondaire": "Bienvenue à Calberona, la cité de la magie.[WAIT][LINE]Vous nous avez libéré en détruisant le roi démon sous-marin.[WAIT][LINE]Nous attendions votre arrivée.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「魔法都市　カルベローナへ\n\tようこそ。\n@c0@",
+      "@a@b＊「あなたがたが　海底神殿の魔王を\n\tほろぼして　くださったおかげで\n\t封印から　解放されました。\n@c0@",
+      "@a@b＊「わたしたち　カルベローナの民は\n\tみなさまが　いらっしゃるのを\n\tずっと　お待ちしていたのです。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Bienvenue à Sorcéria, %H0860%X%A0110%Xcher voyageur%Z%B0110%Xchère voyageuse%Z%Y%R0000%Xchères voyageuses%Ychers voyageurs%Z%Z. Comme on dit chez nous, ⓥil n'y a pas d'endroit plus magique qu'iciⓦⓠ\n@c0@",
+      "@a@b*ⓢ Maintenant que vous avez vaincu le démon du temple sous-marin, notre terre est enfin libre.\n@c0@",
+      "@a@b*ⓢ Ah, nous avons si longtemps attendu que vous nous portiez secoursⓠ\n@c0@"
+    ],
+    "review": "Accueil a Sorceria apres destruction du demon du temple sous-marin. Trois segments ; retrait du seul vocatif a branches de genre DS. Ne pas ajouter le segment 506 sur la fondation de la ville.",
+    "status": "RELU",
+    "original_body": "Bienvenue à Sorcéria, %H0860%X%A0110%Xcher voyageur%Z%B0110%Xchère voyageuse%Z%Y%R0000%Xchères voyageuses%Ychers voyageurs%Z%Z. Comme on dit chez nous, ⓥil n'y a pas d'endroit plus magique qu'iciⓦⓠ Maintenant que vous avez vaincu le démon du temple sous-marin, notre terre est enfin libre. Ah, nous avons si longtemps attendu que vous nous portiez secoursⓠ",
+    "adaptation_body": "Bienvenue à Sorcéria. Comme on dit chez nous, ⓥil n'y a pas d'endroit plus magique qu'iciⓦⓠ Maintenant que vous avez vaincu le démon du temple sous-marin, notre terre est enfin libre. Ah, nous avons si longtemps attendu que vous nous portiez secoursⓠ",
+    "adaptation_review": "Supprime seulement le vocatif cher voyageur/chere voyageuse a branches DS ; conserve la bienvenue, le dicton, la liberation et l’attente."
+  },
+  {
+    "id": 302,
+    "file": "0056.p",
+    "ids": [
+      517,
+      518,
+      519,
+      520,
+      521
+    ],
+    "sfc_jp": "私たちの町は　ただしくは[LINE]大魔王に　2かい　ほろぼされたと[LINE]いってよいでしょう。[WAIT][LINE]1かいめは　現実の世界で[LINE]町ごと　死の　ほのおで[LINE]やきつくされました。[WAIT][LINE]そのとき　私たちは　肉体から[LINE]精神を　ときはなち　たましいだけの[LINE]存在となって　この夢世界へ。[WAIT][LINE]しかし　大魔王のチカラは[LINE]夢の世界にまで　のびてきました。[WAIT][LINE]私たちが　夢の世界に　きずいた[LINE]この町を　こんどは　この島ごと[LINE]封印してしまったのです。[END STRING AC]",
+    "sfc_vf_secondaire": "Notre ville a déjà été détruite deux fois.[WAIT][LINE]D'abord, nous furent brûlés dans une grande explosion.[WAIT][LINE]Sans corps, nos esprits vinrent ici, au monde des rèves.[WAIT][LINE]Mais le pouvoir de l'empereur démon s'étendit au monde des rèves.[WAIT][LINE]Il nous scella… à jamais.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「カルベローナは　魔王によって\n\t２度　滅ぼされたと\n\tいっても　よいでしょう。\n@c0@",
+      "@a@b＊「１回目は　現実の世界で\n\t町ごと　死の炎で\n\t焼きつくされました。\n@c0@",
+      "@a@b＊「そのとき　私たちは　肉体から\n\t精神を　ときはなち　たましいだけの\n\t存在となって　夢世界へ逃れたのです。\n@c0@",
+      "@a@b＊「しかし　魔王は\n\tその強大な　チカラを\n\t夢の中にまで　のばし……\n@c0@",
+      "@a@b＊「私たちが　夢の世界に\n\t築いたこの町を　今度は　島ごと全て\n\t封印してしまったのですから。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ce misérable démon a semé le chaos sur Sorcéria plus d'une fois, vous savez.\n@c0@",
+      "@a@b*ⓢ Nos malheurs ont commencé quand une pluie de flammes fit disparaître notre cité du monde réel.\n@c0@",
+      "@a@b*ⓢ Nous avons alors trouvé refuge dans le royaume des rêves, nos pauvres âmes à jamais privées de leurs corps.\n@c0@",
+      "@a@b*ⓢ Mais ce répit fut de courte durée. Le démon découvrit bien vite notre sanctuaire.\n@c0@",
+      "@a@b*ⓢ Il ne tarda pas à faire disparaître à nouveau notre nouvelle cité onirique ainsi que l'île sur laquelle elle était construite.\n@c0@"
+    ],
+    "review": "Destruction de Sorceria en deux temps : monde reel brule, refuge des ames dans les reves, puis nouveau sceau sur l’ile. Cinq segments japonais et francais relus ; aucune confusion avec le retour recent de la ville.",
+    "status": "RELU"
+  },
+  {
+    "id": 305,
+    "file": "0056.p",
+    "ids": [
+      533
+    ],
+    "sfc_jp": "[CODE D9]あらっ?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]Huh?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あらっ？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Mmmⓡ\n@c0@"
+    ],
+    "review": "Exclamation de la fillette qui s’arrete brusquement, avant la plainte du camarade DS 537 puis les braises 538. DS 533 Mmm? est cette reaction, pas une replique generique choisie hors scene ; style D9 initial conserve.",
+    "status": "RELU"
+  },
+  {
+    "id": 309,
+    "file": "0056.p",
+    "ids": [
+      543
+    ],
+    "sfc_jp": "メラッ![END STRING AC]",
+    "sfc_vf_secondaire": "Boule de feu![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「メラッ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Flammeⓠ\n@c0@"
+    ],
+    "review": "Dans la scene des chataignes, le garcon cherche le sort DS 541 puis prononce メラ en 543 pour rallumer le feu. Flamme est le nom officiel DS ; pas de commande de sort ajoutee au texte.",
+    "status": "RELU"
+  },
+  {
+    "id": 313,
+    "file": "0056.p",
+    "ids": [
+      560,
+      561
+    ],
+    "sfc_jp": "[CODE D9]もうっ　あわてるんだから![LINE]あらっ?　血が出てるじゃない。[LINE]だめねえ。[WAIT][LINE][CODE D9]ホイミっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]Pas d'inquiétude. Tu ne saignes pas.[WAIT][LINE][CODE D9]Soins![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「もうっ　あわててるからよ。\n\tあらっ？　血が出てるじゃない！\n@c0@",
+      "@a@b＊「ホイミッ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ T'es encore plus maladroit qu'un zombieⓠ... Ooh, tu saignes beaucoup...\n@c0@",
+      "@a@b*ⓢ Premiers secoursⓠ\n@c0@"
+    ],
+    "review": "Fillette voyant les coudes ecorches de son camarade (DS 559), remarque puis ホイミ/Premiers secours (560–561). La confirmation de guerison 562 correspond a la replique suivante et n’est pas ajoutee ici.",
+    "status": "RELU"
+  },
+  {
+    "id": 318,
+    "file": "0056.p",
+    "ids": [
+      573,
+      574,
+      575,
+      576,
+      577
+    ],
+    "sfc_jp": "わたくしたちが　たましいの存在と[LINE]なって　夢の世界へ　この町を[LINE]きずいたとき　長老さまは200才。[WAIT][LINE]身も心も　かなり　弱って[LINE]おいででした。[WAIT][LINE]そこで　長老さまに　なるべく[LINE]お休みいただけるよう　トビラの前に[LINE]時の砂を　まいたのです。[WAIT][LINE]2つ目の　トビラの前の床を[LINE]しらべてみてください。　キラキラ[LINE]ひかる　時の砂が　落ちているはず。[WAIT][LINE]時の砂のことを　もっと[LINE]くわしく知りたければ[LINE]この町の者に聞けばよいでしょう。[END STRING AC]",
+    "sfc_vf_secondaire": "La doyenne était agée de 200 ans quand nous futes assimilés au monde des rèves.[WAIT][LINE]Elle est três frèle et doit beaucoup se reposer.[WAIT][LINE]Alors nous avons dispersé les sables du temps devant sa porte.[WAIT][LINE]En regardant bien, on peut voir le sable.[WAIT][LINE]Si tu veux en savoir plus sur le sable, un autre villageois peut t'aider.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「わたくしたちが　たましいの存在と\n\tなって　夢の世界へ　この町を\n\t築いたとき　長老さまは２００才。\n@c0@",
+      "@a@b＊「身も心も　かなり　弱って\n\tおいででした。\n@c0@",
+      "@a@b＊「そこで　長老さまに　なるべく\n\tお休みいただけるよう　トビラの前に\n\t時の砂を　まいたのです。\n@c0@",
+      "@a@b＊「２つ目の　トビラの前の床を\n\t調べてみてください。　キラキラ光る\n\t時の砂が　落ちているはず。\n@c0@",
+      "@a@b＊「時の砂のことを　もっと\n\tくわしく知りたければ\n\tこの町の者に　聞けばよいでしょう。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ L'Aïeule vivait depuis deux siècles déjà quand notre ville a été transportée dans le royaume des rêves.\n@c0@",
+      "@a@b*ⓢ Elle est faible, tant physiquement que mentalement.\n@c0@",
+      "@a@b*ⓢ Nous avons déposé des sables du temps devant sa porte en espérant qu'ils lui apportent le repos.\n@c0@",
+      "@a@b*ⓢ Si les sables du temps vous intéressent, vous pouvez examiner le sol devant la deuxième porte, à l'intérieur.\n@c0@",
+      "@a@b*ⓢ Si vous le souhaitez, les habitants devraient pouvoir vous en dire davantage au sujet de ces sables.\n@c0@"
+    ],
+    "review": "Gardien de l’Aieule : age de 200 ans/deux siecles, faiblesse, sables pour le repos, sol devant deuxieme porte et demande d’informations aux habitants. Cinq segments DS concordants, meme seconde porte ; aucune indication de lieu modifiee.",
+    "status": "RELU"
+  },
+  {
+    "id": 319,
+    "file": "0056.p",
+    "ids": [
+      579,
+      580,
+      581
+    ],
+    "sfc_jp": "この家には　まほうりょくで[LINE]ものを作ることが　とくいな[LINE]老夫婦が　住んでおられます。[WAIT][LINE]でも　封印から　とけたばかりの[LINE]今は　おつかれの　ごようす。[WAIT][LINE]長老さまの　よびかけでも[LINE]ないかぎりは　しばらく[LINE]ねむりつづけるでしょう。[END STRING AC]",
+    "sfc_vf_secondaire": "Le vieux couple qui vit ici est connu pour ses créations magiques.[WAIT][LINE]Comme la doyenne, ils ont longtemps été endormis.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「この家には　魔法力で\n\tモノを作るのが　とくいな\n\t老夫婦が　住んでおられます。\n@c0@",
+      "@a@b＊「でも　封印から　解けたばかりの\n\t今は　まだ　おつかれの　ご様子。\n@c0@",
+      "@a@b＊「長老さまの　呼びかけでも\n\tないかぎり　しばらくは\n\tねむりつづけることでしょう。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Cette maison abrite un couple de personnes âgées talentueuses... très talentueuses, même. Ces gens créent des objets imprégnés de magie.\n@c0@",
+      "@a@b*ⓢ Mais la malédiction vient à peine d'être levée et ils en subissent toujours les effets.\n@c0@",
+      "@a@b*ⓢ Je ne vois rien qui puisse les réveiller... à moins d'une requête personnelle de l'Aïeule.\n@c0@"
+    ],
+    "review": "Maison des Soren : couple creant des objets magiques, fatigue apres levee du sceau, seul appel de l’Aieule susceptible de les reveiller. Trois segments relus ; aucun dialogue de reveil premature.",
+    "status": "RELU"
+  },
+  {
+    "id": 320,
+    "file": "0056.p",
+    "ids": [
+      590,
+      591,
+      592,
+      593
+    ],
+    "sfc_jp": "おや　まほうのじゅうたんを[LINE]もっているのかい。[WAIT][LINE]でも　今は　もとのチカラを[LINE]うしなっているようだね。[WAIT][LINE]それは　もともと　この町の[LINE]カルベ老夫婦が　つくったもの。[WAIT][LINE]あの　ふたりなら　きっと[LINE]じゅうたんに　たましいを[LINE]ふきこんでくれるよ。[END STRING AC]",
+    "sfc_vf_secondaire": "Alors tu veux le tapis magique?[WAIT][LINE]Dommage. Il semble qu'il ait perdu ses pouvoirs.[WAIT][LINE]Le vieux couple, les Calbes, sont ceux qui l'ont crée.[WAIT][LINE]Peut-ètre peuvent-ils lui redonner de l'énergie.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「おや　魔法のじゅうたんを\n\t持っているのかい。\n@c0@",
+      "@a@b＊「でも　今は　飛ぶチカラを\n\tうしなっているようだね。\n@c0@",
+      "@a@b＊「それは　もともと　この町の\n\tカルベ老夫婦が　作ったもの。\n@c0@",
+      "@a@b＊「あの　ふたりなら　きっと\n\tじゅうたんに　たましいを\n\t吹き込んでくれるよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Dites-moi que je rêveⓠ Serait-ce le tapis volant que vous avez làⓡ\n@c0@",
+      "@a@b*ⓢ Mmm... Il semble en bien piteux état. Il n'y a plus une once de magie dans ce tapis.\n@c0@",
+      "@a@b*ⓢ Vous savez, ce tapis a été confectionné par les Soren, le vieux couple qui habite en ville.\n@c0@",
+      "@a@b*ⓢ Je suis sûr qu'ils pourraient redonner un coup de neuf à cette carpette. Parfaitementⓠ\n@c0@"
+    ],
+    "review": "Branche avec tapis dans les bagages : reconnaissance, perte de pouvoir, fabricants Soren, possibilite de restauration par eux. Les quatre segments DS 590–593 concordent dans les deux langues. Distinct de la branche 322–323 differee.",
+    "status": "RELU"
+  },
+  {
+    "id": 328,
+    "file": "0056.p",
+    "ids": [
+      621,
+      622
+    ],
+    "sfc_jp": "ここで　売っている武器には　すべて[LINE]まほうのチカラを　ふきこんである。[WAIT][LINE]ただ　ふりまわすのでは　なく[LINE]ときには　くふうして[LINE]つかってみると　いいだろう。[END STRING AC]",
+    "sfc_vf_secondaire": "Nous ne vendons que des armes magiques.[WAIT][LINE]Certaines ne sont pas pensées pour le combat mais ont leur utilité.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ここで売っている武器には　全て\n\t魔法のチカラを　吹き込んである。\n@c0@",
+      "@a@b＊「ただ　ふりまわすのではなく\n\tときには　工夫して\n\tつかってみると　いいだろう。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Tout mon arsenal a été enrichi de pouvoirs magiques.\n@c0@",
+      "@a@b*ⓢ Conférer de tels pouvoirs à des brutes serait comme donner de la confiture à des cochons. Vous devriez manier vos armes avec plus de créativité.\n@c0@"
+    ],
+    "review": "Armurier sorcerien : armes enchantees puis invitation a les manier avec creativite. DS 621–622 ; ne change ni statistiques ni commande Utiliser des objets.",
+    "status": "RELU"
+  },
+  {
+    "id": 336,
+    "file": "0056.p",
+    "ids": [
+      632,
+      633,
+      634
+    ],
+    "sfc_jp": "大魔女バーバレラさまは[LINE]きゅうきょくの呪文　マダンテを[LINE]あみだされた。[WAIT][LINE]じゃが　あまりの　いりょくに[LINE]あつかえる者も　ごくわずか。[WAIT][LINE]いまでは　わしらの長老さまが[LINE]ただひとりの　お方なのじゃ。[END STRING AC]",
+    "sfc_vf_secondaire": "La sorciêre Barbarella créa le sort ultime, Madante.[WAIT][LINE]Je me demande s'il existe quelqu'un d'assez puissant pour le contrôler.[WAIT][LINE]La doyenne est la seule qui ait essayé.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「大魔女バーバレラさまは\n\t究極の呪文　マダンテを\n\t編み出された。\n@c0@",
+      "@a@b＊「じゃが　あまりにも　強大すぎて\n\t使いこなせた者は\n\tほとんど　おらなんだ。\n@c0@",
+      "@a@b＊「今では　長老ブボールさまだけが\n\tマダンテを　受け継ぐ\n\tただひとりの　おかたなのじゃよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ C'est à la sorcière Laurelda que nous devons le plus puissant des sorts, Explosion magique.\n@c0@",
+      "@a@b*ⓢ Mais ce sort est si puissant que rares sont les sorciers capables de l'utiliser.\n@c0@",
+      "@a@b*ⓢ L'unique personne encore vivante à l'avoir maîtrisé n'est autre que Tenjadice, l'Aïeule de notre cité.\n@c0@"
+    ],
+    "review": "Histoire d’Explosion magique : Laurelda inventrice, puissance rarement maitrisee, Tenjadice seule heritiere vivante. Trois segments ; noms localises DS, aucune modification des tables de sorts.",
+    "status": "RELU"
+  },
+  {
+    "id": 338,
+    "file": "0056.p",
+    "ids": [
+      644,
+      645,
+      646,
+      647
+    ],
+    "sfc_jp": "長老さまの　やしきの　入口に[LINE]まいた　時の砂は　前に　すすもうと[LINE]する者を　おしもどしてしまいます。[WAIT][LINE]しかし　砂のうつわで　時の砂を[LINE]すいこめば　長老さまの　やしきへ[LINE]入ることが　できるのです。[WAIT][LINE]しかし　ここを封印されたときに[LINE]砂のうつわも　海底ふかくに[LINE]沈められたと聞いています。[WAIT][LINE]ああ　砂の器は　いったい[LINE]どこに......。[END STRING AC]",
+    "sfc_vf_secondaire": "Quelqu'un qui marchera sur le sable sera ramené dans le temps.[WAIT][LINE]Si nous avions le conteneur à sable, nous pourrions en collecter.[WAIT][LINE]Mais il parait que le conteneur sombra dans l'océan.[WAIT][LINE]Où peut-il bien ètre?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「お屋敷の入口の　キラキラした砂は\n\t時の砂といって　しんにゅう者から\n\t長老さまを　守るために作られたもの。\n@c0@",
+      "@a@b＊「しかし　砂の器を使って\n\t時の砂を　すいこめば\n\t屋敷の中に　入ることができるのです。\n@c0@",
+      "@a@b＊「しかし　この町が封印されたときに\n\t砂の器も　海底深くに\n\t沈められたと　聞いています。\n@c0@",
+      "@a@b＊「ああ　砂の器は　いったい\n\tどこに……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Les particules scintillantes à l'entrée sont appelées ⓥsables du tempsⓦ. Elles protègent la maison de l'Aïeule contre les intrus.\n@c0@",
+      "@a@b*ⓢ Il vous faudrait une urne de sable pour ramasser les grains temporels et entrer ainsi dans la maison en bonne et due forme.\n@c0@",
+      "@a@b*ⓢ Mais d'après ce qu'on dit, notre urne est restée prisonnière des profondeurs quand notre cité a été bannie...\n@c0@",
+      "@a@b*ⓢ Où se trouve-t-elle à présentⓡ Nul ne le sait.\n@c0@"
+    ],
+    "review": "Protection de la maison par les sables, urne pour les retirer, urne perdue dans les profondeurs puis interrogation. Quatre segments, meme ordre ; aucune promesse d’acces sans l’objet.",
+    "status": "RELU"
+  },
+  {
+    "id": 347,
+    "file": "0056.p",
+    "ids": [
+      689
+    ],
+    "sfc_jp": "[CODE DA]だれかを　おさがしかな?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DA]Tu cherches quelqu'un?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「だれかを　お探しかな？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Mmmⓡ Vous cherchez quelqu'un en particulierⓡ\n@c0@"
+    ],
+    "review": "Magicien metamorphe : question juste avant transformation Morph en DS 690. Source SFC n’affiche pas de nom ; label DS vide et prefixe DA natif conserves, aucun nom de personnage revele.",
+    "status": "RELU"
+  },
+  {
+    "id": 361,
+    "file": "0056.p",
+    "ids": [
+      741,
+      742,
+      743,
+      744
+    ],
+    "sfc_jp": "自分の持っている　魔法力を[LINE]そのまま相手のダメージとする[LINE]最大の攻撃呪文です。[WAIT][LINE]ただし　いちど　となえるだけで[LINE]その時の魔法力は　すべて[LINE]使いはたしてしまいます。[WAIT][LINE]さあ　私には　時間がありません。[LINE]大魔王も　おそらく　あなたがたの[LINE]動きを　心の目で　追っているはず。[WAIT][LINE]急ぎましょう!　目をつぶって![END STRING AC]",
+    "sfc_vf_secondaire": "Ce sort inflige des dégats proportionnels à l'énergie mise dans le sort.[WAIT][LINE]Néanmoins, il utilisera tout ton pouvoir magique.[WAIT][LINE]Mon heure est proche. Malheureusement, l'empereur démon nous observe.[WAIT][LINE]Il faut faire vite! Ferme les yeux![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「自分の持っている　魔法力の全てを\n\tときはなち　相手のダメージとする\n\t最大の攻撃呪文です。\n@c0@",
+      "@a@b＊「ただし　いちど　となえるだけで\n\t魔法力の　全てを\n\t使いはたしてしまいます。\n@c0@",
+      "@a@b＊「さあ　私には　時間がありません。\n\t大魔王も　おそらく　あなたがたの\n\t動きを　心の目で　追っているはず。\n@c0@",
+      "@a@b＊「急ぎましょう！　目をつぶって！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ C'est le plus dévastateur des sorts offensifs. Il puise toute l'énergie du sorcier pour la retourner contre ses ennemis.\n@c0@",
+      "@a@b*ⓢ En contrepartie, une utilisation suffit à épuiser le pouvoir magique du sorcier...\n@c0@",
+      "@a@b*ⓢ Nous n'avons que peu de temps. Le démon suprême suit probablement le moindre de vos déplacements par le pouvoir de l'esprit.\n@c0@",
+      "@a@b*ⓢ Fermez les yeuxⓠ Maintenantⓠ\n@c0@"
+    ],
+    "review": "Explication par Tenjadice : Explosion magique libere tout le pouvoir, epuise la magie en une utilisation, urgence face au demon supreme et yeux a fermer. Quatre segments relus ; pas de cout numerique invente ni changement de mecanique.",
+    "status": "RELU"
+  },
+  {
+    "id": 366,
+    "file": "0056.p",
+    "ids": [
+      753,
+      754,
+      755
+    ],
+    "sfc_jp": "し　心配いりませんよ。[LINE]さわがぬように......。[WAIT][LINE]私の役目は　ぶじ終りました。[LINE]大魔王の手も　ー歩[LINE]およばなかったようですね......。[WAIT][LINE]新しい命よ。[LINE]新しいちからよ。[LINE]たのみましたよ![END STRING AC]",
+    "sfc_vf_secondaire": "Pas d'inquiétude. C'est comme cela doit ètre…[WAIT][LINE]Mon temps est fini. Je vais où l'empereur démon ne pourra m'atteindre.[WAIT][LINE]Nouvelle vie, nouvelle force. Je compte sur vous![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「し　心配㈢㈢いりません㈢よ。\n\tさわがぬ㈢よう㈢㈢に……。\n@c0@",
+      "@a@b＊「私の役目は　無事㈢㈢終わり㈢ました。\n\t大魔王の㈢㈢手も　一歩\n\tおよばなかった㈢㈢よう㈢㈢ですね……。\n@c0@",
+      "@a@b＊「新しい㈢㈢命よ。\n\t新し㈢㈢い㈢チカラよ。\n\tたのみましたよ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je vous en prie...㈢ Ne vous inquiétez pas... Tout㈢ va bien...\n@c0@",
+      "@a@b*ⓢ J'ai㈢ rempli㈢ mon rôle. Le démon suprême㈢㈢ est arrivé㈢㈢ trop tard...\n@c0@",
+      "@a@b*ⓢ Ô vie nouvelle...㈢㈢ Ô nouveau chef...㈢ L'avenir de㈢ Sorcéria㈢ dépend de vous㈢㈢ désormaisⓠ\n@c0@"
+    ],
+    "review": "Aieule apres transmission : apaise l’inquietude, mission accomplie avant intervention ennemie, confie l’avenir au nouveau chef. DS 753–755 ; marqueurs de souffle DS uniquement retimes, sans ajouter l’adieu 759.",
+    "status": "RELU"
+  },
+  {
+    "id": 372,
+    "file": "0056.p",
+    "ids": [
+      776
+    ],
+    "sfc_jp": "なにやら　胸さわぎがして...[LINE]カルベ老夫婦も　つい　さきほど[LINE]お目覚めになったようです。[END STRING AC]",
+    "sfc_vf_secondaire": "Mon coeur saigne pour la doyenne.[WAIT][LINE]Mais au moins les Calbes sont réveillés.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「なにやら　胸さわぎがして……\n\tそのせいなのか　カルベ老夫婦も\n\tお目覚めになったようです。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je sens comme un malaise au plus profond de moi. Les Soren doivent ressentir la même chose car ils se sont réveillés.\n@c0@"
+    ],
+    "review": "Habitante apres l’incident chez l’Aieule : malaise et reveil des Soren. DS 776 est cette transition ; aucune variable de nom ni texte du couple ajoute.",
+    "status": "RELU"
+  },
+  {
+    "id": 373,
+    "file": "0056.p",
+    "ids": [
+      784,
+      785
+    ],
+    "sfc_jp": "[CODE D4]カルベ「さきほど　長老さまの心が[LINE]わしらに　語りかけてくださった。[WAIT][LINE][CODE D4]カルベ「ブボールどのを　失うとは[LINE]悲しいことじゃ...。[END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D4]Mrs.Calbe.Les autres m'ont dit pour la doyenne.[WAIT][LINE][CODE D4]Mrs.Calbe.Bubole nous manquera…[END STRING AE]",
+    "ds_jp": [
+      "@a@bカルベ夫人「亡くなられる　そのまえに\n\t長老さまは　わしらの心へ\n\t直接　語りかけてくださった。\n@c0@",
+      "@a@bカルベ夫人「あのかたを　うしなったのは\n\t本当に　悲しいことじゃ……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aMadame Soren@bAvant de nous quitter, l'Aïeule a eu la gentillesse de nous dire au revoir par la pensée.\n@c0@",
+      "@aMadame Soren@bQuelle tristesse qu'elle ne soit plus là... Oui... Quelle tristesse...\n@c0@"
+    ],
+    "review": "Premiere moitie du discours suivi de 374 : patronyme SFC カルベ commun aux deux epoux, DS distingue カルベ夫人 en 784–787. 374 est deja identifie et affiche Madame Soren (786–787). Utilise la meme identification pour 373/784–785, sans modifier les tokens de 374.",
+    "status": "RELU"
+  },
+  {
+    "id": 376,
+    "file": "0056.p",
+    "ids": [
+      792,
+      793,
+      794,
+      795
+    ],
+    "sfc_jp": "[CODE D4]カルベ「......ん?　まほうのじゅうたんを[LINE]知っておるのか?[LINE]おや?　それは......[WAIT][LINE][CODE D4]カルベ「なんと　まほうのじゅうたん[LINE]ではないか!　なつかしいのう。[WAIT][LINE][CODE D4]カルベ「じゃが　長い間　わしらの手を[LINE]はなれ　すっかり元気を[LINE]なくしておるようじゃの。[WAIT][LINE][CODE D4]カルベ「どれどれ......[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Mr.Calbe.…Tu sais pour le tapis magique? Bien…[WAIT][LINE][CODE D4]Mr.Calbe.Malheureusement, il perdit son energie il y a longtemps.[WAIT][LINE][CODE D4]Mr.Calbe.Est-ce…[END STRING AC]",
+    "ds_jp": [
+      "@a@bカルベ「……ん？　魔法のじゅうたんを\n\t知っておるのか？\n\tおや？　それは……\n@c0@",
+      "@a@bカルベ「なんと　魔法のじゅうたん\n\tではないか！　なつかしいのう。\n@c0@",
+      "@a@bカルベ「じゃが　長い間　わしらの手を\n\tはなれていたせいか　すっかり元気を\n\tなくしておるようじゃの。\n@c0@",
+      "@a@bカルベ「どれどれ……\n@c0@"
+    ],
+    "ds_fr": [
+      "@aMonsieur Soren@bMmmⓡ Oh, vous avez entendu parler de notre tapis volantⓡ Tiens, tiens... Montrez-moi ce que vous avez là, vous voulez bienⓡ\n@c0@",
+      "@aMonsieur Soren@bParfaitementⓠ C'est bien luiⓠ Ma foi, ça me rend tout nostalgique...\n@c0@",
+      "@aMonsieur Soren@bIl a connu des jours meilleurs, on dirait. Il a disparu bien trop longtemps.\n@c0@",
+      "@aMonsieur Soren@bLaissez-moi y jeter un coup d'œil...\n@c0@"
+    ],
+    "review": "Monsieur Soren reconnaissant le tapis : question, nostalgie, long eloignement et examen. Quatre segments DS 792–795, tous etiquetes カルベ ; ne pas inclure incantation 796 ni resultat 798.",
+    "status": "RELU"
+  },
+  {
+    "id": 380,
+    "file": "0056.p",
+    "ids": [
+      800
+    ],
+    "sfc_jp": "[CODE D4]カルベ「まほうのじゅうたんは[LINE]どこにでも　もちはこびが　できて[LINE]なかなか便利な　乗り物じゃぞ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Mr.Calbe.Le tapis magique peut t'emmener au-dessus vallées et lacs.[WAIT][LINE][CODE D4]Mr.Calbe.C'est un moyen de transport três pratique.[END STRING AC]",
+    "ds_jp": [
+      "@a@bカルベ「魔法のじゅうたんは\n\tどこにでも　持ち運びが　できて\n\tなかなか　便利な　乗り物じゃぞ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aMonsieur Soren@bOn trouve difficilement plus pratique qu'un tapis volant. C'est le moyen de transport aérien le plus léger... exception faite d'une paire d'ailes, bien sûrⓠ\n@c0@"
+    ],
+    "review": "Monsieur Soren apres restauration du tapis : commodite et transport facile. DS 800 correspond a cette conclusion, avec image d’ailes propre a la localisation ; aucune restriction du moteur changee.",
+    "status": "RELU"
+  }
+]

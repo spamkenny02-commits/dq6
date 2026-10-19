@@ -1,0 +1,31 @@
+{
+  "version": "v0.22",
+  "base_commit": "dedc4fe5e9d94477d59ffea277d20f1f909c26bd",
+  "integrated_new": 20,
+  "integrated_total": 5098,
+  "visible_total": 6957,
+  "remaining_main_script": 1859,
+  "rom_bytes": 8388608,
+  "result_sha256": "b37fb9066bd91c194ba903549d592c29977991abcb08376d7582bde96b471c06",
+  "readable_delta_restore_verified": true,
+  "fresh_rebuild_identical": true,
+  "bps_and_ips_reapplied": true,
+  "redecoded_entries": 6960,
+  "previous_5078_tokens_unchanged": true,
+  "rom_bus_groups_checked": 870,
+  "rom_bus_payload_bytes_checked": 418571,
+  "targeted_renderer_pages": 28,
+  "targeted_renderer_messages": [298, 313, 318, 361, 373, 376],
+  "open_semantic_audit": {
+    "deferred_new_message": 322,
+    "previous_integrated_message_requiring_review": 323,
+    "reason": "DS French reordered carpet information across messages; prior tokens preserved in this batch"
+  },
+  "previous_render_block_1836_still_deferred": true,
+  "full_playthrough": false,
+  "separate_tables_complete": false,
+  "all_previous_selections_semantically_revalidated": false,
+  "checkpoint_zip_sha256": "9c0aeb21e50915cf7a622e483a9bc003af51368a57181b69ed3f615ba95b4b68",
+  "no_rom_sram_or_states_in_publication": true,
+  "publication_format": "readable translation JSON, Python scripts, Markdown, reports and verified BPS patch; no new opaque archive"
+}
