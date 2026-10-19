@@ -7,7 +7,7 @@
   "baseline_v018": 5000,
   "old_tokens_unchanged": true,
   "new_v019": 40,
-  "verification_scope": "Static archive/data/syntax checks performed on 2026-10-19. Historical QA retained separately. No ROM rebuild or emulator run in this workspace: sources unavailable.",
+  "verification_scope": "Archive, static checks and full binary rebuild/patch verification repeated on 2026-10-19 using reattached original sources. No new emulator run.",
   "bps_structure_ok": true,
   "bps_internal_crc_ok": true,
   "bps_source_bytes": 4194304,
@@ -21,5 +21,13 @@
   ],
   "ips_structure_ok": true,
   "ips_records": 4996,
-  "rom_files_tracked": []
+  "rom_files_tracked": [],
+  "source_hashes_verified": true,
+  "rebuild_matches_v019": true,
+  "result_sha256": "0bc90d81f3d1d347212a9b7a5cf70f2a77659aa964aff86d0de37e0cb29976e2",
+  "bps_reapplied_ok": true,
+  "ips_reapplied_ok": true,
+  "script_entries_redecoded": 6960,
+  "emulator_retested": false
 }
+
