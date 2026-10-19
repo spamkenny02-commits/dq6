@@ -1,0 +1,15 @@
+{
+  "release": "v0.25",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5152,
+    "visible_total": 6957,
+    "new_this_pass": 12,
+    "remaining": 1805
+  },
+  "separate_tables": "Noms, menus, objets, sorts, combat : audit et traduction encore nécessaires, hors compte du script principal.",
+  "baseline": "v0.24",
+  "rom_bytes": 8388608,
+  "notes": "12 dialogues supplémentaires relus à Montgivre, soit 5152/6957 messages intégrés du script principal ; 1805 restants, plus les tables séparées. Les 5140 anciennes sélections restent identiques. Village degelé, confession de Saul Ytaire et piste de Kad Abra ; narration gelee neutralisee car les deux variantes DS partagent un seul message SFC. BPS/IPS relus, 6960 entrées redécodées, 870 groupes contrôlés sur le bus et 25 pages sur cinq messages relues. Formule 610 differee : indices et choix SFC a relire ensemble. Audit ouvert : insertion 322 différée et ancien message 323 à revoir ensemble, sans modifier les anciens tokens ici. Le compte intégré ne vaut pas validation sémantique complète de toutes les anciennes sélections. Aucun parcours naturel complet déclaré.",
+  "next": "Poursuivre sans attendre une relance ; sauvegarder le prochain passage."
+}

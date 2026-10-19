@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.24, 5140/6957 messages du script principal ; 1817 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.25, 5152/6957 messages du script principal ; 1805 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+
+## Lot v0.25 du 19 octobre 2026
+
+12 ajouts à Montgivré : village gelé puis réveillé, avertissement et confession de Saul Ytaire, visiteur du sage et itinéraire de Kad Abra. Les 5140 anciennes sélections sont inchangées. Message 571 : DS 496 et 502 sont deux variantes il/elle ; la SFC partage une seule réplique, adaptée en « Cette personne est gelée ». Recette idempotente `dq6-fr/pass25.py`, delta lisible `sources/lots/v0.25.json`. Restaurer puis lancer init.py, prepare.py, build.py, verify.py sous v0.25. ROM SHA256 `f6169c83fd1fe8da2ee6b527a971679fcb8eea2fa7057fba092efcfb834dc266`. BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 420639 octets sur le bus ; 25 pages sur cinq messages (571,591,605,623,626). Aucun parcours naturel complet ni validation globale des tables. Audits 322/323 et blocage 1836 ouverts. Formule 610 différée : relire ensemble indices, mot de passe et réponses SFC avant insertion ; les jeux de mots DS ne peuvent être repris indépendamment des choix de la porte. Les boissons 598–602 restent aussi différées : alcool SFC contre thé DS et réponses modifiées. Sources et BPS publiés sans ROM ni état.
 
 ## Lot v0.24 du 19 octobre 2026
 

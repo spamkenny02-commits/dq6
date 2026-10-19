@@ -1,0 +1,122 @@
+{
+  "kind": "readable_translation_delta",
+  "version": "v0.25",
+  "baseline": "v0.24",
+  "baseline_count": 5140,
+  "new_count": 12,
+  "recipe": "dq6-fr/pass25.py",
+  "merged_selection_sha256": "37791c00d39fa2f285a56042abc7deaaefd17f06a23f98540ea082d8b38e1513",
+  "generated_inputs": {
+    "correspondances-revues.json": "25afc95a7e590863953b5d80ebe162c29d3787cc9d829a2941ad70170f7a506e",
+    "adaptations-francaises.json": "103a92352bdb41e5c003295efcbfadfa5898af3828d91c78ce796949d68984c0",
+    "liaisons-variables-natives.json": "dc21472882f38d38310eb55169c64964afa1246f5ec27c1c7c2420620071a006",
+    "charset.json": "f84c9183341fab8591f23ee608b0bdf6b9191a09ceeecf04a95afca114027c55"
+  },
+  "files": [
+    {
+      "path": "dq6-fr/pass25.py",
+      "sha256": "3adc97a218e5aea7038be920e24d0019626fcceb5ed0e0c07de7432aa8fc0dae",
+      "bytes": 5705
+    },
+    {
+      "path": "patches/DQVI-FR-DS-v0.25-BASE-JP-PARTIEL.bps",
+      "sha256": "e8c5ca74252a7fc343170d727c995a40e0765b58fb5be493cd009e32f11d0ed9",
+      "bytes": 677422
+    },
+    {
+      "path": "dq6-fr/v0.25/LISEZ-MOI.md",
+      "sha256": "7397660904f794eb929976f2c340828610ca8a0c4e7ca8e97aa02624312da67f",
+      "bytes": 3425
+    },
+    {
+      "path": "dq6-fr/v0.25/audit-tapis-reordonne.json",
+      "sha256": "770d8ecbb6d8c5e3e3c053ad3f6a638dd155b32473766b0f4f196fa495e102e3",
+      "bytes": 3335
+    },
+    {
+      "path": "dq6-fr/v0.25/build.py",
+      "sha256": "5e8bafdad3184df86f4d829b12bfe987673d3cf5dc919e1f7a4397e9d68984b3",
+      "bytes": 8690
+    },
+    {
+      "path": "dq6-fr/v0.25/couverture-preparation.json",
+      "sha256": "2505f51918a699e15f3178b770790c65e9502f6cf165a43130047d66f5953285",
+      "bytes": 464
+    },
+    {
+      "path": "dq6-fr/v0.25/etat-projet.json",
+      "sha256": "22ab4c3de57b3a83f36147b79fa9ebe7dd252e93c83a92306fd3d6728d862030",
+      "bytes": 1244
+    },
+    {
+      "path": "dq6-fr/v0.25/init.py",
+      "sha256": "1320a9dcaa9ee9376afeadb66f8169cbc019a94e69e9331ad15ee69097e3d43e",
+      "bytes": 1385
+    },
+    {
+      "path": "dq6-fr/v0.25/names.py",
+      "sha256": "f0dd949c5d28b235b031d7f4b32fc71f01bed9557b8f14e658df7cecddbe985f",
+      "bytes": 3452
+    },
+    {
+      "path": "dq6-fr/v0.25/nouveaux-messages.json",
+      "sha256": "7f1e3244caf30f4190305ba8b35c80b8d949ec55cb2017d088bfcda23f72db8f",
+      "bytes": 57316
+    },
+    {
+      "path": "dq6-fr/v0.25/prepare.py",
+      "sha256": "62103acdf02057e9fe952369587113b1255747810d2085c189b0ced00c2c7b9f",
+      "bytes": 16081
+    },
+    {
+      "path": "dq6-fr/v0.25/qa-bus.json",
+      "sha256": "1e0b890cd67ef7d74fb4898b9115b1302b10dfa1e7594656528b67b827def7d6",
+      "bytes": 112
+    },
+    {
+      "path": "dq6-fr/v0.25/qa-longueurs.json",
+      "sha256": "9277aba9d7642810e9f80c001e11a7f6b8419bf3c111e85ea3e1b33024649254",
+      "bytes": 121
+    },
+    {
+      "path": "dq6-fr/v0.25/qa-patchs-regression.json",
+      "sha256": "a665e011be51f6c363bcbef935860fc3b4a848c24f5b51912eca4dbd7cfb72db",
+      "bytes": 1009
+    },
+    {
+      "path": "dq6-fr/v0.25/qa-render-fixtures.json",
+      "sha256": "48cd6047206a06ab84324888772e9d3348c4a2d29741e05664b467b8983dfa76",
+      "bytes": 9085
+    },
+    {
+      "path": "dq6-fr/v0.25/revue-lot-v025.json",
+      "sha256": "89ec83adb55b728a322644dc230c4cd1076def3cbbe51f0febbb3a13d903dbaa",
+      "bytes": 23882
+    },
+    {
+      "path": "dq6-fr/v0.25/save_release.py",
+      "sha256": "e42eae2290a1b3b4a606b00fe44f6335284fb724e7d3ceeca52565e20c51fbcc",
+      "bytes": 3985
+    },
+    {
+      "path": "dq6-fr/v0.25/test_render.py",
+      "sha256": "19edfc8dbc0d3cdeb704f865641359d8f6aae5cf04c7c20e87c0d092ec0ecb38",
+      "bytes": 1929
+    },
+    {
+      "path": "dq6-fr/v0.25/validation.json",
+      "sha256": "18b801c5b7bfc5b029cddd4646ab1843437f455c4e007e19707a589eb88bbcbd",
+      "bytes": 1031
+    },
+    {
+      "path": "dq6-fr/v0.25/verify.py",
+      "sha256": "126f12b64ae1575ba1ad5c74f7fdcfbbf4ac4d8c5b0c27d3d8c508afb47e4b53",
+      "bytes": 5590
+    }
+  ],
+  "no_rom_sram_or_state": true,
+  "open_semantic_audit": [
+    322,
+    323
+  ]
+}

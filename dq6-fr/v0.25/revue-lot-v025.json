@@ -1,0 +1,317 @@
+[
+  {
+    "id": 571,
+    "file": "0070.p",
+    "ids": [
+      496,
+      502
+    ],
+    "sfc_jp": "返事が　ない......。　冷たく[LINE]こおりついて　いるようだ。[END STRING AC]",
+    "sfc_vf_secondaire": "There is no reply…[LINE]It appears to be frozen.[END STRING AC]",
+    "ds_jp": [
+      "@a@b返事が　ない……。　冷たく\nこおりついて　いるようだ。\n@c0@",
+      "@a@b返事が　ない……。　冷たく\nこおりついて　いるようだ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bPas de réponse.\nIl est gelé...\n@c0@",
+      "@a@bPas de réponse.\nElle est gelée...\n@c0@"
+    ],
+    "review": "Narration partagee des habitants geles. DS 496 et 502 ont le meme japonais mais deux francais il/elle : variantes, pas deux paroles consecutives. Adaptation neutre cette personne pour le seul message SFC partage.",
+    "status": "RELU",
+    "original_body": "Pas de réponse.\nIl est gelé... Pas de réponse.\nElle est gelée...",
+    "adaptation_body": "Pas de réponse. Cette personne est gelée...",
+    "adaptation_review": "DS 496/502 sont deux variantes de genre du meme message partage en SFC ; reprise neutre sans juxtaposer deux variantes ni deduire un genre absent."
+  },
+  {
+    "id": 584,
+    "file": "0070.p",
+    "ids": [
+      551,
+      552,
+      553,
+      554
+    ],
+    "sfc_jp": "......。[WAIT][LINE]あんたら　こんな村に[LINE]なんの用だね。[WAIT][LINE]ごらんの通り　わし　いがいの[LINE]村人は　皆　こおりついて[LINE]しまっとる![WAIT][LINE]こんな　おいぼれに[LINE]用は　ないじゃろう?　さっさと[LINE]立ち去るがええ。[END STRING AC]",
+    "sfc_vf_secondaire": "…[WAIT][LINE]How am I supposed to work in a village like this?[WAIT][LINE]It<024D> like they just stare at me.[WAIT][LINE]I'll be out of business shortly.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「…………。\n@c0@",
+      "@a@b＊「あんたら　こんな村に\n\tなんの用だね。\n@c0@",
+      "@a@b＊「ごらんの通り　わし以外の\n\t村人は　みな　こおりついて\n\tしまっとる！\n@c0@",
+      "@a@b＊「こんな　おいぼれに\n\t用は　ないじゃろ？\n\tさっさと　立ち去るがええ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ ............\n@c0@",
+      "@a@b*ⓢ Qu'est-ce qui vous amène dans ce lieu perduⓡ\n@c0@",
+      "@a@b*ⓢ Vous avez dû remarquer que je suis le seul ici à ne pas m'être transformé en bonhomme de neige.\n@c0@",
+      "@a@b*ⓢ J'imagine que vous êtes pas ici pour voir un vieux fou comme moi, alors partez.\n@c0@"
+    ],
+    "review": "Premier entretien avec le vieillard avant degel : silence, pourquoi venir, tous geles sauf lui, ordre de partir. DS 551–554 entier ; son nom n’est pas encore revele.",
+    "status": "RELU"
+  },
+  {
+    "id": 591,
+    "file": "0070.p",
+    "ids": [
+      580,
+      581,
+      582
+    ],
+    "sfc_jp": "[CODE D4]ゴラン「まったく　若いというのは[LINE]無茶なものよ。[WAIT][LINE][CODE D4]ゴラン「ええか　お前さんたち。[LINE]もう　ニ度と　北東のほこらには[LINE]近づくな。[WAIT][LINE][CODE D4]ゴラン「わしのような　思いを[LINE]したくなかったらな......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Goran.I know how reckless young people are.[WAIT][LINE][CODE D4]Goran.I too visited the cave.[WAIT][LINE][CODE D4]Goran.I remember what I found inside…[LINE]You should stay away…[END STRING AC]",
+    "ds_jp": [
+      "@a@bゴラン「まったく　若いというのは　\n\t無茶なものよ。\n@c0@",
+      "@a@bゴラン「ええか　お前さんたち\n\tもう　２度と　北東のほこらには\n\t近づくな。\n@c0@",
+      "@a@bゴラン「わしのような　思いを\n\tしたくなかったらな……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aSaul Ytaire@bPourquoi les jeunes n'écoutent jamais ce qu'on leur ditⓡ\n@c0@",
+      "@aSaul Ytaire@bJe ne le répéterai pasⓢ ne retournez jamais là-bas. C'est comprisⓡ\n@c0@",
+      "@aSaul Ytaire@bSauf si vous voulez finir comme moi...\n@c0@"
+    ],
+    "review": "Saul reproche la visite du sanctuaire apres avertissement : jeunesse imprudente, ne jamais revenir, eviter son sort. DS 580–582. Distinct de 579 deja integre en 590.",
+    "status": "RELU"
+  },
+  {
+    "id": 592,
+    "file": "0072.p",
+    "ids": [
+      0,
+      1,
+      2
+    ],
+    "sfc_jp": "どういうわけか　とつぜん[LINE]みなが　氷から　とけたのだ。[WAIT][LINE]そこまでは　よかったが[LINE]宿屋のおかみが　私を見つけて[LINE]あんた　だれよ!って。[WAIT][LINE]追いだされてしまったのだよ。[LINE]ちゃんと　宿代は[LINE]おいておいたのに......。トホホ。[END STRING AC]",
+    "sfc_vf_secondaire": "For some reason, all the ice melted.[WAIT][LINE]When the innkeeper found me, he kicked me out![WAIT][LINE]And after I ran it for him for all those years…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「氷づけになっていた　村全体が\n\t突然　とけたのだ。\n@c0@",
+      "@a@b＊「そこまでは　よかったのだが\n\t宿屋のおかみに　見つかったとたん\n\tこれ　このとおり。\n@c0@",
+      "@a@b＊「外へ　追い出されてしまったのだよ。\n\t宿代は　ちゃんと\n\t置いておいたのに……　トホホ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Le village était un gros glaçon, et l'instant d'après tout a fondu...\n@c0@",
+      "@a@b*ⓢ C'est bien beau, tout ça, mais maintenant je me retrouve sans toit pour dormir. L'aubergiste était folle de rage quand elle m'a trouvé...\n@c0@",
+      "@a@b*ⓢ Elle m'a chassé avec un balai. J'avais payé ma chambre, en plusⓠ Enfin...\n@c0@"
+    ],
+    "review": "Voyageur expulse de l’auberge apres degel : fonte soudaine, aubergiste furieuse, expulsion malgre paiement. DS 0072:0–2. Balai de la localisation conserve ; aucun paiement reel ajoute.",
+    "status": "RELU"
+  },
+  {
+    "id": 597,
+    "file": "0072.p",
+    "ids": [
+      14
+    ],
+    "sfc_jp": "わんっ　わんっ![END STRING AC]",
+    "sfc_vf_secondaire": "Woof woof![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「わん　わんっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouafⓠ Ouafⓠ\n@c0@"
+    ],
+    "review": "Chien de Montgivre reveille : DS 14, entre enfant joyeux 12 et boisson 19. Replique courte ancree dans la scene, pas un aboiement quelconque.",
+    "status": "RELU"
+  },
+  {
+    "id": 603,
+    "file": "0072.p",
+    "ids": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "sfc_jp": "あれ?　となりで　いっしょに[LINE]のんでいた　ゴランは[LINE]どこへ　いったんだ?[WAIT][LINE]変だなあ......たしか　2人で[LINE]のんでたら　ゴランが　雪女が[LINE]どうとか　いいだして......[WAIT][LINE]そうしたら　急に　ドアが[LINE]バタンと　開いて　雪が[LINE]吹きこんできて......[WAIT][LINE]すっごく　寒くなって　そのあと...[LINE]あれ?　そのあとは[LINE]おぼえて　ないや。[WAIT][LINE]ま　いいか。グビ　グビ。[END STRING AC]",
+    "sfc_vf_secondaire": "I was drinking with Goran. Where'd he go?[WAIT][LINE]Weird… He was telling me about the snow queen…[WAIT][LINE]…The the door flew open and snow started blowing in…[WAIT][LINE]…It got really cold and then…[WAIT][LINE]…Huh? I don't remember anything after that.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あれ？　となりで　いっしょに\n\t飲んでいた　ゴランは\n\tどこへ　いったんだ？\n@c0@",
+      "@a@b＊「変だなあ……たしか　２人で\n\t飲んでたら　ゴランが　雪女が\n\tどうとか　いいだして……\n@c0@",
+      "@a@b＊「そうしたら　急に　ドアが\n\tバタンと　開いて　雪が\n\t吹きこんできて……\n@c0@",
+      "@a@b＊「すっごく　寒くなって　そのあと……\n\tあれ？　そのあとは\n\tおぼえて　ないや。\n@c0@",
+      "@a@b＊「ま　いいか。グビ　グビ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Heinⓡ Où est passé Saul Ytaireⓡ Il était assis là il y a quelques minutes à peine.\n@c0@",
+      "@a@b*ⓢ Il était en train de me raconter l'histoire passionnante d'une certaine ⓥdame des neigesⓦ en buvant un verre...\n@c0@",
+      "@a@b*ⓢ Et puis, poufⓠ La porte s'est ouverte d'un coup et une tempête de neige a soufflé.\n@c0@",
+      "@a@b*ⓢ Il a fait soudain très froid et... Mmm... Je ne me souviens pas du reste.\n@c0@",
+      "@a@b*ⓢ Tant pis, à la vôtreⓠ Glou glou...\n@c0@"
+    ],
+    "review": "Buveur se rappelle Saul, revelation de la dame des neiges, porte claquee et bourrasque, froid et amnesie puis boisson. DS 26–30 complet. Ne remplace pas la boisson SFC par le the de la sequence distincte 19–24.",
+    "status": "RELU"
+  },
+  {
+    "id": 605,
+    "file": "0072.p",
+    "ids": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "sfc_jp": "いったい　これは[LINE]どうしたことか![WAIT][LINE]...いえ　実は　私は[LINE]高名な賢者である　ザム神官の[LINE]うわさを聞いて　来たのですが...[WAIT][LINE]ザム神官といえば　かなりの[LINE]ご老人で　もう　とっくに[LINE]お亡くなりのはず。[WAIT][LINE]せめて　お墓にでも　参ることが[LINE]できればと　思っていたところ...[WAIT][LINE]なんと　あんなに　お元気で[LINE]生きておいでじゃ　ないですか![LINE]いやー　おどろきました。[WAIT][LINE]さすが　高名な賢者どの![LINE]並の人間とは　くらべものに[LINE]ならない　生命力ですな![END STRING AC]",
+    "sfc_vf_secondaire": "What am I doing here?[WAIT][LINE]I heard a rumor that the famous priest Zam was here…[WAIT][LINE]But he has surely died of old age by now…[WAIT][LINE]I thought I might at least be able to visit his grave…[WAIT][LINE]Yet there he is, alive and well. It<024D> amazing![WAIT][LINE]Famous people have great vitality![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「いったい　これは\n\tどうしたことか！\n@c0@",
+      "@a@b＊「……いえ　実は　私は\n\t高名な賢者である　ザム神官の\n\tウワサを聞き　ここへ来たのですが……\n@c0@",
+      "@a@b＊「ザム神官といえば　かなりの\n\tご老人で　もう　とっくに\n\tお亡くなりのはず。\n@c0@",
+      "@a@b＊「せめて　お墓にでも　参ることが\n\tできればと　思っていたところ……\n@c0@",
+      "@a@b＊「なんと　あんなに　お元気で\n\t生きておいでじゃ　ないですか！\n\tいやー　おどろきました。\n@c0@",
+      "@a@b＊「さすが　高名な賢者どの！\n\t並の人間とは　くらべものに\n\tならない　生命力を　お持ちですな！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Par la Déesse, qu'est-ce qui se passe dans ce villageⓡⓐ\n@c0@",
+      "@a@b*ⓢ Je ne suis pas d'ici, vous voyez. Je suis là parce que je m'intéresse à Kad Abra, le célèbre sage.\n@c0@",
+      "@a@b*ⓢ Kad est un très vieil homme. J'étais sûr qu'il était mort depuis bien longtemps.\n@c0@",
+      "@a@b*ⓢ Je me disais que j'aimerais bien voir sa tombe...\n@c0@",
+      "@a@b*ⓢ Je n'aurais jamais cru le trouver vivant et en si bonne santéⓠ Je n'en croyais pas mes yeux.\n@c0@",
+      "@a@b*ⓢ Ça doit être ça, d'être un sage. Sa force vitale est bien plus grande que la nôtre.\n@c0@"
+    ],
+    "review": "Visiteur du sage Kad Abra : le croyait mort, voulait sa tombe, le trouve vivant et admire sa vitalite. DS 37–42 entier ; six idees et meme ordre.",
+    "status": "RELU"
+  },
+  {
+    "id": 607,
+    "file": "0072.p",
+    "ids": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "sfc_jp": "[CODE D4]ザム「なに!　伝説の剣じゃと![LINE]おお　知っているとも![WAIT][LINE][CODE D4]ザム「剣は　この村から北の[LINE]氷に　おおわれた　洞くつに眠る。[WAIT][LINE][CODE D4]ザム「しかし　封印のとびらが[LINE]その入り口を　閉ざしておるのじゃ。[WAIT][LINE][CODE D4]ザム「封印を　とくには[LINE]ある　言葉を　とびらの前で[LINE]となえなくては　ならぬ。[WAIT][LINE][CODE D4]ザム「ちなみに　わしは[LINE]その言葉を　知っておるが...[WAIT][LINE][CODE D4]ザム「教えて　ほしいか?[LINE]ん?　んんー?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Zam.What! Of course I know about the legendary sword![WAIT][LINE][CODE D4]Zam.The sword lies deep within a cave northeast of here.[WAIT][LINE][CODE D4]Zam.However there is a great door sealing the entrace.[WAIT][LINE][CODE D4]Zam.To break the seal, you need to recite several key phrases.[WAIT][LINE][CODE D4]Zam.I just happen to know what they are. Want to hear them? Hmm? Hmmmm?[END STRING AC]",
+    "ds_jp": [
+      "@a@bザム「なに！　伝説の剣じゃと！\n\tおお　知っているとも！\n@c0@",
+      "@a@bザム「剣は　この村から北の\n\t氷に　おおわれた　洞くつに眠る。\n@c0@",
+      "@a@bザム「しかし　封印のトビラが\n\tその入り口を　閉ざしておるのじゃ。\n@c0@",
+      "@a@bザム「封印を　解くには\n\tある　言葉を　トビラの前で\n\tとなえなくては　ならぬ。\n@c0@",
+      "@a@bザム「ちなみに　わしは\n\tその言葉を　知っておるが……\n@c0@",
+      "@a@bザム「教えて　ほしいか？\n\tん？　んんー？\n@c0@"
+    ],
+    "ds_fr": [
+      "@aKad Abra@bDouce neigeⓠ L'épée légendaireⓠ Oh, je sais quelques petites choses à ce sujet.\n@c0@",
+      "@aKad Abra@bCette célèbre lame n'est pas loin d'ici. Elle repose dans une grotte gelée au nord de notre humble village.\n@c0@",
+      "@aKad Abra@bCependant, la porte qui mène à cette grotte est scellée.\n@c0@",
+      "@aKad Abra@bOn ne peut briser ce sceau qu'en prononçant la ⓥformule magiqueⓦ devant la porte.\n@c0@",
+      "@aKad Abra@bSi seulement quelqu'un connaissait la formule magique. Ah... Attendezⓠ Moi, je la connaisⓠ\n@c0@",
+      "@aKad Abra@bJe parie que vous rêvez de l'entendre, heinⓡ\n@c0@"
+    ],
+    "review": "Kad explique epee dans grotte nord, porte scellee, formule necessaire, sa connaissance de celle-ci et demande de l’entendre. DS 46–51 entier. Nord conforme aux deux japonais, pas nord-est de la VF secondaire. Indices de formule 610 exclus.",
+    "status": "RELU"
+  },
+  {
+    "id": 616,
+    "file": "0072.p",
+    "ids": [
+      86,
+      87
+    ],
+    "sfc_jp": "へ......へくしっ!![WAIT][LINE]うう......なんだか[LINE]ひえたなあ。[END STRING AC]",
+    "sfc_vf_secondaire": "A… Achoo!![WAIT][LINE]Why am I so cold?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「へ……へくしっ！！\n@c0@",
+      "@a@b＊「うう……なんだか\n\t冷えたなあ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ A-atchoumⓠ\n@c0@",
+      "@a@b*ⓢ Brrr... Il fait froid, nonⓡ\n@c0@"
+    ],
+    "review": "Eternuement puis constat de froid : DS 86–87 juste avant soupe refroidie 89. Meme paire que SFC, pas un eternuement isole.",
+    "status": "RELU"
+  },
+  {
+    "id": 623,
+    "file": "0072.p",
+    "ids": [
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "sfc_jp": "[CODE D4]ゴラン「ユリナは　わしを[LINE]許して　くれたんじゃろうか?[WAIT][LINE][CODE D4]ゴラン「いや　もう　そんなことは[LINE]どうでも　よくなって[LINE]しまったわ。[WAIT][LINE][CODE D4]ゴラン「あの日　わしは　友人と[LINE]酒を　のんでおった。[WAIT][LINE][CODE D4]ゴラン「そして　つい　雪女......[LINE]ユリナのことを　ポロッと[LINE]もらして　しもうた。[WAIT][LINE][CODE D4]ゴラン「あんなに　かたく[LINE]口どめ　されていたのに......。[WAIT][LINE][CODE D4]ゴラン「ユリナは　怒り[LINE]この町の者を　氷づけに[LINE]してしまった。[WAIT][LINE][CODE D4]ゴラン「わし　1人を　のぞいて。[WAIT][LINE][CODE D4]ゴラン「あれから　50年......。[LINE]わしは　たった1人で......[LINE]長かった......。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Goran.Yurina made me promise not to tell anyone about her.[WAIT][LINE][CODE D4]Goran.But one day I was drinking with a friend.[WAIT][LINE][CODE D4]Goran.And it just sort of popped out…[WAIT][LINE][CODE D4]Goran.So she released a snowstorm upon the town.[WAIT][LINE][CODE D4]Goran.Everyone but me was frozen.[WAIT][LINE][CODE D4]Goran.50 years… All by myself… I've grown old.[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bゴラン「ユリナは　わしを\n\t許してくれたんじゃろうか？\n@c0@",
+      "@a@bゴラン「……いや　もう　そんなことは\n\tどうでも　よくなってしまったわ。\n@c0@",
+      "@a@bゴラン「あの日　わしは　友人と\n\t酒を　飲んでおった。\n@c0@",
+      "@a@bゴラン「そして　つい　雪女……\n\tユリナのことを　ポロッと\n\tもらして　しもうた。\n@c0@",
+      "@a@bゴラン「あんなに　かたく\n\t口止め　されていたのに……。\n@c0@",
+      "@a@bゴラン「ユリナは　怒り\n\tこの町の者を　氷づけに\n\tしてしまった。\n@c0@",
+      "@a@bゴラン「わし　１人を　のぞいて。\n@c0@",
+      "@a@bゴラン「あれから　５０年……。\n\tわしは　たった１人で……\n\t長かった……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aSaul Ytaire@bAngèle vous a-t-elle dit si elle m'avait pardonnéⓡ\n@c0@",
+      "@aSaul Ytaire@bNon, ne dites rien. Ça n'a plus d'importance.\n@c0@",
+      "@aSaul Ytaire@bJ'étais en train de prendre un verre avec un ami.\n@c0@",
+      "@aSaul Ytaire@bOn s'est mis à discuter et au bout de quelques minutes, j'ai parlé de la ⓥdame des neigesⓦ... Angèle.\n@c0@",
+      "@aSaul Ytaire@bAlors qu'elle m'avait bien prévenu de ne pas parler d'elle...\n@c0@",
+      "@aSaul Ytaire@bOn dit que la vengeance est un plat qui se mange froid... Eh bien, elle a gelé tous les habitants du village.\n@c0@",
+      "@aSaul Ytaire@bSauf moi.\n@c0@",
+      "@aSaul Ytaire@bC'était il y a cinquante ans. Depuis, je suis tout seul...\n@c0@"
+    ],
+    "review": "Confession de Saul : pardon d’Angele, boisson avec ami, secret trahi malgre promesse, colere et village gele sauf lui, cinquante annees seul. DS 108–115 complet. VF secondaire omet le pardon initial, DS prioritaire.",
+    "status": "RELU"
+  },
+  {
+    "id": 624,
+    "file": "0072.p",
+    "ids": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "sfc_jp": "[CODE D4]ゴラン「なあ　旅の人よ。[LINE]若い頃の　あやまちは　誰にも[LINE]あるものだと　いわれておろう。[WAIT][LINE][CODE D4]ゴラン「だからこそ　おそれずに[LINE]信じた道を　進むべきじゃと...。[LINE]そして　人は　成長すると...。[WAIT][LINE][CODE D4]ゴラン「ならば　わしの　おかした[LINE]あやまちも　わしの人生にとって[LINE]意味のある事だったのじゃろうか?[WAIT][LINE][CODE D4]ゴラン「わしには　よく　わからん。[LINE]50年の月日は......[LINE]あまりにも　長すぎた。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Goran.I was also an adventurer when I was young.[WAIT][LINE][CODE D4]Goran.I travelled the world over without any fears.[WAIT][LINE][CODE D4]Goran.I never stopped to think about what I was doing.[WAIT][LINE][CODE D4]Goran.I've had the last 50 years to reflect on my decisions.[END STRING AC]",
+    "ds_jp": [
+      "@a@bゴラン「なあ　旅の人よ。\n\t若い頃の　あやまちは　誰にも\n\tあるものだと　いわれておろう。\n@c0@",
+      "@a@bゴラン「だからこそ　おそれずに\n\t信じた道を　進むべきじゃと……。\n\tそして　ひとは　成長すると……。\n@c0@",
+      "@a@bゴラン「ならば　わしの　おかした\n\tあやまちも　わしの人生にとって\n\t意味のあることだったのじゃろうか？\n@c0@",
+      "@a@bゴラン「わしには　よく　わからん。\n\t５０年の月日は……\n\tあまりにも　長すぎた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aSaul Ytaire@bÉcoutez bien. On fait tous des erreurs quand on est jeune.\n@c0@",
+      "@aSaul Ytaire@bOn dit qu'il ne faut jamais avoir peur de suivre sa propre voie, que ça aide à grandir.\n@c0@",
+      "@aSaul Ytaire@bDans ce cas, est-ce que l'erreur que j'ai commise a un sens dans ma vieⓡ\n@c0@",
+      "@aSaul Ytaire@bJe n'en sais plus rien. Cinquante ans, c'est quand même long...\n@c0@"
+    ],
+    "review": "Suite de Saul : erreurs de jeunesse, suivre sa voie pour grandir, sens de sa faute et doute apres cinquante ans. DS 116–119 ; ne reprend pas le faux recit d’aventurier de la VF secondaire.",
+    "status": "RELU"
+  },
+  {
+    "id": 626,
+    "file": "0073.p",
+    "ids": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "sfc_jp": "[CODE D4]ザム「かつて　ダーマの神殿のあった[LINE]あたりから　まっすぐ南に[LINE]いったところに　町があったの。[WAIT][LINE][CODE D4]ザム「町の名は　ロンガデセオ。[LINE]いかがわしい者が　たむろする[LINE]ならず者の町じゃが...[WAIT][LINE][CODE D4]ザム「その町に　代々　伝説になるほどの[LINE]すごうでの　かじ屋の家系の者が[LINE]住んでいたのう。[WAIT][LINE][CODE D4]ザム「なにぶん　古いことなので[LINE]今でも　いるかは知らんがの。[END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D4]Zam.Go directly south from the ruins of the Shrine at Dhama.[WAIT][LINE][CODE D4]Zam.There<024D> a town there by the name of Longadeseo.[WAIT][LINE][CODE D4]Zam.It<024D> a town where innocent people hide and hooligans roam.[WAIT][LINE][CODE D4]Zam.But a legendary line of blacksmiths live there.[WAIT][LINE][CODE D4]Zam.That<024D> old information. I don't know if they're still there.[END STRING AE]",
+    "ds_jp": [
+      "@a@bザム「かつて　ダーマの神殿があった\n\tあたりから　まっすぐ南へ\n\t行ったところに　町があったの。\n@c0@",
+      "@a@bザム「その町の名は　ロンガデセオ。\n\tいかがわしい者が　たむろする\n\tならず者の町じゃが……\n@c0@",
+      "@a@bザム「そこに　伝説になるほど\n\tすごうでの　剣職人の家系の者が\n\t代々　住んでおったはずじゃ。\n@c0@",
+      "@a@bザム「なにぶん　古いことなので\n\t今も　いるかどうかは\n\tわからんがの。　んー。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aKad Abra@bMarchez au sud de l'abbaye des Vocations et vous trouverez une ville.\n@c0@",
+      "@aKad Abra@bElle s'appelle Colombourg. C'est une ville louche pleine de personnes louches...\n@c0@",
+      "@aKad Abra@bMais c'est aussi la demeure ancestrale d'une célèbre famille de forgerons. Leur œuvre est presque mythique.\n@c0@",
+      "@aKad Abra@bMais ces informations sont un peu anciennes. Je ne peux pas affirmer que cette famille est toujours en ville.\n@c0@"
+    ],
+    "review": "Kad indique Colombourg au sud de l’ancienne abbaye des Vocations, ville louche et lignee de forgerons, information ancienne incertaine. DS 0073:5–8 avant cadeau du pendentif ; duplicata 13–16 identique. Terminaison AE native.",
+    "status": "RELU"
+  }
+]
