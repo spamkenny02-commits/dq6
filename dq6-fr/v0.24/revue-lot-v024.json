@@ -1,0 +1,296 @@
+[
+  {
+    "id": 528,
+    "file": "0076.p",
+    "ids": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "sfc_jp": "[CODE D4]ホック「じゃあ　話すぜ。[LINE]伝説の剣職人だが　たしかに[LINE]この町に　いたようだな。[WAIT][LINE][CODE D4]ホック「名まえは　コブレ。トシは[LINE]生きていれば　50さいくらい。[WAIT][LINE][CODE D4]ホック「というのも　10年ほどまえ[LINE]伝説の剣をさがすため　旅に出て[LINE]それ以来　ゆくえ知れずだ。[WAIT][LINE][CODE D4]ホック「コブレには　妻のメアリと[LINE]娘のサリイが　いたが　2人を[LINE]おいて出ていっちまうとはな......。[WAIT][LINE][CODE D4]ホック「おかげで　苦労がたたって[LINE]メアリは　数年後に　病気で......。[WAIT][LINE][CODE D4]ホック「今は　サリイ　ひとりが[LINE]この町に　住んでるってわけだな。[WAIT][LINE][CODE D4]ホック「さて　この娘の　サリイだが[LINE]小さい頃から　おやじに　かなり[LINE]きびしく　しこまれたらしいぜ。[WAIT][LINE][CODE D4]ホック「なにをって　かじ屋の技をさ。[LINE]うわさじゃ　おやじの　うでを[LINE]しのぐかも知れないとか。[WAIT][LINE][CODE D4]ホック「これで　話は　おしまいだ。[LINE]あとは　サリイに　直接[LINE]聞いてみるんだな。[WAIT][LINE][CODE D4]ホック「サリイの家は[LINE]かくれ酒場の　北の家だ。[WAIT][LINE][CODE D4]ホック「もし　家に　いなかったら[LINE]北のほこらに　いってみな。[WAIT][LINE][CODE D4]ホック「そこに　メアリの　はかが[LINE]あるって話だからな。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Hawk.Okay. Parlons. Le forgeron légendaire était vraiment ici.[WAIT][LINE][CODE D4]Hawk.Il s'appelle Coble. Il aurait dans les 50 ans s'il vivait encore.[WAIT][LINE][CODE D4]Hawk.Il y a prês de 10 ans, il est parti retrouver l'épée légendaire.[WAIT][LINE][CODE D4]Hawk.Plus personne ne l'a revu.[WAIT][LINE][CODE D4]Hawk.Il a laissé sa femme, Mary, et sa fille, Sally.[WAIT][LINE][CODE D4]Hawk.Mais les choses étaient difficiles et Mary devint malade… et mourru…[WAIT][LINE][CODE D4]Hawk.Alors Sally vit seule maintenant.[WAIT][LINE][CODE D4]Hawk.Mais elle est devenue amêre à propos de  son pêre.[WAIT][LINE][CODE D4]Hawk.Néanmoins, elle a appris à forger.[WAIT][LINE][CODE D4]Hawk.Certains disent que ses talents surpassent ceux de son pêre.[WAIT][LINE][CODE D4]Hawk.C'et tout ce que je sais. Peut-ètre devrais-tu trouver Sally pour en savoir plus.[WAIT][LINE][CODE D4]Hawk.Elle vit en bas des escaliers au nord du bar caché.[WAIT][LINE][CODE D4]Hawk.Si elle n'y est pas, elle pourrait ètre au temple du nord.[WAIT][LINE][CODE D4]Hawk.C'est là que Mary est enterrée.[END STRING AC]",
+    "ds_jp": [
+      "@a@bホック「じゃあ　話すぜ。\n\t伝説の名工といわれた　剣職人は\n\tたしかに　この町に　いたようだな。\n@c0@",
+      "@a@bホック「名前は　コブレ。　トシは\n\t生きていれば　５０さいくらい。\n@c0@",
+      "@a@bホック「というのも　１０年ほど前に\n\t伝説の剣をさがすため　旅に出て以来\n\tゆくえ知れず……生死も不明だからだ。\n@c0@",
+      "@a@bホック「コブレには　妻のメアリと\n\t娘のサリイが　いたが　２人を\n\t置いて　出ていっちまうとはな……。\n@c0@",
+      "@a@bホック「おかげで　苦労がたたって\n\tメアリは　数年後に　病気で……。\n@c0@",
+      "@a@bホック「今は　サリイ　ひとりが\n\tこの町に　住んでいるってわけだな。\n@c0@",
+      "@a@bホック「さて　この娘の　サリイだが\n\t小さい頃から　父親に　かなり\n\tきびしく　しこまれたらしいぜ。\n@c0@",
+      "@a@bホック「なにをって　剣職人の技をさ。\n\tウワサじゃ　親父の　ウデを\n\tしのぐかもしれないとか。\n@c0@",
+      "@a@bホック「これで　話は　おしまいだ。\n\tあとは　サリイに　直接\n\t聞いてみるんだな。\n@c0@",
+      "@a@bホック「サリイの家は\n\tかくれ酒場の　北の家だ。\n@c0@",
+      "@a@bホック「もし　家に　いなかったら\n\t北のほこらに　いってみな。\n@c0@",
+      "@a@bホック「そこに　メアリの墓が\n\tあるって話だからな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLynx@bParfait. Voilà. Il semblerait qu'il y avait bien un forgeron légendaire dans cette ville.\n@c0@",
+      "@aLynx@bIl s'appelait Charles. Il devrait avoir environ 50 ans... s'il était toujours vivant.\n@c0@",
+      "@aLynx@bEnfin, personne ne sait s'il est encore en vie.\n㈡\nPersonne n'en a plus jamais entendu parler depuis qu'il est parti chercher cette épée légendaire il y a dix ans.\n@c0@",
+      "@aLynx@bIl a laissé sa femme Éthel et sa fille Martel se débrouiller toutes seules.\n@c0@",
+      "@aLynx@bAvec toutes les difficultés qu'elle a endurées, Éthel est morte d'une terrible maladie il y a plusieurs années...\n@c0@",
+      "@aLynx@bMaintenant, Martel vit seule dans cette ville.\n@c0@",
+      "@aLynx@bIl semble que son père l'ait formée quand elle était petite.\n@c0@",
+      "@aLynx@bQu'il l'ait formée à quoiⓡ Au travail de forgeron, bien sûrⓠ Certains disent qu'elle a surpassé le maître...\n@c0@",
+      "@aLynx@bEt c'est tout ce que j'ai à dire. Le reste, vous devrez l'apprendre de l'intéressée elle-même.\n@c0@",
+      "@aLynx@bEnfin, je ne sais pas si elle sera vraiment intéressée. Je parle de Martel, bien sûrⓠ Elle vit au nord du bar clandestin.\n@c0@",
+      "@aLynx@bSi vous ne la trouvez pas dans la maison, allez voir dans le sanctuaire au nord.\n@c0@",
+      "@aLynx@bJe crois que c'est là que repose la pauvre Éthel, sa mère.\n@c0@"
+    ],
+    "review": "Recit complet de Lynx apres paiement : forgeron Charles, age 50 si vivant, depart dix ans auparavant, femme Ethel decedee, fille Martel formee a la forge, maison au nord du bar clandestin et tombe au sanctuaire nord. Douze segments JA/FR dans le meme ordre. Le raccourci ludique DS 72 reste sans changer la destination. Aucun nom variable.",
+    "status": "RELU"
+  },
+  {
+    "id": 531,
+    "file": "0076.p",
+    "ids": [
+      83,
+      84
+    ],
+    "sfc_jp": "そういえば　近ごろ[LINE]じいさんの　はかまいりを[LINE]しとらんかったのう。[WAIT][LINE]わしも　サリイを　すこし[LINE]みならわんと　いかんの。[END STRING AC]",
+    "sfc_vf_secondaire": "Récemment, un vieillard est passé.[WAIT][LINE]Sally semblait contrariée.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「そういえば　近ごろ\n\tじいさんの　墓参りを\n\tしとらんかったのう。\n@c0@",
+      "@a@b＊「わしも　サリイを　すこし\n\t見習わんと　いかんの。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ça fait des années que je suis pas allée sur la tombe de mon pauvre mari.\n@c0@",
+      "@a@b*ⓢ Je devrais prendre exemple sur Martel.\n@c0@"
+    ],
+    "review": "Habitante regrettant de ne plus visiter la tombe de son vieux mari puis citant Martel en exemple. DS 83–84 meme japonais ; jiisan designe ici le mari dans la localisation feminine, et non un visiteur comme le suppose a tort la VF secondaire.",
+    "status": "RELU"
+  },
+  {
+    "id": 532,
+    "file": "0076.p",
+    "ids": [
+      504
+    ],
+    "sfc_jp": "[CODE D4][CODE D9]サリイ「............。[END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9]Sally.…[END STRING AE]",
+    "ds_jp": [
+      "@a@bサリイ「…………。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aMartel@b............\n@c0@"
+    ],
+    "review": "Silence de Martel avant la demande d’usage de l’epee : DS 504, suivi de 505–506 deja integres en 533. Pas le silence de la premiere rencontre 414. Label Martel conserve ; terminaison AE native.",
+    "status": "RELU"
+  },
+  {
+    "id": 536,
+    "file": "0076.p",
+    "ids": [
+      514,
+      515
+    ],
+    "sfc_jp": "[CODE D4][CODE D9]サリイ「じゃあ　あたいの目を　見ろ。[LINE]じーっと　だ。[WAIT][LINE][CODE D4][CODE D9]サリイ「......。[END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9]Sally.Laisse moi regarder dans tes yeux…[END STRING AE]",
+    "ds_jp": [
+      "@a@bサリイ「なら　あたいの目を　見ろ。\n\t動かず……　じーっと　だ。\n@c0@",
+      "@a@bサリイ「…………。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aMartel@bAlors, regardez-moi bien dans les yeux. Ne bougez pas...\n@c0@",
+      "@aMartel@b............\n@c0@"
+    ],
+    "review": "Acceptation de la promesse : Martel exige un regard fixe puis silence, DS 514–515. Meme embranchement apres 510 et avant regard detourne 518 ; terminaison AE et commandes D4/D9 natives.",
+    "status": "RELU"
+  },
+  {
+    "id": 547,
+    "file": "0076.p",
+    "ids": [
+      720,
+      721
+    ],
+    "sfc_jp": "伝説の剣職人も　見つからないし[LINE]そろそろ　自分の町に[LINE]かえろうかと　思っています。[WAIT][LINE]世界が　平和になったって話も[LINE]だんだんと　うそくさくなって[LINE]きたし......。[END STRING AC]",
+    "sfc_vf_secondaire": "Il parait que l'épéiste légendaire est revenu mais je ne le trouve pas.[WAIT][LINE]Je suppose que le monde n'est pas vraiment en paix…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「伝説の名工も　見つからないし\n\tそろそろ　自分の町に\n\t帰ろうかと　思っています。\n@c0@",
+      "@a@b＊「世界が　平和になったって話も\n\tだんだんと　うそくさくなって\n\tきたみたいですしね……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ma quête du forgeron légendaire n'a pas avancé d'un pouce. Il est grand temps de rentrer chez moi.\n@c0@",
+      "@a@b*ⓢ Je crois de moins en moins à ces rumeurs qui disent que la paix va revenir dans le monde...\n@c0@"
+    ],
+    "review": "Visiteur sur le depart, recherche du forgeron infructueuse et doute sur la paix : DS 720–721, deux idees identiques. Aucun forgeron pretendument revenu comme dans la VF secondaire erronee.",
+    "status": "RELU"
+  },
+  {
+    "id": 553,
+    "file": "0076.p",
+    "ids": [
+      734,
+      735
+    ],
+    "sfc_jp": "ホックという男に[LINE]伝説の武器　防具について[LINE]聞こうと　思っていたのだが......。[WAIT][LINE]かんじんの　ホックを[LINE]ついに　見つけられなかったよ。[END STRING AC]",
+    "sfc_vf_secondaire": "Je voulais parler à un certain Hawk du forgeron légendaire…[WAIT][LINE]Mais je ne le trouve pas.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ホックという　ウデききの情報屋に\n\t伝説の武具について　聞こうと\n\t思っていたのだが……。\n@c0@",
+      "@a@b＊「かんじんの　ホックを\n\tついに　見つけられなかったよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je suis venu ici pour trouver un type appelé Lynx afin qu'il me donne des informations sur l'épée légendaire.\n@c0@",
+      "@a@b*ⓢ Malheureusement, je n'arrive pas à le trouver...\n@c0@"
+    ],
+    "review": "Chercheur de Lynx apres nouvelles de l’epee : SFC et DS JA parlent des armes ET armures legendaires, mais FR 734 dit seulement epee. Adaptation minimale reliques legendaires, terme officiel DS utilise par Lynx en 810. Suite 735 conservee.",
+    "status": "RELU",
+    "original_body": "Je suis venu ici pour trouver un type appelé Lynx afin qu'il me donne des informations sur l'épée légendaire. Malheureusement, je n'arrive pas à le trouver...",
+    "adaptation_body": "Je suis venu ici pour trouver un type appelé Lynx afin qu'il me donne des informations sur les reliques légendaires. Malheureusement, je n'arrive pas à le trouver...",
+    "adaptation_review": "Retablit armes et armures du japonais SFC/DS avec le terme DS officiel de 810 ; ne limite pas la question a la seule epee. Suite 735 inchangee."
+  },
+  {
+    "id": 556,
+    "file": "0076.p",
+    "ids": [
+      790,
+      791,
+      792,
+      793
+    ],
+    "sfc_jp": "ボ　ボ　ボク　きめました![LINE]ラビアンちゃんと　結婚します![WAIT][LINE]もちろん　今　そんなこといっても[LINE]ことわられるだろうけど[LINE]あと10年も　すれば......。[WAIT][LINE]ラビアンちゃんも　もうステージに[LINE]あがれないだろうから　そ　そのとき[LINE]プロポーズするのです![WAIT][LINE]よーし!　まつぞーっ![END STRING AC]",
+    "sfc_vf_secondaire": "C-C-C'est décidé! Je vais épouser Lavian![WAIT][LINE]Bien sûr, si je lui demande maintenant, elle dira non, mais dans 10 ans…[WAIT][LINE]J'éssaierai dês que Lavian arrètera ses spectacles…[WAIT][LINE]Mais pour l'instant, je n'ai qu'à attendre.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ボ　ボ　ボク　きめました！\n\tラビアンちゃんと　結婚します！\n@c0@",
+      "@a@b＊「もちろん　今　そんなこといっても\n\tことわられるだろうけど\n\tあと１０年も　すれば……\n@c0@",
+      "@a@b＊「ラビアンちゃんも　もうステージに\n\tあがれないだろうから　そ　そのときに\n\tプロポーズするのです！\n@c0@",
+      "@a@b＊「よーし！　まつぞーっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je vais faire de dame Séductra une honnête femme. Oui, vous avez comprisⓢ je vais l'épouserⓠ\n@c0@",
+      "@a@b*ⓢ Je suis sûr qu'elle dirait non si je la demandais en mariage maintenant, mais attendez une dizaine d'années...\n@c0@",
+      "@a@b*ⓢ Quand elle sera plus toute jeune et qu'elle aura du mal à monter sur la scène, je pourrais lui demander. Elle acceptera à coup sûrⓠ\n@c0@",
+      "@a@b*ⓢ Il suffit d'être un peu patient, c'est toutⓠ\n@c0@"
+    ],
+    "review": "Admirateur de Seductra projetant le mariage dans dix ans apres la fin de carriere sur scene : DS 790–793 complet. Meme raisonnement maladroit que SFC, nom officiel Seductra sans remplacer par un nom variable.",
+    "status": "RELU"
+  },
+  {
+    "id": 557,
+    "file": "0076.p",
+    "ids": [
+      797,
+      798,
+      799
+    ],
+    "sfc_jp": "聞いたぜ。あんたらが[LINE]伝説の剣を　手にいれた連中[LINE]だってな。[WAIT][LINE]コブレのヤツも[LINE]あんたらの来るのを　まってりゃ[LINE]よかったんだよ。[WAIT][LINE]もっとも　10年は[LINE]まてなかったか......。[END STRING AC]",
+    "sfc_vf_secondaire": "Vous ètes ceux qui ont ramené l'épée légendaire.[WAIT][LINE]Calve aurait été heureux de vous voir.[WAIT][LINE]Dommage qu'il soit parti il y a 10 ans…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「聞いたぜ。　あんたらが\n\t伝説の剣を　手にいれた\n\t連中なんだってな。\n@c0@",
+      "@a@b＊「コブレのヤツも\n\tあんたらが来るのを　待ってりゃ\n\tよかったんだよ。\n@c0@",
+      "@a@b＊「もっとも　１０年は\n\t待てなかったか……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Il paraît que c'est vous qui avez mis vos sales pattes sur l'épée légendaire.\n@c0@",
+      "@a@b*ⓢ Si seulement Charles avait pu patienter un peu et vous attendre.\n@c0@",
+      "@a@b*ⓢ Enfin, je suis pas sûr qu'il aurait attendu dix ans...\n@c0@"
+    ],
+    "review": "Habitant apprend que le groupe a trouve l’epee, regrette que Charles ne les ait pas attendus puis rappelle les dix ans. DS 797–799, trois idees et ordre conserves.",
+    "status": "RELU"
+  },
+  {
+    "id": 558,
+    "file": "0076.p",
+    "ids": [
+      801
+    ],
+    "sfc_jp": "うひ~。よった　よった......。[END STRING AC]",
+    "sfc_vf_secondaire": "Ungh… Plane…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「うひ～。　酔った　酔った……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je... Je vois doubleⓠ Hicⓠ\n@c0@"
+    ],
+    "review": "Buveur apres la nouvelle sur Charles : ivresse DS 801, ancree entre 797–799 et la question sur Lynx 803 ; pas un hoquet de comptoir generique.",
+    "status": "RELU"
+  },
+  {
+    "id": 560,
+    "file": "0076.p",
+    "ids": [
+      807,
+      808,
+      809,
+      810,
+      811,
+      812
+    ],
+    "sfc_jp": "[CODE D4]ホック「よう!　その顔だと　どうやら[LINE]サリイに　会えたみたいだな。[LINE]しらべた　かいが　あったよ。[WAIT][LINE][CODE D4]ホック「ところで　うわさを聞いたが[LINE]お前さんたち　あの伝説の剣を[LINE]もっているんだってな。[WAIT][LINE][CODE D4]ホック「だったら　いいことを[LINE]おしえてやろう。もちろん[LINE]これは　サービスだ。[WAIT][LINE][CODE D4]ホック「いいつたえだと　伝説の[LINE]武器　防具は　ぜんぶで　4つ。[WAIT][LINE][CODE D4]ホック「それぞれに　ある印が[LINE]ほってあって　それが　なにかを[LINE]とくカギに　なっているとか。[WAIT][LINE][CODE D4]ホック「まっ　しらべたわけじゃないし[LINE]どこまで　本当かは　責任を[LINE]もてねえけどな。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Hawk.On dirait que tu as rencontré Sally.[WAIT][LINE][CODE D4]Hawk.Je suis heureux d'avoir été utile.[WAIT][LINE][CODE D4]Hawk.Au fait, tu as vraiment l'épée légendaire?[WAIT][LINE][CODE D4]Hawk.Pourrais-je la voir… Tu sais, pour mes services…[WAIT][LINE][CODE D4]Hawk.En tout, il y a quatre piêces de l'équipement légendaire.[WAIT][LINE][CODE D4]Hawk.Chaque piêce porte un symbole, et agit comme une sorte de clé.[WAIT][LINE][CODE D4]Hawk.Mais je ne sais pas si cela est vrai…[END STRING AC]",
+    "ds_jp": [
+      "@a@bホック「よう！　その顔だと　どうやら\n\tサリイに　会えたみたいだな。\n\t調べた　かいが　あったよ。\n@c0@",
+      "@a@bホック「ところで　ウワサを聞いたが\n\tお前さんたち　あの伝説の剣を\n\t持っているんだってな。\n@c0@",
+      "@a@bホック「だったら　いいことを\n\t教えてやろう。　もちろん\n\tこれは　サービスだ。\n@c0@",
+      "@a@bホック「言い伝えだと　伝説の武具と\n\tいわれる装備は　全部で　４つ。\n@c0@",
+      "@a@bホック「それぞれに　ある　しるし　が\n\tほってあって　それが　何かを\n\t解くカギに　なっているとか。\n@c0@",
+      "@a@bホック「まっ　これは　オレが自分の手で\n\t調べた話じゃないし　本当かどうかの\n\t責任は　もてねえけどな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLynx@bJe vois à votre air que vous avez trouvé Martel. Rien n'échappe à l'œil de Lynx.\n@c0@",
+      "@aLynx@bIl paraîtrait que vous avez mis la main sur l'épée légendaire.\n@c0@",
+      "@aLynx@bSi c'est le cas, je vais vous donner un tuyau. C'est gratuit.\n@c0@",
+      "@aLynx@bIl semblerait qu'il existe quatre reliques légendaires.\n@c0@",
+      "@aLynx@bChacune porte une inscription qui permet de résoudre une sorte d'énigme.\n@c0@",
+      "@aLynx@bÉvidemment, j'ai pas pu le vérifier, alors je peux pas le garantir.\n@c0@"
+    ],
+    "review": "Lynx apres rencontre de Martel : service gratuit, quatre reliques, inscriptions clefs d’enigme puis reserve sur la fiabilite. DS 807–812 entier. Aucune demande de paiement ou d’objet comme la VF secondaire semble en ajouter.",
+    "status": "RELU"
+  },
+  {
+    "id": 561,
+    "file": "0076.p",
+    "ids": [
+      814,
+      815,
+      816
+    ],
+    "sfc_jp": "あっ　ごめ~ん![LINE]じつは　私　あなたたちの[LINE]もち物を　こっそり　見ちゃったの。[WAIT][LINE]でも　大丈夫よ。[LINE]だれにも　話していないから。[WAIT][LINE]私　こうみえても[LINE]くちが　かたいんだから。[END STRING AC]",
+    "sfc_vf_secondaire": "Désolé! J'ai fouillé dans tes affaires.[WAIT][LINE]Ne t'inquiête pas. Je ne le répêterai pas.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あっ　ごめーん！\n\t実は　私　あなたたちの\n\t持ち物を　こっそり　見ちゃったの。\n@c0@",
+      "@a@b＊「でも　大丈夫よ。\n\tだれにも　話していないから。\n@c0@",
+      "@a@b＊「私　こうみえても\n\tクチが　かたいんだから。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Oh, désoléeⓠ J'ai jeté un œil à votre inventaire...\n@c0@",
+      "@a@b*ⓢ Mais ne vous inquiétez pas. Je n'en ai parlé à personne.\n@c0@",
+      "@a@b*ⓢ Vous me croirez peut-être pas, mais je sais garder les secretsⓠ\n@c0@"
+    ],
+    "review": "Habitante avouant avoir fouille l’inventaire puis promettant le secret : DS 814–816 complet. Aucune commande d’inventaire ajoutee, c’est uniquement son discours.",
+    "status": "RELU"
+  },
+  {
+    "id": 567,
+    "file": "0075.p",
+    "ids": [
+      501,
+      502,
+      503
+    ],
+    "sfc_jp": "おい　あんた。[LINE]だれに聞いて　この町に来たんだ?[WAIT][LINE]ここは　ならず者の町[LINE]ロンガデセオ。[WAIT][LINE]悪いが　あんたらみたいな人は[LINE]この町に　ふさわしくないぜ。[LINE]でていってくんな。[END STRING AE]",
+    "sfc_vf_secondaire": "Hey you! Why have you come here?[WAIT][LINE]This is the town of ruffians, Longadeseo.[WAIT][LINE]You don't look like the kind of people that would fit in here.[END STRING AE]",
+    "ds_jp": [
+      "@a@b＊「おい　あんた。\n\t誰に聞いて　この町に来たんだ？\n@c0@",
+      "@a@b＊「ここは　ならず者の町\n\tロンガデセオ。\n@c0@",
+      "@a@b＊「悪いが　あんたらみたいなひとは\n\tこの町に　ふさわしくないぜ。\n\t出ていってくんな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Héⓠ Qui vous a dit que vous pouviez venir iciⓡⓐ\n@c0@",
+      "@a@b*ⓢ Ici, c'est Colombourg, la ville des brigands.\n@c0@",
+      "@a@b*ⓢ Je crois pas que ce soit un endroit pour vous. C'est pas vot' style. Allez, du balaiⓠ\n@c0@"
+    ],
+    "review": "Refus d’entree a Colombourg sans laissez-passer : DS 0075:501–503, identique au duplicata 0037:0–2. Contexte ancre par presentation du pendentif en 504 et accueil en 505, pas accueil interieur 510. Terminaison AE conservee.",
+    "status": "RELU"
+  }
+]

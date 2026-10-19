@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.23, 5128/6957 messages du script principal ; 1829 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.24, 5140/6957 messages du script principal ; 1817 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+
+## Lot v0.24 du 19 octobre 2026
+
+12 ajouts : récit complet de Lynx sur Charles, Éthel et Martel, habitants de Colombourg, regard fixe de Martel et refus d’entrée. 5128 anciennes sélections inchangées. La question 553 parle des reliques légendaires (armes et armures dans les deux japonais), pas seulement de l’épée comme en FR DS 734. Recette idempotente `dq6-fr/pass24.py` et delta lisible `sources/lots/v0.24.json` ; restaurer puis exécuter init.py, prepare.py, build.py, verify.py sous v0.24. ROM SHA256 `4ff2ef0d45e5f91cab6cd349fb5612fd25b934b6b7fdf39b7a9fd103c1ca25b5`. BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 419905 octets sur le bus ; 26 pages ciblées sur quatre messages (528,536,553,567). Aucun parcours naturel complet ni validation globale des tables. Audits 322/323 et blocage 1836 toujours différés. Le refus violent 535 n’est pas repris automatiquement depuis la DS, qui en a supprimé une partie ; la narration 541 à variable reste à adapter. Ne pas confondre les silences de Martel 414 et 504. Sources et BPS publiés sans ROM ni état.
 
 ## Lot v0.23 du 19 octobre 2026
 

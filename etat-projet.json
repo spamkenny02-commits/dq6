@@ -1,15 +1,15 @@
 {
-  "release": "v0.23",
+  "release": "v0.24",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 5128,
+    "validated": 5140,
     "visible_total": 6957,
-    "new_this_pass": 30,
-    "remaining": 1829
+    "new_this_pass": 12,
+    "remaining": 1817
   },
   "separate_tables": "Noms, menus, objets, sorts, combat : audit et traduction encore nécessaires, hors compte du script principal.",
-  "baseline": "v0.22",
+  "baseline": "v0.23",
   "rom_bytes": 8388608,
-  "notes": "30 dialogues supplémentaires relus à Colombourg et autour du defi de Lynx, soit 5128/6957 messages intégrés du script principal ; 1829 restants, plus les tables séparées. Les 5098 anciennes sélections restent identiques. Accueil pluriel, lieux SFC conservés avec appui IPS et conclusion du tapis conservée. BPS/IPS relus, 6960 entrées redécodées, 870 groupes contrôlés sur le bus et 27 pages sur sept messages relues. Audit ouvert : insertion 322 différée et ancien message 323 à revoir ensemble, sans modifier les anciens tokens ici. Le compte intégré ne vaut pas validation sémantique complète de toutes les anciennes sélections. Aucun parcours naturel complet déclaré.",
+  "notes": "12 dialogues supplémentaires relus à Colombourg, soit 5140/6957 messages intégrés du script principal ; 1817 restants, plus les tables séparées. Les 5128 anciennes sélections restent identiques. Recit complet de Lynx sur Charles et Martel, regard fixe, habitants et refus d’entree. La question de 553 retablit armes ET armures par le terme DS reliques legendaires. BPS/IPS relus, 6960 entrées redécodées, 870 groupes contrôlés sur le bus et 26 pages sur quatre messages relues. Audit ouvert : insertion 322 différée et ancien message 323 à revoir ensemble, sans modifier les anciens tokens ici. Le compte intégré ne vaut pas validation sémantique complète de toutes les anciennes sélections. Aucun parcours naturel complet déclaré.",
   "next": "Poursuivre sans attendre une relance ; sauvegarder le prochain passage."
 }
