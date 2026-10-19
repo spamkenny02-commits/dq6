@@ -1,6 +1,12 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.25, 5152/6957 messages du script principal ; 1805 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.26, 5252/6957 messages du script principal ; 1705 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+
+## Lot v0.26 : 100 ajouts
+
+Cent dialogues relus et regroupés depuis les segments DS. 5252/6957 sélections intégrées, 1705 restantes plus tables séparées. Les 5152 anciennes sélections et tous les octets hors zones autorisées sont conservés. Cinq adaptations explicites : habitants sauvés dans le discours final de Zénith, chambre des soldats à l'étage, duel contre le champion du Gluodrome, enquête sur l'abbaye hors du rêve, nom supplémentaire DS retiré de 4358. Voir revue-lot-v026.json.
+
+Recette idempotente dq6-fr/pass26.py et delta lisible sources/lots/v0.26.json. La restauration sans ROM reproduit les sélections ; avec les sources, init.py puis prepare.py/build.py/verify.py sous v0.26 reconstruisent la ROM SHA256 232ec6f2e3bfbd8e3d7cf7af52d252e242dad9697c2e7d2466f02c6241cbdd46. BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 432620 octets vérifiés sur le bus. 44 pages de six dialogues relues par redirections dans le camp initial, noms variables et voix inclus. Démarrage, Journal, cadre du nom et arrivée au camp vérifiés dans Snes9x. Pas de parcours naturel de ces scènes ni test de tous les nouveaux messages. Audits 322/323 et blocage 1836 ouverts. Sources, rapports et BPS publiés ; les captures, ROM et états restent locaux.
 
 ## Lot v0.25 du 19 octobre 2026
 

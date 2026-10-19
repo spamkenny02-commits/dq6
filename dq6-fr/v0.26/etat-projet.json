@@ -1,0 +1,15 @@
+{
+  "release": "v0.26",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5252,
+    "visible_total": 6957,
+    "new_this_pass": 100,
+    "remaining": 1705
+  },
+  "separate_tables": "Noms, menus, objets, sorts, combat : audit et traduction encore nécessaires, hors compte du script principal.",
+  "baseline": "v0.25",
+  "rom_bytes": 8388608,
+  "notes": "100 dialogues relus et intégrés depuis la VF DS, regroupant ses messages successifs. Les 5152 sélections v0.25 sont conservées à l’identique. Adaptations explicites de la consigne de chambre des soldats, du duel final au Gluodrome, du sauvetage final par les sages, de la vérification réelle de l’abbaye et du nom du héros ajouté seulement en DS. BPS/IPS réappliqués, 6960 entrées redécodées et 870 groupes contrôlés sur le bus. 44 pages sur six dialogues relues dans Snes9x par redirections de diagnostic au camp. Démarrage à froid, Journal, saisie du nom et arrivée au camp vérifiés. Les audits 322/323 et le blocage 1836 restent ouverts. Aucun parcours complet ni validation globale des tables séparées.",
+  "next": "Poursuivre sans attendre une relance ; sauvegarder le prochain passage."
+}

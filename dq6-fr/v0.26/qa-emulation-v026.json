@@ -1,0 +1,29 @@
+{
+  "version": "v0.26",
+  "result_sha256": "232ec6f2e3bfbd8e3d7cf7af52d252e242dad9697c2e7d2466f02c6241cbdd46",
+  "core": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "diagnostic_extension": "dq6-fr/emulator-tests/peek_extension.cpp",
+  "cold_boot_reaches_camp": true,
+  "journal_and_hero_naming_visible": true,
+  "render_fixture_ids": [
+    1155,
+    1779,
+    2323,
+    4315,
+    4696,
+    6752
+  ],
+  "pages_visually_reviewed": 44,
+  "render_readable": true,
+  "variable_name_sample": "AM",
+  "name_max_length_retested": false,
+  "all_100_messages_emulated": false,
+  "natural_scenes_played": false,
+  "full_playthrough": false,
+  "screenshots": "Kept locally; hashes recorded in qa-render-fixtures.json. No ROM or state published.",
+  "open_audits": [
+    "322/323 carpet branch",
+    "1836 repeated B2 renderer binding"
+  ]
+}
