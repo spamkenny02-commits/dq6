@@ -1,0 +1,459 @@
+[
+  {
+    "id": 205,
+    "file": "0030.p",
+    "ids": [
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "sfc_jp": "ハリスも　マゴットも　気の毒に。[LINE]ジョンは　かわいい　ボウヤ[LINE]だったのにな。[WAIT][LINE]オレが　パノンのかわりに[LINE]ジョンとの　約束を　はたせれば[LINE]いいんだが。[WAIT][LINE]勇気のバッチか......。[WAIT][LINE]けど　運命のカベをのぼるなんて[LINE]オレには　無理だしなあ。[LINE]なさけないよ　まったく。[WAIT][LINE]え?　運命のカベかい?[LINE]この町から　ずっと北東にいった[LINE]けわしい山の中にあるそうだ。[END STRING AC]",
+    "sfc_vf_secondaire": "Je suis triste pour Harris et Margot. John était un si gentil garçon.[WAIT][LINE]Si je pouvais les aider à tenir leur promesse envers John…[WAIT][LINE]Le Badge du Courage…[WAIT][LINE]Il faut escalader le Mur du Destin pour l'obtenir.[WAIT][LINE]Je ne pourrai jamais faire ca.[WAIT][LINE]Eh? Le Mur du Destin? C'est la falaise au nord-est.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ハリスも　マゴットも　気の毒に。\n\tジョンは　かわいい　ボウヤ\n\tだったのにな。\n@c0@",
+      "@a@b＊「オレが　パノンのかわりに\n\tジョンとの　約束を　果たせれば\n\tいいんだが。\n@c0@",
+      "@a@b＊「勇気のバッジか……。\n@c0@",
+      "@a@b＊「けど　運命のカベをのぼるなんて\n\tオレには　無理だしなあ。\n\tなさけないよ　まったく。\n@c0@",
+      "@a@b＊「え？　運命のカベかい？\n\tこの町から　ずっと北東に行った\n\t険しい山の中にあるそうだ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ M. et Mme Redon sont dans un triste état. Ed était un gentil petit garçon.\n@c0@",
+      "@a@b*ⓢ Je me demande si je pourrais tenir la promesse que Tom Foolery avait faite au garçon...\n@c0@",
+      "@a@b*ⓢ Un ⓥinsigne du courageⓦ fait maison...\n@c0@",
+      "@a@b*ⓢ Mais un gars comme moi peut pas escalader le pic du Destin. C'est bien dommage.\n@c0@",
+      "@a@b*ⓢ Mmmⓡ Le pic du Destin, vous ditesⓡ Je crois que vous le trouverez niché dans les montagnes, au nord-est de la ville.\n@c0@"
+    ],
+    "review": "Vallonclair reel : regret pour les Redon, promesse de Panon/Tom Foolery, insigne, ascension impossible au locuteur, indication du nord-est. Cinq segments DS relus ; orientation conservee.",
+    "status": "RELU"
+  },
+  {
+    "id": 220,
+    "file": "0031.p",
+    "ids": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "sfc_jp": "[CODE D4]ハリス「うん?　も　もしや　これは......[LINE]おお!　まちがいないっ[LINE]まぎれもなく　勇気のかけらっ![WAIT][LINE][CODE D4]ハリス「しかし　ど　どうして　これを[LINE]あなたたちが......。[WAIT][LINE][CODE D4]ハリス「なんと!　運命のカベに[LINE]のぼって......。そ　そうでしたか。[LINE]そんなに　キケンな所へ...。[WAIT][LINE][CODE D4]ハリス「いや　これは　なんと[LINE]お礼を　申し上げたらいいか。[WAIT][LINE][CODE D4]ハリス「この　勇気のかけらが　あれば[LINE]ジョンの　ほしがっていた　勇気の[LINE]バッチを作ることが　できます。[WAIT][LINE][CODE D4]ハリス「本当に　ありがとう[LINE]ございました。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Harris.Huh? C'est le… Oui! J'en suis sûr![WAIT][LINE][CODE D4]Harris.Le Fragment du Courage![WAIT][LINE][CODE D4]Harris.Mais que fais-tu avec ca?[WAIT][LINE][CODE D4]Harris.Quoi! Tu as escaladé le Mur du Destin…[WAIT][LINE][CODE D4]Harris.Mais c'est un endroit si dangereux…[WAIT][LINE][CODE D4]Harris.Je ne sais pas quoi dire… Merci![WAIT][LINE][CODE D4]Harris.Nous pouvons en faire un Badge de Courage pour John.[WAIT][LINE][CODE D4]Harris.Merci beaucoup.[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bハリス「うん？　も　もしや　これは……\n\tおお！　まちがいないっ\n\tまぎれもなく　勇気のかけらっ！\n@c0@",
+      "@a@bハリス「しかし　ど　どうして　これを\n\tあなたたちが……。\n@c0@",
+      "@a@bハリス「なんと！　運命のカベに\n\tのぼって……。　そ　そうでしたか。\n\tそんなに　キケンな所へ……。\n@c0@",
+      "@a@bハリス「いや　これは　なんと\n\tお礼を　申し上げたらいいか。\n@c0@",
+      "@a@bハリス「この　勇気のかけらが　あれば\n\tジョンの　ほしがっていた\n\t勇気のバッジを　作ることができます。\n@c0@",
+      "@a@bハリス「本当に　ありがとう\n\tございました。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aM. Redon@bMmmⓡ A-attendez... C'est...ⓡ Incroyableⓠ Je ne rêve pas, n'est-ce pasⓡ C'est un fragment de courageⓠ\n@c0@",
+      "@aM. Redon@bM-mais... Pourquoiⓡ Comment avez-vous...ⓡ\n@c0@",
+      "@aM. Redon@bQuoiⓡⓐ Vous avez escaladé le pic du Destinⓡⓐ Mais vous avez pris de gros risques...\n@c0@",
+      "@aM. Redon@bComment pourrions-nous vous remercierⓡ\n@c0@",
+      "@aM. Redon@bAvec ce fragment de courage, nous allons enfin pouvoir fabriquer l'insigne du courage qu'Ed voulait tant.\n@c0@",
+      "@aM. Redon@bMerci du fond du cœurⓠ\n@c0@"
+    ],
+    "review": "Harris/M. Redon reconnait le fragment, demande sa provenance, apprend ascension et danger, remercie et annonce fabrication de l’insigne. Six segments DS, tous du meme pere ; D4 repete ne change pas de locuteur.",
+    "status": "RELU"
+  },
+  {
+    "id": 237,
+    "file": "0021.p",
+    "ids": [
+      604
+    ],
+    "sfc_jp": "そうかい　ごちゅうこく[LINE]ありがとうよ。ヒック。[END STRING AC]",
+    "sfc_vf_secondaire": "Merci du conseil. Hic![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「そうかい。\n\tご忠告ありがとうよ　ヒック。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je suis bien d'accordⓠ Au moins, je cogite pas quand je boisⓠ\n@c0@"
+    ],
+    "review": "Reponse du buveur de Calcado/Aridea a la remarque sur l’alcool. JP そうかい et ごちゅうこくありがとうよ ; DS 604 se trouve entre sa question diurne 603 et son explication sur sa femme partie 605–606. Replique courte choisie par cette branche, pas par seule ressemblance.",
+    "status": "RELU"
+  },
+  {
+    "id": 241,
+    "file": "0021.p",
+    "ids": [
+      609
+    ],
+    "sfc_jp": "しまった![LINE]いそがなくては!　しつれい![END STRING AC]",
+    "sfc_vf_secondaire": "Zut! Je vais ètre en retard! Excuse moi![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「しまった！\n\t急がなくては！　失礼！！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Quoiⓡⓐ Par la Déesseⓠ Il faut que je me dépêcheⓠ\n@c0@"
+    ],
+    "review": "Habitant presse de rejoindre l’ile : exclamation puis depart urgent, juste apres question sur presence de l’ile au cap ouest (DS 608). DS 609 est bien cette reponse, pas la reponse au retour bredouille 611.",
+    "status": "RELU"
+  },
+  {
+    "id": 244,
+    "file": "0021.p",
+    "ids": [
+      625,
+      626
+    ],
+    "sfc_jp": "ありがとう。　でも　いいのよ。[LINE]私たちは　ここにいれば[LINE]しあわせ　なんですから。[WAIT][LINE]本当に　いきたい人たちを[LINE]つれていって　おあげなさいな。[END STRING AC]",
+    "sfc_vf_secondaire": "Merci, mais nous sommes heureux ici.[WAIT][LINE]Tu devrais trouver des gens qui veulent vraiment y aller.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ありがとう。　でも　いいのよ。\n\t私たちは　ここにいれば\n\tしあわせ　なんですから。\n@c0@",
+      "@a@b＊「本当に　しあわせの国へ行きたいって\n\t思っているひとたちを　つれていって\n\tおあげなさいな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ C'est bien aimable, mais votre île ne m'intéresse pas. On est bien contents là où on est. La Déesse m'en est témoinⓠ\n@c0@",
+      "@a@b*ⓢ Ne vous préoccupez pas de nous. Je suis sûre que nos voisins seront ravis de vous accompagner.\n@c0@"
+    ],
+    "review": "Habitante qui prend les heros pour recruteurs : elle est heureuse ici, refuse l’ile et les renvoie vers ceux qui souhaitent partir. Deux segments DS, un seul locuteur, pas de choix ajoute.",
+    "status": "RELU"
+  },
+  {
+    "id": 246,
+    "file": "0021.p",
+    "ids": [
+      629,
+      630,
+      631
+    ],
+    "sfc_jp": "ん?　あんたたちは......[LINE]旅のお方かね?　いやいや[LINE]これは　しつれいしたね。[WAIT][LINE]ワシは　また　いつもの[LINE]しあわせの国への[LINE]さそいの人だと　思ってな...。[WAIT][LINE]まったく　年は[LINE]とりたくないものじゃのう。[LINE]ホッホッホ![END STRING AC]",
+    "sfc_vf_secondaire": "Eh? Vous ètes… des voyageurs, exact? Je suis désolé.[WAIT][LINE]Je t'ai pris pour un guide pour le Pays du Bonheur…[WAIT][LINE]Ca va ètre une três bonne année. Ho ho ho ho![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ん？　あんたたちは……\n\t旅のお方かね？　いやいや\n\tこれは　失礼したね。\n@c0@",
+      "@a@b＊「ワシは　また　いつもの\n\tしあわせの国への\n\tさそいの人だと　思ってな……。\n@c0@",
+      "@a@b＊「まったく　年は\n\tとりたくないものじゃのう。\n\tホッホッホ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ohⓡ Vous êtes %H0860%X%A0110%Xun voyageur%Z%B0110%Xune voyageuse%Z%Y%R0000%Xdes voyageuses%Ydes voyageurs%Z%Zⓡ Excusez-moi.\n@c0@",
+      "@a@b*ⓢ Je croyais que c'était encore quelqu'un qui venait nous convaincre de visiter l'île des Sourires.\n@c0@",
+      "@a@b*ⓢ Hé hé. Vous savez, on devient un peu long à la détente avec l'âge...\n@c0@"
+    ],
+    "review": "Vieil homme confond les voyageurs avec les recruteurs de l’ile puis plaisante sur son age. DS 629–631 suit son refus 628. Neutralisation de la seule formule voyageur/voyageuse pour conserver adresse au groupe SFC.",
+    "status": "RELU",
+    "original_body": "Ohⓡ Vous êtes %H0860%X%A0110%Xun voyageur%Z%B0110%Xune voyageuse%Z%Y%R0000%Xdes voyageuses%Ydes voyageurs%Z%Zⓡ Excusez-moi. Je croyais que c'était encore quelqu'un qui venait nous convaincre de visiter l'île des Sourires. Hé hé. Vous savez, on devient un peu long à la détente avec l'âge...",
+    "adaptation_body": "Oh? Vous êtes en voyage? Excusez-moi. Je croyais que c'était encore quelqu'un qui venait nous convaincre de visiter l'île des Sourires. Hé hé. Vous savez, on devient un peu long à la détente avec l'âge...",
+    "adaptation_review": "Remplace uniquement la premiere phrase avec branches de genre DS par une formulation neutre ; conserve les autres phrases officielles, l’adresse vous et le cap ouest si present."
+  },
+  {
+    "id": 248,
+    "file": "0021.p",
+    "ids": [
+      641,
+      642
+    ],
+    "sfc_jp": "じゃあ　ただの通りすがりの[LINE]旅の人　ですね。[LINE]この町は　なにもないでしょう。[WAIT][LINE]でも　この町の西の岬から[LINE]しあわせの国に　いけるという[LINE]話なのですよ。[END STRING AC]",
+    "sfc_vf_secondaire": "Vous ne faites que passer?[WAIT][LINE]Ils disent que le Pays du Bonheur est prês de la péninsule ouest.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「じゃあ　ただの通りすがりの\n\t旅の人　なのですね。\n\tこの町には　何もないでしょう？\n@c0@",
+      "@a@b＊「でも　この町の西の岬から\n\tしあわせの国に　行けるという\n\t話なのですよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Vous êtes juste de passage, alorsⓡ Je vois pas pourquoi vous seriez %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z dans cette ville misérable sinon...\n@c0@",
+      "@a@b*ⓢ Si jamais ça vous tente, on raconte qu'on peut atteindre l'île des Sourires depuis le cap ouest.\n@c0@"
+    ],
+    "review": "Branche negative de la question sur la rumeur de l’ile : simple passage en ville, puis cap ouest. DS 641–642, distinct de branche affirmative 638–640 ; accords venu/venue neutralises.",
+    "status": "RELU",
+    "original_body": "Vous êtes juste de passage, alorsⓡ Je vois pas pourquoi vous seriez %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z dans cette ville misérable sinon... Si jamais ça vous tente, on raconte qu'on peut atteindre l'île des Sourires depuis le cap ouest.",
+    "adaptation_body": "Vous êtes juste de passage, alors? Je vois pas ce qui vous amène dans cette ville misérable sinon... Si jamais ça vous tente, on raconte qu'on peut atteindre l'île des Sourires depuis le cap ouest.",
+    "adaptation_review": "Remplace uniquement la premiere phrase avec branches de genre DS par une formulation neutre ; conserve les autres phrases officielles, l’adresse vous et le cap ouest si present."
+  },
+  {
+    "id": 249,
+    "file": "0021.p",
+    "ids": [
+      638,
+      639,
+      640
+    ],
+    "sfc_jp": "やはり　そうでしたか......。[WAIT][LINE]しかし　いってしまった人たちは[LINE]だれ　ひとり　帰ってはきません。[WAIT][LINE]本当に　しあわせに　くらしていれば[LINE]よいのですが......。[END STRING AC]",
+    "sfc_vf_secondaire": "Beaucoup de ceux qui sont allés au Pays du Bonheur ne sont pas revenus.[WAIT][LINE]Ils doivent vraiment ètre heureux…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「やはり　そうでしたか……。\n@c0@",
+      "@a@b＊「しかし　しあわせの国へ\n\t行ってしまった　ひとたちは\n\t誰１人　帰ってきません。\n@c0@",
+      "@a@b＊「本当に　しあわせに\n\tくらしていれば　よいのですが……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ C'est bien ce que je pensais...\n@c0@",
+      "@a@b*ⓢ Je vais vous dire un trucⓢ pas un seul de ceux qui se sont rendus sur l'île des Sourires n'en est revenu. Pas un seul.\n@c0@",
+      "@a@b*ⓢ La rumeur dit peut-être vrai... Si ça se trouve, ils vivent dans un bonheur parfait. Qui sait... \n@c0@"
+    ],
+    "review": "Branche affirmative : soupcon confirme, voyageurs jamais revenus, espoir de bonheur. DS 638–640 uniquement ; ne pas ajouter la branche du simple passage 641.",
+    "status": "RELU"
+  },
+  {
+    "id": 250,
+    "file": "0021.p",
+    "ids": [
+      646,
+      647,
+      648,
+      649
+    ],
+    "sfc_jp": "ゴホッ　ゴホッ。[LINE]ばかな　お父さん。[WAIT][LINE]しあわせの国へいけば[LINE]きっと　私の病気を[LINE]なおせるクスリが　あるって...[WAIT][LINE]とめるのも　聞かずに[LINE]いってしまったんです...。[WAIT][LINE]クスリをもって　きっと　もどるって[LINE]そういって　いったのに......。[LINE]ゴホッ　ゴホッ。[END STRING AC]",
+    "sfc_vf_secondaire": "*coff* *coff*[WAIT][LINE]Mon pêre est allé au Pays du Bonheur.[WAIT][LINE]Il cherchait un médicament pour soigner ma maladie.[WAIT][LINE]Il disait qu'il reviendrait lorsqu'il le trouverait…[LINE]*coff*[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ゴホッ　ゴホッ。\n\tばかな　お父さん。\n@c0@",
+      "@a@b＊「しあわせの国へいけば\n\tきっと　私の病気を\n\tなおせるクスリが　あるって……\n@c0@",
+      "@a@b＊「とめるのも　聞かずに\n\t行ってしまったんです……。\n@c0@",
+      "@a@b＊「クスリをもって　きっと　もどるって\n\tそう　いっていたのに……。\n\tゴホッ　ゴホッ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ (tousse tousse) Par la Déesse, pourquoi faut-il que mon père soit si naïfⓡ\n@c0@",
+      "@a@b*ⓢ Il a entendu dire qu'il trouverait un remède contre la toux sur l'île des Sourires...\n@c0@",
+      "@a@b*ⓢ Et une fois qu'il a une idée en tête, impossible de l'en dissuader. Il est parti en me laissant ici.\n@c0@",
+      "@a@b*ⓢ Ça fait des semaines, maintenant. J'en peux plus, moiⓠ (tousse)\n@c0@"
+    ],
+    "review": "Fille malade abandonnee par son pere parti chercher un remede sur l’ile : toux, espoir du medicament, depart malgre objections, attente. Quatre segments dans le meme ordre, pas de diagnostic ni de variable ajoute.",
+    "status": "RELU"
+  },
+  {
+    "id": 251,
+    "file": "0021.p",
+    "ids": [
+      672,
+      673
+    ],
+    "sfc_jp": "オレは　旅の戦士　マハメドだ。[WAIT][LINE]海の上を　プカプカういて[LINE]しあわせの国まで　人をはこぶという[LINE]島のウワサを　聞いたか?[END STRING AC]",
+    "sfc_vf_secondaire": "Je suis le guerrier voyageur Mahamed.[WAIT][LINE]As-tu entendu parler de l'ïle menant au Pays du Bonheur?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「オレは　旅の戦士　マハメドだ。\n@c0@",
+      "@a@b＊「海の上を　プカプカ浮いて\n\tのぞむ者を　しあわせの国へ　みちびく\n\tという島のウワサを　聞いたか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@aSeb Tique@bJe m'appelle Seb. Seb Tique. Je suis un guerrier errant.\n@c0@",
+      "@aSeb Tique@bVous avez entendu la rumeur au sujet d'une île qui conduirait les gens jusqu'à l'île des Sourires, comme on l'appelleⓡ\n@c0@"
+    ],
+    "review": "Presentation du guerrier Mahamed/Seb Tique a l’armurerie, puis rumeur de l’ile flottante. La SFC n’imprime pas de label D4 : le nom reste dans la presentation du corps DS, sans etiquette ajoutee.",
+    "status": "RELU"
+  },
+  {
+    "id": 255,
+    "file": "0021.p",
+    "ids": [
+      655,
+      656,
+      657,
+      658
+    ],
+    "sfc_jp": "ふしぎな　うき島が[LINE]満月の夜になると[LINE]近くの海に　あらわれるのです。[WAIT][LINE]その島に　のって来る人びとは[LINE]自分たちは　しあわせの国から[LINE]やって来たと　いいます。[WAIT][LINE]なんの苦労も　なやみもない[LINE]しあわせの国......。　そんな国が[LINE]本当に　あるのでしょうか?[WAIT][LINE]今夜も　まん月。[LINE]また　あの島が[LINE]やって来るかも　しれません。[END STRING AC]",
+    "sfc_vf_secondaire": "L'ïle mystérieuse vient lorsque la lune est pleine.[WAIT][LINE]Les gens à bord disent qu'ils viennent du Pays du Bonheur.[WAIT][LINE]Un pays sans problêmes… Peut-il exister un tel endroit?[WAIT][LINE]La lune sera pleine ce soir. L'ïle va sûrement apparaitre.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ふしぎな　浮き島が\n\t満月の夜になると\n\t近くの海に　あらわれるのです。\n@c0@",
+      "@a@b＊「その島に乗って来る　ひとびとは\n\t自分たちは　しあわせの国から\n\tやって来たと　いいます。\n@c0@",
+      "@a@b＊「なんの苦労も　悩みもない\n\tしあわせの国……。　そんな国が\n\t本当に　あるのでしょうか？\n@c0@",
+      "@a@b＊「今夜も　満月。\n\tまた　あの島が\n\tやって来るかもしれません。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Les nuits de pleine lune, une mystérieuse île flottante apparaît en mer, non loin d'ici.\n@c0@",
+      "@a@b*ⓢ Les gens de l'île prétendent venir d'un endroit appelé l'ⓥîle des Souriresⓦ.\n@c0@",
+      "@a@b*ⓢ Un monde dépourvu de tristesse, où règne le bonheur en permanence. Je me demande si un tel endroit existe... Seule la Déesse le sait...\n@c0@",
+      "@a@b*ⓢ Vous pouvez peut-être y jeter un coup d'œil. C'est la pleine lune, ce soir... l'île fera peut-être son apparition.\n@c0@"
+    ],
+    "review": "Habitant decrit apparition a la pleine lune, provenance revendiquee, bonheur sans soucis et possibilite de retour ce soir. Quatre segments JP/FR relus, contexte avant depart.",
+    "status": "RELU"
+  },
+  {
+    "id": 256,
+    "file": "0021.p",
+    "ids": [
+      664,
+      665,
+      666,
+      667
+    ],
+    "sfc_jp": "この町に来れば　島にのって[LINE]しあわせの国へ　ゆける![WAIT][LINE]そう聞いて　やっとの思いで[LINE]たどり　ついたのですが[LINE]まだ島は　こないようですね。[WAIT][LINE]ああっ　まちどおしい![WAIT][LINE]しあわせの国へ　いったら[LINE]いっしょう　けんめい[LINE]あそんで　くらすぞー!![END STRING AC]",
+    "sfc_vf_secondaire": "J'ai entendu qu'une ïle flottante venait dans cette ville.[WAIT][LINE]Ils disent qu'elle m'amênera au Pays du Bonheur.[WAIT][LINE]J'espêre vraiment la trouver[WAIT][LINE]Viens avec moi. Nous l'apprécierons ensemble![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「この町に来れば　島に乗って\n\tしあわせの国へ　ゆける！\n@c0@",
+      "@a@b＊「そう聞いて　やっとの思いで\n\tたどりついたのですが\n\tまだ島は　来ていないようですね。\n@c0@",
+      "@a@b＊「ああっ　まちどおしい！\n@c0@",
+      "@a@b＊「しあわせの国へ　行ったら\n\tいっしょう　けんめい\n\tあそんで　くらすぞー！！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ J'ai fait tout ce chemin pour monter sur l'île flottante et me rendre sur l'île des Souriresⓠ\n@c0@",
+      "@a@b*ⓢ On raconte même que c'est gratuit. Ça semble presque trop beau pour être vrai...\n@c0@",
+      "@a@b*ⓢ Pfff, cette fichue île n'est pas encore arrivée.\nQu'elle se dépêche un peu, mon bonheur m'attendⓠ\n@c0@",
+      "@a@b*ⓢ Une fois sur l'île des Sourires, je ferai la fête tous les soirs jusqu'à minuit et je dormirai tous les jours jusqu'à midiⓠ\n@c0@"
+    ],
+    "review": "Visiteur venu prendre l’ile : arrivee difficile, bateau attendu, impatience et projet de loisirs. Quatre segments DS ; le detail de gratuite vient de l’adaptation officielle DS et n’altere aucun prix du moteur.",
+    "status": "RELU"
+  },
+  {
+    "id": 258,
+    "file": "0021.p",
+    "ids": [
+      798,
+      799
+    ],
+    "sfc_jp": "見てごらん。りっぱな満月だよ。[WAIT][LINE]こんな夜は　また　なん人かが[LINE]しあわせの国とやらに[LINE]旅だつのかねえ。[END STRING AC]",
+    "sfc_vf_secondaire": "Regarde ca. N'est-ce pas une magnifique pleine lune?[WAIT][LINE]C'est le genre de nuit où les gens reviennent du Pays du Bonheur.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「見てごらん。　りっぱな満月だよ。\n@c0@",
+      "@a@b＊「こんな夜は　また　誰かが\n\tしあわせの国とやらに\n\t旅立つのかねえ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Regardez çaⓠ On dirait que c'est la pleine lune...\n@c0@",
+      "@a@b*ⓢ Je me demande si certains vont partir pour l'île des Sourires cette nuit...\n@c0@"
+    ],
+    "review": "Conversation nocturne de Calcado : lune pleine puis habitants qui partiront cette nuit. DS 798–799, pas les repliques diurnes sur l’ile a venir.",
+    "status": "RELU"
+  },
+  {
+    "id": 259,
+    "file": "0021.p",
+    "ids": [
+      801
+    ],
+    "sfc_jp": "うー　ぶるぶるっ。[LINE]さばくの夜は　ひえるのう。[END STRING AC]",
+    "sfc_vf_secondaire": "Oooo… Brrr…[LINE]Les nuits du désert sont si froides.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「うー　ぶるぶるっ。\n\t砂漠の夜は　冷えるのう。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Brrrⓠ Ces nuits dans le désert vont finir par me geler le derrièreⓠ\n@c0@"
+    ],
+    "review": "Habitant nocturne se plaint du froid desertique. DS 801 contigue a 798–799, meme scene et heure, phrase breve revue en contexte.",
+    "status": "RELU"
+  },
+  {
+    "id": 267,
+    "file": "0022.p",
+    "ids": [
+      703,
+      704,
+      705
+    ],
+    "sfc_jp": "おまえさんたちの　おかげで[LINE]町の人が　もう1度　この井戸を[LINE]生き返す気に　なったんじゃよ。[WAIT][LINE]どうして　今まで　そのことに[LINE]だれも　気づかんかったのか......。[WAIT][LINE]みな　しあわせの国とやらに[LINE]まどわされて　いたんじゃのう。[END STRING AC]",
+    "sfc_vf_secondaire": "A cause de vous, les citadins savent que le puit est sec.[WAIT][LINE]Je ne sais pas pourquoi personne ne l'avait encore réalisé…[WAIT][LINE]Ils étaient peut-ètre trop occupés par le Pays du Bonheur.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「おまえさんたちの　おかげで\n\t町の人が　もういちど　この井戸を\n\tよみがえらせる気に　なったんじゃよ。\n@c0@",
+      "@a@b＊「どうして　今まで　そのことに\n\tだれも　気づかんかったのか……。\n@c0@",
+      "@a@b＊「みな　しあわせの国とやらに\n\tまどわされて　いたんじゃろう。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Grâce à vous, on a entrepris de redonner vie à ce puits.\n@c0@",
+      "@a@b*ⓢ C'est drôle qu'on n'ait pas eu le courage de s'y atteler jusqu'à maintenant.\n@c0@",
+      "@a@b*ⓢ J'imagine qu'on était trop occupés à rêver de l'île des Sourires...\n@c0@"
+    ],
+    "review": "Apres liberation : rehabilitation du puits, etonnement d’y avoir renonce, distraction par l’ile. DS 703–705, pas les dialogues de creusement qui suivent.",
+    "status": "RELU"
+  },
+  {
+    "id": 277,
+    "file": "0022.p",
+    "ids": [
+      739,
+      740,
+      741
+    ],
+    "sfc_jp": "どこかに　いったら[LINE]しあわせに　なれる......。やはり[LINE]そんなことは　なかったんですね。[WAIT][LINE]今の生活から　にげるのではなく[LINE]今の生活のなかから　しあわせを[LINE]みつけてゆく。[WAIT][LINE]人が　どこかに　用意してくれた[LINE]しあわせなんて　ニセモノに[LINE]きまってますからね。[END STRING AC]",
+    "sfc_vf_secondaire": "Un endroit empli de bonheur… Ca n'existe évidemment pas.[WAIT][LINE]Je chercherai le bonheur dans le monde tel qu'il est.[WAIT][LINE]Alors je pourrais ètre heureux.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「どこかに　行ったら\n\tしあわせに　なれる……。　やはり\n\tそんなことは　なかったんですね。\n@c0@",
+      "@a@b＊「今の生活から　逃げるのではなく\n\t今の生活の中から　しあわせを\n\tみつけてゆく。\n@c0@",
+      "@a@b＊「人が　どこかに　用意してくれた\n\tしあわせなんて　ニセモノに\n\tきまってますからね。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Cette île des Sourires, c'était plutôt la ville des Larmes finalement, pas vraiⓡ\n@c0@",
+      "@a@b*ⓢ Il y a une morale à tout çaⓢ mieux vaut chercher le bonheur chez soi que de tenter le coup sur une île imaginaire.\n@c0@",
+      "@a@b*ⓢ Quel genre de bonheur peut-on trouver sur une île imaginaire, de toute façonⓡ C'est simpleⓢ un bonheur imaginaire.\n@c0@"
+    ],
+    "review": "Apres liberation : rejet d’un paradis ailleurs, bonheur a chercher dans sa propre vie et bonheur offert trompeur. DS 739–741, meme conclusion dans le meme ordre.",
+    "status": "RELU"
+  },
+  {
+    "id": 278,
+    "file": "0022.p",
+    "ids": [
+      745,
+      746
+    ],
+    "sfc_jp": "気のせいか　ここ2、3日[LINE]とても　からだの[LINE]ぐあいが　いいんです。[WAIT][LINE]やっぱり　お父さんが[LINE]もどってきてくれて[LINE]安心したせいですね。[END STRING AC]",
+    "sfc_vf_secondaire": "J'ai l'impression que ma santé s'est améliorée.[WAIT][LINE]C'est sûrement parce que mon pêre est revenu.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「気のせいか　ここ数日\n\tとても　からだの\n\tぐあいが　いいんです。\n@c0@",
+      "@a@b＊「やっぱり　お父さんが\n\tもどってきてくれて\n\t安心したからでしょうね。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ C'est drôle... Je me sens beaucoup mieux depuis que papa est rentré.\n@c0@",
+      "@a@b*ⓢ C'est sûrement l'angoisse de sa disparition qui m'empêchait de guérir.\n@c0@"
+    ],
+    "review": "Fille apres retour de son pere : amelioration de son etat et apaisement de l’inquietude. DS 745–746 ; fait suite a sa replique anterieure 646–649 (message 250).",
+    "status": "RELU"
+  },
+  {
+    "id": 279,
+    "file": "0022.p",
+    "ids": [
+      748,
+      749,
+      750
+    ],
+    "sfc_jp": "あんな話を信じて　娘をおいて[LINE]いってしまったとは[LINE]私は　だめな父親でした。[WAIT][LINE]これからは　なにかに[LINE]たよるのじゃなくて　私の努力で[LINE]娘の病気を　なおしてみせます。[WAIT][LINE]がんばりますよ　私はっ。[END STRING AC]",
+    "sfc_vf_secondaire": "Je suis un mauvais pêre d'avoir laissé ma fille dans cet état.[WAIT][LINE]Désormais, je mettrai toute ma force à soigner sa maladie.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あんな話を信じて\n\t娘を　置いて行ってしまうとは……\n\t私は　だめな父親でした。\n@c0@",
+      "@a@b＊「これからは　何かに\n\t頼るのではなく　自分の努力で\n\t娘の病気を　なおしてみせます。\n@c0@",
+      "@a@b＊「がんばりますよ　私はっ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je suis le pire papa du monde. Dire que j'ai abandonné ma fille malade pour une arnaque pareille...\n@c0@",
+      "@a@b*ⓢ J'en ai fini avec les remèdes miracles. À partir de maintenant, je soignerai ma gamine à l'ancienneⓢ avec une bonne marmite de soupe de chimèreⓠ\n@c0@",
+      "@a@b*ⓢ C'est pas donné, mais elle mérite ce qu'il y a de mieuxⓠ\n@c0@"
+    ],
+    "review": "Pere revenu : regret d’avoir abandonne sa fille, engagement a agir lui-meme et determination. DS 748–750 ; la soupe est une image de localisation DS, sans insertion d’objet ni commande de soin.",
+    "status": "RELU"
+  },
+  {
+    "id": 282,
+    "file": "0022.p",
+    "ids": [
+      765,
+      766,
+      767,
+      768
+    ],
+    "sfc_jp": "[CODE D4]マハメド「ようっ!　おぬしたちか。[LINE]オレは　この町に[LINE]とどまることに　したぜ![WAIT][LINE][CODE D4]マハメド「オレさまが　いるかぎり[LINE]もう　2度と　あんなやつらが[LINE]くることも　ないだろうな。[WAIT][LINE][CODE D4]マハメド「しかし　海のむこうには[LINE]まだまだ　こまっている人びとが[LINE]いるかも知れん。[WAIT][LINE][CODE D4]マハメド「そっちのほうは[LINE]おぬしたちに　まかせたぞ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Mahamed.Hey, les gars! J'ai décidé de rester dans cette ville![WAIT][LINE][CODE D4]Mahamed.Ces gens ont besoin de mon aide.[WAIT][LINE][CODE D4]Mahamed.Mais il y a des gens au-dela des mers qui ont aussi besoin d'aide.[WAIT][LINE][CODE D4]Mahamed.Je suis sûr que vous pourrez faire quelque chose pour eux.[END STRING AC]",
+    "ds_jp": [
+      "@a@bマハメド「ようっ！　おぬしたちか。\n\tオレは　この町に\n\tとどまることに　したぜ！\n@c0@",
+      "@a@bマハメド「オレさまが　いるかぎり\n\tもう　２度と　あんなやつらが\n\t来ることも　ないだろうしな。\n@c0@",
+      "@a@bマハメド「しかし　海のむこうには\n\tまだまだ　困っている人びとが\n\tいるかもしれん。\n@c0@",
+      "@a@bマハメド「そっちのほうは\n\tおぬしたちに　まかせたぞ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aSeb Tique@bHéⓠ J'ai décidé de rester quelque temps à Aridéa.\n@c0@",
+      "@aSeb Tique@bCe bon vieux Seb Tique doit protéger ces pauvres gens des monstres... et de leur propre naïveté.\n@c0@",
+      "@aSeb Tique@bJe suis sûr qu'il y a tout un tas de gens qui ont besoin d'aide, là-bas, au-delà de l'océan...\n@c0@",
+      "@aSeb Tique@b... mais je suis d'accord pour vous laisser vous en charger. C'est plutôt honnête, nonⓡ\n@c0@"
+    ],
+    "review": "Mahamed/Seb Tique decide de proteger la ville et confie aux heros l’aide aux gens au-dela de l’ocean. Quatre labels JP identiques, meme guerrier ; nom DS conserve.",
+    "status": "RELU"
+  },
+  {
+    "id": 295,
+    "file": "0034.p",
+    "ids": [
+      547,
+      548
+    ],
+    "sfc_jp": "世界には　まだ　つよい悪のちからが[LINE]満ちみちています。[WAIT][LINE]いったい　いつになったら[LINE]小さな子供たちも　安心して[LINE]暮らせる日が　くるのでしょう......。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Il y a encore des forces maléfiques de par le monde.[WAIT][LINE]Quand les enfants pourront-ils paisiblement jouer dehors?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「世界には　まだ　強い悪のチカラが\n\t満ちあふれています。\n@c0@",
+      "@a@b＊「いったい　いつになったら\n\t小さな子どもたちも　安心して\n\t暮らせる日が　くるのでしょう……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Une puissance diabolique menace toujours le monde, mon enfant.\n@c0@",
+      "@a@b*ⓢ Qui sait quand nos enfants pourront vivre dans un univers sans danger... Que la Déesse nous vienne en aide...\n@c0@"
+    ],
+    "review": "Religieux apres l’ile : puissance malefique encore presente, souhait d’un monde sur pour les enfants. DS 0034:547–548 ; aucune reference ajoutee a un ennemi nomme.",
+    "status": "RELU"
+  }
+]

@@ -1,15 +1,15 @@
 {
-  "release": "v0.20",
+  "release": "v0.21",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 5058,
+    "validated": 5078,
     "visible_total": 6957,
-    "new_this_pass": 18,
-    "remaining": 1899
+    "new_this_pass": 20,
+    "remaining": 1879
   },
   "separate_tables": "Noms, menus, objets, sorts, combat : audit et traduction encore nécessaires, hors compte du script principal.",
-  "baseline": "v0.19",
+  "baseline": "v0.20",
   "rom_bytes": 8388608,
-  "notes": "18 dialogues supplémentaires relus à Vallonclair, soit 5058/6957 messages du script principal ; 1899 restants, plus les tables séparées. Sources DS FR/JA confrontées au japonais SFC et à la VF secondaire. Une adaptation femme vers compagne conserve le statut amoureux SFC. Les 5040 anciennes sélections restent identiques. BPS/IPS relus indépendamment, 6960 entrées redécodées, 870 groupes et 416009 octets contrôlés sur le bus. Essais de rendu ciblés : 21 pages sur cinq messages (137,175,189,199,209), accents, noms des Redon, pagination et récit long. Aucun parcours naturel complet déclaré.",
+  "notes": "20 dialogues supplémentaires relus : fin de la quête de l’insigne du courage et Calcado/Aridéa avant et après l’île des Sourires. 5078/6957 messages du script principal ; 1879 restants, plus les tables séparées. Les 5058 sélections précédentes restent identiques. Deux variantes de genre DS neutralisées et une double apostrophe corrigée. BPS/IPS relus, 6960 entrées redécodées, 870 groupes contrôlés sur le bus. 31 pages de rendu ciblé sur six messages, sans parcours naturel complet.",
   "next": "Poursuivre sans attendre une relance ; sauvegarder le prochain passage."
 }

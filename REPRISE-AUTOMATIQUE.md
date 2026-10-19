@@ -1,6 +1,6 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.20, 5058/6957 messages du script principal ; 1899 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.21, 5078/6957 messages du script principal ; 1879 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
 
 Après un clone, lancer `python restore_sources.py`. Ce script vérifie les empreintes des morceaux sous sources/ et patches/, restaure les sources complètes de la v0.19 et les IPS. Les fichiers déjà modifiés sont conservés. Le BPS utilisable directement est sous patches/. Le fractionnement des archives sert uniquement au transfert ; le script les reconstitue automatiquement.
 
@@ -21,3 +21,11 @@ La tâche horaire doit continuer jusqu'à finalisation réellement vérifiée du
 18 nouveaux messages intégrés (Vallonclair), 5040 anciens tokens inchangés. ROM résultat SHA256 `2817bf421bc107ef9962075a697f97b83f4400e34a7f4a0c205eb1c712fd4cad`. Lire `etat-projet.json` et les rapports v0.20. `restore_sources.py` restaure désormais aussi les deltas lisibles sous `sources/lots/` via `restore_lots.py`, sans écraser les fichiers modifiés. Le paquet initial v0.19 est conservé. Les 18 nouvelles sélections sont en JSON lisible ; le restaurateur les fusionne avec les 5040 sélections v0.19 après vérification des empreintes. Les scripts et rapports v0.20 sont suivis directement. Le BPS est disponible sous patches/. L’IPS et les captures ont été vérifiés localement ; les ROM et états restent locaux.
 
 Après restauration, les sélections de v0.20 sont présentes sans exécuter un générateur. `pass20.py` est le delta de revue, idempotent et limité aux données du lot ; ne pas rejouer les anciens pass non idempotents. Reconstruction : `python dq6-fr/v0.20/init.py`, puis `prepare.py`, `build.py`, `verify.py`. Les tests de rendu demandent un cœur local Snes9x et un état de camp compatible, non publiés. Le blocage 1836 reste différé. Pour les verrous, utiliser flock sur `.dq6-translation.lock` et libérer le verrou après sauvegarde/push ; un fichier de métadonnées restant seul ne prouve pas un passage actif.
+
+## Lot v0.21 du 19 octobre 2026
+
+20 messages intégrés : fin de la quête de l’insigne du courage et Calcado/Aridéa avant/après l’île des Sourires. Deux formulations de genre DS neutralisées et marqueurs de citation retirés autour de l’île pour éviter une double apostrophe. Aucun ancien token modifié. ROM résultat SHA256 `efb866259dd3190193217783df403beca15efb01559daa6036aab57cf5f083f4`.
+
+`restore_sources.py` restaure dans l’ordre v0.19, v0.20 puis v0.21 : les deltas sont des JSON lisibles avec empreintes, sans archive opaque ajoutée. Le script idempotent `dq6-fr/pass21.py` reconstruit les entrées du lot. Les sélections intégrées sont reconstituées sans ROM en fusionnant les 20 nouvelles avec les 5058 précédentes. Reconstruction locale complète : `init.py`, `prepare.py`, `build.py`, `verify.py` sous `dq6-fr/v0.21/`. Le BPS est dans `patches/` ; l’IPS est régénéré par build.py.
+
+Rapports : 6960 entrées redécodées, BPS/IPS réappliqués, 870 groupes et 417222 octets contrôlés sur le bus, 31 pages sur six répliques en banc de camp (220,246,248,251,255,282). Les captures et états restent locaux ; le protocole et leurs empreintes sont suivis. Aucun parcours complet ni scène naturelle complète déclaré. Conserver le blocage 1836 comme différé. Ne pas gonfler le compte principal avec les tables séparées.

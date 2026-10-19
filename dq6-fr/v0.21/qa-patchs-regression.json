@@ -1,0 +1,39 @@
+{
+  "name_ids_resolved_independently": 2512,
+  "changed_name_ids_from_ips": [
+    156,
+    231,
+    233,
+    781,
+    2309,
+    2310,
+    2311,
+    2312,
+    2313
+  ],
+  "legacy_credit_entry_empty": true,
+  "save_slot_label_journal": true,
+  "settings_label_options": true,
+  "bps_matches": true,
+  "ips_matches": true,
+  "wrong_sources_rejected": [
+    "en_tete_copieur",
+    "source_modifiee"
+  ],
+  "header_checksums_match": true,
+  "v20_messages_retained": 5058,
+  "new_ds_validations": 20,
+  "all_v20_tokens_unchanged": true,
+  "unresolved_ds_commands_absent_from_insertions": true,
+  "protected_native_controls_preserved": true,
+  "result_sha256": "efb866259dd3190193217783df403beca15efb01559daa6036aab57cf5f083f4",
+  "hero_naming_window": {
+    "descriptor": 147,
+    "x": 1,
+    "width": 29,
+    "right_edge_unchanged": true
+  },
+  "all_other_bytes_equal_v20_except_script_names_pointers_checksums_and_naming_window": true,
+  "new_scoped_native_occurrences_preserved": true,
+  "new_rows_checked": 20
+}
