@@ -1,0 +1,31 @@
+{
+  "open_audits": [
+    {
+      "ids": [
+        322,
+        323
+      ],
+      "reason": "Répartition des renseignements du tapis entre branches et ancienne sélection 323 à corriger dans un lot isolé."
+    },
+    {
+      "ids": [
+        1836
+      ],
+      "reason": "Seconde commande B2 manquante au rendu ; résolution moteur/contextuelle nécessaire."
+    },
+    {
+      "ids": [
+        5351
+      ],
+      "reason": "SFC statue de ゴイル contre dragon doré DS et itinéraire fragmenté : relire avec les autres indices du bouclier.",
+      "sfc_jp": "私は　王の命をうけて[LINE]伝説の盾の　いいつたえについて[LINE]研究を　しています。[WAIT][LINE]ゴイルの像から　南にまっすぐ。[LINE]つきあたって　左手をカベにつけ[LINE]そのまま　カベづたいに歩き...[WAIT][LINE]さいしょの　しげみを調べよ![LINE]......とは　どこのことを[LINE]いっているのか。うーむ。[END STRING AC]",
+      "ds_jp": [
+        "@a@b＊「私は　王の命を受けて\n\t伝説の盾の　言い伝えについて\n\t研究を　しています。\n@c0@",
+        "@a@b＊「黄金の竜から　南にまっすぐ。\n\tつきあたって　左手をカベにつけ\n\tそのまま　カベづたいに歩き……\n@c0@",
+        "@a@b＊「最初の　しげみを調べよ！\n\t……とは　どこのことを\n\tいっているのか。　うーむ。\n@c0@"
+      ],
+      "ds_fr": "Le roi Clément m'a demandé de faire des recherches approfondies sur le bouclier légendaire. ⓥAu sud du dragon doré. Faites le tour du mur, puis examinez l'herbe pour ouvrir le chemin.ⓦ C'est un indice intéressant, mais je ne sais absolument pas à quoi ça fait référence."
+    }
+  ],
+  "no_new_credit_for_deferred": true
+}

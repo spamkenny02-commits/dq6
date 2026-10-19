@@ -1,6 +1,14 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.28, 5552/6957 messages du script principal ; 1405 restants, plus les tables séparées menus, noms, objets, sorts et combat. ROM cible : 8 Mio ; examiner 4 Mio après finalisation.
+Dépôt : https://github.com/spamkenny02-commits/dq6, branche main. Dernière version intégrée : v0.29, 5616/6957 messages du script principal, 1341 restants. Tables : 33 noms de lieux préparés non insérés ; inventaire de 2048 entrées distinctes pour 2512 SIDs, 464 alias. Garde 8 Mio ; revoir 4 Mio après finalisation réelle.
+
+## Lot v0.29 : 64 ajouts et inventaire des tables
+
+64 propositions auparavant différées relues et intégrées, 61 adaptations détaillées dans revue-lot-v029.json ; 5552 anciennes sélections conservées. Les corps des nouveaux textes gardent exactement les occurrences des variables de noms SFC, hors labels de locuteurs consolidés. Tommy (nom français DS par défaut du Terry japonais) est littéral en 5673 avant son recrutement, sans nouveau CD ; Laura n'est pas nommée avant sa présentation en 2300. Exceptions de locuteurs 1111/6749/5252 et ouvertures anonymes 1203/5036/5040 contrôlées explicitement. L'indice supplémentaire DS du coffre du lac est retiré de 719 ; le titre non nommé de 4061 reste non nommé ; la vente 3046 est une carte, pas une clef. Recette idempotente pass29.py, delta sources/lots/v0.29.json.
+
+BPS/IPS réappliqués, 6960 entrées redécodées, octets hors zones protégées inchangés, 870 groupes et 462145 octets sur le bus ; 57 pages de onze messages et démarrage Journal relus dans Snes9x. Redirections de diagnostic au camp, aucun parcours naturel complet. ROM SHA256 813ce33afb47fb0728a1d66b5097cd7a546095b180422755c922fcdfe4faf930. Captures et états locaux seulement.
+
+Tables : audit_tables.py v0.29 puis inventaire_tables.py v0.29. Inventaire par blocs physiques, pas par numéro de SID : conserver les 464 alias et les 157 pointeurs. 906 correspondances JP exactes à une VF DS unique ne sont pas 906 validations. Les 349 identifiants et 82 vides incluent des zones à qualifier ; les 1585 AUTRE incluent aussi du français hérité, pas seulement de l'anglais. 33 lieux sont PREPARE_NON_INSERE, sans compte intégré. Encodage accentué, fenêtres, sauts de ligne et repacking à tester avant insertion ; détails et marges dans inventaire-tables.json. Audits 322/323, 1836 et indice 5351 ouverts. Continuer sans plafond de 150, en sauvegardant chaque lot ; ne pas forcer ces ambiguïtés pour finir dans la nuit.
 
 ## Lot v0.28 : 150 ajouts
 

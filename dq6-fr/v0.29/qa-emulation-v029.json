@@ -1,0 +1,34 @@
+{
+  "version": "v0.29",
+  "result_sha256": "813ce33afb47fb0728a1d66b5097cd7a546095b180422755c922fcdfe4faf930",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "diagnostic_extension": "dq6-fr/emulator-tests/peek_extension.cpp",
+  "cold_boot_reaches_journal_menu": true,
+  "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "fixture_ids": [
+    5673,
+    2300,
+    3526,
+    4877,
+    3046,
+    6749,
+    5173,
+    2462,
+    1590,
+    1140,
+    1203
+  ],
+  "pages_visually_reviewed": 57,
+  "readable": true,
+  "name_examples": [
+    "AM",
+    "Emilie",
+    "Laura",
+    "Tommy"
+  ],
+  "natural_scenes_played": false,
+  "all_64_messages_emulated": false,
+  "full_playthrough": false,
+  "limits": "Redirections de diagnostic au camp. Les choix Oui/Non finaux viennent du dialogue hôte. La vente de carte et les branches de vocation ne sont pas parcourues naturellement. Pas de nouveau CD avant recrutement. Aucune ROM ni état publié."
+}

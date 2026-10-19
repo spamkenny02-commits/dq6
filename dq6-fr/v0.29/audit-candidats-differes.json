@@ -1,0 +1,14 @@
+[
+  {
+    "id": 5351,
+    "status": "DIFFERE_NON_INSERE",
+    "sfc_jp": "私は　王の命をうけて[LINE]伝説の盾の　いいつたえについて[LINE]研究を　しています。[WAIT][LINE]ゴイルの像から　南にまっすぐ。[LINE]つきあたって　左手をカベにつけ[LINE]そのまま　カベづたいに歩き...[WAIT][LINE]さいしょの　しげみを調べよ![LINE]......とは　どこのことを[LINE]いっているのか。うーむ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「私は　王の命を受けて\n\t伝説の盾の　言い伝えについて\n\t研究を　しています。\n@c0@",
+      "@a@b＊「黄金の竜から　南にまっすぐ。\n\tつきあたって　左手をカベにつけ\n\tそのまま　カベづたいに歩き……\n@c0@",
+      "@a@b＊「最初の　しげみを調べよ！\n\t……とは　どこのことを\n\tいっているのか。　うーむ。\n@c0@"
+    ],
+    "ds_fr_body": "Le roi Clément m'a demandé de faire des recherches approfondies sur le bouclier légendaire. ⓥAu sud du dragon doré. Faites le tour du mur, puis examinez l'herbe pour ouvrir le chemin.ⓦ C'est un indice intéressant, mais je ne sais absolument pas à quoi ça fait référence.",
+    "reason": "Différence de locuteur, de noms natifs, de sens ou de mécanique à examiner séparément ; aucune validation fondée sur le score de découverte."
+  }
+]
