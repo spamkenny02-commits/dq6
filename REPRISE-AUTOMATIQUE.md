@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt : https://github.com/spamkenny02-commits/dq6, main. Dernière version : v0.30, 5730/6957 messages intégrés, 1227 restants. Depuis v0.28 : 178 ajouts en deux lots. Tables : inventaire v0.29 de 2048 entrées, 2512 SIDs et 464 alias ; 33 lieux PREPARE_NON_INSERE, pas de nouvelle insertion. 8 Mio jusqu'à la fin réellement vérifiée, puis revoir 4 Mio.
+Dernière version : v0.31, 5731/6957 messages intégrés, 1226 restants. Depuis v0.28 : 179 nouveaux et 1 correction héritée. Tables : 33 lieux préparés non insérés, inventaire v0.29 ; aucune insertion nouvelle. Toujours 8 Mio.
+
+## Lot v0.31 : tapis 322/323
+
+Lire dq6-fr/v0.31/LISEZ-MOI.md et audit-tapis-reordonne.json. 322 nouveau, 323 corrigé explicitement : les français DS 0056:584–588 étaient réordonnés, l'ancienne sélection 323 portait les faits de 322. Revue de tout le bloc JP/FR DS et JP SFC. 5729 autres anciennes sélections inchangées. Restauration étendue avec replacements_file gardé par empreinte des tokens et ancien texte ; 7 tests unitaires. Ne pas retirer ce mécanisme ni réappliquer l'ancien 323. Recette pass31.py et delta sources/lots/v0.31.json. BPS/IPS réappliqués, 6960 entrées redécodées, bus 870 groupes/467014 octets ; Journal et 8 pages 321/322/323 relues. Redirections de diagnostic au camp, pas les branches naturelles. Continuer 1226 textes et tables, audit 1836 et indices 5351 ouverts ; ne pas annoncer la fin. Les 33 lieux restent PREPARE_NON_INSERE : alphabet accentué, tailles, pointeurs et fenêtres à tester.
 
 ## Lot v0.30 : 114 ajouts
 

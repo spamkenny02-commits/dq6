@@ -2,6 +2,24 @@
 from pathlib import Path
 import hashlib,json,runpy
 
+def merge_reviewed_revisions(old, revisions):
+    """Apply explicitly reviewed corrections only to the exact recorded baseline."""
+    byid={r['id']:r for r in old}
+    assert len(byid)==len(old),'Duplicate baseline ID'
+    seen=set()
+    for revision in revisions:
+        mid=revision['id']
+        assert mid in byid and mid not in seen,'Unknown or duplicate revision ID'
+        previous=byid[mid]
+        digest=hashlib.sha256(json.dumps(previous['tokens'],separators=(',',':')).encode()).hexdigest()
+        assert digest==revision['old_tokens_sha256'],'Revision baseline tokens differ'
+        assert previous['text']==revision['old_text'],'Revision baseline text differs'
+        replacement=revision['new_selection']
+        assert replacement['id']==mid,'Replacement ID differs'
+        assert revision['reason'].strip(),'Missing review reason'
+        byid[mid]=replacement;seen.add(mid)
+    return [byid[r['id']] for r in old]
+
 def restore_lots(root,dest):
     def write_missing(path,data):
         if path.exists():
@@ -22,6 +40,12 @@ def restore_lots(root,dest):
         old=json.loads((B/'insertion-candidates.json').read_text());new=json.loads((O/'nouveaux-messages.json').read_text())
         assert len(old)==spec['baseline_count'] and len(new)==spec['new_count']
         oldids={r['id'] for r in old};assert not oldids&{r['id'] for r in new}
+        revision_path=spec.get('replacements_file')
+        if revision_path:
+            rp=Path(revision_path)
+            assert not rp.is_absolute() and '..' not in rp.parts
+            assert revision_path in {r['path'] for r in spec['files']},'Unmanifested revisions'
+            old=merge_reviewed_revisions(old,json.loads((dest/rp).read_text()))
         rows=sorted(old+new,key=lambda r:r['id'])
         data=json.dumps(rows,ensure_ascii=False,indent=2).encode()
         assert hashlib.sha256(data).hexdigest()==spec['merged_selection_sha256']

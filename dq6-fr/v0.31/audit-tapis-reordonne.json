@@ -1,0 +1,61 @@
+{
+  "status": "CORRIGE_SEMANTIQUEMENT_V031",
+  "new_insertion_deferred": 322,
+  "previous_selection_to_audit": 323,
+  "previous_tokens_preserved": false,
+  "sfc_jp": {
+    "321": "まほうのじゅうたんを[LINE]知っているかい?[END STRING AC]",
+    "322": "あれは　昔　この町の[LINE]カルベ老夫婦が　つくったもの。[WAIT][LINE]昔　大魔王に　ほろぼされたとき[LINE]町の　たからものと　いっしょに[LINE]どこかへ　飛ばされてしまったのさ。[END STRING AC]",
+    "323": "まほうのじゅうたんが　あれば[LINE]草原や海を　飛んでいくことが[LINE]できるのさ。[WAIT][LINE]しかし　今は　どこの[LINE]だれが　もっているのだか......。[WAIT][LINE]ウワサじゃ　どこかのオシャレな[LINE]金持ちが　家宝にしていたらしいが[LINE]それも　昔の話だからねえ。[END STRING AC]"
+  },
+  "previous_fr": "C'était l'un des merveilleux objets créés par les brillants Soren, le vieux couple qui habite ici. Par malheur, on ignore ce qu'il est devenu depuis l'attaque du démon. Tous nos trésors ont ainsi disparu.",
+  "ds_file": "0056.p",
+  "ds_context": [
+    {
+      "id": 583,
+      "ja": "@a@b＊「魔法のじゅうたんを\n\t知っているかい？\n@c0@",
+      "fr": "@a@b*ⓢ Avez-vous entendu parler du tapis volantⓡ\n@c0@"
+    },
+    {
+      "id": 584,
+      "ja": "@a@b＊「あれは　昔　この町の\n\tカルベ老夫婦が　作ったものなんだ。\n@c0@",
+      "fr": "@a@b*ⓢ Eh bien, si vous en aviez un, survoler les océans et les plaines serait pour vous un jeu d'enfantⓠ\n@c0@"
+    },
+    {
+      "id": 585,
+      "ja": "@a@b＊「昔　魔王に　ほろぼされたとき\n\t町の宝物と　いっしょに\n\tどこかへ　飛ばされてしまったのさ。\n@c0@",
+      "fr": "@a@b*ⓢ Mais on ignore tout de l'endroit où il se trouve, je le crains. On raconte qu'un homme aisé se l'est approprié, mais qui sait s'il le possède encore...\n@c0@"
+    },
+    {
+      "id": 586,
+      "ja": "@a@b＊「魔法のじゅうたんが　あれば\n\t草原や海の上を　飛んでいくことが\n\tできるのさ。\n@c0@",
+      "fr": "@a@b*ⓢ C'était l'un des merveilleux objets créés par les brillants Soren, le vieux couple qui habite ici.\n@c0@"
+    },
+    {
+      "id": 587,
+      "ja": "@a@b＊「しかし　今は　どこの\n\tだれが　持っているんだか……。\n@c0@",
+      "fr": "@a@b*ⓢ Par malheur, on ignore ce qu'il est devenu depuis l'attaque du démon.\n@c0@"
+    },
+    {
+      "id": 588,
+      "ja": "@a@b＊「ウワサじゃ　どこかのオシャレな\n\t金持ちが　家宝にしていたらしいが\n\tそれも　昔の話だからねえ。\n@c0@",
+      "fr": "@a@b*ⓢ Tous nos trésors ont ainsi disparu.\n@c0@"
+    }
+  ],
+  "finding": "Les deux textes SFC sont désormais distincts et fidèles au japonais : fabrication/disparition en 322 ; vol/propriétaire/rumeur ancienne en 323. Ancienne erreur 323 corrigée de façon isolée, gardée par empreinte et texte initial.",
+  "new_insertion": 322,
+  "corrected_previous_selection": 323,
+  "approved_revision_file": "revisions-messages.json",
+  "french_reordering_review": "322 : FR DS 0056:586–588 ; 323 : FR DS 0056:584–585. Les faits SFC absents ou altérés en DS sont adaptés explicitement.",
+  "render_review": {
+    "ids": [
+      321,
+      322,
+      323
+    ],
+    "pages": 8,
+    "readable": true,
+    "natural_branches_played": false
+  },
+  "remaining_limit": "Les trois textes sont testés par redirection au camp. Les branches naturelles de la ville ne sont pas parcourues."
+}

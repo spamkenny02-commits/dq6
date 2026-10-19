@@ -7,12 +7,14 @@
   "table_prepared_not_inserted": 33,
   "table_new_inserted": 0,
   "rebuild_sha256": "16a920616d6c86767559dea03a9ce06c1f9986bb1349da88094a62a255db73a3",
-  "restore_from_git_retested": false,
+  "restore_from_git_retested": true,
   "roms_published": false,
   "restoration_from_publication_files_retested": true,
   "restored_selection_count": 5730,
   "reconstructed_from_restored_sources": true,
   "reconstructed_sha256": "16a920616d6c86767559dea03a9ce06c1f9986bb1349da88094a62a255db73a3",
   "patch_verification_repeated_after_restore": true,
-  "recipe_scripts_regenerated_identically": true
+  "recipe_scripts_regenerated_identically": true,
+  "source_commit_verified": "4eb7b85f8bdc8463a94e56b32db967a7645e2bb6",
+  "restored_selection_sha256": "e0a7c882ac0ab5c992821bde72312e0374aeb45aab6138f2f55763b62042fdc0"
 }

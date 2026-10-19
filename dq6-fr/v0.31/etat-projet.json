@@ -1,0 +1,27 @@
+{
+  "release": "v0.31",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5731,
+    "visible_total": 6957,
+    "new_this_pass": 1,
+    "corrected_previous_this_pass": 1,
+    "remaining": 1226
+  },
+  "baseline": "v0.30",
+  "prepared_not_inserted": {
+    "main": 0,
+    "separate_places": 33
+  },
+  "separate_tables": {
+    "inventory_version": "v0.29",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "prepared_places": 33,
+    "inserted_this_pass": 0
+  },
+  "rom_bytes": 8388608,
+  "notes": "Depuis v0.28 : 179 nouveaux messages et une correction héritée isolée. Audit sémantique 322/323 corrigé ; redirection diagnostique de 8 pages sur 321/322/323, pas de parcours naturel. 5729 anciennes sélections inchangées, 323 révisé avec garde exacte. BPS/IPS réappliqués, 6960 entrées redécodées, 467014 octets de script contrôlés sur bus Snes9x.",
+  "next": "Continuer les 1226 textes et les tables. 1836 reste bloqué sur le rendu B2 répété, 5351 et indices/rituels restent à relire. Ne pas déclarer finalisé."
+}

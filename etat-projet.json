@@ -1,13 +1,14 @@
 {
-  "release": "v0.30",
+  "release": "v0.31",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 5730,
+    "validated": 5731,
     "visible_total": 6957,
-    "new_this_pass": 114,
-    "remaining": 1227
+    "new_this_pass": 1,
+    "corrected_previous_this_pass": 1,
+    "remaining": 1226
   },
-  "baseline": "v0.29",
+  "baseline": "v0.30",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 33
@@ -21,6 +22,6 @@
     "inserted_this_pass": 0
   },
   "rom_bytes": 8388608,
-  "notes": "Deux lots depuis v0.28 : 178 ajouts intégrés. Ce lot v0.30 : 114 textes, 47 adaptations SFC explicites, 5616 anciennes sélections inchangées. BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 466984 octets sur le bus. Journal et 40 pages de dix messages relus dans Snes9x, dont C0 avec Olivier par injection RAM. Aucun parcours naturel complet.",
-  "next": "Continuer les 1227 textes, les tables et audits hérités. Voir inventaire v0.29, 33 lieux PREPARE_NON_INSERE, nouveaux-cas-differes.json et réserves 322/323,1836,5351."
+  "notes": "Depuis v0.28 : 179 nouveaux messages et une correction héritée isolée. Audit sémantique 322/323 corrigé ; redirection diagnostique de 8 pages sur 321/322/323, pas de parcours naturel. 5729 anciennes sélections inchangées, 323 révisé avec garde exacte. BPS/IPS réappliqués, 6960 entrées redécodées, 467014 octets de script contrôlés sur bus Snes9x.",
+  "next": "Continuer les 1226 textes et les tables. 1836 reste bloqué sur le rendu B2 répété, 5351 et indices/rituels restent à relire. Ne pas déclarer finalisé."
 }

@@ -1,0 +1,18 @@
+{
+  "unit_tests_passed": 7,
+  "guards": [
+    "tokens SHA256 exacts",
+    "ancien texte exact",
+    "ID existant et unique",
+    "ID du remplacement identique",
+    "raison obligatoire",
+    "ordre conservé",
+    "absence de révisions compatible avec anciens lots"
+  ],
+  "baseline": 5730,
+  "new": 1,
+  "explicitly_corrected": [
+    323
+  ],
+  "old_rows_unchanged": 5729
+}

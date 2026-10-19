@@ -1,0 +1,63 @@
+{
+  "result_sha256": "bbe95ef6458b30cba8fe86942b150e15d94a6dfcf995836a2156522e67640b5c",
+  "fixture_message_redirect": 100,
+  "rows": [
+    {
+      "id": 321,
+      "page": 1,
+      "screenshot": "screenshots/v031-321-page1.png",
+      "sha256": "965308de642931b6fa88721c164faac26f2d5662bc05e3c4fa1435bb83daaa88",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v031-321-page1\", \"message_id\": 100, \"frame_mean\": 47.41998000372024}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 322,
+      "page": 1,
+      "screenshot": "screenshots/v031-322-page1.png",
+      "sha256": "167910d75d7ad4b9af03b18ad91c73862c16e53965a6892507ef8ea7370e055e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v031-322-page1\", \"message_id\": 100, \"frame_mean\": 46.7933349609375}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 322,
+      "page": 2,
+      "screenshot": "screenshots/v031-322-page2.png",
+      "sha256": "e63f8bfcc668bf6c0bddfe5c9d4d95f950e56ec628d6b2546f81dca2cb542791",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v031-322-page2\", \"message_id\": 100, \"frame_mean\": 51.399315243675595}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 322,
+      "page": 3,
+      "screenshot": "screenshots/v031-322-page3.png",
+      "sha256": "e991234452bbbffe56e8ba362f2251c12e36fda247bc1deffca8c00bf6ce5e59",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v031-322-page3\", \"message_id\": 100, \"frame_mean\": 50.930338541666664}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 323,
+      "page": 1,
+      "screenshot": "screenshots/v031-323-page1.png",
+      "sha256": "9975fbd02692be9f0f49e56573f7ad13d079f51fb0bbbb736d41b8c7fce92276",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v031-323-page1\", \"message_id\": 100, \"frame_mean\": 46.87248302641369}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 323,
+      "page": 2,
+      "screenshot": "screenshots/v031-323-page2.png",
+      "sha256": "a88bb7019a06833cd519fc7862952de7be90befdd8ce4d61ac0b0d3abf19dfda",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v031-323-page2\", \"message_id\": 100, \"frame_mean\": 51.30984351748512}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 323,
+      "page": 3,
+      "screenshot": "screenshots/v031-323-page3.png",
+      "sha256": "bd58cb1148165fe6a449b20d0a074d9c758fd8c897f092b4d2d67aa07d0920dd",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v031-323-page3\", \"message_id\": 100, \"frame_mean\": 49.48628162202381}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 323,
+      "page": 4,
+      "screenshot": "screenshots/v031-323-page4.png",
+      "sha256": "71dbbb17c6499b3b06576984556420ae524663a2df80a36f6c2aed2a842def4a",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v031-323-page4\", \"message_id\": 100, \"frame_mean\": 49.50583031063988}\nMap_ExtendedHiROMMap"
+    }
+  ],
+  "limits": "Diagnostic redirections from local camp state; no natural scene progression or full playthrough."
+}

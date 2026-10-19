@@ -1,0 +1,18 @@
+{
+  "version": "v0.31",
+  "result_sha256": "bbe95ef6458b30cba8fe86942b150e15d94a6dfcf995836a2156522e67640b5c",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "cold_boot_reaches_journal_menu": true,
+  "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "fixture_ids": [
+    321,
+    322,
+    323
+  ],
+  "pages_visually_reviewed": 8,
+  "readable": true,
+  "natural_scenes_played": false,
+  "full_playthrough": false,
+  "limits": "Redirections de diagnostic au camp. Les branches naturelles 322/323 ne sont pas parcourues."
+}

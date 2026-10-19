@@ -1,0 +1,82 @@
+[
+  {
+    "id": 322,
+    "file": "0056.p",
+    "ids": [
+      584,
+      585
+    ],
+    "sfc_jp": "あれは　昔　この町の[LINE]カルベ老夫婦が　つくったもの。[WAIT][LINE]昔　大魔王に　ほろぼされたとき[LINE]町の　たからものと　いっしょに[LINE]どこかへ　飛ばされてしまったのさ。[END STRING AC]",
+    "sfc_vf_secondaire": "Le vieux couple, les Calbes, l'ont fait.[WAIT][LINE]Lorsque l'empereur démon attaqua, les trésors de la ville y furent chargés.[WAIT][LINE]Puis nous l'expédiames au loin. Qui sait où il est maintenant…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あれは　昔　この町の\n\tカルベ老夫婦が　作ったものなんだ。\n@c0@",
+      "@a@b＊「昔　魔王に　ほろぼされたとき\n\t町の宝物と　いっしょに\n\tどこかへ　飛ばされてしまったのさ。\n@c0@"
+    ],
+    "ds_fr_body": "Eh bien, si vous en aviez un, survoler les océans et les plaines serait pour vous un jeu d'enfantⓠ Mais on ignore tout de l'endroit où il se trouve, je le crains. On raconte qu'un homme aisé se l'est approprié, mais qui sait s'il le possède encore...",
+    "french_reordered_source_ids": [
+      586,
+      587,
+      588
+    ],
+    "french_reordered_sources": [
+      {
+        "id": 586,
+        "ja": "@a@b＊「魔法のじゅうたんが　あれば\n\t草原や海の上を　飛んでいくことが\n\tできるのさ。\n@c0@",
+        "fr": "@a@b*ⓢ C'était l'un des merveilleux objets créés par les brillants Soren, le vieux couple qui habite ici.\n@c0@"
+      },
+      {
+        "id": 587,
+        "ja": "@a@b＊「しかし　今は　どこの\n\tだれが　持っているんだか……。\n@c0@",
+        "fr": "@a@b*ⓢ Par malheur, on ignore ce qu'il est devenu depuis l'attaque du démon.\n@c0@"
+      },
+      {
+        "id": 588,
+        "ja": "@a@b＊「ウワサじゃ　どこかのオシャレな\n\t金持ちが　家宝にしていたらしいが\n\tそれも　昔の話だからねえ。\n@c0@",
+        "fr": "@a@b*ⓢ Tous nos trésors ont ainsi disparu.\n@c0@"
+      }
+    ],
+    "original_body": "Eh bien, si vous en aviez un, survoler les océans et les plaines serait pour vous un jeu d'enfantⓠ Mais on ignore tout de l'endroit où il se trouve, je le crains. On raconte qu'un homme aisé se l'est approprié, mais qui sait s'il le possède encore...",
+    "adaptation_body": "C'était l'un des merveilleux objets créés par les Soren, le vieux couple de cette ville. Quand le démon suprême a détruit la ville, le tapis a été emporté quelque part avec tous nos trésors.",
+    "adaptation_review": "Les idées françaises DS sont déplacées entre 584–588. Relu l’ensemble 321–323 côté SFC et 583–588 côté DS : fabrication/disparition en 322, vol/propriétaire/rumeur ancienne en 323 ; ancien IPS secondaire consulté. Reformulation explicite, sans rapprochement flou ni changement de branche.",
+    "review": "Correction isolée de l’audit du tapis : correspondance du japonais et provenance française distinguées à cause du réordonnancement DS.",
+    "status": "RELU"
+  },
+  {
+    "id": 323,
+    "file": "0056.p",
+    "ids": [
+      586,
+      587,
+      588
+    ],
+    "sfc_jp": "まほうのじゅうたんが　あれば[LINE]草原や海を　飛んでいくことが[LINE]できるのさ。[WAIT][LINE]しかし　今は　どこの[LINE]だれが　もっているのだか......。[WAIT][LINE]ウワサじゃ　どこかのオシャレな[LINE]金持ちが　家宝にしていたらしいが[LINE]それも　昔の話だからねえ。[END STRING AC]",
+    "sfc_vf_secondaire": "Avec le tapis magique, on peut survoler vallées et océans.[WAIT][LINE]Aux derniêres nouvelles, un bourgeois en avait hérité.[WAIT][LINE]Mais c'est vieux maintenant.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「魔法のじゅうたんが　あれば\n\t草原や海の上を　飛んでいくことが\n\tできるのさ。\n@c0@",
+      "@a@b＊「しかし　今は　どこの\n\tだれが　持っているんだか……。\n@c0@",
+      "@a@b＊「ウワサじゃ　どこかのオシャレな\n\t金持ちが　家宝にしていたらしいが\n\tそれも　昔の話だからねえ。\n@c0@"
+    ],
+    "ds_fr_body": "C'était l'un des merveilleux objets créés par les brillants Soren, le vieux couple qui habite ici. Par malheur, on ignore ce qu'il est devenu depuis l'attaque du démon. Tous nos trésors ont ainsi disparu.",
+    "french_reordered_source_ids": [
+      584,
+      585
+    ],
+    "french_reordered_sources": [
+      {
+        "id": 584,
+        "ja": "@a@b＊「あれは　昔　この町の\n\tカルベ老夫婦が　作ったものなんだ。\n@c0@",
+        "fr": "@a@b*ⓢ Eh bien, si vous en aviez un, survoler les océans et les plaines serait pour vous un jeu d'enfantⓠ\n@c0@"
+      },
+      {
+        "id": 585,
+        "ja": "@a@b＊「昔　魔王に　ほろぼされたとき\n\t町の宝物と　いっしょに\n\tどこかへ　飛ばされてしまったのさ。\n@c0@",
+        "fr": "@a@b*ⓢ Mais on ignore tout de l'endroit où il se trouve, je le crains. On raconte qu'un homme aisé se l'est approprié, mais qui sait s'il le possède encore...\n@c0@"
+      }
+    ],
+    "original_body": "C'était l'un des merveilleux objets créés par les brillants Soren, le vieux couple qui habite ici. Par malheur, on ignore ce qu'il est devenu depuis l'attaque du démon. Tous nos trésors ont ainsi disparu.",
+    "adaptation_body": "Avec un tapis volant, survoler les océans et les plaines serait un jeu d'enfant! Mais on ignore qui le possède à présent. On raconte qu'une personne fortunée et élégante en avait fait un trésor de famille. Cela remonte toutefois à bien longtemps...",
+    "adaptation_review": "Les idées françaises DS sont déplacées entre 584–588. Relu l’ensemble 321–323 côté SFC et 583–588 côté DS : fabrication/disparition en 322, vol/propriétaire/rumeur ancienne en 323 ; ancien IPS secondaire consulté. Reformulation explicite, sans rapprochement flou ni changement de branche.",
+    "review": "Correction isolée de l’audit du tapis : correspondance du japonais et provenance française distinguées à cause du réordonnancement DS.",
+    "status": "RELU"
+  }
+]
