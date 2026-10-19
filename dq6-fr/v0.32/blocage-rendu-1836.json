@@ -1,0 +1,45 @@
+{
+  "id": 1836,
+  "file": "0060.p",
+  "ids": [
+    84,
+    85
+  ],
+  "sfc_jp": "[CODE D4]スラッジ「わかった　わかった[LINE][CODE B2]。　わしの負けじゃ。[WAIT][LINE][CODE D4]スラッジ「[CODE D3]も[LINE][CODE B2]の　きもちに[LINE]まかせて　いたようじゃしの。[WAIT][END STRING AC]",
+  "ds_jp": [
+    "@a@bスラッジ「わかった　わかった\n\t%a002240。　わしの負けじゃ。\n@c0@",
+    "@a@bスラッジ「%a000140も\n\t%a002240の　気もちに\n\tまかせて　いたようじゃしの。\n@c0@"
+  ],
+  "ds_fr": [
+    "@aBoss@bBon, d'accord, j'abandonneⓠ Pfff...\n@c0@",
+    "@aBoss@bJe dois reconnaître que vous en imposez, %a000140. Vous tenez vraiment à votre %a002240.\n㈡\nC'est tout à votre honneur de veiller comme ça sur vos gluantsⓠ\n@c0@"
+  ],
+  "native_bindings": {
+    "%a002240": "B2",
+    "%a000140": "D3"
+  },
+  "review": "Japonais et rôle du locuteur relus. Les différentes formulations DS courtes sont choisies d’après leur sens et la scène SFC ; noms dynamiques SFC conservés, sans nom fixe introduit.",
+  "adaptation": "D'accord, d'accord, %a002240. Tu as gagné. ㈡ %a000140 semblait aussi vouloir respecter ta décision, %a002240.",
+  "status": "INSERE_V032_RENDU_DIAGNOSTIC_VERIFIE",
+  "reason": "Le nouveau texte adapté avec pagination explicite affiche le second B2 sur la quatrième page. B2/D3/B2 préservés, moteur inchangé. Six pages capturées jusqu’au choix hôte et son successeur. La cause exacte de l’absence dans l’ancien banc de trois pages n’est pas établie.",
+  "fixture_pages": [
+    "v032-1836-page1",
+    "v032-1836-page2",
+    "v032-1836-page3",
+    "v032-1836-page4",
+    "v032-1836-page5",
+    "v032-1836-page6"
+  ],
+  "diagnostic_wram": {
+    "0x5a28": "0x0930 = Rookie"
+  },
+  "observed": {
+    "page1": "Rookie",
+    "page3": "AM",
+    "page4": "Rookie",
+    "page5": "choix hôte",
+    "page6": "message hôte 101"
+  },
+  "natural_scene_played": false,
+  "remaining_limit": "Scène naturelle de recrutement à vérifier ; pas de correctif machine requis par ce diagnostic."
+}

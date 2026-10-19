@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1836,
+    "file": "0060.p",
+    "ids": [
+      84,
+      85
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4]スラッジ「わかった　わかった[LINE][CODE B2]。　わしの負けじゃ。[WAIT][LINE][CODE D4]スラッジ「[CODE D3]も[LINE][CODE B2]の　きもちに[LINE]まかせて　いたようじゃしの。[WAIT][END STRING AC]",
+    "sfc_previous": "[CODE D4]Sludge.Okay, okay. [CODE B2]. You win.[WAIT][LINE][CODE D4]Sludge.I think [CODE B2] wants to stay with you, [CODE D3].[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bスラッジ「わかった　わかった\n\t%a002240。　わしの負けじゃ。\n@c0@",
+      "@a@bスラッジ「%a000140も\n\t%a002240の　気もちに\n\tまかせて　いたようじゃしの。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aBoss@bBon, d'accord, j'abandonneⓠ Pfff...\n@c0@",
+      "@aBoss@bJe dois reconnaître que vous en imposez, %a000140. Vous tenez vraiment à votre %a002240.\n㈡\nC'est tout à votre honneur de veiller comme ça sur vos gluantsⓠ\n@c0@"
+    ],
+    "original_body": "Bon, d'accord, j'abandonneⓠ Pfff... Je dois reconnaître que vous en imposez, %a000140. Vous tenez vraiment à votre %a002240.\n㈡\nC'est tout à votre honneur de veiller comme ça sur vos gluantsⓠ",
+    "adaptation_body": "D'accord, d'accord, %a002240. Tu as gagné. ㈡ %a000140 semblait aussi vouloir respecter ta décision, %a002240.",
+    "adaptation_review": "Le japonais SFC est presque identique aux deux japonais DS, mais la VF DS omet B2 dans le premier et change le propos du second. Rétablit abandon et décision laissée à B2, avec ordre natif B2/D3/B2. Boss est le nom français DS de スラッジ. Deux tours du même locuteur regroupés, pause de paragraphe conservée. Ancien IPS secondaire consulté, pas validation à lui seul.",
+    "render_review": "Nouveau banc à pagination explicite : Rookie B2 page 1, AM D3 page 3, Rookie B2 page 4 ; page 5 choix hôte, page 6 message hôte 101. Aucun code moteur modifié. Ancien banc limité à 3 pages non concluant ; cause exacte de son second B2 invisible non établie. Scène naturelle non parcourue."
+  }
+]

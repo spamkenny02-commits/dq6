@@ -10,9 +10,12 @@
   "table_prepared_not_inserted": 33,
   "table_new_inserted": 0,
   "rebuild_sha256": "bbe95ef6458b30cba8fe86942b150e15d94a6dfcf995836a2156522e67640b5c",
-  "restore_from_git_retested": false,
+  "restore_from_git_retested": true,
   "roms_published": false,
   "fresh_restore_rebuild_verified": true,
   "generated_recipe_scripts_reproduced": true,
-  "restored_selection_count": 5731
+  "restored_selection_count": 5731,
+  "source_commit_verified": "03c93c841b94994d7493f64bddb87a905b0284df",
+  "restored_selection_sha256": "0e9a9311914aa53929d98351394064fb9efb0f7fc188411decf07fe66b3824e1",
+  "corrected_323_restored": true
 }

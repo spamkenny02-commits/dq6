@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dernière version : v0.31, 5731/6957 messages intégrés, 1226 restants. Depuis v0.28 : 179 nouveaux et 1 correction héritée. Tables : 33 lieux préparés non insérés, inventaire v0.29 ; aucune insertion nouvelle. Toujours 8 Mio.
+Dernière version : v0.32, 5732/6957 intégrés, 1225 restants. Depuis v0.28 : 180 nouveaux et 1 correction héritée (323). Tables : 33 lieux préparés non insérés, aucune insertion nouvelle ; inventaire v0.29. Toujours 8 Mio.
+
+## Lot v0.32 : 1836
+
+Lire v0.32/LISEZ-MOI.md et blocage-rendu-1836.json. Le second B2 est visible en quatrième page du nouveau texte à pagination explicite. L'ancien banc de trois pages ne montrait pas ce nom ; la cause précise de son échec n'est pas établie. Maintenant intégré avec ordre B2/D3/B2, Rookie/AM/Rookie visibles après injection diagnostique 5A28=0930. Six pages jusqu'au choix hôte et au message hôte 101 ; moteur inchangé. Japonais SFC et DS relus, VF adaptée aux faits et noms SFC. 5731 anciennes sélections conservées, correction 323 héritée intacte. Recette pass32.py utilisant templates compilateurs v0.30 et données baseline v0.31 ; delta v0.32. Restauration complète et reconstruction à vérifier à chaque point de reprise. Les scènes naturelles 322/323 et 1836 restent à vérifier ; 5351/5341 et cas différés v0.30 ouverts. Continuer 1225 textes et tables ; aucune finalisation annoncée.
 
 ## Lot v0.31 : tapis 322/323
 

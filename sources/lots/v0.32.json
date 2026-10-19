@@ -1,0 +1,117 @@
+{
+  "kind": "readable_translation_delta",
+  "version": "v0.32",
+  "baseline": "v0.31",
+  "baseline_count": 5731,
+  "new_count": 1,
+  "recipe": "dq6-fr/pass32.py",
+  "merged_selection_sha256": "990a5a5ca15f821879638bcb75a33664611beaba0f30ac9d16fad314692a1591",
+  "generated_inputs": {
+    "correspondances-revues.json": "49f294d420e44e111c270986ca8a52aab774a67954dbb6f823b5d3f4cb13f2e8",
+    "adaptations-francaises.json": "671b355b3bbeb6fbb946b8c307048a8f0262b1776a41aaffd6e006db11172b86",
+    "liaisons-variables-natives.json": "3985b511eec3a5d48f35a23b4108e8756aee57431ff1869db7b4a310896f8230",
+    "charset.json": "f84c9183341fab8591f23ee608b0bdf6b9191a09ceeecf04a95afca114027c55"
+  },
+  "files": [
+    {
+      "path": "dq6-fr/pass32.py",
+      "sha256": "54cfa2f29199c63a3bb77e32f0bee240735a2625879acfae52c293111244abd5",
+      "bytes": 2228
+    },
+    {
+      "path": "patches/DQVI-FR-DS-v0.32-BASE-JP-PARTIEL.bps",
+      "sha256": "c4e0217208d12e3aaebc9a46ef1f459fca388a147af3dfa4b82dea49f0ccd385",
+      "bytes": 677447
+    },
+    {
+      "path": "dq6-fr/v0.32/init.py",
+      "sha256": "1320a9dcaa9ee9376afeadb66f8169cbc019a94e69e9331ad15ee69097e3d43e",
+      "bytes": 1385
+    },
+    {
+      "path": "dq6-fr/v0.32/prepare.py",
+      "sha256": "cd5143e95551ddeb5cde86e736c54f5e383fe5505bca5650dd4dea7393559b9f",
+      "bytes": 16658
+    },
+    {
+      "path": "dq6-fr/v0.32/build.py",
+      "sha256": "3175f427d23f8ebf3f5fe5a6943a7093ded5904df1fc92094142b51a8982ec77",
+      "bytes": 8690
+    },
+    {
+      "path": "dq6-fr/v0.32/verify.py",
+      "sha256": "2671a1c30fb3816d515a88d2606c1dfd87537f7948a323430734365ff16bca57",
+      "bytes": 5590
+    },
+    {
+      "path": "dq6-fr/v0.32/names.py",
+      "sha256": "f0dd949c5d28b235b031d7f4b32fc71f01bed9557b8f14e658df7cecddbe985f",
+      "bytes": 3452
+    },
+    {
+      "path": "dq6-fr/v0.32/test_render.py",
+      "sha256": "00d6806f564f5055cb4f51289e86974f8b87620122edefce67d8239cc64748f7",
+      "bytes": 2010
+    },
+    {
+      "path": "dq6-fr/v0.32/LISEZ-MOI.md",
+      "sha256": "984464503a9ce421d808177fba562d820304c036fbd6104ed0933b4c2a239dc9",
+      "bytes": 2056
+    },
+    {
+      "path": "dq6-fr/v0.32/revue-lot-v032.json",
+      "sha256": "0e87a75d6ef340bfd9b3ddd858f4ba83f2e4642b5e96f74350a7b657604cc8bb",
+      "bytes": 2161
+    },
+    {
+      "path": "dq6-fr/v0.32/revues-preparatoires-remplacees.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "path": "dq6-fr/v0.32/nouveaux-messages.json",
+      "sha256": "f7711042fddbc8c5e129e3d9c28c97258175e8dc84b77d01b3bfe0147bea94d0",
+      "bytes": 2141
+    },
+    {
+      "path": "dq6-fr/v0.32/etat-projet.json",
+      "sha256": "0396aaa5fc30bbcf2651b499772d5ca5306a7305136dbf0c3a6e7df3795d5313",
+      "bytes": 1049
+    },
+    {
+      "path": "dq6-fr/v0.32/couverture-preparation.json",
+      "sha256": "b6a368c2a43026ba0719a1f75783891c2117680a97b6c5f6e3a832de6f5fbf44",
+      "bytes": 182
+    },
+    {
+      "path": "dq6-fr/v0.32/validation.json",
+      "sha256": "6c9f8a3dc0844b667a1e35a4bc371de600f06b820d56ff92e3625c021602b689",
+      "bytes": 1030
+    },
+    {
+      "path": "dq6-fr/v0.32/qa-patchs-regression.json",
+      "sha256": "7c2ed0a11103816e9c6ce613b298a520ac7e9e3fe96701fa882ec827012be1b2",
+      "bytes": 1007
+    },
+    {
+      "path": "dq6-fr/v0.32/qa-bus.json",
+      "sha256": "ea56bf0f145c7f5b805bb6e07633092ebb1e8d790095f5f0fef25ba89d9b193e",
+      "bytes": 112
+    },
+    {
+      "path": "dq6-fr/v0.32/qa-render-fixtures.json",
+      "sha256": "0708f0eb476f4bd846c24bfee922ae1eda3715f07e9907849728e934ec98955a",
+      "bytes": 2303
+    },
+    {
+      "path": "dq6-fr/v0.32/qa-emulation-v032.json",
+      "sha256": "b1e25d6e86264ead437c1daa55b036fea86417737d26bf9c042f70687b93699b",
+      "bytes": 871
+    },
+    {
+      "path": "dq6-fr/v0.32/blocage-rendu-1836.json",
+      "sha256": "2756c1e855cefaddfa4bf6ec3139df42aed314028e8ff7b0e6735dc9d070ae79",
+      "bytes": 2118
+    }
+  ]
+}

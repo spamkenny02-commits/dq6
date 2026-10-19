@@ -1,0 +1,49 @@
+{
+  "result_sha256": "f92d0de32c6af93eb1628ebf13597a22308e65d889ad43db6b3ec0b59c01aea5",
+  "fixture_message_redirect": 100,
+  "rows": [
+    {
+      "id": 1836,
+      "page": 1,
+      "screenshot": "screenshots/v032-1836-page1.png",
+      "sha256": "727b3d97dd6dc3ca66e97153d2ea268b4a050d02c8c6d5ef5976756a708aca14",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v032-1836-page1\", \"message_id\": 100, \"frame_mean\": 44.60471888950893}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1836,
+      "page": 2,
+      "screenshot": "screenshots/v032-1836-page2.png",
+      "sha256": "9978af26d6ac0a08f4874f66700e554055d70d1b5a476b1a83fb33ac0a59f7ae",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v032-1836-page2\", \"message_id\": 100, \"frame_mean\": 46.57472446986607}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1836,
+      "page": 3,
+      "screenshot": "screenshots/v032-1836-page3.png",
+      "sha256": "62f3adb8261b61a088af884ca3095e3edf6ac52b851d56aec675da17cc267b07",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v032-1836-page3\", \"message_id\": 100, \"frame_mean\": 48.240559895833336}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1836,
+      "page": 4,
+      "screenshot": "screenshots/v032-1836-page4.png",
+      "sha256": "0c9ce81e8510142956f248d3ea5c3381c2fd8c125aa935be296bf51ba12b8215",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v032-1836-page4\", \"message_id\": 100, \"frame_mean\": 43.72271437872024}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1836,
+      "page": 5,
+      "screenshot": "screenshots/v032-1836-page5.png",
+      "sha256": "4834ccb3fd568e07d65b841a49089af23f914e2bd2d8a7f217073e1fe8df8b3a",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v032-1836-page5\", \"message_id\": 100, \"frame_mean\": 44.96196056547619}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1836,
+      "page": 6,
+      "screenshot": "screenshots/v032-1836-page6.png",
+      "sha256": "f61a18470f5d4934116e797bf69e6997528ae77de51d4fb80ffd699a08396680",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v032-1836-page6\", \"message_id\": 101, \"frame_mean\": 47.363525390625}\nMap_ExtendedHiROMMap"
+    }
+  ],
+  "limits": "Diagnostic redirections from local camp state; no natural scene progression or full playthrough."
+}
