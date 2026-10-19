@@ -1,0 +1,117 @@
+{
+  "kind": "readable_translation_delta",
+  "version": "v0.27",
+  "baseline": "v0.26",
+  "baseline_count": 5252,
+  "new_count": 150,
+  "recipe": "dq6-fr/pass27.py",
+  "merged_selection_sha256": "2b2b305cbf76358e3501d82d578516676d4e64ed4b0cb7c2238d0223148f6060",
+  "generated_inputs": {
+    "correspondances-revues.json": "99fe1763aaec35546d47f7b6e98f6bc28b37ee4c6ed6f596488b1c797b9e0ea4",
+    "adaptations-francaises.json": "2c304725519654bd3d9a1fd9e44532fe9d9ce03e5a5340d3849626c9b952c8de",
+    "liaisons-variables-natives.json": "dc21472882f38d38310eb55169c64964afa1246f5ec27c1c7c2420620071a006",
+    "charset.json": "f84c9183341fab8591f23ee608b0bdf6b9191a09ceeecf04a95afca114027c55"
+  },
+  "files": [
+    {
+      "path": "dq6-fr/pass27.py",
+      "sha256": "465111a2fe5a72481a8b0b26d8f1af1735479df2e273f7c63c16f40f87cc0f31",
+      "bytes": 2195
+    },
+    {
+      "path": "patches/DQVI-FR-DS-v0.27-BASE-JP-PARTIEL.bps",
+      "sha256": "0cb83c61b2c289cb4adbf5080531a90dfc88856583a897488d079728a4d1eb89",
+      "bytes": 677452
+    },
+    {
+      "path": "dq6-fr/v0.27/init.py",
+      "sha256": "1320a9dcaa9ee9376afeadb66f8169cbc019a94e69e9331ad15ee69097e3d43e",
+      "bytes": 1385
+    },
+    {
+      "path": "dq6-fr/v0.27/prepare.py",
+      "sha256": "b3739b6e1c3bf73d745373304b2361dc8be991483ab01ae039bdaa73f71dd427",
+      "bytes": 16081
+    },
+    {
+      "path": "dq6-fr/v0.27/build.py",
+      "sha256": "2cc01eb8e5a12fcf6518b88e108bd62c12ff4372268892a0cfa9cac81aecf415",
+      "bytes": 8690
+    },
+    {
+      "path": "dq6-fr/v0.27/verify.py",
+      "sha256": "77390fe932632974722bd6f4f8bd8c8b2e7c89d702ad5f1624bef600f3fea692",
+      "bytes": 5590
+    },
+    {
+      "path": "dq6-fr/v0.27/names.py",
+      "sha256": "f0dd949c5d28b235b031d7f4b32fc71f01bed9557b8f14e658df7cecddbe985f",
+      "bytes": 3452
+    },
+    {
+      "path": "dq6-fr/v0.27/test_render.py",
+      "sha256": "21fe0dd0f0e1c27295a6d094b5c2467b2f96ef3fcf98a8c4956ae4fbdad4580e",
+      "bytes": 1952
+    },
+    {
+      "path": "dq6-fr/v0.27/LISEZ-MOI.md",
+      "sha256": "d36d4e1c9c4630bf638a8722dfb9a7c0f3ce020c743f227ffe9971d48c8001c1",
+      "bytes": 2054
+    },
+    {
+      "path": "dq6-fr/v0.27/revue-lot-v027.json",
+      "sha256": "9fa2f384dbf4c10585721f61f8dcb86b5dd319f71517978ae76ecd80f020c0ab",
+      "bytes": 242195
+    },
+    {
+      "path": "dq6-fr/v0.27/differes-passage-v027.json",
+      "sha256": "c4919706469f1e4428a79b840f1d28f5e9939df34e0def9f21b4968beaecf4fd",
+      "bytes": 1050
+    },
+    {
+      "path": "dq6-fr/v0.27/revues-preparatoires-remplacees.json",
+      "sha256": "8867b5dabdeb03a923d48810d059ca87192a97456e9e0f247e74ddd9d453f66d",
+      "bytes": 886
+    },
+    {
+      "path": "dq6-fr/v0.27/nouveaux-messages.json",
+      "sha256": "9f6cf4cd6732743cdb045b5c4a580b87c39d0027772d583f43e459f44573ebb3",
+      "bytes": 619723
+    },
+    {
+      "path": "dq6-fr/v0.27/etat-projet.json",
+      "sha256": "417ba4152d3a7611e0126fe0817911068930d5e4583fe00fe997f58dc785b658",
+      "bytes": 1109
+    },
+    {
+      "path": "dq6-fr/v0.27/couverture-preparation.json",
+      "sha256": "5e565328ba606a9a134a85f2d49e3ac38ec6888ef760e6cd5ef9a9c4b57ea220",
+      "bytes": 465
+    },
+    {
+      "path": "dq6-fr/v0.27/validation.json",
+      "sha256": "2362de93b6be08f520b20a8a282742bfad487eedc4d14ab700dae389b91b17df",
+      "bytes": 1032
+    },
+    {
+      "path": "dq6-fr/v0.27/qa-patchs-regression.json",
+      "sha256": "3a4d54e04938e29dea2c37e242d38a9ca107b9c54544555977763db2395bd0e4",
+      "bytes": 1011
+    },
+    {
+      "path": "dq6-fr/v0.27/qa-bus.json",
+      "sha256": "d73b690d09601dfb8c4592433b27efe979adfef802450e285ddfa3c3b3318259",
+      "bytes": 112
+    },
+    {
+      "path": "dq6-fr/v0.27/qa-render-fixtures.json",
+      "sha256": "193cdca17726767b5e7948ed0e1e4f415b4f124f8695a6ddc5d54315ba1bb694",
+      "bytes": 13575
+    },
+    {
+      "path": "dq6-fr/v0.27/qa-emulation-v027.json",
+      "sha256": "0fb3574fa84218b4bdc782cb2d0b95d05f1657a7427c395dea5f6d6eb57c643f",
+      "bytes": 1031
+    }
+  ]
+}

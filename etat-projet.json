@@ -1,15 +1,15 @@
 {
-  "release": "v0.26",
+  "release": "v0.27",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 5252,
+    "validated": 5402,
     "visible_total": 6957,
-    "new_this_pass": 100,
-    "remaining": 1705
+    "new_this_pass": 150,
+    "remaining": 1555
   },
   "separate_tables": "Noms, menus, objets, sorts, combat : audit et traduction encore nécessaires, hors compte du script principal.",
-  "baseline": "v0.25",
+  "baseline": "v0.26",
   "rom_bytes": 8388608,
-  "notes": "100 dialogues relus et intégrés depuis la VF DS, regroupant ses messages successifs. Les 5152 sélections v0.25 sont conservées à l’identique. Adaptations explicites de la consigne de chambre des soldats, du duel final au Gluodrome, du sauvetage final par les sages, de la vérification réelle de l’abbaye et du nom du héros ajouté seulement en DS. BPS/IPS réappliqués, 6960 entrées redécodées et 870 groupes contrôlés sur le bus. 44 pages sur six dialogues relues dans Snes9x par redirections de diagnostic au camp. Démarrage à froid, Journal, saisie du nom et arrivée au camp vérifiés. Les audits 322/323 et le blocage 1836 restent ouverts. Aucun parcours complet ni validation globale des tables séparées.",
+  "notes": "150 dialogues relus et intégrés depuis la VF DS ; les 5252 anciennes sélections sont inchangées. Adaptations explicites des règles de vocation, du bonus de style SFC +1 (DS +5), du vin caché, du but lucratif de Friquet, des noms et du repère ajouté de Morneville. Les BPS/IPS se réappliquent, 6960 entrées sont redécodées, 870 groupes et 445461 octets contrôlés dans Snes9x. Démarrage à froid jusqu’aux journaux vérifié, 39 pages de neuf dialogues et un rendu C0 avec Olivier relus par redirections de diagnostic au camp. Aucun parcours naturel complet ni validation des 150 scènes en jeu. Audits 322/323 et blocage 1836 restent ouverts.",
   "next": "Poursuivre sans attendre une relance ; sauvegarder le prochain passage."
 }

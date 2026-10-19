@@ -1,6 +1,12 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.26, 5252/6957 messages du script principal ; 1705 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.27, 5402/6957 messages du script principal ; 1555 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+
+## Lot v0.27 : 150 ajouts
+
+5402/6957 messages intégrés, 1555 restants plus tables séparées. Les 5252 anciennes sélections et les octets hors zones autorisées sont conservés. Recette idempotente dq6-fr/pass27.py ; delta lisible sources/lots/v0.27.json. Les anciennes correspondances encore non intégrées remplacées par ce lot sont archivées dans revues-preparatoires-remplacees.json ; aucun ancien texte intégré n'est réécrit.
+
+Huit adaptations explicites, dont bonus SFC +1 contre DS +5 et niveau inchangé au changement de vocation. Voir revue-lot-v027.json. Sept cas étudiés restent différés : ne pas reprendre automatiquement le contre-sens de 3526, le référent du démon 4061, le nom CD avant recrutement 5673, les renseignements du coffre 719 ni les locuteurs 5252/5036. Contrôles : BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 445461 octets vérifiés sur le bus. Snes9x : menu Journal au démarrage à froid, 39 pages de neuf dialogues et un rendu contextuel de 5988 avec Olivier (+1) après injection RAM 3B2D=2. ROM SHA256 473fc5936f2123409a7bf9936f3f04e6ac3f86023a070f858f5a04f3721a82b7. Ces bancs n'équivalent pas à un parcours naturel. Audits 322/323 et 1836 ouverts. Sources, rapports et BPS uniquement sur Git ; captures, ROM et états locaux.
 
 ## Lot v0.26 : 100 ajouts
 

@@ -1,0 +1,35 @@
+{
+  "version": "v0.27",
+  "result_sha256": "473fc5936f2123409a7bf9936f3f04e6ac3f86023a070f858f5a04f3721a82b7",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "diagnostic_extension": "dq6-fr/emulator-tests/peek_extension.cpp",
+  "cold_boot_reaches_journal_menu": true,
+  "render_fixture_ids": [
+    5988,
+    4859,
+    4910,
+    772,
+    970,
+    5181,
+    2144,
+    2904,
+    6436
+  ],
+  "pages_visually_reviewed": 39,
+  "additional_C0_fixture": {
+    "id": 5988,
+    "wram_field": "0x3b2d",
+    "injected_value": 2,
+    "observed_name": "Olivier",
+    "observed_style_increment_text": 1,
+    "screenshot_sha256": "58bd0116b123accb898cbc10d6368b17ad074110eb56265ebaba5600921fa664",
+    "diagnostic_only": true
+  },
+  "render_readable": true,
+  "all_150_messages_emulated": false,
+  "natural_scenes_played": false,
+  "full_playthrough": false,
+  "source_ROM_event_stat_gain_changed": false,
+  "screenshots": "Kept locally; hashes recorded. No ROM, SRAM or state published."
+}
