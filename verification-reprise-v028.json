@@ -8,11 +8,13 @@
   "readable_delta": "sources/lots/v0.28.json",
   "rebuild_sha256": "cb669821ed8207538b1fb90e5c70e93a61d4331cd6117a6586641be53725f0d4",
   "roms_published": false,
-  "restore_from_git_retested": false,
+  "restore_from_git_retested": true,
   "restoration_from_publication_files_retested": true,
   "restored_selection_count": 5552,
   "reconstructed_from_restored_sources": true,
   "reconstructed_sha256": "cb669821ed8207538b1fb90e5c70e93a61d4331cd6117a6586641be53725f0d4",
   "patch_verification_repeated_after_restore": true,
-  "recipe_scripts_regenerated_identically": true
+  "recipe_scripts_regenerated_identically": true,
+  "source_commit_verified": "5c456ad7d3415555e77de9cafb5ed4130d557d81",
+  "restored_selection_sha256": "2e284a003b276b3cc740d5e7352792d305a70995d7435d0ad53903841f0114d3"
 }
