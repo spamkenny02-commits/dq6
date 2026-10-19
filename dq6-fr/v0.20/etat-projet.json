@@ -1,0 +1,15 @@
+{
+  "release": "v0.20",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5058,
+    "visible_total": 6957,
+    "new_this_pass": 18,
+    "remaining": 1899
+  },
+  "separate_tables": "Noms, menus, objets, sorts, combat : audit et traduction encore nécessaires, hors compte du script principal.",
+  "baseline": "v0.19",
+  "rom_bytes": 8388608,
+  "notes": "18 dialogues supplémentaires relus à Vallonclair, soit 5058/6957 messages du script principal ; 1899 restants, plus les tables séparées. Sources DS FR/JA confrontées au japonais SFC et à la VF secondaire. Une adaptation femme vers compagne conserve le statut amoureux SFC. Les 5040 anciennes sélections restent identiques. BPS/IPS relus indépendamment, 6960 entrées redécodées, 870 groupes et 416009 octets contrôlés sur le bus. Essais de rendu ciblés : 21 pages sur cinq messages (137,175,189,199,209), accents, noms des Redon, pagination et récit long. Aucun parcours naturel complet déclaré.",
+  "next": "Poursuivre sans attendre une relance ; sauvegarder le prochain passage."
+}

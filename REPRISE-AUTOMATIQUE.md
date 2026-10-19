@@ -1,6 +1,6 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Base de départ : v0.19, 5040/6957 messages du script principal ; 1917 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.20, 5058/6957 messages du script principal ; 1899 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
 
 Après un clone, lancer `python restore_sources.py`. Ce script vérifie les empreintes des morceaux sous sources/ et patches/, restaure les sources complètes de la v0.19 et les IPS. Les fichiers déjà modifiés sont conservés. Le BPS utilisable directement est sous patches/. Le fractionnement des archives sert uniquement au transfert ; le script les reconstitue automatiquement.
 
@@ -15,3 +15,9 @@ Avec les sources locales, utiliser init.py si nécessaire, prepare.py, build.py 
 Après chaque lot, sauvegarder les sources/adaptations, patchs vérifiés et bilan réel, puis committer et pousser dans ce dépôt. Publier uniquement les patchs et sources, jamais les ROM, SRAM ni états. Les nouveaux lots de relecture peuvent être ajoutés comme petits fichiers distincts ; garder le paquet initial v0.19 comme point de reprise. GitHub est accessible via le connecteur si git push n'a pas d'identifiants. Ne pas pousser dans les dépôts tiers upstream.
 
 La tâche horaire doit continuer jusqu'à finalisation réellement vérifiée du script ET des tables séparées, puis se désactiver. En cas de blocage ponctuel, sauvegarder la préparation possible et indiquer précisément ce qui manque, sans inventer d'avancement ni redemander à chaque heure les mêmes pièces.
+
+## Lot v0.20 du 19 octobre 2026
+
+18 nouveaux messages intégrés (Vallonclair), 5040 anciens tokens inchangés. ROM résultat SHA256 `2817bf421bc107ef9962075a697f97b83f4400e34a7f4a0c205eb1c712fd4cad`. Lire `etat-projet.json` et les rapports v0.20. `restore_sources.py` restaure désormais aussi les deltas lisibles sous `sources/lots/` via `restore_lots.py`, sans écraser les fichiers modifiés. Le paquet initial v0.19 est conservé. Les 18 nouvelles sélections sont en JSON lisible ; le restaurateur les fusionne avec les 5040 sélections v0.19 après vérification des empreintes. Les scripts et rapports v0.20 sont suivis directement. Le BPS est disponible sous patches/. L’IPS et les captures ont été vérifiés localement ; les ROM et états restent locaux.
+
+Après restauration, les sélections de v0.20 sont présentes sans exécuter un générateur. `pass20.py` est le delta de revue, idempotent et limité aux données du lot ; ne pas rejouer les anciens pass non idempotents. Reconstruction : `python dq6-fr/v0.20/init.py`, puis `prepare.py`, `build.py`, `verify.py`. Les tests de rendu demandent un cœur local Snes9x et un état de camp compatible, non publiés. Le blocage 1836 reste différé. Pour les verrous, utiliser flock sur `.dq6-translation.lock` et libérer le verrou après sauvegarde/push ; un fichier de métadonnées restant seul ne prouve pas un passage actif.

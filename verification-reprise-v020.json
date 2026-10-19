@@ -1,0 +1,28 @@
+{
+  "version": "v0.20",
+  "integrated_new": 18,
+  "integrated_total": 5058,
+  "visible_total": 6957,
+  "remaining_main_script": 1899,
+  "rom_bytes": 8388608,
+  "result_sha256": "2817bf421bc107ef9962075a697f97b83f4400e34a7f4a0c205eb1c712fd4cad",
+  "base_commit": "1936c856ffc6731c983a5795990e626b4280281c",
+  "source_restore_verified": true,
+  "rebuild_after_restore_identical": true,
+  "bps_and_ips_reapplied": true,
+  "redecoded_entries": 6960,
+  "prior_5040_tokens_preserved": true,
+  "rom_bus_groups_checked": 870,
+  "targeted_renderer_pages": 21,
+  "targeted_renderer_messages": [
+    137,
+    175,
+    189,
+    199,
+    209
+  ],
+  "full_playthrough": false,
+  "separate_tables_complete": false,
+  "archive_zip_sha256": "31fa70f7d576cab8e5016951192a426fae143184dce5432cab21a92624e7bbe9",
+  "no_rom_sram_or_states_in_publication": true
+}

@@ -1,0 +1,413 @@
+[
+  {
+    "id": 137,
+    "file": "0029.p",
+    "ids": [
+      507,
+      508
+    ],
+    "sfc_jp": "私は　空とぶベッドの[LINE]ウワサを　聞いて[LINE]この町に　やって来ました。[WAIT][LINE]そんな　ロマンティックなことが[LINE]おこる町なら　きっと[LINE]ステキな所だろうと思いましてね。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Je suis venu ici aprês avoir entendu parler du lit volant.[WAIT][LINE]Aprês ca, je pensais que ceci était un endroit prodigieux.[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「私は　空とぶベッドの\n\tウワサを　聞いて\n\tこの町に　やって来ました。\n@c0@",
+      "@a@b＊「そんな　ロマンチックなことが\n\tおこる町だったら　きっと\n\tステキな所だろうと思いましてね。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ahⓠ J'ai longtemps voyagé pour atteindre ce hameau afin de voir le lit volant.\n@c0@",
+      "@a@b*ⓢ ⓥEn vérité,ⓦ je me suis dit que ⓥseul un village de contes de fées pouvait être le siège d'une histoire si romantique.ⓦ\n@c0@"
+    ],
+    "review": "Visiteur attiré par la rumeur romantique du lit volant. Les deux idées japonaises correspondent aux deux répliques DS ; ne pas inclure 509, disparition du lit, absente ici.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 145,
+    "file": "0029.p",
+    "ids": [
+      528,
+      529,
+      530
+    ],
+    "sfc_jp": "魔王ムドーが　ほろぼされたのに[LINE]魔物の数は　いっこうにへりません。[WAIT][LINE]もしかして　どこかで[LINE]よくないことが......。[WAIT][LINE]しかし　平和をよろこぶ人びとに[LINE]どうして　そのことを[LINE]つげられましょうか......。[END STRING AC]",
+    "sfc_vf_secondaire": "Mudo a été vaincu, mais les monstres sont encore là.[WAIT][LINE]Et néanmoins le peuple se réjouit…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「魔王ムドーが　倒されたのに\n\tまものの数は　いっこうに減りません。\n@c0@",
+      "@a@b＊「もしかして　どこかで\n\tよくないことが……。\n@c0@",
+      "@a@b＊「しかし　平和を喜ぶ人びとに\n\tどうして　そのことを\n\t告げられましょうか……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Meurtor a beau appartenir au passé, les hordes de monstres n'ont pas disparu.\n@c0@",
+      "@a@b*ⓢ Peut-être qu'un être diabolique fait encore des siennes dans les environs...\n@c0@",
+      "@a@b*ⓢ Mais comment expliquer ça à nos frères et sœursⓡ Ils croient que tout va bien dans le meilleur des mondes.\n@c0@"
+    ],
+    "review": "Après la défaite de Mudo/Meurtor, inquiétude du religieux : monstres toujours nombreux, mal possible, population heureuse de la paix. Même ordre dans les trois répliques DS.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 148,
+    "file": "0029.p",
+    "ids": [
+      555,
+      556,
+      557
+    ],
+    "sfc_jp": "ボク　まいご　だったんだ。[LINE]だから　この家の　世話に[LINE]なってるんだ。[WAIT][LINE]うん　空とぶベッドなら[LINE]ボクも　見たことあるよ。[WAIT][LINE]今のボクより　すこし年上の[LINE]お兄ちゃんが　のってたかなあ。[END STRING AC]",
+    "sfc_vf_secondaire": "J'étais orphelin avant d'ètre recueilli par cette famille.[WAIT][LINE]Sûr, j'ai vu le lit volant.[WAIT][LINE]Mais mon frêre ainé…[LINE]il le monte actuellement.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ボク　迷子　だったんだ。\n\tだから　この家の　世話に\n\tなってるんだ。\n@c0@",
+      "@a@b＊「うん　空とぶベッドなら\n\tボクも　見たことあるよ。\n@c0@",
+      "@a@b＊「今のボクより　すこし年上の\n\tお兄ちゃんが　のってたかなあ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je me suis perdu, alors je reste avec ces gens pour l'instant.\n@c0@",
+      "@a@b*ⓢ Le lit volantⓡ Ah ouais, je l'ai vu une fois.\n@c0@",
+      "@a@b*ⓢ Le garçon qui était dessus avait l'air à peine plus vieux que moi.\n@c0@"
+    ],
+    "review": "Enfant perdu hébergé dans la maison : hébergement, lit aperçu, garçon légèrement plus âgé. Trois segments relus ; aucune variable de nom.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 150,
+    "file": "0029.p",
+    "ids": [
+      561,
+      562,
+      563
+    ],
+    "sfc_jp": "妻が　うちのまえを[LINE]うろうろしていた　子供を[LINE]ひろってきてな。[WAIT][LINE]どうも　まいごらしいのだが[LINE]妙に　妻に　なついてしまって...。[WAIT][LINE]わしとしては[LINE]妻を　とられたようで[LINE]いたし　かゆし　なのだよ。[END STRING AC]",
+    "sfc_vf_secondaire": "Ma femme trouva l'enfant. Il semblait ètre perdu.[WAIT][LINE]Peu aprês, nous l'avons adopté.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「妻のアリシアが　うちの前を\n\tうろうろしていた　子どもを\n\tひろってきてな。\n@c0@",
+      "@a@b＊「どうやら　迷子らしいのだが\n\t妙に　妻に　なついてしまって……。\n@c0@",
+      "@a@b＊「子供は　かわいいのだが\n\t妻を　とられたようで\n\tいたし　かゆし　なのだよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ma femme, Alicia, s'occupe d'un garçon que nous avons trouvé.\n@c0@",
+      "@a@b*ⓢ On dirait que le pauvre petit s'est perdu. Enfin, bref... Il semble très attaché à ma femme.\n@c0@",
+      "@a@b*ⓢ Il me fait de la peine, mais parfois, j'ai l'impression qu'il faut que je me batte pour attirer l'attention de ma femme...\n@c0@"
+    ],
+    "review": "Mari d’Alicia : enfant recueilli par sa femme, attachement à celle-ci et jalousie du mari. La DS explicite Alicia déjà identifiée dans les répliques voisines.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 160,
+    "file": "0031.p",
+    "ids": [
+      508,
+      509,
+      510
+    ],
+    "sfc_jp": "見ましたよ!　ついに　ウワサの[LINE]空とぶベッドを![WAIT][LINE]しかし　とても　私などが[LINE]手に入れられるような物では[LINE]ないですな。[WAIT][LINE]きっと　なにか　とくべつな人の[LINE]乗り物だと　思いますよ。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Je l'ai vu! Le fameux lit volant![WAIT][LINE]Je ne pourrais jamais avoir quelque chose comme ca.[WAIT][LINE]Il faut ètre spécial pour le monter.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「見ましたよ！　ついに　ウワサの\n\t空とぶベッドを！\n@c0@",
+      "@a@b＊「しかし　とても　私などが\n\t手に入れられるような物では\n\tないですな。\n@c0@",
+      "@a@b＊「きっと　なにか　特別なひとの\n\t乗り物だと　思いますよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Bon sang, je l'ai enfin vu, le lit volant légendaireⓠ Je l'ai vu de mes propres yeuxⓠ\n@c0@",
+      "@a@b*ⓢ On dirait qu'il faut être sacrément courageux pour le piloter. Je crois pas pouvoir le piloter moi-même.\n@c0@",
+      "@a@b*ⓢ Des sensations pareilles sont sûrement réservées à des ⓥélusⓦ, si vous voyez ce que je veux dire.\n@c0@"
+    ],
+    "review": "Visiteur après retour du lit volant : observation, incapacité à le posséder/piloter, monture réservée à une personne spéciale. Trois segments DS relus.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 164,
+    "file": "0031.p",
+    "ids": [
+      533,
+      534,
+      535,
+      536
+    ],
+    "sfc_jp": "これは　あくまでも[LINE]うわさなのだが...[WAIT][LINE]ずっと西のほうの　海の底には[LINE]とんでもない悪魔が[LINE]住んでいるということだ。[WAIT][LINE]その悪魔によって　海に[LINE]しずめられた伝説の都市も[LINE]あるそうだが...[WAIT][LINE]まさか　人魚でもあるまいし[LINE]海の底まで　たしかめにゆくことは[LINE]できないだろう。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>C'est terrible, mais ce n'est qu'une rumeur…[WAIT][LINE]On dit qu'un démon vit au fond de la mer ouest.[WAIT][LINE]Ce démon fit sombrer la cité légendaire dans la mer.[WAIT][LINE]Je suppose qu'il faut ètre une sirêne pour atteindre le fond de la mer.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「これは　あくまで\n\tウワサなのだが……\n@c0@",
+      "@a@b＊「ずっと西のほうの　海の底には\n\tとんでもない悪魔が\n\t住んでいるということだ。\n@c0@",
+      "@a@b＊「その悪魔によって　海に\n\t沈められた伝説の都市も\n\tあるそうだが……\n@c0@",
+      "@a@b＊「まさか　人魚でもあるまいし\n\t海の底まで　確かめにゆくことは\n\tできないだろう。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ce n'est qu'une rumeur...\n@c0@",
+      "@a@b*ⓢ Mais j'ai entendu dire qu'une horrible créature vivait sous la mer, à l'ouest.\n@c0@",
+      "@a@b*ⓢ On raconte aussi qu'une ville légendaire a coulé à cause de ce monstre...\n@c0@",
+      "@a@b*ⓢ Bien sûr, je ne peux rien affirmer. Seule une sirène pourrait nous dire ce qu'il en est...\n@c0@"
+    ],
+    "review": "Rumeur du démon sous la mer à l’ouest, cité engloutie et impossibilité de vérifier sans être une sirène. Quatre segments dans le même ordre ; aucun changement d’orientation.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 174,
+    "file": "0057.p",
+    "ids": [
+      10,
+      11
+    ],
+    "sfc_jp": "わたし　自分でも[LINE]よくわからないんだけど[LINE]最近　ときどき思うの。[WAIT][LINE]本当は　私って　この人の[LINE]夢の産物じゃないかって......。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>J'ai beaucoup réfléchi mais je ne comprend pas.[WAIT][LINE]Je ne peux pas ètre le produit des rèves de quelqu'un…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「わたし　自分でも\n\tよくわからないんだけど\n\t最近　思うことがあるの。\n@c0@",
+      "@a@b＊「本当は　わたしって　このひとの\n\t夢の産物なんじゃないかって……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Si vous saviezⓠ Il m'est venu une idée des plus étranges. C'est difficile à expliquer mais...\n@c0@",
+      "@a@b*ⓢ J'ai l'impression d'avoir été littéralement ⓥrêvéeⓦ par l'homme à côté de moi. Avouez que c'est troublantⓠ\n@c0@"
+    ],
+    "review": "Jeune femme du monde du rêve : soupçon d’être le rêve de l’homme à côté. Les deux segments reprennent exactement ces idées, sans ajouter son nom.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 175,
+    "file": "0057.p",
+    "ids": [
+      13
+    ],
+    "sfc_jp": "こんな若い娘を　恋人にできて[LINE]夢のようじゃわい。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>C'est commme un rève d'ètre avec cette fille.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「こんな　若いムスメを\n\t恋人にできるなんてのう。\n\t本当に　夢のようじゃわい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Hé hé héⓠ Vous savez quoiⓡ Eh ben, cette petite est devenue ma femmeⓠ Faut croire que les rêves peuvent devenir réalité...\n@c0@"
+    ],
+    "review": "Vieil homme heureux d’avoir une jeune compagne ; la DS dit femme, adaptation minimale en compagne pour conserver le statut de恋人 SFC.",
+    "status": "RELU_A_CONSTRUIRE",
+    "original_body": "Hé hé héⓠ Vous savez quoiⓡ Eh ben, cette petite est devenue ma femmeⓠ Faut croire que les rêves peuvent devenir réalité...",
+    "adaptation_body": "Hé hé héⓠ Vous savez quoiⓡ Eh ben, cette petite est devenue ma compagneⓠ Faut croire que les rêves peuvent devenir réalité...",
+    "adaptation_review": "恋人 désigne la compagne/amoureuse en SFC. Remplace seulement femme par compagne dans la phrase officielle DS afin de ne pas ajouter un mariage."
+  },
+  {
+    "id": 186,
+    "file": "0030.p",
+    "ids": [
+      16,
+      17,
+      18
+    ],
+    "sfc_jp": "この町にも　昔は　よく[LINE]旅芸人が　やってきたもんさ。[WAIT][LINE]とくに　パノンっていう芸人が[LINE]おもしろくてね。　子どもたちも[LINE]楽しみにしてたんだが...。[WAIT][LINE]こう　ぶっそうな世の中じゃ[LINE]旅芸人だって　自由には[LINE]歩きまわれないんだろうな。[END STRING AC]",
+    "sfc_vf_secondaire": "Beaucoup d'acteurs ambulants venaient dans cette ville.[WAIT][LINE]Un d'eux nommé Panon était particuliêrement divertissant.[WAIT][LINE]Les enfants l'aimaient beaucoup…[WAIT][LINE]Mais en tant qu'acteur ambulant, il finit par partir.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「この町にも　昔は　よく\n\t旅芸人が　やってきたもんさ。\n@c0@",
+      "@a@b＊「とくに　パノンっていう芸人が\n\t面白くてね。　子どもたちも\n\t楽しみにしてたんだが……。\n@c0@",
+      "@a@b＊「こう　ぶっそうな世の中じゃ\n\t旅芸人だって　自由には\n\t歩きまわれないんだろうな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Toutes sortes d'artistes ambulants venaient dans cette ville à une époque.\n@c0@",
+      "@a@b*ⓢ L'un d'eux, Tom Foolery, était plutôt doué. Les enfants étaient toujours contents de le voir.\n@c0@",
+      "@a@b*ⓢ Mais ça doit être dangereux pour les artistes de voyager à cette époque...\n@c0@"
+    ],
+    "review": "Habitant du Vallonclair réel : artistes ambulants, Panon/Tom Foolery apprécié des enfants, voyages devenus dangereux. Le nom DS officiel est conservé.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 187,
+    "file": "0030.p",
+    "ids": [
+      21,
+      22
+    ],
+    "sfc_jp": "ああ　アリシア...。　どうして[LINE]あんな年上の　学者なんかと[LINE]結婚しちゃったんだい?[WAIT][LINE]ボクだって　こんなに[LINE]アリシアを　愛してるのに...[LINE]うっうっ　ぐすん。[END STRING AC]",
+    "sfc_vf_secondaire": "Ah, Alicia. Pourquoi veux-tu épouser un vieil écolier comme lui?[WAIT][LINE]Moi je t'aime vraiment… Er… Ahem…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ああ　アリシア……。　どうして\n\tあんな年上の　学者となんか\n\t結婚しちゃったんだい？\n@c0@",
+      "@a@b＊「ボクだって　こんなに\n\tアリシアを　愛してるのに……\n\tうっうっ㈢　ぐすん。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Oh, Alicia... Mais pourquoi as-tu épousé cet éruditⓡⓐ Bon sang, il est assez vieux pour être ton pèreⓠ\n@c0@",
+      "@a@b*ⓢ Alicia... Tu étais la femme de mes rêves.㈢ (sanglots)\n@c0@"
+    ],
+    "review": "Amoureux déçu d’Alicia mariée à un érudit plus âgé ; plainte et sanglots. Les deux segments FR proviennent de cette réplique, sans variable ni choix de genre.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 189,
+    "file": "0030.p",
+    "ids": [
+      31,
+      32,
+      33
+    ],
+    "sfc_jp": "[CODE D4]ハリス「なあ　もう思いつめるのは[LINE]よそうや。　神父さまだって[LINE]おっしゃってるじゃないか。[WAIT][LINE][CODE D4]ハリス「ジョンが　おさなくして[LINE]亡くなったのも　神さまから[LINE]あたえられた　運命。[WAIT][LINE][CODE D4]ハリス「それが　幸せだったか[LINE]どうかなんて　あの子自身にしか[LINE]わからないさ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Harris.J'y ai beaucoup songé.[WAIT][LINE][CODE D4]Harris.Le prètre ne pouvait pas savoir comment allait John.[WAIT][LINE][CODE D4]Harris.Il ne saurait mème pas dire pourquoi les dieux nous l'ont pris.[WAIT][LINE][CODE D4]Harris.Le seul qui savait vraiment si John était heureux était John.[END STRING AC]",
+    "ds_jp": [
+      "@a@bハリス「なあ　もう思いつめるのは\n\tよそうや。　神父さまだって\n\tおっしゃってるじゃないか。\n@c0@",
+      "@a@bハリス「ジョンが　幼くして\n\t亡くなったのも　神さまから\n\t与えられた　運命。\n@c0@",
+      "@a@bハリス「それが　幸せだったか\n\tどうかなんて　あの子自身にしか\n\tわからないさ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aM. Redon@bAllez, ma chérie. On ne devrait pas penser à ça. C'est ce que le pasteur a dit, n'est-ce pasⓡ\n@c0@",
+      "@aM. Redon@bMême la mort d'Ed à un si jeune âge fait partie des plans de la Déesse... C'était son destin.\n@c0@",
+      "@aM. Redon@bSeul Ed peut dire si ce destin était heureux ou non.\n@c0@"
+    ],
+    "review": "Harris/M. Redon à l’église réconforte son épouse : parole du prêtre, mort précoce d’Edouard, seul l’enfant connaît son bonheur. Les trois étiquettes japonaises nomment le même père ; D4 répété n’introduit pas un autre locuteur.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 199,
+    "file": "0030.p",
+    "ids": [
+      57
+    ],
+    "sfc_jp": "[CODE DA]あっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DA]Ah![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Bon sangⓠ\n@c0@"
+    ],
+    "review": "Exclamation masculine DA, immédiatement avant la réplique de la femme surprise au bain (200). DS 0030:57 est cette exclamation précédant les mêmes répliques du bain 58–60 ; le contrôle DA initial reste natif.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 201,
+    "file": "0030.p",
+    "ids": [
+      65,
+      66,
+      67
+    ],
+    "sfc_jp": "わたしは　レイドック城から[LINE]やって来た　おどり子よ。[WAIT][LINE]旅芸人の　パノンを　さがして[LINE]旅をしてるの。　どうしても[LINE]弟子入りさせてほしくって。[WAIT][LINE]この町にいたって聞いたから[LINE]来てみたけど　もう　ずいぶん[LINE]昔の話みたいね。がっかりだわ。[END STRING AC]",
+    "sfc_vf_secondaire": "Je suis un danseur du château Reidock.[WAIT][LINE]Je voyage pour trouver l'acteur voyageur Panon.[WAIT][LINE]J'espêre qu'il me prendra comme apprenti.[WAIT][LINE]On m'a dit qu'il était ici, mais je dois arriver trop tard.[WAIT][LINE]Navrant.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「わたしは　レイドック城から\n\tやって来た　踊り娘よ。\n@c0@",
+      "@a@b＊「旅芸人の　パノンを　さがして\n\t旅をしているの。　どうしても\n\t弟子入りさせてほしくって。\n@c0@",
+      "@a@b＊「この町にいたって聞いたから\n\t来てみたけど　もう　ずいぶん\n\t昔の話みたいね。　がっかりだわ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Avant, j'étais danseuse au château de Somnia.\n@c0@",
+      "@a@b*ⓢ Je suis venue ici à la recherche de Tom Foolery, l'artiste. Je ferais n'importe quoi pour être son apprentieⓠ\n@c0@",
+      "@a@b*ⓢ J'ai entendu dire qu'il était en ville, mais c'est faux. Je suis dégoûtéeⓠ\n@c0@"
+    ],
+    "review": "Danseuse venue du château de Reidock/Somnia, recherche de Panon/Tom Foolery pour devenir apprentie, arrivée trop tard. Trois segments DS concordants.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 204,
+    "file": "0030.p",
+    "ids": [
+      98,
+      99,
+      100
+    ],
+    "sfc_jp": "私は　ヒトの見る　夢　について[LINE]研究しています。[WAIT][LINE]ヒトは　なぜ　夢を見るのか?[LINE]夢の中身には　どんな意味が[LINE]あるのか?[WAIT][LINE]私は　きっと　いつか[LINE]夢の世界の　ナゾを[LINE]とき明かしてみせますぞ。[END STRING AC]",
+    "sfc_vf_secondaire": "J'étudie les rèves.[WAIT][LINE]Pourquoi les gens rèvent-ils? Que signifient les rèves?[WAIT][LINE]Un jour, je résoudrai le mystêre du monde des rèves.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「私は　ヒトの見る　夢　について\n\t研究しています。\n@c0@",
+      "@a@b＊「ヒトは　なぜ　夢を見るのか？\n\t夢の中身には　どんな意味が\n\tあるのか？\n@c0@",
+      "@a@b＊「私は　きっと　いつか\n\t夢の世界の　ナゾを\n\t解き明かしてみせますぞ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ J'étudie les rêves des gens, vous savez.\n@c0@",
+      "@a@b*ⓢ Pourquoi rêve-t-onⓡ Que signifient les rêvesⓡ Ce sont des questions fascinantes.\n@c0@",
+      "@a@b*ⓢ Un jour, je découvrirai les mystères du royaume des rêves... J'en suis convaincuⓠ\n@c0@"
+    ],
+    "review": "Chercheur anonyme : étude des rêves, pourquoi et signification, promesse de résoudre le mystère. Trois segments sans nom de locuteur SFC à ajouter.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 208,
+    "file": "0030.p",
+    "ids": [
+      106,
+      107
+    ],
+    "sfc_jp": "[CODE D4]ハリス「おや　この家に　なにか[LINE]用ですかな?[WAIT][LINE][CODE D4]ハリス「ここには　旅の方の　たすけに[LINE]なるような物は　なにも[LINE]ありませんが。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Harris.Que veux-tu?[WAIT][LINE][CODE D4]Harris.Est-ce que ca ressemble à un refuge d'aventurier?[END STRING AC]",
+    "ds_jp": [
+      "@a@bハリス「おや　この家に\n\t何か　ご用ですかな？\n@c0@",
+      "@a@bハリス「ここには　旅の方の\n\t助けに　なるようなものは\n\t何も　ありませんが。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aM. Redon@bMmmⓡ Oh... bonjour. Qu'est-ce qui vous amèneⓡ\n@c0@",
+      "@aM. Redon@bJe suis désolé, mais nous n'hébergeons pas les voyageurs...\n@c0@"
+    ],
+    "review": "Harris/M. Redon accueille à la maison et refuse d’aider/héberger les voyageurs. Même étiquette japonaise dans les deux segments ; conserver le nom DS du père.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 209,
+    "file": "0030.p",
+    "ids": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "sfc_jp": "[CODE D4][CODE D9]マゴット「私の息子...　ジョンは[LINE]旅芸人のパノンさんが　来る日を[LINE]とても楽しみに　していました。[WAIT][LINE][CODE D4][CODE D9]マゴット「パノンさんも[LINE]ジョンのことを　とても[LINE]かわいがって　くださって。[WAIT][LINE][CODE D4][CODE D9]マゴット「こんど　来るときには[LINE]勇気のバッチを　あげると[LINE]ジョンに　約束してくれたのです。[WAIT][LINE][CODE D4][CODE D9]マゴット「勇気の岩を　けずって作った[LINE]バッチを　つけていれば　きっと[LINE]病気に勝つことが　できると。[WAIT][LINE][CODE D4][CODE D9]マゴット「でも　その後　パノンさんが[LINE]この町に　おとずれることはなく[LINE]ジョンは　亡くなりました。[WAIT][LINE][CODE D4][CODE D9]マゴット「あの子は　とても楽しみに[LINE]待ってたのに...　せめて　お墓に[LINE]そなえてあげられれば...うっうっ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9]Margot.John aimait quand Panon venait.[WAIT][LINE][CODE D4][CODE D9]Margot.Et Panon aimait John aussi.[WAIT][LINE][CODE D4][CODE D9]Margot.Il a promis d'amener à John un Badge de Courage.[WAIT][LINE][CODE D4][CODE D9]Margot.Nous pourrions en faire un d'un morceau du Rocher du Courage.[WAIT][LINE][CODE D4][CODE D9]Margot.Mais Panon n'est jamais revenu, et John est mort.[WAIT][LINE][CODE D4][CODE D9]Margot.Il attendait si patiemment…[WAIT][LINE][CODE D4][CODE D9]Margot.Si nous pouvions au moins lui emmener sur sa tombe… -sniff-[END STRING AC]",
+    "ds_jp": [
+      "@a@bマゴット「私の息子……　ジョンは\n\t旅芸人のパノンさんが　来る日を\n\tとても楽しみに　していました。\n@c0@",
+      "@a@bマゴット「パノンさんも\n\tジョンのことを　とても\n\tかわいがって　くださって。\n@c0@",
+      "@a@bマゴット「今度　来るときには\n\t勇気のバッジを　あげると\n\tジョンに　約束してくれたのです。\n@c0@",
+      "@a@bマゴット「勇気の岩を　けずって作った\n\tバッジを　つけていれば　きっと\n\t病気に勝つことが　できると。\n@c0@",
+      "@a@bマゴット「でも　その後　パノンさんは\n\tこの町を　訪れることはなく\n\tジョンは　亡くなりました。\n@c0@",
+      "@a@bマゴット「あの子は　とても楽しみに\n\t待っていたのに……　せめて　お墓に\n\tそなえてあげられれば……㈢㈢　うっうっ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aMme Redon@bMon fils, Édouard... Il attendait toujours impatiemment la venue de Tom Foolery en ville.\n@c0@",
+      "@aMme Redon@bTom appréciait beaucoup Ed. Ils étaient plutôt amis.\n@c0@",
+      "@aMme Redon@bTom a promis à Ed que lorsqu'il viendrait la prochaine fois, il lui donnerait un insigne du courage.\n@c0@",
+      "@aMme Redon@bIl a dit que s'il portait cet insigne fabriqué avec un bout du rocher du Courage, il guérirait très vite...\n@c0@",
+      "@aMme Redon@bMais c'est la dernière fois qu'on a vu Tom Foolery. Il n'est jamais revenu, et Édouard nous a quittés.\n@c0@",
+      "@aMme Redon@bIl était tellement heureux à l'idée que Tom lui rapporte cet insigne... Si seulement on pouvait lui en fabriquer un pour le placer sur sa tombe...\n㈡\n...㈢㈢ Oh, Édouard...\n@c0@"
+    ],
+    "review": "Mère Magot/Mme Redon : attente de Panon, affection pour Ed, promesse de l’insigne, pouvoir espéré contre la maladie, absence puis décès, souhait d’en déposer sur la tombe. Six segments relus dans cet ordre, tous de la même mère ; paragraphes DS adaptés en pages.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 212,
+    "file": "0032.p",
+    "ids": [
+      13,
+      14,
+      15
+    ],
+    "sfc_jp": "パノンって人は　いつも[LINE]なぞに　つつまれているのよ。[WAIT][LINE]パノンが　何人もいるっていう人や[LINE]最高の芸人だけに　パノンの名が[LINE]ゆるされるっていう人も　いるわ。[WAIT][LINE]でも　本当のところは[LINE]だれも　知らないのよ。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Ce Panon est entourré de mystêres.[WAIT][LINE]Combien de gens portent le nom Panon? Etait-il vraiment un grand acteur?[LINE]Personne ne sait où il est vraiment.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「パノンってひとは　いつも\n\t謎に　つつまれているの。\n@c0@",
+      "@a@b＊「パノンが　何人もいるっていうひとや\n\t最高の芸人だけに　パノンの名が\n\t許されるっていうひとも　いるわ。\n@c0@",
+      "@a@b＊「でも　本当のところは\n\t誰も　知らないのよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ce Tom Foolery est une véritable énigmeⓠ\n@c0@",
+      "@a@b*ⓢ Certains disent qu'il y a plein de Tom Foolery dans le monde et d'autres disent que c'est un titre réservé au meilleur artiste de l'époque.\n㈡\n*ⓢ Impossible de savoir...\n@c0@",
+      "@a@b*ⓢ Ça pourrait très bien être une femme déguisée en hommeⓠ\n@c0@"
+    ],
+    "review": "Villageoise après la quête : mystère de Panon/Tom Foolery, pluralité ou titre accordé au meilleur, ignorance de la vérité. La version FR DS ajoute une hypothèse de déguisement ; elle reste attribuée à la même villageoise et ne change aucune mécanique.",
+    "status": "RELU_A_CONSTRUIRE"
+  },
+  {
+    "id": 214,
+    "file": "0032.p",
+    "ids": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "sfc_jp": "[CODE D4]ハリス「やや!　あなたは[LINE]あの時の......[WAIT][LINE][CODE D4]ハリス「いやー　あの時は[LINE]とつぜん　いなくなったので[LINE]びっくりしちゃいましたよ。[WAIT][LINE][CODE D4]ハリス「朝になって　だれもいない[LINE]ベッドを見て　どうしたんだろうと[LINE]心配していたのです。[WAIT][LINE][CODE D4]ハリス「ともかく　そのせつは[LINE]お世話に　なりました。[WAIT][LINE][CODE D4]ハリス「あなたがたの　おかげで[LINE]息子との　約束も[LINE]はたすことが　できました。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Harris.<0559>Oh! Quand tu… J'ai été surpris![WAIT][LINE][CODE D4]Harris.Quand il n'y avait personne au lit ce matin…[WAIT][LINE][CODE D4]Harris.Ca m'a inquiété.[WAIT][LINE][CODE D4]Harris.Grâce à toi, ma promesse envers mon fils est remplie.[END STRING AC]",
+    "ds_jp": [
+      "@a@bハリス「やや！　あなたは\n\tあの時の……。\n@c0@",
+      "@a@bハリス「いやー　あの時は\n\t突然　いなくなったので\n\tびっくりしちゃいましたよ。\n@c0@",
+      "@a@bハリス「朝になって　誰もいない\n\tベッドを見て　どうしたんだろうと\n\t心配していたのです。\n@c0@",
+      "@a@bハリス「ともかく　そのせつは\n\tお世話に　なりました。\n@c0@",
+      "@a@bハリス「あなたがたの　おかげで\n\t息子との　約束を\n\t果たすことが　できました。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aM. Redon@bOh, c'est vousⓠ\n@c0@",
+      "@aM. Redon@bJ'ai été surpris de vous voir disparaître comme ça.\n@c0@",
+      "@aM. Redon@bQuand j'ai vu le lit vide, le matin, je n'avais aucune idée de ce qui vous était arrivéⓠ\n@c0@",
+      "@aM. Redon@bBref... Vous nous avez rendu un grand service en récupérant ce fragment de courage.\n@c0@",
+      "@aM. Redon@bC'est grâce à vous que nous avons pu réaliser la promesse que Tom Foolery avait faite à notre fils.\n@c0@"
+    ],
+    "review": "Père M. Redon après le lit volant : reconnaît les voyageurs, disparition subite, lit vide le matin, remerciements et promesse tenue. Cinq segments, un seul locuteur japonais nommé.",
+    "status": "RELU_A_CONSTRUIRE"
+  }
+]

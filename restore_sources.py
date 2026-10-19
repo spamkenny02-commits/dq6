@@ -46,6 +46,8 @@ def main():
     assert hashlib.sha256(old).hexdigest()=='b34155f476d0bce3d2247c577417b3ade3ee071e7c9b8af634f8a7cb613cdd37'
     write_missing(dest/'upload/Dq6f.ips', old)
     print(f'Verified and restored {count} source files and both IPS files. No ROM included.')
+    from restore_lots import restore_lots
+    restore_lots(root,dest)
 
 if __name__=='__main__':
     main()
