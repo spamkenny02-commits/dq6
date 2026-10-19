@@ -1,36 +1,26 @@
 {
-  "release": "v0.29",
+  "release": "v0.30",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 5616,
+    "validated": 5730,
     "visible_total": 6957,
-    "new_this_pass": 64,
-    "remaining": 1341
+    "new_this_pass": 114,
+    "remaining": 1227
   },
-  "baseline": "v0.28",
+  "baseline": "v0.29",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 33
   },
   "separate_tables": {
+    "inventory_version": "v0.29",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
-    "exact_ds_candidates": 906,
-    "inserted_this_pass": 0,
     "prepared_places": 33,
-    "classification": {
-      "AUTRE_TEXTE_A_REVOIR": 1585,
-      "VIDE_A_QUALIFIER": 82,
-      "FR_DS_IDENTIQUE_A_VERIFIER_EN_CONTEXTE": 23,
-      "CREDIT_RETIRE_CONFORME": 1,
-      "IDENTIFIANT_NON_TRADUIT": 349,
-      "FR_CONFIRME_PROJET": 8,
-      "JAPONAIS_DETECTE": 0
-    },
-    "limits": "Inventaire conservateur ; AUTRE_TEXTE inclut du français non relu, des noms et des labels internes. Les identifiants et entrées vides ne sont pas tous nécessairement visibles en jeu."
+    "inserted_this_pass": 0
   },
   "rom_bytes": 8388608,
-  "notes": "64 anciens cas différés adaptés à la SFC, 61 adaptations explicites. 5552 anciennes sélections inchangées. BPS/IPS, redécodage de 6960 entrées, bus ROM et 57 pages de onze messages testés. Pas de parcours naturel complet. Tables : inventaire reproductible et noms de lieux préparés, aucune entrée nouvelle insérée.",
-  "next": "Continuer les 1341 messages et l’insertion des tables après contrôle encodage/fenêtres ; audits 322/323, 1836 et indice 5351 ouverts."
+  "notes": "Deux lots depuis v0.28 : 178 ajouts intégrés. Ce lot v0.30 : 114 textes, 47 adaptations SFC explicites, 5616 anciennes sélections inchangées. BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 466984 octets sur le bus. Journal et 40 pages de dix messages relus dans Snes9x, dont C0 avec Olivier par injection RAM. Aucun parcours naturel complet.",
+  "next": "Continuer les 1227 textes, les tables et audits hérités. Voir inventaire v0.29, 33 lieux PREPARE_NON_INSERE, nouveaux-cas-differes.json et réserves 322/323,1836,5351."
 }

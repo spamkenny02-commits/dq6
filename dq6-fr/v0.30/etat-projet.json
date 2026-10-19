@@ -1,0 +1,26 @@
+{
+  "release": "v0.30",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5730,
+    "visible_total": 6957,
+    "new_this_pass": 114,
+    "remaining": 1227
+  },
+  "baseline": "v0.29",
+  "prepared_not_inserted": {
+    "main": 0,
+    "separate_places": 33
+  },
+  "separate_tables": {
+    "inventory_version": "v0.29",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "prepared_places": 33,
+    "inserted_this_pass": 0
+  },
+  "rom_bytes": 8388608,
+  "notes": "Deux lots depuis v0.28 : 178 ajouts intégrés. Ce lot v0.30 : 114 textes, 47 adaptations SFC explicites, 5616 anciennes sélections inchangées. BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 466984 octets sur le bus. Journal et 40 pages de dix messages relus dans Snes9x, dont C0 avec Olivier par injection RAM. Aucun parcours naturel complet.",
+  "next": "Continuer les 1227 textes, les tables et audits hérités. Voir inventaire v0.29, 33 lieux PREPARE_NON_INSERE, nouveaux-cas-differes.json et réserves 322/323,1836,5351."
+}

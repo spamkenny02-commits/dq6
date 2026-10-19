@@ -1,0 +1,33 @@
+{
+  "version": "v0.30",
+  "result_sha256": "16a920616d6c86767559dea03a9ce06c1f9986bb1349da88094a62a255db73a3",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "cold_boot_reaches_journal_menu": true,
+  "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "fixture_ids": [
+    4030,
+    1175,
+    6471,
+    5868,
+    5984,
+    6751,
+    5856,
+    4410,
+    3049,
+    1333
+  ],
+  "pages_visually_reviewed": 40,
+  "readable": true,
+  "C0_diagnostic": {
+    "id": 5868,
+    "wram_field": "0x3b2d",
+    "injected_word": 2,
+    "observed_name": "Olivier",
+    "release_ROM_code_modified": false
+  },
+  "natural_scenes_played": false,
+  "all_114_messages_emulated": false,
+  "full_playthrough": false,
+  "limits": "Redirections de diagnostic au camp, choix hôtes finaux, injection de RAM pour C0. Les scènes de banque, carte et meuble ne sont pas parcourues naturellement."
+}

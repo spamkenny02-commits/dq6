@@ -1,6 +1,14 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt : https://github.com/spamkenny02-commits/dq6, branche main. Dernière version intégrée : v0.29, 5616/6957 messages du script principal, 1341 restants. Tables : 33 noms de lieux préparés non insérés ; inventaire de 2048 entrées distinctes pour 2512 SIDs, 464 alias. Garde 8 Mio ; revoir 4 Mio après finalisation réelle.
+Dépôt : https://github.com/spamkenny02-commits/dq6, main. Dernière version : v0.30, 5730/6957 messages intégrés, 1227 restants. Depuis v0.28 : 178 ajouts en deux lots. Tables : inventaire v0.29 de 2048 entrées, 2512 SIDs et 464 alias ; 33 lieux PREPARE_NON_INSERE, pas de nouvelle insertion. 8 Mio jusqu'à la fin réellement vérifiée, puis revoir 4 Mio.
+
+## Lot v0.30 : 114 ajouts
+
+114 textes relus dont six courtes répliques ancrées dans leurs séquences DS. 47 adaptations explicites : fins SFC omises, noms restitués ou retirés, carte SFC plutôt que clef DS, action d'ouverture de commode accomplie, croix sur le bouclier de Valora (nom DS MENULIST6 b1000000:155), royaume évoqué sans expliciter les dimensions. Six propositions non intégrées documentées dans nouveaux-cas-differes.json : indice du bouclier 5341 avec 5351, répétitions 1356, orbe 1135, litanie 4880, regard sur monde/fond marin 5778/5818. Pas de score flou employé seul comme validation.
+
+5616 anciennes sélections conservées. Toutes les occurrences des noms dans les corps des 114 textes sont comparées à SFC, y compris C0 ; labels répétés de locuteurs exclus de ce compte. BPS/IPS réappliqués, 6960 entrées redécodées, octets hors zones autorisées inchangés. Snes9x : bus 870 groupes/466984 octets, Journal au démarrage, 40 pages sur dix messages relues ; C0 en 5868 avec Olivier après RAM 3B2D=2. Bancs au camp, pas de parcours naturel. ROM SHA256 16a920616d6c86767559dea03a9ce06c1f9986bb1349da88094a62a255db73a3.
+
+Recette idempotente dq6-fr/pass30.py, delta sources/lots/v0.30.json ; restauration par restore_sources.py et reconstruction init/prepare/build/verify sous v0.30. Lire l'inventaire v0.29 pour les tables ; ne pas insérer de noms accentués sans maîtriser l'alphabet d'octets et leur affichage. Garder les audits 322/323 et 1836. Continuer les 1227 messages et les tables sans plafond artificiel, avec sauvegarde après chaque lot.
 
 ## Lot v0.29 : 64 ajouts et inventaire des tables
 

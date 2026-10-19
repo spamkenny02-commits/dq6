@@ -1,0 +1,69 @@
+[
+  {
+    "id": 5341,
+    "sfc_jp": "伝説の盾の　いいつたえなら[LINE]私も　聞いたことが　ある。[WAIT][LINE]海から川をのぼり　その洞くつの[LINE]奥深くに　ねむる　という話だ。[WAIT][LINE]まちがっても　ギンドロ組の[LINE]ヤツらが　カンタンに手に入れられる[LINE]ような物では　ないはずだな。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「伝説の盾の　言い伝えなら\n\t私も　聞いたことがある。\n@c0@",
+      "@a@b＊「はるか東の海より　川をのぼり\n\tその先にある　世にも不思議な洞くつの\n\t奥深くに　ねむる　という話だ。\n@c0@",
+      "@a@b＊「まちがっても　ギンドロ組のような\n\tヤツらが　カンタンに手に入れられる\n\tモノでは　ないはずだな。\n@c0@"
+    ],
+    "ds_fr": "J'ai entendu parler du bouclier légendaire. Depuis la mer à l'est, il faut remonter la rivière. Le bouclier se trouve dans une grotte très mystérieuse... Enfin, il paraît. En tout cas, c'est pas le gang de Brigandia qui pourrait mettre ses sales pattes dessus.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Indice du bouclier à relire avec 5351 ; direction est ajoutée par DS."
+  },
+  {
+    "id": 1356,
+    "sfc_jp": "[CODE DB]われは　試練なり。[WAIT][LINE]なんじ　王家の血を　ひく者よ。[LINE][CODE DB]われと　戦い　われを　たおせ。[WAIT][LINE]われは　試練なり。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「われは　試練なり。\n@c0@",
+      "@a@b＊「われは　試練なり。\n@c0@",
+      "@a@b＊「なんじ　王家の血を　引く者よ。\n\tわれと戦い　われを　倒せ。\n@c0@",
+      "@a@b＊「われは　試練なり。\n@c0@"
+    ],
+    "ds_fr": "(grogne) Un testⓠ Tout le monde doit subir un testⓠ (grogne) Un testⓠ Tout le monde doit subir un testⓠ Vous, de lignée royaleⓠ Affrontez-moi et prouvez votre valeurⓠ (grogne) Un testⓠ Tout le monde doit subir un testⓠ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Répétitions de la litanie d’épreuve et regroupement des segments à revoir."
+  },
+  {
+    "id": 1135,
+    "sfc_jp": "[CODE D4]クリムト「それは　真実のオーブ。[LINE]暗黒の岬から　無の海へ　はなてば[LINE]この世界の　真の姿が見えるだろう。[WAIT][LINE][CODE D4]クリムト「そなたたちなら...[LINE]かならず......[END STRING AC]",
+    "ds_jp": [
+      "@a@bクリムト「それは　真実のオーブ。\n@c0@",
+      "@a@bクリムト「この町より　北西にある\n\t暗黒の岬から　無の海に　かざせば\n\tこの世界の　真の姿が見えるだろう。\n@c0@",
+      "@a@bクリムト「そなたたちなら……㈢㈢\n\tかならず……\n@c0@"
+    ],
+    "ds_fr": "Vous tenez dans vos mains l'orbe de vérité. Allez vers le cap de la Mort au nord-est d'ici et levez-le au-dessus de l'océan du Néant. Vous verrez alors la véritable forme de cet univers. V-vous pouvez...㈢㈢ V-vous devez...",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Orbe : point cardinal erroné en VF DS et verbe SFC lancer contre lever DS ; vérifier la scène."
+  },
+  {
+    "id": 4880,
+    "sfc_jp": "　　　　　　封印されし　うごめくものたちを[LINE]　　　　　　　　　なんじの　ちからを　もて[LINE]　　　　　　　　　　　　たちきらん![END STRING AC]",
+    "ds_jp": [
+      "@a@b%a002030「封印されし\n\tうごめくものたちを　なんじの\n\tチカラを　もて　断ち切らん！\n@c0@"
+    ],
+    "ds_fr": "On nous a dit de rassembler nos forces et de nous débarrasser de tous les méchants enfermés à l'intérieur.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Texte de rituel SFC contre réplique de compagnon DS ; contexte insuffisant."
+  },
+  {
+    "id": 5778,
+    "sfc_jp": "[CODE C0]は　目をこらして[LINE]世界をながめた![WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b%a000120は　海の底を　目をこらして\nみつめた。\n@c0@"
+    ],
+    "ds_fr": "%0%a000120 plisse les yeux et regarde le fond de l'océan.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Regard sur le monde SFC contre fond de l’océan DS ; usage de l’objet à recontextualiser."
+  },
+  {
+    "id": 5818,
+    "sfc_jp": "[CODE C0]は　目をこらして　世界をながめた![END STRING AC]",
+    "ds_jp": [
+      "@a@b%a000120は　海の底を　目をこらして\nみつめた。\n@c0@"
+    ],
+    "ds_fr": "%0%a000120 plisse les yeux et regarde le fond de l'océan.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Même divergence monde/fond marin dans une autre réplique SFC."
+  }
+]

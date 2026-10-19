@@ -1,0 +1,39 @@
+{
+  "status": "PARTIEL_A_TESTER",
+  "visible_messages": 6957,
+  "ds_validated": 5730,
+  "ds_replacements": 5729,
+  "already_identical_ids": [
+    58
+  ],
+  "new_replacements": 114,
+  "remaining_visible_messages": 1227,
+  "script_entries_verified": 6960,
+  "all_tokens_verified": true,
+  "mapper": "ExHiROM",
+  "new_font_glyph_ranges": [
+    [
+      71270,
+      71288
+    ],
+    [
+      71287,
+      71305
+    ]
+  ],
+  "rom_bytes": 8388608,
+  "payload_bytes": 466984,
+  "script_capacity_bytes": 581456,
+  "upper_copy_groups": 362,
+  "huffman_tree_unchanged": true,
+  "default_name_entries_changed": 6,
+  "name_entries_verified": 2048,
+  "other_name_strings_unchanged_except_credit_and_menu_labels": true,
+  "removed_credit_sid": 156,
+  "shortened_slot_label_sid": 231,
+  "shortened_settings_label_sid": 233,
+  "source_sha256": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e",
+  "result_sha256": "16a920616d6c86767559dea03a9ce06c1f9986bb1349da88094a62a255db73a3",
+  "checksum": "E1AF",
+  "emulator_tested": false
+}
