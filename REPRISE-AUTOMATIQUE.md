@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.22, 5098/6957 messages du script principal ; 1859 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+Dépôt autorisé : https://github.com/spamkenny02-commits/dq6. Dernière version intégrée : v0.23, 5128/6957 messages du script principal ; 1829 restants, plus les tables séparées de menus, noms, objets, sorts et combat. ROM cible actuelle : 8 Mio. Examiner le retour à 4 Mio après la traduction.
+
+## Lot v0.23 du 19 octobre 2026
+
+30 ajouts relus à Colombourg et autour du défi de Lynx. Les 5098 anciennes sélections restent identiques. Accueil pluriel et deux descriptions de pièces adaptés au japonais SFC avec appui IPS ; tarifs 50000 puis 2000 conservés. ROM résultat SHA256 `3f119ae5e9a55b03dcfd09bb4d1b01bfaee94d2de3df4aab6f25503973c5c08b`. Reconstruction : `init.py`, `prepare.py`, `build.py`, `verify.py` sous `dq6-fr/v0.23/`. Le delta lisible `sources/lots/v0.23.json` et la recette idempotente `dq6-fr/pass23.py` restaurent ce lot sans ROM. BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 419352 octets sur le bus ; 27 pages sur sept messages (383,397,407,458,459,489,526) relues en banc de camp. Aucun parcours naturel complet ni validation globale des tables séparées. Audits 322/323 et blocage 1836 toujours ouverts. Le BPS est publié ; l’IPS et les captures restent dans la sauvegarde locale sans ROM ni état.
 
 Après un clone, lancer `python restore_sources.py`. Ce script vérifie les empreintes des morceaux sous sources/ et patches/, restaure les sources complètes de la v0.19 et les IPS. Les fichiers déjà modifiés sont conservés. Le BPS utilisable directement est sous patches/. Le fractionnement des archives sert uniquement au transfert ; le script les reconstitue automatiquement.
 

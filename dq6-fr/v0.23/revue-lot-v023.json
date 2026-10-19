@@ -1,0 +1,653 @@
+[
+  {
+    "id": 381,
+    "file": "0056.p",
+    "ids": [
+      804,
+      805
+    ],
+    "sfc_jp": "おや　まほうのじゅうたんに[LINE]たましいを　入れてもらった[LINE]みたいですね。[WAIT][LINE]その　じゅうたんが　あれば[LINE]世界の　すみずみまで　ゆけるはず。[LINE]どうか　お気をつけて。[END STRING AC]",
+    "sfc_vf_secondaire": "Que penses-tu du tapis magique?[WAIT][LINE]Avec lui, on peut explorer chaque coin du monde.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「おや　魔法のじゅうたんに\n\tたましいを　入れてもらった\n\tみたいだね。\n@c0@",
+      "@a@b＊「その　じゅうたんが　あれば\n\t世界の　すみずみまで\n\t飛んでいけるはずだよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ahⓠ On dirait que votre tapis volant a repris du poil de la carpetteⓠ\n@c0@",
+      "@a@b*ⓢ Grâce à lui, vous allez pouvoir explorer le monde dans ses moindres recoinsⓠ\n@c0@"
+    ],
+    "review": "Habitant de Sorceria apres restauration du tapis : magie retrouvee et exploration du monde. DS 804–805, distinct de la branche 322/323 en audit. Le souhait final de prudence SFC est conserve par adaptation courte.",
+    "status": "RELU",
+    "original_body": "Ahⓠ On dirait que votre tapis volant a repris du poil de la carpetteⓠ Grâce à lui, vous allez pouvoir explorer le monde dans ses moindres recoinsⓠ",
+    "adaptation_body": "Ahⓠ On dirait que votre tapis volant a repris du poil de la carpetteⓠ Grâce à lui, vous allez pouvoir explorer le monde dans ses moindres recoinsⓠ Prenez soin de vous.",
+    "adaptation_review": "Conserve la formule finale de prudence du japonais SFC, omise dans les deux segments DS ; corps francais DS integral."
+  },
+  {
+    "id": 383,
+    "file": "0075.p",
+    "ids": [
+      510,
+      511,
+      512
+    ],
+    "sfc_jp": "あんたら　見ない顔だな。[WAIT][LINE]ぬすみ　きょうかつ　ころし......[LINE]なにをやらかして　この町まで[LINE]やってきたかは　知らねえけどよ。[WAIT][LINE]まっ　ほとぼりが　さめるまで[LINE]のんびりしていくが　いいや。[END STRING AC]",
+    "sfc_vf_secondaire": "Je ne te reconnais pas.[WAIT][LINE]Beaucoup n'ont pas conscience de la fourberie qui rêgne ici.[WAIT][LINE]C'est si dur de se relaxer…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「あんたら　見ない顔だな。\n@c0@",
+      "@a@b＊「ぬすみ　きょうかつ　殺し……\n\tなにをやらかして　この町まで\n\tやってきたのか　知らねえけどよ。\n@c0@",
+      "@a@b＊「まっ　ほとぼりが　さめるまで\n\tのんびりしていくが　いいや。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ C'est la première fois que je vois %H0860%Xcette sale tronche%Yces sales tronches%Z par ici.\n@c0@",
+      "@a@b*ⓢ Vous êtes là pour quoiⓡ Meurtreⓡ Chantageⓡ Vol à l'étalageⓡ\n@c0@",
+      "@a@b*ⓢ Eh ben, quoi que vous ayez fait, vous feriez mieux de vous cacher à Colombourg le temps que ça se calme.\n@c0@"
+    ],
+    "review": "Entree a Colombourg : visages inconnus, soupcon de crimes puis invitation a se cacher. DS 510–512, pas la salutation ulterieure 902–904. Branche plurielle ces sales tronches retenue car SFC dit あんたら, sans variable de nom.",
+    "status": "RELU",
+    "original_body": "C'est la première fois que je vois %H0860%Xcette sale tronche%Yces sales tronches%Z par ici. Vous êtes là pour quoiⓡ Meurtreⓡ Chantageⓡ Vol à l'étalageⓡ Eh ben, quoi que vous ayez fait, vous feriez mieux de vous cacher à Colombourg le temps que ça se calme.",
+    "adaptation_body": "C'est la première fois que je vois ces sales tronches par ici. Vous êtes là pour quoiⓡ Meurtreⓡ Chantageⓡ Vol à l'étalageⓡ Eh ben, quoi que vous ayez fait, vous feriez mieux de vous cacher à Colombourg le temps que ça se calme.",
+    "adaptation_review": "Branche plurielle officielle DS retenue pour あんたら SFC ; aucune commande conditionnelle DS inseree."
+  },
+  {
+    "id": 384,
+    "file": "0075.p",
+    "ids": [
+      518,
+      519,
+      520
+    ],
+    "sfc_jp": "だれだって　1つや2つは[LINE]スネに　キズをもっているものさ。[WAIT][LINE]だから　あんまり　人のことを[LINE]いろいろ　かぎまわるんじゃないよ。[WAIT][LINE]それが　ただ　ひとつの[LINE]この町の　おきてさ。[END STRING AC]",
+    "sfc_vf_secondaire": "Tous ici ont été bléssés au moins un fois par quelqu'un d'autre.[WAIT][LINE]Je crois que c'est le prix de la liberté.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「だれだって　１つや２つは\n\tスネに　キズをもっているものさ。\n@c0@",
+      "@a@b＊「だから　あんまり　ひとのことを\n\tいろいろ　かぎまわるんじゃないよ。\n@c0@",
+      "@a@b＊「それが　この町で\n\tただひとつの　決まりごとさ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Tous ceux qui atterrissent ici ont déjà un passé.\n@c0@",
+      "@a@b*ⓢ Mieux vaut ne pas trop fourrer son nez partout.\n@c0@",
+      "@a@b*ⓢ C'est la seule règle qu'on respecte à Colombourg.\n@c0@"
+    ],
+    "review": "Regle de Colombourg : chacun a un passe, ne pas enqueter sur les autres, seule regle de la ville. Trois segments DS dans le meme ordre, sans interrogation ou embranchement ajoute.",
+    "status": "RELU"
+  },
+  {
+    "id": 385,
+    "file": "0075.p",
+    "ids": [
+      569
+    ],
+    "sfc_jp": "酒かい?[END STRING AC]",
+    "sfc_vf_secondaire": "Wanna drink?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「なにか　飲むかい？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ On a soif, heinⓡ Vous buvez quelque choseⓡ\n@c0@"
+    ],
+    "review": "Premier barman avant cocktail maison : 酒かい? correspond a DS 569, suivi du cocktail 570–571. Contexte confirme par le comptoir, pas par une replique courte isolee ; distinct du faux barman en 503/508.",
+    "status": "RELU"
+  },
+  {
+    "id": 388,
+    "file": "0075.p",
+    "ids": [
+      574
+    ],
+    "sfc_jp": "うらに　まわったって[LINE]なにも　おしえられねえぜ。[LINE]さあ　出ていってくれ![END STRING AC]",
+    "sfc_vf_secondaire": "Je n'ai rien à te dire. Ouste![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「裏に　まわってきたって\n\t何も　教えられねえぜ。\n\tさあ　出ていってくれ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Vous croyez que j'vais vous raconter ma vie parce que vous êtes derrière le comptoirⓡⓐ Dégagezⓠ\n@c0@"
+    ],
+    "review": "Meme premier barman quand on passe derriere le comptoir : refus d’informations et ordre de sortir. DS 574 entier ; garde le role, sans le nom de Lynx que la source SFC ne revele pas.",
+    "status": "RELU"
+  },
+  {
+    "id": 389,
+    "file": "0075.p",
+    "ids": [
+      576,
+      577
+    ],
+    "sfc_jp": "伝説の剣職人が　この町に[LINE]住んでいると聞いて　ここまで[LINE]やってきたのですが......。[WAIT][LINE]だれに聞いても　おしえては[LINE]くれないんですよ。トホホ。[END STRING AC]",
+    "sfc_vf_secondaire": "J'ai fait tout ce chemin pour voir le forgeron légendaire.[WAIT][LINE]Mais personne ici ne me dira où il est.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「この町に　伝説の名工と　うたわれた\n\t剣職人が　住んでいると　知って\n\tたずねて来たのですが……。\n@c0@",
+      "@a@b＊「だれに聞いても　居場所を教えて\n\tくれないんですよ。　トホホ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ On m'a dit qu'il y avait un forgeron légendaire ici, alors je me suis dit que j'allais lui rendre visite.\n@c0@",
+      "@a@b*ⓢ Malheureusement, aucun des habitants n'a la politesse de me dire où il se trouve.\n@c0@"
+    ],
+    "review": "Visiteur venu pour le forgeron legendaire mais habitants muets. DS 576–577 ; deux idees et meme interlocuteur, pas le discours du vieil habitant qui suit.",
+    "status": "RELU"
+  },
+  {
+    "id": 390,
+    "file": "0075.p",
+    "ids": [
+      579,
+      580,
+      581,
+      582
+    ],
+    "sfc_jp": "わしが　この町にきたのは[LINE]なん年まえ　だったかのう。[WAIT][LINE]血の気が多くて　毎日のように[LINE]ケンカをしたもんじゃ。[WAIT][LINE]でも　このトシまで　生きて[LINE]こられたのは　きっと　わしが[LINE]ケンカに　よわかったからじゃな。[WAIT][LINE]ケンカに　強かったヤツは[LINE]みんな　死んでしまったよ......。[END STRING AC]",
+    "sfc_vf_secondaire": "Je suis venu dans cette ville il y a bien des années.[WAIT][LINE]C'était rude. Combattre tous les jours.[WAIT][LINE]Mais m'affaiblissant et commencant à perdre, je suis venu ici.[WAIT][LINE]Si j'avais continué à me battre, j'aurais pu ètre tué…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「わしが　この町にきたのは\n\t何年前　だったかのう。\n@c0@",
+      "@a@b＊「血の気が多くて　毎日のように\n\tケンカしたもんじゃ。\n@c0@",
+      "@a@b＊「でも　このトシまで　生きて\n\tこられたのは　きっと　わしが\n\tケンカに　弱かったからじゃな。\n@c0@",
+      "@a@b＊「ケンカに　強かったヤツは\n\tみんな　死んでしまったよ……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ça fait un très long bail que je gagne ma vie à Colombourg.\n@c0@",
+      "@a@b*ⓢ Les habitants de Colombourg sont du genre nerveux. Ils frappent d'abord et ils posent des questions après.\n@c0@",
+      "@a@b*ⓢ Ils se battent pour vivre au quotidien. Mais moi, c'est pas trop mon genre...\n@c0@",
+      "@a@b*ⓢ J'imagine que si je suis toujours en vie, c'est parce que je sais pas me battre. Les gros durs vivent pas longtemps...\n@c0@"
+    ],
+    "review": "Vieil habitant : arrivee ancienne, bagarres, survie car mauvais combattant, disparition des gros durs. DS 579–582 relus ensemble ; la localisation redistribue la derniere idee sur les deux derniers segments mais le groupe complet conserve le propos.",
+    "status": "RELU"
+  },
+  {
+    "id": 397,
+    "file": "0075.p",
+    "ids": [
+      621,
+      622
+    ],
+    "sfc_jp": "この家　せまくて[LINE]住みづらいわ......。[WAIT][LINE]でも　お向かいの家も[LINE]すっごく　せまいのよ。[LINE]見た目は　大きいのにね。[END STRING AC]",
+    "sfc_vf_secondaire": "C'est rude de vivre dans une si petite maison…[WAIT][LINE]Mais celles des voisins sont aussi petites.[WAIT][LINE]La notre a l'air grande, eh?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「うちの　お向かいの家って\n\tすっごく　せまいのよ。\n\t外から見ると　あんなに大きいのに。\n@c0@",
+      "@a@b＊「いったい\n\tどうなっているのかしら……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ La maison de l'autre côté a l'air énorme de l'extérieur, mais à l'intérieur, c'est tout étriqué.\n@c0@",
+      "@a@b*ⓢ Comment ça se faitⓡ Mmm...\n@c0@"
+    ],
+    "review": "Habitante de la petite maison : sa propre demeure et maison en face petite malgre sa facade. DS 621 conserve la seconde description ; 622 est une question ajoutee a la DS. Premiere plainte SFC conservee en reprenant la VF secondaire, ponctuation seulement normalisee.",
+    "status": "RELU",
+    "original_body": "La maison de l'autre côté a l'air énorme de l'extérieur, mais à l'intérieur, c'est tout étriqué. Comment ça se faitⓡ Mmm...",
+    "adaptation_body": "C'est rude de vivre dans une si petite maison... La maison de l'autre côté a l'air énorme de l'extérieur, mais à l'intérieur, c'est tout étriqué.",
+    "adaptation_review": "Premiere plainte reprise de la VF IPS secondaire et verifiee au japonais SFC. Conserve ensuite la description DS de la maison voisine ; retire la question DS ajoutee 622."
+  },
+  {
+    "id": 398,
+    "file": "0075.p",
+    "ids": [
+      548,
+      549
+    ],
+    "sfc_jp": "おお　旅のかたがたか。[LINE]こんなところへ　なにか[LINE]ご用かな?[WAIT][LINE]ほお　伝説の剣職人とな。[LINE]そういえば　その昔[LINE]伝説の名工と　呼ばれた......[END STRING AC]",
+    "sfc_vf_secondaire": "Oooh, aventuriers. Qu'est-ce qui vous amêne dans un tel endroit?[WAIT][LINE]Le forgeron légendaire?[WAIT][LINE]Plus personne n'en parle depuis longtemps…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「おお　旅のかたがたか。\n\tこんなところへ　何か　ご用かな？\n@c0@",
+      "@a@b＊「ほお　すごウデの　剣職人とな。\n\tそういえば　その昔\n\t伝説の名工と　呼ばれた……\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Qu'est-ce %H0860%X%A0110%Xqu'un voyageur%Z%B0110%Xqu'une voyageuse%Z%Y%R0000%Xque des voyageuses%Yque des voyageurs%Z%Z comme vous %H0860%Xfabrique%Yfabriquent%Z à Colombourgⓡ\n@c0@",
+      "@a@b*ⓢ Un maître forgeron, vous ditesⓡ Ben, j'ai connu un type surnommé le forgeron légendaire...\n@c0@"
+    ],
+    "review": "Vieil interlocuteur aborde par les voyageurs puis evoquant le forgeron legendaire. DS 548–549 ; premiere phrase neutralisee pour supprimer les branches voyageur/voyageuse et fabrique/fabriquent.",
+    "status": "RELU",
+    "original_body": "Qu'est-ce %H0860%X%A0110%Xqu'un voyageur%Z%B0110%Xqu'une voyageuse%Z%Y%R0000%Xque des voyageuses%Yque des voyageurs%Z%Z comme vous %H0860%Xfabrique%Yfabriquent%Z à Colombourgⓡ Un maître forgeron, vous ditesⓡ Ben, j'ai connu un type surnommé le forgeron légendaire...",
+    "adaptation_body": "Que faites-vous à Colombourg? Un maître forgeron, vous ditesⓡ Ben, j'ai connu un type surnommé le forgeron légendaire...",
+    "adaptation_review": "Adresse neutre au groupe a la place des branches de genre et de nombre DS dans 548 ; suite officielle 549 conservee."
+  },
+  {
+    "id": 406,
+    "file": "0075.p",
+    "ids": [
+      590,
+      591
+    ],
+    "sfc_jp": "ホックという　ウデキキの[LINE]情報屋が　にげこんだと[LINE]聞いて　やって来たのだが......[WAIT][LINE]ヤツは　変装の名人でも[LINE]あるからなあ。[END STRING AC]",
+    "sfc_vf_secondaire": "Il parait que Hawk, l'informateur, s'est réfugié ici, mais…[WAIT][LINE]C'est un maïtre du déguisement.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ホックという　ウデききの\n\t情報屋が　この町に　逃げ込んだと\n\t聞いて　やって来たのだが……\n@c0@",
+      "@a@b＊「ヤツは　変装の名人でも\n\tあるからなあ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je suis à la recherche de Lynx, le diffamateur. Il paraît qu'il se cache à Colombourg.\n@c0@",
+      "@a@b*ⓢ C'est un maître du déguisement. Je dois garder les yeux ouverts.\n@c0@"
+    ],
+    "review": "Poursuivant de Lynx venu en ville : informateur cache et maitre du deguisement. DS 590–591, pas sa replique ulterieure 0076:734 portant sur les armes legendaires.",
+    "status": "RELU"
+  },
+  {
+    "id": 407,
+    "file": "0075.p",
+    "ids": [
+      601,
+      602
+    ],
+    "sfc_jp": "ほんとうは　下のへやも[LINE]うちのもの　なんだけど......[WAIT][LINE]なんだか　ヘンな人たちが[LINE]住みついちゃって[LINE]こまったわ。[END STRING AC]",
+    "sfc_vf_secondaire": "La piêce en bas des escaliers est aussi à moi…[WAIT][LINE]Mais je me sens plus en sécurité en haut avec tous ces gens étranges autours.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「本当は　裏の土地も\n\tうちのもの　なんだけど……\n@c0@",
+      "@a@b＊「なんだか　ヘンなひとたちが\n\t住みついちゃって\n\tこまったわ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Cette zone derrière est à moi.\n@c0@",
+      "@a@b*ⓢ Mais elle est squattée par un groupe de gens bizarres qui dégradent le quartier.\n@c0@"
+    ],
+    "review": "Proprietaire se plaint de squatters dans une partie de son logement. SFC indique la piece du dessous, DS 601 le terrain derriere : adaptation spatiale explicite appuyee aussi sur la premiere phrase de la VF IPS. Seconde phrase DS 602 conservee.",
+    "status": "RELU",
+    "original_body": "Cette zone derrière est à moi. Mais elle est squattée par un groupe de gens bizarres qui dégradent le quartier.",
+    "adaptation_body": "La pièce du dessous est aussi à moi... Mais elle est squattée par un groupe de gens bizarres qui dégradent le quartier.",
+    "adaptation_review": "Conserve la piece inferieure SFC, appuyee par la VF secondaire, a la place du terrain derriere de la carte DS. Aucune deplacement d’un lieu du jeu ; seconde phrase DS conservee."
+  },
+  {
+    "id": 417,
+    "file": "0075.p",
+    "ids": [
+      645
+    ],
+    "sfc_jp": "いいぞー　ぬげー!![END STRING AC]",
+    "sfc_vf_secondaire": "Oui! Enlêve-le![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「いいぞー　もっと　腰ふってー！！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Allezⓠ Vas-yⓠ Montre-moi ce que tu sais faireⓠ\n@c0@"
+    ],
+    "review": "Spectateur du theatre demandant une demonstration. SFC reclame de se deshabiller, DS 645 parle de mouvement des hanches et le francais reste une incitation generale a montrer son talent. Meme spectateur et scene, aucun controle ou nom ajoute.",
+    "status": "RELU"
+  },
+  {
+    "id": 429,
+    "file": "0075.p",
+    "ids": [
+      669,
+      670,
+      671
+    ],
+    "sfc_jp": "この町に　流れてきてから[LINE]もう　12年になるわ。[WAIT][LINE]前は　ガンディーノって城に[LINE]いたんだけどね。[WAIT][LINE]あの頃のことは　なにか[LINE]悪い夢を　見ていたよう。[LINE]あまり　思いだしたくないわね。[END STRING AE]",
+    "sfc_vf_secondaire": "Je suis ici depuis 12 ans.[WAIT][LINE]Avant ca, je vivais au Château Gandino.[WAIT][LINE]Tout cela ressemble à un mauvais rève. Je n'aime pas me le rappeller.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「この町に　流れてきてから\n\tもう　１２年になるかしら。\n@c0@",
+      "@a@b＊「前は　ガンディーノって城に\n\tいたんだけどね。\n@c0@",
+      "@a@b＊「あの頃のことは　なにか\n\t悪い夢を　見ていたようで……\n\tあまり　思いだしたくないわ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ça fait presque douze ans que j'habite cette ville.\n@c0@",
+      "@a@b*ⓢ Je suis venue du château de Brigandia.\n@c0@",
+      "@a@b*ⓢ C'était un vrai cauchemar. Je préfère ne plus y songer...\n@c0@"
+    ],
+    "review": "Habitante etablie depuis douze ans, venue du chateau de Gandino/Brigandia, refuse de reparler de son cauchemar. DS 669–671, meme anciennete ; ne pas ajouter la reaction silencieuse de Mireille en 672.",
+    "status": "RELU"
+  },
+  {
+    "id": 434,
+    "file": "0075.p",
+    "ids": [
+      709
+    ],
+    "sfc_jp": "......ヘヘヘ。[LINE]マスター　もうー杯![END STRING AC]",
+    "sfc_vf_secondaire": "…héhéhé. Barman! A boire![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「……へへへ。\n\tマスター　もう１杯！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Hé héⓠ Garçonⓠ Un autreⓠ\n@c0@"
+    ],
+    "review": "Buveur apres le conseil payant sur l’equipement : demande un autre verre, DS 709. Dans la meme sequence que le refus 710 et le hoquet 712 ; pas une nouvelle commande d’achat de boisson.",
+    "status": "RELU"
+  },
+  {
+    "id": 437,
+    "file": "0075.p",
+    "ids": [
+      712
+    ],
+    "sfc_jp": "ヘヘヘ......。ひっく......。[END STRING AC]",
+    "sfc_vf_secondaire": "hehehe… *hic*[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「へへへ……。　ひっく……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Hé hé héⓠ Hicⓠ\n@c0@"
+    ],
+    "review": "Hoquet et rire du meme buveur, DS 712, voisin de 709 et du renseignement sur Lynx a l’etage 714. Replique courte ancree dans cette sequence, pas dans une taverne generique.",
+    "status": "RELU"
+  },
+  {
+    "id": 456,
+    "file": "0075.p",
+    "ids": [
+      536,
+      537,
+      538,
+      539,
+      540,
+      541
+    ],
+    "sfc_jp": "[CODE D4]ホック「ああ?　伝説の剣職人だあ?[LINE]そんなヤツ　この町に[LINE]いたっけなあ。[WAIT][LINE][CODE D4]ホック「.........。いや　じつは[LINE]この町に　来たのは[LINE]つい　こないだでね。[WAIT][LINE][CODE D4]ホック「おっと　がっかり[LINE]しなさんなって![WAIT][LINE][CODE D4]ホック「知らないことは[LINE]しらべりゃ　いいのさ。[WAIT][LINE][CODE D4]ホック「この町の　連中は　くちが[LINE]かたいが　このホックさまに[LINE]かかれば　ちょろいもんさ。[WAIT][LINE][CODE D4]ホック「じゃあ　ちょっくら[LINE]いってくらあ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Hawk.Hmmm. Le forgeron légendaire?[WAIT][LINE][CODE D4]Hawk.Non. Je ne connais personne comme ca ici.[WAIT][LINE][CODE D4]Hawk.…Bon, pour ètre honnète, je suis ici depuis peu.[WAIT][LINE][CODE D4]Hawk.Ne sois pas si tendu. Je peut le découvrir.[WAIT][LINE][CODE D4]Hawk.Ils semblent tous décidés à ne rien dire.[WAIT][LINE][CODE D4]Hawk.Mais Hawk les fera parler. Donne-moi juste un peu de temps.[END STRING AC]",
+    "ds_jp": [
+      "@a@bホック「ああ？　伝説の剣職人だあ？\n\tそんなヤツ　この町に\n\tいたっけかなあ。\n@c0@",
+      "@a@bホック「………。\n\tいや　実は　この町に来たのは　\n\tつい　こないだでね。\n@c0@",
+      "@a@bホック「おっと　がっかり\n\tしなさんなって！\n@c0@",
+      "@a@bホック「知らないことは\n\tしらべりゃ　いいのさ。\n@c0@",
+      "@a@bホック「この町の　連中は\n\tクチが固いが　このホックさまに\n\tかかれば　ちょろいもんさ。\n@c0@",
+      "@a@bホック「じゃあ　ちょっくら\n\tいってくらあ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLynx@bHeinⓡ Un forgeron légendaireⓡ Laissez-moi voir... Est-ce qu'il y a quelqu'un comme ça iciⓡ\n@c0@",
+      "@aLynx@bVous savez, ça fait pas très longtemps que je suis ici.\n@c0@",
+      "@aLynx@bHéⓠ Faites donc pas cette tête-làⓠ\n@c0@",
+      "@aLynx@bIl suffit de fouiller un peu.\n@c0@",
+      "@aLynx@bLes habitants de Colombourg sont pas très bavards, mais ils parlent à Lynx.\n@c0@",
+      "@aLynx@bJe vais aller fouiner un peu. En attendant, faites pas de bêtises, d'accordⓡ\n@c0@"
+    ],
+    "review": "Premier entretien avec Lynx : ignorance du forgeron, arrivee recente, reconfort, enquete possible, habitants peu bavards puis depart. Six labels japonais ホック identiques ; nom DS Lynx conserve une fois.",
+    "status": "RELU"
+  },
+  {
+    "id": 458,
+    "file": "0075.p",
+    "ids": [
+      768,
+      769,
+      770,
+      771
+    ],
+    "sfc_jp": "[CODE D4]ホック「そういや　カネの話を[LINE]まだ　してなかったな。[WAIT][LINE][CODE D4]ホック「この町での　人さがしは[LINE]高いぜ。そうだな......[LINE]50000ゴールドだ。[WAIT][LINE][CODE D4]ホック「といっても　いきなり[LINE]そんな大金を　はらうバカは[LINE]いねえだろう。[WAIT][LINE][CODE D4]ホック「だから　オレと[LINE]ちょっとした　カケを[LINE]してみようぜ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Hawk.Nous n'avons pas encore parlé salaire.[WAIT][LINE][CODE D4]Hawk.Je les interrogerai pour seulement 50,000 piêces d'or.[WAIT][LINE][CODE D4]Hawk.Tu penses que c'est trop? Alors trouve les informations toi-mème.[WAIT][LINE][CODE D4]Hawk.Bon, j'exagêre peut-ètre.[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bホック「そういや　カネの話を\n\tまだ　していなかったな。\n@c0@",
+      "@a@bホック「この町での　さがしものは\n\t高いぜ。　そうだな……\n\t５００００ゴールドだ。\n@c0@",
+      "@a@bホック「といっても　いきなり\n\tそんな大金を　はらうバカは\n\tいねえだろう。\n@c0@",
+      "@a@bホック「だから　オレと\n\tちょっとした　賭けをしようぜ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLynx@bOn n'en est pas encore aux choses sérieuses. Évidemment, je parle d'or.\n@c0@",
+      "@aLynx@bÇa coûte cher de retrouver quelqu'un dans cette ville. Il me faudra 50000 pièces d'or.\n@c0@",
+      "@aLynx@bMais pas d'inquiétude. Je m'attends pas à ce que vous me donniez tout ça d'un coup.\n@c0@",
+      "@aLynx@bC'est pour ça que je vous propose un petit marché...\n@c0@"
+    ],
+    "review": "Lynx aborde le paiement : recherche couteuse, tarif 50000, pas de versement immediat et proposition de pari. DS 768–771 ; montant identique a SFC, pas de variable monetaire ou debit ajoute.",
+    "status": "RELU"
+  },
+  {
+    "id": 459,
+    "file": "0075.p",
+    "ids": [
+      772,
+      773,
+      774,
+      775
+    ],
+    "sfc_jp": "[CODE D4]ホック「よーく　聞けよ。[LINE]オレは　今から　変そうして[LINE]町に　もぐりこむ。[WAIT][LINE][CODE D4]ホック「そうだな。情報をあつめるには[LINE]3回くらい　変そうしなきゃ[LINE]ならんだろう。[WAIT][LINE][CODE D4]ホック「その変そうを　3回とも[LINE]見やぶったら　50000を[LINE]2000に　まけてやるよ。[WAIT][LINE][CODE D4]ホック「どうだ　やるかい?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Hawk.Okay. Ecoute.[WAIT][LINE][CODE D4]Hawk.Je vais me déguiser et fouiner en ville.[WAIT][LINE][CODE D4]Hawk.Je vais utiliser trois déguisements pour récolter ces informations.[WAIT][LINE][CODE D4]Hawk.Essaye de me trouver à chaque fois que je me déguiserai.[WAIT][LINE][CODE D4]Hawk.Si tu peux, je descendrai à 2000 piêces d'or.[WAIT][LINE][CODE D4]Hawk.Qu'en dis-tu? Tu es partant?[END STRING AC]",
+    "ds_jp": [
+      "@a@bホック「よーく　聞けよ。\n\tオレは　今から　変装して\n\t町に　もぐりこむ。\n@c0@",
+      "@a@bホック「そうだな。　情報を集めるには\n\t３回くらい　変装しなきゃ\n\tならんだろう。\n@c0@",
+      "@a@bホック「その変装を　３回とも\n\t見やぶったら　５００００を\n\t２０００に　まけてやるよ。\n@c0@",
+      "@a@bホック「どうだ　やるかい？\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLynx@bÉcoutez bienⓠ Je vais me déguiser et me balader dans la ville incognito.\n@c0@",
+      "@aLynx@bIl me faudra au moins trois déguisements pour recueillir des informations.\n@c0@",
+      "@aLynx@bSi vous me reconnaissez sous ces déguisements, je baisserai le tarif à 2000 pièces d'or.\n@c0@",
+      "@aLynx@bVous en dites quoiⓡ C'est d'accordⓡ\n@c0@"
+    ],
+    "review": "Regles du defi : deguisement en ville, trois costumes, reconnaissance des trois donnant remise a 2000 depuis 50000, puis demande d’accord. DS 772–775 ; les deux tarifs et trois etapes restent identiques a SFC.",
+    "status": "RELU"
+  },
+  {
+    "id": 460,
+    "file": "0075.p",
+    "ids": [
+      776,
+      777
+    ],
+    "sfc_jp": "[CODE D4]ホック「よし　話は　きまった![LINE]オレは　誰かに変そうして[LINE]この町の　どこかに　いるはずだ。[WAIT][LINE][CODE D4]ホック「せいぜい　見つけてくれよ。[LINE]じゃあ　いってくらあ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Hawk.Marché conclu. Je vais mettre mon premier déguisement.[WAIT][LINE][CODE D4]Hawk.Alors essaye de me trouver, okay? A plus.[END STRING AC]",
+    "ds_jp": [
+      "@a@bホック「よし　話は　きまった！\n\tオレは　誰かに変装して\n\tこの町の　どこかに　いるはずだ。\n@c0@",
+      "@a@bホック「ま　がんばって　見つけてくれよ。\n\tそんじゃ　いってくらあ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLynx@bÇa marcheⓠ Je vais me déguiser et me cacher quelque part en ville.\n@c0@",
+      "@aLynx@bBonne chance pour me retrouver. À bientôtⓠ\n@c0@"
+    ],
+    "review": "Accord au defi : Lynx se deguisera en ville puis souhaite bonne chance et part. DS 776–777 ; ne pas utiliser la branche de refus 783–784.",
+    "status": "RELU"
+  },
+  {
+    "id": 482,
+    "file": "0075.p",
+    "ids": [
+      947,
+      948
+    ],
+    "sfc_jp": "かけは　あんたらの負けだな。[LINE]なんせ　ホックの　変そうは[LINE]はんぱじゃないからな。[WAIT][LINE]でも　どうしても見つけたけりゃ[LINE]とにかく　いろんな人たちに[LINE]話しかけてみるこったな。[END STRING AC]",
+    "sfc_vf_secondaire": "On dirait qu'Hawk t'a battu. Son déguisement était trop bon.[WAIT][LINE]Si tu ne le trouves vraiment pas, parle aux gens.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「賭けは　あんたらの負けだな。\n\tなんせ　ホックの　変装術は\n\tハンパじゃないからなあ。\n@c0@",
+      "@a@b＊「どうしても　ヤツを見つけたけりゃ\n\tとにかく　いろんなひとたちに\n\t話しかけてみるこったな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Vous allez perdre ce défi, c'est sûr. Lynx est un pro du déguisement.\n@c0@",
+      "@a@b*ⓢ Votre seul espoir, c'est de parler au plus de monde possible.\n@c0@"
+    ],
+    "review": "Conseil au joueur du defi : Lynx pro du deguisement puis parler au plus de monde possible. DS 947–948, entre deux deguisements, aucun lieu de cachette revele.",
+    "status": "RELU"
+  },
+  {
+    "id": 486,
+    "file": "0075.p",
+    "ids": [
+      919
+    ],
+    "sfc_jp": "おれ　ちからに　なって[LINE]あげたいんだけど[LINE]どうしたら　いいのか......。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "J'aurais aimé pouvoir faire quelque chose…[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「オレ　チカラに　なって\n\tあげたいんだけど\n\tどうしたら　いいのか……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ J'aimerais vraiment l'aider, mais je ne sais pas vraiment quoi faire...\n@c0@"
+    ],
+    "review": "Homme parlant de la pauvre Sarii/Martel au pretre : voudrait l’aider mais ignore comment. DS 919, entre la compassion 917 et le faux pretre 920. Nom absent de cette replique SFC, donc non ajoute.",
+    "status": "RELU"
+  },
+  {
+    "id": 489,
+    "file": "0075.p",
+    "ids": [
+      924,
+      925,
+      926
+    ],
+    "sfc_jp": "[CODE D4]神父「おや　あなたがたも　なにか[LINE]相談事ですかな。[WAIT][LINE][CODE D4]神父「天にまします　われらが神よ...[LINE]この　まよえる　こひつじたちを[LINE]すくいたままへ......　イテテ...。[WAIT][LINE][CODE D4]神父「舌を　かんじまったよ。[LINE]やっぱ　まだ酒が　のこってて[LINE]舌が　うまくまわらないや。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Prètre.Peut-ètre que tu as aussi besoin de réconfort.[WAIT][LINE][CODE D4]Prètre.Oh dieux… Aidez ces âmes perdues le long de leur chemin…[WAIT][LINE][CODE D4]Prètre.Ouch! Je me suis mordu la langue… J'ai du boire trop de liqueur.[END STRING AC]",
+    "ds_jp": [
+      "@a@b神父「おや　あなたがたも　なにか\n\t相談事ですかな。\n@c0@",
+      "@a@b神父「天にまします　われらが神よ……\n\tこの　まよえる　こひつじたちを\n\t救い㈢ま㈢㈢まへ……　イテテ……。\n@c0@",
+      "@a@b神父「舌を　かんじまったよ。\n\tやっぱ　まだ酒が　のこってて\n\t舌が　うまくまわらないや。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aPrêtre@bVous avez également des soucisⓡ\n@c0@",
+      "@aPrêtre@bLa Déesse sait guider ses boutons perdus... Euh... Ses moutonsⓠ\n@c0@",
+      "@aPrêtre@bPardonnez-moi. J'ai peut-être un peu exagéré tout à l'heure... au bar.\n@c0@"
+    ],
+    "review": "Faux pretre avant sa premiere demasquade : consultation, priere mal prononcee, excuse de l’alcool. DS 924–926, etiquettes 神父 identiques. Conserve le label Pretre, sans reveler Lynx avant 490.",
+    "status": "RELU"
+  },
+  {
+    "id": 490,
+    "file": "0075.p",
+    "ids": [
+      928,
+      929,
+      930
+    ],
+    "sfc_jp": "[CODE D4]ホック「へへ　オレだよ。[LINE]1回めは　まんまと[LINE]見つかってしまったな。[WAIT][LINE][CODE D4]ホック「でも　次は　そうは[LINE]いかねえぜ。[WAIT][LINE][CODE D4]ホック「よし!　ここでの[LINE]情報あつめは　おしまいだ。[LINE]次に　いってくらあ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Hawk.Hehehe… C'est moi. Alors tu m'as trouvé.[WAIT][LINE][CODE D4]Hawk.Ce sera plus dur la prochaine fois.[WAIT][LINE][CODE D4]Hawk.Je suis fait ici. Je vais voir ailleurs. A plus![END STRING AC]",
+    "ds_jp": [
+      "@a@bホック「へへ　オレだよ。\n\t１回目は　まんまと\n\t見つかってしまったな。\n@c0@",
+      "@a@bホック「でも　次は\n\tそうカンタンには　いかねえぜ。\n@c0@",
+      "@a@bホック「よし！　ここでの\n\t情報集めは　おしまいだ。\n\t次に　いってくらあ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLynx@bHé héⓠ Oui, c'était bien moiⓠ Vous m'avez démasqué. Et d'unⓠ\n@c0@",
+      "@aLynx@bMais ce sera moins facile la prochaine fois.\n@c0@",
+      "@aLynx@bJ'ai récupéré toutes les informations dont j'avais besoin ici. On continueⓠ\n@c0@"
+    ],
+    "review": "Lynx demasque la premiere fois : annonce sa reconnaissance, prochaine plus difficile puis informations collectees et depart. DS 928–930 ; ne pas inclure revelation du deguisement feminin 973.",
+    "status": "RELU"
+  },
+  {
+    "id": 503,
+    "file": "0076.p",
+    "ids": [
+      0,
+      1
+    ],
+    "sfc_jp": "酒かい?　ほらよ　うちの店[LINE]とくせいの　ブラブラムンムンだ。[WAIT][LINE]さあ　これでも飲んで[LINE]イヤなことを　思いっきり[LINE]ぐちればいいさ。[END STRING AC]",
+    "sfc_vf_secondaire": "Tu cherches quelque chose à boire?[WAIT][LINE]Ils vendent une merveilleuse liqueur à l'intérieur.[WAIT][LINE]Mais tu n'y trouveras pas que des boissons.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「なにか　飲むかい？\n\tほらよ　うちの店　特製の\n\tブラブラムンムンだ。\n@c0@",
+      "@a@b＊「さあ　これでも飲んで\n\tイヤなことを　思いっきり\n\tぐちればいいさ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Vous voulez boire quelque choseⓡ La spécialité de la maison, la lune saignanteⓡ\n@c0@",
+      "@a@b*ⓢ Asseyez-vous, buvez un coup et oubliez votre mal de ventre.\n@c0@"
+    ],
+    "review": "Lynx deguise en second barman : offre du cocktail ブラブラムンムン, puis invitation a se plaindre. DS 0076:0–1, cocktail officiel lune saignante. Ne pas confondre avec la lune sanglante du premier bar en 0075:570.",
+    "status": "RELU"
+  },
+  {
+    "id": 508,
+    "file": "0076.p",
+    "ids": [
+      5
+    ],
+    "sfc_jp": "じゃあ　人さがしかい?[END STRING AC]",
+    "sfc_vf_secondaire": "Tu cherches quelqu'un?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「じゃあ　だれか\n\tさがしてるのかい？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Alors, vous cherchez quelqu'unⓡ\n@c0@"
+    ],
+    "review": "Branche negative a la boisson chez le faux barman : cherche quelqu’un? DS 0076:5, entre l’offre derriere le comptoir 3–4 et la reconnaissance 9. Meme question SFC, sans nom revele.",
+    "status": "RELU"
+  },
+  {
+    "id": 513,
+    "file": "0076.p",
+    "ids": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "sfc_jp": "[CODE D4]ホック「よく　オレだと　わかったな。[LINE]それとも　まぐれってやつかな。[LINE]まあ　いいや。[WAIT][LINE][CODE D4]ホック「さてと　オレの情報あつめは[LINE]これで　おしまいだ。[WAIT][LINE][CODE D4]ホック「あんたも　ここに　立って[LINE]前の2人の話を　こっそりと[LINE]聞いててみな。[WAIT][LINE][CODE D4]ホック「いい話が　聞けると思うぜ。[WAIT][LINE][CODE D4]ホック「んじゃ　あとで　オレの家に[LINE]来てくれ。そこで　しらべたことを[LINE]教えるからさ。じゃあな。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Hawk.Comment as-tu su que c'était moi?[WAIT][LINE][CODE D4]Hawk.Bon, j'ai récolté toutes les informations nécessaires.[WAIT][LINE][CODE D4]Hawk.Parle aux deux types de l'autre coté du bar.[WAIT][LINE][CODE D4]Hawk.Ils ont des choses intéressantes à dire.[WAIT][LINE][CODE D4]Hawk.Puis viens chez moi me dire ce que tu as découvert.[END STRING AC]",
+    "ds_jp": [
+      "@a@bホック「よく　オレだと　わかったな。\n\tそれとも　まぐれってやつかな？\n\tまあ　いいや。\n@c0@",
+      "@a@bホック「さてと　オレの情報集めは\n\tこれで　おしまいだ。\n@c0@",
+      "@a@bホック「あんたも　ここに立って\n\t前の連中の話を　こっそり聞いてみな。\n\tいい話が　聞けると思うぜ。\n@c0@",
+      "@a@bホック「さてと……\n\tそんじゃ　あとで　オレの家に\n\t約束の金を　持って来てくれ。\n@c0@",
+      "@a@bホック「そしたら　調べたことを\n\t全部　教えるからさ。　じゃあな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLynx@bComment vous avez su que c'était moiⓡ Ou c'était un coup de chanceⓡ Enfin, quoi qu'il en soit...\n@c0@",
+      "@aLynx@bJ'ai récupéré toutes les informations dont j'avais besoin.\n@c0@",
+      "@aLynx@bSi vous restez ici pour épier les deux types juste là, vous en apprendrez de belles.\n@c0@",
+      "@aLynx@bAprès ça, retrouvez-moi chez moi. Et n'oubliez pas d'apporter vos pièces d'or.\n@c0@",
+      "@aLynx@bQuand vous aurez payé, je vous dirai ce que j'ai appris.\n@c0@"
+    ],
+    "review": "Troisieme demasquade : Lynx reconnu, enquete terminee, epier les deux hommes, venir chez lui avec l’or puis entendre les informations. DS 11–15 complet, un seul locuteur. Les indications correspondent a la sequence 514 puis 515.",
+    "status": "RELU"
+  },
+  {
+    "id": 514,
+    "file": "0076.p",
+    "ids": [
+      19
+    ],
+    "sfc_jp": "前の2人は　なにやら　話している......。[END STRING AC]",
+    "sfc_vf_secondaire": "Tu écoutes la conversation…[END STRING AC]",
+    "ds_jp": [
+      "@a@b前の　ふたりが\nなにやら　話をしている……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bLes deux hommes devant sont en train de discuter...\n@c0@"
+    ],
+    "review": "Narration avant conversation surprise des deux hommes : DS 0076:19, suivie du recit sur le forgeron en 20. Pas de nom de locuteur, acteur ou variable ajoute.",
+    "status": "RELU"
+  },
+  {
+    "id": 515,
+    "file": "0076.p",
+    "ids": [
+      20,
+      21,
+      22
+    ],
+    "sfc_jp": "コブレは　本当に　うでのいい[LINE]かじ屋じゃったよ......。[LINE]伝説の剣職人と　うたわれるほどな。[WAIT][LINE]じゃが　それが　いかんかった。[LINE]やつめ　すっかり　その気に[LINE]なってしまってのう。[WAIT][LINE]オレが　伝説の職人なら　1度は[LINE]本物の　伝説の剣というものを[LINE]見てみたいなどと　いいだして...。[END STRING AC]",
+    "sfc_vf_secondaire": "Coble était un forgeron três doué…[WAIT][LINE]Il a mème travaillé sur l'épée légendaire.[WAIT][LINE]Malheureusement, il ne la considérait que comme un travail.[WAIT][LINE]Si j'avais forgé l'épée légendaire, je ne l'aurais pas perdu de vue…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「コブレは　本当に　ウデのいい\n\t剣職人じゃったよ……。\n\t伝説の名工と　うたわれるほどのな。\n@c0@",
+      "@a@b＊「じゃが　それが　いかんかった。\n\tやつめ　すっかり　その気に\n\tなってしまってのう。\n@c0@",
+      "@a@b＊「オレが　伝説の職人なら\n\t１度は　本物の　伝説の剣というものを\n\t見てみたいなどと　いいだして……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Le vieux Charles était vraiment un brave type. On l'appelait pas le forgeron légendaire pour rien.\n@c0@",
+      "@a@b*ⓢ Mais il en a jamais été pleinement satisfait.\n@c0@",
+      "@a@b*ⓢ Il disait souvent que, s'il était vraiment un forgeron légendaire, il devait voir une véritable épée légendaire.\n@c0@"
+    ],
+    "review": "Premier vieux client : talent de Cobre/Charles, renommee lui montant a la tete puis desir de voir une epee legendaire. DS 20–22 relus ensemble, meme sujet et meme suite ; ne pas inclure reponse du second homme 23.",
+    "status": "RELU"
+  },
+  {
+    "id": 518,
+    "file": "0076.p",
+    "ids": [
+      26
+    ],
+    "sfc_jp": "ふーん......。[END STRING AC]",
+    "sfc_vf_secondaire": "Oh…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ふーん……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Mmm... Pas possible...\n@c0@"
+    ],
+    "review": "Second vieux client reagissant a la souffrance de la famille abandonnee. DS 26, juste apres 24–25, reponse distincte de 23. Replique breve ancree dans la conversation surprise qui suit 514.",
+    "status": "RELU"
+  },
+  {
+    "id": 526,
+    "file": "0076.p",
+    "ids": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "sfc_jp": "[CODE D4]ホック「やあ　いらっしゃい。[LINE]へへ　どうだい。いい家だろ。[WAIT][LINE][CODE D4]ホック「まあ　そんなことは[LINE]おいといて　まず金を　もらおう。[WAIT][LINE][CODE D4]ホック「50000Gと　いいたいが[LINE]あんたにゃ　3回とも[LINE]みつかっちまったんだったな。[WAIT][LINE][CODE D4]ホック「やくそくどおり　2000Gに[LINE]まけといてやるよ。[LINE]じゃあ　もらうぜ。[END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D4]Hawk.Bienvenue. Que penses-tu de ma maison?[WAIT][LINE][CODE D4]Hawk.Assez plaisanté. Parlons argent.[WAIT][LINE][CODE D4]Hawk.J'aimerais dire 50,000 piêces d'or, mais tu m'as trouvé trois fois.[WAIT][LINE][CODE D4]Hawk.Je tiens toujours parole alors ce sera 2,000. Par ici la monnaie.[END STRING AE]",
+    "ds_jp": [
+      "@a@bホック「やあ　いらっしゃい。\n\tへへ　どうだい。　いい家だろ。\n@c0@",
+      "@a@bホック「まあ　そんなことは\n\tおいといて　まず　金を　もらおう。\n@c0@",
+      "@a@bホック「じゃ　５００００ゴールド……と\n\tいいたいが　あんたにゃ　３回とも\n\t見つかっちまったんだったな。\n@c0@",
+      "@a@bホック「約束どおり　２０００ゴールドに\n\tまけといてやるよ。\n\tじゃあ　もらうぜ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLynx@bBienvenue dans mon humble demeureⓠ Pas mal, nonⓡ\n@c0@",
+      "@aLynx@bAssez papoté. Voyons voir cet or.\n@c0@",
+      "@aLynx@bAlors, 50000 pièces d'or... C'est ce que je VOUDRAIS. Mais vous m'avez démasqué trois fois.\n@c0@",
+      "@aLynx@bComme promis, je vais baisser le tarif à 2000 pièces d'or. Maintenant, si vous voulez bien me les donner...\n@c0@"
+    ],
+    "review": "Chez Lynx apres les trois reconnaissances : accueil, or reclame, tarif 50000 abandonne car trois deguisements reconnus, remise promise a 2000. DS 56–59 ; nombres et terminator AE conserves, aucune branche d’argent insuffisant 61 ajoutee.",
+    "status": "RELU"
+  }
+]
