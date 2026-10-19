@@ -1,0 +1,11 @@
+# DQVI FR DS v0.33 — PARTIEL, tables de lieux
+
+Script principal inchangé : 5732/6957, 1225 restants. Tables séparées : **8 entrées physiques intégrées** (8 SIDs), distinctes du compte du script. Port Abbri, Monstria, Colombourg, Kupidia, Noirgibet, Somnia, Militia, Typhonia. 25 autres lieux préparés non insérés. ROM 8 Mio, SHA256 1c4fb02da0c75909d8deb1f72261a93e83717c61bc27f9e32cb340b99d925bbd.
+
+Source principale MENULIST6 FR DS, noms japonais SFC/DS identiques, ancien libellé VF secondaire relu. Tous les noms sont complets, ASCII déjà supporté, sans saut/commande, et pas plus larges en caractères que le nom précédent. Aucun accent retiré ni nom tronqué. Les vérifications JP et FR DS sont refaites par names.py avant insertion, avec garde des anciens octets. Le repacking préserve les 157 groupes de pointeurs, 464 alias, autres entrées, tail d'origine, dictionnaire et alphabet. 2512 SIDs résolus indépendamment ; 2504 inchangés depuis v0.32. Les 5732 anciens textes sont conservés exactement, dont la correction 323 et 1836.
+
+BPS et IPS réappliqués, mauvaises sources rejetées, 6960 entrées de script redécodées. Snes9x : 870 groupes de script plus pool et pointeurs des noms dans les deux copies ROM, 500765 octets contrôlés. Démarrage Journal, huit noms relus via le formateur B2 avec SID injecté dans 5A28 et redirection au camp. Les menus de voyage naturels ne sont pas parcourus ; la largeur non accrue est une précaution conservatrice, pas une preuve de tous les écrans. Captures et états restent locaux.
+
+Inventaire reproductible : audit_tables.py v0.33 puis inventaire_tables_v033.py v0.33. 2048 entrées physiques / 2512 SIDs ; 16 entrées françaises confirmées (8 antérieures + 8 lieux), 23 identiques DS à vérifier, 349 identifiants à qualifier, 82 vides à qualifier, 1577 autres textes à revoir, 1 crédit retiré. Le zéro de détection japonais ne prouve pas une traduction achevée. 25 lieux PREPARE_NON_INSERE ; accents et augmentations de largeur restent à traiter.
+
+Reprise : python restore_sources.py. Recette idempotente pass33.py, delta sources/lots/v0.33.json ; init/prepare/build/verify sous v0.33. Patch BPS sous patches/. Aucune ROM, SRAM ni sauvegarde d'état publiée. Le projet et les tables restent partiels.

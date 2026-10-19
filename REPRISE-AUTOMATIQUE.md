@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dernière version : v0.32, 5732/6957 intégrés, 1225 restants. Depuis v0.28 : 180 nouveaux et 1 correction héritée (323). Tables : 33 lieux préparés non insérés, aucune insertion nouvelle ; inventaire v0.29. Toujours 8 Mio.
+Dernière version : v0.33, script 5732/6957 inchangé, 1225 restants. Tables : huit lieux intégrés séparément, 25 préparés non insérés, inventaire v0.33. Toujours 8 Mio.
+
+## Lot v0.33 : huit lieux
+
+Lire v0.33/LISEZ-MOI.md et revue-lieux-v033.json. Port Abbri, Monstria, Colombourg, Kupidia, Noirgibet, Somnia, Militia, Typhonia. FR DS complet, JP SFC/DS exacts vérifiés par builder, ASCII existant et largeur non supérieure à l'ancien libellé. Pas de troncature ni accent supprimé. 157 groupes et 464 alias conservés, 2504 autres SIDs et 5732 textes inchangés. BPS/IPS, redécodage, bus des deux pools et pointeurs, Journal et huit noms par B2 au camp vérifiés. Menus de voyage naturels non parcourus, ne pas les annoncer validés. Recette pass33.py et delta v0.33. Inventaire mis à jour : 16 entrées FR confirmées, 25 lieux encore PREPARE_NON_INSERE. Continuer script et tables, garder réserves des accents/fenêtres/indices différés.
 
 ## Lot v0.32 : 1836
 

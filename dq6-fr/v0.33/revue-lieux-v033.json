@@ -1,0 +1,208 @@
+[
+  {
+    "sid": 419,
+    "position": 419,
+    "sfc_jp": "サンマリーノ",
+    "current": "San Marino",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 15,
+        "jp": "サンマリーノ",
+        "fr": "Port Abbri"
+      }
+    ],
+    "french": "Port Abbri",
+    "status": "RELU_POUR_INSERTION",
+    "review": "JP SFC et MENULIST6 JA identiques, FR DS exact relu. Ancien libellé VF secondaire contrôlé. ASCII déjà pris en charge, sans saut ou variable. Largeur française non supérieure à l’ancien libellé ; aucune troncature.",
+    "remaining_checks": "Insertion, pointeurs, alias, autres entrées, réapplication et rendu natif à vérifier avant publication ; parcours des fenêtres naturelles toujours à vérifier.",
+    "old_bytes": "22cf011cd0df50",
+    "new_bytes": "1f50535501104343534a",
+    "runtime_sids": [
+      419
+    ],
+    "old_columns": 10,
+    "new_columns": 10
+  },
+  {
+    "sid": 422,
+    "position": 422,
+    "sfc_jp": "モンストル",
+    "current": "Monstoru",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 22,
+        "jp": "モンストル",
+        "fr": "Monstria"
+      }
+    ],
+    "french": "Monstria",
+    "status": "RELU_POUR_INSERTION",
+    "review": "JP SFC et MENULIST6 JA identiques, FR DS exact relu. Ancien libellé VF secondaire contrôlé. ASCII déjà pris en charge, sans saut ou variable. Largeur française non supérieure à l’ancien libellé ; aucune troncature.",
+    "remaining_checks": "Insertion, pointeurs, alias, autres entrées, réapplication et rendu natif à vérifier avant publication ; parcours des fenêtres naturelles toujours à vérifier.",
+    "old_bytes": "1ceaf5ec56",
+    "new_bytes": "1c504f5455534a42",
+    "runtime_sids": [
+      422
+    ],
+    "old_columns": 8,
+    "new_columns": 8
+  },
+  {
+    "sid": 427,
+    "position": 427,
+    "sfc_jp": "ロンガデセオ",
+    "current": "Longadeseo",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 31,
+        "jp": "ロンガデセオ",
+        "fr": "Colombourg"
+      }
+    ],
+    "french": "Colombourg",
+    "status": "RELU_POUR_INSERTION",
+    "review": "JP SFC et MENULIST6 JA identiques, FR DS exact relu. Ancien libellé VF secondaire contrôlé. ASCII déjà pris en charge, sans saut ou variable. Largeur française non supérieure à l’ancien libellé ; aucune troncature.",
+    "remaining_checks": "Insertion, pointeurs, alias, autres entrées, réapplication et rendu natif à vérifier avant publication ; parcours des fenêtres naturelles toujours à vérifier.",
+    "old_bytes": "1bea484245db4650",
+    "new_bytes": "12504d504e4350565348",
+    "runtime_sids": [
+      427
+    ],
+    "old_columns": 10,
+    "new_columns": 10
+  },
+  {
+    "sid": 429,
+    "position": 429,
+    "sfc_jp": "よくぼうのまち",
+    "current": "Greed Town",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 34,
+        "jp": "よくぼうのまち",
+        "fr": "Kupidia"
+      }
+    ],
+    "french": "Kupidia",
+    "status": "RELU_POUR_INSERTION",
+    "review": "JP SFC et MENULIST6 JA identiques, FR DS exact relu. Ancien libellé VF secondaire contrôlé. ASCII déjà pris en charge, sans saut ou variable. Largeur française non supérieure à l’ancien libellé ; aucune troncature.",
+    "remaining_checks": "Insertion, pointeurs, alias, autres entrées, réapplication et rendu natif à vérifier avant publication ; parcours des fenêtres naturelles toujours à vérifier.",
+    "old_bytes": "16f0d80123ee4f",
+    "new_bytes": "1a56514a454a42",
+    "runtime_sids": [
+      429
+    ],
+    "old_columns": 10,
+    "new_columns": 7
+  },
+  {
+    "sid": 432,
+    "position": 432,
+    "sfc_jp": "ろうごくのまち",
+    "current": "Prison Town",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 35,
+        "jp": "ろうごくのまち",
+        "fr": "Noirgibet"
+      }
+    ],
+    "french": "Noirgibet",
+    "status": "RELU_POUR_INSERTION",
+    "review": "JP SFC et MENULIST6 JA identiques, FR DS exact relu. Ancien libellé VF secondaire contrôlé. ASCII déjà pris en charge, sans saut ou variable. Largeur française non supérieure à l’ancien libellé ; aucune troncature.",
+    "remaining_checks": "Insertion, pointeurs, alias, autres entrées, réapplication et rendu natif à vérifier avant publication ; parcours des fenêtres naturelles toujours à vérifier.",
+    "old_bytes": "1f53e0ea0123ee4f",
+    "new_bytes": "1d504a53484a434655",
+    "runtime_sids": [
+      432
+    ],
+    "old_columns": 11,
+    "new_columns": 9
+  },
+  {
+    "sid": 435,
+    "position": 435,
+    "sfc_jp": "レイドック",
+    "current": "Reidock",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 2,
+        "jp": "レイドック",
+        "fr": "Somnia"
+      },
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 18,
+        "jp": "レイドック",
+        "fr": "Somnia"
+      }
+    ],
+    "french": "Somnia",
+    "status": "RELU_POUR_INSERTION",
+    "review": "JP SFC et MENULIST6 JA identiques, FR DS exact relu. Ancien libellé VF secondaire contrôlé. ASCII déjà pris en charge, sans saut ou variable. Largeur française non supérieure à l’ancien libellé ; aucune troncature.",
+    "remaining_checks": "Insertion, pointeurs, alias, autres entrées, réapplication et rendu natif à vérifier avant publication ; parcours des fenêtres naturelles toujours à vérifier.",
+    "old_bytes": "21464a4550d5",
+    "new_bytes": "22504e4f4a42",
+    "runtime_sids": [
+      435
+    ],
+    "old_columns": 7,
+    "new_columns": 6
+  },
+  {
+    "sid": 442,
+    "position": 442,
+    "sfc_jp": "アークボルト",
+    "current": "Arcbolt",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 23,
+        "jp": "アークボルト",
+        "fr": "Militia"
+      }
+    ],
+    "french": "Militia",
+    "status": "RELU_POUR_INSERTION",
+    "review": "JP SFC et MENULIST6 JA identiques, FR DS exact relu. Ancien libellé VF secondaire contrôlé. ASCII déjà pris en charge, sans saut ou variable. Largeur française non supérieure à l’ancien libellé ; aucune troncature.",
+    "remaining_checks": "Insertion, pointeurs, alias, autres entrées, réapplication et rendu natif à vérifier avant publication ; parcours des fenêtres naturelles toujours à vérifier.",
+    "old_bytes": "10534443504d55",
+    "new_bytes": "1c4a4d4a554a42",
+    "runtime_sids": [
+      442
+    ],
+    "old_columns": 7,
+    "new_columns": 7
+  },
+  {
+    "sid": 444,
+    "position": 444,
+    "sfc_jp": "ヘルクラウド",
+    "current": "Hell Cloud",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 225,
+        "jp": "ヘルクラウド",
+        "fr": "Typhonia"
+      }
+    ],
+    "french": "Typhonia",
+    "status": "RELU_POUR_INSERTION",
+    "review": "JP SFC et MENULIST6 JA identiques, FR DS exact relu. Ancien libellé VF secondaire contrôlé. ASCII déjà pris en charge, sans saut ou variable. Largeur française non supérieure à l’ancien libellé ; aucune troncature.",
+    "remaining_checks": "Insertion, pointeurs, alias, autres entrées, réapplication et rendu natif à vérifier avant publication ; parcours des fenêtres naturelles toujours à vérifier.",
+    "old_bytes": "1746e301124ded45",
+    "new_bytes": "235a5149504f4a42",
+    "runtime_sids": [
+      444
+    ],
+    "old_columns": 10,
+    "new_columns": 8
+  }
+]

@@ -1,0 +1,183 @@
+{
+  "kind": "readable_translation_delta",
+  "version": "v0.33",
+  "baseline": "v0.32",
+  "baseline_count": 5732,
+  "new_count": 0,
+  "separate_table_entries_new": 8,
+  "recipe": "dq6-fr/pass33.py",
+  "merged_selection_sha256": "990a5a5ca15f821879638bcb75a33664611beaba0f30ac9d16fad314692a1591",
+  "generated_inputs": {
+    "correspondances-revues.json": "49f294d420e44e111c270986ca8a52aab774a67954dbb6f823b5d3f4cb13f2e8",
+    "adaptations-francaises.json": "671b355b3bbeb6fbb946b8c307048a8f0262b1776a41aaffd6e006db11172b86",
+    "liaisons-variables-natives.json": "3985b511eec3a5d48f35a23b4108e8756aee57431ff1869db7b4a310896f8230",
+    "charset.json": "f84c9183341fab8591f23ee608b0bdf6b9191a09ceeecf04a95afca114027c55"
+  },
+  "files": [
+    {
+      "path": "dq6-fr/pass33.py",
+      "sha256": "9528d74ce08877163969d48ea61130760c5a35c0646f14dcf5cc49d8724d44a2",
+      "bytes": 3666
+    },
+    {
+      "path": "dq6-fr/inventaire_tables_v033.py",
+      "sha256": "dd487dd1579feef8879f260291e88e0b59841389f13c000b63546f72072f8572",
+      "bytes": 5836
+    },
+    {
+      "path": "patches/DQVI-FR-DS-v0.33-BASE-JP-PARTIEL.bps",
+      "sha256": "da4dcc8b15803576bc0864aafff4631e4496eedbac5288f6565a5feb261ab9b6",
+      "bytes": 677247
+    },
+    {
+      "path": "dq6-fr/v0.33/init.py",
+      "sha256": "1320a9dcaa9ee9376afeadb66f8169cbc019a94e69e9331ad15ee69097e3d43e",
+      "bytes": 1385
+    },
+    {
+      "path": "dq6-fr/v0.33/prepare.py",
+      "sha256": "dab8d9f4f94a4f9a07d5fccadbde28d00c04f8d2d5638c6a57f4527f31e7dd14",
+      "bytes": 16658
+    },
+    {
+      "path": "dq6-fr/v0.33/build.py",
+      "sha256": "1e3d8647f93e9b1bb98fd906e934065fe63959f8073cb77792f3e4c5a09fd371",
+      "bytes": 8730
+    },
+    {
+      "path": "dq6-fr/v0.33/verify.py",
+      "sha256": "e3df806130897f9f56016bf76d09bb946281bd4abac660970ec8a9bb1d3ef685",
+      "bytes": 5983
+    },
+    {
+      "path": "dq6-fr/v0.33/names.py",
+      "sha256": "5fa0cd9202f6dad9978bbde6b99237875f102ce8f8646694facf65f4d79d5e0c",
+      "bytes": 5118
+    },
+    {
+      "path": "dq6-fr/v0.33/test_places.py",
+      "sha256": "cc6db78089e9f76be006ef63df925a6b31862414cea33f0c2798cd6e14fd916f",
+      "bytes": 1909
+    },
+    {
+      "path": "dq6-fr/v0.33/layout-names-check.json",
+      "sha256": "8dbea8f6cec287cc460a9ef57465340e414c859285e9a9427e53f0f538e45ad4",
+      "bytes": 67763
+    },
+    {
+      "path": "dq6-fr/v0.33/LISEZ-MOI.md",
+      "sha256": "1c60b68f8a02db90aa04346f25f18b7a05824a8d73caa33875beeed6da938bd2",
+      "bytes": 2299
+    },
+    {
+      "path": "dq6-fr/v0.33/revue-lot-v033.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "path": "dq6-fr/v0.33/revue-lieux-v033.json",
+      "sha256": "1901ac430a85c1dedee25a5c82ad5eb8e0bf778f3c3cc0efb24aca293832fed5",
+      "bytes": 7635
+    },
+    {
+      "path": "dq6-fr/v0.33/nouveaux-messages.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "path": "dq6-fr/v0.33/etat-projet.json",
+      "sha256": "9e0a40e27b6663530c650a5047c751e6e956c2598ebc914691601148225b7fc5",
+      "bytes": 1129
+    },
+    {
+      "path": "dq6-fr/v0.33/couverture-preparation.json",
+      "sha256": "f549506df7aba17d752263092c013e555f23c8c0be72213dccce69bf99a5c387",
+      "bytes": 182
+    },
+    {
+      "path": "dq6-fr/v0.33/validation.json",
+      "sha256": "5b692e45445130bdf75af1d8a2e29259ab3796dcc6b5c069342b09189b9ee2eb",
+      "bytes": 1076
+    },
+    {
+      "path": "dq6-fr/v0.33/qa-patchs-regression.json",
+      "sha256": "c110718eb2ccc439d878d2756131d930217ca35a50210d881c3da8bc6b51977e",
+      "bytes": 1079
+    },
+    {
+      "path": "dq6-fr/v0.33/qa-script-and-name-bus.json",
+      "sha256": "a375a988fcb775e2a229a1c8446f7bb051a90f3f704c7eb5805b276f65744b1f",
+      "bytes": 112
+    },
+    {
+      "path": "dq6-fr/v0.33/qa-place-fixtures.json",
+      "sha256": "d10632d9f107ccaac0e228eed164f0c60d928b587641d0f7bc39a5e4d96df028",
+      "bytes": 1660
+    },
+    {
+      "path": "dq6-fr/v0.33/qa-emulation-v033.json",
+      "sha256": "9a88fa3ff8e949578e2eb5cc3da391fa5fefee4112cbffe300916753bb0a5127",
+      "bytes": 621
+    },
+    {
+      "path": "dq6-fr/v0.33/qa-lieux-insertion.json",
+      "sha256": "5b4823aabee838aaf06ad911a713e9a2feae85d78cf9011f171ed74c61e03935",
+      "bytes": 747
+    },
+    {
+      "path": "dq6-fr/v0.33/audit-tables-bilan.json",
+      "sha256": "d678b153d38e33c4315c4a6142f1052f21c4374d81a3541aa2d73c914a7b5c50",
+      "bytes": 268
+    },
+    {
+      "path": "dq6-fr/v0.33/inventaire-objets.json",
+      "sha256": "864d9ff2f507ca8e0b208c10adca19955699e460b1e548d40f88709ca2b79276",
+      "bytes": 47892
+    },
+    {
+      "path": "dq6-fr/v0.33/inventaire-fragments_descriptions.json",
+      "sha256": "761a5b3c28cfa2ca8cc5389fa51c54097587b24bbe7d4387821e8353878d9c35",
+      "bytes": 90514
+    },
+    {
+      "path": "dq6-fr/v0.33/inventaire-lieux.json",
+      "sha256": "d957e206c17753a85cc5b6375c11bb86344c0a883ad831b917c1c07485d8507a",
+      "bytes": 30173
+    },
+    {
+      "path": "dq6-fr/v0.33/inventaire-tables.json",
+      "sha256": "2088965fd06d7c9ef8a82ae53f5e06c8f3c7ebb0dab2ab0b72fcab78819e5284",
+      "bytes": 4986
+    },
+    {
+      "path": "dq6-fr/v0.33/inventaire-sorts_et_actions.json",
+      "sha256": "a4dbc8c31aa8f898f8832b250da4b156c410ff6cdd98967f8153d8fa9d93b6b0",
+      "bytes": 47666
+    },
+    {
+      "path": "dq6-fr/v0.33/inventaire-monstres_et_personnages.json",
+      "sha256": "0a69b5562e5fb63ef05e07cbbd6a15ca7187a8906f995231f753c5fb59e193f3",
+      "bytes": 74554
+    },
+    {
+      "path": "dq6-fr/v0.33/inventaire-menus_casino_titres_et_rangs.json",
+      "sha256": "a8d16fb59fef690d6e16ea3158faf0ed8210e56d65bcc1e3e5b2bf7b82b5adad",
+      "bytes": 73765
+    },
+    {
+      "path": "dq6-fr/v0.33/inventaire-grille_noms_et_menus.json",
+      "sha256": "b0235c138fb814c5162d9a315e5c1797f016d8cf0476a461c214963e7abbda0b",
+      "bytes": 100985
+    },
+    {
+      "path": "dq6-fr/v0.33/inventaire-vocations_noms_et_reserves.json",
+      "sha256": "79ff0586d71f1ae80d3daecc1345c75c5f57bd2589c3eff0f7482cbcc897671e",
+      "bytes": 68024
+    },
+    {
+      "path": "dq6-fr/v0.33/lieux-prepares-non-inseres.json",
+      "sha256": "a57bbf0252ddb6ad2a0545efbb8fd6853c88c37cebeb197537c066863b9df6cc",
+      "bytes": 15354
+    }
+  ]
+}
