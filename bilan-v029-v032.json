@@ -1,0 +1,166 @@
+{
+  "baseline": "v0.28",
+  "baseline_count": 5552,
+  "latest": "v0.32",
+  "integrated": 5732,
+  "new": 180,
+  "corrected_previous_ids": [
+    323
+  ],
+  "remaining": 1225,
+  "old_unmodified": 5551,
+  "main_prepared_not_inserted": 0,
+  "separate_places_prepared_not_inserted": 33,
+  "separate_table_new_insertions": 0,
+  "batches": [
+    {
+      "version": "v0.29",
+      "new": 64,
+      "corrected": 0,
+      "rom_sha256": "813ce33afb47fb0728a1d66b5097cd7a546095b180422755c922fcdfe4faf930",
+      "render": {
+        "version": "v0.29",
+        "result_sha256": "813ce33afb47fb0728a1d66b5097cd7a546095b180422755c922fcdfe4faf930",
+        "core_repository": "snes9xgit/snes9x",
+        "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+        "diagnostic_extension": "dq6-fr/emulator-tests/peek_extension.cpp",
+        "cold_boot_reaches_journal_menu": true,
+        "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+        "fixture_ids": [
+          5673,
+          2300,
+          3526,
+          4877,
+          3046,
+          6749,
+          5173,
+          2462,
+          1590,
+          1140,
+          1203
+        ],
+        "pages_visually_reviewed": 57,
+        "readable": true,
+        "name_examples": [
+          "AM",
+          "Emilie",
+          "Laura",
+          "Tommy"
+        ],
+        "natural_scenes_played": false,
+        "all_64_messages_emulated": false,
+        "full_playthrough": false,
+        "limits": "Redirections de diagnostic au camp. Les choix Oui/Non finaux viennent du dialogue hôte. La vente de carte et les branches de vocation ne sont pas parcourues naturellement. Pas de nouveau CD avant recrutement. Aucune ROM ni état publié."
+      },
+      "published_commit": "19853ac2cb1fe97c271d21395edb96f28b8784fd"
+    },
+    {
+      "version": "v0.30",
+      "new": 114,
+      "corrected": 0,
+      "rom_sha256": "16a920616d6c86767559dea03a9ce06c1f9986bb1349da88094a62a255db73a3",
+      "render": {
+        "version": "v0.30",
+        "result_sha256": "16a920616d6c86767559dea03a9ce06c1f9986bb1349da88094a62a255db73a3",
+        "core_repository": "snes9xgit/snes9x",
+        "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+        "cold_boot_reaches_journal_menu": true,
+        "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+        "fixture_ids": [
+          4030,
+          1175,
+          6471,
+          5868,
+          5984,
+          6751,
+          5856,
+          4410,
+          3049,
+          1333
+        ],
+        "pages_visually_reviewed": 40,
+        "readable": true,
+        "C0_diagnostic": {
+          "id": 5868,
+          "wram_field": "0x3b2d",
+          "injected_word": 2,
+          "observed_name": "Olivier",
+          "release_ROM_code_modified": false
+        },
+        "natural_scenes_played": false,
+        "all_114_messages_emulated": false,
+        "full_playthrough": false,
+        "limits": "Redirections de diagnostic au camp, choix hôtes finaux, injection de RAM pour C0. Les scènes de banque, carte et meuble ne sont pas parcourues naturellement."
+      },
+      "published_commit": "4eb7b85f8bdc8463a94e56b32db967a7645e2bb6"
+    },
+    {
+      "version": "v0.31",
+      "new": 1,
+      "corrected": 1,
+      "rom_sha256": "bbe95ef6458b30cba8fe86942b150e15d94a6dfcf995836a2156522e67640b5c",
+      "render": {
+        "version": "v0.31",
+        "result_sha256": "bbe95ef6458b30cba8fe86942b150e15d94a6dfcf995836a2156522e67640b5c",
+        "core_repository": "snes9xgit/snes9x",
+        "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+        "cold_boot_reaches_journal_menu": true,
+        "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+        "fixture_ids": [
+          321,
+          322,
+          323
+        ],
+        "pages_visually_reviewed": 8,
+        "readable": true,
+        "natural_scenes_played": false,
+        "full_playthrough": false,
+        "limits": "Redirections de diagnostic au camp. Les branches naturelles 322/323 ne sont pas parcourues."
+      },
+      "published_commit": "03c93c841b94994d7493f64bddb87a905b0284df"
+    },
+    {
+      "version": "v0.32",
+      "new": 1,
+      "corrected": 0,
+      "rom_sha256": "f92d0de32c6af93eb1628ebf13597a22308e65d889ad43db6b3ec0b59c01aea5",
+      "render": {
+        "version": "v0.32",
+        "result_sha256": "f92d0de32c6af93eb1628ebf13597a22308e65d889ad43db6b3ec0b59c01aea5",
+        "cold_boot_reaches_journal_menu": true,
+        "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+        "core_repository": "snes9xgit/snes9x",
+        "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+        "fixture_ids": [
+          1836
+        ],
+        "pages_visually_reviewed": 6,
+        "diagnostic_wram": {
+          "0x5a28": 2352
+        },
+        "name_sequence_observed": [
+          "Rookie",
+          "AM",
+          "Rookie"
+        ],
+        "last_two_pages_are_host_choice_and_successor": true,
+        "release_machine_code_changed": false,
+        "natural_scenes_played": false,
+        "full_playthrough": false,
+        "limits": "Texte adapté et pagination explicite. Rendu B2/D3/B2 établi dans ce nouveau banc ; cause exacte de l’ancien échec non établie. Pas de scène naturelle."
+      },
+      "published_commit": "340c0071ca355594906294f49c23b6556e609868"
+    }
+  ],
+  "all_new_messages_emulated": false,
+  "full_playthrough": false,
+  "limits": [
+    "Scènes naturelles 322/323 et 1836 non parcourues",
+    "Indices 5351/5341 et cas différés v0.30 ouverts",
+    "Tables : encodage accentué, fenêtres, tailles et pointeurs non finalisés",
+    "Pas de réduction 4 Mio avant fin réellement vérifiée"
+  ],
+  "latest_source_commit": "340c0071ca355594906294f49c23b6556e609868",
+  "latest_restored_from_Git": true,
+  "latest_selection_sha256": "990a5a5ca15f821879638bcb75a33664611beaba0f30ac9d16fad314692a1591"
+}
