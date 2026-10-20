@@ -1,0 +1,31 @@
+{
+  "release": "v0.41",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 6031,
+    "visible_total": 6957,
+    "new_this_pass": 64,
+    "remaining": 926
+  },
+  "baseline": "v0.40",
+  "prepared_not_inserted": {
+    "main": 0,
+    "separate_places": 25
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.41",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "spell_action_labels_inserted": 20,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 37
+  },
+  "rom_bytes": 8388608,
+  "notes": "64 ajouts relus, 5967 anciens tokens et tous les noms inchangés. Dialogues, panneaux, services et cris ; aucune extension du moteur. 71 pages de diagnostic pour les 64 textes.",
+  "next": "Continuer les 926 textes et les tables. Conserver audits hérités, 25 lieux préparés et 26 cas différés v0.34. Aucune finalisation annoncée."
+}

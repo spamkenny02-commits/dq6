@@ -1,3 +1,7 @@
+# Reprise v0.41
+
+64 ajouts relus, 5967 anciens tokens et tous les noms inchangés. Dialogues, panneaux, services et cris ; aucune extension du moteur. 71 pages de diagnostic pour les 64 textes. Continuer les 926 textes et les tables. Conserver audits hérités, 25 lieux préparés et 26 cas différés v0.34. Aucune finalisation annoncée.
+
 # Reprise v0.40
 
 40 ajouts relus ; 5927 anciennes sélections et 2512 noms inchangés. Rendu des 40 textes : 75 pages, plus 11 pages de stress B5 sur cinq textes. Diagnostics au camp, pas les scènes naturelles. Continuer les 990 textes, tables et réserves héritées. B5 natif maintenant lié explicitement aux noms d’objets ; réserve 24 cellules, sans ponctuation accolée. Ne pas annoncer finalisé.

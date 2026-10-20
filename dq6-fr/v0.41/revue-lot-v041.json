@@ -1,0 +1,2198 @@
+[
+  {
+    "id": 37,
+    "file": "0006.p",
+    "ids": [
+      314
+    ],
+    "status": "RELU",
+    "sfc_jp": "にゃん　にゃん　にゃん![END STRING AC]",
+    "sfc_vf_secondaire": "Miaou miaou miaou![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「にゃん　にゃん　にゃん！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaouⓠ Miaouⓠ\n@c0@"
+    ],
+    "original_body": "Miaouⓠ Miaouⓠ",
+    "adaptation_body": "Miaou! Miaou! Miaou!",
+    "adaptation_review": "Trois miaulements japonais, pas seulement les deux conservés dans FR DS.",
+    "review": "Trois miaulements japonais, pas seulement les deux conservés dans FR DS.",
+    "sfc_context": [
+      {
+        "id": 36,
+        "text": "にゃ~ん。[END STRING AC]"
+      },
+      {
+        "id": 37,
+        "text": "にゃん　にゃん　にゃん![END STRING AC]"
+      },
+      {
+        "id": 38,
+        "text": "ニイ　ニイ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "file": "0006.p",
+    "ids": [
+      314
+    ],
+    "status": "RELU",
+    "sfc_jp": "にゃん　にゃん　にゃん!![END STRING AC]",
+    "sfc_vf_secondaire": "Miaou miaou miaou!![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「にゃん　にゃん　にゃん！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaouⓠ Miaouⓠ\n@c0@"
+    ],
+    "original_body": "Miaouⓠ Miaouⓠ",
+    "adaptation_body": "Miaou! Miaou! Miaou!",
+    "adaptation_review": "Trois miaulements japonais, pas seulement les deux conservés dans FR DS.",
+    "review": "Trois miaulements japonais, pas seulement les deux conservés dans FR DS.",
+    "sfc_context": [
+      {
+        "id": 41,
+        "text": "ゴロニャーン![END STRING AC]"
+      },
+      {
+        "id": 42,
+        "text": "にゃん　にゃん　にゃん!![END STRING AC]"
+      },
+      {
+        "id": 43,
+        "text": "フーッ!![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "file": "0089.p",
+    "ids": [
+      678
+    ],
+    "status": "RELU",
+    "sfc_jp": "にゃん　にゃん![END STRING AC]",
+    "sfc_vf_secondaire": "Miaou miaou![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「にゃん　にゃん！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaouⓠ Miaouⓠ\n@c0@"
+    ],
+    "original_body": "Miaouⓠ Miaouⓠ",
+    "adaptation_body": "Miaou! Miaou!",
+    "adaptation_review": "Deux miaulements SFC/DS sans locuteur nommé.",
+    "review": "Deux miaulements SFC/DS sans locuteur nommé.",
+    "sfc_context": [
+      {
+        "id": 44,
+        "text": "ミイ　ミイ![END STRING AC]"
+      },
+      {
+        "id": 45,
+        "text": "にゃん　にゃん![END STRING AC]"
+      },
+      {
+        "id": 46,
+        "text": "にゃーん...。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "file": "0089.p",
+    "ids": [
+      678
+    ],
+    "status": "RELU",
+    "sfc_jp": "にゃん　にゃん......。[END STRING AC]",
+    "sfc_vf_secondaire": "Miaou… miaou…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「にゃん　にゃん！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaouⓠ Miaouⓠ\n@c0@"
+    ],
+    "original_body": "Miaouⓠ Miaouⓠ",
+    "adaptation_body": "Miaou, miaou...",
+    "adaptation_review": "Deux miaulements, ponctuation calme de la variante SFC.",
+    "review": "Deux miaulements, ponctuation calme de la variante SFC.",
+    "sfc_context": [
+      {
+        "id": 47,
+        "text": "フギャー![END STRING AC]"
+      },
+      {
+        "id": 48,
+        "text": "にゃん　にゃん......。[END STRING AC]"
+      },
+      {
+        "id": 49,
+        "text": "フーーッ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "file": "0008.p",
+    "ids": [
+      502
+    ],
+    "status": "RELU",
+    "sfc_jp": "わん　わん　わん![END STRING AC]",
+    "sfc_vf_secondaire": "Ouaf ouaf ouaf![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「わん　わん　わん！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouafⓠ Ouafⓠ Ouafⓠ\n@c0@"
+    ],
+    "original_body": "Ouafⓠ Ouafⓠ Ouafⓠ",
+    "adaptation_body": "Ouaf! Ouaf! Ouaf!",
+    "adaptation_review": "Trois aboiements SFC/DS, rythme natif et absence de locuteur nommé conservés.",
+    "review": "Trois aboiements SFC/DS, rythme natif et absence de locuteur nommé conservés.",
+    "sfc_context": [
+      {
+        "id": 50,
+        "text": "わん　わん![END STRING AC]"
+      },
+      {
+        "id": 51,
+        "text": "わん　わん　わん![END STRING AC]"
+      },
+      {
+        "id": 52,
+        "text": "くーん　くーん。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "file": "0008.p",
+    "ids": [
+      502
+    ],
+    "status": "RELU",
+    "sfc_jp": "わん　わんわん![END STRING AC]",
+    "sfc_vf_secondaire": "Ouaf ouaf-ouaf![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「わん　わん　わん！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouafⓠ Ouafⓠ Ouafⓠ\n@c0@"
+    ],
+    "original_body": "Ouafⓠ Ouafⓠ Ouafⓠ",
+    "adaptation_body": "Ouaf! Ouaf! Ouaf!",
+    "adaptation_review": "Trois aboiements SFC/DS, rythme natif et absence de locuteur nommé conservés.",
+    "review": "Trois aboiements SFC/DS, rythme natif et absence de locuteur nommé conservés.",
+    "sfc_context": [
+      {
+        "id": 54,
+        "text": "く~ん　く~ん。[END STRING AC]"
+      },
+      {
+        "id": 55,
+        "text": "わん　わんわん![END STRING AC]"
+      },
+      {
+        "id": 56,
+        "text": "クーン　クーン。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "file": "0008.p",
+    "ids": [
+      502
+    ],
+    "status": "RELU",
+    "sfc_jp": "わんわんわん!![END STRING AC]",
+    "sfc_vf_secondaire": "Ouaf ouaf ouaf![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「わん　わん　わん！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouafⓠ Ouafⓠ Ouafⓠ\n@c0@"
+    ],
+    "original_body": "Ouafⓠ Ouafⓠ Ouafⓠ",
+    "adaptation_body": "Ouaf! Ouaf! Ouaf!",
+    "adaptation_review": "Trois aboiements SFC/DS, rythme natif et absence de locuteur nommé conservés.",
+    "review": "Trois aboiements SFC/DS, rythme natif et absence de locuteur nommé conservés.",
+    "sfc_context": [
+      {
+        "id": 61,
+        "text": "ガルルル~![END STRING AC]"
+      },
+      {
+        "id": 62,
+        "text": "わんわんわん!![END STRING AC]"
+      },
+      {
+        "id": 63,
+        "text": "わおーん。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "file": "0009.p",
+    "ids": [
+      167
+    ],
+    "status": "RELU",
+    "sfc_jp": "くーん　くーん。[END STRING AC]",
+    "sfc_vf_secondaire": "Ouiiin![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「くーん　くーん。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouaf, ouafⓠ\n@c0@"
+    ],
+    "original_body": "Ouaf, ouafⓠ",
+    "adaptation_body": "(gémit doucement)",
+    "adaptation_review": "Gémissement canin クーン/くーん, pas aboiement franc ; la variante française DS est explicitement adaptée.",
+    "review": "Gémissement canin クーン/くーん, pas aboiement franc ; la variante française DS est explicitement adaptée.",
+    "sfc_context": [
+      {
+        "id": 51,
+        "text": "わん　わん　わん![END STRING AC]"
+      },
+      {
+        "id": 52,
+        "text": "くーん　くーん。[END STRING AC]"
+      },
+      {
+        "id": 53,
+        "text": "クーン　クーン。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "file": "0007.p",
+    "ids": [
+      769
+    ],
+    "status": "RELU",
+    "sfc_jp": "クーン　クーン。[END STRING AC]",
+    "sfc_vf_secondaire": "*halement*[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「クーン　クーン。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLili@b(renifle)\n@c0@"
+    ],
+    "original_body": "(renifle)",
+    "adaptation_body": "(gémit doucement)",
+    "adaptation_review": "Gémissement canin クーン/くーん, pas aboiement franc ; la variante française DS est explicitement adaptée.",
+    "review": "Gémissement canin クーン/くーん, pas aboiement franc ; la variante française DS est explicitement adaptée.",
+    "sfc_context": [
+      {
+        "id": 52,
+        "text": "くーん　くーん。[END STRING AC]"
+      },
+      {
+        "id": 53,
+        "text": "クーン　クーン。[END STRING AC]"
+      },
+      {
+        "id": 54,
+        "text": "く~ん　く~ん。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "file": "0007.p",
+    "ids": [
+      769
+    ],
+    "status": "RELU",
+    "sfc_jp": "クーン　クーン。[END STRING AC]",
+    "sfc_vf_secondaire": "Ouaf ouaf.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「クーン　クーン。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aLili@b(renifle)\n@c0@"
+    ],
+    "original_body": "(renifle)",
+    "adaptation_body": "(gémit doucement)",
+    "adaptation_review": "Gémissement canin クーン/くーん, pas aboiement franc ; la variante française DS est explicitement adaptée.",
+    "review": "Gémissement canin クーン/くーん, pas aboiement franc ; la variante française DS est explicitement adaptée.",
+    "sfc_context": [
+      {
+        "id": 55,
+        "text": "わん　わんわん![END STRING AC]"
+      },
+      {
+        "id": 56,
+        "text": "クーン　クーン。[END STRING AC]"
+      },
+      {
+        "id": 57,
+        "text": "くーん　くーん......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "file": "0009.p",
+    "ids": [
+      167
+    ],
+    "status": "RELU",
+    "sfc_jp": "くーん　くーん......。[END STRING AC]",
+    "sfc_vf_secondaire": "Grrr…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「くーん　くーん。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouaf, ouafⓠ\n@c0@"
+    ],
+    "original_body": "Ouaf, ouafⓠ",
+    "adaptation_body": "(gémit doucement)",
+    "adaptation_review": "Gémissement canin クーン/くーん, pas aboiement franc ; la variante française DS est explicitement adaptée.",
+    "review": "Gémissement canin クーン/くーん, pas aboiement franc ; la variante française DS est explicitement adaptée.",
+    "sfc_context": [
+      {
+        "id": 56,
+        "text": "クーン　クーン。[END STRING AC]"
+      },
+      {
+        "id": 57,
+        "text": "くーん　くーん......。[END STRING AC]"
+      },
+      {
+        "id": 58,
+        "text": "わんっ　わんっ　わんっ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "file": "0009.p",
+    "ids": [
+      167
+    ],
+    "status": "RELU",
+    "sfc_jp": "くーん　くーん...。[END STRING AC]",
+    "sfc_vf_secondaire": "Ouiiin![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「くーん　くーん。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouaf, ouafⓠ\n@c0@"
+    ],
+    "original_body": "Ouaf, ouafⓠ",
+    "adaptation_body": "(gémit doucement)",
+    "adaptation_review": "Gémissement canin クーン/くーん, pas aboiement franc ; la variante française DS est explicitement adaptée.",
+    "review": "Gémissement canin クーン/くーん, pas aboiement franc ; la variante française DS est explicitement adaptée.",
+    "sfc_context": [
+      {
+        "id": 63,
+        "text": "わおーん。[END STRING AC]"
+      },
+      {
+        "id": 64,
+        "text": "くーん　くーん...。[END STRING AC]"
+      },
+      {
+        "id": 65,
+        "text": "うーっ　わん　わんっ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "file": "0033.p",
+    "ids": [
+      543
+    ],
+    "status": "RELU",
+    "sfc_jp": "わおーんっ![END STRING AC]",
+    "sfc_vf_secondaire": "Aroooo![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「わおーんっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouafⓠ Ouafⓠ\n@c0@"
+    ],
+    "original_body": "Ouafⓠ Ouafⓠ",
+    "adaptation_body": "Hou-ou-ou!",
+    "adaptation_review": "Hurlement canin わおーん, pas deux aboiements comme FR DS.",
+    "review": "Hurlement canin わおーん, pas deux aboiements comme FR DS.",
+    "sfc_context": [
+      {
+        "id": 59,
+        "text": "わん　わん　わんっ![END STRING AC]"
+      },
+      {
+        "id": 60,
+        "text": "わおーんっ![END STRING AC]"
+      },
+      {
+        "id": 61,
+        "text": "ガルルル~![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1719,
+    "file": "0823.p",
+    "ids": [
+      2
+    ],
+    "status": "RELU",
+    "sfc_jp": "ではまた　どうぞ。[END STRING AC]",
+    "sfc_vf_secondaire": "Come again.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「では　また　どうぞ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Peut-être une autre fois, alors.\n@c0@"
+    ],
+    "original_body": "Peut-être une autre fois, alors.",
+    "adaptation_body": "Revenez quand vous voulez.",
+    "adaptation_review": "Formule de départ générique ではまたどうぞ ; aucun nom, prix ou vente ajouté.",
+    "review": "Formule de départ générique ではまたどうぞ ; aucun nom, prix ou vente ajouté.",
+    "sfc_context": [
+      {
+        "id": 1718,
+        "text": "ここは　メダル王の宝物の倉庫です。[LINE]なん枚あつめると　なにが[LINE]もらえるか　ごらんになりますか?[END STRING AC]"
+      },
+      {
+        "id": 1719,
+        "text": "ではまた　どうぞ。[END STRING AC]"
+      },
+      {
+        "id": 1720,
+        "text": "私は　伝説の剣を　もとめて[LINE]ここまで　やってきたのだが......。[WAIT][LINE]どうやら　50年ほど[LINE]おそかったようだな。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4868,
+    "file": "0823.p",
+    "ids": [
+      2
+    ],
+    "status": "RELU",
+    "sfc_jp": "では　また　どうぞ。[END STRING AC]",
+    "sfc_vf_secondaire": "Hmmm…[LINE]J'ai recherchais l'origine du sanctuaire.[WAIT][LINE]Le sanctuaire est apparu juste aprês la défaite de Mudo.[WAIT][LINE]Comment ces deux choses peuvent-elles ètre liées?[WAIT][LINE]A moins que le roi démon n'ait été scellé d'une maniêre ou d'une autre dans le sanctuaire…?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「では　また　どうぞ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Peut-être une autre fois, alors.\n@c0@"
+    ],
+    "original_body": "Peut-être une autre fois, alors.",
+    "adaptation_body": "Revenez quand vous voulez.",
+    "adaptation_review": "Formule de départ générique ではまたどうぞ ; aucun nom, prix ou vente ajouté.",
+    "review": "Formule de départ générique ではまたどうぞ ; aucun nom, prix ou vente ajouté.",
+    "sfc_context": [
+      {
+        "id": 4867,
+        "text": "どれについて　知りたいですか?[LINE]右で　次のが　見られます。[END STRING AC]"
+      },
+      {
+        "id": 4868,
+        "text": "では　また　どうぞ。[END STRING AC]"
+      },
+      {
+        "id": 4869,
+        "text": "ふむふむ。[LINE]調べていくうちに　いろんなことが[LINE]わかってきましたぞ。[WAIT][LINE]人を支配しようとする魔王にとって[LINE]ここダーマの神殿の存在は[LINE]ありがたくなかったわけです。[WAIT][LINE]人間たちが　修業をはじめて[LINE]いろんなとくぎを　おぼえてゆくと[LINE]そこから　勇者が生まれるかも知れぬ。[WAIT][LINE]もしかすると　その勇者に[LINE]自分が　たおされるかも知れない。[WAIT][LINE]そんなわけで　魔王は[LINE]この神殿を　封印していたのでは[LINE]ないでしょうか。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3697,
+    "file": "0010.p",
+    "ids": [
+      437
+    ],
+    "status": "RELU",
+    "sfc_jp": "ぐおー　ぐおー。[END STRING AC]",
+    "sfc_vf_secondaire": "Zzzz…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ぐおー　ぐおー。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Roooooon-pfff... Roooooon-pfff...\n@c0@"
+    ],
+    "original_body": "Roooooon-pfff... Roooooon-pfff...",
+    "adaptation_body": "Roooooon-pfff... Roooooon-pfff...",
+    "adaptation_review": "Ronflements SFC et DS exacts, sans ajouter un locuteur.",
+    "review": "Ronflements SFC et DS exacts, sans ajouter un locuteur.",
+    "sfc_context": [
+      {
+        "id": 3696,
+        "text": "ぐがっ......。　なっ　なぬ!?[WAIT][LINE]オレが　ちょこっと　ねてる間に[LINE]ムドーが　たおされて　世の中が[LINE]平和に　なっちまったって?[WAIT][LINE]じゃあ　こんどねて　おきたら[LINE]べつの魔王に　世界が[LINE]支配されてたり　するかもな。[WAIT][LINE]へへっ　んなワケ　ないやな。[LINE]どれ　もういちど[LINE]ゆっくり　ねるとすっかな![END STRING AC]"
+      },
+      {
+        "id": 3697,
+        "text": "ぐおー　ぐおー。[END STRING AC]"
+      },
+      {
+        "id": 3698,
+        "text": "この町は　水が　とっても[LINE]きれいでしょ。だから[LINE]みんなの心も　きれいなの。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3843,
+    "file": "0016.p",
+    "ids": [
+      770
+    ],
+    "status": "RELU",
+    "sfc_jp": "ゴホッ　ゴホッ![END STRING AC]",
+    "sfc_vf_secondaire": "Je suis venu demander à l'ainé de rendre plus[LINE]supportable les douleurs de ma mêre.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ゴホッ　ゴホッ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouille, j'ai les boyaux tout retournésⓠ Tu voudrais pas aider ta pôv' mère, espèce de bon à rienⓡ\n@c0@"
+    ],
+    "original_body": "Ouille, j'ai les boyaux tout retournésⓠ Tu voudrais pas aider ta pôv' mère, espèce de bon à rienⓡ",
+    "adaptation_body": "(tousse) (tousse)",
+    "adaptation_review": "Deux toux japonaises ; ne pas importer la plainte et l’insulte ajoutées en FR DS.",
+    "review": "Deux toux japonaises ; ne pas importer la plainte et l’insulte ajoutées en FR DS.",
+    "sfc_context": [
+      {
+        "id": 3842,
+        "text": "魔王が　いなくなっても[LINE]病気やケガは　なくなりません。[WAIT][LINE]私たち　ゲントの　ちからは[LINE]まだまだ　必要なんですわ。[END STRING AC]"
+      },
+      {
+        "id": 3843,
+        "text": "ゴホッ　ゴホッ![END STRING AC]"
+      },
+      {
+        "id": 3844,
+        "text": "母さん　苦しいのかい?[LINE]安心して......　すぐに長老さまが[LINE]なおして　くださるからね。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3847,
+    "file": "0016.p",
+    "ids": [
+      770
+    ],
+    "status": "RELU",
+    "sfc_jp": "ゴホッ　コホッ......[END STRING AC]",
+    "sfc_vf_secondaire": "Que la douleur se disperse…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ゴホッ　ゴホッ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouille, j'ai les boyaux tout retournésⓠ Tu voudrais pas aider ta pôv' mère, espèce de bon à rienⓡ\n@c0@"
+    ],
+    "original_body": "Ouille, j'ai les boyaux tout retournésⓠ Tu voudrais pas aider ta pôv' mère, espèce de bon à rienⓡ",
+    "adaptation_body": "(tousse doucement...)",
+    "adaptation_review": "Toux ゴホッ/コホッ avec suspension SFC, pas le discours ajouté en FR DS.",
+    "review": "Toux ゴホッ/コホッ avec suspension SFC, pas le discours ajouté en FR DS.",
+    "sfc_context": [
+      {
+        "id": 3846,
+        "text": "長老は　目をとじて　しずかに[LINE]めいそうを　はじめた。[END STRING AC]"
+      },
+      {
+        "id": 3847,
+        "text": "ゴホッ　コホッ......[END STRING AC]"
+      },
+      {
+        "id": 3848,
+        "text": "コホ......おや?[LINE]苦しくない......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5524,
+    "file": "0080.p",
+    "ids": [
+      599
+    ],
+    "status": "RELU",
+    "sfc_jp": "あっ!　け...剣士さま......　ぽっ。[END STRING AC]",
+    "sfc_vf_secondaire": "Des monstres errent encore dehors.[WAIT][LINE]Quant seront enfin nous en paix?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「あっ！　け…㈢㈢剣士さま……　ぽっⓅ\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ohⓠ C'est l-lui... Le㈢ Le...㈢㈢ guerrier solitaireⓡⓐ (s'évanouit) Ⓟ\n@c0@"
+    ],
+    "original_body": "Ohⓠ C'est l-lui... Le㈢ Le...㈢㈢ guerrier solitaireⓡⓐ (s'évanouit) Ⓟ",
+    "adaptation_body": "Oh! Le... le beau guerrier... (rougit)",
+    "adaptation_review": "ぽっ exprime la rougeur ; ne pas affirmer un évanouissement ajouté dans FR DS.",
+    "review": "ぽっ exprime la rougeur ; ne pas affirmer un évanouissement ajouté dans FR DS.",
+    "sfc_context": [
+      {
+        "id": 5523,
+        "text": "ハア......　ときめきたいわ......。[END STRING AE]"
+      },
+      {
+        "id": 5524,
+        "text": "あっ!　け...剣士さま......　ぽっ。[END STRING AC]"
+      },
+      {
+        "id": 5525,
+        "text": "城の外に出れば　いまだ[LINE]魔物が　うろついているのに[LINE]出くわしてしまう。[WAIT][LINE]世界平和など　まだ　先のこと[LINE]なのかもな。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6078,
+    "file": "0004.p",
+    "ids": [
+      646
+    ],
+    "status": "RELU",
+    "sfc_jp": "ファルシオン　つかまえた[END STRING AC]",
+    "sfc_vf_secondaire": "6078<0559>[END STRING AC]",
+    "ds_ja": [
+      "@a@bファルシオンを　つかまえた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000090 et %a002000 apprivoisent Célesteⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000090 et %a002000 apprivoisent Célesteⓠ",
+    "adaptation_body": "Céleste a été attrapée!",
+    "adaptation_review": "Nom français DS de Falchion ; SFC ne nomme pas héros et Hassan, donc aucun C9/CA ajouté.",
+    "review": "Nom français DS de Falchion ; SFC ne nomme pas héros et Hassan, donc aucun C9/CA ajouté.",
+    "sfc_context": [
+      {
+        "id": 6077,
+        "text": "兵士になった[END STRING AC]"
+      },
+      {
+        "id": 6078,
+        "text": "ファルシオン　つかまえた[END STRING AC]"
+      },
+      {
+        "id": 6079,
+        "text": "馬車を　手に入れた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1464,
+    "file": "0098.p",
+    "ids": [
+      501
+    ],
+    "status": "RELU",
+    "sfc_jp": "ひゃ~　きれいだなーや![END STRING AC]",
+    "sfc_vf_secondaire": "Magnifique, n'est-ce pas?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ひゃ～　きれいだな～や！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ C'est magnifique, pas vraiⓡ\n@c0@"
+    ],
+    "original_body": "C'est magnifique, pas vraiⓡ",
+    "adaptation_body": "Oh! C'est magnifique!",
+    "adaptation_review": "Exclamation émerveillée japonaise et lexique DS, sans question ajoutée.",
+    "review": "Exclamation émerveillée japonaise et lexique DS, sans question ajoutée.",
+    "sfc_context": [
+      {
+        "id": 1463,
+        "text": "は　はらが　いたい......。[LINE]もう　だめだ。もう　食えない。[END STRING AC]"
+      },
+      {
+        "id": 1464,
+        "text": "ひゃ~　きれいだなーや![END STRING AC]"
+      },
+      {
+        "id": 1465,
+        "text": "なにが　まつりじゃい。ひっく。[LINE]わしは　まだまだ　山を[LINE]おりれるぞいっ。ひっく。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3724,
+    "file": "0033.p",
+    "ids": [
+      519,
+      520,
+      521,
+      522
+    ],
+    "status": "RELU",
+    "sfc_jp": "ああ?　なんじゃと?[WAIT][LINE]かつて　海の真ん中に[LINE]きゅうきょくの魔法をつたえる[LINE]伝説の魔法都市が　あったじゃと?[WAIT][LINE]ああ　なに?[LINE]そんなことは　聞いておらんと?[WAIT][LINE]すまんのう。[LINE]滝の音が　うるそうて[LINE]よく　聞こえんのじゃよ。[END STRING AC]",
+    "sfc_vf_secondaire": "3724<0559>[WAIT][LINE][LINE][LINE][WAIT][LINE][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ああ？　なんじゃと？\n@c0@",
+      "@a@b＊「かつて　海の真ん中に\n\t究極の呪文を　伝える\n\t伝説の魔法都市が　あったじゃと？\n@c0@",
+      "@a@b＊「ああ　なに？\n\tそんなことは　聞いておらんと？\n@c0@",
+      "@a@b＊「すまんのう。\n\t滝の音が　うるそうて\n\tよく　聞こえんのじゃよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ COMMENT ÇAⓡⓐ VOUS ALLEZ DEVOIR PARLER PLUS FORTⓠ\n@c0@",
+      "@a@b*ⓢ UNE VILLE MAGIQUE PERDUE AU FOND DE L'OCÉAN, VOUS DITESⓡⓐ\n@c0@",
+      "@a@b*ⓢ COMMENTⓡⓐ VOUS DITES QUE VOUS NE M'AVEZ PAS DEMANDÉ ÇAⓡⓐ\n@c0@",
+      "@a@b*ⓢ DÉSOLÉⓠ JE M'ENTENDS À PEINE PENSER LA PLUPART DU TEMPS.\n@c0@"
+    ],
+    "original_body": "COMMENT ÇAⓡⓐ VOUS ALLEZ DEVOIR PARLER PLUS FORTⓠ UNE VILLE MAGIQUE PERDUE AU FOND DE L'OCÉAN, VOUS DITESⓡⓐ COMMENTⓡⓐ VOUS DITES QUE VOUS NE M'AVEZ PAS DEMANDÉ ÇAⓡⓐ DÉSOLÉⓠ JE M'ENTENDS À PEINE PENSER LA PLUPART DU TEMPS.",
+    "adaptation_body": "Hein? Que dites-vous? Une cité magique légendaire, au milieu de la mer, où se transmettait le sort suprême? Comment? Ce n'est pas ce que vous demandiez? Pardonnez-moi. Le bruit de la cascade m'empêche de bien entendre.",
+    "adaptation_review": "Tous les faits SFC/DS JA, dont sort suprême et cascade omis de FR DS ; au milieu de la mer, pas nécessairement au fond.",
+    "review": "Tous les faits SFC/DS JA, dont sort suprême et cascade omis de FR DS ; au milieu de la mer, pas nécessairement au fond.",
+    "sfc_context": [
+      {
+        "id": 3723,
+        "text": "かつて　この町に　勇者さまの[LINE]ー行が　おとずれたことが[LINE]あった　そうなんだが。[WAIT][LINE]ざんねんながら　わしは　その時[LINE]お会いできなかったのだ。[WAIT][LINE]おおっ　そういえば　イリアじいさんが[LINE]勇者さまに　おわたしする　大事な[LINE]宝ものが　あるとか　いっていたが......[WAIT][LINE]あれから　いったい　どうしたのか。[LINE]勇者さまの手に　わたったのだろうか。[END STRING AC]"
+      },
+      {
+        "id": 3724,
+        "text": "ああ?　なんじゃと?[WAIT][LINE]かつて　海の真ん中に[LINE]きゅうきょくの魔法をつたえる[LINE]伝説の魔法都市が　あったじゃと?[WAIT][LINE]ああ　なに?[LINE]そんなことは　聞いておらんと?[WAIT][LINE]すまんのう。[LINE]滝の音が　うるそうて[LINE]よく　聞こえんのじゃよ。[END STRING AC]"
+      },
+      {
+        "id": 3725,
+        "text": "いやだよ。　また　空の色が[LINE]どんよりと　あやしく[LINE]なってきたんじゃないかい。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2368,
+    "file": "0083.p",
+    "ids": [
+      189
+    ],
+    "status": "RELU",
+    "sfc_jp": "『もとめよ[LINE]　されば　あたえられん!』[END STRING AC]",
+    "sfc_vf_secondaire": "<0576>Prennez garde!<0579>[END STRING AC]",
+    "ds_ja": [
+      "@a@b『もとめよ\n　さらば　あたえられん！』\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bⓥAux impatients, la richesseⓠⓦ\n@c0@"
+    ],
+    "original_body": "ⓥAux impatients, la richesseⓠⓦ",
+    "adaptation_body": "Demandez et vous recevrez!",
+    "adaptation_review": "Inscription もとめよ さればあたえられん ; évite la richesse et l’impatience inventées en FR DS.",
+    "review": "Inscription もとめよ さればあたえられん ; évite la richesse et l’impatience inventées en FR DS.",
+    "sfc_context": [
+      {
+        "id": 2367,
+        "text": "『ニセモノに　注意!』[END STRING AC]"
+      },
+      {
+        "id": 2368,
+        "text": "『もとめよ[LINE]　されば　あたえられん!』[END STRING AC]"
+      },
+      {
+        "id": 2369,
+        "text": "『まことに　おそろしいのは[LINE]　おのれ自身の　よわさである。[LINE]　　　　　　　　　　一一一グレイス王』[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5574,
+    "file": "0079.p",
+    "ids": [
+      546,
+      547,
+      548,
+      549
+    ],
+    "status": "RELU",
+    "sfc_jp": "ゼニス王は　世界のすべてを[LINE]いつも　見まもっています。[WAIT][LINE]しかし　王も　また[LINE]夢の国の住人。[WAIT][LINE]心のちからだけでは[LINE]どうすることも　できぬことが[LINE]あります。[WAIT][LINE]あなたがたは　下の世界の者。[LINE]どうか　ゼニス王の　おちからに[LINE]なってくださいまし。[END STRING AC]",
+    "sfc_vf_secondaire": "Le roi m'a confié la garde de cet oeuf géant.[WAIT][LINE]Il prétend que c'est important pour notre futur.[WAIT][LINE]J'espêre qu'il va bientôt éclore.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ゼニス王は　世界のすべてを\n\tいつも　見守っています。\n@c0@",
+      "@a@b＊「しかし　王も　また\n\t夢の国の住人。\n@c0@",
+      "@a@b＊「心のチカラだけでは\n\tどうすることも　できぬことが\n\tあります。\n@c0@",
+      "@a@b＊「あなたがたは　下の世界の者。\n\tどうか　ゼニス王の　おチカラに\n\tなってくださいまし。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Le seigneur Zénith voit tout. Aucune vallée ni clairière de notre monde ne lui échappe.\n@c0@",
+      "@a@b*ⓢ Mais hélas, même notre souverain est un habitant du royaume des rêves...\n@c0@",
+      "@a@b*ⓢ Sa puissance provient du cœur des habitants du monde inférieur. Ce n'est qu'une émotion pure, qui ne suffit pas à rendre omnipotent.\n@c0@",
+      "@a@b*ⓢ Vous qui venez du monde inférieur... allez rendre visite au seigneur Zénith. Prêtez-lui votre force.\n@c0@"
+    ],
+    "original_body": "Le seigneur Zénith voit tout. Aucune vallée ni clairière de notre monde ne lui échappe. Mais hélas, même notre souverain est un habitant du royaume des rêves... Sa puissance provient du cœur des habitants du monde inférieur. Ce n'est qu'une émotion pure, qui ne suffit pas à rendre omnipotent. Vous qui venez du monde inférieur... allez rendre visite au seigneur Zénith. Prêtez-lui votre force.",
+    "adaptation_body": "Le seigneur Zénith veille toujours sur le monde entier. Mais lui aussi vit au royaume des rêves. La seule force du coeur ne peut pas tout accomplir. Vous venez du monde inférieur. Prêtez-lui donc votre force, je vous en prie.",
+    "adaptation_review": "Quatre phrases japonaises relues ; retire la causalité et les détails ajoutés dans FR DS.",
+    "review": "Quatre phrases japonaises relues ; retire la causalité et les détails ajoutés dans FR DS.",
+    "sfc_context": [
+      {
+        "id": 5573,
+        "text": "へえ　いいなあ。[LINE]私も　いってみたいなあ。[WAIT][LINE]もしかしたら　すごく[LINE]かっこいい人が　いたりしてね。[LINE]エヘヘ......。[END STRING AC]"
+      },
+      {
+        "id": 5574,
+        "text": "ゼニス王は　世界のすべてを[LINE]いつも　見まもっています。[WAIT][LINE]しかし　王も　また[LINE]夢の国の住人。[WAIT][LINE]心のちからだけでは[LINE]どうすることも　できぬことが[LINE]あります。[WAIT][LINE]あなたがたは　下の世界の者。[LINE]どうか　ゼニス王の　おちからに[LINE]なってくださいまし。[END STRING AC]"
+      },
+      {
+        "id": 5575,
+        "text": "オラ　王さまから[LINE]おあずかりした　このタマゴの[LINE]せわを　してるだよ。[WAIT][LINE]なんでも　こんなかにゃ[LINE]未来が　入ってるって[LINE]はなしだっただよ。[WAIT][LINE]オラ　むずかしいこたあ[LINE]わかんねえけど　同じ未来なら[LINE]明るいやつが　いいやな![WAIT][LINE]ホレッ　もうすぐ[LINE]生まれっかも　しんねえだよ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5127,
+    "file": "0025.p",
+    "ids": [
+      305
+    ],
+    "status": "RELU",
+    "sfc_jp": "あんたたちは　魔物が[LINE]こわくないのかい?[END STRING AC]",
+    "sfc_vf_secondaire": "Ca va. J'ai aussi eu peur.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「あんたたちは　まものが\n\t怖くないのかい？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je voulais vous demander... C'est si marrant que ça d'entrer dans une grotte humide bourrée de monstres horriblesⓡ\n@c0@"
+    ],
+    "original_body": "Je voulais vous demander... C'est si marrant que ça d'entrer dans une grotte humide bourrée de monstres horriblesⓡ",
+    "adaptation_body": "Les monstres ne vous font pas peur?",
+    "adaptation_review": "Question SFC/DS JA exacte, sans inventer une grotte humide.",
+    "review": "Question SFC/DS JA exacte, sans inventer une grotte humide.",
+    "sfc_context": [
+      {
+        "id": 5126,
+        "text": "ホルス王子ですか?[LINE]いえまだ　おもどりには[LINE]なられてませんよ。[END STRING AC]"
+      },
+      {
+        "id": 5127,
+        "text": "あんたたちは　魔物が[LINE]こわくないのかい?[END STRING AC]"
+      },
+      {
+        "id": 5128,
+        "text": "そうだよな。[LINE]やっぱり　こわいよな。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4032,
+    "file": "0043.p",
+    "ids": [
+      561
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE CA]「さあ　いこうぜ![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE CA] est mort, mais pourtant il dort…?[END STRING AC]",
+    "ds_ja": [
+      "@a@bフォーン王「さあ　いこう！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aRoi Louis@bBienⓠ Alors, allons-yⓠ\n@c0@"
+    ],
+    "original_body": "Bienⓠ Alors, allons-yⓠ",
+    "adaptation_body": "Allez, en route!",
+    "adaptation_review": "Courte invitation générique : seul DS 561 sert au lexique, sans le silence de 560. Le locuteur natif SFC CA est conservé, pas le roi DS.",
+    "review": "Courte invitation générique : seul DS 561 sert au lexique, sans le silence de 560. Le locuteur natif SFC CA est conservé, pas le roi DS.",
+    "sfc_context": [
+      {
+        "id": 4031,
+        "text": "[CODE CA]は　せいけんづきを[LINE]おもいだした![END STRING AE]"
+      },
+      {
+        "id": 4032,
+        "text": "[CODE D4][CODE CA]「さあ　いこうぜ![END STRING AC]"
+      },
+      {
+        "id": 4033,
+        "text": "[CODE CA]に　よくにた人物が[LINE]死んだように　ねむっている......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5258,
+    "file": "0058.p",
+    "ids": [
+      389
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE DB]　　　わたしを　よぶ者は　だれだ......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Roi.Oh! C'est moi![WAIT][LINE][CODE D4]Roi.Tu m'entends?[WAIT][LINE][CODE D4]Roi.Si tu peux, écoute ma requète…[END STRING AC]",
+    "ds_ja": [
+      "@a@b%3わたしを 呼ぶ者は だれだ……。%4\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%3Qui ose me déranger...ⓡ%4\n@c0@"
+    ],
+    "original_body": "%3Qui ose me déranger...ⓡ%4",
+    "adaptation_body": "Qui m'appelle... ?",
+    "adaptation_review": "Voix DB native ; les marqueurs typographiques %3/%4 DS ne sont pas des commandes SFC à introduire.",
+    "review": "Voix DB native ; les marqueurs typographiques %3/%4 DS ne sont pas des commandes SFC à introduire.",
+    "sfc_context": [
+      {
+        "id": 5257,
+        "text": "[CODE D4]グレイス王「地の底　深くに　ひそむ[LINE]悪魔のたましいよ。　今　ここに[LINE]そなえ物を　ささぐ。[WAIT][LINE][CODE D4]グレイス王「伝説の　まほうじんの[LINE]チカラによりて　われわれの前に[LINE]現れ　そのチカラをしめすべし。[WAIT][LINE][CODE D4]グレイス王「マハ　トラーナ[LINE]ソテミシア　レキダントラン[LINE]ヒガンテ　パラシコロヒーア![END STRING AC]"
+      },
+      {
+        "id": 5258,
+        "text": "[CODE D4][CODE DB]　　　わたしを　よぶ者は　だれだ......。[END STRING AC]"
+      },
+      {
+        "id": 5259,
+        "text": "[CODE D4]グレイス王「おお!　あらわれたぞ![WAIT][LINE][CODE D4]グレイス王「私の声が　聞こえるか?[WAIT][LINE][CODE D4]グレイス王「もし　聞こえるなら[LINE]わが　ねがいを......[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6448,
+    "file": "0816.p",
+    "ids": [
+      58
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE DE]ルイーダ「だれの　ようすを　みたいの?[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Luisa.De qui voulez-vous regarder les caractéristiques?[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@bルイーダ「誰のようすを　見たいの？\n@c0@"
+    ],
+    "ds_fr": [
+      "@aTulipe@bVous voulez voir comment vont vos compagnonsⓡ Pas de problème. Qui voulez-vous voir en premierⓡ\n@c0@"
+    ],
+    "original_body": "Vous voulez voir comment vont vos compagnonsⓡ Pas de problème. Qui voulez-vous voir en premierⓡ",
+    "adaptation_body": "De qui voulez-vous voir l'état?",
+    "adaptation_review": "Question de statut de Tulipe ; pas de nouvelle demande préalable. DE/D5 et nom natif conservés.",
+    "review": "Question de statut de Tulipe ; pas de nouvelle demande préalable. DE/D5 et nom natif conservés.",
+    "sfc_context": [
+      {
+        "id": 6447,
+        "text": "[CODE D4][CODE DE]ルイーダ「あら　でも　あなたの[LINE]お仲間は　ひとりも[LINE]おあずかりしてなくてよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6448,
+        "text": "[CODE D4][CODE DE]ルイーダ「だれの　ようすを　みたいの?[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6449,
+        "text": "[CODE D4][CODE DE]ルイーダ「ほかの人の　ようすも　みる?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6484,
+    "file": "0812.p",
+    "ids": [
+      67
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]ほかにも　何か　ご用は[LINE]ございますか?[END STRING AC]",
+    "sfc_vf_secondaire": "Y a-t-il quelquechose d'autre?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ほかにも\n\tご用は　ございますか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Vous désirez autre choseⓡ\n@c0@"
+    ],
+    "original_body": "Vous désirez autre choseⓡ",
+    "adaptation_body": "Vous désirez autre chose?",
+    "adaptation_review": "Question de service générique, sans modifier DE ni le terminateur.",
+    "review": "Question de service générique, sans modifier DE ni le terminateur.",
+    "sfc_context": [
+      {
+        "id": 6483,
+        "text": "[CODE DE]おやめに　なるのですね。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6484,
+        "text": "[CODE DE]ほかにも　何か　ご用は[LINE]ございますか?[END STRING AC]"
+      },
+      {
+        "id": 6485,
+        "text": "[CODE DE]現在[CODE BB]ゴールド[LINE]お預かりしています。[LINE]ありがとうございました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2411,
+    "file": "0050.p",
+    "ids": [
+      504
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4]兵士「では　たちさるがよい。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Soldat.Alors partez.[END STRING AC]",
+    "ds_ja": [
+      "@a@b兵士「では　立ち去るがよい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aGarde du trésor@bAlors fichez-moi le campⓠ\n@c0@"
+    ],
+    "original_body": "Alors fichez-moi le campⓠ",
+    "adaptation_body": "Alors, partez.",
+    "adaptation_review": "Ordre de départ du soldat, aucun fait ajouté.",
+    "review": "Ordre de départ du soldat, aucun fait ajouté.",
+    "sfc_context": [
+      {
+        "id": 2410,
+        "text": "[CODE D4]兵士「もし　この先の宝が　ほしいなら[LINE]この私を　たおしてゆくがいい。[END STRING AC]"
+      },
+      {
+        "id": 2411,
+        "text": "[CODE D4]兵士「では　たちさるがよい。[END STRING AC]"
+      },
+      {
+        "id": 2412,
+        "text": "[CODE D4]兵士「では　ゆくぞ![END STRING AC]"
+      }
+    ],
+    "adaptation_speaker": "Soldat"
+  },
+  {
+    "id": 6265,
+    "file": "0015.p",
+    "ids": [
+      574
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]どうも　ありがとうございます。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "Merci beaucoup.[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「どうも　ありがとうございました！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ça m'a beaucoup inspiré. Un jour, j'écrirai un poème à ce sujet.\n@c0@"
+    ],
+    "original_body": "Ça m'a beaucoup inspiré. Un jour, j'écrirai un poème à ce sujet.",
+    "adaptation_body": "Merci beaucoup.",
+    "adaptation_review": "Remerciement japonais et DE/D5 ; écarte le poème ajouté en FR DS.",
+    "review": "Remerciement japonais et DE/D5 ; écarte le poème ajouté en FR DS.",
+    "sfc_context": [
+      {
+        "id": 6264,
+        "text": "[CODE DE][CODE B5]で[LINE]ございますね。[WAIT][LINE]それなら[LINE][CODE BB]ゴールドで[LINE]お引きとり　いたしますが?[END STRING AC]"
+      },
+      {
+        "id": 6265,
+        "text": "[CODE DE]どうも　ありがとうございます。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6266,
+        "text": "[CODE DE]そうですか。[LINE]それは　ざんねんです......。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6523,
+    "file": "0830.p",
+    "ids": [
+      68
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]他の名前に　かえるか?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DE]Voulez-vous toujours changer de nom?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「他の名前に　変えるか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Voulez-vous proposer un autre nomⓡ\n@c0@"
+    ],
+    "original_body": "Voulez-vous proposer un autre nomⓡ",
+    "adaptation_body": "Voulez-vous proposer un autre nom?",
+    "adaptation_review": "Question DS/JA/SFC sur autre nom, pas renommage effectué dans les essais.",
+    "review": "Question DS/JA/SFC sur autre nom, pas renommage effectué dans les essais.",
+    "sfc_context": [
+      {
+        "id": 6522,
+        "text": "[CODE DE]そうか。名前をかえたくなったら[LINE]いつでも　来るがよいぞ。[LINE]名前の守りが　あらんことを......。[END STRING AC]"
+      },
+      {
+        "id": 6523,
+        "text": "[CODE DE]他の名前に　かえるか?[END STRING AC]"
+      },
+      {
+        "id": 6524,
+        "text": "[CODE DE]むっ　他人の名前を　勝手に[LINE]かえようと　いうのか?[LINE]それは　感心せんな。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1218,
+    "file": "0009.p",
+    "ids": [
+      751
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE D9]ジーナ「カガミのカギよね。[LINE]ほら　ここに。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9]Gina.La Clé Mirroir. La voici.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@bジーナ「鏡（かがみ）のカギ　よね。\n\tほら　ここに。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aSvetlana@bClef du miяoiяⓡ Oui, là.\n@c0@"
+    ],
+    "original_body": "Clef du miяoiяⓡ Oui, là.",
+    "adaptation_body": "La clef du miroir? Oui, la voici.",
+    "adaptation_review": "Clef et déictique japonais conservés ; voix D9 et nom DS du locuteur hérités.",
+    "review": "Clef et déictique japonais conservés ; voix D9 et nom DS du locuteur hérités.",
+    "sfc_context": [
+      {
+        "id": 1217,
+        "text": "[CODE D4]イリア「まあ　いいや。[LINE]それより　例のものは　ちゃんと[LINE]とってきたんだろうな?[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1218,
+        "text": "[CODE D4][CODE D9]ジーナ「カガミのカギよね。[LINE]ほら　ここに。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1219,
+        "text": "[CODE D4]イリア「さすが　ジーナだ![LINE]オレが死んだと思っても　ちゃんと[LINE]とるものは　とってらあ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2835,
+    "file": "0527.p",
+    "ids": [
+      144
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE C9]「さあ　[CODE C9]......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE C9].Alors [CODE C9]…[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a002020「さあ　行こう　%a000090！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002020@bAllez, %a000090, en routeⓠ\n@c0@"
+    ],
+    "original_body": "Allez, %a000090, en routeⓠ",
+    "adaptation_body": "Allez, %a000090...",
+    "adaptation_review": "Le héros C9 se parle ; conserve son nom dans le corps et comme locuteur, pas celui de Barbara DS.",
+    "review": "Le héros C9 se parle ; conserve son nom dans le corps et comme locuteur, pas celui de Barbara DS.",
+    "sfc_context": [
+      {
+        "id": 2834,
+        "text": "[CODE D4][CODE D9]ターニア「え?　え?　な......に?[END STRING AC]"
+      },
+      {
+        "id": 2835,
+        "text": "[CODE D4][CODE C9]「さあ　[CODE C9]......。[END STRING AC]"
+      },
+      {
+        "id": 2836,
+        "text": "[CODE D4][CODE C9]「......。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4294,
+    "file": "0012.p",
+    "ids": [
+      107
+    ],
+    "status": "RELU",
+    "sfc_jp": "なんだ　うそか。[LINE]びっくり　させるなよ。[END STRING AC]",
+    "sfc_vf_secondaire": "Est-ce que c'est vraiment ça!? Alors vous[LINE]devriez aller le dire au général Soldi immédiatement.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「なんだ　ウソか。\n\tびっくり　させるなよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Oh, ah, d'accord. Vous venez d'anéantir mes espoirsⓠ\n@c0@"
+    ],
+    "original_body": "Oh, ah, d'accord. Vous venez d'anéantir mes espoirsⓠ",
+    "adaptation_body": "Quoi, c'était un mensonge? Ne me faites pas peur comme ça!",
+    "adaptation_review": "Reproche japonais ; retire l’anéantissement des espoirs ajouté en FR DS.",
+    "review": "Reproche japonais ; retire l’anéantissement des espoirs ajouté en FR DS.",
+    "sfc_context": [
+      {
+        "id": 4293,
+        "text": "な　なんと!　ラーのカガミを[LINE]見つけてきただと!?[END STRING AC]"
+      },
+      {
+        "id": 4294,
+        "text": "なんだ　うそか。[LINE]びっくり　させるなよ。[END STRING AC]"
+      },
+      {
+        "id": 4295,
+        "text": "おてがらじゃないかっ![LINE]さあ　はやく　ソルディ兵士長に[LINE]ご報告をっ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5974,
+    "file": "0803.p",
+    "ids": [
+      209
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　ちょっぴり[LINE]うれしくなった。[END STRING AC]",
+    "sfc_vf_secondaire": "5974<0559>[CODE C0][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　ちょっぴり\nうれしくなった。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 %A0010%Xne peut s'empêcher de sourire%Z%B0010%Xne sait pas quoi penser...%Z%C0010%Xprend un air étonné%Z.\n@c0@"
+    ],
+    "original_body": "%0%a020010 %A0010%Xne peut s'empêcher de sourire%Z%B0010%Xne sait pas quoi penser...%Z%C0010%Xprend un air étonné%Z.",
+    "adaptation_body": "%a000120 ressent un peu de joie.",
+    "adaptation_review": "SFC うれしく positif ; sélection DS contenant précisément うれしく, pas l’autre ligne 0804:140 むなしく négative. C0 gardé sans genre.",
+    "review": "SFC うれしく positif ; sélection DS contenant précisément うれしく, pas l’autre ligne 0804:140 むなしく négative. C0 gardé sans genre.",
+    "sfc_context": [
+      {
+        "id": 5973,
+        "text": "よく見ると　ビキニを着た[LINE]美しい女性の　絵が　かいてある...。[END STRING AC]"
+      },
+      {
+        "id": 5974,
+        "text": "[CODE C0]は　ちょっぴり[LINE]うれしくなった。[END STRING AC]"
+      },
+      {
+        "id": 5975,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]つよく　にぎった![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1640,
+    "file": "0007.p",
+    "ids": [
+      108
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4]グランマーズ「ふおっほっほっ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Granmaz.Ha-ha-ha-ha…[END STRING AC]",
+    "ds_ja": [
+      "@a@bグランマーズ「ふぉっほっほっ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aMadame Luce@bHé héⓠ Madame Luce ne doute jamais du cristal.\n@c0@"
+    ],
+    "original_body": "Hé héⓠ Madame Luce ne doute jamais du cristal.",
+    "adaptation_body": "Ho ho ho!",
+    "adaptation_review": "Rire SFC ; la phrase sur le cristal est un ajout FR DS retiré.",
+    "review": "Rire SFC ; la phrase sur le cristal est un ajout FR DS retiré.",
+    "sfc_context": [
+      {
+        "id": 1639,
+        "text": "[CODE D4]グランマーズ「なぜかって?[LINE]ふーむ。　それは　それはな......。[CODE B0][LINE]きぎょうひみつ　じゃよ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1640,
+        "text": "[CODE D4]グランマーズ「ふおっほっほっ。[END STRING AC]"
+      },
+      {
+        "id": 1641,
+        "text": "[CODE D4][CODE D9][CODE CB]「おばあちゃん。[LINE]私　この人たちに[LINE]ついて　いくことにします。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2776,
+    "file": "0063.p",
+    "ids": [
+      545
+    ],
+    "status": "RELU",
+    "sfc_jp": "キキー![LINE]ころせー!　もやせー![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Kill![WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「キキー！\n\t殺せー！　燃やせー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ha haⓠ Ça va chaufferⓠ\n@c0@"
+    ],
+    "original_body": "Ha haⓠ Ça va chaufferⓠ",
+    "adaptation_body": "Hii! Tuez-les! Brûlez tout!",
+    "adaptation_review": "Deux impératifs violents présents en SFC et DS JA, atténués dans FR DS ; pas d’omission de tuer.",
+    "review": "Deux impératifs violents présents en SFC et DS JA, atténués dans FR DS ; pas d’omission de tuer.",
+    "sfc_context": [
+      {
+        "id": 2775,
+        "text": "外の店は　だいじょうぶかのう。[LINE]商品を　こわされたりして[LINE]ないかのう。[END STRING AC]"
+      },
+      {
+        "id": 2776,
+        "text": "キキー![LINE]ころせー!　もやせー![WAIT][END STRING AC]"
+      },
+      {
+        "id": 2777,
+        "text": "キキー![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2789,
+    "file": "0063.p",
+    "ids": [
+      545
+    ],
+    "status": "RELU",
+    "sfc_jp": "キキー![LINE]ころせー!　もやせー![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Tuer![WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「キキー！\n\t殺せー！　燃やせー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ha haⓠ Ça va chaufferⓠ\n@c0@"
+    ],
+    "original_body": "Ha haⓠ Ça va chaufferⓠ",
+    "adaptation_body": "Hii! Tuez-les! Brûlez tout!",
+    "adaptation_review": "Deux impératifs violents présents en SFC et DS JA, atténués dans FR DS ; pas d’omission de tuer.",
+    "review": "Deux impératifs violents présents en SFC et DS JA, atténués dans FR DS ; pas d’omission de tuer.",
+    "sfc_context": [
+      {
+        "id": 2788,
+        "text": "この　はたおりきは　わしらの命![LINE]もやさせは　せんぞ![END STRING AC]"
+      },
+      {
+        "id": 2789,
+        "text": "キキー![LINE]ころせー!　もやせー![WAIT][END STRING AC]"
+      },
+      {
+        "id": 2790,
+        "text": "キキー![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5950,
+    "file": "0803.p",
+    "ids": [
+      250
+    ],
+    "status": "RELU",
+    "sfc_jp": "ここでは　ひろげられない![END STRING AC]",
+    "sfc_vf_secondaire": "Tu ne peux pas jeter ca ici![END STRING AC]",
+    "ds_ja": [
+      "@a@bここでは　広げられない！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bCe n'est pas l'endroit adapté pour dérouler un tapis volantⓠ\n@c0@"
+    ],
+    "original_body": "Ce n'est pas l'endroit adapté pour dérouler un tapis volantⓠ",
+    "adaptation_body": "Impossible de le déplier ici!",
+    "adaptation_review": "Action de déplier, sans figer le tapis ajouté en FR DS ; pas de nom variable dans SFC.",
+    "review": "Action de déplier, sans figer le tapis ajouté en FR DS ; pas de nom variable dans SFC.",
+    "sfc_context": [
+      {
+        "id": 5949,
+        "text": "地図を持っていれば[LINE]このボタンで　見ることができます。[END STRING AC]"
+      },
+      {
+        "id": 5950,
+        "text": "ここでは　ひろげられない![END STRING AC]"
+      },
+      {
+        "id": 5951,
+        "text": "まほうのじゅうたんは[LINE]すでに　つかっています。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6499,
+    "file": "0815.p",
+    "ids": [
+      6
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]どれを　たたきなおそうか?[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DE]Quel objet?[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「どれを　たたき直そうか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Que voulez-vous que je forgeⓡ\n@c0@"
+    ],
+    "original_body": "Que voulez-vous que je forgeⓡ",
+    "adaptation_body": "Que voulez-vous que je reforge?",
+    "adaptation_review": "たたきなおす signifie reforger ; conserve DE/D5.",
+    "review": "たたきなおす signifie reforger ; conserve DE/D5.",
+    "sfc_context": [
+      {
+        "id": 6498,
+        "text": "[CODE DE]あれっ?　[CODE C0]さんは[LINE]なにも　もってないじゃないの![WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6499,
+        "text": "[CODE DE]どれを　たたきなおそうか?[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6500,
+        "text": "[CODE DE]うーん　悪いが　そいつはもう[LINE]それ以上　かっこよくは[LINE]できないなあ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "file": "0082.p",
+    "ids": [
+      138
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　ふるびたパイプを[LINE]さし出した。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D3] pulled out the Rusted Pipe.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は　ふるびたパイプを\nうけとった！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 reçoit une vieille pipe.\n@c0@"
+    ],
+    "original_body": "%0%a000120 reçoit une vieille pipe.",
+    "adaptation_body": "%a000120 présente la vieille pipe.",
+    "adaptation_review": "Action SFC さし出した, opposée à la réception DS 0082:138 ; ancienne IPS secondaire relue, nom D3 conservé. Ce n’est pas un transfert testé.",
+    "review": "Action SFC さし出した, opposée à la réception DS 0082:138 ; ancienne IPS secondaire relue, nom D3 conservé. Ce n’est pas un transfert testé.",
+    "sfc_context": [
+      {
+        "id": 827,
+        "text": "[CODE D4]シルバー「ウウーー　ワンワンワン![END STRING AC]"
+      },
+      {
+        "id": 828,
+        "text": "[CODE D3]は　ふるびたパイプを[LINE]さし出した。[END STRING AC]"
+      },
+      {
+        "id": 829,
+        "text": "[CODE D4]シルバー「!?[LINE]クーン　クーン...[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6251,
+    "file": "0810.p",
+    "ids": [
+      22
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]ほかの人が　持ちますか?[END STRING AC]",
+    "sfc_vf_secondaire": "Quelqu'un d'autre le prendra?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ほかの人が\n\tお持ちになりますか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Quelqu'un d'autre peut-il porter ce que vous avez achetéⓡ\n@c0@"
+    ],
+    "original_body": "Quelqu'un d'autre peut-il porter ce que vous avez achetéⓡ",
+    "adaptation_body": "Quelqu'un d'autre va-t-il porter cet objet?",
+    "adaptation_review": "Autre porteur, sans introduire un nom ni exécuter le transfert.",
+    "review": "Autre porteur, sans introduire un nom ni exécuter le transfert.",
+    "sfc_context": [
+      {
+        "id": 6250,
+        "text": "[CODE DE]少し　持ちものを　へらしてから[LINE]また　おいでください。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6251,
+        "text": "[CODE DE]ほかの人が　持ちますか?[END STRING AC]"
+      },
+      {
+        "id": 6252,
+        "text": "[CODE DE]では　その　[CODE C3]の中に[LINE]お入れしますね。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6277,
+    "file": "0810.p",
+    "ids": [
+      22
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]ほかの人が　持ちますか?[END STRING AC]",
+    "sfc_vf_secondaire": "Quelqu'un d'autre le prendra?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ほかの人が\n\tお持ちになりますか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Quelqu'un d'autre peut-il porter ce que vous avez achetéⓡ\n@c0@"
+    ],
+    "original_body": "Quelqu'un d'autre peut-il porter ce que vous avez achetéⓡ",
+    "adaptation_body": "Quelqu'un d'autre va-t-il porter cet objet?",
+    "adaptation_review": "Autre porteur, sans introduire un nom ni exécuter le transfert.",
+    "review": "Autre porteur, sans introduire un nom ni exécuter le transfert.",
+    "sfc_context": [
+      {
+        "id": 6276,
+        "text": "[CODE DE]もち物を　へらしてから[LINE]また　買ってくださいね。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6277,
+        "text": "[CODE DE]ほかの人が　持ちますか?[END STRING AC]"
+      },
+      {
+        "id": 6278,
+        "text": "[CODE DE]では　その　[CODE C3]の中に[LINE]入れておきますね。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5759,
+    "file": "0807.p",
+    "ids": [
+      100
+    ],
+    "status": "RELU",
+    "sfc_jp": "これを　使うと[LINE]さいだいHPが　ふえるようだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Augmente les PM maximums.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@bこれを　使うと\n最大ＨＰが　ふえるようだ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bIl semblerait qu'en mangeant cette graine, vous puissiez faire augmenter votre maximum de PV.\n@c0@"
+    ],
+    "original_body": "Il semblerait qu'en mangeant cette graine, vous puissiez faire augmenter votre maximum de PV.",
+    "adaptation_body": "Son utilisation semble augmenter le maximum de PV.",
+    "adaptation_review": "Description japonaise d’usage, pas obligation de manger ajoutée en FR DS.",
+    "review": "Description japonaise d’usage, pas obligation de manger ajoutée en FR DS.",
+    "sfc_context": [
+      {
+        "id": 5758,
+        "text": "これを　使うと[LINE]みのまもりが　上がるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5759,
+        "text": "これを　使うと[LINE]さいだいHPが　ふえるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5760,
+        "text": "これを　使うと[LINE]さいだいMPが　ふえるようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5760,
+    "file": "0807.p",
+    "ids": [
+      102
+    ],
+    "status": "RELU",
+    "sfc_jp": "これを　使うと[LINE]さいだいMPが　ふえるようだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Accroït le style.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@bこれを　使うと\n最大ＭＰが　ふえるようだ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bIl semblerait qu'en mangeant cette graine, vous puissiez faire augmenter votre maximum de PM.\n@c0@"
+    ],
+    "original_body": "Il semblerait qu'en mangeant cette graine, vous puissiez faire augmenter votre maximum de PM.",
+    "adaptation_body": "Son utilisation semble augmenter le maximum de PM.",
+    "adaptation_review": "Même formulation pour MP, adaptée aux PM français ; attendre et terminaison conservés.",
+    "review": "Même formulation pour MP, adaptée aux PM français ; attendre et terminaison conservés.",
+    "sfc_context": [
+      {
+        "id": 5759,
+        "text": "これを　使うと[LINE]さいだいHPが　ふえるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5760,
+        "text": "これを　使うと[LINE]さいだいMPが　ふえるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5761,
+        "text": "これを　使うと[LINE]かっこよさが　ふえるようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6270,
+    "file": "0810.p",
+    "ids": [
+      2
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]お買いあげですね。[LINE]なにに　いたしましょう?[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "Que prennez-vous?[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「お買い上げですね。\n\tどれに　いたしましょう？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Que voulez-vous acheterⓡ\n@c0@"
+    ],
+    "original_body": "Que voulez-vous acheterⓡ",
+    "adaptation_body": "Vous souhaitez acheter? Que choisissez-vous?",
+    "adaptation_review": "Accusé de demande d’achat puis sélection SFC/DS JA ; DE/D5 maintenus.",
+    "review": "Accusé de demande d’achat puis sélection SFC/DS JA ; DE/D5 maintenus.",
+    "sfc_context": [
+      {
+        "id": 6269,
+        "text": "[CODE DE]はい　いらっしゃい![LINE]ここは　どうぐの店。[LINE]どんな　ご用でしょう?[END STRING AC]"
+      },
+      {
+        "id": 6270,
+        "text": "[CODE DE]お買いあげですね。[LINE]なにに　いたしましょう?[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6271,
+        "text": "[CODE DE]おや　お金が　たりませんよ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3931,
+    "file": "0018.p",
+    "ids": [
+      929
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE CF]は　おもての馬車まで[LINE]走っていった![END STRING AE]",
+    "sfc_vf_secondaire": "Mais le chariot était plein.[WAIT][LINE][CODE CF] vous attendra chez Luisa.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a002050は　外にある馬車まで\n走っていった！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a002050 se précipite vers le chariot.\n@c0@"
+    ],
+    "original_body": "%0%a002050 se précipite vers le chariot.",
+    "adaptation_body": "%a002050 court vers le chariot, dehors!",
+    "adaptation_review": "CF et destination extérieure, identiques aux deux japonais ; nom dynamique gardé.",
+    "review": "CF et destination extérieure, identiques aux deux japonais ; nom dynamique gardé.",
+    "sfc_context": [
+      {
+        "id": 3930,
+        "text": "[CODE D4][CODE CF]「では　私は　ひと足さきに[LINE]町を出て　外で　まってますから。[LINE]それではっ![END STRING AC]"
+      },
+      {
+        "id": 3931,
+        "text": "[CODE CF]は　おもての馬車まで[LINE]走っていった![END STRING AE]"
+      },
+      {
+        "id": 3932,
+        "text": "しかし　馬車は　いっぱいだった![WAIT][LINE][CODE CF]は　ルイーダの酒場めがけて[LINE]走り出したっ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4010,
+    "file": "0000.p",
+    "ids": [
+      111
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D9]まって　[CODE C9]![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]Le roi démon Mudo nous attends sûrement[LINE]impatiamment au delà de cette porte.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「まって　%a000090！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a000090ⓠ Attendsⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000090ⓠ Attendsⓠ",
+    "adaptation_body": "Attends, %a000090!",
+    "adaptation_review": "DS 0000:111 correspond à l’appel japonais ; écarte le faux rapprochement DS 0528:41 sur le prince. C9/D9 conservés.",
+    "review": "DS 0000:111 correspond à l’appel japonais ; écarte le faux rapprochement DS 0528:41 sur le prince. C9/D9 conservés.",
+    "sfc_context": [
+      {
+        "id": 4009,
+        "text": "さすが　魔王の城だ。[LINE]化け物の　においが[LINE]プンプンするぜ......。[END STRING AC]"
+      },
+      {
+        "id": 4010,
+        "text": "[CODE D9]まって　[CODE C9]![END STRING AC]"
+      },
+      {
+        "id": 4011,
+        "text": "[CODE D9]このトビラの　むこうには[LINE]たぶん　魔王ムドーが[LINE]まちかまえているはずよ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6274,
+    "file": "0810.p",
+    "ids": [
+      12
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]どなたが　持ちますか?[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "Qui va le prendre?[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「どなたが　お持ちになりますか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Qui va porter la marchandiseⓡ\n@c0@"
+    ],
+    "original_body": "Qui va porter la marchandiseⓡ",
+    "adaptation_body": "Qui va porter la marchandise?",
+    "adaptation_review": "Choix du porteur SFC/DS JA, avec DE/D5.",
+    "review": "Choix du porteur SFC/DS JA, avec DE/D5.",
+    "sfc_context": [
+      {
+        "id": 6273,
+        "text": "[CODE DE]これは　戦いのときに[LINE]どうぐとして　つかっても[LINE]おトクな　品物ですよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6274,
+        "text": "[CODE DE]どなたが　持ちますか?[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6275,
+        "text": "[CODE DE]おやおや　[CODE B3]さんは[LINE]もち物が　いっぱいですよ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1630,
+    "file": "0007.p",
+    "ids": [
+      129
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4]グランマーズ「さて　それじゃあ[LINE]始めようかね。[LINE]夢見のしずくを　もらうよ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Granmaz.Commençons. Maintenant, j'ai besoin des dream-seeing drops.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@bグランマーズ「……それじゃあ\n\t夢見のしずくを　もらうよ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aMadame Luce@bJ'ai besoin de la rosée onirique maintenant, d'accordⓡ\n@c0@"
+    ],
+    "original_body": "J'ai besoin de la rosée onirique maintenant, d'accordⓡ",
+    "adaptation_body": "Bien, commençons. Donnez-moi la rosée onirique.",
+    "adaptation_review": "Début du rituel et rosée SFC, pas nouvelle question oui/non ; nom de madame Luce conservé.",
+    "review": "Début du rituel et rosée SFC, pas nouvelle question oui/non ; nom de madame Luce conservé.",
+    "sfc_context": [
+      {
+        "id": 1629,
+        "text": "[CODE D4]グランマーズ「おや　おかえり。[LINE]その顔は　うまく　夢見のしずくを[LINE]手に入れてきた顔だね。[WAIT][LINE][CODE D4]グランマーズ「お前さんたちなら[LINE]ちゃんと　やってくれると[LINE]思っていたよ。[WAIT][LINE][CODE D4]グランマーズ「[CODE CB]も[LINE]ごくろうだったね。[WAIT][LINE][CODE D4]グランマーズ「さあ　つかれたろう。[LINE]今日のところは　ひとまず[LINE]おやすみ。[END STRING AC]"
+      },
+      {
+        "id": 1630,
+        "text": "[CODE D4]グランマーズ「さて　それじゃあ[LINE]始めようかね。[LINE]夢見のしずくを　もらうよ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1631,
+        "text": "[CODE C9]は　グランマーズに[LINE]夢見のしずくを　手わたした。[END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 2359,
+    "file": "0063.p",
+    "ids": [
+      3
+    ],
+    "status": "RELU",
+    "sfc_jp": "『村長の家[LINE]　このうえ』[END STRING AC]",
+    "sfc_vf_secondaire": "<0576>Maison du Doyen du Village<0579>[END STRING AC]",
+    "ds_ja": [
+      "@a@b『村長の家\n　この上』\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bⓥRésidence du maire Tisserondⓦ\n@c0@"
+    ],
+    "original_body": "ⓥRésidence du maire Tisserondⓦ",
+    "adaptation_body": "Maison du maire, plus haut.",
+    "adaptation_review": "Panneau SFC/DS JA, direction rétablie ; maire non nommé, donc pas Tisserond ajouté.",
+    "review": "Panneau SFC/DS JA, direction rétablie ; maire non nommé, donc pas Tisserond ajouté.",
+    "sfc_context": [
+      {
+        "id": 2358,
+        "text": "[END STRING AC]"
+      },
+      {
+        "id": 2359,
+        "text": "『村長の家[LINE]　このうえ』[END STRING AC]"
+      },
+      {
+        "id": 2360,
+        "text": "『この上　キケン　近づくな。』[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3790,
+    "file": "0619.p",
+    "ids": [
+      8
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE CE]「みなさん　いきましょう。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE CE].allez.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a002050「みなさん\n\tはりきって　いきましょう！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002050@bFaisons tout notre possibleⓠ\n@c0@"
+    ],
+    "original_body": "Faisons tout notre possibleⓠ",
+    "adaptation_body": "Allons-y, tout le monde.",
+    "adaptation_review": "Locuteur natif CE, pas Amos CF de l’exemple DS ; invitation explicite SFC conservée sans ajouter de variable.",
+    "review": "Locuteur natif CE, pas Amos CF de l’exemple DS ; invitation explicite SFC conservée sans ajouter de variable.",
+    "sfc_context": [
+      {
+        "id": 3789,
+        "text": "[CODE D4]長老「ふむっ!　よくぞ　申した![WAIT][LINE][CODE D4]長老「ちか頃　日ましに　お前の[LINE]ちからが　強くなっているのも[LINE]神の　おぼしめしかも知れん。[WAIT][LINE][CODE D4]長老「ゆけ!　わがまごよ![LINE]今こそ　封印を　とく時じゃ![END STRING AC]"
+      },
+      {
+        "id": 3790,
+        "text": "[CODE D4][CODE CE]「みなさん　いきましょう。[END STRING AC]"
+      },
+      {
+        "id": 3791,
+        "text": "ややっ　これは　[CODE CE]さま![WAIT][LINE]なんと!　いよいよ神の船の[LINE]封印を　とかれるのですか!?[WAIT][LINE]わかりました。[LINE]さあ　どうか　なかへ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6118,
+    "file": "0535.p",
+    "ids": [
+      873
+    ],
+    "status": "RELU",
+    "sfc_jp": "空飛ぶベッド　手に入れた[END STRING AC]",
+    "sfc_vf_secondaire": "6118<0559>[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a002000「空飛ぶベッド\n\tいいものを　手に入れたな！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002000@bUn lit volantⓠ Ça, c'est un voyage en première classe, heinⓡ\n@c0@"
+    ],
+    "original_body": "Un lit volantⓠ Ça, c'est un voyage en première classe, heinⓡ",
+    "adaptation_body": "Le lit volant a été obtenu!",
+    "adaptation_review": "Acquisition SFC sans locuteur CA ni commentaire de première classe ajouté en FR DS.",
+    "review": "Acquisition SFC sans locuteur CA ni commentaire de première classe ajouté en FR DS.",
+    "sfc_context": [
+      {
+        "id": 6117,
+        "text": "勇気のかけら　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6118,
+        "text": "空飛ぶベッド　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6119,
+        "text": "フォーン王の　たのみを　きいた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6196,
+    "file": "0098.p",
+    "ids": [
+      560
+    ],
+    "status": "RELU",
+    "sfc_jp": "いくぢなし......。[END STRING AC]",
+    "sfc_vf_secondaire": "Obstiné…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「いくじなし……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Quel manque de courage...\n@c0@"
+    ],
+    "original_body": "Quel manque de courage...",
+    "adaptation_body": "Quel manque de courage...",
+    "adaptation_review": "Réplique SFC/DS JA identique, français DS conservé.",
+    "review": "Réplique SFC/DS JA identique, français DS conservé.",
+    "sfc_context": [
+      {
+        "id": 6195,
+        "text": "せめて　まわしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6196,
+        "text": "いくぢなし......。[END STRING AC]"
+      },
+      {
+        "id": 6197,
+        "text": "あなた　ふくろ　ほしいか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6221,
+    "file": "0811.p",
+    "ids": [
+      12
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]だれが　持つかね?[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "Qui le prendra?[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「だれが　持つんだね？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Qui va porter la marchandiseⓡ\n@c0@"
+    ],
+    "original_body": "Qui va porter la marchandiseⓡ",
+    "adaptation_body": "Qui va porter la marchandise?",
+    "adaptation_review": "Sélection du porteur, DE/D5 et suffixe natif conservés.",
+    "review": "Sélection du porteur, DE/D5 et suffixe natif conservés.",
+    "sfc_context": [
+      {
+        "id": 6220,
+        "text": "[CODE DE]これは　戦いのときに[LINE]どうぐとして　つかっても[LINE]効力が　あるぜ![WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6221,
+        "text": "[CODE DE]だれが　持つかね?[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6222,
+        "text": "[CODE DE]ん?　[CODE B3]は[LINE]それ以上　持てないようだぞ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4993,
+    "file": "0044.p",
+    "ids": [
+      4
+    ],
+    "status": "RELU",
+    "sfc_jp": "私は　この城の神父ですが[LINE]いやはや　めでたいことですな。[LINE]それは　さておき......。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "C'est exact. Il n'y a plus de princesse du mirroir.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「いやはや　めでたいことですな。\n\tそれは　さておき……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ C'est une bonne raison de faire la fêteⓠ Mais avant cela...\n@c0@"
+    ],
+    "original_body": "C'est une bonne raison de faire la fêteⓠ Mais avant cela...",
+    "adaptation_body": "Je suis le prêtre de ce château. Voilà une bonne raison de faire la fête! Mais avant cela...",
+    "adaptation_review": "Présentation de prêtre SFC omise dans DS rétablie, pas de nom ajouté.",
+    "review": "Présentation de prêtre SFC omise dans DS rétablie, pas de nom ajouté.",
+    "sfc_context": [
+      {
+        "id": 4992,
+        "text": "おお　こわい　こわい......。[END STRING AC]"
+      },
+      {
+        "id": 4993,
+        "text": "私は　この城の神父ですが[LINE]いやはや　めでたいことですな。[LINE]それは　さておき......。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 4994,
+        "text": "そうよね。だって　もう[LINE]カガミ姫は　いないんだもの。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6240,
+    "file": "0012.p",
+    "ids": [
+      3
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]それは　ざんねんだな。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "Dommage.[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ふーむ……。\n\tそれは　ざんねんだったな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Mmm... Eh bien, bon courage.\n@c0@"
+    ],
+    "original_body": "Mmm... Eh bien, bon courage.",
+    "adaptation_body": "C'est dommage.",
+    "adaptation_review": "Regret SFC/DS JA ; bon courage de FR DS n’exprime pas ce sens.",
+    "review": "Regret SFC/DS JA ; bon courage de FR DS n’exprime pas ce sens.",
+    "sfc_context": [
+      {
+        "id": 6239,
+        "text": "[CODE DE]よし!　たしかに買いとったぜ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6240,
+        "text": "[CODE DE]それは　ざんねんだな。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6241,
+        "text": "[CODE DE]ほかにも　用は　あるかい?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6241,
+    "file": "0811.p",
+    "ids": [
+      67
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]ほかにも　用は　あるかい?[END STRING AC]",
+    "sfc_vf_secondaire": "Y a-t-il quelquechose d'autre?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ほかにも　何か\n\t用は　あるかね？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Vous désirez peut-être autre choseⓡ\n@c0@"
+    ],
+    "original_body": "Vous désirez peut-être autre choseⓡ",
+    "adaptation_body": "Vous désirez autre chose?",
+    "adaptation_review": "Autre demande générique de boutique, DE conservé.",
+    "review": "Autre demande générique de boutique, DE conservé.",
+    "sfc_context": [
+      {
+        "id": 6240,
+        "text": "[CODE DE]それは　ざんねんだな。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6241,
+        "text": "[CODE DE]ほかにも　用は　あるかい?[END STRING AC]"
+      },
+      {
+        "id": 6242,
+        "text": "[CODE DE]じゃあ　また　来てくれよな![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6316,
+    "file": "0022.p",
+    "ids": [
+      728
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]ふむ　ありがたいことじゃ。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6316<0559>[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ほんに　ありがたいことじゃ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ La Déesse soit louée, on dirait que la vie nous sourit à nouveauⓠ\n@c0@"
+    ],
+    "original_body": "La Déesse soit louée, on dirait que la vie nous sourit à nouveauⓠ",
+    "adaptation_body": "Mmm, soyez-en remerciés.",
+    "adaptation_review": "Gratitude SFC, sans ajouter un changement de situation ni nommer une déesse ; DE/D5 conservés.",
+    "review": "Gratitude SFC, sans ajouter un changement de situation ni nommer une déesse ; DE/D5 conservés.",
+    "sfc_context": [
+      {
+        "id": 6315,
+        "text": "[CODE DE]はいよ。[LINE][CODE B5]じゃな。[WAIT][LINE]それじゃったら[LINE][CODE BB]ゴールドで[LINE]引きとるが　どうじゃ?[END STRING AC]"
+      },
+      {
+        "id": 6316,
+        "text": "[CODE DE]ふむ　ありがたいことじゃ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6317,
+        "text": "[CODE DE]それは　ざんねんじゃのう。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6242,
+    "file": "0811.p",
+    "ids": [
+      69
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]じゃあ　また　来てくれよな![END STRING AC]",
+    "sfc_vf_secondaire": "A bientôt![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「また　来てくれよ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Revenez quand vous voulezⓠ\n@c0@"
+    ],
+    "original_body": "Revenez quand vous voulezⓠ",
+    "adaptation_body": "Revenez quand vous voulez!",
+    "adaptation_review": "Invitation à revenir, SFC et DS cohérents.",
+    "review": "Invitation à revenir, SFC et DS cohérents.",
+    "sfc_context": [
+      {
+        "id": 6241,
+        "text": "[CODE DE]ほかにも　用は　あるかい?[END STRING AC]"
+      },
+      {
+        "id": 6242,
+        "text": "[CODE DE]じゃあ　また　来てくれよな![END STRING AC]"
+      },
+      {
+        "id": 6243,
+        "text": "[CODE DE]ようこそ　防具の店に。[LINE]ご用は　なんでしょう?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6468,
+    "file": "0816.p",
+    "ids": [
+      66
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE DE]ルイーダ「ほかに　ご用は?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Luisa.Quelque chose d'autre?[END STRING AC]",
+    "ds_ja": [
+      "@a@bルイーダ「他に　ご用は？\n@c0@"
+    ],
+    "ds_fr": [
+      "@aTulipe@bY a-t-il autre chose que je puisse faire pour vousⓡ\n@c0@"
+    ],
+    "original_body": "Y a-t-il autre chose que je puisse faire pour vousⓡ",
+    "adaptation_body": "Y a-t-il autre chose que je puisse faire pour vous?",
+    "adaptation_review": "Question de service de Tulipe, nom et DE conservés.",
+    "review": "Question de service de Tulipe, nom et DE conservés.",
+    "sfc_context": [
+      {
+        "id": 6467,
+        "text": "[CODE D4][CODE DE]ルイーダ「あら　おやめになるのね。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6468,
+        "text": "[CODE D4][CODE DE]ルイーダ「ほかに　ご用は?[END STRING AC]"
+      },
+      {
+        "id": 6469,
+        "text": "[CODE D4][CODE DE]ルイーダ「じゃ　また　いらしてね。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4778,
+    "file": "0008.p",
+    "ids": [
+      763
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4]兵士たち「はっ!　わかりました[LINE]トム兵士長![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Tom.…Prince [CODE C9]![END STRING AC]",
+    "ds_ja": [
+      "@a@b兵士たち「はっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Oui, Monsieurⓠ\n@c0@"
+    ],
+    "original_body": "Oui, Monsieurⓠ",
+    "adaptation_body": "Oui! Bien compris, capitaine Ferraille!",
+    "adaptation_review": "Soldats pluriels ; réplique des soldats DS 0008:763, pas les gardes de prison du faux rapprochement 0088:54. トム兵士長 = capitaine Ferraille confirmé dans DS 0008:699 et 761.",
+    "review": "Soldats pluriels ; réplique des soldats DS 0008:763, pas les gardes de prison du faux rapprochement 0088:54. トム兵士長 = capitaine Ferraille confirmé dans DS 0008:699 et 761.",
+    "sfc_context": [
+      {
+        "id": 4777,
+        "text": "[CODE D4]トム「うむ...　たしかに　お城を[LINE]ほうったまま　ぜんいんで　討ばつに[LINE]向かうわけには　いかん。[WAIT][LINE][CODE D4]トム「とにかく　早急に　作戦を[LINE]立てねば!　お前たちも　なにか[LINE]討ばつ案を　考えてみてくれ。[END STRING AC]"
+      },
+      {
+        "id": 4778,
+        "text": "[CODE D4]兵士たち「はっ!　わかりました[LINE]トム兵士長![END STRING AC]"
+      },
+      {
+        "id": 4779,
+        "text": "[CODE D4]トム「......はっ!?　おまちください[LINE][CODE C9]王子![END STRING AC]"
+      }
+    ],
+    "adaptation_speaker": "Les soldats"
+  },
+  {
+    "id": 6227,
+    "file": "0811.p",
+    "ids": [
+      24
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]さっそく　そうび　するかい?[END STRING AC]",
+    "sfc_vf_secondaire": "Voulez-vous l'équiper maintenant?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「さっそく　装備するかい？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Voulez-vous vous en équiper maintenantⓡ\n@c0@"
+    ],
+    "original_body": "Voulez-vous vous en équiper maintenantⓡ",
+    "adaptation_body": "Voulez-vous vous en équiper maintenant?",
+    "adaptation_review": "Question sur équipement immédiat, pas l’action elle-même.",
+    "review": "Question sur équipement immédiat, pas l’action elle-même.",
+    "sfc_context": [
+      {
+        "id": 6226,
+        "text": "[CODE DE][CODE B3]は　これを[LINE]そうびできないが[LINE]それでも　いいかね?[END STRING AC]"
+      },
+      {
+        "id": 6227,
+        "text": "[CODE DE]さっそく　そうび　するかい?[END STRING AC]"
+      },
+      {
+        "id": 6228,
+        "text": "[CODE DE][CODE B3]は　[CODE B5]を[LINE]そうび　させてもらった![WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  }
+]
