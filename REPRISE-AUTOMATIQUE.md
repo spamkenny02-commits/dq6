@@ -1,3 +1,7 @@
+# Reprise v0.47
+
+142 libellés techniques, progression des quêtes et textes de démonstration SFC relus directement. Français DS utilisé comme lexique explicite pour 47 entrées ; aucun dialogue DS équivalent déclaré. Trois pauses d’avertissement natives conservées et testées. Huit brouillons ambigus restent non insérés, avec onze fragments hérités. Continuer les 428 messages restants dont 19 préparés non insérés, les tables et les audits naturels. Projet non finalisé.
+
 # Reprise v0.46
 
 111 ajouts : commerces, achats/reventes, banque, Journal, vocations, compagnons, noms et concours. B3/C0/C9/D3, B2, BB, B5 et D8 restent variables. 66 formulations DS relues/adaptées ; 45 adaptations directes SFC sans équivalent DS validé. Aucun rapprochement flou seul admis. Onze fragments préparés non insérés en attente de test d’assemblage ; 150 brouillons de libellés techniques/progression sauvegardés séparément, sans validation d’insertion. Continuer les 570 textes restants dont 11 fragments préparés et 150 brouillons non insérés, les tables et les audits naturels. Projet non finalisé.

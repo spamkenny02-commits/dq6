@@ -1,0 +1,50 @@
+{
+  "release": "v0.47",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 6529,
+    "visible_total": 6957,
+    "new_this_pass": 142,
+    "remaining": 428
+  },
+  "baseline": "v0.46",
+  "prepared_not_inserted": {
+    "main": 19,
+    "separate_places": 25,
+    "reviewed_fragments": 11,
+    "draft_main": 8
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.47",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "spell_action_labels_inserted": 20,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 37,
+    "native_grammar_helpers_adapted": 4
+  },
+  "rom_bytes": 8388608,
+  "notes": "142 libellés techniques, progression des quêtes et textes de démonstration SFC relus directement. Français DS utilisé comme lexique explicite pour 47 entrées ; aucun dialogue DS équivalent déclaré. Trois pauses d’avertissement natives conservées et testées. Huit brouillons ambigus restent non insérés, avec onze fragments hérités.",
+  "next": "Continuer les 428 messages restants dont 19 préparés non insérés, les tables et les audits naturels. Projet non finalisé.",
+  "deferred_remaining_from_v034": 13,
+  "resolved_from_v034_ids": [
+    2368,
+    5761,
+    5778,
+    5816,
+    5818,
+    5844,
+    5851,
+    6117,
+    6172,
+    6209,
+    6265,
+    6338,
+    6465
+  ]
+}

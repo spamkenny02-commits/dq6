@@ -1,0 +1,186 @@
+[
+  {
+    "id": 6040,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "キャンセル歩行を　できる様にしますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6040<0559>[END STRING AC]",
+    "adaptation_body": "Activer la marche d'annulation ?",
+    "blocker": "Fonction exacte de キャンセル歩行 à vérifier dans le code et le contexte debug.",
+    "sfc_context": [
+      {
+        "id": 6039,
+        "text": "ただいま　作成中です![END STRING AC]"
+      },
+      {
+        "id": 6040,
+        "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+      },
+      {
+        "id": 6041,
+        "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6041,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "キャンセル歩行を　できる様にしました。[END STRING AC]",
+    "sfc_vf_secondaire": "6041<0559>[END STRING AC]",
+    "adaptation_body": "Marche d'annulation activée.",
+    "blocker": "Même fonction que6040.",
+    "sfc_context": [
+      {
+        "id": 6040,
+        "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+      },
+      {
+        "id": 6041,
+        "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6042,
+        "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6042,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "キャンセル歩行を　できない様にしました。[END STRING AC]",
+    "sfc_vf_secondaire": "6042<0559>[END STRING AC]",
+    "adaptation_body": "Marche d'annulation désactivée.",
+    "blocker": "Même fonction que6040.",
+    "sfc_context": [
+      {
+        "id": 6041,
+        "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6042,
+        "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6043,
+        "text": "ランダムエンカウントを　行ないますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6046,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "開始フロアを　インチキフロアとしますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6046<0559>[END STRING AC]",
+    "adaptation_body": "Prendre la zone de triche comme niveau de départ ?",
+    "blocker": "Identité du niveau インチキフロア à établir.",
+    "sfc_context": [
+      {
+        "id": 6045,
+        "text": "ランダムエンカウントが[LINE]起こらない様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6046,
+        "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+      },
+      {
+        "id": 6047,
+        "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6047,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "開始フロアを　インチキフロアとします。[END STRING AC]",
+    "sfc_vf_secondaire": "6047<0559>[END STRING AC]",
+    "adaptation_body": "Zone de triche choisie comme niveau de départ.",
+    "blocker": "Même niveau que6046.",
+    "sfc_context": [
+      {
+        "id": 6046,
+        "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+      },
+      {
+        "id": 6047,
+        "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6048,
+        "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6048,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "開始フロアを　標準フロアとします。[END STRING AC]",
+    "sfc_vf_secondaire": "6048<0559>[END STRING AC]",
+    "adaptation_body": "Niveau de départ standard choisi.",
+    "blocker": "Opposition au niveau6046 à établir.",
+    "sfc_context": [
+      {
+        "id": 6047,
+        "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6048,
+        "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6049,
+        "text": "座標ウインドウを　使いますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6157,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "はざまの城　落下後[END STRING AC]",
+    "sfc_vf_secondaire": "6157<0559>[END STRING AC]",
+    "adaptation_body": "Après la chute du château de l'entre-monde",
+    "blocker": "Nom français du château はざまの城 à établir.",
+    "sfc_context": [
+      {
+        "id": 6156,
+        "text": "クリムトを　仲間にした[END STRING AC]"
+      },
+      {
+        "id": 6157,
+        "text": "はざまの城　落下後[END STRING AC]"
+      },
+      {
+        "id": 6158,
+        "text": "エンディングへ[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6207,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ハイローポーカーやらない?[END STRING AC]",
+    "sfc_vf_secondaire": "6207<0559>[END STRING AC]",
+    "adaptation_body": "Jouer au poker haut-bas ?",
+    "blocker": "Terminologie et variante du poker ハイロー à confirmer.",
+    "sfc_context": [
+      {
+        "id": 6206,
+        "text": "ノーマルポーカーやらない?[END STRING AC]"
+      },
+      {
+        "id": 6207,
+        "text": "ハイローポーカーやらない?[END STRING AC]"
+      },
+      {
+        "id": 6208,
+        "text": "[CODE D3]は　立て札を　読んだ。[END STRING AE]"
+      }
+    ]
+  }
+]

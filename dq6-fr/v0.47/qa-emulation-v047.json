@@ -1,0 +1,31 @@
+{
+  "result_sha256": "58c881b4c21dfa8e2b70c82871f005c4b2196c9f83347590c6974aa5d6820d40",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "rendered_new_texts": 142,
+  "reviewed_final_pages": 146,
+  "all_captures_on_final_rom": true,
+  "natural_scenes_played": false,
+  "debug_commands_executed": false,
+  "boot_menu_visually_reviewed": true,
+  "boot_menu_screenshot_sha256": "52fb1b4bfe419aad24adc931cece2186eb22549243ee19e124c35ff4ad373432",
+  "boot_sequence": [
+    {
+      "frames": 360,
+      "reset": true
+    },
+    {
+      "frames": 900
+    },
+    {
+      "button": "start",
+      "frames": 120,
+      "press": 4
+    },
+    {
+      "button": "a",
+      "frames": 120,
+      "press": 4
+    }
+  ],
+  "limits": "Display diagnostics redirect message100 at camp; no real gameplay effect, transaction, naming write or SRAM operation tested. No new variable controls in these142 labels."
+}
