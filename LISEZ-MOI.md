@@ -1,13 +1,15 @@
-# DQVI FR v0.44 — correction native isolée
+# DQVI FR v0.45 partielle
 
-6165/6957 messages intégrés, aucun nouvel ajout principal, 792 restants. Projet non finalisé, ROM de travail 8 Mio.
+6276/6957 messages intégrés, 111 ajouts, 681 restants dont 11 préparés non insérés. Projet non finalisé. Tables : 37 libellés français confirmés, quatre aides grammaticales v0.44, 25 lieux préparés. ROM de travail 8 Mio.
 
-L'arbre Huffman VF ne proposait pas C4/DF. Deux feuilles rares D6/E1 sont scindées et la racine relocalisée ; tous les autres chemins de bits restent identiques. Tous les anciens tokens restent identiques. Le vecteur C4 retrouve la fonction originale japonaise C6927B. Quatre chaînes grammaticales sont adaptées séparément des 37 libellés français confirmés des tables. Le nom du sac 09C8 reste une donnée de sauvegarde : son emplacement ROM vide est intentionnel.
+111 ajouts : objets, déplacement, mémoire SFC, Journal, sac sauvegardé C3 et nouveau nom D8. 57 formulations DS relues/adaptées ; 54 adaptations directes SFC sans équivalent DS validé. Aucun rapprochement flou seul admis. Onze fragments préparés non insérés en attente de test d’assemblage.
 
-Recette idempotente pass44.py, puis init.py/prepare.py/build.py/verify.py. Restauration par restore_sources.py. 6960 messages redécodés, 6165 sélections inchangées, 2508/2512 noms identiques à v0.43, quatre différences explicites. BPS/IPS réappliqués à la source JP intacte et mauvaises sources rejetées. Arbre/vecteur et zones protégées contrôlés.
+Japonais SFC, contexte voisin et ancien IPS secondaire conservés dans chaque revue ; références japonaises/françaises DS explicites quand valables. Le reste est traduit directement du SFC, sans prétendre à une correspondance DS. Les effets décalés du VF (usage unique/illimité, statistiques, magie/feu/glace) sont corrigés d’après le japonais. BB et noms C0/C1/D2/B2/B5/C3/D8 restent natifs, sans nom figé. Journal/Options, retrait des crédits et cadre du nom conservés.
 
-Snes9x : bus 880 plages / 516965 octets ; démarrage et menu Nouveau jeu ; 30 pages relues sur sept anciens messages, quatre sondes natives, trois branches plurielles forcées. Ce sont des diagnostics au camp, pas les scènes naturelles. Les sondes ne valident pas le calcul réel du nombre de compagnons. Aucun plantage pré-correction observé : l'encodage C4 échouait avant le lancement de l'émulateur.
+6165 anciennes sélections identiques, 6960 entrées redécodées, 2512 noms, Huffman et vecteur C4 identiques à v0.44. Commandes, occurrences, zones protégées, réapplication BPS/IPS à la source intacte et rejet de mauvaises sources contrôlés. Restauration propre et reconstruction identique vérifiées. Recette pass45.py, puis init.py/prepare.py/build.py/verify.py.
 
-SHA256 résultat : 289634cf8ccf362c9e11e645a6633154d91674a12b06d8c5acfc68846a8f3d1a. Patch BPS sur source JP sans en-tête, SHA256 90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e. Aucune ROM ni sauvegarde publiée.
+Snes9x : 127 pages ciblées relues pour les 111 ajouts, un stress B5 24 cases, bus 880 plages/516965 octets, démarrage/menu Nouveau jeu. Diagnostics au camp, aucune scène naturelle ou transaction réelle validée par ces captures. Les valeurs injectées ne prouvent pas les calculs, les sauvegardes ou les changements de noms.
 
-Restent ouverts : scènes naturelles 322/323, 1836, 4095, indices ambigus, tables et leurs fenêtres/accents, 24 cas historiques différés.
+SHA256 résultat : 3f1e18cbddab15fd5f18ec1b96bf40f12d665c5e58387e0cfc81616c4bac8bf4. BPS sur JP sans en-tête SHA256 90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e. Aucune ROM, SRAM, sauvegarde d’état ou archive de ROM publiée.
+
+Ouverts : assemblage 5820/5821 avec5822/5823 et5832 avec5833..5839 ; scènes naturelles322/323/1836/4095 ; 18 différés historiques v0.34 ; indices, tables, fenêtres et alphabet accentué. Voir qa-reliquat.json et prepares-non-inseres-v045.json.

@@ -1,20 +1,20 @@
 {
-  "release": "v0.44",
+  "release": "v0.45",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 6165,
+    "validated": 6276,
     "visible_total": 6957,
-    "new_this_pass": 0,
-    "remaining": 792
+    "new_this_pass": 111,
+    "remaining": 681
   },
-  "baseline": "v0.43",
+  "baseline": "v0.44",
   "prepared_not_inserted": {
-    "main": 0,
+    "main": 11,
     "separate_places": 25
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.44",
+    "inventory_version": "v0.45",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -27,11 +27,17 @@
     "native_grammar_helpers_adapted": 4
   },
   "rom_bytes": 8388608,
-  "notes": "Correction technique isolée : extension minimale Huffman C4/DF, vecteur C4 japonais rétabli, quatre aides grammaticales adaptées. Aucune sélection principale ajoutée ou modifiée. Nom du sac conservé en sauvegarde.",
-  "next": "Traduire les 792 textes restants ; conserver les réserves et les audits naturels ouverts.",
-  "deferred_remaining_from_v034": 24,
+  "notes": "111 ajouts : objets, déplacement, mémoire SFC, Journal, sac sauvegardé C3 et nouveau nom D8. 57 formulations DS relues/adaptées ; 54 adaptations directes SFC sans équivalent DS validé. Aucun rapprochement flou seul admis. Onze fragments préparés non insérés en attente de test d’assemblage.",
+  "next": "Continuer les 681 textes restants dont 11 fragments préparés, les tables et les audits naturels. Projet non finalisé.",
+  "deferred_remaining_from_v034": 18,
   "resolved_from_v034_ids": [
     2368,
+    5761,
+    5778,
+    5816,
+    5818,
+    5844,
+    5851,
     6265
   ]
 }

@@ -1,3 +1,7 @@
+# Reprise v0.45
+
+111 ajouts : objets, déplacement, mémoire SFC, Journal, sac sauvegardé C3 et nouveau nom D8. 57 formulations DS relues/adaptées ; 54 adaptations directes SFC sans équivalent DS validé. Aucun rapprochement flou seul admis. Onze fragments préparés non insérés en attente de test d’assemblage. Continuer les 681 textes restants dont 11 fragments préparés, les tables et les audits naturels. Projet non finalisé.
+
 # Reprise v0.44
 
 Correction technique isolée : extension minimale Huffman C4/DF, vecteur C4 japonais rétabli, quatre aides grammaticales adaptées. Aucune sélection principale ajoutée ou modifiée. Nom du sac conservé en sauvegarde. Traduire les 792 textes restants ; conserver les réserves et les audits naturels ouverts.

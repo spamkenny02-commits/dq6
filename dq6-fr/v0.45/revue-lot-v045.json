@@ -1,0 +1,3977 @@
+[
+  {
+    "id": 5695,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "しかし　いちど使えば[LINE]なくなってしまうだろう。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Cela peut ètre utilisé à l'infinie.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0836.p",
+        "id": 439,
+        "ja": "@a@b１かい　つかうと　なくなる\n@c0@",
+        "fr": "@a@bDisparaît après une seule utilisation.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Mais cet objet disparaîtra après une seule utilisation.",
+    "adaptation_body": "Mais cet objet disparaîtra après une seule utilisation.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5694,
+        "text": "[CODE B5]は[LINE]道具らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5695,
+        "text": "しかし　いちど使えば[LINE]なくなってしまうだろう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5696,
+        "text": "しかも　なんかい使っても[LINE]なくならないぞ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5696,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "しかも　なんかい使っても[LINE]なくならないぞ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Mais cela a un nombre limité de charges.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0807.p",
+        "id": 138,
+        "ja": "@a@b何回使っても　なくならないらしい。\n@c0@",
+        "fr": "@a@bIl semblerait que vous puissiez utiliser cet objet autant de fois que vous le voulez.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Cet objet ne s'use pas, même après plusieurs utilisations.",
+    "adaptation_body": "Cet objet ne s'use pas, même après plusieurs utilisations.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5695,
+        "text": "しかし　いちど使えば[LINE]なくなってしまうだろう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5696,
+        "text": "しかも　なんかい使っても[LINE]なくならないぞ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5697,
+        "text": "しかし　使ったあと[LINE]こわれてしまうことが　あるようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5715,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これで　急所を　ひとつきすれば[LINE]どんな　つよい魔物も　いちころだろう。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "En attaquant un ennemi avec ceci, on peut obtenir une seconde attaque.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0807.p",
+        "id": 52,
+        "ja": "@a@bこれで　急所をつけば\nどんな魔物も　一発で\nやっつけられるようだ。\n@c0@",
+        "fr": "@a@bUne piqûre au bon endroit pourrait probablement achever l'ennemi en un rien de temps.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "En visant un point vital, même un monstre très puissant pourrait succomber d'un seul coup.",
+    "adaptation_body": "En visant un point vital, même un monstre très puissant pourrait succomber d'un seul coup.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5714,
+        "text": "これで　攻げきすると[LINE]敵を　マヒさせることも[LINE]あるだろう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5715,
+        "text": "これで　急所を　ひとつきすれば[LINE]どんな　つよい魔物も　いちころだろう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5716,
+        "text": "これで　敵を　攻げきすると[LINE]いちどに　2かい　きりつけることが[LINE]できるだろう。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5716,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これで　敵を　攻げきすると[LINE]いちどに　2かい　きりつけることが[LINE]できるだろう。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Inflige plus de dégats contre les zombies.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0807.p",
+        "id": 36,
+        "ja": "@a@bこれを　装備すると\nすばやく　２回　切りつけることが\nできるようだ。\n@c0@",
+        "fr": "@a@bOn dirait que cette lame permet de frapper deux fois en un seul coup. \n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Cette arme permet de frapper l'ennemi deux fois en une seule attaque.",
+    "adaptation_body": "Cette arme permet de frapper l'ennemi deux fois en une seule attaque.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5715,
+        "text": "これで　急所を　ひとつきすれば[LINE]どんな　つよい魔物も　いちころだろう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5716,
+        "text": "これで　敵を　攻げきすると[LINE]いちどに　2かい　きりつけることが[LINE]できるだろう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5717,
+        "text": "ゾンビに　対しては[LINE]より多くの　ダメージを[LINE]あたえることが　できそうだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5718,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これを　装備していれば[LINE]魔法こうげきからの　ダメージが[LINE]へりそうだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "A un éffet spécial lorsque équippé.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0807.p",
+        "id": 56,
+        "ja": "@a@bこれを　装備していると\n炎のダメージを\n減らすことが　できるようだ。\n@c0@",
+        "fr": "@a@bCe genre d'équipement semble permettre de réduire les dégâts d'attaques de feu.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Cet équipement semble réduire les dégâts des attaques magiques.",
+    "adaptation_body": "Cet équipement semble réduire les dégâts des attaques magiques.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Le DS retenu décrit le feu : seule sa formulation est reprise ; le type magique du japonais SFC prime.",
+    "review": "Le DS retenu décrit le feu : seule sa formulation est reprise ; le type magique du japonais SFC prime.",
+    "sfc_context": [
+      {
+        "id": 5717,
+        "text": "ゾンビに　対しては[LINE]より多くの　ダメージを[LINE]あたえることが　できそうだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5718,
+        "text": "これを　装備していれば[LINE]魔法こうげきからの　ダメージが[LINE]へりそうだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5719,
+        "text": "これを　装備していると[LINE]特別な　効果が　ありそうだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5720,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これを　装備していれば　炎からの[LINE]ダメージが　へりそうだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Réduit les dégats du gel.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0807.p",
+        "id": 56,
+        "ja": "@a@bこれを　装備していると\n炎のダメージを\n減らすことが　できるようだ。\n@c0@",
+        "fr": "@a@bCe genre d'équipement semble permettre de réduire les dégâts d'attaques de feu.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Cet équipement semble réduire les dégâts du feu.",
+    "adaptation_body": "Cet équipement semble réduire les dégâts du feu.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5719,
+        "text": "これを　装備していると[LINE]特別な　効果が　ありそうだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5720,
+        "text": "これを　装備していれば　炎からの[LINE]ダメージが　へりそうだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5721,
+        "text": "これを　装備していれば　吹雪からの[LINE]ダメージが　へりそうだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5721,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これを　装備していれば　吹雪からの[LINE]ダメージが　へりそうだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Réduit les dégats du gel et du feu.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0807.p",
+        "id": 60,
+        "ja": "@a@bこれを　装備していると\n吹雪のダメージを\n減らすことが　できるようだ。\n@c0@",
+        "fr": "@a@bCe genre d'équipement semble permettre de réduire les dégâts d'attaques de magie et de glace.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Cet équipement semble réduire les dégâts du souffle glacé.",
+    "adaptation_body": "Cet équipement semble réduire les dégâts du souffle glacé.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Le japonais SFC protège du souffle glacé seulement, sans ajouter la magie de la phrase DS FR.",
+    "review": "Le japonais SFC protège du souffle glacé seulement, sans ajouter la magie de la phrase DS FR.",
+    "sfc_context": [
+      {
+        "id": 5720,
+        "text": "これを　装備していれば　炎からの[LINE]ダメージが　へりそうだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5721,
+        "text": "これを　装備していれば　吹雪からの[LINE]ダメージが　へりそうだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5722,
+        "text": "これを　装備していれば[LINE]炎と　吹雪からの　ダメージを[LINE]へらすことが　できるようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5726,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これを　使うと　馬車のそとにいる[LINE]仲間の体力を　いちどに　回復できるぞ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Augmente considérablement le style.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0807.p",
+        "id": 92,
+        "ja": "@a@bこれを　使うと\n全員の体力を　いっぺんに\n回復させることが　できるようだ。\n@c0@",
+        "fr": "@a@bIl semblerait que cette rosée restaure la santé de tous les membres de l'équipeⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Cet objet peut rendre des PV à tous les compagnons hors du chariot en une seule fois.",
+    "adaptation_body": "Cet objet peut rendre des PV à tous les compagnons hors du chariot en une seule fois.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Restriction SFC aux compagnons hors du chariot maintenue, absente du DS retenu.",
+    "review": "Restriction SFC aux compagnons hors du chariot maintenue, absente du DS retenu.",
+    "sfc_context": [
+      {
+        "id": 5725,
+        "text": "これを　使うと　MPを[LINE]回復することが　できるぞ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5726,
+        "text": "これを　使うと　馬車のそとにいる[LINE]仲間の体力を　いちどに　回復できるぞ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5727,
+        "text": "これを　身につけていると[LINE]かっこよさが　上がるぞ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5727,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これを　身につけていると[LINE]かっこよさが　上がるぞ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "A un éffet spécial lorsque porté.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0807.p",
+        "id": 82,
+        "ja": "@a@bこれを　装備していると\nかっこよさが　上がるぞ。\n@c0@",
+        "fr": "@a@bIl semblerait que %M0100%Xces objets améliorent%Ycet objet améliore%Z le style de la personne qui %M0100%Xles%Yle%Z porte.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Porter cet objet améliore le style.",
+    "adaptation_body": "Porter cet objet améliore le style.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5726,
+        "text": "これを　使うと　馬車のそとにいる[LINE]仲間の体力を　いちどに　回復できるぞ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5727,
+        "text": "これを　身につけていると[LINE]かっこよさが　上がるぞ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5728,
+        "text": "これを　身につけていると[LINE]特別な　効果が　ありそうだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5730,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "どんな効果が　あるのかは[LINE]使ってみるしかないだろう。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Peut ouvrir certaines portes.[WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Il faudra l'utiliser pour découvrir ses effets.",
+    "adaptation_body": "Il faudra l'utiliser pour découvrir ses effets.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5729,
+        "text": "これを　身につけていると[LINE]すばやさが　上がるぞ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5730,
+        "text": "どんな効果が　あるのかは[LINE]使ってみるしかないだろう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5731,
+        "text": "いろんな　ドアを　あけられそうだぞ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5749,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これは　体力を　回復してくれる[LINE]くすりのようだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Purge du poison.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0836.p",
+        "id": 342,
+        "ja": "@a@bなかまひとりの　ＨＰをかいふく\n@c0@",
+        "fr": "@a@bRestaure une petite partie des PV d'un\nmembre de l'équipe.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Ce remède semble rendre des PV.",
+    "adaptation_body": "Ce remède semble rendre des PV.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5748,
+        "text": "伝説の　4つの武具の　うちの[LINE]ひとつに　ちがいない。[WAIT][LINE]太陽のような　しるしが[LINE]きざまれている[WAIT][LINE]これを　装備していると[LINE]特別な　効果が　ありそうだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5749,
+        "text": "これは　体力を　回復してくれる[LINE]くすりのようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5750,
+        "text": "これは　身体の中から[LINE]毒を　消してくれる　くすりのようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5750,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これは　身体の中から[LINE]毒を　消してくれる　くすりのようだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Eloigne les petits monstres pour un temps bref.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0836.p",
+        "id": 344,
+        "ja": "@a@bなかまひとりの　どくをなおす\n@c0@",
+        "fr": "@a@bPeut guérir un membre de l'équipe\nempoisonné.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Ce remède semble éliminer le poison du corps.",
+    "adaptation_body": "Ce remède semble éliminer le poison du corps.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5749,
+        "text": "これは　体力を　回復してくれる[LINE]くすりのようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5750,
+        "text": "これは　身体の中から[LINE]毒を　消してくれる　くすりのようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5751,
+        "text": "これを　使うと　しばらくのあいだ[LINE]自分より　弱い魔物を　よせつけなく[LINE]することが　できるようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5755,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これを　使うと[LINE]ちからが　上がるようだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Accroït la vitesse.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0836.p",
+        "id": 362,
+        "ja": "@a@bなかまひとりの\nちからが　あがる\n@c0@",
+        "fr": "@a@bLe membre de l'équipe qui la mange voit sa\nForce augmenter.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Utiliser cet objet semble augmenter la force.",
+    "adaptation_body": "Utiliser cet objet semble augmenter la force.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5754,
+        "text": "戦いのとき　つかうと[LINE]時間を　もどせるぞ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5755,
+        "text": "これを　使うと[LINE]ちからが　上がるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5756,
+        "text": "これを　使うと[LINE]すばやさが　上がるようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5756,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これを　使うと[LINE]すばやさが　上がるようだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Accroït la sagesse.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0836.p",
+        "id": 364,
+        "ja": "@a@bなかまひとりの\nすばやさが　あがる\n@c0@",
+        "fr": "@a@bLe membre de l'équipe qui la mange voit\nson Agilité augmenter.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Utiliser cet objet semble augmenter l'agilité.",
+    "adaptation_body": "Utiliser cet objet semble augmenter l'agilité.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5755,
+        "text": "これを　使うと[LINE]ちからが　上がるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5756,
+        "text": "これを　使うと[LINE]すばやさが　上がるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5757,
+        "text": "これを　使うと[LINE]かしこさが　上がるようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5757,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これを　使うと[LINE]かしこさが　上がるようだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Accroït la défense.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0836.p",
+        "id": 366,
+        "ja": "@a@bなかまひとりの\nかしこさが　あがる\n@c0@",
+        "fr": "@a@bLe membre de l'équipe qui la mange voit sa\nSagesse augmenter.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Utiliser cet objet semble augmenter la sagesse.",
+    "adaptation_body": "Utiliser cet objet semble augmenter la sagesse.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5756,
+        "text": "これを　使うと[LINE]すばやさが　上がるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5757,
+        "text": "これを　使うと[LINE]かしこさが　上がるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5758,
+        "text": "これを　使うと[LINE]みのまもりが　上がるようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5758,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これを　使うと[LINE]みのまもりが　上がるようだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Augmente les PV maximums.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0836.p",
+        "id": 368,
+        "ja": "@a@bなかまひとりの\nみのまもりが　あがる\n@c0@",
+        "fr": "@a@bLe membre de l'équipe qui la mange voit\nsa Vitalité augmenter.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Utiliser cet objet semble augmenter la vitalité.",
+    "adaptation_body": "Utiliser cet objet semble augmenter la vitalité.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5757,
+        "text": "これを　使うと[LINE]かしこさが　上がるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5758,
+        "text": "これを　使うと[LINE]みのまもりが　上がるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5759,
+        "text": "これを　使うと[LINE]さいだいHPが　ふえるようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5761,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これを　使うと[LINE]かっこよさが　ふえるようだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Boire cette eau te feras sentir mieux.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0836.p",
+        "id": 374,
+        "ja": "@a@bなかまひとりの\nかっこよさが　あがる\n@c0@",
+        "fr": "@a@bLe membre de l'équipe qui la mange\nvoit son Style augmenter.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Utiliser cet objet semble améliorer le style.",
+    "adaptation_body": "Utiliser cet objet semble améliorer le style.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5760,
+        "text": "これを　使うと[LINE]さいだいMPが　ふえるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5761,
+        "text": "これを　使うと[LINE]かっこよさが　ふえるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5762,
+        "text": "この水を　飲むと[LINE]元気が　でてきそうだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5765,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "世界の　ようすが　書かれた[LINE]地図のようだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Roi de Reidock écrivit cette lettre pour te présenter au clan Gent.[WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Cette carte semble représenter le monde.",
+    "adaptation_body": "Cette carte semble représenter le monde.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5764,
+        "text": "かんむり職人　ビルテの[LINE]みごとな　作品だ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5765,
+        "text": "世界の　ようすが　書かれた[LINE]地図のようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5766,
+        "text": "レイドック王が　くれた[LINE]ゲント族への　紹介状だ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5767,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これに　乗れば　空をとべそうだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Utiliser ceci en mer attire les sirênes.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0836.p",
+        "id": 414,
+        "ja": "@a@bそらを　じゆうに　とびまわる\nペガサスを　のりこなす　たづな\n@c0@",
+        "fr": "@a@bCes rênes usées permettent de diriger\nPégase dans les cieux.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Cet objet semble permettre de voler dans le ciel.",
+    "adaptation_body": "Cet objet semble permettre de voler dans le ciel.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Vol libre du SFC, référence DS des rênes de Pégase ; aucun nom d’objet ajouté.",
+    "review": "Vol libre du SFC, référence DS des rênes de Pégase ; aucun nom d’objet ajouté.",
+    "sfc_context": [
+      {
+        "id": 5766,
+        "text": "レイドック王が　くれた[LINE]ゲント族への　紹介状だ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5767,
+        "text": "これに　乗れば　空をとべそうだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5768,
+        "text": "広い　海の上で　使うと[LINE]人魚を　よぶことが　できるようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5769,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "水門を　ひらくための　カギだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Mets pour la cérémonie d'invocation du monstre.[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0807.p",
+        "id": 118,
+        "ja": "@a@bこれを　もっていると\n水門を　あけることが　できるぞ。\n@c0@",
+        "fr": "@a@bComme son nom l'indique, cette clef permet d'ouvrir la porte d'une écluse.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Cette clef sert à ouvrir l'écluse.",
+    "adaptation_body": "Cette clef sert à ouvrir l'écluse.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5768,
+        "text": "広い　海の上で　使うと[LINE]人魚を　よぶことが　できるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5769,
+        "text": "水門を　ひらくための　カギだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5770,
+        "text": "なにやら　うす気味の悪い　そなえ物だ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5773,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "地図みずからが　世界のようすを[LINE]書きとめていく　ふしぎなものだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Peut ètre utilisé pour apprendre de nouvelles classes.[WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Cette carte mystérieuse se complète d'elle-même au fil des découvertes.",
+    "adaptation_body": "Cette carte mystérieuse se complète d'elle-même au fil des découvertes.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5772,
+        "text": "まほうのじゅうたんの　ようにも[LINE]見えるが　なぜか[LINE]とぶことが　できないようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5773,
+        "text": "地図みずからが　世界のようすを[LINE]書きとめていく　ふしぎなものだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5774,
+        "text": "これを　もっていると[LINE]新しい職業への道が[LINE]ひらかれそうだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5778,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　目をこらして[LINE]世界をながめた![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] vois le terrain envirronnant du dessus![WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0804.p",
+        "id": 9,
+        "ja": "@a@b%a000120は　水面を　目をこらして\nみつめた。\n@c0@",
+        "fr": "@a@b%0%a000120 plisse les yeux et observe la surface de l'eau.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 plisse les yeux et observe le monde !",
+    "adaptation_body": "%a090000 plisse les yeux et observe le monde !",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Le SFC observe le monde, non la surface de l’eau DS.",
+    "review": "Le SFC observe le monde, non la surface de l’eau DS.",
+    "sfc_context": [
+      {
+        "id": 5777,
+        "text": "[CODE C0]は　[CODE B2]を　となえた![END STRING AC]"
+      },
+      {
+        "id": 5778,
+        "text": "[CODE C0]は　目をこらして[LINE]世界をながめた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5779,
+        "text": "[CODE C0]の　まなざしは[LINE]たかの目となって　大空をかけぬけた![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5786,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　みをかくした![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] se rappelle une conversation.[WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 se cache !",
+    "adaptation_body": "%a090000 se cache !",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5785,
+        "text": "[CODE C0]は　足もとを　ほってみた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5786,
+        "text": "[CODE C0]は　みをかくした![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5787,
+        "text": "[CODE C0]は　人々の話を　思い出した。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5787,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　人々の話を　思い出した。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] se souviens d'une histoire.[WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 se rappelle les paroles entendues.",
+    "adaptation_body": "%a090000 se rappelle les paroles entendues.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5786,
+        "text": "[CODE C0]は　みをかくした![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5787,
+        "text": "[CODE C0]は　人々の話を　思い出した。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5788,
+        "text": "[CODE C0]は　人々の話を　思いかえした。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5788,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　人々の話を　思いかえした。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5789<0559>[CODE C0][LINE][WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 se remémore les paroles entendues.",
+    "adaptation_body": "%a090000 se remémore les paroles entendues.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5787,
+        "text": "[CODE C0]は　人々の話を　思い出した。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5788,
+        "text": "[CODE C0]は　人々の話を　思いかえした。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5789,
+        "text": "[CODE C0]は　人々の話を　ふかく[LINE]思いかえした。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5789,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　人々の話を　ふかく[LINE]思いかえした。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5790<0559>[CODE C0][LINE][WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 se concentre pour se remémorer les paroles entendues.",
+    "adaptation_body": "%a090000 se concentre pour se remémorer les paroles entendues.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5788,
+        "text": "[CODE C0]は　人々の話を　思いかえした。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5789,
+        "text": "[CODE C0]は　人々の話を　ふかく[LINE]思いかえした。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5790,
+        "text": "[CODE C0]は　これまでの言葉を[LINE]わすれようとした。それは......[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5790,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　これまでの言葉を[LINE]わすれようとした。それは......[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Pas assez de PM.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 essaie d'oublier les paroles entendues. Les voici...",
+    "adaptation_body": "%a090000 essaie d'oublier les paroles entendues. Les voici...",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5789,
+        "text": "[CODE C0]は　人々の話を　ふかく[LINE]思いかえした。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5790,
+        "text": "[CODE C0]は　これまでの言葉を[LINE]わすれようとした。それは......[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5791,
+        "text": "MPがたりないようだ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5792,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　移動中の[LINE]呪文を覚えていない。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] est mort et ne peut lancer de sorts.[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 104,
+        "ja": "@a@b%a000010は　移動中の\nじゅもんを　おぼえていない。\n@c0@",
+        "fr": "@a@b%0%a020010 n'a appris aucun sort ni aptitude pour d'autres situations que le combatⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 ne connaît aucun sort utilisable en voyage.",
+    "adaptation_body": "%a090000 ne connaît aucun sort utilisable en voyage.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5791,
+        "text": "MPがたりないようだ。[END STRING AC]"
+      },
+      {
+        "id": 5792,
+        "text": "[CODE C0]は　移動中の[LINE]呪文を覚えていない。[END STRING AC]"
+      },
+      {
+        "id": 5793,
+        "text": "[CODE C0]は　死んでいるので[LINE]呪文は　使えない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5793,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　死んでいるので[LINE]呪文は　使えない。[END STRING AC]",
+    "sfc_vf_secondaire": "5794<0559>[CODE C0][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 110,
+        "ja": "@a@b%a000010は　チカラつきているので\n%a000100を　使えない……。\n@c0@",
+        "fr": "@a@b%0%a020010 doit d'abord être %A0010%Xramené%Z%B0010%Xramenée%Z%C0010%X%Z à la vie pour utiliser %M0100%Xses%Y%G0100%Xson%Y%A0100%Xson%Z%B0100%Xsa%Z%C0100%X%Z%Z%Z %a000100.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 ne peut pas lancer de sort sans vie.",
+    "adaptation_body": "%a090000 ne peut pas lancer de sort sans vie.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5792,
+        "text": "[CODE C0]は　移動中の[LINE]呪文を覚えていない。[END STRING AC]"
+      },
+      {
+        "id": 5793,
+        "text": "[CODE C0]は　死んでいるので[LINE]呪文は　使えない。[END STRING AC]"
+      },
+      {
+        "id": 5794,
+        "text": "[CODE C0]は　マヒしているので[LINE]呪文は　使えない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5794,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　マヒしているので[LINE]呪文は　使えない。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE C0] est mort et ne peut utiliser [CODE B5].[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 110,
+        "ja": "@a@b%a000010は　チカラつきているので\n%a000100を　使えない……。\n@c0@",
+        "fr": "@a@b%0%a020010 doit d'abord être %A0010%Xramené%Z%B0010%Xramenée%Z%C0010%X%Z à la vie pour utiliser %M0100%Xses%Y%G0100%Xson%Y%A0100%Xson%Z%B0100%Xsa%Z%C0100%X%Z%Z%Z %a000100.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 ne peut pas lancer de sort en état de paralysie.",
+    "adaptation_body": "%a090000 ne peut pas lancer de sort en état de paralysie.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5793,
+        "text": "[CODE C0]は　死んでいるので[LINE]呪文は　使えない。[END STRING AC]"
+      },
+      {
+        "id": 5794,
+        "text": "[CODE C0]は　マヒしているので[LINE]呪文は　使えない。[END STRING AC]"
+      },
+      {
+        "id": 5795,
+        "text": "[CODE C0]は　死んでいるので[LINE][CODE B5]を[LINE]使えない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5805,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "チャモロが　いないので[LINE]そこには　とんでゆけない![END STRING AC]",
+    "sfc_vf_secondaire": "Le coffre rayonne bleu.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Sans Francis, impossible de s'envoler vers cet endroit !",
+    "adaptation_body": "Sans Francis, impossible de s'envoler vers cet endroit !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5804,
+        "text": "[CODE C0]は[LINE]天井に　頭をぶつけた![END STRING AC]"
+      },
+      {
+        "id": 5805,
+        "text": "チャモロが　いないので[LINE]そこには　とんでゆけない![END STRING AC]"
+      },
+      {
+        "id": 5806,
+        "text": "宝箱の中は　青く　光っている。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5816,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "せいすいの　こうりょくが　なくなった![END STRING AC]",
+    "sfc_vf_secondaire": "Le groupe de [CODE D3] n'est plus furtif.[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 346,
+        "ja": "@a@bせいすいの効力が　なくなった！\n@c0@",
+        "fr": "@a@bL'effet de la fiole d'eau sacrée se dissipe.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "L'effet de l'eau sacrée s'est dissipé !",
+    "adaptation_body": "L'effet de l'eau sacrée s'est dissipé !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5815,
+        "text": "トヘロスの　こうりょくが　なくなった![END STRING AC]"
+      },
+      {
+        "id": 5816,
+        "text": "せいすいの　こうりょくが　なくなった![END STRING AC]"
+      },
+      {
+        "id": 5817,
+        "text": "しのびあしの　こうりょくが　なくなった![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5818,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　目をこらして　世界をながめた![END STRING AC]",
+    "sfc_vf_secondaire": "5819<0559>[CODE C0][LINE][WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0804.p",
+        "id": 9,
+        "ja": "@a@b%a000120は　水面を　目をこらして\nみつめた。\n@c0@",
+        "fr": "@a@b%0%a000120 plisse les yeux et observe la surface de l'eau.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 plisse les yeux et observe le monde !",
+    "adaptation_body": "%a090000 plisse les yeux et observe le monde !",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Même observation que 5778, sans WAIT final.",
+    "review": "Même observation que 5778, sans WAIT final.",
+    "sfc_context": [
+      {
+        "id": 5817,
+        "text": "しのびあしの　こうりょくが　なくなった![END STRING AC]"
+      },
+      {
+        "id": 5818,
+        "text": "[CODE C0]は　目をこらして　世界をながめた![END STRING AC]"
+      },
+      {
+        "id": 5819,
+        "text": "[CODE C0]のまなざしは　たかの目となって[LINE]大空をかけぬけた![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5825,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　体を休ませ　ふかいねむりについた。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE C0] se réveille![END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 130,
+        "ja": "@a@b%a000010は　体をやすませ\nふかいねむりについた。\n@c0@",
+        "fr": "@a@b%0%a020010 ferme les yeux et s'endort profondément.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 se repose et sombre dans un profond sommeil.",
+    "adaptation_body": "%a090000 se repose et sombre dans un profond sommeil.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5824,
+        "text": "しかし　ここでは　いみがなかった![END STRING AC]"
+      },
+      {
+        "id": 5825,
+        "text": "[CODE C0]は　体を休ませ　ふかいねむりについた。[END STRING AC]"
+      },
+      {
+        "id": 5826,
+        "text": "[CODE C0]は　目をさました![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5827,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "ここは　[CODE B2]の[LINE][CODE BB]階のようだ。[END STRING AC]",
+    "sfc_vf_secondaire": "C'est [CODE B2], sous-sol [CODE BB].[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 337,
+        "ja": "@a@bここは\n%a001300のようだ。\n@c0@",
+        "fr": "@a@b%H0860%X%0%a000120%YL'équipe%Z se trouve %a001300.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Lieu - %a090002. Étage %a090001.",
+    "adaptation_body": "Lieu - %a090002. Étage %a090001.",
+    "native_bindings": {
+      "%a090001": 187,
+      "%a090002": 178
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Lieu B2 puis étage BB distincts du SFC ; aucun BB supprimé au profit du modèle DS.",
+    "review": "Lieu B2 puis étage BB distincts du SFC ; aucun BB supprimé au profit du modèle DS.",
+    "sfc_context": [
+      {
+        "id": 5826,
+        "text": "[CODE C0]は　目をさました![END STRING AC]"
+      },
+      {
+        "id": 5827,
+        "text": "ここは　[CODE B2]の[LINE][CODE BB]階のようだ。[END STRING AC]"
+      },
+      {
+        "id": 5828,
+        "text": "ここは　[CODE B2]の[LINE]地下[CODE BB]階のようだ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5828,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "ここは　[CODE B2]の[LINE]地下[CODE BB]階のようだ。[END STRING AC]",
+    "sfc_vf_secondaire": "Mais le sort n'a aucun sens ici![END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 337,
+        "ja": "@a@bここは\n%a001300のようだ。\n@c0@",
+        "fr": "@a@b%H0860%X%0%a000120%YL'équipe%Z se trouve %a001300.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Lieu - %a090002. Sous-sol %a090001.",
+    "adaptation_body": "Lieu - %a090002. Sous-sol %a090001.",
+    "native_bindings": {
+      "%a090001": 187,
+      "%a090002": 178
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Lieu B2 puis sous-sol BB, dans cet ordre natif.",
+    "review": "Lieu B2 puis sous-sol BB, dans cet ordre natif.",
+    "sfc_context": [
+      {
+        "id": 5827,
+        "text": "ここは　[CODE B2]の[LINE][CODE BB]階のようだ。[END STRING AC]"
+      },
+      {
+        "id": 5828,
+        "text": "ここは　[CODE B2]の[LINE]地下[CODE BB]階のようだ。[END STRING AC]"
+      },
+      {
+        "id": 5829,
+        "text": "しかし　ここでは[LINE]この呪文は　いみがなかった![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5829,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "しかし　ここでは[LINE]この呪文は　いみがなかった![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] sens qu'il reste [CODE BB] trésors.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Mais ce sort n'a aucun effet ici !",
+    "adaptation_body": "Mais ce sort n'a aucun effet ici !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5828,
+        "text": "ここは　[CODE B2]の[LINE]地下[CODE BB]階のようだ。[END STRING AC]"
+      },
+      {
+        "id": 5829,
+        "text": "しかし　ここでは[LINE]この呪文は　いみがなかった![END STRING AC]"
+      },
+      {
+        "id": 5830,
+        "text": "どうやら　このフロアには[LINE]あと　[CODE BB]個　たからのにおいがする。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5844,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "しかし　何も　思い出せなかった。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Mais tu ne te rappelles de rien.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Mais aucun souvenir ne revient.",
+    "adaptation_body": "Mais aucun souvenir ne revient.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5843,
+        "text": "しかし　ここでは　ほることができない![END STRING AC]"
+      },
+      {
+        "id": 5844,
+        "text": "しかし　何も　思い出せなかった。[END STRING AC]"
+      },
+      {
+        "id": 5845,
+        "text": "しかし　何も　おこらなかった。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5849,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "行ける場所を　1つもおぼえていません![END STRING AC]",
+    "sfc_vf_secondaire": "5849<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Aucune destination n'a encore été mémorisée !",
+    "adaptation_body": "Aucune destination n'a encore été mémorisée !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5848,
+        "text": "しかし　不思議なちからで　かきけされた![END STRING AC]"
+      },
+      {
+        "id": 5849,
+        "text": "行ける場所を　1つもおぼえていません![END STRING AC]"
+      },
+      {
+        "id": 5850,
+        "text": "しかし　ここでは　ハープの音色が[LINE]人魚たちに　とどかなかった。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5851,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "しかし　何も　思い出せなかった。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Mais tu ne te rappelles de rien.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Mais aucun souvenir ne revient.",
+    "adaptation_body": "Mais aucun souvenir ne revient.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5850,
+        "text": "しかし　ここでは　ハープの音色が[LINE]人魚たちに　とどかなかった。[END STRING AC]"
+      },
+      {
+        "id": 5851,
+        "text": "しかし　何も　思い出せなかった。[END STRING AC]"
+      },
+      {
+        "id": 5852,
+        "text": "[CODE C0]には　わすれられなかった![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5852,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]には　わすれられなかった![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE C0] n'a rien oublié![END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 ne parvient pas à oublier ces paroles !",
+    "adaptation_body": "%a090000 ne parvient pas à oublier ces paroles !",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5851,
+        "text": "しかし　何も　思い出せなかった。[END STRING AC]"
+      },
+      {
+        "id": 5852,
+        "text": "[CODE C0]には　わすれられなかった![END STRING AC]"
+      },
+      {
+        "id": 5853,
+        "text": "[CODE C0]は　今の言葉をわすれさった![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5853,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　今の言葉をわすれさった![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE C0] a oublié la derniêre conversation![END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 oublie les paroles entendues !",
+    "adaptation_body": "%a090000 oublie les paroles entendues !",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5852,
+        "text": "[CODE C0]には　わすれられなかった![END STRING AC]"
+      },
+      {
+        "id": 5853,
+        "text": "[CODE C0]は　今の言葉をわすれさった![END STRING AC]"
+      },
+      {
+        "id": 5854,
+        "text": "[CODE D2]さま　よ~く　聞きなされ。[LINE]ひとびとと　話されたあと[LINE]おぼえておきたいものが　あったら...[WAIT][LINE]その時は　青いボタンですじゃ。[LINE]さすれば　その言葉を　心に[LINE]きざみこむことが　できますぞ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5863,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE B5]を　[CODE C3]に入れた。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE B5] a été mis dans le [CODE C3].[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 32,
+        "ja": "@a@b%a000010は　%a000100を\n%a001400に入れた。\n@c0@",
+        "fr": "@a@b%0%a020010 met %a020100 dans le sac.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Rangement de %a090003 dans %a090004.",
+    "adaptation_body": "Rangement de %a090003 dans %a090004.",
+    "native_bindings": {
+      "%a090003": 181,
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Pas de porteur nommé en SFC ; B5 et sac C3 conservés, phrase nominale sans genre d’objet forcé.",
+    "review": "Pas de porteur nommé en SFC ; B5 et sac C3 conservés, phrase nominale sans genre d’objet forcé.",
+    "sfc_context": [
+      {
+        "id": 5862,
+        "text": "なんと![LINE][CODE B5]を　みつけた![END STRING AC]"
+      },
+      {
+        "id": 5863,
+        "text": "[CODE B5]を　[CODE C3]に入れた。[END STRING AC]"
+      },
+      {
+        "id": 5864,
+        "text": "[CODE C0]は[LINE][CODE BB]ゴールドを　手に入れた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5865,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "なんと　宝箱は[LINE][CODE B2]だった![END STRING AC]",
+    "sfc_vf_secondaire": "Mais le coffre est un [CODE B2]![END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Surprise ! Le coffre est en réalité %a090002 !",
+    "adaptation_body": "Surprise ! Le coffre est en réalité %a090002 !",
+    "native_bindings": {
+      "%a090002": 178
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5864,
+        "text": "[CODE C0]は[LINE][CODE BB]ゴールドを　手に入れた。[END STRING AC]"
+      },
+      {
+        "id": 5865,
+        "text": "なんと　宝箱は[LINE][CODE B2]だった![END STRING AC]"
+      },
+      {
+        "id": 5866,
+        "text": "[CODE C1]は[LINE][CODE B5]を　手に入れた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5873,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "なんと　ツボは[LINE][CODE B2]だった![END STRING AC]",
+    "sfc_vf_secondaire": "Ce pot est un [CODE B2]![END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0804.p",
+        "id": 38,
+        "ja": "@a@bしかし　ツボは\n%a000190　だった！\n@c0@",
+        "fr": "@a@bOh nonⓠ Cette jarre est en fait %a040190ⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Surprise ! Le pot est en réalité %a090002 !",
+    "adaptation_body": "Surprise ! Le pot est en réalité %a090002 !",
+    "native_bindings": {
+      "%a090002": 178
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5872,
+        "text": "[CODE C0]は　ツボの中を[LINE]のぞきこんだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5873,
+        "text": "なんと　ツボは[LINE][CODE B2]だった![END STRING AC]"
+      },
+      {
+        "id": 5874,
+        "text": "[CODE C0]は　立て札を　読んだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5874,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　立て札を　読んだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] lit le signe.[WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 lit le panneau.",
+    "adaptation_body": "%a090000 lit le panneau.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5873,
+        "text": "なんと　ツボは[LINE][CODE B2]だった![END STRING AC]"
+      },
+      {
+        "id": 5874,
+        "text": "[CODE C0]は　立て札を　読んだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5875,
+        "text": "[CODE C0]は　立て札を　読んだ。[WAIT][LINE]しかし　こっちは　うら側[LINE]書いてある文字が　読めない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5876,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "なんと　立て札から[LINE][CODE B2]が　あらわれた!![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Un [CODE B2] était derriêre le signe![END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0804.p",
+        "id": 41,
+        "ja": "@a@bなんと　井戸の中から\n%a000190が　あらわれた！！\n@c0@",
+        "fr": "@a@bOh-ohⓠ %0%a040190 remonte du fond du puitsⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Surprise ! %a090002 surgit du panneau !",
+    "adaptation_body": "Surprise ! %a090002 surgit du panneau !",
+    "native_bindings": {
+      "%a090002": 178
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Panneau SFC et non puits DS.",
+    "review": "Panneau SFC et non puits DS.",
+    "sfc_context": [
+      {
+        "id": 5875,
+        "text": "[CODE C0]は　立て札を　読んだ。[WAIT][LINE]しかし　こっちは　うら側[LINE]書いてある文字が　読めない。[END STRING AC]"
+      },
+      {
+        "id": 5876,
+        "text": "なんと　立て札から[LINE][CODE B2]が　あらわれた!![END STRING AC]"
+      },
+      {
+        "id": 5877,
+        "text": "[CODE C0]は　カベのらくがきをみた![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5879,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "なんと　カベから[LINE][CODE B2]が　あらわれた!![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Un [CODE B2] sort du mur![END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0804.p",
+        "id": 41,
+        "ja": "@a@bなんと　井戸の中から\n%a000190が　あらわれた！！\n@c0@",
+        "fr": "@a@bOh-ohⓠ %0%a040190 remonte du fond du puitsⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Surprise ! %a090002 surgit du mur !",
+    "adaptation_body": "Surprise ! %a090002 surgit du mur !",
+    "native_bindings": {
+      "%a090002": 178
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Mur SFC et non puits DS.",
+    "review": "Mur SFC et non puits DS.",
+    "sfc_context": [
+      {
+        "id": 5878,
+        "text": "[CODE C0]は　カベのはりがみをみた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5879,
+        "text": "なんと　カベから[LINE][CODE B2]が　あらわれた!![END STRING AC]"
+      },
+      {
+        "id": 5880,
+        "text": "[CODE C0]は　水面を　目をこらして[LINE]みつめた。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5884,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　船から　とび降り[LINE]水の中に　もぐって行った。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE C0] saute du bâteau et plonge dans l'eau.[WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 saute du bateau et plonge dans l'eau.",
+    "adaptation_body": "%a090000 saute du bateau et plonge dans l'eau.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5883,
+        "text": "[CODE C0]は　海の底を　目をこらして[LINE]みつめた。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5884,
+        "text": "[CODE C0]は　船から　とび降り[LINE]水の中に　もぐって行った。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5885,
+        "text": "[CODE C0]は　馬車から[LINE]身をのりだして　大地をながめた。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5888,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　本だなを見た。[WAIT][LINE]なんと　うら側だった![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE C0] examine l'étagêre.[WAIT][LINE]Mais ne voit que le côté arriêre.[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0805.p",
+        "id": 11,
+        "ja": "@a@bなんと　うら側だった！\n@c0@",
+        "fr": "@a@bOhⓠ %A0110%XIl%Z%B0110%XElle%Z regardait du mauvais côtéⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 examine la bibliothèque. Mais c'est l'arrière du meuble !",
+    "adaptation_body": "%a090000 examine la bibliothèque. Mais c'est l'arrière du meuble !",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5887,
+        "text": "[CODE C0]は　本だなを調べた。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5888,
+        "text": "[CODE C0]は　本だなを見た。[WAIT][LINE]なんと　うら側だった![END STRING AC]"
+      },
+      {
+        "id": 5889,
+        "text": "とくに　かわった本は　ないようだ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5894,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "なんと　足もとから[LINE][CODE B2]が　あらわれた!![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Un [CODE B2] apparait du sol environnant![END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0804.p",
+        "id": 41,
+        "ja": "@a@bなんと　井戸の中から\n%a000190が　あらわれた！！\n@c0@",
+        "fr": "@a@bOh-ohⓠ %0%a040190 remonte du fond du puitsⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Surprise ! %a090002 surgit du sol !",
+    "adaptation_body": "Surprise ! %a090002 surgit du sol !",
+    "native_bindings": {
+      "%a090002": 178
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Sol SFC et non puits DS.",
+    "review": "Sol SFC et non puits DS.",
+    "sfc_context": [
+      {
+        "id": 5893,
+        "text": "[CODE C0]は　足もとを　調べた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5894,
+        "text": "なんと　足もとから[LINE][CODE B2]が　あらわれた!![END STRING AC]"
+      },
+      {
+        "id": 5895,
+        "text": "[CODE C0]は　泉の水を飲んだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5895,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　泉の水を飲んだ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE C0] boit l'eau de la source.[WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 boit l'eau de la source.",
+    "adaptation_body": "%a090000 boit l'eau de la source.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5894,
+        "text": "なんと　足もとから[LINE][CODE B2]が　あらわれた!![END STRING AC]"
+      },
+      {
+        "id": 5895,
+        "text": "[CODE C0]は　泉の水を飲んだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5896,
+        "text": "[CODE C0]の身体に[LINE]チカラが　わいてきた![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5896,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]の身体に[LINE]チカラが　わいてきた![END STRING AC]",
+    "sfc_vf_secondaire": "5896<0559>[CODE C0][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 sent ses forces revenir !",
+    "adaptation_body": "%a090000 sent ses forces revenir !",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5895,
+        "text": "[CODE C0]は　泉の水を飲んだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5896,
+        "text": "[CODE C0]の身体に[LINE]チカラが　わいてきた![END STRING AC]"
+      },
+      {
+        "id": 5897,
+        "text": "[CODE C0]は　井戸のなかを[LINE]のぞきこんだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5903,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "その方向には　トビラがない![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Il n'y a pas de porte ici![END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Il n'y a pas de porte dans cette direction !",
+    "adaptation_body": "Il n'y a pas de porte dans cette direction !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5902,
+        "text": "カギが　あえば[LINE]もっているだけで　扉はひらくぞ![END STRING AC]"
+      },
+      {
+        "id": 5903,
+        "text": "その方向には　トビラがない![END STRING AC]"
+      },
+      {
+        "id": 5904,
+        "text": "カギを　持っていない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5904,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "カギを　持っていない![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Tu n'as pas de clés![END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Vous n'avez pas de clef !",
+    "adaptation_body": "Vous n'avez pas de clef !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5903,
+        "text": "その方向には　トビラがない![END STRING AC]"
+      },
+      {
+        "id": 5904,
+        "text": "カギを　持っていない![END STRING AC]"
+      },
+      {
+        "id": 5905,
+        "text": "カギが　合わない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5905,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "カギが　合わない![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>La clé n'y va pas![END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "La clef ne convient pas !",
+    "adaptation_body": "La clef ne convient pas !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5904,
+        "text": "カギを　持っていない![END STRING AC]"
+      },
+      {
+        "id": 5905,
+        "text": "カギが　合わない![END STRING AC]"
+      },
+      {
+        "id": 5906,
+        "text": "サビついていて　開かない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5906,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "サビついていて　開かない![END STRING AC]",
+    "sfc_vf_secondaire": "5906<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "La rouille empêche l'ouverture !",
+    "adaptation_body": "La rouille empêche l'ouverture !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5905,
+        "text": "カギが　合わない![END STRING AC]"
+      },
+      {
+        "id": 5906,
+        "text": "サビついていて　開かない![END STRING AC]"
+      },
+      {
+        "id": 5907,
+        "text": "中から　カギがかかっているらしい。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5907,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "中から　カギがかかっているらしい。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Ca semble vérrouillé de l'intérieur.[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0006.p",
+        "id": 800,
+        "ja": "@a@bドアには　カギが　かかっている！\n@c0@",
+        "fr": "@a@bLa porte est verrouillée.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "La porte semble verrouillée de l'intérieur.",
+    "adaptation_body": "La porte semble verrouillée de l'intérieur.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5906,
+        "text": "サビついていて　開かない![END STRING AC]"
+      },
+      {
+        "id": 5907,
+        "text": "中から　カギがかかっているらしい。[END STRING AC]"
+      },
+      {
+        "id": 5908,
+        "text": "水門は　ビクともしない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5908,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "水門は　ビクともしない![END STRING AC]",
+    "sfc_vf_secondaire": "5908<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "L'écluse ne bouge pas d'un pouce !",
+    "adaptation_body": "L'écluse ne bouge pas d'un pouce !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5907,
+        "text": "中から　カギがかかっているらしい。[END STRING AC]"
+      },
+      {
+        "id": 5908,
+        "text": "水門は　ビクともしない![END STRING AC]"
+      },
+      {
+        "id": 5909,
+        "text": "トビラには　カギが　かかっている。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5918,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "持ち物が　いっぱいで[LINE]わたせない。[END STRING AC]",
+    "sfc_vf_secondaire": "Il n'y a pas assez de place.[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0012.p",
+        "id": 573,
+        "ja": "@a@bしかし　%a000140たちは\n持ちものが　いっぱいだった！\n@c0@",
+        "fr": "@a@bMais %a000140 ne peut rien transporter d'autre.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "L'inventaire est plein. Impossible de donner cet objet.",
+    "adaptation_body": "L'inventaire est plein. Impossible de donner cet objet.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5917,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C1]の　もちものから　取り出し[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5918,
+        "text": "持ち物が　いっぱいで[LINE]わたせない。[END STRING AC]"
+      },
+      {
+        "id": 5919,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]どうぐぶくろに　いれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5920,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は[LINE]どうぐぶくろを　もっていない。[END STRING AC]",
+    "sfc_vf_secondaire": "5920<0559>[CODE C0][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 n'a pas de sac à objets.",
+    "adaptation_body": "%a090000 n'a pas de sac à objets.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5919,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]どうぐぶくろに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5920,
+        "text": "[CODE C0]は[LINE]どうぐぶくろを　もっていない。[END STRING AC]"
+      },
+      {
+        "id": 5921,
+        "text": "[CODE C0]は　どうぐぶくろから[LINE][CODE B5]を　だした。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5925,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　道具を[LINE]持っていない。[END STRING AC]",
+    "sfc_vf_secondaire": "5925<0559>[CODE C0][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 53,
+        "ja": "@a@b%a000010は　どうぐを　もっていない。\n@c0@",
+        "fr": "@a@b%0%a020010 ne possède ni objet ni équipement.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 ne porte aucun objet.",
+    "adaptation_body": "%a090000 ne porte aucun objet.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5924,
+        "text": "[CODE D3]は　どうぐぶくろから[LINE][CODE B5]を　取り出し[LINE][CODE C0]の　もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5925,
+        "text": "[CODE C0]は　道具を[LINE]持っていない。[END STRING AC]"
+      },
+      {
+        "id": 5926,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]道具として　使ってみた。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5930,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　世界地図を　ひろげた。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] déplie la Carte Mondiale.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 déplie la carte du monde.",
+    "adaptation_body": "%a090000 déplie la carte du monde.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5929,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![END STRING AC]"
+      },
+      {
+        "id": 5930,
+        "text": "[CODE C0]は　世界地図を　ひろげた。[END STRING AC]"
+      },
+      {
+        "id": 5931,
+        "text": "[CODE C0]は　ふしぎな地図を[LINE]ひろげた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5931,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]は　ふしぎな地図を[LINE]ひろげた。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] déplie la Carte Magique.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090000 déplie la carte mystérieuse.",
+    "adaptation_body": "%a090000 déplie la carte mystérieuse.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5930,
+        "text": "[CODE C0]は　世界地図を　ひろげた。[END STRING AC]"
+      },
+      {
+        "id": 5931,
+        "text": "[CODE C0]は　ふしぎな地図を[LINE]ひろげた。[END STRING AC]"
+      },
+      {
+        "id": 5932,
+        "text": "[CODE C0]は[LINE][CODE B5]を　ふりまいた![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5940,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]の　ちからが[LINE][CODE BB]あがった![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>La force de [CODE C0] augmente de [CODE BB]![END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 331,
+        "ja": "@a@b%a000180の　%a000230が\n%a000820あがった！\n@c0@",
+        "fr": "@a@b%0%a020230 %G0180%Xd'%Yde %Z%a000180 augmente de %a000820ⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 - la force augmente de %a090001 !",
+    "adaptation_body": "%a090000 - la force augmente de %a090001 !",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 187
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Force SFC et quantité BB ; ne pas reprendre Style ni constante 5. Statistique DS MENULIST relue.",
+    "review": "Force SFC et quantité BB ; ne pas reprendre Style ni constante 5. Statistique DS MENULIST relue.",
+    "sfc_context": [
+      {
+        "id": 5939,
+        "text": "ゆびわは　音もなく　くずれ去った。[END STRING AE]"
+      },
+      {
+        "id": 5940,
+        "text": "[CODE C0]の　ちからが[LINE][CODE BB]あがった![END STRING AC]"
+      },
+      {
+        "id": 5941,
+        "text": "[CODE C0]の　すばやさが[LINE][CODE BB]あがった![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5941,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]の　すばやさが[LINE][CODE BB]あがった![END STRING AC]",
+    "sfc_vf_secondaire": "L'agilité de [CODE C0] augmente de [CODE BB]![END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 331,
+        "ja": "@a@b%a000180の　%a000230が\n%a000820あがった！\n@c0@",
+        "fr": "@a@b%0%a020230 %G0180%Xd'%Yde %Z%a000180 augmente de %a000820ⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 - l'agilité augmente de %a090001 !",
+    "adaptation_body": "%a090000 - l'agilité augmente de %a090001 !",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 187
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Agilité SFC et quantité BB ; ne pas reprendre Style ni constante 5. Statistique DS MENULIST relue.",
+    "review": "Agilité SFC et quantité BB ; ne pas reprendre Style ni constante 5. Statistique DS MENULIST relue.",
+    "sfc_context": [
+      {
+        "id": 5940,
+        "text": "[CODE C0]の　ちからが[LINE][CODE BB]あがった![END STRING AC]"
+      },
+      {
+        "id": 5941,
+        "text": "[CODE C0]の　すばやさが[LINE][CODE BB]あがった![END STRING AC]"
+      },
+      {
+        "id": 5942,
+        "text": "[CODE C0]の　かしこさが[LINE][CODE BB]あがった![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5942,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]の　かしこさが[LINE][CODE BB]あがった![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>La sagesse de [CODE C0] augmente de [CODE BB]![END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 331,
+        "ja": "@a@b%a000180の　%a000230が\n%a000820あがった！\n@c0@",
+        "fr": "@a@b%0%a020230 %G0180%Xd'%Yde %Z%a000180 augmente de %a000820ⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 - la sagesse augmente de %a090001 !",
+    "adaptation_body": "%a090000 - la sagesse augmente de %a090001 !",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 187
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Sagesse SFC et quantité BB ; ne pas reprendre Style ni constante 5. Statistique DS MENULIST relue.",
+    "review": "Sagesse SFC et quantité BB ; ne pas reprendre Style ni constante 5. Statistique DS MENULIST relue.",
+    "sfc_context": [
+      {
+        "id": 5941,
+        "text": "[CODE C0]の　すばやさが[LINE][CODE BB]あがった![END STRING AC]"
+      },
+      {
+        "id": 5942,
+        "text": "[CODE C0]の　かしこさが[LINE][CODE BB]あがった![END STRING AC]"
+      },
+      {
+        "id": 5943,
+        "text": "[CODE C0]の　みのまもりが[LINE][CODE BB]あがった![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5943,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]の　みのまもりが[LINE][CODE BB]あがった![END STRING AC]",
+    "sfc_vf_secondaire": "La défense de [CODE C0] augmente de [CODE BB]![END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 331,
+        "ja": "@a@b%a000180の　%a000230が\n%a000820あがった！\n@c0@",
+        "fr": "@a@b%0%a020230 %G0180%Xd'%Yde %Z%a000180 augmente de %a000820ⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090000 - la vitalité augmente de %a090001 !",
+    "adaptation_body": "%a090000 - la vitalité augmente de %a090001 !",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 187
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Vitalité SFC et quantité BB ; ne pas reprendre Style ni constante 5. Statistique DS MENULIST relue.",
+    "review": "Vitalité SFC et quantité BB ; ne pas reprendre Style ni constante 5. Statistique DS MENULIST relue.",
+    "sfc_context": [
+      {
+        "id": 5942,
+        "text": "[CODE C0]の　かしこさが[LINE][CODE BB]あがった![END STRING AC]"
+      },
+      {
+        "id": 5943,
+        "text": "[CODE C0]の　みのまもりが[LINE][CODE BB]あがった![END STRING AC]"
+      },
+      {
+        "id": 5944,
+        "text": "[CODE C0]の　さいだいHPが[LINE][CODE BB]あがった![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5948,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "今　どこに　いるのか　わからない。[LINE]どうやら　ここは　地図に[LINE]のっていない所のようだ......。[END STRING AC]",
+    "sfc_vf_secondaire": "Etrange. Tu n'apparais nulle part sur cette carte…[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Impossible de savoir où vous êtes. Cet endroit ne semble pas figurer sur la carte...",
+    "adaptation_body": "Impossible de savoir où vous êtes. Cet endroit ne semble pas figurer sur la carte...",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5947,
+        "text": "とても　よくできた　木ぼり細工と[LINE]きぬおりものだ。[END STRING AC]"
+      },
+      {
+        "id": 5948,
+        "text": "今　どこに　いるのか　わからない。[LINE]どうやら　ここは　地図に[LINE]のっていない所のようだ......。[END STRING AC]"
+      },
+      {
+        "id": 5949,
+        "text": "地図を持っていれば[LINE]このボタンで　見ることができます。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5949,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "地図を持っていれば[LINE]このボタンで　見ることができます。[END STRING AC]",
+    "sfc_vf_secondaire": "Si tu avais une carte, ce boutton te permettrait de la regarder.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Si vous avez une carte, ce bouton permet de la consulter.",
+    "adaptation_body": "Si vous avez une carte, ce bouton permet de la consulter.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5948,
+        "text": "今　どこに　いるのか　わからない。[LINE]どうやら　ここは　地図に[LINE]のっていない所のようだ......。[END STRING AC]"
+      },
+      {
+        "id": 5949,
+        "text": "地図を持っていれば[LINE]このボタンで　見ることができます。[END STRING AC]"
+      },
+      {
+        "id": 5950,
+        "text": "ここでは　ひろげられない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5951,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "まほうのじゅうたんは[LINE]すでに　つかっています。[END STRING AC]",
+    "sfc_vf_secondaire": "Tu utilises déjà le tapis magique.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Le tapis volant est déjà en cours d'utilisation.",
+    "adaptation_body": "Le tapis volant est déjà en cours d'utilisation.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5950,
+        "text": "ここでは　ひろげられない![END STRING AC]"
+      },
+      {
+        "id": 5951,
+        "text": "まほうのじゅうたんは[LINE]すでに　つかっています。[END STRING AC]"
+      },
+      {
+        "id": 5952,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]ひろげた![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5998,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "ここでは　ならびかえが　できない。[END STRING AC]",
+    "sfc_vf_secondaire": "5998<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Impossible de modifier l'ordre du groupe ici.",
+    "adaptation_body": "Impossible de modifier l'ordre du groupe ici.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5997,
+        "text": "ならびかえを　する仲間が　いない。[END STRING AC]"
+      },
+      {
+        "id": 5998,
+        "text": "ここでは　ならびかえが　できない。[END STRING AC]"
+      },
+      {
+        "id": 5999,
+        "text": "[CODE C0]だけでは　どうしていいのか[LINE]どこにいっていいのか　わからない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5999,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE C0]だけでは　どうしていいのか[LINE]どこにいっていいのか　わからない![END STRING AC]",
+    "sfc_vf_secondaire": "5999<0559>[CODE C0][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Sans aide, %a090000 ne sait ni quoi faire ni où aller !",
+    "adaptation_body": "Sans aide, %a090000 ne sait ni quoi faire ni où aller !",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5998,
+        "text": "ここでは　ならびかえが　できない。[END STRING AC]"
+      },
+      {
+        "id": 5999,
+        "text": "[CODE C0]だけでは　どうしていいのか[LINE]どこにいっていいのか　わからない![END STRING AC]"
+      },
+      {
+        "id": 6000,
+        "text": "しかし　[CODE C1]は　死んでいる。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6000,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "しかし　[CODE C1]は　死んでいる。[END STRING AC]",
+    "sfc_vf_secondaire": "6000<0559>[CODE C1][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Mais %a090005 n'est plus en vie.",
+    "adaptation_body": "Mais %a090005 n'est plus en vie.",
+    "native_bindings": {
+      "%a090005": 193
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 5999,
+        "text": "[CODE C0]だけでは　どうしていいのか[LINE]どこにいっていいのか　わからない![END STRING AC]"
+      },
+      {
+        "id": 6000,
+        "text": "しかし　[CODE C1]は　死んでいる。[END STRING AC]"
+      },
+      {
+        "id": 6001,
+        "text": "おきのどくですが[LINE]ぼうけんのしょ1は[LINE]きえてしまいました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6001,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "おきのどくですが[LINE]ぼうけんのしょ1は[LINE]きえてしまいました。[END STRING AC]",
+    "sfc_vf_secondaire": "6001<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Hélas, le Journal 1 a été effacé.",
+    "adaptation_body": "Hélas, le Journal 1 a été effacé.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6000,
+        "text": "しかし　[CODE C1]は　死んでいる。[END STRING AC]"
+      },
+      {
+        "id": 6001,
+        "text": "おきのどくですが[LINE]ぼうけんのしょ1は[LINE]きえてしまいました。[END STRING AC]"
+      },
+      {
+        "id": 6002,
+        "text": "おきのどくですが[LINE]ぼうけんのしょ2は[LINE]きえてしまいました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6002,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "おきのどくですが[LINE]ぼうけんのしょ2は[LINE]きえてしまいました。[END STRING AC]",
+    "sfc_vf_secondaire": "6002<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Hélas, le Journal 2 a été effacé.",
+    "adaptation_body": "Hélas, le Journal 2 a été effacé.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6001,
+        "text": "おきのどくですが[LINE]ぼうけんのしょ1は[LINE]きえてしまいました。[END STRING AC]"
+      },
+      {
+        "id": 6002,
+        "text": "おきのどくですが[LINE]ぼうけんのしょ2は[LINE]きえてしまいました。[END STRING AC]"
+      },
+      {
+        "id": 6003,
+        "text": "おきのどくですが[LINE]ぼうけんのしょ3は[LINE]きえてしまいました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6003,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "おきのどくですが[LINE]ぼうけんのしょ3は[LINE]きえてしまいました。[END STRING AC]",
+    "sfc_vf_secondaire": "6003<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Hélas, le Journal 3 a été effacé.",
+    "adaptation_body": "Hélas, le Journal 3 a été effacé.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6002,
+        "text": "おきのどくですが[LINE]ぼうけんのしょ2は[LINE]きえてしまいました。[END STRING AC]"
+      },
+      {
+        "id": 6003,
+        "text": "おきのどくですが[LINE]ぼうけんのしょ3は[LINE]きえてしまいました。[END STRING AC]"
+      },
+      {
+        "id": 6004,
+        "text": "ぼうけんのしょ[CODE BB]を[LINE]消してもいいですか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6004,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "ぼうけんのしょ[CODE BB]を[LINE]消してもいいですか?[END STRING AC]",
+    "sfc_vf_secondaire": "Veux-tu vraiment éffacer le journal [CODE BB]?[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0833.p",
+        "id": 22,
+        "ja": "@a@b%a000660：%a000090\n　　　　%a000240　を\n消してもいいですか？\n@c0@",
+        "fr": "@a@bVoulez-vous vraiment effacer\nⓥ%a000660ⓢ %a000090 %a000240ⓦⓡ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Voulez-vous effacer le Journal %a090001 ?",
+    "adaptation_body": "Voulez-vous effacer le Journal %a090001 ?",
+    "native_bindings": {
+      "%a090001": 187
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6003,
+        "text": "おきのどくですが[LINE]ぼうけんのしょ3は[LINE]きえてしまいました。[END STRING AC]"
+      },
+      {
+        "id": 6004,
+        "text": "ぼうけんのしょ[CODE BB]を[LINE]消してもいいですか?[END STRING AC]"
+      },
+      {
+        "id": 6005,
+        "text": "ぼうけんのしょ[CODE BB]を[LINE]消しました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6005,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "ぼうけんのしょ[CODE BB]を[LINE]消しました。[END STRING AC]",
+    "sfc_vf_secondaire": "Journal [CODE BB] éffacé.[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0833.p",
+        "id": 30,
+        "ja": "@a@b冒険の書を　消しました。\n@c0@",
+        "fr": "@a@bJournal supprimé.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Le Journal %a090001 a été effacé.",
+    "adaptation_body": "Le Journal %a090001 a été effacé.",
+    "native_bindings": {
+      "%a090001": 187
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6004,
+        "text": "ぼうけんのしょ[CODE BB]を[LINE]消してもいいですか?[END STRING AC]"
+      },
+      {
+        "id": 6005,
+        "text": "ぼうけんのしょ[CODE BB]を[LINE]消しました。[END STRING AC]"
+      },
+      {
+        "id": 6006,
+        "text": "今　どこに　いるのか　わからない。[CODE D6][LINE]どうやら　ここは　地図に[LINE]のっていない所のようだ......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6007,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE D4]その方向には　誰もいない。[END STRING AC]",
+    "sfc_vf_secondaire": "Il n'y a personne dans cette direction.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Il n'y a personne dans cette direction.",
+    "adaptation_body": "Il n'y a personne dans cette direction.",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6006,
+        "text": "今　どこに　いるのか　わからない。[CODE D6][LINE]どうやら　ここは　地図に[LINE]のっていない所のようだ......。[END STRING AC]"
+      },
+      {
+        "id": 6007,
+        "text": "[CODE D4]その方向には　誰もいない。[END STRING AC]"
+      },
+      {
+        "id": 6008,
+        "text": "[CODE D4]ここでは　降りられない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6011,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE D2]は　今の言葉を[LINE]ふかく心に　きざみこんだ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D2] a mémorisé la conversation.[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090006 grave ces paroles au plus profond de son coeur.",
+    "adaptation_body": "%a090006 grave ces paroles au plus profond de son coeur.",
+    "native_bindings": {
+      "%a090006": 210
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6010,
+        "text": "[CODE D4]ここでは　浮上できない![LINE]うえに　なにか　あるようだ......。[END STRING AC]"
+      },
+      {
+        "id": 6011,
+        "text": "[CODE D2]は　今の言葉を[LINE]ふかく心に　きざみこんだ。[END STRING AC]"
+      },
+      {
+        "id": 6012,
+        "text": "このままでは　動けない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6012,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "このままでは　動けない![END STRING AC]",
+    "sfc_vf_secondaire": "6012<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Impossible de se déplacer dans cet état !",
+    "adaptation_body": "Impossible de se déplacer dans cet état !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6011,
+        "text": "[CODE D2]は　今の言葉を[LINE]ふかく心に　きざみこんだ。[END STRING AC]"
+      },
+      {
+        "id": 6012,
+        "text": "このままでは　動けない![END STRING AC]"
+      },
+      {
+        "id": 6013,
+        "text": "このままでは　話せない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6013,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "このままでは　話せない![END STRING AC]",
+    "sfc_vf_secondaire": "6013<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Impossible de parler dans cet état !",
+    "adaptation_body": "Impossible de parler dans cet état !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6012,
+        "text": "このままでは　動けない![END STRING AC]"
+      },
+      {
+        "id": 6013,
+        "text": "このままでは　話せない![END STRING AC]"
+      },
+      {
+        "id": 6014,
+        "text": "このままでは　呪文が使えない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6014,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "このままでは　呪文が使えない![END STRING AC]",
+    "sfc_vf_secondaire": "6014<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Impossible de lancer un sort dans cet état !",
+    "adaptation_body": "Impossible de lancer un sort dans cet état !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6013,
+        "text": "このままでは　話せない![END STRING AC]"
+      },
+      {
+        "id": 6014,
+        "text": "このままでは　呪文が使えない![END STRING AC]"
+      },
+      {
+        "id": 6015,
+        "text": "このままでは　調べられない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6015,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "このままでは　調べられない![END STRING AC]",
+    "sfc_vf_secondaire": "6015<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Impossible d'examiner les lieux dans cet état !",
+    "adaptation_body": "Impossible d'examiner les lieux dans cet état !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6014,
+        "text": "このままでは　呪文が使えない![END STRING AC]"
+      },
+      {
+        "id": 6015,
+        "text": "このままでは　調べられない![END STRING AC]"
+      },
+      {
+        "id": 6016,
+        "text": "このままでは　道具が使えない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6016,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "このままでは　道具が使えない![END STRING AC]",
+    "sfc_vf_secondaire": "6016<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Impossible d'utiliser un objet dans cet état !",
+    "adaptation_body": "Impossible d'utiliser un objet dans cet état !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6015,
+        "text": "このままでは　調べられない![END STRING AC]"
+      },
+      {
+        "id": 6016,
+        "text": "このままでは　道具が使えない![END STRING AC]"
+      },
+      {
+        "id": 6017,
+        "text": "これは　???　のようだ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6017,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これは　???　のようだ![END STRING AC]",
+    "sfc_vf_secondaire": "6017<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Cela ressemble à ??? !",
+    "adaptation_body": "Cela ressemble à ??? !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6016,
+        "text": "このままでは　道具が使えない![END STRING AC]"
+      },
+      {
+        "id": 6017,
+        "text": "これは　???　のようだ![END STRING AC]"
+      },
+      {
+        "id": 6018,
+        "text": "これは　さびている　つるぎのようだ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6018,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "これは　さびている　つるぎのようだ![END STRING AC]",
+    "sfc_vf_secondaire": "6018<0559>[END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Cela ressemble à une épée rouillée !",
+    "adaptation_body": "Cela ressemble à une épée rouillée !",
+    "native_bindings": {},
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6017,
+        "text": "これは　???　のようだ![END STRING AC]"
+      },
+      {
+        "id": 6018,
+        "text": "これは　さびている　つるぎのようだ![END STRING AC]"
+      },
+      {
+        "id": 6019,
+        "text": "[CODE DE]ですね!。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6225,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]じゃあ　その　[CODE C3]　の中に[LINE]入れておくぜ![WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Je vais le mettre dans le [CODE C3].[WAIT][CODE D5][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0811.p",
+        "id": 14,
+        "ja": "@a@b＊「じゃあ　その　%a001400に\n\t入れておくぜ！\n@c0@",
+        "fr": "@a@b*ⓢ Et hop, dans le sacⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Je range tout ça dans %a090004 !",
+    "adaptation_body": "Je range tout ça dans %a090004 !",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6224,
+        "text": "[CODE DE]ほかの人が　持つかね?[END STRING AC]"
+      },
+      {
+        "id": 6225,
+        "text": "[CODE DE]じゃあ　その　[CODE C3]　の中に[LINE]入れておくぜ![WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6226,
+        "text": "[CODE DE][CODE B3]は　これを[LINE]そうびできないが[LINE]それでも　いいかね?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6234,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]おや?　その[CODE C3]には[LINE]なんにも　はいっていないぜ![WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6234<0559>[CODE C3][LINE][WAIT][CODE D5][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0811.p",
+        "id": 45,
+        "ja": "@a@b＊「ん？　その　%a001400には\n\t何も　入っていないようだぞ。\n@c0@",
+        "fr": "@a@b*ⓢ Mais votre sac est videⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Mais %a090004 ne contient rien !",
+    "adaptation_body": "Mais %a090004 ne contient rien !",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6233,
+        "text": "[CODE DE]おや?　[CODE B3]さんは[LINE]なんにも　持っていないぜ![WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6234,
+        "text": "[CODE DE]おや?　その[CODE C3]には[LINE]なんにも　はいっていないぜ![WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6235,
+        "text": "[CODE DE]どれを　売るんだい?[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6252,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]では　その　[CODE C3]の中に[LINE]お入れしますね。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6252<0559>[CODE C3][LINE][WAIT][CODE D5][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0810.p",
+        "id": 14,
+        "ja": "@a@b＊「では　その　%a001400の中に\n\t入れておきますね。\n@c0@",
+        "fr": "@a@b*ⓢ Eh bien, il y a toujours de la place dans votre sacⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Je vais ranger cela dans %a090004.",
+    "adaptation_body": "Je vais ranger cela dans %a090004.",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6251,
+        "text": "[CODE DE]ほかの人が　持ちますか?[END STRING AC]"
+      },
+      {
+        "id": 6252,
+        "text": "[CODE DE]では　その　[CODE C3]の中に[LINE]お入れしますね。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6253,
+        "text": "[CODE DE][CODE B3]さまは　これを[LINE]そうび　できませんが[LINE]よろしいですか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6260,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]しかし　[CODE C3]の中は[LINE]からっぽで　ございますが。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6260<0559>[CODE C3][LINE][WAIT][CODE D5][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Mais %a090004 est vide.",
+    "adaptation_body": "Mais %a090004 est vide.",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6259,
+        "text": "[CODE DE]しかし　[CODE B3]さまは[LINE]なにも　持っていませんが。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6260,
+        "text": "[CODE DE]しかし　[CODE C3]の中は[LINE]からっぽで　ございますが。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6261,
+        "text": "[CODE DE]どの品物を[LINE]お売りいただけますか?[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6278,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]では　その　[CODE C3]の中に[LINE]入れておきますね。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Le mettre dans le sac?[WAIT][CODE D5][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0810.p",
+        "id": 14,
+        "ja": "@a@b＊「では　その　%a001400の中に\n\t入れておきますね。\n@c0@",
+        "fr": "@a@b*ⓢ Eh bien, il y a toujours de la place dans votre sacⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Je vais ranger cela dans %a090004.",
+    "adaptation_body": "Je vais ranger cela dans %a090004.",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6277,
+        "text": "[CODE DE]ほかの人が　持ちますか?[END STRING AC]"
+      },
+      {
+        "id": 6278,
+        "text": "[CODE DE]では　その　[CODE C3]の中に[LINE]入れておきますね。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6279,
+        "text": "[CODE DE]おや?　[CODE B3]さんは[LINE]これを　そうびできませんが[LINE]それでも　よろしいですか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6286,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]え?　その[CODE C3]の中は[LINE]からっぽ　みたいですよ。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DE]<0559>Il n'y a rien dans le [CODE C3].[WAIT][CODE D5][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Oh ? %a090004 semble vide.",
+    "adaptation_body": "Oh ? %a090004 semble vide.",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6285,
+        "text": "[CODE DE]え?　[CODE B3]さんは[LINE]なにも　持ってませんが。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6286,
+        "text": "[CODE DE]え?　その[CODE C3]の中は[LINE]からっぽ　みたいですよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6287,
+        "text": "[CODE DE]どの品物を　売りますか?[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6304,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]それじゃ　その　[CODE C3]の中に[LINE]入れておくぞよ。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6304<0559>[CODE C3][LINE][WAIT][CODE D5][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0813.p",
+        "id": 14,
+        "ja": "@a@b＊「それじゃあ　その%a001400に\n\t入れておくよ。\n@c0@",
+        "fr": "@a@b*ⓢ Je %I0840%X%A0100%Xle%Z%B0100%Xla%Z%C0100%X%Z%Yles%Z mets dans votre sac.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Je vais donc ranger ça dans %a090004.",
+    "adaptation_body": "Je vais donc ranger ça dans %a090004.",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6303,
+        "text": "[CODE DE]だれか　ほかの人が　持つかの?[END STRING AC]"
+      },
+      {
+        "id": 6304,
+        "text": "[CODE DE]それじゃ　その　[CODE C3]の中に[LINE]入れておくぞよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6305,
+        "text": "[CODE DE][CODE B3]は　これを[LINE]装備することが　できんが[LINE]そんでも　ええんじゃな?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6312,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]ありゃ?　その　[CODE C3]には[LINE]なにも　入ってないようじゃ。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6312<0559>[CODE C3][LINE][WAIT][CODE D5][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0813.p",
+        "id": 45,
+        "ja": "@a@b＊「ありゃ？　その　%a001400には\n\t何も　入ってないようだよ。\n@c0@",
+        "fr": "@a@b*ⓢ Vous croyezⓡ Votre sac est videⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Tiens ? %a090004 ne contient rien.",
+    "adaptation_body": "Tiens ? %a090004 ne contient rien.",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6311,
+        "text": "[CODE DE]ありゃ?　[CODE B3]は[LINE]なにも　持ってないぞよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6312,
+        "text": "[CODE DE]ありゃ?　その　[CODE C3]には[LINE]なにも　入ってないようじゃ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6313,
+        "text": "[CODE DE]どれを　売ってくれるんじゃ?[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6330,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]そんじゃ　その　[CODE C3]の中に[LINE]入れとくよ。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6330<0559>[CODE C3][LINE][WAIT][CODE D5][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Je vais ranger ça dans %a090004.",
+    "adaptation_body": "Je vais ranger ça dans %a090004.",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6329,
+        "text": "[CODE DE]だれか　ほかの人が　持つかい?[END STRING AC]"
+      },
+      {
+        "id": 6330,
+        "text": "[CODE DE]そんじゃ　その　[CODE C3]の中に[LINE]入れとくよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6331,
+        "text": "[CODE DE][CODE B3]は　これを[LINE]装備することが　できないけど[LINE]そんでも　いいかな?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6337,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]ありゃ?　その　[CODE C3]には[LINE]なにも　入ってないようだよ。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6337<0559>[CODE C3][LINE][WAIT][CODE D5][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0813.p",
+        "id": 45,
+        "ja": "@a@b＊「ありゃ？　その　%a001400には\n\t何も　入ってないようだよ。\n@c0@",
+        "fr": "@a@b*ⓢ Vous croyezⓡ Votre sac est videⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Tiens ? %a090004 ne contient rien.",
+    "adaptation_body": "Tiens ? %a090004 ne contient rien.",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6336,
+        "text": "[CODE DE]ありゃ?　[CODE B3]は[LINE]なにも　持ってないじゃないか。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6337,
+        "text": "[CODE DE]ありゃ?　その　[CODE C3]には[LINE]なにも　入ってないようだよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6338,
+        "text": "[CODE DE]どれを　売ってくれるのかな?[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6435,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE D4][CODE DE]ルイーダ「そうびしている物　以外は[LINE]その　[CODE C3]に　入れておくわね。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Luisa.Je mettrai l'équipement de [CODE C0]dans le [CODE C3].[WAIT][CODE D5][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0816.p",
+        "id": 32,
+        "ja": "@a@bルイーダ「装備している物　以外は\n\tその　%a001400に　入れておくわね。\n@c0@",
+        "fr": "@aTulipe@bJe vais mettre dans votre sac tout ce dont %A0180%Xil n'est pas équipé%Z%B0180%Xelle n'est pas équipée%Z%C0180%X%Z, d'accordⓡ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Je range tout dans %a090004, à part l'équipement porté.",
+    "adaptation_body": "Je range tout dans %a090004, à part l'équipement porté.",
+    "native_bindings": {
+      "%a090004": 195
+    },
+    "adaptation_speaker": "Tulipe",
+    "adaptation_review": "Objets non équipés seulement ; pas de propriétaire nommé, C3 sauvegardé conservé.",
+    "review": "Objets non équipés seulement ; pas de propriétaire nommé, C3 sauvegardé conservé.",
+    "sfc_context": [
+      {
+        "id": 6434,
+        "text": "[CODE D4][CODE DE]ルイーダ「[CODE C0]さんは[LINE]馬車に　いるのね。[WAIT][LINE][CODE D4]ルイーダ「こちらへ　もどるように[LINE]伝えておきますわ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6435,
+        "text": "[CODE D4][CODE DE]ルイーダ「そうびしている物　以外は[LINE]その　[CODE C3]に　入れておくわね。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6436,
+        "text": "[CODE D4][CODE DE]ルイーダ「こうしておかないと[LINE]大切なものを　だれが　もっていたか[LINE]わすれちゃう人が　いるのよ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6457,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE D4][CODE DE]ルイーダ「そう。　しかたないわね。[LINE][CODE C0]さんの　そうびは[LINE]その　[CODE C3]に　入れておくわ。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Luisa.<0559>Voila. L'équipement de [CODE C0] a été mis dans le [CODE C3].[WAIT][CODE C5][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Je comprends. Je range l'équipement de %a090000 dans %a090004.",
+    "adaptation_body": "Je comprends. Je range l'équipement de %a090000 dans %a090004.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090004": 195
+    },
+    "adaptation_speaker": "Tulipe",
+    "adaptation_review": "Équipement de C0 rangé dans C3, à distinguer du non-équipé de 6435.",
+    "review": "Équipement de C0 rangé dans C3, à distinguer du non-équipé de 6435.",
+    "sfc_context": [
+      {
+        "id": 6456,
+        "text": "[CODE D4][CODE DE]ルイーダ「そうね。　身ぐるみはいで[LINE]わかれるなんて　あんまりですものね。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6457,
+        "text": "[CODE D4][CODE DE]ルイーダ「そう。　しかたないわね。[LINE][CODE C0]さんの　そうびは[LINE]その　[CODE C3]に　入れておくわ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6458,
+        "text": "[CODE D4][CODE DE]ルイーダ「じゃあ　[CODE C0]さんを[LINE]野に放すわよ!　いいわね?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6518,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]うむ　[CODE B2]の名前を[LINE][CODE D8]に　かえるのじゃな。[LINE]ほんとうに　それでよいのじゃな?[END STRING AC]",
+    "sfc_vf_secondaire": "Ok, Je changerais le nom de [CODE B2] en [CODE D8]. Étes-vous sûr?[END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0830.p",
+        "id": 40,
+        "ja": "@a@b＊「うむ　%a000180の名前を\n\t%a001270に　変えるのか。\n\t本当に　これでよいのじゃな？\n@c0@",
+        "fr": "@a@b*ⓢ Alors, %a000180 sera désormais %a001270ⓡ Est-ce bien sûrⓡ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Vous voulez remplacer le nom de %a090002 par %a090007. Est-ce bien votre choix ?",
+    "adaptation_body": "Vous voulez remplacer le nom de %a090002 par %a090007. Est-ce bien votre choix ?",
+    "native_bindings": {
+      "%a090002": 178,
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6517,
+        "text": "[CODE DE][CODE B2]の名前をかえるのじゃな。[LINE]では　新しい名前を　わしに[LINE]教えてくれ。[END STRING AC]"
+      },
+      {
+        "id": 6518,
+        "text": "[CODE DE]うむ　[CODE B2]の名前を[LINE][CODE D8]に　かえるのじゃな。[LINE]ほんとうに　それでよいのじゃな?[END STRING AC]"
+      },
+      {
+        "id": 6519,
+        "text": "[CODE DE]おお　命名神マリナンよ![LINE]新たなる名　[CODE D8]に[LINE]神の祝福を!![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6519,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]おお　命名神マリナンよ![LINE]新たなる名　[CODE D8]に[LINE]神の祝福を!![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DE]Avec la bénédiction de Marnin, I dub thee [CODE D8]![WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0830.p",
+        "id": 42,
+        "ja": "@a@b＊「おお　命名神マリナンよ！\n\t新たなる名　%a001270に\n\t神の祝福を！！\n@c0@",
+        "fr": "@a@b*ⓢ Ô Alias, dieu tout-puissant des nomsⓠ Donne ta bénédiction au nom %a001270ⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Ô Alias, dieu tout-puissant des noms ! Bénis ce nouveau nom - %a090007 !",
+    "adaptation_body": "Ô Alias, dieu tout-puissant des noms ! Bénis ce nouveau nom - %a090007 !",
+    "native_bindings": {
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Alias, nom officiel DS ; D8 reste un tampon variable.",
+    "review": "Alias, nom officiel DS ; D8 reste un tampon variable.",
+    "sfc_context": [
+      {
+        "id": 6518,
+        "text": "[CODE DE]うむ　[CODE B2]の名前を[LINE][CODE D8]に　かえるのじゃな。[LINE]ほんとうに　それでよいのじゃな?[END STRING AC]"
+      },
+      {
+        "id": 6519,
+        "text": "[CODE DE]おお　命名神マリナンよ![LINE]新たなる名　[CODE D8]に[LINE]神の祝福を!![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6520,
+        "text": "[CODE DE]よーし!　これで　[CODE B2]は[LINE]これから　[CODE D8]と名のることが[LINE]ゆるされたぞ![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6520,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]よーし!　これで　[CODE B2]は[LINE]これから　[CODE D8]と名のることが[LINE]ゆるされたぞ![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DE]Ok. A partir d'aujourd'hui [CODE B2] sera connu en tant que [CODE D8]![WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Voilà ! %a090002 peut désormais porter le nom de %a090007 !",
+    "adaptation_body": "Voilà ! %a090002 peut désormais porter le nom de %a090007 !",
+    "native_bindings": {
+      "%a090002": 178,
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6519,
+        "text": "[CODE DE]おお　命名神マリナンよ![LINE]新たなる名　[CODE D8]に[LINE]神の祝福を!![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6520,
+        "text": "[CODE DE]よーし!　これで　[CODE B2]は[LINE]これから　[CODE D8]と名のることが[LINE]ゆるされたぞ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6521,
+        "text": "[CODE DE]他に　だれか　名前を[LINE]かえたい者は　おるか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6527,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE][CODE D8]じゃな?　......むむっ[LINE]命名神が　その名は　イカンと[LINE]いっておる![WAIT][LINE]スマンが　他の名前に[LINE]してもらえんじゃろうか?[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DE]<0559>[CODE D8]? Le dieu des noms Marnin ne vous laissera pas![WAIT][LINE]Voulez-vous garder votre ancien nom?[WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0830.p",
+        "id": 22,
+        "ja": "@a@b＊「%a001270じゃな？　……むむっ\n\t命名神が　その名は　イカンと\n\tいっておる！\n@c0@",
+        "fr": "@a@b*ⓢ %0%a001270ⓡ Le dieu des noms a interdit ce nomⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090007 ? Hum... La divinité des noms refuse ce choix ! Pourriez-vous en choisir un autre ?",
+    "adaptation_body": "%a090007 ? Hum... La divinité des noms refuse ce choix ! Pourriez-vous en choisir un autre ?",
+    "native_bindings": {
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6526,
+        "text": "[CODE DE]なんじゃ　名前をかえないのか?[LINE]まあ　それも　よかろう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6527,
+        "text": "[CODE DE][CODE D8]じゃな?　......むむっ[LINE]命名神が　その名は　イカンと[LINE]いっておる![WAIT][LINE]スマンが　他の名前に[LINE]してもらえんじゃろうか?[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6528,
+        "text": "[CODE DE]ほう　もとの名前に　もどすと[LINE]いうのじゃな。[WAIT][LINE]親の　つけてくれた名前じゃ[LINE]大切に　しなくてはな。うむうむ。[WAIT][LINE][CODE B2]の名前を　もとの[LINE][CODE D8]に　もどすぞ。よいな?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6529,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]おお　命名神マリナンよ![LINE][CODE B2]の名を　もとの[CODE D8]に[LINE]もどしたまえ!![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "6529<0559>[LINE][CODE B2][CODE D8][LINE][WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0830.p",
+        "id": 18,
+        "ja": "@a@b＊「おお　命名神マリナンよ！\n\t%a000180の名を　もとの%a001270に\n\tもどしたまえ！！\n@c0@",
+        "fr": "@a@b*ⓢ Ô Alias, dieu des noms tout-puissantⓠ Permets à %a000180 de reprendre son nom, %a001270ⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Ô Alias, dieu des noms ! Rends à %a090002 son nom d’origine - %a090007 !",
+    "adaptation_body": "Ô Alias, dieu des noms ! Rends à %a090002 son nom d’origine - %a090007 !",
+    "native_bindings": {
+      "%a090002": 178,
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6528,
+        "text": "[CODE DE]ほう　もとの名前に　もどすと[LINE]いうのじゃな。[WAIT][LINE]親の　つけてくれた名前じゃ[LINE]大切に　しなくてはな。うむうむ。[WAIT][LINE][CODE B2]の名前を　もとの[LINE][CODE D8]に　もどすぞ。よいな?[END STRING AC]"
+      },
+      {
+        "id": 6529,
+        "text": "[CODE DE]おお　命名神マリナンよ![LINE][CODE B2]の名を　もとの[CODE D8]に[LINE]もどしたまえ!![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6530,
+        "text": "[CODE DE]よし!　おぬしの名は[LINE][CODE D8]に　もどったぞ![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6530,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]よし!　おぬしの名は[LINE][CODE D8]に　もどったぞ![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "6530<0559>[LINE][CODE D8][WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0830.p",
+        "id": 20,
+        "ja": "@a@b＊「よし！　おぬしの名は\n\t%a001270に　戻ったぞ！\n@c0@",
+        "fr": "@a@b*ⓢ C'est faitⓠ %0%a001270 a retrouvé son nom d'origineⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Voilà ! Votre nom est de nouveau %a090007 !",
+    "adaptation_body": "Voilà ! Votre nom est de nouveau %a090007 !",
+    "native_bindings": {
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6529,
+        "text": "[CODE DE]おお　命名神マリナンよ![LINE][CODE B2]の名を　もとの[CODE D8]に[LINE]もどしたまえ!![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6530,
+        "text": "[CODE DE]よし!　おぬしの名は[LINE][CODE D8]に　もどったぞ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6531,
+        "text": "[CODE DE][CODE D8]じゃな......　おや?[LINE]その名前の者が　すでに　おぬしの[LINE]仲間に　いるようじゃな。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6531,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE][CODE D8]じゃな......　おや?[LINE]その名前の者が　すでに　おぬしの[LINE]仲間に　いるようじゃな。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "6531<0559>[CODE D8][LINE][LINE][WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0830.p",
+        "id": 28,
+        "ja": "@a@b＊「%a001270じゃな……　おや？\n\tその名前の者が　すでに\n\tおるではないか。\n@c0@",
+        "fr": "@a@b*ⓢ %0%a001270ⓡ Mais quelqu'un porte déjà ce nom dans votre équipe, n'est-ce pasⓡ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "%a090007 ? Oh ! Un de vos compagnons porte déjà ce nom.",
+    "adaptation_body": "%a090007 ? Oh ! Un de vos compagnons porte déjà ce nom.",
+    "native_bindings": {
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6530,
+        "text": "[CODE DE]よし!　おぬしの名は[LINE][CODE D8]に　もどったぞ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6531,
+        "text": "[CODE DE][CODE D8]じゃな......　おや?[LINE]その名前の者が　すでに　おぬしの[LINE]仲間に　いるようじゃな。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6532,
+        "text": "[CODE DE][CODE D8]じゃと......　おぬし[LINE]本気で　そのような名前を[LINE]つけようと　いうのか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6532,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE][CODE D8]じゃと......　おぬし[LINE]本気で　そのような名前を[LINE]つけようと　いうのか?[END STRING AC]",
+    "sfc_vf_secondaire": "6532<0559>[CODE D8][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090007 ? Voulez-vous vraiment porter un tel nom ?",
+    "adaptation_body": "%a090007 ? Voulez-vous vraiment porter un tel nom ?",
+    "native_bindings": {
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6531,
+        "text": "[CODE DE][CODE D8]じゃな......　おや?[LINE]その名前の者が　すでに　おぬしの[LINE]仲間に　いるようじゃな。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6532,
+        "text": "[CODE DE][CODE D8]じゃと......　おぬし[LINE]本気で　そのような名前を[LINE]つけようと　いうのか?[END STRING AC]"
+      },
+      {
+        "id": 6533,
+        "text": "[CODE DE]命名神様の　怒りにふれても[LINE]わしは　しらんぞ![LINE]それでも　かまわんのじゃな!?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6534,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]......おお　命名神マリナンよ[LINE]新たなる名　[CODE D8]に[LINE]神の祝福......うわっ!![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "6534<0559>[LINE][CODE D8][LINE][WAIT][END STRING AC]",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0830.p",
+        "id": 42,
+        "ja": "@a@b＊「おお　命名神マリナンよ！\n\t新たなる名　%a001270に\n\t神の祝福を！！\n@c0@",
+        "fr": "@a@b*ⓢ Ô Alias, dieu tout-puissant des nomsⓠ Donne ta bénédiction au nom %a001270ⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Formulation DS relue puis adaptée aux différences SFC ; pas une équivalence automatique.",
+    "original_body": "Ô Alias, dieu tout-puissant des noms ! Bénis ce nouveau nom - %a090007... Aaah !",
+    "adaptation_body": "Ô Alias, dieu tout-puissant des noms ! Bénis ce nouveau nom - %a090007... Aaah !",
+    "native_bindings": {
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Invocation interrompue par le cri, distincte du succès 6519.",
+    "review": "Invocation interrompue par le cri, distincte du succès 6519.",
+    "sfc_context": [
+      {
+        "id": 6533,
+        "text": "[CODE DE]命名神様の　怒りにふれても[LINE]わしは　しらんぞ![LINE]それでも　かまわんのじゃな!?[END STRING AC]"
+      },
+      {
+        "id": 6534,
+        "text": "[CODE DE]......おお　命名神マリナンよ[LINE]新たなる名　[CODE D8]に[LINE]神の祝福......うわっ!![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6535,
+        "text": "[CODE DE]見よ!　いわんことでは　ない![LINE]おぬしは　命名神の怒りに[LINE]ふれてしまったぞ!![WAIT][LINE]おぬしの名は　いっしょう[LINE][CODE D8]のままじゃ!![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6535,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE]見よ!　いわんことでは　ない![LINE]おぬしは　命名神の怒りに[LINE]ふれてしまったぞ!![WAIT][LINE]おぬしの名は　いっしょう[LINE][CODE D8]のままじゃ!![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "6535<0559>[LINE][LINE][WAIT][LINE][LINE][CODE D8][WAIT][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "Vous voyez ! Vous avez provoqué la colère de la divinité des noms ! Vous garderez le nom de %a090007 toute votre vie !",
+    "adaptation_body": "Vous voyez ! Vous avez provoqué la colère de la divinité des noms ! Vous garderez le nom de %a090007 toute votre vie !",
+    "native_bindings": {
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6534,
+        "text": "[CODE DE]......おお　命名神マリナンよ[LINE]新たなる名　[CODE D8]に[LINE]神の祝福......うわっ!![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6535,
+        "text": "[CODE DE]見よ!　いわんことでは　ない![LINE]おぬしは　命名神の怒りに[LINE]ふれてしまったぞ!![WAIT][LINE]おぬしの名は　いっしょう[LINE][CODE D8]のままじゃ!![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6536,
+        "text": "[CODE DE][CODE D8]じゃと......　おぬし[LINE]名前というものを　なめておるのか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6536,
+    "file": "SFC_ORIGINAL",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "SFC_REVIEWED_ADAPTATION",
+    "sfc_jp": "[CODE DE][CODE D8]じゃと......　おぬし[LINE]名前というものを　なめておるのか?[END STRING AC]",
+    "sfc_vf_secondaire": "6536<0559>[CODE D8][END STRING AC]",
+    "ds_references": [],
+    "ds_reference_scope": "Aucun équivalent DS validé pour cette réplique ; adaptation directe du japonais SFC, sans rapprochement flou approuvé.",
+    "original_body": "%a090007 ? Prenez-vous donc les noms à la légère ?",
+    "adaptation_body": "%a090007 ? Prenez-vous donc les noms à la légère ?",
+    "native_bindings": {
+      "%a090007": 216
+    },
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "review": "Japonais SFC et contexte voisin relus : sujet, action, négation, nombres et fin native préservés. Le VF IPS souvent décalé n’est pas une validation.",
+    "sfc_context": [
+      {
+        "id": 6535,
+        "text": "[CODE DE]見よ!　いわんことでは　ない![LINE]おぬしは　命名神の怒りに[LINE]ふれてしまったぞ!![WAIT][LINE]おぬしの名は　いっしょう[LINE][CODE D8]のままじゃ!![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6536,
+        "text": "[CODE DE][CODE D8]じゃと......　おぬし[LINE]名前というものを　なめておるのか?[END STRING AC]"
+      },
+      {
+        "id": 6537,
+        "text": "[CODE DE]では　名をなめては　おらぬが[LINE]そのような　名前を　つけたいと[LINE]申すのか?[END STRING AC]"
+      }
+    ]
+  }
+]

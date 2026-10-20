@@ -1,0 +1,233 @@
+[
+  {
+    "id": 5820,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "東に[CODE BB]歩[CODE D5][END STRING AE]",
+    "adaptation_body": "À %a090001 pas à l'est",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5819,
+        "text": "[CODE C0]のまなざしは　たかの目となって[LINE]大空をかけぬけた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5820,
+        "text": "東に[CODE BB]歩[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5821,
+        "text": "西に[CODE BB]歩[CODE D5][END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 5821,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "西に[CODE BB]歩[CODE D5][END STRING AE]",
+    "adaptation_body": "À %a090001 pas à l'ouest",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5820,
+        "text": "東に[CODE BB]歩[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5821,
+        "text": "西に[CODE BB]歩[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5822,
+        "text": "北に[CODE BB]歩に　何かが見える。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5822,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "北に[CODE BB]歩に　何かが見える。[END STRING AC]",
+    "adaptation_body": "Quelque chose se trouve à %a090001 pas au nord.",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5821,
+        "text": "西に[CODE BB]歩[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5822,
+        "text": "北に[CODE BB]歩に　何かが見える。[END STRING AC]"
+      },
+      {
+        "id": 5823,
+        "text": "南に[CODE BB]歩に　何かが見える。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5823,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "南に[CODE BB]歩に　何かが見える。[END STRING AC]",
+    "adaptation_body": "Quelque chose se trouve à %a090001 pas au sud.",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5822,
+        "text": "北に[CODE BB]歩に　何かが見える。[END STRING AC]"
+      },
+      {
+        "id": 5823,
+        "text": "南に[CODE BB]歩に　何かが見える。[END STRING AC]"
+      },
+      {
+        "id": 5824,
+        "text": "しかし　ここでは　いみがなかった![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5833,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "宿屋が　あらわれた。[END STRING AC]",
+    "adaptation_body": "Une auberge ambulante apparaît !",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5832,
+        "text": "なんと　旅の[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5833,
+        "text": "宿屋が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5834,
+        "text": "神父が　あらわれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5834,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "神父が　あらわれた。[END STRING AC]",
+    "adaptation_body": "Un prêtre ambulant apparaît !",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5833,
+        "text": "宿屋が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5834,
+        "text": "神父が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5835,
+        "text": "武器屋が　あらわれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5835,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "武器屋が　あらわれた。[END STRING AC]",
+    "adaptation_body": "Un marchand d'armes ambulant apparaît !",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5834,
+        "text": "神父が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5835,
+        "text": "武器屋が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5836,
+        "text": "防具屋が　あらわれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5836,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "防具屋が　あらわれた。[END STRING AC]",
+    "adaptation_body": "Un marchand d'armures ambulant apparaît !",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5835,
+        "text": "武器屋が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5836,
+        "text": "防具屋が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5837,
+        "text": "よろず屋が　あらわれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5837,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "よろず屋が　あらわれた。[END STRING AC]",
+    "adaptation_body": "Un marchand ambulant apparaît !",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5836,
+        "text": "防具屋が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5837,
+        "text": "よろず屋が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5838,
+        "text": "どうぐ屋が　あらわれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5838,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "どうぐ屋が　あらわれた。[END STRING AC]",
+    "adaptation_body": "Un marchand d'objets ambulant apparaît !",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5837,
+        "text": "よろず屋が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5838,
+        "text": "どうぐ屋が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5839,
+        "text": "モンスターが　あらわれた![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5839,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "モンスターが　あらわれた![END STRING AC]",
+    "adaptation_body": "Un monstre apparaît !",
+    "blocker": "Assembler et tester les fragments natifs liés : 5820/5821 +5822/5823 ; 5832 +5833..5839. Ne pas supposer une colonne initiale nulle.",
+    "sfc_context": [
+      {
+        "id": 5838,
+        "text": "どうぐ屋が　あらわれた。[END STRING AC]"
+      },
+      {
+        "id": 5839,
+        "text": "モンスターが　あらわれた![END STRING AC]"
+      },
+      {
+        "id": 5840,
+        "text": "なんと!　[CODE BB]ゴールドを　みつけた![END STRING AC]"
+      }
+    ]
+  }
+]
