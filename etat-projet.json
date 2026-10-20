@@ -1,28 +1,32 @@
 {
-  "release": "v0.33",
+  "release": "v0.34",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 5732,
+    "validated": 5853,
     "visible_total": 6957,
-    "new_this_pass": 0,
-    "remaining": 1225
+    "new_this_pass": 121,
+    "remaining": 1104
   },
-  "baseline": "v0.32",
+  "baseline": "v0.33",
   "prepared_not_inserted": {
-    "main": 0,
+    "main": 1,
+    "main_ids": [
+      4095
+    ],
     "separate_places": 25
   },
+  "deferred_examined_this_pass": 26,
   "separate_tables": {
     "inventory_version": "v0.33",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
-    "new_places_inserted": 8,
     "inserted_place_total": 8,
+    "inserted_this_pass": 0,
     "prepared_places": 25,
     "confirmed_french_entries": 16
   },
   "rom_bytes": 8388608,
-  "notes": "Huit lieux complets officiels FR DS, JP SFC/DS identiques, sans accent ni élargissement par rapport à l’ancien nom. Pointeurs et alias conservés, tous les autres noms et 5732 textes inchangés. Rendu des huit noms par B2 au camp, Journal et bus script+tables vérifiés ; fenêtres naturelles non parcourues.",
-  "next": "Continuer 1225 textes, 25 lieux préparés et les autres tables. Garder les réserves de fenêtres naturelles, accents et indices différés. 322/323 et 1836 déjà corrigés/intégrés avec seuls diagnostics, pas parcours naturel complet."
+  "notes": "121 nouveaux textes, 5732 anciennes sélections et les 2512 noms inchangés. 4095 relu mais préparé non inséré : dernier écran D5 avec reprise de lignes dans le banc du camp. 26 autres appariements différés. BPS/IPS, redécodage, zones protégées, bus script+tables, Journal et échantillon de 16 textes contrôlés ; pas de parcours naturel complet.",
+  "next": "Continuer les 1104 messages, dont 4095 préparé à vérifier en contexte naturel, et les tables. Garder les réserves de 322/323 et 1836 sur les parcours naturels, les indices 610/1135/2404/5341/5351 et les 26 cas différés. Les tables restent partielles."
 }

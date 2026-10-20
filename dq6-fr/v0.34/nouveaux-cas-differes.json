@@ -1,0 +1,446 @@
+[
+  {
+    "id": 610,
+    "sfc_jp": "[CODE D4]ザム「封印をとく言葉は[LINE]はじめの　合い言葉と[LINE]3つの文章から　なっておる。[WAIT][LINE][CODE D4]ザム「まず　はじめの　合い言葉は[LINE]メラサム!　これで　封印のトビラが[LINE]目ざめるはずじゃ。[WAIT][LINE][CODE D4]ザム「そして　ここからが　大事じゃぞ。[LINE]こころして　おぼえるようにな。[WAIT][LINE][CODE D4]ザム「まず　ひとつめの文章はな......[LINE]んー　んー　自分は正直者だと[LINE]いうようなことだったか......。[WAIT][LINE][CODE D4]ザム「ふたつめは......。えーと......。[LINE]ちからもちの姫が　たるを[LINE]もちあげて......　じゃったか。[WAIT][LINE][CODE D4]ザム「そして　最後の3つめは[LINE]氷を食べるときは　さむくて[LINE]はなや　たんが出てくる...じゃな。[WAIT][LINE][CODE D4]ザム「うむ!　これだけ　教えれば[LINE]封印は　とけたも　同然![WAIT][LINE][CODE D4]ザム「剣は　この村から北の[LINE]氷に　おおわれた　洞くつに眠る。[LINE]心して　ゆくがよい![WAIT][LINE][CODE D4]ザム「おっと　いいわすれたが[LINE]もし剣を　手にいれたら　わしに[LINE]報告しに　もどってくるようにな。[WAIT][LINE][CODE D4]ザム「それが　礼ぎと[LINE]いうものじゃぞ。んー。[END STRING AC]",
+    "ds_jp": [
+      "@a@bザム「封印を解く言葉は\n\tはじめの　合い言葉と\n\t３つの文章から　なっておる。\n@c0@",
+      "@a@bザム「まず　はじめの　合い言葉は\n\tメラサム！　これで　封印のトビラが\n\t目覚めるはずじゃ。\n@c0@",
+      "@a@bザム「そして　ここからが　大事じゃぞ。\n\tこころして　覚えるようにな。\n@c0@",
+      "@a@bザム「まず　ひとつめの文章はな……\n\tんー　んー　自分は正直者だと\n\tいうようなことだったか……。\n@c0@",
+      "@a@bザム「ふたつめは……。　えーと……。\n\tちからもちの姫が　たるを\n\tもちあげて……　じゃったか。\n@c0@",
+      "@a@bザム「そして　最後の３つめは\n\t氷を食べるときは　さむくて\n\tはなや　たんが出てくる……じゃな。\n@c0@",
+      "@a@bザム「うむ！　これだけ　教えれば\n\t封印は　解けたも　同然！\n@c0@",
+      "@a@bザム「剣は　この村から北の\n\t氷に　おおわれた　洞くつに眠る。\n\t心して　ゆくがよい！\n@c0@",
+      "@a@bザム「おっと　いいわすれたが\n\tもし剣を　手に入れたら　わしに\n\t報告しに　もどってくるようにな。\n@c0@",
+      "@a@bザム「それが　礼儀と\n\tいうものじゃぞ。　んー。\n@c0@"
+    ],
+    "ds_fr_body": "Alors, la formule magique se compose d'un mot de passe suivi de trois petites phrases. Le mot de passe est ⓥFrizzamⓠⓦ En prononçant ce mot, vous devriez attirer l'attention de la porte. Maintenant, écoutez bien. Il est essentiel que vous reteniez ce que je vais vous dire. Pour la première phrase... Laissez-moi voir... C'est le fait de détenir la vérité. La deuxième phrase... Oh bon sang... Ça parle de lame et de galets, je croisⓡ Enfin, vous voyez. Et la troisième phrase parle d'un type qui sort de la glace.... Oui, c'est çaⓠ Ou pas... Oui, vous avez toutes les informations dont vous avez besoin. Vous briserez ce sceau en un rien de tempsⓠ Je vous ai dit que l'épée était dans la grotte gelée au nord, nonⓡ Alors, filez-yⓠ Ohⓠ Et revenez me voir quand vous aurez l'épée, d'accordⓡ C'est la moindre des choses.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Mot de passe/phrases à confronter aux choix",
+    "ds_file": "data/MESS6/FR/0072.p",
+    "ds_ids": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "sfc_vf_secondaire": "[CODE D4]Zam.To break the seal, a password and several sentences are required.[WAIT][LINE][CODE D4]Zam.First the password, <0577>Cold Blaze<0578>! Then the door will awake![WAIT][LINE][CODE D4]Zam.Then things get serious, so listen close and don't forget.[WAIT][LINE][CODE D4]Zam.The first sentence is… <0577>By myself, I am honest.<0578>[WAIT][LINE][CODE D4]Zam.The second is… <0577>The daughter of a strong man can lift barrels.<0578>[WAIT][LINE][CODE D4]Zam.And the final sentence is… Ummm…[WAIT][LINE][CODE D4]Zam.<0577>When you eat ice, your nose get cold<0578>… Yes. That<024D> it.[WAIT][LINE][CODE D4]Zam.If you speak this, the door will melt away.[WAIT][LINE][CODE D4]Zam.In the heart of the cave. That is where you will find the sword.[WAIT][LINE][CODE D4]Zam.Oh, I almost forgot. If you find the sword, come see me again.[END STRING AC]"
+  },
+  {
+    "id": 2368,
+    "sfc_jp": "『もとめよ[LINE]　されば　あたえられん!』[END STRING AC]",
+    "ds_jp": [
+      "@a@b『もとめよ\n　さらば　あたえられん！』\n@c0@"
+    ],
+    "ds_fr_body": "ⓥAux impatients, la richesseⓠⓦ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Proverbe isolé, contexte à revoir",
+    "ds_file": "data/MESS6/FR/0083.p",
+    "ds_ids": [
+      189
+    ],
+    "sfc_vf_secondaire": "<0576>Prennez garde!<0579>[END STRING AC]"
+  },
+  {
+    "id": 6265,
+    "sfc_jp": "[CODE DE]どうも　ありがとうございます。[WAIT][CODE D5][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「どうも　ありがとうございました！\n@c0@"
+    ],
+    "ds_fr_body": "Ça m'a beaucoup inspiré. Un jour, j'écrirai un poème à ce sujet.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "VF poème au lieu de remerciement",
+    "ds_file": "data/MESS6/FR/0015.p",
+    "ds_ids": [
+      574
+    ],
+    "sfc_vf_secondaire": "Merci beaucoup.[WAIT][CODE D5][END STRING AC]"
+  },
+  {
+    "id": 5341,
+    "sfc_jp": "伝説の盾の　いいつたえなら[LINE]私も　聞いたことが　ある。[WAIT][LINE]海から川をのぼり　その洞くつの[LINE]奥深くに　ねむる　という話だ。[WAIT][LINE]まちがっても　ギンドロ組の[LINE]ヤツらが　カンタンに手に入れられる[LINE]ような物では　ないはずだな。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「伝説の盾の　言い伝えなら\n\t私も　聞いたことがある。\n@c0@",
+      "@a@b＊「はるか東の海より　川をのぼり\n\tその先にある　世にも不思議な洞くつの\n\t奥深くに　ねむる　という話だ。\n@c0@",
+      "@a@b＊「まちがっても　ギンドロ組のような\n\tヤツらが　カンタンに手に入れられる\n\tモノでは　ないはずだな。\n@c0@"
+    ],
+    "ds_fr_body": "J'ai entendu parler du bouclier légendaire. Depuis la mer à l'est, il faut remonter la rivière. Le bouclier se trouve dans une grotte très mystérieuse... Enfin, il paraît. En tout cas, c'est pas le gang de Brigandia qui pourrait mettre ses sales pattes dessus.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Indice du bouclier, avec 5351",
+    "ds_file": "data/MESS6/FR/0060.p",
+    "ds_ids": [
+      677,
+      678,
+      679
+    ],
+    "sfc_vf_secondaire": "Je fesais de grands plats au château à partir des récoltes locales.[WAIT][LINE]Mais un jour, j'ai cuisiné de mauvais légumes.[WAIT][LINE]Malheureusement, beaucoup sont devenu malades.[END STRING AC]"
+  },
+  {
+    "id": 1356,
+    "sfc_jp": "[CODE DB]われは　試練なり。[WAIT][LINE]なんじ　王家の血を　ひく者よ。[LINE][CODE DB]われと　戦い　われを　たおせ。[WAIT][LINE]われは　試練なり。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「われは　試練なり。\n@c0@",
+      "@a@b＊「われは　試練なり。\n@c0@",
+      "@a@b＊「なんじ　王家の血を　引く者よ。\n\tわれと戦い　われを　倒せ。\n@c0@",
+      "@a@b＊「われは　試練なり。\n@c0@"
+    ],
+    "ds_fr_body": "(grogne) Un testⓠ Tout le monde doit subir un testⓠ (grogne) Un testⓠ Tout le monde doit subir un testⓠ Vous, de lignée royaleⓠ Affrontez-moi et prouvez votre valeurⓠ (grogne) Un testⓠ Tout le monde doit subir un testⓠ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Litanie et répétitions",
+    "ds_file": "data/MESS6/FR/0026.p",
+    "ds_ids": [
+      506,
+      509,
+      510,
+      511
+    ],
+    "sfc_vf_secondaire": "[CODE DB]Vous avez à vos côtés un membre de la famille royale.[WAIT][LINE][CODE DB]Donc, vous devez me combattre, pour prouver votre valeur.[END STRING AC]"
+  },
+  {
+    "id": 1135,
+    "sfc_jp": "[CODE D4]クリムト「それは　真実のオーブ。[LINE]暗黒の岬から　無の海へ　はなてば[LINE]この世界の　真の姿が見えるだろう。[WAIT][LINE][CODE D4]クリムト「そなたたちなら...[LINE]かならず......[END STRING AC]",
+    "ds_jp": [
+      "@a@bクリムト「それは　真実のオーブ。\n@c0@",
+      "@a@bクリムト「この町より　北西にある\n\t暗黒の岬から　無の海に　かざせば\n\tこの世界の　真の姿が見えるだろう。\n@c0@",
+      "@a@bクリムト「そなたたちなら……㈢㈢\n\tかならず……\n@c0@"
+    ],
+    "ds_fr_body": "Vous tenez dans vos mains l'orbe de vérité. Allez vers le cap de la Mort au nord-est d'ici et levez-le au-dessus de l'océan du Néant. Vous verrez alors la véritable forme de cet univers. V-vous pouvez...㈢㈢ V-vous devez...",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Orbe : cardinal VF erroné et lancer/lever",
+    "ds_file": "data/MESS6/FR/0089.p",
+    "ds_ids": [
+      634,
+      635,
+      636
+    ],
+    "sfc_vf_secondaire": "[CODE D4]Krimut.That is the Orb of Truth.[WAIT][LINE][CODE D4]Krimut.Use it at the sea of nothingness to reveal the way.[WAIT][LINE][CODE D4]Krimut.You guys… surely…[END STRING AC]"
+  },
+  {
+    "id": 4880,
+    "sfc_jp": "　　　　　　封印されし　うごめくものたちを[LINE]　　　　　　　　　なんじの　ちからを　もて[LINE]　　　　　　　　　　　　たちきらん![END STRING AC]",
+    "ds_jp": [
+      "@a@b%a002030「封印されし\n\tうごめくものたちを　なんじの\n\tチカラを　もて　断ち切らん！\n@c0@"
+    ],
+    "ds_fr_body": "On nous a dit de rassembler nos forces et de nous débarrasser de tous les méchants enfermés à l'intérieur.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Rituel contre compagnon DS",
+    "ds_file": "data/MESS6/FR/0637.p",
+    "ds_ids": [
+      629
+    ],
+    "sfc_vf_secondaire": "Joyaux, gèmes. Je ne[LINE]trouve rien.[END STRING AC]"
+  },
+  {
+    "id": 5778,
+    "sfc_jp": "[CODE C0]は　目をこらして[LINE]世界をながめた![WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b%a000120は　海の底を　目をこらして\nみつめた。\n@c0@"
+    ],
+    "ds_fr_body": "%0%a000120 plisse les yeux et regarde le fond de l'océan.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Monde contre fond marin",
+    "ds_file": "data/MESS6/FR/0804.p",
+    "ds_ids": [
+      12
+    ],
+    "sfc_vf_secondaire": "[CODE C0] vois le terrain envirronnant du dessus![WAIT][END STRING AC]"
+  },
+  {
+    "id": 5818,
+    "sfc_jp": "[CODE C0]は　目をこらして　世界をながめた![END STRING AC]",
+    "ds_jp": [
+      "@a@b%a000120は　海の底を　目をこらして\nみつめた。\n@c0@"
+    ],
+    "ds_fr_body": "%0%a000120 plisse les yeux et regarde le fond de l'océan.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Même divergence monde/fond marin",
+    "ds_file": "data/MESS6/FR/0804.p",
+    "ds_ids": [
+      12
+    ],
+    "sfc_vf_secondaire": "5819<0559>[CODE C0][LINE][WAIT][END STRING AC]"
+  },
+  {
+    "id": 6944,
+    "sfc_jp": "＊「ここは　ルイーダの店。[WAIT][LINE]ルイーダ「旅人たちが[LINE]　　仲間を求めて　集まる[LINE]　　出会いと　別れの　酒場よ。[WAIT][LINE]ルイーダ「なにを　お望みかしら?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ここは　ルイーダの店。\n@c0@",
+      "@a@bルイーダ「旅人たちが\n\t仲間を求めて　集まる\n\t出会いと　別れの　酒場よ。\n@c0@",
+      "@a@bルイーダ「なーんて……。\n\tはやく　だれか　来ないかしらね。\n@c0@"
+    ],
+    "ds_fr_body": "Bienvenue au Carré de Tulipe, la chef d'équipeⓠ Si vous voulez intégrer de nouveaux membres à votre équipe, vous êtes au bon endroitⓠ Même chose si vous voulez dire adieu à d'autres. (soupir) Je le dis tellement souvent que je peux le dire en dormant... J'ai hâte qu'un client passeⓠ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Tulipe : plusieurs voix et fin divergente",
+    "ds_file": "data/MESS6/FR/0006.p",
+    "ds_ids": [
+      393,
+      394,
+      395
+    ],
+    "sfc_vf_secondaire": "6944<0559>Luisa[WAIT][LINE]Luisa[LINE][LINE][WAIT][LINE]Luisa[END STRING AC]"
+  },
+  {
+    "id": 6117,
+    "sfc_jp": "勇気のかけら　手に入れた[END STRING AC]",
+    "ds_jp": [
+      "@a@b%a002000「よし　勇気のかけらを\n\t手に入れようぜ！\n@c0@"
+    ],
+    "ds_fr_body": "Parfaitⓠ Ce rocher va nous donner un fragmentⓠ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Fragment obtenu contre projet de compagnon",
+    "ds_file": "data/MESS6/FR/0562.p",
+    "ds_ids": [
+      130
+    ],
+    "sfc_vf_secondaire": "6117<0559>[END STRING AC]"
+  },
+  {
+    "id": 1478,
+    "sfc_jp": "ふむ...。武器屋かと　思ったが[LINE]剣を　売っていないとは...。[WAIT][LINE]まったく　キカイのすることは[LINE]わけが　わからんで　ござるよ。[END STRING AC]",
+    "ds_jp": [
+      "@a@bライアン「武器屋の　クセに\n\t剣を　売っていないというのだ。\n@c0@",
+      "@a@bライアン「まったく　ネコのすることは\n\tわけが　わからんで　ござるよ。\n@c0@"
+    ],
+    "ds_fr_body": "Mais j'ai découvert qu'ils ne vendent pas d'épées iciⓠ Quel magasin d'armes ne vend pas d'épéesⓡ Je me demande ce qui passe par la tête de ces gensⓠ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Machine SFC contre chat DS",
+    "ds_file": "data/MESS6/FR/0098.p",
+    "ds_ids": [
+      658,
+      659
+    ],
+    "sfc_vf_secondaire": "Hmmm… Je veux acheter une épée, mais je ne trouve pas de magasin d'armes.[WAIT][LINE]Cela pourrait ètre une belle opportunité pour quelqu'un.[END STRING AC]"
+  },
+  {
+    "id": 6949,
+    "sfc_jp": "ルイーダ「でも　あなたには[LINE]　　仲間に　できる人が[LINE]　　ひとりも　いなくてよ。[WAIT][END STRING AE]",
+    "ds_jp": [
+      "@a@bルイーダ「でも　お店には　あなたの\n\t仲間に　できるようなひとは\n\t１人も　いなくてよ。\n@c0@"
+    ],
+    "ds_fr_body": "Oupsⓠ Désolée, mais vous n'avez personne susceptible de rejoindre votre équipe. Je regrette.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Tulipe nommée sans D4 : préserver label",
+    "ds_file": "data/MESS6/FR/0816.p",
+    "ds_ids": [
+      44
+    ],
+    "sfc_vf_secondaire": "6949<0559>Luisa[LINE][LINE][WAIT][END STRING AE]"
+  },
+  {
+    "id": 4866,
+    "sfc_jp": "職業についての　説明を[LINE]お聞きに　なりますか?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「格闘場についての　説明を\n\t聞きますか？\n@c0@"
+    ],
+    "ds_fr_body": "Besoin d'en savoir plus sur le fonctionnement du Gluodromeⓡ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Vocations contre Gluodrome",
+    "ds_file": "data/MESS6/FR/0837.p",
+    "ds_ids": [
+      20
+    ],
+    "sfc_vf_secondaire": "Sur quelle classes voudriez-vous des informations?[END STRING AC]"
+  },
+  {
+    "id": 5761,
+    "sfc_jp": "これを　使うと[LINE]かっこよさが　ふえるようだ。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bこれを　使うと\n最大ＭＰが　ふえるようだ。\n@c0@"
+    ],
+    "ds_fr_body": "Il semblerait qu'en mangeant cette graine, vous puissiez faire augmenter votre maximum de PM.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Charme contre PM",
+    "ds_file": "data/MESS6/FR/0807.p",
+    "ds_ids": [
+      102
+    ],
+    "sfc_vf_secondaire": "Boire cette eau te feras sentir mieux.[WAIT][END STRING AC]"
+  },
+  {
+    "id": 6209,
+    "sfc_jp": "　　　　　　本日は　ドラゴンクエスト6を[LINE]　　　　　　　　　プレイしていただき[LINE]　　　　　　まことに　ありがとうございます。[END STRING AC]",
+    "ds_jp": [
+      "@a@b『ドラゴンクエストⅥ　幻の大地』\n体験版を　お楽しみいただき\nまことに　ありがとうございます。\n@c0@"
+    ],
+    "ds_fr_body": "Temps écouléⓠ Merci d'avoir jouéⓠ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Jeu complet contre démo",
+    "ds_file": "data/MESS6/FR/0200.p",
+    "ds_ids": [
+      2
+    ],
+    "sfc_vf_secondaire": "6209<0559>Dragon Quest VI[END STRING AC]"
+  },
+  {
+    "id": 2404,
+    "sfc_jp": "よくぞ　来た![LINE]わしは　海の王　ポセイドンじゃ。[WAIT][LINE]そなたたちじゃな[LINE]あのグラコスを　たおしてくれたのは。[LINE]ゆかいじゃ　まことに　ゆかいじゃ。[WAIT][LINE]その礼といっては　なんだが[LINE]そなたたちに　いいことを[LINE]おしえようぞ。[WAIT][LINE]これは　伝説の盾についての[LINE]いいつたえの　ひとつじゃ。[WAIT][LINE]まよいの小部屋は　下に3階[LINE]上に2階。[LINE]さすれば　道が　ひらけよう。[WAIT][LINE]どうじゃ?　役にたちそうか?[LINE]わしの知るかぎり　いいつたえは[LINE]全部で　3つある。[WAIT][LINE]わしは　1つしか知らぬが[LINE]そなたたちなら　かならずや[LINE]なぞを　ときあかせるであろう。[WAIT][LINE]かつやくを　きたいしておるぞ![END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「よくぞ　来た！\n\tわしは　海の王　ポセイドンじゃ。\n@c0@",
+      "@a@b＊「そなたたちが　グラコスを\n\t倒してくれたおかげで　海の中も\n\tだいぶ　落ち着いてきたわい。\n@c0@",
+      "@a@b＊「その礼といっては　なんだが\n\tいいことを　教えようぞ。\n@c0@",
+      "@a@b＊「これは　伝説の盾にまつわる\n\t言い伝えの　ひとつじゃ。\n@c0@",
+      "@a@b＊「まよいの小部屋は\n\t下に３階　上に２階。\n\tさすれば　道が　ひらけよう。\n@c0@",
+      "@a@b＊「どうじゃ？　役に立ちそうか？\n\tわしの知るかぎり　言い伝えは\n\t全部で　３つある。\n@c0@"
+    ],
+    "ds_fr_body": "Enchantéⓠ Bienvenue à la cour de Poséidon, le roi des océans. Maintenant que nous sommes débarrassés de ce mécréant de Gracos, l'océan a retrouvé son calme et sa beauté. Je vous remercie pour votre aide. Comme promis, je vais maintenant vous confier un secret... Ce secret concerne un bouclier légendaire... ⓥDans la petite salle à répétition, le vrai chemin conduit trois niveaux en bas et deux niveaux en haut.ⓦ Mmmⓡ Ça vous dit quelque choseⓡ J'ai entendu dire qu'il existait en tout trois de ces secrets.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Indice de bouclier et route",
+    "ds_file": "data/MESS6/FR/0056.p",
+    "ds_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "sfc_vf_secondaire": "<0559>Bienvenue![LINE]Je suis le roi des mers, Poseidon.[WAIT][LINE]Merci d'avoir vaincu Glacos.[WAIT][LINE]Laissez-moi vous aider à trouver le bouclier de Sufida.[WAIT][LINE]Descendez trois étages, et montez-en deux, alors la route sera libre.[WAIT][LINE]Qu'est-ce que ça veut dire?[WAIT][LINE]Trois énigmes protêgent le bouclier. C'est la solution d'une d'entre elles.[WAIT][LINE]Malheureusement, Je ne connais pas les deux autres.[END STRING AC]"
+  },
+  {
+    "id": 5816,
+    "sfc_jp": "せいすいの　こうりょくが　なくなった![END STRING AC]",
+    "ds_jp": [
+      "@a@bすべての　じゅもんの\nこうりょくが　なくなった！\n@c0@"
+    ],
+    "ds_fr_body": "Toute la magie est neutraliséeⓠ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Eau sacrée contre neutralisation de magie",
+    "ds_file": "data/MESS6/FR/0802.p",
+    "ds_ids": [
+      433
+    ],
+    "sfc_vf_secondaire": "Le groupe de [CODE D3] n'est plus furtif.[END STRING AC]"
+  },
+  {
+    "id": 6465,
+    "sfc_jp": "[CODE D4][CODE DE]ルイーダ「[CODE C0]さん[LINE]やすらかに　眠ってね......。[WAIT][CODE D5][END STRING AC]",
+    "ds_jp": [
+      "@a@b%a002020は　やすらかに眠っている。\n@c0@"
+    ],
+    "ds_fr_body": "%0%a002020 se repose.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Repos en paix contre Laura au repos",
+    "ds_file": "data/MESS6/FR/0014.p",
+    "ds_ids": [
+      303
+    ],
+    "sfc_vf_secondaire": "[CODE D4]Luisa.<0559>Repose en paix, [CODE C0]…[WAIT][CODE D5][END STRING AC]"
+  },
+  {
+    "id": 6338,
+    "sfc_jp": "[CODE DE]どれを　売ってくれるのかな?[WAIT][CODE D5][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「誰が　売ってくれるかね？\n@c0@"
+    ],
+    "ds_fr_body": "Qui aimerait vendre quelque choseⓡ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Quel objet contre qui vend",
+    "ds_file": "data/MESS6/FR/0813.p",
+    "ds_ids": [
+      41
+    ],
+    "sfc_vf_secondaire": "6338<0559>[WAIT][CODE D5][END STRING AC]"
+  },
+  {
+    "id": 5748,
+    "sfc_jp": "伝説の　4つの武具の　うちの[LINE]ひとつに　ちがいない。[WAIT][LINE]太陽のような　しるしが[LINE]きざまれている[WAIT][LINE]これを　装備していると[LINE]特別な　効果が　ありそうだ。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bかさなりあった　剣のような　しるしが\nきざまれている。\n@c0@",
+      "@a@b太陽のような　しるしが\nきざまれている。\n@c0@",
+      "@a@bこれを　装備していると\n特別な効果が　ありそうだ。\n@c0@"
+    ],
+    "ds_fr_body": "Des armoiries représentant des épées croisées sont gravées dessus. Des armoiries représentant un soleil sont gravées dessus. Le fait de s'en équiper pourrait avoir des effets particuliers.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Armure soleil contre mélange de fiches",
+    "ds_file": "data/MESS6/FR/0807.p",
+    "ds_ids": [
+      22,
+      24,
+      26
+    ],
+    "sfc_vf_secondaire": "Restaure la sante.[WAIT][END STRING AC]"
+  },
+  {
+    "id": 5844,
+    "sfc_jp": "しかし　何も　思い出せなかった。[END STRING AC]",
+    "ds_jp": [
+      "@a@bしかし　何も　見つからなかった。\n@c0@"
+    ],
+    "ds_fr_body": "Mais il n'y a rien d'enterré ici.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Mémoire contre objet enterré",
+    "ds_file": "data/MESS6/FR/0803.p",
+    "ds_ids": [
+      157
+    ],
+    "sfc_vf_secondaire": "<0559>Mais tu ne te rappelles de rien.[END STRING AC]"
+  },
+  {
+    "id": 5851,
+    "sfc_jp": "しかし　何も　思い出せなかった。[END STRING AC]",
+    "ds_jp": [
+      "@a@bしかし　何も　見つからなかった。\n@c0@"
+    ],
+    "ds_fr_body": "Mais il n'y a rien d'enterré ici.",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Même faux rapprochement",
+    "ds_file": "data/MESS6/FR/0803.p",
+    "ds_ids": [
+      157
+    ],
+    "sfc_vf_secondaire": "<0559>Mais tu ne te rappelles de rien.[END STRING AC]"
+  },
+  {
+    "id": 6937,
+    "sfc_jp": "＊「どの品物を[LINE]　　売ってくださいます?[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「いくつ　売ってくださいます？\n@c0@"
+    ],
+    "ds_fr_body": "Combien souhaitez-vous en vendreⓡ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Quel objet contre quelle quantité",
+    "ds_file": "data/MESS6/FR/0810.p",
+    "ds_ids": [
+      54
+    ],
+    "sfc_vf_secondaire": "6937<0559>[LINE][WAIT][END STRING AC]"
+  },
+  {
+    "id": 5159,
+    "sfc_jp": "ホルス王子は　王位を[LINE]つがないつもり　なのかな。[WAIT][LINE]王さま　なんて　だれにでも[LINE]できるなんてものじゃ[LINE]ないしね。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「ホルストック城へ　ようこそ！\n@c0@",
+      "@a@b＊「王さま　なんて　だれにでも\n\tできるなんてものじゃ\n\tないしね。\n@c0@"
+    ],
+    "ds_fr_body": "Bienvenue au château de Pierreforteⓠ Je voudrais être roi pour rien au mondeⓠ Ça me semble beaucoup trop difficileⓠ",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Succession contre accueil du château",
+    "ds_file": "data/MESS6/FR/0028.p",
+    "ds_ids": [
+      2,
+      4
+    ],
+    "sfc_vf_secondaire": "Ce n'est pas le prince Holse qui a soulevé ma jupe…[WAIT][LINE]A t'il vraiment changé? Merci…[END STRING AC]"
+  },
+  {
+    "id": 6172,
+    "sfc_jp": "その方向には　誰もいなかったことに[LINE]　してください。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「い　いまのは　聞かなかったことに\n\tしてくださいね！\n@c0@"
+    ],
+    "ds_fr_body": "Euh... Vous n'avez rien entendu, heinⓡ On va faire comme s'il ne s'était rien passé...",
+    "status": "DIFFERE_NON_INSERE",
+    "reason": "Métatexte SFC contre réplique de commerce",
+    "ds_file": "data/MESS6/FR/0025.p",
+    "ds_ids": [
+      317
+    ],
+    "sfc_vf_secondaire": "6172<0559>[END STRING AC]"
+  }
+]

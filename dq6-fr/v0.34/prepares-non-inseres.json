@@ -1,0 +1,27 @@
+[
+  {
+    "id": 4095,
+    "file": "0003.p",
+    "ids": [
+      171,
+      172
+    ],
+    "sfc_jp": "私たちは　旅の商人です。[WAIT][LINE]西にずっといった森の中で[LINE]仲間が　あばれ馬に　おそわれ[LINE]ケガをしてしまいました。[CODE D5][WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le cheval l'a frappé quand il a essayé de lui[LINE]monter dessus…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「私たちは　旅の商人です。\n@c0@",
+      "@a@b＊「西の岩山の向こうの橋を　わたって\n\t北に行った森の中で　仲間が\n\tあばれ馬におそわれ　ケガをしました。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ On est des marchands ambulants, lui et moi. Enfin, on l'était.\n@c0@",
+      "@a@b*ⓢ Mon partenaire a été attaqué par une jument sauvage dans la forêt, au nord du pont, à l'ouest.\n@c0@"
+    ],
+    "ds_fr_body": "On est des marchands ambulants, lui et moi. Enfin, on l'était. Mon partenaire a été attaqué par une jument sauvage dans la forêt, au nord du pont, à l'ouest.",
+    "review": "Blessure et ouest SFC ; pas pont ou direction nord supplémentaires DS. D5 conservé.",
+    "status": "PREPARE_NON_INSERE",
+    "original_body": "On est des marchands ambulants, lui et moi. Enfin, on l'était. Mon partenaire a été attaqué par une jument sauvage dans la forêt, au nord du pont, à l'ouest.",
+    "adaptation_body": "Nous sommes des marchands ambulants. Notre compagnon a été attaqué et blessé par une jument sauvage dans la forêt, loin à l'ouest.",
+    "adaptation_review": "Blessure et ouest SFC ; pas pont ou direction nord supplémentaires DS. D5 conservé.",
+    "remaining_checks": "Dernier écran avec D5 à vérifier dans la scène naturelle ; le banc du camp reprend deux lignes de la page précédente. Aucun effacement de D5 ni correctif moteur accepté."
+  }
+]

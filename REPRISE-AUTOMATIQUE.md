@@ -1,6 +1,12 @@
 # Reprise DQVI FR depuis GitHub
 
-Dernière version : v0.33, script 5732/6957 inchangé, 1225 restants. Tables : huit lieux intégrés séparément, 25 préparés non insérés, inventaire v0.33. Toujours 8 Mio.
+Dernière version : v0.34, 5853/6957 intégrés, 1104 restants. Ce lot : 121 nouveaux, 1 préparé non inséré (4095), 26 autres rapprochements différés. Tables : huit lieux intégrés, 25 préparés non insérés, inventaire v0.33. Toujours 8 Mio.
+
+## Lot v0.34 : 121 ajouts
+
+Lire v0.34/LISEZ-MOI.md et revue-lot-v034.json. Noms, directions, temporalité, alcool, carte/clef, épée légendaire et équipement perdu SFC explicitement adaptés. Nom DS lame du Châtiment et clef du geôlier vérifiés dans MENULIST6. 5732 anciens textes et 2512 noms inchangés, dont correction 323, 1836 et huit lieux. Recette pass34.py, delta v0.34 ; ne pas réutiliser cette revue comme nouvelle traduction. Vérifier init/prepare/build/verify et check_body_names.py ; v0.33 construit nécessaire pour la comparaison stricte des noms. Contrôles patchs, redécodage, zones protégées et bus script+tables ; Journal et 16 textes par diagnostics au camp, pas les parcours naturels.
+
+4095 : PREPARE_NON_INSERE. Dernière page D5 avec reprise de lignes dans le camp ; cause non établie. Conserver prepares-non-inseres.json et qa-4095-preparation.json. Ne pas supprimer D5, vérifier la scène de marchands naturelle. Les 26 autres cas différés sont documentés avec sources, fichier et IDs DS ; ne pas les insérer automatiquement. Continuer 1104 textes et tables. Garder indices 610/1135/2404/5341/5351, alphabet accentué et fenêtres naturelles des tables. Aucune finalisation annoncée.
 
 ## Lot v0.33 : huit lieux
 

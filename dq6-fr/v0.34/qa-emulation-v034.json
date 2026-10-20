@@ -1,0 +1,32 @@
+{
+  "version": "v0.34",
+  "result_sha256": "68c908f3c4ccfe28fd662782667c19cc87cf7d82d02f2d72dcafecde46ee1fcb",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "cold_boot_reaches_journal_menu": true,
+  "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "fixture_ids": [
+    17,
+    325,
+    329,
+    360,
+    371,
+    600,
+    1092,
+    2299,
+    2991,
+    3676,
+    3911,
+    4785,
+    5682,
+    6426,
+    6557,
+    6750
+  ],
+  "pages_visually_reviewed": 45,
+  "readable": true,
+  "natural_scenes_played": false,
+  "all_121_messages_emulated": false,
+  "full_playthrough": false,
+  "limits": "Redirections au camp, dont D3/C9/CC/CF, locutrice CB+D9, DB et question DE/D5. Pas les scènes naturelles. 4095 conservé préparé séparément à cause du dernier écran D5 non concluant."
+}
