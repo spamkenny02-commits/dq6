@@ -1,3 +1,7 @@
+# Reprise v0.40
+
+40 ajouts relus ; 5927 anciennes sélections et 2512 noms inchangés. Rendu des 40 textes : 75 pages, plus 11 pages de stress B5 sur cinq textes. Diagnostics au camp, pas les scènes naturelles. Continuer les 990 textes, tables et réserves héritées. B5 natif maintenant lié explicitement aux noms d’objets ; réserve 24 cellules, sans ponctuation accolée. Ne pas annoncer finalisé.
+
 # Reprise DQVI FR depuis GitHub
 
 Dernière version : v0.39, 5927/6957 intégrés, 1030 restants. 22 ajouts nouveaux, zéro préparé principal. Tables inchangées : huit lieux, Gus et 20 noms de sorts/actions ; 37 entrées FR confirmées, 25 lieux préparés. Toujours 8 Mio.

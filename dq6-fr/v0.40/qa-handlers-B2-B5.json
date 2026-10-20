@@ -1,0 +1,18 @@
+{
+  "handlers": {
+    "B2": {
+      "offset": 430598,
+      "bytes": "20c095ad285a4cf0fda000004cfbfd225e31c022db31c099b859c9ac00d008a9ab0099b8598004c8",
+      "unchanged_from_legacy_ips": true
+    },
+    "B5": {
+      "offset": 430822,
+      "bytes": "20c095ad2a5a800620c095ad2c5a22b85ec4ffff4c0c9220c095ae265a22c2f0c274c64c0c9220c0",
+      "unchanged_from_legacy_ips": true
+    }
+  },
+  "B5_item_id_wram": "5A2A/5A2B",
+  "B2_name_sid_wram": "5A28/5A29",
+  "display_only_binding": true,
+  "machine_code_changes": false
+}

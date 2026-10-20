@@ -1,0 +1,31 @@
+{
+  "release": "v0.40",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5967,
+    "visible_total": 6957,
+    "new_this_pass": 40,
+    "remaining": 990
+  },
+  "baseline": "v0.39",
+  "prepared_not_inserted": {
+    "main": 0,
+    "separate_places": 25
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.40",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "spell_action_labels_inserted": 20,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 37
+  },
+  "rom_bytes": 8388608,
+  "notes": "40 ajouts relus ; 5927 anciennes sélections et 2512 noms inchangés. Rendu des 40 textes : 75 pages, plus 11 pages de stress B5 sur cinq textes. Diagnostics au camp, pas les scènes naturelles.",
+  "next": "Continuer les 990 textes, tables et réserves héritées. B5 natif maintenant lié explicitement aux noms d’objets ; réserve 24 cellules, sans ponctuation accolée. Ne pas annoncer finalisé."
+}

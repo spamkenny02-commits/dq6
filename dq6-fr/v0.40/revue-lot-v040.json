@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 780,
+    "file": "0084.p",
+    "ids": [
+      511
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4]エンデ「そうか　[CODE B2]が　ええか。[LINE]それで　ええんじゃな?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Ende.You'd like me to make you a [CODE B2].[LINE]Are you sure?[END STRING AC]",
+    "ds_ja": [
+      "@a@bエンデ「そうか　%a002380が　ええか。\n\tそれで　ええんじゃな？\n@c0@"
+    ],
+    "ds_fr": [
+      "@aTristan Clume@b%0%a002380, heinⓡ Vous êtes %A0110%Xsûr%Z%B0110%Xsûre%Zⓡ\n@c0@"
+    ],
+    "original_body": "%0%a002380, heinⓡ Vous êtes %A0110%Xsûr%Z%B0110%Xsûre%Zⓡ",
+    "adaptation_body": "Ainsi, vous choisissez %a002380. Vous confirmez?",
+    "native_bindings": {
+      "%a002380": 178
+    },
+    "adaptation_review": "Choix de la pièce d’armure, genre neutralisé. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Choix de la pièce d’armure, genre neutralisé.",
+    "sfc_context": [
+      {
+        "id": 779,
+        "text": "[CODE D4]エンデ「よし!　道具も　きたことだし[LINE]お前さんたちのために　ひとつ[LINE]うでを　ふるってやろう![WAIT][LINE][CODE D4]エンデ「なにが　ええかのう?[END STRING AC]"
+      },
+      {
+        "id": 780,
+        "text": "[CODE D4]エンデ「そうか　[CODE B2]が　ええか。[LINE]それで　ええんじゃな?[END STRING AC]"
+      },
+      {
+        "id": 781,
+        "text": "[CODE D4]エンデ「なんじゃ　ちがうのか。[LINE]じゃったら　なにが　ええんじゃ?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 785,
+    "file": "0085.p",
+    "ids": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "status": "RELU",
+    "sfc_jp": "あら　目が　覚めたのね。[LINE]あなた方のおかげで　皆が[LINE]希望を　とりもどしたわ。[WAIT][LINE]本当に　ありがとう。[WAIT][LINE]それから　エンデじいさんが[LINE]あの　[CODE B2]を　[CODE D3]さんにって。[WAIT][LINE]おじいさんも　元気になってくれて[LINE]よかったわ。[LINE]私も　がんばらなくちゃ![END STRING AC]",
+    "sfc_vf_secondaire": "Oh, you're awake? Everyone<024D> happier because of you.[WAIT][LINE]Ende was so happy, the cheer just spread through the village![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「あら　目が　覚めたのね。\n\tあなた方のおかげで　皆が\n\t希望を　とりもどしたわ。\n@c0@",
+      "@a@b＊「本当に　ありがとう。\n@c0@",
+      "@a@b＊「それから　エンデじいさんが\n\tあの　%a002380を　%a000120さんにって。\n@c0@",
+      "@a@b＊「おじいさんも　元気になってくれて\n\tよかったわ。\n\t私も　がんばらなくちゃ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Oh, vous êtes %H0860%X%A0110%Xréveillé%Z%B0110%Xréveillée%Z%Y%R0000%Xréveillées%Yréveillés%Z%Zⓠ J'ai une merveilleuse nouvelle à vous annoncerⓠ L'espoir renaît enfin dans cette ville et c'est grâce à vousⓠ\n@c0@",
+      "@a@b*ⓢ Nous vous sommes tellement redevablesⓠ\n@c0@",
+      "@a@b*ⓢ Au fait, cette pièce d'armure vous appartient. Monsieur Clume a dit l'avoir forgée exprès pour vous.\n@c0@",
+      "@a@b*ⓢ Quel bonheur de le voir reprendre le travailⓠ Nous devrions tous suivre son exemple.\n@c0@"
+    ],
+    "original_body": "Oh, vous êtes %H0860%X%A0110%Xréveillé%Z%B0110%Xréveillée%Z%Y%R0000%Xréveillées%Yréveillés%Z%Zⓠ J'ai une merveilleuse nouvelle à vous annoncerⓠ L'espoir renaît enfin dans cette ville et c'est grâce à vousⓠ Nous vous sommes tellement redevablesⓠ Au fait, cette pièce d'armure vous appartient. Monsieur Clume a dit l'avoir forgée exprès pour vous. Quel bonheur de le voir reprendre le travailⓠ Nous devrions tous suivre son exemple.",
+    "adaptation_body": "Ah, vous voilà debout! Grâce à vous, tous ont retrouvé espoir. Merci infiniment. Et puis, monsieur Clume a laissé %a002380 pour %a000140. Quel bonheur de le voir reprendre des forces! Moi aussi, je dois m'y mettre!",
+    "native_bindings": {
+      "%a002380": 178
+    },
+    "adaptation_review": "Rétablit le destinataire D3 et la pièce B2, absents du français DS explicite. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Rétablit le destinataire D3 et la pièce B2, absents du français DS explicite.",
+    "sfc_context": [
+      {
+        "id": 784,
+        "text": "[CODE D3]たちは　目をさました![WAIT][LINE]ベッドの横には[LINE]まぶしいほどに　みごとな　[CODE B2]が[LINE]おかれている。[WAIT][LINE][CODE D3]は　[CODE B5]を[LINE]手に入れた![END STRING AE]"
+      },
+      {
+        "id": 785,
+        "text": "あら　目が　覚めたのね。[LINE]あなた方のおかげで　皆が[LINE]希望を　とりもどしたわ。[WAIT][LINE]本当に　ありがとう。[WAIT][LINE]それから　エンデじいさんが[LINE]あの　[CODE B2]を　[CODE D3]さんにって。[WAIT][LINE]おじいさんも　元気になってくれて[LINE]よかったわ。[LINE]私も　がんばらなくちゃ![END STRING AC]"
+      },
+      {
+        "id": 786,
+        "text": "なんだか　身体が　かるく[LINE]なったようじゃよ。[LINE]ありがたいことじゃ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 797,
+    "file": "0085.p",
+    "ids": [
+      38,
+      39
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4]エンデ「おお　お前さんたちか。[LINE]どうじゃ　わしの　きたえた[LINE][CODE B2]は![WAIT][LINE][CODE D4]エンデ「気に入ったじゃろう。[LINE]わっはっはっ。　それを使って[LINE]必ずや　大魔王を　たおせよ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Ende.Oh, it<024D> you guys! I see you found the [CODE B2]![WAIT][LINE][CODE D4]Ende.Surely you can use it to defeat the demon emporer![END STRING AC]",
+    "ds_ja": [
+      "@a@bエンデ「おお　お前さんたちか。\n\tどうじゃ　わしの　きたえた\n\t%a002380は！\n@c0@",
+      "@a@bエンデ「気に入ったじゃろう。\n\tわっはっはっ。　それを使って\n\t必ずや　大魔王を　たおせよ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aTristan Clume@bAh, c'est vousⓠ Alors, que dites-vous de cette pièce d'armureⓡ Pas mal, heinⓡ\n@c0@",
+      "@aTristan Clume@bAvec ça, je suis sûr que ce maudit Mortamor ne fera pas long feuⓠ\n@c0@"
+    ],
+    "original_body": "Ah, c'est vousⓠ Alors, que dites-vous de cette pièce d'armureⓡ Pas mal, heinⓡ Avec ça, je suis sûr que ce maudit Mortamor ne fera pas long feuⓠ",
+    "adaptation_body": "Ah, c'est vous! Que dites-vous de %a002380? Cela vous plaît, hein? Ha ha ha! Avec ça, vous devez absolument vaincre le démon suprême!",
+    "native_bindings": {
+      "%a002380": 178
+    },
+    "adaptation_review": "Restaure la pièce B2 et le rire SFC ; nom français DS Tristan Clume. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Restaure la pièce B2 et le rire SFC ; nom français DS Tristan Clume.",
+    "sfc_context": [
+      {
+        "id": 796,
+        "text": "ここに　よく来ていた[LINE]町長まで　やってたことがあるって[LINE]いってた　おっさん......[WAIT][LINE]温泉に　下への抜け道があるって[LINE]聞いて　すっとんでいったけど[LINE]だいじょうぶかなあ......[END STRING AC]"
+      },
+      {
+        "id": 797,
+        "text": "[CODE D4]エンデ「おお　お前さんたちか。[LINE]どうじゃ　わしの　きたえた[LINE][CODE B2]は![WAIT][LINE][CODE D4]エンデ「気に入ったじゃろう。[LINE]わっはっはっ。　それを使って[LINE]必ずや　大魔王を　たおせよ![END STRING AC]"
+      },
+      {
+        "id": 798,
+        "text": "[CODE D4]エンデ「ほれほれ　ビシッとせんかい![LINE]ビシッっと![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5899,
+    "file": "0804.p",
+    "ids": [
+      41
+    ],
+    "status": "RELU",
+    "sfc_jp": "なんと　井戸の中から[LINE][CODE B2]が　あらわれた!![END STRING AC]",
+    "sfc_vf_secondaire": "Un [CODE B2] is looking back![END STRING AC]",
+    "ds_ja": [
+      "@a@bなんと　井戸の中から\n%a000190が　あらわれた！！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bOh-ohⓠ %0%a040190 remonte du fond du puitsⓠ\n@c0@"
+    ],
+    "original_body": "Oh-ohⓠ %0%a040190 remonte du fond du puitsⓠ",
+    "adaptation_body": "Oh-oh! %a040190 surgit du puits!",
+    "native_bindings": {
+      "%a040190": 178
+    },
+    "adaptation_review": "Adapte le contenant au japonais SFC, pas seulement au puits DS. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Adapte le contenant au japonais SFC, pas seulement au puits DS.",
+    "sfc_context": [
+      {
+        "id": 5898,
+        "text": "[CODE C0]は　井戸のなかを[LINE]のぞきこんだ。[END STRING AE]"
+      },
+      {
+        "id": 5899,
+        "text": "なんと　井戸の中から[LINE][CODE B2]が　あらわれた!![END STRING AC]"
+      },
+      {
+        "id": 5900,
+        "text": "トビラには　カギが　かかっている![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5892,
+    "file": "0804.p",
+    "ids": [
+      41
+    ],
+    "status": "RELU",
+    "sfc_jp": "なんと　タルの中から[LINE][CODE B2]が　あらわれた!![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Il y a un [CODE B2] dans le barril![END STRING AC]",
+    "ds_ja": [
+      "@a@bなんと　井戸の中から\n%a000190が　あらわれた！！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bOh-ohⓠ %0%a040190 remonte du fond du puitsⓠ\n@c0@"
+    ],
+    "original_body": "Oh-ohⓠ %0%a040190 remonte du fond du puitsⓠ",
+    "adaptation_body": "Oh-oh! %a040190 surgit du tonneau!",
+    "native_bindings": {
+      "%a040190": 178
+    },
+    "adaptation_review": "Adapte le contenant au japonais SFC, pas seulement au puits DS. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Adapte le contenant au japonais SFC, pas seulement au puits DS.",
+    "sfc_context": [
+      {
+        "id": 5891,
+        "text": "[CODE C0]は　タルの中を[LINE]のぞきこんだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5892,
+        "text": "なんと　タルの中から[LINE][CODE B2]が　あらわれた!![END STRING AC]"
+      },
+      {
+        "id": 5893,
+        "text": "[CODE C0]は　足もとを　調べた![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5870,
+    "file": "0804.p",
+    "ids": [
+      41
+    ],
+    "status": "RELU",
+    "sfc_jp": "なんと　タンスの中から[LINE][CODE B2]が　あらわれた!![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Un [CODE B2] sort du buffet![END STRING AC]",
+    "ds_ja": [
+      "@a@bなんと　井戸の中から\n%a000190が　あらわれた！！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bOh-ohⓠ %0%a040190 remonte du fond du puitsⓠ\n@c0@"
+    ],
+    "original_body": "Oh-ohⓠ %0%a040190 remonte du fond du puitsⓠ",
+    "adaptation_body": "Oh-oh! %a040190 surgit de l’armoire!",
+    "native_bindings": {
+      "%a040190": 178
+    },
+    "adaptation_review": "Adapte le contenant au japonais SFC, pas seulement au puits DS. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Adapte le contenant au japonais SFC, pas seulement au puits DS.",
+    "sfc_context": [
+      {
+        "id": 5869,
+        "text": "[CODE C0]は　タンスの中を[LINE]調べようとした。[WAIT][LINE]しかし　うら側からは[LINE]タンスの中は　わからない。[END STRING AC]"
+      },
+      {
+        "id": 5870,
+        "text": "なんと　タンスの中から[LINE][CODE B2]が　あらわれた!![END STRING AC]"
+      },
+      {
+        "id": 5871,
+        "text": "とくに　何も　見つからなかった。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5890,
+    "file": "0804.p",
+    "ids": [
+      41
+    ],
+    "status": "RELU",
+    "sfc_jp": "なんと　本だなの中から[LINE][CODE B2]が　あらわれた!![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Il y a un [CODE B2] sur l'étagêre![END STRING AC]",
+    "ds_ja": [
+      "@a@bなんと　井戸の中から\n%a000190が　あらわれた！！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bOh-ohⓠ %0%a040190 remonte du fond du puitsⓠ\n@c0@"
+    ],
+    "original_body": "Oh-ohⓠ %0%a040190 remonte du fond du puitsⓠ",
+    "adaptation_body": "Oh-oh! %a040190 surgit de la bibliothèque!",
+    "native_bindings": {
+      "%a040190": 178
+    },
+    "adaptation_review": "Adapte le contenant au japonais SFC, pas seulement au puits DS. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Adapte le contenant au japonais SFC, pas seulement au puits DS.",
+    "sfc_context": [
+      {
+        "id": 5889,
+        "text": "とくに　かわった本は　ないようだ。[END STRING AC]"
+      },
+      {
+        "id": 5890,
+        "text": "なんと　本だなの中から[LINE][CODE B2]が　あらわれた!![END STRING AC]"
+      },
+      {
+        "id": 5891,
+        "text": "[CODE C0]は　タルの中を[LINE]のぞきこんだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6631,
+    "file": "0074.p",
+    "ids": [
+      472,
+      473,
+      474
+    ],
+    "status": "RELU",
+    "sfc_jp": "やや!　これは　これは[LINE]スーパードレッサー　ごー行さま![LINE]ようこそ　いらっしゃいました。[WAIT][LINE]今日は　これから[LINE]ランク[CODE B2]の　コンテストが[LINE]行なわれるんですが...[WAIT][LINE]よかったら　特別しんさいんを[LINE]していただけませんか?[LINE]ぜひ　おねがいします。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Vous… Vous ètes le Super Looké![LINE]Bienvenue.[WAIT][LINE]<0559>Aujoud'hui, nous avons le classement [CODE B2] du concours. Mais vous ne pouvez pas participer.[WAIT][LINE]Mais s'il vous plait restez voir.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「やや！　これは　これは\n\tスーパードレッサー　ご一行さま！\n\tようこそ　いらっしゃいました。\n@c0@",
+      "@a@b＊「今日は　これから\n\tランク%a002350の　コンテストが\n\t行われるんですが……\n@c0@",
+      "@a@b＊「よかったら　特別しんさ員を\n\tしていただけませんか？\n\tぜひ　おねがいします。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Oh, c'est vousⓠ Bonjourⓠ Les Stars de Paco'Style sont toujours les bienvenuesⓠ\n@c0@",
+      "@a@b*ⓢ Le concours d'aujourd'hui n'est qu'une épreuve de niveau %a002350, mais...\n@c0@",
+      "@a@b*ⓢ Ça vous dirait de faire partie du jury à titre spécialⓡ Ce serait un honneur pour nousⓠ\n@c0@"
+    ],
+    "original_body": "Oh, c'est vousⓠ Bonjourⓠ Les Stars de Paco'Style sont toujours les bienvenuesⓠ Le concours d'aujourd'hui n'est qu'une épreuve de niveau %a002350, mais... Ça vous dirait de faire partie du jury à titre spécialⓡ Ce serait un honneur pour nousⓠ",
+    "adaptation_body": "Oh! Les Stars de Paco'Style sont toujours les bienvenues! Un concours de rang %a002350 va commencer. Accepteriez-vous de faire partie du jury exceptionnellement? Je vous en prie!",
+    "native_bindings": {
+      "%a002350": 178
+    },
+    "adaptation_review": "Rang B2 restauré ; demande de jury, pas invitation à concourir. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Rang B2 restauré ; demande de jury, pas invitation à concourir.",
+    "sfc_context": [
+      {
+        "id": 6630,
+        "text": "ウウウ...。[END STRING AC]"
+      },
+      {
+        "id": 6631,
+        "text": "やや!　これは　これは[LINE]スーパードレッサー　ごー行さま![LINE]ようこそ　いらっしゃいました。[WAIT][LINE]今日は　これから[LINE]ランク[CODE B2]の　コンテストが[LINE]行なわれるんですが...[WAIT][LINE]よかったら　特別しんさいんを[LINE]していただけませんか?[LINE]ぜひ　おねがいします。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6632,
+        "text": "ステージ左の　しんさいん長の[LINE]となりの席が　特別しんさいんの[LINE]席に　なっていますので　どうぞ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1892,
+    "file": "0060.p",
+    "ids": [
+      250,
+      251
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D9]あらっ　チャンピオンの[LINE][CODE B2]![WAIT][LINE][CODE D9]やっぱり　ステキね...。[END STRING AC]",
+    "sfc_vf_secondaire": "1892<0559>[CODE D9][LINE][CODE B2][WAIT][LINE][CODE D9][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「あら　チャンピオンの\n\t%a002240！\n@c0@",
+      "@a@b＊「やっぱり　ステキね……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ohⓠ C'est %a002240ⓠ\n@c0@",
+      "@a@b*ⓢ Dire que t'es là, juste à côté de moi... (slurrrp) Ooh, j'en ai des frissonsⓠ\n@c0@"
+    ],
+    "original_body": "Ohⓠ C'est %a002240ⓠ Dire que t'es là, juste à côté de moi... (slurrrp) Ooh, j'en ai des frissonsⓠ",
+    "adaptation_body": "Oh! Le champion, %a002240! Quel charme...",
+    "native_bindings": {
+      "%a002240": 178
+    },
+    "adaptation_review": "Champion B2, enthousiasme et voix D9 conservés. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Champion B2, enthousiasme et voix D9 conservés.",
+    "sfc_context": [
+      {
+        "id": 1891,
+        "text": "ボクも　[CODE B2]　みたいに[LINE]がんばるぞ![END STRING AC]"
+      },
+      {
+        "id": 1892,
+        "text": "[CODE D9]あらっ　チャンピオンの[LINE][CODE B2]![WAIT][LINE][CODE D9]やっぱり　ステキね...。[END STRING AC]"
+      },
+      {
+        "id": 1893,
+        "text": "これが　かつて　1ばん強かった[LINE]チャンプの石ぞうだ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6735,
+    "file": "0074.p",
+    "ids": [
+      418,
+      419,
+      420
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE D9]シャロン「今回は　最終コンテスト[LINE]ということで　しんさも[LINE]大変だったざます。[WAIT][LINE][CODE D4][CODE D9]シャロン「優勝した　[CODE B2]さんは[LINE]スーパードレッサーの　名に[LINE]はじることのないよう...[WAIT][LINE][CODE D4][CODE D9]シャロン「これからも　どんどん[LINE]カッコよさを　みがいていって[LINE]ほしいざます。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9]Sharon.Ca a été três diffile de chosir un gagnant cette fois.[WAIT][LINE][CODE D4][CODE D9]Sharon.Mais le mieux looké était [CODE B2]![WAIT][LINE][CODE D4][CODE D9]Sharon.C'est important que vous gardiez votre image.[END STRING AC]",
+    "ds_ja": [
+      "@a@bシャロン「今回は　最終コンテスト\n\tということで　しんさも\n\t大変だったざます。\n@c0@",
+      "@a@bシャロン「優勝した　%a002310さんは\n\tスーパードレッサーの　名に\n\t恥じることのないよう……\n@c0@",
+      "@a@bシャロン「これからも　どんどん\n\tかっこよさを　みがいていって\n\tほしいざます。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aNaomi@bWaouh. Pas facile de juger ce concours. Même pour moi...\n@c0@",
+      "@aNaomi@bJe mourrais de honte si %a002310 ne faisait pas honneur au titre de Star de Paco'Style...\n@c0@",
+      "@aNaomi@bAlors, traitez ce titre avec le respect qui lui est dû et tâchez toujours d'améliorer votre style.\n@c0@"
+    ],
+    "original_body": "Waouh. Pas facile de juger ce concours. Même pour moi... Je mourrais de honte si %a002310 ne faisait pas honneur au titre de Star de Paco'Style... Alors, traitez ce titre avec le respect qui lui est dû et tâchez toujours d'améliorer votre style.",
+    "adaptation_body": "Pas facile de juger cette épreuve finale! J'espère que %a002310 fera honneur au titre de Star de Paco'Style et continuera à améliorer son style!",
+    "native_bindings": {
+      "%a002310": 178
+    },
+    "adaptation_review": "Jugement final et titre ; évite le genre variable du gagnant. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Jugement final et titre ; évite le genre variable du gagnant.",
+    "sfc_context": [
+      {
+        "id": 6734,
+        "text": "[CODE D4][CODE D9]シャロン「みんな　まだまだ[LINE]アマイ　ざますね。　もっと[LINE]しょうじん　するざますよ。[END STRING AC]"
+      },
+      {
+        "id": 6735,
+        "text": "[CODE D4][CODE D9]シャロン「今回は　最終コンテスト[LINE]ということで　しんさも[LINE]大変だったざます。[WAIT][LINE][CODE D4][CODE D9]シャロン「優勝した　[CODE B2]さんは[LINE]スーパードレッサーの　名に[LINE]はじることのないよう...[WAIT][LINE][CODE D4][CODE D9]シャロン「これからも　どんどん[LINE]カッコよさを　みがいていって[LINE]ほしいざます。[END STRING AC]"
+      },
+      {
+        "id": 6736,
+        "text": "[CODE D4]司会「えー　ところで　今回は[LINE]特別に　スーパードレッサーを[LINE]おまねき　しております。[WAIT][LINE][CODE D4]司会「[CODE D3]先生![LINE]特別しんさいん　として[LINE]お話を　うかがえますか?[END STRING AC]"
+      }
+    ],
+    "adaptation_speaker": "Naomi"
+  },
+  {
+    "id": 1813,
+    "file": "0060.p",
+    "ids": [
+      30,
+      31,
+      32
+    ],
+    "status": "RELU",
+    "sfc_jp": "スライムひとすじ　30年......。[WAIT][LINE]しかし　チャンプに　勝てないで[LINE]いるうち　また　新しい[LINE]チャンピオン　[CODE B2]が。[WAIT][LINE]わし　スライム調教師の[LINE]さいのうが　ないんだろうか...。[END STRING AC]",
+    "sfc_vf_secondaire": "I've been training slimes for over thirty years…[WAIT][LINE]I doubt the new champion [CODE B2] would be able to beat Champ again.[WAIT][LINE]Maybe it<024D> time for me to retire…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「スライムひとすじ　３０年……。\n@c0@",
+      "@a@b＊「しかし　チャンプに　勝てないで\n\tいるうちに　また　新しい\n\tチャンピオン　%a002240が。\n@c0@",
+      "@a@b＊「わし　スライム調教師の\n\t才能が　ないんじゃろうか……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Trente ans, %H0860%X%A0110%Xl'ami%Z%B0110%Xl'amie%Z%Y%R0000%Xles amies%Yles amis%Z%Z... Ça fait trente ans que je suis dans la partie...\n@c0@",
+      "@a@b*ⓢ Toutes ces années passées à essayer de détrôner Moloss... Tout ça pour %G0180%Xqu'%Yque %Z%a002240 me rafle la victoire sous le nezⓠ\n@c0@",
+      "@a@b*ⓢ Je me suis bien amusé pendant ces trente dernières années, mais peut-être que je suis pas fait pour ça finalement...\n@c0@"
+    ],
+    "original_body": "Trente ans, %H0860%X%A0110%Xl'ami%Z%B0110%Xl'amie%Z%Y%R0000%Xles amies%Yles amis%Z%Z... Ça fait trente ans que je suis dans la partie... Toutes ces années passées à essayer de détrôner Moloss... Tout ça pour %G0180%Xqu'%Yque %Z%a002240 me rafle la victoire sous le nezⓠ Je me suis bien amusé pendant ces trente dernières années, mais peut-être que je suis pas fait pour ça finalement...",
+    "adaptation_body": "Trente ans consacrés aux gluants... Je n'arrivais déjà pas à battre Moloss, et voici un nouveau champion, %a002240! Peut-être que je n'ai aucun talent pour dresser les gluants...",
+    "native_bindings": {
+      "%a002240": 178
+    },
+    "adaptation_review": "Trente ans, Moloss et doute conservés ; nom DS vérifié dans le contexte. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Trente ans, Moloss et doute conservés ; nom DS vérifié dans le contexte.",
+    "sfc_context": [
+      {
+        "id": 1812,
+        "text": "なっ　プルータス![LINE]さあ　好きなだけ　飲め飲め![END STRING AC]"
+      },
+      {
+        "id": 1813,
+        "text": "スライムひとすじ　30年......。[WAIT][LINE]しかし　チャンプに　勝てないで[LINE]いるうち　また　新しい[LINE]チャンピオン　[CODE B2]が。[WAIT][LINE]わし　スライム調教師の[LINE]さいのうが　ないんだろうか...。[END STRING AC]"
+      },
+      {
+        "id": 1814,
+        "text": "スラッジさんといえば　この世界じゃ[LINE]右に出る者は　いないと　いわれる[LINE]スライム調教師。[WAIT][LINE]その　スラッジさんが　育てた[LINE]チャンプを　負かすとは[LINE]あんたら　いったい...。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6415,
+    "file": "0831.p",
+    "ids": [
+      12,
+      14,
+      16
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]しかし　[CODE C0]は[LINE][CODE B2]　として[LINE]じゅうぶんに　修業をつんだ。[WAIT][LINE]これ以上　おぼえることは[LINE]ないであろう。[WAIT][LINE]それでも[LINE][CODE B2]　として[LINE]生きてゆきたいと申すか?[END STRING AC]",
+    "sfc_vf_secondaire": "Mais [CODE C0] maitrise déjà [CODE B2].[WAIT][LINE][CODE C0] n'apprendra rien de nouveau.[WAIT][LINE][CODE C0] veut-il vraiment ètre un [CODE B2]?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「しかし　%a000180は\n\t%a002160　として\n\tじゅうぶんに　修行をつんでいる。\n@c0@",
+      "@a@b＊「これ以上　おぼえることは\n\tないであろう。\n@c0@",
+      "@a@b＊「それでも\n\t%a002160　として\n\t生きてゆきたいと申すか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Mais la vocation %A0180%X%a002161%Z%B0180%X%a002162%Z%C0180%X%Z est déjà bien connue %G0180%Xd'%Yde %Z%a000180.\n@c0@",
+      "@a@b*ⓢ Je doute qu'il lui reste des choses à accomplir pour réaliser cette vocation.\n@c0@",
+      "@a@b*ⓢ %0%a000180 souhaite-t-%A0180%Xil%Z%B0180%Xelle%Z%C0180%X%Z malgré tout suivre la vocation %A0180%X%a002161%Z%B0180%X%a002162%Z%C0180%X%Zⓡ\n@c0@"
+    ],
+    "original_body": "Mais la vocation %A0180%X%a002161%Z%B0180%X%a002162%Z%C0180%X%Z est déjà bien connue %G0180%Xd'%Yde %Z%a000180. Je doute qu'il lui reste des choses à accomplir pour réaliser cette vocation. %0%a000180 souhaite-t-%A0180%Xil%Z%B0180%Xelle%Z%C0180%X%Z malgré tout suivre la vocation %A0180%X%a002161%Z%B0180%X%a002162%Z%C0180%X%Zⓡ",
+    "adaptation_body": "Pourtant, %a000180 a déjà pleinement maîtrisé la vocation %a002160. Il ne reste plus rien à apprendre. Souhaitez-vous malgré tout continuer dans la voie %a002160?",
+    "native_bindings": {
+      "%a000180": 192,
+      "%a002160": 178
+    },
+    "adaptation_review": "Deux B2 et un C0, formulation de vocation sans branche de genre DS. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Deux B2 et un C0, formulation de vocation sans branche de genre DS.",
+    "sfc_context": [
+      {
+        "id": 6414,
+        "text": "[CODE DE]これで　[CODE C0]は[LINE]本来の　[CODE C0]となった。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6415,
+        "text": "[CODE DE]しかし　[CODE C0]は[LINE][CODE B2]　として[LINE]じゅうぶんに　修業をつんだ。[WAIT][LINE]これ以上　おぼえることは[LINE]ないであろう。[WAIT][LINE]それでも[LINE][CODE B2]　として[LINE]生きてゆきたいと申すか?[END STRING AC]"
+      },
+      {
+        "id": 6416,
+        "text": "[CODE DE]それでは　[CODE C0]よ[LINE][CODE B2]の[LINE]気持ちになって　祈りなさい。[WAIT][LINE]おお　この世の　すべての命を[LINE]つかさどる神よ!　[CODE C0]に[LINE]新たな人生を　歩ませたまえ![WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2365,
+    "file": "0006.p",
+    "ids": [
+      430
+    ],
+    "status": "RELU",
+    "sfc_jp": "『乗船拳[LINE]　レイドック城まで[LINE]　おひとり　50G』[END STRING AC]",
+    "sfc_vf_secondaire": "<0576>Ferry pour Reidock 50G<0579>[END STRING AC]",
+    "ds_ja": [
+      "@a@b『乗船券\n　レイドック城まで\n　おひとり　５０①』\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bⓥPrix bradésⓠ\nAllez à Somnia pour seulement 50 ⑴ par passagerⓠⓦ\n@c0@"
+    ],
+    "original_body": "ⓥPrix bradésⓠ\nAllez à Somnia pour seulement 50 ⑴ par passagerⓠⓦ",
+    "adaptation_body": "Billets pour le château de Somnia. 50 pièces d'or par personne.",
+    "native_bindings": {},
+    "adaptation_review": "Tarif et château SFC ; supprime prix bradés DS et remplace le glyphe monétaire non encodé. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Tarif et château SFC ; supprime prix bradés DS et remplace le glyphe monétaire non encodé.",
+    "sfc_context": [
+      {
+        "id": 2364,
+        "text": "『キケンですから[LINE]　かけこみ乗船は　やめましょう』[END STRING AC]"
+      },
+      {
+        "id": 2365,
+        "text": "『乗船拳[LINE]　レイドック城まで[LINE]　おひとり　50G』[END STRING AC]"
+      },
+      {
+        "id": 2366,
+        "text": "『ヘルハーブおんせん』[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "file": "0803.p",
+    "ids": [
+      153
+    ],
+    "status": "RELU",
+    "sfc_jp": "なんと![LINE][CODE B5]を　みつけた![END STRING AE]",
+    "sfc_vf_secondaire": "Qu'est-ce que? Trouvé [CODE B5]![END STRING AE]",
+    "ds_ja": [
+      "@a@bなんと！\n%a000100を　みつけた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bQuelle veineⓠ %0%a040100ⓠ\n@c0@"
+    ],
+    "original_body": "Quelle veineⓠ %0%a040100ⓠ",
+    "adaptation_body": "Quelle veine! %a040100",
+    "native_bindings": {
+      "%a040100": 181
+    },
+    "adaptation_review": "Découverte générique, sans inventer coffre ou destinataire. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Découverte générique, sans inventer coffre ou destinataire.",
+    "sfc_context": [
+      {
+        "id": 26,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![WAIT][END STRING AC]"
+      },
+      {
+        "id": 27,
+        "text": "なんと![LINE][CODE B5]を　みつけた![END STRING AE]"
+      },
+      {
+        "id": 28,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]手にいれた![END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 5841,
+    "file": "0803.p",
+    "ids": [
+      153
+    ],
+    "status": "RELU",
+    "sfc_jp": "なんと!　[CODE B5]を　みつけた![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Qu'est-ce que c'est![LINE]Trouvé [CODE B5]![END STRING AC]",
+    "ds_ja": [
+      "@a@bなんと！\n%a000100を　みつけた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bQuelle veineⓠ %0%a040100ⓠ\n@c0@"
+    ],
+    "original_body": "Quelle veineⓠ %0%a040100ⓠ",
+    "adaptation_body": "Quelle veine! %a040100",
+    "native_bindings": {
+      "%a040100": 181
+    },
+    "adaptation_review": "Découverte générique, sans inventer coffre ou destinataire. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Découverte générique, sans inventer coffre ou destinataire.",
+    "sfc_context": [
+      {
+        "id": 5840,
+        "text": "なんと!　[CODE BB]ゴールドを　みつけた![END STRING AC]"
+      },
+      {
+        "id": 5841,
+        "text": "なんと!　[CODE B5]を　みつけた![END STRING AC]"
+      },
+      {
+        "id": 5842,
+        "text": "しかし　何も　見つからなかった。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5861,
+    "file": "0803.p",
+    "ids": [
+      153
+    ],
+    "status": "RELU",
+    "sfc_jp": "なんと![LINE][CODE B5]を　みつけた![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE B5] trouvé![WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@bなんと！\n%a000100を　みつけた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bQuelle veineⓠ %0%a040100ⓠ\n@c0@"
+    ],
+    "original_body": "Quelle veineⓠ %0%a040100ⓠ",
+    "adaptation_body": "Quelle veine! %a040100",
+    "native_bindings": {
+      "%a040100": 181
+    },
+    "adaptation_review": "Découverte générique, sans inventer coffre ou destinataire. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Découverte générique, sans inventer coffre ou destinataire.",
+    "sfc_context": [
+      {
+        "id": 5860,
+        "text": "しかし宝箱には[LINE]カギが　かかっている![END STRING AC]"
+      },
+      {
+        "id": 5861,
+        "text": "なんと![LINE][CODE B5]を　みつけた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5862,
+        "text": "なんと![LINE][CODE B5]を　みつけた![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5862,
+    "file": "0803.p",
+    "ids": [
+      153
+    ],
+    "status": "RELU",
+    "sfc_jp": "なんと![LINE][CODE B5]を　みつけた![END STRING AC]",
+    "sfc_vf_secondaire": "Qu'est-ce que c'est![LINE]Trouvé [CODE B5]![END STRING AC]",
+    "ds_ja": [
+      "@a@bなんと！\n%a000100を　みつけた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bQuelle veineⓠ %0%a040100ⓠ\n@c0@"
+    ],
+    "original_body": "Quelle veineⓠ %0%a040100ⓠ",
+    "adaptation_body": "Quelle veine! %a040100",
+    "native_bindings": {
+      "%a040100": 181
+    },
+    "adaptation_review": "Découverte générique, sans inventer coffre ou destinataire. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Découverte générique, sans inventer coffre ou destinataire.",
+    "sfc_context": [
+      {
+        "id": 5861,
+        "text": "なんと![LINE][CODE B5]を　みつけた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5862,
+        "text": "なんと![LINE][CODE B5]を　みつけた![END STRING AC]"
+      },
+      {
+        "id": 5863,
+        "text": "[CODE B5]を　[CODE C3]に入れた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "file": "0804.p",
+    "ids": [
+      49
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　[CODE B5]を[LINE]手にいれた![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D3] recoit [CODE B5]![END STRING AE]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n受け取った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 reçoit %a020100ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000120 reçoit %a020100ⓠ",
+    "adaptation_body": "%a000120 reçoit %a020100",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Réception générique D3/B5 ; écarte le faux rapprochement miroir de Râ et Apnéa. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Réception générique D3/B5 ; écarte le faux rapprochement miroir de Râ et Apnéa.",
+    "sfc_context": [
+      {
+        "id": 27,
+        "text": "なんと![LINE][CODE B5]を　みつけた![END STRING AE]"
+      },
+      {
+        "id": 28,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]手にいれた![END STRING AE]"
+      },
+      {
+        "id": 29,
+        "text": "[CODE D3][CODE C4]は　[CODE B5]を[LINE]手に入れた![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "file": "0804.p",
+    "ids": [
+      49
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　[CODE B5]を[LINE]うけとった![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D3] recoit [CODE B5].[END STRING AE]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n受け取った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 reçoit %a020100ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000120 reçoit %a020100ⓠ",
+    "adaptation_body": "%a000120 reçoit %a020100",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Réception générique D3/B5 ; écarte le faux rapprochement miroir de Râ et Apnéa. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Réception générique D3/B5 ; écarte le faux rapprochement miroir de Râ et Apnéa.",
+    "sfc_context": [
+      {
+        "id": 29,
+        "text": "[CODE D3][CODE C4]は　[CODE B5]を[LINE]手に入れた![END STRING AC]"
+      },
+      {
+        "id": 30,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]うけとった![END STRING AE]"
+      },
+      {
+        "id": 31,
+        "text": "[CODE D3]は　ちからのたねを[LINE]もらった![END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 1708,
+    "file": "0804.p",
+    "ids": [
+      49
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　[CODE B5]を[LINE]うけとった![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D3] received the [CODE B5].[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n受け取った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 reçoit %a020100ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000120 reçoit %a020100ⓠ",
+    "adaptation_body": "%a000120 reçoit %a020100",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Réception générique D3/B5 ; écarte le faux rapprochement miroir de Râ et Apnéa. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Réception générique D3/B5 ; écarte le faux rapprochement miroir de Râ et Apnéa.",
+    "sfc_context": [
+      {
+        "id": 1707,
+        "text": "よし!　これで　[CODE D3]は[LINE][CODE BB]枚以上　メダルを集めたので[LINE]これを　ほうびに　とらせよう![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1708,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]うけとった![END STRING AC]"
+      },
+      {
+        "id": 1709,
+        "text": "今　わしが　[CODE D3]から[LINE]あずかっているメダルは[LINE]ぜんぶで　[CODE BB]枚じゃ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1715,
+    "file": "0804.p",
+    "ids": [
+      49
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は[CODE B5]を[LINE]うけとった![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D3] received the [CODE B5].[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n受け取った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 reçoit %a020100ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000120 reçoit %a020100ⓠ",
+    "adaptation_body": "%a000120 reçoit %a020100",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Réception générique D3/B5 ; écarte le faux rapprochement miroir de Râ et Apnéa. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Réception générique D3/B5 ; écarte le faux rapprochement miroir de Râ et Apnéa.",
+    "sfc_context": [
+      {
+        "id": 1714,
+        "text": "よし!　これで　[CODE D3]は[LINE][CODE BB]枚以上　メダルを集めたので[LINE]これを　ほうびに　とらせよう![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1715,
+        "text": "[CODE D3]は[CODE B5]を[LINE]うけとった![END STRING AC]"
+      },
+      {
+        "id": 1716,
+        "text": "今　わしが　[CODE D3]から[LINE]あずかっているメダルは[LINE]ぜんぶで　X枚じゃ。[WAIT][LINE]つぎは　X枚に　なったときに[LINE][CODE B5]を　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3125,
+    "file": "0804.p",
+    "ids": [
+      49
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　[CODE B5]を[LINE]受けとった![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D3] recoit le [CODE B5].[END STRING AE]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n受け取った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 reçoit %a020100ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000120 reçoit %a020100ⓠ",
+    "adaptation_body": "%a000120 reçoit %a020100",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Réception générique D3/B5 ; écarte le faux rapprochement miroir de Râ et Apnéa. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Réception générique D3/B5 ; écarte le faux rapprochement miroir de Râ et Apnéa.",
+    "sfc_context": [
+      {
+        "id": 3124,
+        "text": "キミたちが　いってくれなかったら[LINE]娘の命が　あぶなかったと[LINE]いうじゃないか。[WAIT][LINE]そこで　お礼を　用意させて[LINE]もらったよ。[WAIT][LINE][CODE B5]だ。[LINE]キミたちの　役に　たててほしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 3125,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]受けとった![END STRING AE]"
+      },
+      {
+        "id": 3126,
+        "text": "キミたちは　娘の命の恩人だ。[LINE]いつでも　わが家に　遊びに[LINE]来てくれて　いいぞ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5866,
+    "file": "0804.p",
+    "ids": [
+      49
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C1]は[LINE][CODE B5]を　手に入れた。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] prend le [CODE B5].[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n受け取った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 reçoit %a020100ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000120 reçoit %a020100ⓠ",
+    "adaptation_body": "%a000180 reçoit %a020100",
+    "native_bindings": {
+      "%a000180": 193,
+      "%a020100": 181
+    },
+    "adaptation_review": "Destinataire C1 explicite, pas D3 ou C0. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Destinataire C1 explicite, pas D3 ou C0.",
+    "sfc_context": [
+      {
+        "id": 5865,
+        "text": "なんと　宝箱は[LINE][CODE B2]だった![END STRING AC]"
+      },
+      {
+        "id": 5866,
+        "text": "[CODE C1]は[LINE][CODE B5]を　手に入れた。[END STRING AC]"
+      },
+      {
+        "id": 5867,
+        "text": "[CODE C0]は[LINE][CODE B5]を　手に入れた。[END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 5867,
+    "file": "0804.p",
+    "ids": [
+      49
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は[LINE][CODE B5]を　手に入れた。[END STRING AE]",
+    "sfc_vf_secondaire": "[CODE C0] ramasse le [CODE B5].[END STRING AE]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n受け取った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 reçoit %a020100ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000120 reçoit %a020100ⓠ",
+    "adaptation_body": "%a000120 reçoit %a020100",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Destinataire C0 ; conserve le nom dynamique. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Destinataire C0 ; conserve le nom dynamique.",
+    "sfc_context": [
+      {
+        "id": 5866,
+        "text": "[CODE C1]は[LINE][CODE B5]を　手に入れた。[END STRING AC]"
+      },
+      {
+        "id": 5867,
+        "text": "[CODE C0]は[LINE][CODE B5]を　手に入れた。[END STRING AE]"
+      },
+      {
+        "id": 5868,
+        "text": "[CODE C0]は　タンスを開けて[LINE]中を　調べた。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5989,
+    "file": "0803.p",
+    "ids": [
+      71
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]を[LINE]捨ててもいいですか?[END STRING AC]",
+    "sfc_vf_secondaire": "Vraiment jeter [CODE B5]?[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000100を\n捨ててもいいですか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bAbandonner %a020100ⓡ\n@c0@"
+    ],
+    "original_body": "Abandonner %a020100ⓡ",
+    "adaptation_body": "Abandonner  %a020100",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Question de confirmation ; aucun abandon exécuté par le test de rendu. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Question de confirmation ; aucun abandon exécuté par le test de rendu.",
+    "sfc_context": [
+      {
+        "id": 5988,
+        "text": "[CODE C0]の　かっこよさが[LINE]1あがった![END STRING AC]"
+      },
+      {
+        "id": 5989,
+        "text": "[CODE B5]を[LINE]捨ててもいいですか?[END STRING AC]"
+      },
+      {
+        "id": 5990,
+        "text": "[CODE B5]を投げ捨てた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5995,
+    "file": "0803.p",
+    "ids": [
+      63
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]を[LINE]装備することは　できません。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE B5] ne peut ètre équippé.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000100を\n装備することは　できません。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bImpossible de s'équiper %A0100%X%M0100%Xdes %Y%G0100%Xde l'%Ydu %Z%Z%Z%B0100%X%M0100%Xdes %Y%G0100%Xde l'%Yde la %Z%Z%Z%C0100%X%Z%a000100.\n@c0@"
+    ],
+    "original_body": "Impossible de s'équiper %A0100%X%M0100%Xdes %Y%G0100%Xde l'%Ydu %Z%Z%Z%B0100%X%M0100%Xdes %Y%G0100%Xde l'%Yde la %Z%Z%Z%C0100%X%Z%a000100.",
+    "adaptation_body": "Impossible de s'équiper avec  %a000100",
+    "native_bindings": {
+      "%a000100": 181
+    },
+    "adaptation_review": "Échec équipement, formulation indépendante du genre de l’objet. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Échec équipement, formulation indépendante du genre de l’objet.",
+    "sfc_context": [
+      {
+        "id": 5994,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]装備することができない。[END STRING AC]"
+      },
+      {
+        "id": 5995,
+        "text": "[CODE B5]を[LINE]装備することは　できません。[END STRING AC]"
+      },
+      {
+        "id": 5996,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]装備した。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6246,
+    "file": "0812.p",
+    "ids": [
+      6
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE][CODE B5]ですね。[LINE]ありがとうございます。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "Le [CODE B5]?[LINE]Merci.[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100ですね。\n\tありがとうございます。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100ⓡ\nEntendu.\n@c0@"
+    ],
+    "original_body": "%0%a040100ⓡ\nEntendu.",
+    "adaptation_body": " %a040100 Merci beaucoup.",
+    "native_bindings": {
+      "%a040100": 181
+    },
+    "adaptation_review": "Remerciement SFC conservé avec DE/D5. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Remerciement SFC conservé avec DE/D5.",
+    "sfc_context": [
+      {
+        "id": 6245,
+        "text": "[CODE DE]もうしわけ　ありませんが[LINE]それを　お買いになるには[LINE]お金が　たりないようです。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6246,
+        "text": "[CODE DE][CODE B5]ですね。[LINE]ありがとうございます。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6247,
+        "text": "[CODE DE]これは　戦いのときに[LINE]どうぐとして　つかっても[LINE]効力が　ございますよ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6272,
+    "file": "0810.p",
+    "ids": [
+      6
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE][CODE B5]ですね。[LINE]かしこまりました![WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "Le [CODE B5]. Oui, monsieur![WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100ですね。\n\tかしこまりました！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100ⓡ\nAvec grand plaisir.\n@c0@"
+    ],
+    "original_body": "%0%a040100ⓡ\nAvec grand plaisir.",
+    "adaptation_body": " %a040100 Avec grand plaisir!",
+    "native_bindings": {
+      "%a040100": 181
+    },
+    "adaptation_review": "Accusé de réception SFC conservé avec DE/D5. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Accusé de réception SFC conservé avec DE/D5.",
+    "sfc_context": [
+      {
+        "id": 6271,
+        "text": "[CODE DE]おや　お金が　たりませんよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6272,
+        "text": "[CODE DE][CODE B5]ですね。[LINE]かしこまりました![WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6273,
+        "text": "[CODE DE]これは　戦いのときに[LINE]どうぐとして　つかっても[LINE]おトクな　品物ですよ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6509,
+    "file": "0815.p",
+    "ids": [
+      30
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]の　かっこよさが[LINE][CODE BB]に　なった![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "La classe de [CODE B5] est devenue [CODE BB]![WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000100の　かっこよさが\n%a002700に　なった！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020100 voit son style augmenter de %a002700ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a020100 voit son style augmenter de %a002700ⓠ",
+    "adaptation_body": "Le style de %a020100 atteint %a002700!",
+    "native_bindings": {
+      "%a020100": 181,
+      "%a002700": 187
+    },
+    "adaptation_review": "BB est le résultat final SFC ; ne pas reprendre la hausse de BB du français DS. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "BB est le résultat final SFC ; ne pas reprendre la hausse de BB du français DS.",
+    "sfc_context": [
+      {
+        "id": 6508,
+        "text": "[CODE DE]よーし　これで　いい[LINE]どうだ?　みちがえただろっ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6509,
+        "text": "[CODE B5]の　かっこよさが[LINE][CODE BB]に　なった![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6510,
+        "text": "[CODE DE][CODE C0]の　かっこよさが[LINE][CODE BB]から　[CODE C5]に　なった![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6555,
+    "file": "0822.p",
+    "ids": [
+      13
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]と[LINE]こうかん　するには[LINE]コインが　たりないようです。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE B5] n'a pas assez de piêce pour ça.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100と\n\tこうかん　するには\n\tコインが　たりないようです。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je crains que vous n'ayez pas assez de jetons pour %a040100.\n@c0@"
+    ],
+    "original_body": "Je crains que vous n'ayez pas assez de jetons pour %a040100.",
+    "adaptation_body": "Je crains que vous n'ayez pas assez de jetons pour  %a040100",
+    "native_bindings": {
+      "%a040100": 181
+    },
+    "adaptation_review": "Nombre de jetons insuffisant, sans nouveau chiffre. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Nombre de jetons insuffisant, sans nouveau chiffre.",
+    "sfc_context": [
+      {
+        "id": 6554,
+        "text": "[CODE DE][CODE B5]　ですね?[LINE]それで　いいですか?[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6555,
+        "text": "[CODE B5]と[LINE]こうかん　するには[LINE]コインが　たりないようです。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6556,
+        "text": "では　残ったコインは[LINE]預からせていただきます。[LINE]また　いつでも　おこしください。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1705,
+    "file": "0820.p",
+    "ids": [
+      20
+    ],
+    "status": "RELU",
+    "sfc_jp": "これが　[CODE BB]枚に　なったときは[LINE][CODE B5]を　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]",
+    "sfc_vf_secondaire": "You need [CODE BB] medals for the [CODE B5]. Keep looking![END STRING AC]",
+    "ds_ja": [
+      "@a@bメダル王「これが　%a000600枚に　なったとき\n\t%a000100を　あたえよう。\n\tがんばって　集めるのじゃぞ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aRoi Médaillon@bLorsque vous m'aurez apporté %a000600 mini médaille%I0600%X%Ys%Z, je pourrai vous donner %a040100 pour vous récompenser.\n@c0@"
+    ],
+    "original_body": "Lorsque vous m'aurez apporté %a000600 mini médaille%I0600%X%Ys%Z, je pourrai vous donner %a040100 pour vous récompenser.",
+    "adaptation_body": "Lorsque vous aurez réuni %a000600 mini médailles, je vous donnerai  %a040100 Continuez à en chercher!",
+    "native_bindings": {
+      "%a000600": 187,
+      "%a040100": 181
+    },
+    "adaptation_review": "Seuil BB puis récompense B5 ; encouragement SFC rétabli. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Seuil BB puis récompense B5 ; encouragement SFC rétabli.",
+    "sfc_context": [
+      {
+        "id": 1704,
+        "text": "ふむ。今回までで　[CODE D3]が[LINE]もってきた　メダルは[LINE]ぜんぶで　[CODE BB]枚じゃな。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1705,
+        "text": "これが　[CODE BB]枚に　なったときは[LINE][CODE B5]を　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]"
+      },
+      {
+        "id": 1706,
+        "text": "これが　[CODE BB]枚に　なったときは[LINE]とてもいえないものを　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1710,
+    "file": "0820.p",
+    "ids": [
+      20
+    ],
+    "status": "RELU",
+    "sfc_jp": "つぎは　[CODE BB]枚に　なったときに[LINE][CODE B5]を　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]",
+    "sfc_vf_secondaire": "I have a [CODE B5] for you if you can collect [CODE BB] medals.[END STRING AC]",
+    "ds_ja": [
+      "@a@bメダル王「これが　%a000600枚に　なったとき\n\t%a000100を　あたえよう。\n\tがんばって　集めるのじゃぞ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aRoi Médaillon@bLorsque vous m'aurez apporté %a000600 mini médaille%I0600%X%Ys%Z, je pourrai vous donner %a040100 pour vous récompenser.\n@c0@"
+    ],
+    "original_body": "Lorsque vous m'aurez apporté %a000600 mini médaille%I0600%X%Ys%Z, je pourrai vous donner %a040100 pour vous récompenser.",
+    "adaptation_body": "Pour la suite, lorsque vous aurez réuni %a000600 mini médailles, je vous donnerai  %a040100 Continuez à en chercher!",
+    "native_bindings": {
+      "%a000600": 187,
+      "%a040100": 181
+    },
+    "adaptation_review": "Seuil BB puis récompense B5 ; encouragement SFC rétabli. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Seuil BB puis récompense B5 ; encouragement SFC rétabli.",
+    "sfc_context": [
+      {
+        "id": 1709,
+        "text": "今　わしが　[CODE D3]から[LINE]あずかっているメダルは[LINE]ぜんぶで　[CODE BB]枚じゃ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1710,
+        "text": "つぎは　[CODE BB]枚に　なったときに[LINE][CODE B5]を　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]"
+      },
+      {
+        "id": 1711,
+        "text": "つぎは　[CODE BB]枚に　なったときに[LINE]とてもいえないものを　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3124,
+    "file": "0008.p",
+    "ids": [
+      245,
+      246,
+      247
+    ],
+    "status": "RELU",
+    "sfc_jp": "キミたちが　いってくれなかったら[LINE]娘の命が　あぶなかったと[LINE]いうじゃないか。[WAIT][LINE]そこで　お礼を　用意させて[LINE]もらったよ。[WAIT][LINE][CODE B5]だ。[LINE]キミたちの　役に　たててほしい。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le sauvetage de ma fille a été dangereux?[WAIT][LINE]Merci. Voila, prenez ceci [CODE B5].[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「キミたちが　行ってくれなかったら\n\t娘の命が　あぶなかったと\n\tいうじゃないか。\n@c0@",
+      "@a@b＊「そこで　お礼を　用意させて\n\tもらったよ。\n@c0@",
+      "@a@b＊「いのちのきのみ　だ。\n\tキミたちの　役に　たててほしい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Alyzée m'a dit que si vous aviez pas été là, ça aurait pu mal tourner pour elle.\n@c0@",
+      "@a@b*ⓢ Je sais pas comment vous remercier, mais je serais flatté que vous acceptiez ce petit cadeau.\n@c0@",
+      "@a@b*ⓢ C'est une graine de Vie. J'espère que vous en ferez bon usage.\n@c0@"
+    ],
+    "original_body": "Alyzée m'a dit que si vous aviez pas été là, ça aurait pu mal tourner pour elle. Je sais pas comment vous remercier, mais je serais flatté que vous acceptiez ce petit cadeau. C'est une graine de Vie. J'espère que vous en ferez bon usage.",
+    "adaptation_body": "Sans votre intervention, ma fille aurait pu perdre la vie. Je vous ai donc préparé une récompense. Voici  %a020100 J'espère que cela vous sera utile.",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Récompense variable B5 au lieu de la graine de Vie littérale DS. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Récompense variable B5 au lieu de la graine de Vie littérale DS.",
+    "sfc_context": [
+      {
+        "id": 3123,
+        "text": "やあ　キミたちを[LINE]待っていたよ。[WAIT][LINE]あれから　娘に　キミたちのことを[LINE]聞いたんだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 3124,
+        "text": "キミたちが　いってくれなかったら[LINE]娘の命が　あぶなかったと[LINE]いうじゃないか。[WAIT][LINE]そこで　お礼を　用意させて[LINE]もらったよ。[WAIT][LINE][CODE B5]だ。[LINE]キミたちの　役に　たててほしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 3125,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]受けとった![END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 3127,
+    "file": "0008.p",
+    "ids": [
+      257,
+      258,
+      259,
+      260,
+      261
+    ],
+    "status": "RELU",
+    "sfc_jp": "それと　もうひとつ。[LINE]キミは　犯人たちに　自分たちの[LINE]金を　わたしたそうじゃないか。[WAIT][LINE]どうして　それを[LINE]いって　くれなかったのだ?[WAIT][LINE]用意してあった　金は　もう[LINE]返してしまって　ここに　ない。[WAIT][LINE]だから　かわりに　これを[LINE]受けとってくれ。[WAIT][LINE]わが家の　家宝[LINE][CODE B5]だ。[LINE]エンリョは　いらないぞ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Alors, vous avez payé la rançon avec votre argent?[WAIT][LINE]Pourquoi ne l'avez vous pas dit?[WAIT][LINE]Je n'ai pas assez d'argent pour vous rembourser.[WAIT][LINE]Vous pouvez prendre ça à la place. C'est un héritage de famille.[WAIT][LINE]Prenez ce [CODE B5].[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「それと　もうひとつ。\n\tキミは　犯人たちに　自分たちの\n\t金を　わたしたそうじゃないか。\n@c0@",
+      "@a@b＊「どうして　それを\n\t言ってくれなかったのだ？\n@c0@",
+      "@a@b＊「用意してあった　金は　もう\n\t返してしまって　ここに　ない。\n@c0@",
+      "@a@b＊「だから　かわりに　これを\n\t受けとってくれ。\n@c0@",
+      "@a@b＊「わが家の　家宝\n\tいのりのゆびわ　だ。\n\tエンリョは　いらないぞ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Encore une chose avant que j'oublieⓠ Ma fille m'a dit que vous aviez payé la rançon avec votre propre cagnotteⓠ\n@c0@",
+      "@a@b*ⓢ Vous aviez rien dit, heinⓡ\nVous auriez dû en parlerⓠ\n@c0@",
+      "@a@b*ⓢ J'ai déjà remboursé tout l'argent que je devais. Je suis sans le souⓠ\n@c0@",
+      "@a@b*ⓢ Alors, j'espère que vous accepterez ce petit cadeau en guise de remerciement.\n@c0@",
+      "@a@b*ⓢ On s'est transmis ça de génération en génération dans ma famille. C'est une bague de prière.\n@c0@"
+    ],
+    "original_body": "Encore une chose avant que j'oublieⓠ Ma fille m'a dit que vous aviez payé la rançon avec votre propre cagnotteⓠ Vous aviez rien dit, heinⓡ\nVous auriez dû en parlerⓠ J'ai déjà remboursé tout l'argent que je devais. Je suis sans le souⓠ Alors, j'espère que vous accepterez ce petit cadeau en guise de remerciement. On s'est transmis ça de génération en génération dans ma famille. C'est une bague de prière.",
+    "adaptation_body": "Encore une chose. Vous avez payé les ravisseurs avec votre propre argent? Pourquoi ne pas me l'avoir dit? J'ai déjà rendu l'argent prévu pour la rançon, je ne l'ai plus ici. Acceptez ceci à la place,  %a020100 un trésor de famille. N'hésitez pas!",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "L’argent préparé a été rendu SFC ; pas déclaration de ruine. B5 remplace anneau littéral DS. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "L’argent préparé a été rendu SFC ; pas déclaration de ruine. B5 remplace anneau littéral DS.",
+    "sfc_context": [
+      {
+        "id": 3126,
+        "text": "キミたちは　娘の命の恩人だ。[LINE]いつでも　わが家に　遊びに[LINE]来てくれて　いいぞ。[END STRING AC]"
+      },
+      {
+        "id": 3127,
+        "text": "それと　もうひとつ。[LINE]キミは　犯人たちに　自分たちの[LINE]金を　わたしたそうじゃないか。[WAIT][LINE]どうして　それを[LINE]いって　くれなかったのだ?[WAIT][LINE]用意してあった　金は　もう[LINE]返してしまって　ここに　ない。[WAIT][LINE]だから　かわりに　これを[LINE]受けとってくれ。[WAIT][LINE]わが家の　家宝[LINE][CODE B5]だ。[LINE]エンリョは　いらないぞ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 3128,
+        "text": "キミたちは　娘の命の恩人だ。[LINE]いつでも　わが家に　遊びに[LINE]来てくれて　いいぞ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5955,
+    "file": "0803.p",
+    "ids": [
+      235
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]は[LINE]くしゃくしゃに　なってしまった...。[END STRING AC]",
+    "sfc_vf_secondaire": "5955<0559>[CODE B5][END STRING AC]",
+    "ds_ja": [
+      "@a@b乗船券は　くしゃくしゃに\nなってしまった。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bMaintenant, la carte d'embarquement est tout abîmée...\n@c0@"
+    ],
+    "original_body": "Maintenant, la carte d'embarquement est tout abîmée...",
+    "adaptation_body": "Des plis couvrent maintenant  %a020100",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Objet froissé B5 générique au lieu de la carte littérale DS. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Objet froissé B5 générique au lieu de la carte littérale DS.",
+    "sfc_context": [
+      {
+        "id": 5954,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]にぎりしめた。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5955,
+        "text": "[CODE B5]は[LINE]くしゃくしゃに　なってしまった...。[END STRING AC]"
+      },
+      {
+        "id": 5956,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]たしかめた![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6504,
+    "file": "0815.p",
+    "ids": [
+      14,
+      16
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]ふーん　もとの[LINE][CODE B5]より　けっこう[LINE]みがきが　かかってるじゃないの。[WAIT][LINE]あんた　おしゃれには[LINE]気をつかうほうだね。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6504<0559>[LINE][CODE B5][LINE][WAIT][LINE][LINE][WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ふーん　もとの\n\t%a000100より　けっこう\n\tみがきが　かかってるじゃないの。\n@c0@",
+      "@a@b＊「あんた　オシャレには\n\t気をつかうほうだね。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Mmm... %a020100 a déjà eu droit à un changement de look.\n@c0@",
+      "@a@b*ⓢ On dirait que quelqu'un veut être au top de la modeⓠ\n@c0@"
+    ],
+    "original_body": "Mmm... %a020100 a déjà eu droit à un changement de look. On dirait que quelqu'un veut être au top de la modeⓠ",
+    "adaptation_body": "Mmm... %a020100 a déjà été bien embelli. Vous faites attention à votre style, à ce que je vois!",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Polissage antérieur et observation SFC, sans altérer DE/D5. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Polissage antérieur et observation SFC, sans altérer DE/D5.",
+    "sfc_context": [
+      {
+        "id": 6503,
+        "text": "[CODE DE]ああ　こりゃひどい!　センスの[LINE]かけらもないや!　あんた　よく[LINE]こんなもの　そうびしてたね。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6504,
+        "text": "[CODE DE]ふーん　もとの[LINE][CODE B5]より　けっこう[LINE]みがきが　かかってるじゃないの。[WAIT][LINE]あんた　おしゃれには[LINE]気をつかうほうだね。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6505,
+        "text": "[CODE DE]よっしゃ　まかせな!　りょうきんは[LINE][CODE BB]に　なるけど[LINE]いいかい?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5692,
+    "file": "0807.p",
+    "ids": [
+      6
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]は[LINE]頭に　かぶる物らしい。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE B5] est porté sur le corps.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000100は\n頭に　かぶるものらしい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020100 semble être une sorte de couvre-chef.\n@c0@"
+    ],
+    "original_body": "%0%a020100 semble être une sorte de couvre-chef.",
+    "adaptation_body": "Voici  %a020100 Cela semble être un couvre-chef.",
+    "native_bindings": {
+      "%a020100": 181
+    },
+    "adaptation_review": "Catégorie de couvre-chef et nom B5, genre neutre. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Catégorie de couvre-chef et nom B5, genre neutre.",
+    "sfc_context": [
+      {
+        "id": 5691,
+        "text": "[CODE B5]は[LINE]盾らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5692,
+        "text": "[CODE B5]は[LINE]頭に　かぶる物らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5693,
+        "text": "[CODE B5]は[LINE]身をかざる物らしい。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6690,
+    "file": "0074.p",
+    "ids": [
+      397,
+      398,
+      399,
+      400
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4]司会「今回は　きゅうきょくとも[LINE]いえる　ランク8の[LINE]コンテストで　ありますが...[WAIT][LINE][CODE D4]司会「いかがでしたか　みなさん![LINE]さすがに　すばらしい[LINE]出場者ばかり　でしたねー。[WAIT][LINE][CODE D4]司会「ランク8の　賞品は　なんと![LINE][CODE B5]!　スゴイ![WAIT][LINE][CODE D4]司会「さあ　この賞品を[LINE]手にするのは　はたして[LINE]なんばんの　出場者でしょうかっ?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Président de séance.Ca y est. Le vainqueur du 8eme classement est…[WAIT][LINE][CODE D4]Président de séance.Aurons-nous un nouveau champion?[WAIT][LINE][CODE D4]Président de séance.Oh, quel suspens…[LINE]Qui ça sera?[END STRING AC]",
+    "ds_ja": [
+      "@a@b司会「今回は　究極ともいえる\n\tランク８の　コンテストでは\n\tありますが……\n@c0@",
+      "@a@b司会「いかがでしたか　みなさん！\n\tさすがに　すばらしい\n\t出場者ばかり　でしたねー。\n@c0@",
+      "@a@b司会「ランク８の　賞品は　なんと！\n\t%a000100！　スゴイ！！\n@c0@",
+      "@a@b司会「さあ　この賞品を\n\t手にするのは　はたして\n\t何番の　出場者でしょうかっ？\n@c0@"
+    ],
+    "ds_fr": [
+      "@aPrésentateur@bVous venez de voir l'épreuve numéro 8... La toute dernière épreuve...\n@c0@",
+      "@aPrésentateur@bQu'en avez-vous pensé, mesdames et messieursⓡ C'est fabuleux, nonⓡ Ha ha... Ouais.\n@c0@",
+      "@aPrésentateur@bEt je vais vous dire ce qui est aussi fabuleuxⓢ le prix de ce concoursⓠ %a000100ⓠ\n@c0@",
+      "@aPrésentateur@bMais lequel de nos guerriers de la mode repartira avec le prixⓡ\n@c0@"
+    ],
+    "original_body": "Vous venez de voir l'épreuve numéro 8... La toute dernière épreuve... Qu'en avez-vous pensé, mesdames et messieursⓡ C'est fabuleux, nonⓡ Ha ha... Ouais. Et je vais vous dire ce qui est aussi fabuleuxⓢ le prix de ce concoursⓠ %a000100ⓠ Mais lequel de nos guerriers de la mode repartira avec le prixⓡ",
+    "adaptation_body": "Cette fois, nous avons atteint le sommet, le concours de rang 8! Qu'en avez-vous pensé? Quels magnifiques concurrents! Le prix de ce rang 8 est extraordinaire,  %a000100 Quel concurrent va donc le remporter?",
+    "native_bindings": {
+      "%a000100": 181
+    },
+    "adaptation_review": "Rang huit fixe SFC, B5 variable, annonce du prix conservée. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Rang huit fixe SFC, B5 variable, annonce du prix conservée.",
+    "sfc_context": [
+      {
+        "id": 6689,
+        "text": "[CODE D4]司会「おっと　これで　ぜんいんの[LINE]アピールが　終わりました![END STRING AC]"
+      },
+      {
+        "id": 6690,
+        "text": "[CODE D4]司会「今回は　きゅうきょくとも[LINE]いえる　ランク8の[LINE]コンテストで　ありますが...[WAIT][LINE][CODE D4]司会「いかがでしたか　みなさん![LINE]さすがに　すばらしい[LINE]出場者ばかり　でしたねー。[WAIT][LINE][CODE D4]司会「ランク8の　賞品は　なんと![LINE][CODE B5]!　スゴイ![WAIT][LINE][CODE D4]司会「さあ　この賞品を[LINE]手にするのは　はたして[LINE]なんばんの　出場者でしょうかっ?[END STRING AC]"
+      },
+      {
+        "id": 6691,
+        "text": "[CODE D4]司会「さあーて......[LINE]しんさの　ゆくえが[LINE]気になりますが......[END STRING AE]"
+      }
+    ],
+    "adaptation_speaker": "Présentateur"
+  },
+  {
+    "id": 6700,
+    "file": "0074.p",
+    "ids": [
+      267
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4]司会「優勝した　[CODE B2]さんには[LINE][CODE B5]が[LINE]賞品として　おくられます![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Président de séance.Pour notre vainqueur, [CODE B2], nous avons le [CODE B5]![END STRING AC]",
+    "ds_ja": [
+      "@a@b司会「優勝した　%a002310さんには\n\t%a000100が\n\t賞品として　贈られます！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aPrésentateur@bVous avez gagné %a040100ⓠ\n@c0@"
+    ],
+    "original_body": "Vous avez gagné %a040100ⓠ",
+    "adaptation_body": "%a002310 remporte le concours et reçoit  %a040100",
+    "native_bindings": {
+      "%a002310": 178,
+      "%a040100": 181
+    },
+    "adaptation_review": "Gagnant B2 omis dans FR DS, explicitement restitué. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Gagnant B2 omis dans FR DS, explicitement restitué.",
+    "sfc_context": [
+      {
+        "id": 6699,
+        "text": "[CODE D4]司会「ナンバー[CODE BB]![LINE][CODE BB]ばんの　[CODE B2]さん　です![LINE]おめでとうございます![END STRING AE]"
+      },
+      {
+        "id": 6700,
+        "text": "[CODE D4]司会「優勝した　[CODE B2]さんには[LINE][CODE B5]が[LINE]賞品として　おくられます![END STRING AC]"
+      },
+      {
+        "id": 6701,
+        "text": "[CODE D9]おめでとう　[CODE B2]さん![LINE]はいっ　どうぞ![WAIT][END STRING AC]"
+      }
+    ],
+    "adaptation_speaker": "Présentateur"
+  },
+  {
+    "id": 1793,
+    "file": "0059.p",
+    "ids": [
+      975,
+      976
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D9]ランク[CODE B2]の　ゆうしょう[LINE]おめでとう　ございます![WAIT][LINE][CODE D9]今回の　賞品は[LINE][CODE B5]　です![LINE]どうぞ　お受け取りください![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]The prize for winning rank [CODE B2] is the [CODE B5].[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ランク%a002210の　優勝\n\tおめでとう　ございます！\n@c0@",
+      "@a@b＊「今回の　賞品は\n\t%a000100　です！\n\tどうぞ　お受け取りください！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Superⓠ Félicitations, %A0110%Xmon chou%Z%B0110%Xma belle%Zⓠ Vous avez franchi le rang %a002210ⓠ\n@c0@",
+      "@a@b*ⓢ Voici votre récompenseⓢ %a040100ⓠ C'est méritéⓠ\n@c0@"
+    ],
+    "original_body": "Superⓠ Félicitations, %A0110%Xmon chou%Z%B0110%Xma belle%Zⓠ Vous avez franchi le rang %a002210ⓠ Voici votre récompenseⓢ %a040100ⓠ C'est méritéⓠ",
+    "adaptation_body": "Félicitations pour votre victoire au rang %a002210! Voici votre récompense,  %a040100 Prenez-la, je vous en prie!",
+    "native_bindings": {
+      "%a002210": 178,
+      "%a040100": 181
+    },
+    "adaptation_review": "Rang B2 et prix B5 ; voix D9 et ordre source conservés. Variables natives conservées ; B5 réserve une ligne de 24 cellules sans ponctuation accolée.",
+    "review": "Rang B2 et prix B5 ; voix D9 et ordre source conservés.",
+    "sfc_context": [
+      {
+        "id": 1792,
+        "text": "ここは　商品引き渡し所です。[WAIT][LINE]格闘場での試合の　優勝者には[LINE]こちらで　ごうか賞品を[LINE]お渡しします。[WAIT][LINE]がんばって[LINE]勝ち抜いてくださいね。[END STRING AC]"
+      },
+      {
+        "id": 1793,
+        "text": "[CODE D9]ランク[CODE B2]の　ゆうしょう[LINE]おめでとう　ございます![WAIT][LINE][CODE D9]今回の　賞品は[LINE][CODE B5]　です![LINE]どうぞ　お受け取りください![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1794,
+        "text": "[CODE C0]たちは[LINE][CODE B5]を　手に入れた![END STRING AE]"
+      }
+    ]
+  }
+]

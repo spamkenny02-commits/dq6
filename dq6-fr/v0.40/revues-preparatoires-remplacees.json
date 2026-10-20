@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1705,
+    "file": "0820.p",
+    "ids": [
+      20
+    ],
+    "sfc_jp": "これが　[CODE BB]枚に　なったときは[LINE][CODE B5]を　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]",
+    "ds_jp": "@a@bメダル王「これが　%a000600枚に　なったとき\n\t%a000100を　あたえよう。\n\tがんばって　集めるのじゃぞ！\n@c0@",
+    "ds_fr": "Lorsque vous m'aurez apporté %a000600 mini médaille%I0600%X%Ys%Z, je pourrai vous donner %a040100 pour vous récompenser.",
+    "review": "Réplique et variantes japonaises relues ; mêmes faits, graphie, oralité ou précision de l’édition DS. Contrôles filtrés séparément à la compilation."
+  },
+  {
+    "id": 1793,
+    "file": "0059.p",
+    "ids": [
+      975,
+      976
+    ],
+    "sfc_jp": "[CODE D9]ランク[CODE B2]の　ゆうしょう[LINE]おめでとう　ございます![WAIT][LINE][CODE D9]今回の　賞品は[LINE][CODE B5]　です![LINE]どうぞ　お受け取りください![WAIT][END STRING AC]",
+    "ds_jp": "@a@b＊「ランク%a002210の　優勝\n\tおめでとう　ございます！\n@c0@ @a@b＊「今回の　賞品は\n\t%a000100　です！\n\tどうぞ　お受け取りください！\n@c0@",
+    "ds_fr": "Superⓠ Félicitations, %A0110%Xmon chou%Z%B0110%Xma belle%Zⓠ Vous avez franchi le rang %a002210ⓠ Voici votre récompenseⓢ %a040100ⓠ C'est méritéⓠ",
+    "review": "Réplique et variantes japonaises relues ; mêmes faits, graphie, oralité ou précision de l’édition DS. Contrôles filtrés séparément à la compilation."
+  },
+  {
+    "id": 5867,
+    "file": "0074.p",
+    "ids": [
+      272
+    ],
+    "sfc_jp": "[CODE C0]は[LINE][CODE B5]を　手に入れた。[END STRING AE]",
+    "ds_jp": "@a@b%a000120は　%a000100を\n手に入れた！\n@c0@",
+    "ds_fr": "%0%a000120 reçoit %a020100.",
+    "review": "Réplique complète rapprochée ; variantes de graphie, particules, oralité ou précision équivalente. Commandes et variables restent filtrées par le compilateur."
+  },
+  {
+    "id": 6504,
+    "file": "0815.p",
+    "ids": [
+      14,
+      16
+    ],
+    "sfc_jp": "[CODE DE]ふーん　もとの[LINE][CODE B5]より　けっこう[LINE]みがきが　かかってるじゃないの。[WAIT][LINE]あんた　おしゃれには[LINE]気をつかうほうだね。[WAIT][CODE D5][END STRING AC]",
+    "ds_jp": "@a@b＊「ふーん　もとの\n\t%a000100より　けっこう\n\tみがきが　かかってるじゃないの。\n@c0@ @a@b＊「あんた　オシャレには\n\t気をつかうほうだね。\n@c0@",
+    "ds_fr": "Mmm... %a020100 a déjà eu droit à un changement de look. On dirait que quelqu'un veut être au top de la modeⓠ",
+    "review": "Réplique et variantes japonaises relues ; mêmes faits, graphie, oralité ou précision de l’édition DS. Contrôles filtrés séparément à la compilation."
+  },
+  {
+    "id": 6700,
+    "file": "0074.p",
+    "ids": [
+      267
+    ],
+    "sfc_jp": "[CODE D4]司会「優勝した　[CODE B2]さんには[LINE][CODE B5]が[LINE]賞品として　おくられます![END STRING AC]",
+    "ds_jp": "@a@b司会「優勝した　%a002310さんには\n\t%a000100が\n\t賞品として　贈られます！\n@c0@",
+    "ds_fr": "Vous avez gagné %a040100ⓠ",
+    "review": "Réplique et variantes japonaises relues ; mêmes faits, graphie, oralité ou précision de l’édition DS. Contrôles filtrés séparément à la compilation."
+  }
+]

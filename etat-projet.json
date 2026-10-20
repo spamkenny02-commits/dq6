@@ -1,20 +1,20 @@
 {
-  "release": "v0.39",
+  "release": "v0.40",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 5927,
+    "validated": 5967,
     "visible_total": 6957,
-    "new_this_pass": 22,
-    "remaining": 1030
+    "new_this_pass": 40,
+    "remaining": 990
   },
-  "baseline": "v0.38",
+  "baseline": "v0.39",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 25
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.39",
+    "inventory_version": "v0.40",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -26,6 +26,6 @@
     "confirmed_french_entries": 37
   },
   "rom_bytes": 8388608,
-  "notes": "22 ajouts, 5905 anciennes sélections et tous les noms inchangés. 117 pages de diagnostic relues pour les 22 textes, dont reprise BB contrôlée à trois octets. Rapport historique BB non réécrit : correction de protocole isolée. Alphabet des noms audité sans insertion.",
-  "next": "Continuer 1030 textes et tables. Initialiser les TROIS octets 5A2E/5A2F/5A30 pour les sondes BB. 25 lieux préparés, 26 cas différés v0.34. Scènes naturelles 322/323,1836,4095, fenêtres natives et alphabet accentué restent ouverts ; pas finalisé."
+  "notes": "40 ajouts relus ; 5927 anciennes sélections et 2512 noms inchangés. Rendu des 40 textes : 75 pages, plus 11 pages de stress B5 sur cinq textes. Diagnostics au camp, pas les scènes naturelles.",
+  "next": "Continuer les 990 textes, tables et réserves héritées. B5 natif maintenant lié explicitement aux noms d’objets ; réserve 24 cellules, sans ponctuation accolée. Ne pas annoncer finalisé."
 }

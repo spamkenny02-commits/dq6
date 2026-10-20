@@ -1,0 +1,103 @@
+{
+  "result_sha256": "64e3e434e4f6fed7a9b7865d59f3ce6271b905fc4220132764b781132b8af92f",
+  "fixture_message_redirect": 100,
+  "diagnostic_item_name_swap": true,
+  "diagnostic_RAM": {
+    "B5_item_ID": 1,
+    "B2_values_by_ID": {
+      "armor": 2160,
+      "vocation": 2297,
+      "monster": 558,
+      "rank": 0,
+      "other": 2352
+    },
+    "C0_C1_name_ID": 2,
+    "5A2E_5A2F_5A30_bytes": [
+      57,
+      48,
+      0
+    ],
+    "BB_expected_decimal": 12345,
+    "3B2F": 2
+  },
+  "rows": [
+    {
+      "id": 27,
+      "page": 1,
+      "screenshot": "screenshots/v040stress-27-page1.png",
+      "sha256": "ecc4ac182d89b8e0da223c1012445970a832ca5ffbced864c9455779520b26ee",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-27-page1\", \"message_id\": 100, \"frame_mean\": 47.12059384300595}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5692,
+      "page": 1,
+      "screenshot": "screenshots/v040stress-5692-page1.png",
+      "sha256": "b0a2d8e1961bae086d1d446bfd95665ec81ff9417252d820bb7a3ff3a8d0fea2",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-5692-page1\", \"message_id\": 100, \"frame_mean\": 45.88829403831845}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5692,
+      "page": 2,
+      "screenshot": "screenshots/v040stress-5692-page2.png",
+      "sha256": "53d310d0f05550862342904ef08ebf5be5371a1a916ac40c1192adceeba28adb",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-5692-page2\", \"message_id\": 100, \"frame_mean\": 47.18806384858631}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6509,
+      "page": 1,
+      "screenshot": "screenshots/v040stress-6509-page1.png",
+      "sha256": "631802723071a7ffd55ab9a8641604f68e469287d6ae10cd103cfe6cd2591257",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-6509-page1\", \"message_id\": 100, \"frame_mean\": 45.884852818080354}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 3127,
+      "page": 1,
+      "screenshot": "screenshots/v040stress-3127-page1.png",
+      "sha256": "c3fd50f3deeeb423e8f67ea1a839afcbffff35c8912173070d82e00386194fa3",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-3127-page1\", \"message_id\": 100, \"frame_mean\": 47.020455496651785}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 3127,
+      "page": 2,
+      "screenshot": "screenshots/v040stress-3127-page2.png",
+      "sha256": "368136d68dfff1a964748bac5eea8da9e748df3b6c8133245538b9151c8d0548",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-3127-page2\", \"message_id\": 100, \"frame_mean\": 51.114496140252974}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 3127,
+      "page": 3,
+      "screenshot": "screenshots/v040stress-3127-page3.png",
+      "sha256": "415c0b8835bfcae78571a85bb07a1ba315e9d243de693b24f36df37b0cd561ed",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-3127-page3\", \"message_id\": 100, \"frame_mean\": 48.18605259486607}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 3127,
+      "page": 4,
+      "screenshot": "screenshots/v040stress-3127-page4.png",
+      "sha256": "90f51d547fd6fd92f1b1dc20948da1dfb398cf6ce908520b45943bc16e2b732c",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-3127-page4\", \"message_id\": 100, \"frame_mean\": 47.401663643973215}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 3127,
+      "page": 5,
+      "screenshot": "screenshots/v040stress-3127-page5.png",
+      "sha256": "e10583565a118a02f0d9022c8a83f18660f490f220d7ac506fe906e79476fbcb",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-3127-page5\", \"message_id\": 100, \"frame_mean\": 44.54889206659226}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6700,
+      "page": 1,
+      "screenshot": "screenshots/v040stress-6700-page1.png",
+      "sha256": "441f334798984c7ab9728bf517899d278159f1c5ecaf3262cac31ab1c1128152",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-6700-page1\", \"message_id\": 100, \"frame_mean\": 45.03143019903274}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6700,
+      "page": 2,
+      "screenshot": "screenshots/v040stress-6700-page2.png",
+      "sha256": "a96b486c387a9476fab903e8546567111546f60478a9d39d47423d5ff5900e00",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v040stress-6700-page2\", \"message_id\": 100, \"frame_mean\": 49.59018089657738}\nMap_ExtendedHiROMMap"
+    }
+  ],
+  "limits": "Diagnostic camp redirections, not natural scenes or monetary actions; injected display values do not test calculations or save state."
+}
