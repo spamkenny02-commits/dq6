@@ -1,0 +1,51 @@
+{
+  "baseline": "v0.33",
+  "baseline_main": 5732,
+  "latest": "v0.36",
+  "integrated_main": 5854,
+  "new_main": 122,
+  "old_main_selections_unchanged": 5732,
+  "remaining_main": 1103,
+  "separate_tables_new": 1,
+  "new_character_name": "Gus",
+  "places_inserted_in_v033": 8,
+  "prepared_main_active": 0,
+  "prepared_places": 25,
+  "other_examined_deferred_in_v034": 26,
+  "restored_from_git": true,
+  "source_commit": "f5299cd8e932133709c3801da82fa99245473a97",
+  "batches": [
+    {
+      "version": "v0.34",
+      "commit": "438cde0fed5e441ff64074fcdc0404ec7bc9ad29",
+      "main_new": 121,
+      "separate_table_new": 0,
+      "rom_sha256": "68c908f3c4ccfe28fd662782667c19cc87cf7d82d02f2d72dcafecde46ee1fcb",
+      "restore_from_git_verified": true
+    },
+    {
+      "version": "v0.35",
+      "commit": "4b23d8e1f520164573b2a67361c8f84ea56c0308",
+      "main_new": 0,
+      "separate_table_new": 1,
+      "rom_sha256": "81e64aa4ce62077c88c6aeaa14d660e71fd1005ac981367ed68db191112ac483",
+      "restore_from_git_verified": true
+    },
+    {
+      "version": "v0.36",
+      "commit": "f5299cd8e932133709c3801da82fa99245473a97",
+      "main_new": 1,
+      "separate_table_new": 0,
+      "rom_sha256": "daab10b0d17852bbb1e05f7b337784a8d31a723dfb51ab074bd76809a28fb6ab",
+      "restore_from_git_verified": true
+    }
+  ],
+  "limits": [
+    "Rendus par redirection au camp, pas parcours naturel complet",
+    "322/323,1836,4095 : scènes naturelles encore à vérifier",
+    "26 appariements différés v0.34 et indices 610/1135/2404/5341/5351 ouverts",
+    "Tables menus/noms/objets/sorts/combat inachevées, accents et fenêtres à traiter",
+    "8 Mio conservés ; 4 Mio seulement à réexaminer après finalisation vérifiée"
+  ],
+  "roms_published": false
+}

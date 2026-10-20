@@ -12,8 +12,12 @@
   "separate_name_new_since_v033": 1,
   "separate_places_prepared": 25,
   "rebuild_sha256": "daab10b0d17852bbb1e05f7b337784a8d31a723dfb51ab074bd76809a28fb6ab",
-  "restore_from_git_retested": false,
+  "restore_from_git_retested": true,
   "roms_published": false,
   "fresh_restore_rebuild_verified": true,
-  "recipe_generated_scripts_verified": true
+  "recipe_generated_scripts_verified": true,
+  "source_commit_verified": "f5299cd8e932133709c3801da82fa99245473a97",
+  "restored_selection_sha256": "19cd5a454136931790c1bd7484b74d9cd2bc592470c5c885ef8e99c08bfee01a",
+  "published_file_bytes_match_local": true,
+  "all_v033_selections_unchanged": true
 }
