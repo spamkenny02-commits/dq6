@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dernière version : v0.34, 5853/6957 intégrés, 1104 restants. Ce lot : 121 nouveaux, 1 préparé non inséré (4095), 26 autres rapprochements différés. Tables : huit lieux intégrés, 25 préparés non insérés, inventaire v0.33. Toujours 8 Mio.
+Dernière version : v0.35. Script 5853/6957 inchangé, 1104 restants ; 4095 préparé non inséré et 26 autres cas différés de v0.34. Tables : huit lieux et un nom supplémentaire intégrés, 25 lieux préparés. Inventaire v0.35 : 2048 entrées physiques, 2512 SIDs, 17 entrées FR confirmées. Toujours 8 Mio.
+
+## Lot v0.35 : Gus
+
+Rookie devient Gus, nom officiel DS de ルーキー, MENULIST6 FR b1001000.mpt:8. SID 0930, position 1888, ASCII complet plus court. Builder vérifie les anciens octets et champs JP SFC/DS JA/FR. 2511 autres noms et 5853 textes conservés. BPS/IPS, redécodage, bus script+tables, Journal et six pages de 1836 vérifiés : Gus/AM/Gus, deux B2 visibles. RAM du banc uniquement, pas scène naturelle de recrutement. Ne pas modifier les noms personnalisés des sauvegardes. Recette pass35.py, delta v0.35 ; comparaison stricte avec v0.34 construit. Audit tables reproductible par audit_tables.py v0.35 puis inventaire_tables_v035.py v0.35. Ne pas modifier les anciens outils inventaire_tables.py ou inventaire_tables_v033.py, empreintés dans les anciens lots. Continuer script et tables ; 4095 D5 et autres réserves restent ouverts.
 
 ## Lot v0.34 : 121 ajouts
 

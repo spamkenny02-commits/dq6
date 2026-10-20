@@ -1,0 +1,11 @@
+# DQVI FR DS v0.35 — PARTIEL, nom Gus
+
+Script inchangé : 5853/6957 intégrés, 1104 restants, dont 4095 préparé non inséré. Ce lot : 0 texte principal ajouté, **1 entrée séparée de nom intégrée**. Rookie devient Gus, nom français DS officiel du gluant ルーキー, MENULIST6 FR b1001000.mpt:8. Position physique 1888, SID 0930 (2352), aucun alias supplémentaire. Tables : huit lieux déjà intégrés, un nom supplémentaire ; 25 lieux préparés non insérés. ROM 8 Mio, SHA256 81e64aa4ce62077c88c6aeaa14d660e71fd1005ac981367ed68db191112ac483.
+
+Nom complet ASCII de trois caractères contre six, sans accent supprimé ni troncature. Builder garde les anciens octets et vérifie le japonais original SFC ainsi que les deux champs JA/FR DS. 2512 SIDs résolus indépendamment : seul 0930 change depuis v0.34, les 2511 autres noms et 5853 sélections de script sont inchangés. Pointeurs des 157 groupes, 464 alias, tail, dictionnaire, alphabet, code moteur, Journal/Options et cadre du nom conservés. BPS et IPS réappliqués, mauvaises sources rejetées, 6960 entrées de script redécodées. Bus de tout le script, pool et pointeurs des noms contrôlé dans les deux copies ROM.
+
+Snes9x : Journal au démarrage et six pages de diagnostic de 1836 relues. Gus B2 page 1, AM D3 page 3, Gus B2 page 4, puis choix hôte et message hôte. RAM 5A28=0930 injectée uniquement dans le banc du camp. Ni recrutement naturel, ni parcours complet ; ces essais ne prouvent pas tous les écrans. Les noms personnalisés de sauvegardes existantes ne sont pas réécrits.
+
+Inventaire reproductible : audit_tables.py v0.35 puis inventaire_tables_v035.py v0.35. 17 entrées FR confirmées, 23 identiques DS à vérifier, 349 identifiants, 82 vides à qualifier, 1576 autres textes à revoir, 1 crédit retiré ; 2048 entrées / 2512 SIDs. Ces classes ne prouvent pas la langue ou l'usage des entrées restantes. Les menus, objets, sorts, combat et noms accentués restent à finaliser.
+
+Sources : python restore_sources.py, recette pass35.py, delta sources/lots/v0.35.json ; init/prepare/build/verify dans v0.35, avec v0.34 construit pour comparaison des noms et octets précédents. Patch BPS sous patches/. Aucune ROM, SRAM ni sauvegarde d'état publiée. 4095 et les 26 cas différés de v0.34 restent ouverts, ainsi que les indices et parcours naturels hérités. Projet partiel.

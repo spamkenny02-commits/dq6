@@ -1,0 +1,26 @@
+{
+  "result_sha256": "81e64aa4ce62077c88c6aeaa14d660e71fd1005ac981367ed68db191112ac483",
+  "cold_boot_reaches_journal_menu": true,
+  "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "fixture_id": 1836,
+  "pages_visually_reviewed": 6,
+  "observed_names": [
+    "Gus",
+    "AM",
+    "Gus"
+  ],
+  "B2_pages": [
+    1,
+    4
+  ],
+  "D3_page": 3,
+  "diagnostic_wram": {
+    "0x5a28": 2352
+  },
+  "last_two_pages_are_host_choice_and_successor": true,
+  "natural_recruitment_scene_played": false,
+  "release_machine_code_changed": false,
+  "full_playthrough": false
+}

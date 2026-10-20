@@ -1,7 +1,7 @@
 # Dragon Quest VI — traduction française Super Famicom
 
-Version v0.34 partielle : **5853/6957 textes intégrés**, 1104 restants. Ce lot : 121 nouveaux, 1 préparé non inséré (4095), 26 autres rapprochements différés. Tables séparées : 8 lieux intégrés, 25 préparés non insérés ; tables à finaliser.
+Version v0.35 partielle : **5853/6957 textes intégrés**, 1104 restants. Depuis v0.33 : 121 ajouts au script et le nom séparé Gus. 4095 préparé non inséré, 26 autres rapprochements différés. Tables : 8 lieux et 1 nom supplémentaire intégrés, 25 lieux préparés ; tables non finalisées.
 
-Patch BPS sous patches/, pour la ROM japonaise intacte sans en-tête (CRC32 33304519). Sources : `python restore_sources.py`, puis REPRISE-AUTOMATIQUE.md. Aucune ROM, SRAM ni sauvegarde d'état publiée.
+Patch BPS sous patches/, pour ROM japonaise intacte sans en-tête (CRC32 33304519). Sources : `python restore_sources.py`, puis REPRISE-AUTOMATIQUE.md. Aucune ROM, SRAM ni état publié.
 
-Anciennes sélections et noms conservés, BPS/IPS, redécodage, bus et Journal vérifiés. Rendu ciblé de 16 textes par diagnostics au camp ; pas de parcours naturel complet. 4095 exclu pour réserve de rendu D5. Projet partiel.
+Restauration/reconstruction, patchs, redécodage, zones protégées et bus vérifiés. Rendus ciblés au camp, dont Gus/AM/Gus avec B2 répété ; pas de parcours naturel complet. Projet partiel.

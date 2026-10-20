@@ -1,0 +1,25 @@
+[
+  {
+    "sid": 2352,
+    "position": 1888,
+    "sfc_jp": "ルーキー",
+    "current": "Rookie",
+    "french": "Gus",
+    "old_bytes": "2150504c4a46",
+    "new_bytes": "165654",
+    "runtime_sids": [
+      2352
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1001000.mpt",
+        "id": 8,
+        "jp": "ルーキー",
+        "fr": "Gus"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même nom JP SFC et liste DS de personnages. Français DS Gus, masculin, relu avec rôle du gluant recruté. ASCII existant, trois caractères contre six, sans saut ni commande. Aucun autre alias à traiter.",
+    "remaining_checks": "Pointeurs, autres noms, patchs, bus et rendu B2 répété de 1836 à vérifier ; scène naturelle de recrutement non parcourue."
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "release": "v0.35",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5853,
+    "visible_total": 6957,
+    "new_this_pass": 0,
+    "remaining": 1104
+  },
+  "baseline": "v0.34",
+  "prepared_not_inserted": {
+    "main": 1,
+    "main_ids": [
+      4095
+    ],
+    "separate_places": 25
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.35",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "new_this_pass": 1,
+    "prepared_places": 25,
+    "confirmed_french_entries": 17
+  },
+  "rom_bytes": 8388608,
+  "notes": "Une entrée de nom séparée : Rookie devient Gus, français DS exact de ルーキー. ASCII plus court, sans troncature. 2511 autres noms, 157 groupes, 464 alias et 5853 textes conservés. Deux B2 et D3 du 1836 rendus Gus/AM/Gus. Diagnostic au camp ; recrutement naturel non parcouru.",
+  "next": "Continuer 1104 textes et tables. 4095 préparé reste exclu pour écran D5 ; 26 cas différés v0.34, indices et réserves des parcours naturels ouverts. Toujours 8 Mio."
+}

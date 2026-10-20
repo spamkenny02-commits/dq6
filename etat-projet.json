@@ -1,13 +1,13 @@
 {
-  "release": "v0.34",
+  "release": "v0.35",
   "status": "PARTIEL",
   "main_script": {
     "validated": 5853,
     "visible_total": 6957,
-    "new_this_pass": 121,
+    "new_this_pass": 0,
     "remaining": 1104
   },
-  "baseline": "v0.33",
+  "baseline": "v0.34",
   "prepared_not_inserted": {
     "main": 1,
     "main_ids": [
@@ -15,18 +15,19 @@
     ],
     "separate_places": 25
   },
-  "deferred_examined_this_pass": 26,
+  "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.33",
+    "inventory_version": "v0.35",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
     "inserted_place_total": 8,
-    "inserted_this_pass": 0,
+    "additional_character_names_inserted": 1,
+    "new_this_pass": 1,
     "prepared_places": 25,
-    "confirmed_french_entries": 16
+    "confirmed_french_entries": 17
   },
   "rom_bytes": 8388608,
-  "notes": "121 nouveaux textes, 5732 anciennes sélections et les 2512 noms inchangés. 4095 relu mais préparé non inséré : dernier écran D5 avec reprise de lignes dans le banc du camp. 26 autres appariements différés. BPS/IPS, redécodage, zones protégées, bus script+tables, Journal et échantillon de 16 textes contrôlés ; pas de parcours naturel complet.",
-  "next": "Continuer les 1104 messages, dont 4095 préparé à vérifier en contexte naturel, et les tables. Garder les réserves de 322/323 et 1836 sur les parcours naturels, les indices 610/1135/2404/5341/5351 et les 26 cas différés. Les tables restent partielles."
+  "notes": "Une entrée de nom séparée : Rookie devient Gus, français DS exact de ルーキー. ASCII plus court, sans troncature. 2511 autres noms, 157 groupes, 464 alias et 5853 textes conservés. Deux B2 et D3 du 1836 rendus Gus/AM/Gus. Diagnostic au camp ; recrutement naturel non parcouru.",
+  "next": "Continuer 1104 textes et tables. 4095 préparé reste exclu pour écran D5 ; 26 cas différés v0.34, indices et réserves des parcours naturels ouverts. Toujours 8 Mio."
 }
