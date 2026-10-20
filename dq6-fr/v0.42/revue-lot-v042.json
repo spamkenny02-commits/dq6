@@ -1,0 +1,2708 @@
+[
+  {
+    "id": 25,
+    "file": "0803.p",
+    "ids": [
+      162
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は[LINE][CODE B5]を　使った![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE C0] utilise [CODE B5].[END STRING AE]",
+    "ds_ja": [
+      "@a@b%a000010は　\n%a000100を　使った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 utilise %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 utilise %a020100.",
+    "adaptation_body": "%a090000 utilise %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Utilisation, pas calcul de son effet. C0/B5 et variante du suffixe SFC conservés. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Utilisation, pas calcul de son effet. C0/B5 et variante du suffixe SFC conservés.",
+    "sfc_context": [
+      {
+        "id": 24,
+        "text": "[CODE B2]が　仲間に　くわわった![END STRING AE]"
+      },
+      {
+        "id": 25,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![END STRING AE]"
+      },
+      {
+        "id": 26,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "file": "0803.p",
+    "ids": [
+      162
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は[LINE][CODE B5]を　使った![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] utilise [CODE B5].[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　\n%a000100を　使った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 utilise %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 utilise %a020100.",
+    "adaptation_body": "%a090000 utilise %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Utilisation, pas calcul de son effet. C0/B5 et variante du suffixe SFC conservés. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Utilisation, pas calcul de son effet. C0/B5 et variante du suffixe SFC conservés.",
+    "sfc_context": [
+      {
+        "id": 25,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![END STRING AE]"
+      },
+      {
+        "id": 26,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![WAIT][END STRING AC]"
+      },
+      {
+        "id": 27,
+        "text": "なんと![LINE][CODE B5]を　みつけた![END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 5928,
+    "file": "0803.p",
+    "ids": [
+      162
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は[LINE][CODE B5]を　使った![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] utilise [CODE B5].[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　\n%a000100を　使った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 utilise %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 utilise %a020100.",
+    "adaptation_body": "%a090000 utilise %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Utilisation, pas calcul de son effet. C0/B5 et variante du suffixe SFC conservés. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Utilisation, pas calcul de son effet. C0/B5 et variante du suffixe SFC conservés.",
+    "sfc_context": [
+      {
+        "id": 5927,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]道具として　使ってみた。[END STRING AC]"
+      },
+      {
+        "id": 5928,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5929,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5929,
+    "file": "0803.p",
+    "ids": [
+      162
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は[LINE][CODE B5]を　使った![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] utilise [CODE B5].[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　\n%a000100を　使った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 utilise %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 utilise %a020100.",
+    "adaptation_body": "%a090000 utilise %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Utilisation, pas calcul de son effet. C0/B5 et variante du suffixe SFC conservés. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Utilisation, pas calcul de son effet. C0/B5 et variante du suffixe SFC conservés.",
+    "sfc_context": [
+      {
+        "id": 5928,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5929,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![END STRING AC]"
+      },
+      {
+        "id": 5930,
+        "text": "[CODE C0]は　世界地図を　ひろげた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1794,
+    "file": "0059.p",
+    "ids": [
+      977
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]たちは[LINE][CODE B5]を　手に入れた![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE C0] received the [CODE B5]![END STRING AE]",
+    "ds_ja": [
+      "@a@b%a002190たちは\n%a000100を　手に入れた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bL'%A0110%Xentraîneur%Z%B0110%Xentraîneuse%Z %G0180%Xd'%Yde %Z%a002190 accepte %a020100ⓠ\n@c0@"
+    ],
+    "original_body": "L'%A0110%Xentraîneur%Z%B0110%Xentraîneuse%Z %G0180%Xd'%Yde %Z%a002190 accepte %a020100ⓠ",
+    "adaptation_body": "%a090000 et son équipe obtiennent %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "たち indique le groupe ; la DS ne nomme que son entraîneur. Même personne native, formulation sans genre. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "たち indique le groupe ; la DS ne nomme que son entraîneur. Même personne native, formulation sans genre.",
+    "sfc_context": [
+      {
+        "id": 1793,
+        "text": "[CODE D9]ランク[CODE B2]の　ゆうしょう[LINE]おめでとう　ございます![WAIT][LINE][CODE D9]今回の　賞品は[LINE][CODE B5]　です![LINE]どうぞ　お受け取りください![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1794,
+        "text": "[CODE C0]たちは[LINE][CODE B5]を　手に入れた![END STRING AE]"
+      },
+      {
+        "id": 1795,
+        "text": "[CODE D9]おめでとう　ございました![LINE]また　がんばってね[LINE][CODE C0]!　ちゅっ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1801,
+    "file": "0059.p",
+    "ids": [
+      977
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]たちは[LINE][CODE B5]を　手に入れた![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE C0]<024D> group recieved the [CODE B5]![END STRING AE]",
+    "ds_ja": [
+      "@a@b%a002190たちは\n%a000100を　手に入れた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@bL'%A0110%Xentraîneur%Z%B0110%Xentraîneuse%Z %G0180%Xd'%Yde %Z%a002190 accepte %a020100ⓠ\n@c0@"
+    ],
+    "original_body": "L'%A0110%Xentraîneur%Z%B0110%Xentraîneuse%Z %G0180%Xd'%Yde %Z%a002190 accepte %a020100ⓠ",
+    "adaptation_body": "%a090000 et son équipe obtiennent %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "たち indique le groupe ; la DS ne nomme que son entraîneur. Même personne native, formulation sans genre. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "たち indique le groupe ; la DS ne nomme que son entraîneur. Même personne native, formulation sans genre.",
+    "sfc_context": [
+      {
+        "id": 1800,
+        "text": "[CODE D9][CODE C0]さん　おめでとう![LINE]ちゅっ。[END STRING AC]"
+      },
+      {
+        "id": 1801,
+        "text": "[CODE C0]たちは[LINE][CODE B5]を　手に入れた![END STRING AE]"
+      },
+      {
+        "id": 1802,
+        "text": "いや　じつに　いい試合でしたね。[LINE]スラッジさまも　たいへん[LINE]およろこびですよ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2425,
+    "file": "0803.p",
+    "ids": [
+      223,
+      224
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]ひろげてみた。[WAIT][LINE]とても　よくできた　木ぼり細工と[LINE]きぬおりものだ。[END STRING AC]",
+    "sfc_vf_secondaire": "2425<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　むらのみんげいひんを\nひろげてみた。\n@c0@",
+      "@a@bとても　よくできた　木ぼり細工と\nきぬおりものだ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 examine les produits du village.\n@c0@",
+      "@a@bLes sculptures et la soie sont de très bonne qualité.\n@c0@"
+    ],
+    "original_body": "%0%a020010 examine les produits du village. Les sculptures et la soie sont de très bonne qualité.",
+    "adaptation_body": "%a090000 déplie %a090001 Les sculptures sur bois et les étoffes de soie sont de très bonne qualité.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Nom des produits littéral dans DS remplacé par B5 SFC, matières explicitement conservées. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Nom des produits littéral dans DS remplacé par B5 SFC, matières explicitement conservées.",
+    "sfc_context": [
+      {
+        "id": 2424,
+        "text": "ここから下におりれば[LINE]カガミ姫で有名なフォーン城じゃ。[WAIT][LINE]フォーン王は　海きょうにかかる[LINE]水門のカギを　代だい[LINE]管理しておるそうじゃな。[END STRING AC]"
+      },
+      {
+        "id": 2425,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]ひろげてみた。[WAIT][LINE]とても　よくできた　木ぼり細工と[LINE]きぬおりものだ。[END STRING AC]"
+      },
+      {
+        "id": 2426,
+        "text": "[CODE D9]お　おにいちゃん![LINE]だいじょうぶっ!?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2601,
+    "file": "0005.p",
+    "ids": [
+      672
+    ],
+    "status": "RELU",
+    "sfc_jp": "そのヨロイが　気にいったのかい?[LINE]そいつは　[CODE B5]だ。[LINE]ちょいと　値が　はるぜ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Tu aime cette armure? C'est l'[CODE B5]. Elle est três chêre.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「そのヨロイが　気にいったのかい？\n\tそいつは　せいれいのよろいだ。\n\tちょいと　値が　はるぜ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ C'est une beauté, pas vraiⓡ Ouais, cette armure est enchantée. On regarde, mais on touche pasⓠ\n@c0@"
+    ],
+    "original_body": "C'est une beauté, pas vraiⓡ Ouais, cette armure est enchantée. On regarde, mais on touche pasⓠ",
+    "adaptation_body": "Cette armure vous plaît? Il s'agit de %a090001 Elle coûte assez cher.",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Réserve de prix SFC sans chiffre ; ne pas ajouter enchantement ou interdiction de toucher du FR DS. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Réserve de prix SFC sans chiffre ; ne pas ajouter enchantement ou interdiction de toucher du FR DS.",
+    "sfc_context": [
+      {
+        "id": 2600,
+        "text": "どうか　皆さんにも[LINE]精霊さまの　ごかごが[LINE]ありますように。[END STRING AC]"
+      },
+      {
+        "id": 2601,
+        "text": "そのヨロイが　気にいったのかい?[LINE]そいつは　[CODE B5]だ。[LINE]ちょいと　値が　はるぜ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 2602,
+        "text": "[CODE BB]ゴールドに　なるが[LINE]うちの店で　1ばん　おすすめの[LINE]品だよ。　買うかい?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2940,
+    "file": "0000.p",
+    "ids": [
+      955
+    ],
+    "status": "RELU",
+    "sfc_jp": "おお　若いの。[CODE B5][LINE]買っていかんか?[LINE][CODE BB]ゴールドでいいぞ。[END STRING AC]",
+    "sfc_vf_secondaire": "Oh, jeune homme. Voulez-vou m'acheter quelquechose? [CODE BB] d'or devraient aller.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「おお　若いの。　かわのたてを\n\t買っていかんか？\n\t１１５ゴールドでいいぞ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Une petite minute, jeune homme. Un bouclier de cuir, ça vous tenteⓡ Pour vous, ce sera 115 pièces d'or seulement.\n@c0@"
+    ],
+    "original_body": "Une petite minute, jeune homme. Un bouclier de cuir, ça vous tenteⓡ Pour vous, ce sera 115 pièces d'or seulement.",
+    "adaptation_body": "Hé, jeune homme! Voulez-vous acheter %a090001 Je vous le laisse pour %a090005 pièces d'or.",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090005": 187
+    },
+    "adaptation_review": "Nom B5 et prix BB variables SFC, pas bouclier de cuir et 115 fixes DS. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Nom B5 et prix BB variables SFC, pas bouclier de cuir et 115 fixes DS.",
+    "sfc_context": [
+      {
+        "id": 2939,
+        "text": "物を買うときは[LINE]最初に入った店で　いきなり[LINE]買っちゃ　ダメだ。[WAIT][LINE]もしかしたら　同じ物を[LINE]もっと　安く　売っている店が[LINE]あるかも　知れないからな。[WAIT][LINE]安く買いたいなら　歩く![LINE]これは　売りのときも[LINE]同じだ。おぼえておきな。[END STRING AC]"
+      },
+      {
+        "id": 2940,
+        "text": "おお　若いの。[CODE B5][LINE]買っていかんか?[LINE][CODE BB]ゴールドでいいぞ。[END STRING AC]"
+      },
+      {
+        "id": 2941,
+        "text": "おお　ありがとうよ。[LINE]ほれ　[CODE B5]　じゃ。[WAIT][LINE]ん?　装備?[LINE]そんなもん　自分で　せんか![LINE]セルフサービスじゃよ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2941,
+    "file": "0000.p",
+    "ids": [
+      956,
+      957
+    ],
+    "status": "RELU",
+    "sfc_jp": "おお　ありがとうよ。[LINE]ほれ　[CODE B5]　じゃ。[WAIT][LINE]ん?　装備?[LINE]そんなもん　自分で　せんか![LINE]セルフサービスじゃよ![END STRING AC]",
+    "sfc_vf_secondaire": "Oh, merci. Voilà l'objet.[WAIT][LINE]Quoi? L'emballer? Faites-te vous mème![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「おお　ありがとうよ。\n\tほれ　かわのたて　じゃ。\n@c0@",
+      "@a@b＊「ん？　装備？\n\tそんなもん　自分で　せんか！\n\tセルフサービスじゃよ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Oh, vous faites une sacrée bonne affaire.\nVoici votre bouclier.\n@c0@",
+      "@a@b*ⓢ Heinⓡ Vous voulez que je vous en équipeⓡ J'assure pas le service après-vente, je vous signaleⓠ Vous n'avez qu'à vous débrouillerⓠ\n@c0@"
+    ],
+    "original_body": "Oh, vous faites une sacrée bonne affaire.\nVoici votre bouclier. Heinⓡ Vous voulez que je vous en équipeⓡ J'assure pas le service après-vente, je vous signaleⓠ Vous n'avez qu'à vous débrouillerⓠ",
+    "adaptation_body": "Merci beaucoup! Voici %a090001 Hein? Vous en équiper? Débrouillez-vous! Ici, c'est du libre-service!",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Objet B5, remerciement SFC et refus équipement ; pas d’équipement exécuté. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Objet B5, remerciement SFC et refus équipement ; pas d’équipement exécuté.",
+    "sfc_context": [
+      {
+        "id": 2940,
+        "text": "おお　若いの。[CODE B5][LINE]買っていかんか?[LINE][CODE BB]ゴールドでいいぞ。[END STRING AC]"
+      },
+      {
+        "id": 2941,
+        "text": "おお　ありがとうよ。[LINE]ほれ　[CODE B5]　じゃ。[WAIT][LINE]ん?　装備?[LINE]そんなもん　自分で　せんか![LINE]セルフサービスじゃよ![END STRING AC]"
+      },
+      {
+        "id": 2942,
+        "text": "おや　お金が　ないのう。[LINE]若いんじゃから　しっかり[LINE]かせがんと　いかんのう。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2944,
+    "file": "0001.p",
+    "ids": [
+      19
+    ],
+    "status": "RELU",
+    "sfc_jp": "いらっしゃーい![LINE]さあ　この　[CODE B5]![LINE]お買いどく　だよー![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Bienvenue! J'ai plein de bonnes choses pour pas cher![WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「いらっしゃーい！\n\tさあ　この　かわのよろい！\n\tお買いどく　だよー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Cette armure de cuir résiste aux taches ET aux coups de couteau. Et ce n'est pas toutⓠ\n@c0@"
+    ],
+    "original_body": "Cette armure de cuir résiste aux taches ET aux coups de couteau. Et ce n'est pas toutⓠ",
+    "adaptation_body": "Bienvenue! Regardez %a090001 Une affaire à saisir!",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Offre commerciale SFC ; pas résistance aux taches ou aux coups de couteau ajoutée dans FR DS. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Offre commerciale SFC ; pas résistance aux taches ou aux coups de couteau ajoutée dans FR DS.",
+    "sfc_context": [
+      {
+        "id": 2943,
+        "text": "若いのに　ケチじゃのう。[END STRING AC]"
+      },
+      {
+        "id": 2944,
+        "text": "いらっしゃーい![LINE]さあ　この　[CODE B5]![LINE]お買いどく　だよー![WAIT][END STRING AC]"
+      },
+      {
+        "id": 2945,
+        "text": "ふつう　230ゴールドの[LINE]ところを　なんと![LINE]200ゴールドぽっきりだ![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5689,
+    "file": "0807.p",
+    "ids": [
+      0
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]は[LINE]武器らしい。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE B5] est porté sur le corps.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000100は\n武器らしい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020100 semble être une arme.\n@c0@"
+    ],
+    "original_body": "%0%a020100 semble être une arme.",
+    "adaptation_body": "Voici %a090001 Cela semble être une arme.",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Catégorie d’objet donnée par les japonais SFC/DS, sans genre grammatical du nom variable. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Catégorie d’objet donnée par les japonais SFC/DS, sans genre grammatical du nom variable.",
+    "sfc_context": [
+      {
+        "id": 5688,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]手に取り　インパスを　となえた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5689,
+        "text": "[CODE B5]は[LINE]武器らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5690,
+        "text": "[CODE B5]は[LINE]身につける物らしい。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5690,
+    "file": "0807.p",
+    "ids": [
+      2
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]は[LINE]身につける物らしい。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE B5] est un bouclier.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000100は\n身体を　守るものらしい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020100 semble être une pièce d'équipement de protection.\n@c0@"
+    ],
+    "original_body": "%0%a020100 semble être une pièce d'équipement de protection.",
+    "adaptation_body": "Voici %a090001 Cela semble être un objet à porter sur le corps.",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Catégorie d’objet donnée par les japonais SFC/DS, sans genre grammatical du nom variable. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Catégorie d’objet donnée par les japonais SFC/DS, sans genre grammatical du nom variable.",
+    "sfc_context": [
+      {
+        "id": 5689,
+        "text": "[CODE B5]は[LINE]武器らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5690,
+        "text": "[CODE B5]は[LINE]身につける物らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5691,
+        "text": "[CODE B5]は[LINE]盾らしい。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5691,
+    "file": "0807.p",
+    "ids": [
+      4
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]は[LINE]盾らしい。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE B5] est placé sur la tète.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000100は\n盾らしい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020100 semble être une sorte de bouclier.\n@c0@"
+    ],
+    "original_body": "%0%a020100 semble être une sorte de bouclier.",
+    "adaptation_body": "Voici %a090001 Cela semble être un bouclier.",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Catégorie d’objet donnée par les japonais SFC/DS, sans genre grammatical du nom variable. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Catégorie d’objet donnée par les japonais SFC/DS, sans genre grammatical du nom variable.",
+    "sfc_context": [
+      {
+        "id": 5690,
+        "text": "[CODE B5]は[LINE]身につける物らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5691,
+        "text": "[CODE B5]は[LINE]盾らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5692,
+        "text": "[CODE B5]は[LINE]頭に　かぶる物らしい。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5693,
+    "file": "0807.p",
+    "ids": [
+      8
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]は[LINE]身をかざる物らしい。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "C'est un objet spécial.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000100は\nそうしょく品らしい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020100 semble être une sorte d'accessoire.\n@c0@"
+    ],
+    "original_body": "%0%a020100 semble être une sorte d'accessoire.",
+    "adaptation_body": "Voici %a090001 Cela semble être un accessoire.",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Catégorie d’objet donnée par les japonais SFC/DS, sans genre grammatical du nom variable. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Catégorie d’objet donnée par les japonais SFC/DS, sans genre grammatical du nom variable.",
+    "sfc_context": [
+      {
+        "id": 5692,
+        "text": "[CODE B5]は[LINE]頭に　かぶる物らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5693,
+        "text": "[CODE B5]は[LINE]身をかざる物らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5694,
+        "text": "[CODE B5]は[LINE]道具らしい。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5694,
+    "file": "0807.p",
+    "ids": [
+      10
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]は[LINE]道具らしい。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Personne ne peut utiliser ca.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000100は\n道具らしい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020100 semble être une sorte d'objet utile.\n@c0@"
+    ],
+    "original_body": "%0%a020100 semble être une sorte d'objet utile.",
+    "adaptation_body": "Voici %a090001 Cela semble être un objet utile.",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Catégorie d’objet donnée par les japonais SFC/DS, sans genre grammatical du nom variable. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Catégorie d’objet donnée par les japonais SFC/DS, sans genre grammatical du nom variable.",
+    "sfc_context": [
+      {
+        "id": 5693,
+        "text": "[CODE B5]は[LINE]身をかざる物らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5694,
+        "text": "[CODE B5]は[LINE]道具らしい。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5695,
+        "text": "しかし　いちど使えば[LINE]なくなってしまうだろう。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5795,
+    "file": "0803.p",
+    "ids": [
+      162
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　死んでいるので[LINE][CODE B5]を[LINE]使えない。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE C0] est paralysé et ne peut utiliser [CODE B5].[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　\n%a000100を　使った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 utilise %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 utilise %a020100.",
+    "adaptation_body": "%a090000 est sans vie et ne peut donc pas utiliser %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Cause de l’échec explicite SFC, jamais remplacer C0 ni B5 par le héros ou un nom fixe. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Cause de l’échec explicite SFC, jamais remplacer C0 ni B5 par le héros ou un nom fixe.",
+    "sfc_context": [
+      {
+        "id": 5794,
+        "text": "[CODE C0]は　マヒしているので[LINE]呪文は　使えない。[END STRING AC]"
+      },
+      {
+        "id": 5795,
+        "text": "[CODE C0]は　死んでいるので[LINE][CODE B5]を[LINE]使えない。[END STRING AC]"
+      },
+      {
+        "id": 5796,
+        "text": "[CODE C0]は　マヒしているので[LINE][CODE B5]を[LINE]使えない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5796,
+    "file": "0803.p",
+    "ids": [
+      162
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　マヒしているので[LINE][CODE B5]を[LINE]使えない。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C1] est soigné.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　\n%a000100を　使った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 utilise %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 utilise %a020100.",
+    "adaptation_body": "%a090000 souffre de paralysie et ne peut donc pas utiliser %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Paralysie SFC, tournure sans branche masculine/féminine ; pas remède administré. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Paralysie SFC, tournure sans branche masculine/féminine ; pas remède administré.",
+    "sfc_context": [
+      {
+        "id": 5795,
+        "text": "[CODE C0]は　死んでいるので[LINE][CODE B5]を[LINE]使えない。[END STRING AC]"
+      },
+      {
+        "id": 5796,
+        "text": "[CODE C0]は　マヒしているので[LINE][CODE B5]を[LINE]使えない。[END STRING AC]"
+      },
+      {
+        "id": 5797,
+        "text": "[CODE C1]の　キズが　かいふくした![CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5910,
+    "file": "0803.p",
+    "ids": [
+      14
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は[CODE B5]を[LINE][CODE C1]に　手わたした。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] a donné [CODE B5] à [CODE C1].[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n%a000180に　手わたした。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 donne %a020100 à %a020180.\n@c0@"
+    ],
+    "original_body": "%0%a020010 donne %a020100 à %a020180.",
+    "adaptation_body": "%a090000 donne %a090001 à %a090002.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181,
+      "%a090002": 193
+    },
+    "adaptation_review": "Don C0/B5/C1, trois rôles distincts et ordre source maintenus ; pas le Sage et la lettre du faux rapprochement initial. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Don C0/B5/C1, trois rôles distincts et ordre source maintenus ; pas le Sage et la lettre du faux rapprochement initial.",
+    "sfc_context": [
+      {
+        "id": 5909,
+        "text": "トビラには　カギが　かかっている。[END STRING AC]"
+      },
+      {
+        "id": 5910,
+        "text": "[CODE C0]は[CODE B5]を[LINE][CODE C1]に　手わたした。[END STRING AC]"
+      },
+      {
+        "id": 5911,
+        "text": "[CODE C0]は　[CODE B5]を[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5911,
+    "file": "0803.p",
+    "ids": [
+      20
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]",
+    "sfc_vf_secondaire": "5911<0559>[CODE C0][CODE B5][LINE][CODE C1][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n%a000180の　棺おけにいれた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 met %a020100 dans le cercueil %E0180%X%G0180%Xd'%Yde %Z%Y%G0180%Xde l'%Y%A0180%Xdu %Z%B0180%Xde la %Z%C0180%X%Z%Z%Z%a000180.\n@c0@"
+    ],
+    "original_body": "%0%a020010 met %a020100 dans le cercueil %E0180%X%G0180%Xd'%Yde %Z%Y%G0180%Xde l'%Y%A0180%Xdu %Z%B0180%Xde la %Z%C0180%X%Z%Z%Z%a000180.",
+    "adaptation_body": "%a090000 place %a090001 parmi les affaires de %a090002.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181,
+      "%a090002": 193
+    },
+    "adaptation_review": "Affaires du destinataire SFC, pas cercueil DS. Maintient C0/B5/C1, sans genre et sans sac substitué. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Affaires du destinataire SFC, pas cercueil DS. Maintient C0/B5/C1, sans genre et sans sac substitué.",
+    "sfc_context": [
+      {
+        "id": 5910,
+        "text": "[CODE C0]は[CODE B5]を[LINE][CODE C1]に　手わたした。[END STRING AC]"
+      },
+      {
+        "id": 5911,
+        "text": "[CODE C0]は　[CODE B5]を[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5912,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]もちものに　いれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5912,
+    "file": "0803.p",
+    "ids": [
+      32
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]もちものに　いれた。[END STRING AC]",
+    "sfc_vf_secondaire": "5912<0559>[CODE C0][CODE B5][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n%a001400に入れた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 met %a020100 dans le sac.\n@c0@"
+    ],
+    "original_body": "%0%a020010 met %a020100 dans le sac.",
+    "adaptation_body": "%a090000 range %a090001 parmi ses affaires.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Affaires personnelles SFC, pas sac collectif DS ; C0 puis B5. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Affaires personnelles SFC, pas sac collectif DS ; C0 puis B5.",
+    "sfc_context": [
+      {
+        "id": 5911,
+        "text": "[CODE C0]は　[CODE B5]を[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5912,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5913,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]持ちかえた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5913,
+    "file": "0803.p",
+    "ids": [
+      48
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]持ちかえた。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] décide de garder [CODE B5].[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\nもちかえた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 change %M0100%Xses%Y%A0100%Xson%Z%B0100%X%G0100%Xson%Ysa%Z%Z%C0100%X%Z%Z %a000100 de place.\n@c0@"
+    ],
+    "original_body": "%0%a020010 change %M0100%Xses%Y%A0100%Xson%Z%B0100%X%G0100%Xson%Ysa%Z%Z%C0100%X%Z%Z %a000100 de place.",
+    "adaptation_body": "%a090000 change %a090001 de place.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Réorganisation もちかえた SFC/DS, plutôt que mettre dans le sac du faux rapprochement 52. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Réorganisation もちかえた SFC/DS, plutôt que mettre dans le sac du faux rapprochement 52.",
+    "sfc_context": [
+      {
+        "id": 5912,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5913,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]持ちかえた。[END STRING AC]"
+      },
+      {
+        "id": 5914,
+        "text": "[CODE C1]は　[CODE B5]を[LINE][CODE C0]の　もちものから[LINE]取り出した。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5914,
+    "file": "0803.p",
+    "ids": [
+      17
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C1]は　[CODE B5]を[LINE][CODE C0]の　もちものから[LINE]取り出した。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE C1] a pris [CODE B5] au fantôme de [CODE C0].[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000180は　%a000100を\n%a000010の　棺おけから　取り出した。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020180 prend %a020100 dans le cercueil %E0010%X%G0010%Xd'%Yde %Z%Y%G0010%Xde l'%Y%A0010%Xdu %Z%B0010%Xde la %Z%C0010%X%Z%Z%Z%a000010.\n@c0@"
+    ],
+    "original_body": "%0%a020180 prend %a020100 dans le cercueil %E0010%X%G0010%Xd'%Yde %Z%Y%G0010%Xde l'%Y%A0010%Xdu %Z%B0010%Xde la %Z%C0010%X%Z%Z%Z%a000010.",
+    "adaptation_body": "%a090002 prend %a090001 parmi les affaires de %a090000.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181,
+      "%a090002": 193
+    },
+    "adaptation_review": "C1/B5/C0 dans cet ordre ; affaires SFC, pas cercueil de la variante DS. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "C1/B5/C0 dans cet ordre ; affaires SFC, pas cercueil de la variante DS.",
+    "sfc_context": [
+      {
+        "id": 5913,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]持ちかえた。[END STRING AC]"
+      },
+      {
+        "id": 5914,
+        "text": "[CODE C1]は　[CODE B5]を[LINE][CODE C0]の　もちものから[LINE]取り出した。[END STRING AC]"
+      },
+      {
+        "id": 5915,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C0]の　もちものから　取り出し[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5915,
+    "file": "0803.p",
+    "ids": [
+      23
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　[CODE B5]を[LINE][CODE C0]の　もちものから　取り出し[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]",
+    "sfc_vf_secondaire": "5915<0559>[CODE D3][CODE B5][LINE][CODE C0][LINE][CODE C1][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n%a000010の　棺おけから　取り出し\n%a000180の　棺おけに入れた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 prend %a020100 dans le cercueil %E0010%X%G0010%Xd'%Yde %Z%Y%G0010%Xde l'%Y%A0010%Xdu %Z%B0010%Xde la %Z%C0010%X%Z%Z%Z%a000010 et %A0100%Xle%Z%B0100%Xla%Z%C0100%X%Z met dans celui %E0180%X%G0180%Xd'%Yde %Z%Y%G0180%Xde l'%Y%A0180%Xdu %Z%B0180%Xde la %Z%C0180%X%Z%Z%Z%a000180.\n@c0@"
+    ],
+    "original_body": "%0%a000120 prend %a020100 dans le cercueil %E0010%X%G0010%Xd'%Yde %Z%Y%G0010%Xde l'%Y%A0010%Xdu %Z%B0010%Xde la %Z%C0010%X%Z%Z%Z%a000010 et %A0100%Xle%Z%B0100%Xla%Z%C0100%X%Z met dans celui %E0180%X%G0180%Xd'%Yde %Z%Y%G0180%Xde l'%Y%A0180%Xdu %Z%B0180%Xde la %Z%C0180%X%Z%Z%Z%a000180.",
+    "adaptation_body": "%a090003 prend %a090001 parmi les affaires de %a090000 puis le range dans celles de %a090002.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181,
+      "%a090002": 193,
+      "%a090003": 211
+    },
+    "adaptation_review": "Trois personnes SFC D3/C0/C1 distinctes ; transferts de cercueils DS adaptés aux affaires SFC, pas réorganisation tronquée. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Trois personnes SFC D3/C0/C1 distinctes ; transferts de cercueils DS adaptés aux affaires SFC, pas réorganisation tronquée.",
+    "sfc_context": [
+      {
+        "id": 5914,
+        "text": "[CODE C1]は　[CODE B5]を[LINE][CODE C0]の　もちものから[LINE]取り出した。[END STRING AC]"
+      },
+      {
+        "id": 5915,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C0]の　もちものから　取り出し[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5916,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]もちものに　いれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5916,
+    "file": "0803.p",
+    "ids": [
+      32
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　[CODE B5]を[LINE]もちものに　いれた。[END STRING AC]",
+    "sfc_vf_secondaire": "5916<0559>[CODE D3][CODE B5][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n%a001400に入れた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 met %a020100 dans le sac.\n@c0@"
+    ],
+    "original_body": "%0%a020010 met %a020100 dans le sac.",
+    "adaptation_body": "%a090003 range %a090001 parmi ses affaires.",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090003": 211
+    },
+    "adaptation_review": "D3, pas C0 de la phrase DS ; affaire personnelle SFC, pas sac. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "D3, pas C0 de la phrase DS ; affaire personnelle SFC, pas sac.",
+    "sfc_context": [
+      {
+        "id": 5915,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C0]の　もちものから　取り出し[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5916,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5917,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C1]の　もちものから　取り出し[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5917,
+    "file": "0803.p",
+    "ids": [
+      50
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　[CODE B5]を[LINE][CODE C1]の　もちものから　取り出し[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]",
+    "sfc_vf_secondaire": "5917<0559>[CODE D3][CODE B5][LINE][CODE C1][LINE][CODE C1][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n%a000010の　もちものから　取り出し\n%a000010の　もちものに入れた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 réorganise ce que transporte %a020010.\n@c0@"
+    ],
+    "original_body": "%0%a000120 réorganise ce que transporte %a020010.",
+    "adaptation_body": "%a090003 prend %a090001 parmi les affaires de %a090002 puis le remet dans celles de %a090002.",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090002": 193,
+      "%a090003": 211
+    },
+    "adaptation_review": "Les deux occurrences natives C1 SFC sont conservées malgré la répétition ; pas réduction FR DS à un nom unique. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Les deux occurrences natives C1 SFC sont conservées malgré la répétition ; pas réduction FR DS à un nom unique.",
+    "sfc_context": [
+      {
+        "id": 5916,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5917,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C1]の　もちものから　取り出し[LINE][CODE C1]の　もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5918,
+        "text": "持ち物が　いっぱいで[LINE]わたせない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5919,
+    "file": "0803.p",
+    "ids": [
+      32
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]どうぐぶくろに　いれた。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] a mis [CODE B5] dans le sac.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n%a001400に入れた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 met %a020100 dans le sac.\n@c0@"
+    ],
+    "original_body": "%0%a020010 met %a020100 dans le sac.",
+    "adaptation_body": "%a090000 met %a090001 dans le sac.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "C0/B5, sac collectif écrit littéralement dans SFC ; aucun C3 inventé. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "C0/B5, sac collectif écrit littéralement dans SFC ; aucun C3 inventé.",
+    "sfc_context": [
+      {
+        "id": 5918,
+        "text": "持ち物が　いっぱいで[LINE]わたせない。[END STRING AC]"
+      },
+      {
+        "id": 5919,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]どうぐぶくろに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5920,
+        "text": "[CODE C0]は[LINE]どうぐぶくろを　もっていない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5921,
+    "file": "0803.p",
+    "ids": [
+      36
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　どうぐぶくろから[LINE][CODE B5]を　だした。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] a pris [CODE B5] du sack.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000180は　%a001400から\n%a000100を　だした。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020180 sort %a020100 du sac.\n@c0@"
+    ],
+    "original_body": "%0%a020180 sort %a020100 du sac.",
+    "adaptation_body": "%a090000 sort du sac %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "C0 natif SFC et nom B5 ; ordre source conservé, porteur DS remappé explicitement. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "C0 natif SFC et nom B5 ; ordre source conservé, porteur DS remappé explicitement.",
+    "sfc_context": [
+      {
+        "id": 5920,
+        "text": "[CODE C0]は[LINE]どうぐぶくろを　もっていない。[END STRING AC]"
+      },
+      {
+        "id": 5921,
+        "text": "[CODE C0]は　どうぐぶくろから[LINE][CODE B5]を　だした。[END STRING AC]"
+      },
+      {
+        "id": 5922,
+        "text": "どうぐぶくろには　道具が　ひとつも[LINE]入っていない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5923,
+    "file": "0803.p",
+    "ids": [
+      34
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　[CODE B5]を[LINE][CODE C0]の　もちものから　取り出し[LINE]どうぐぶくろに　いれた。[END STRING AC]",
+    "sfc_vf_secondaire": "5923<0559>[CODE D3][CODE B5][LINE][CODE C0][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は\n%a000010の　%a000100を\n%a001400に入れた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 met %a020100 %E0010%X%G0010%Xd'%Yde %Z%Y%G0010%Xde l'%Y%A0010%Xdu %Z%B0010%Xde la %Z%C0010%X%Z%Z%Z%a000010 dans le sac.\n@c0@"
+    ],
+    "original_body": "%0%a000120 met %a020100 %E0010%X%G0010%Xd'%Yde %Z%Y%G0010%Xde l'%Y%A0010%Xdu %Z%B0010%Xde la %Z%C0010%X%Z%Z%Z%a000010 dans le sac.",
+    "adaptation_body": "%a090003 prend %a090001 parmi les affaires de %a090000 et le met dans le sac.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181,
+      "%a090003": 211
+    },
+    "adaptation_review": "D3/B5/C0, action des affaires vers sac, pas sens inverse. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "D3/B5/C0, action des affaires vers sac, pas sens inverse.",
+    "sfc_context": [
+      {
+        "id": 5922,
+        "text": "どうぐぶくろには　道具が　ひとつも[LINE]入っていない。[END STRING AC]"
+      },
+      {
+        "id": 5923,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C0]の　もちものから　取り出し[LINE]どうぐぶくろに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5924,
+        "text": "[CODE D3]は　どうぐぶくろから[LINE][CODE B5]を　取り出し[LINE][CODE C0]の　もちものに　いれた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5924,
+    "file": "0803.p",
+    "ids": [
+      39
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　どうぐぶくろから[LINE][CODE B5]を　取り出し[LINE][CODE C0]の　もちものに　いれた。[END STRING AC]",
+    "sfc_vf_secondaire": "5924<0559>[CODE D3][LINE][CODE B5][LINE][CODE C0][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n%a001400から　取り出し\n%a000180の　棺おけに入れた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 sort %a020100 du sac et %A0100%Xle%Z%B0100%Xla%Z%C0100%X%Z met dans le cercueil %E0180%X%G0180%Xd'%Yde %Z%Y%G0180%Xde l'%Y%A0180%Xdu %Z%B0180%Xde la %Z%C0180%X%Z%Z%Z%a000180.\n@c0@"
+    ],
+    "original_body": "%0%a000120 sort %a020100 du sac et %A0100%Xle%Z%B0100%Xla%Z%C0100%X%Z met dans le cercueil %E0180%X%G0180%Xd'%Yde %Z%Y%G0180%Xde l'%Y%A0180%Xdu %Z%B0180%Xde la %Z%C0180%X%Z%Z%Z%a000180.",
+    "adaptation_body": "%a090003 sort du sac %a090001 et le range parmi les affaires de %a090000.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181,
+      "%a090003": 211
+    },
+    "adaptation_review": "D3/B5/C0, sac vers affaires ; cercueil de la variante DS non introduit. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "D3/B5/C0, sac vers affaires ; cercueil de la variante DS non introduit.",
+    "sfc_context": [
+      {
+        "id": 5923,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C0]の　もちものから　取り出し[LINE]どうぐぶくろに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5924,
+        "text": "[CODE D3]は　どうぐぶくろから[LINE][CODE B5]を　取り出し[LINE][CODE C0]の　もちものに　いれた。[END STRING AC]"
+      },
+      {
+        "id": 5925,
+        "text": "[CODE C0]は　道具を[LINE]持っていない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5926,
+    "file": "0803.p",
+    "ids": [
+      165
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]道具として　使ってみた。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] essaie d'utiliser [CODE B5].[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n道具として　使ってみた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 essaie d'utiliser %a040100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 essaie d'utiliser %a040100.",
+    "adaptation_body": "%a090000 essaie d'utiliser %a090001 comme outil.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Usage comme outil et tentative, C0/B5 ; ne pas affirmer un effet. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Usage comme outil et tentative, C0/B5 ; ne pas affirmer un effet.",
+    "sfc_context": [
+      {
+        "id": 5925,
+        "text": "[CODE C0]は　道具を[LINE]持っていない。[END STRING AC]"
+      },
+      {
+        "id": 5926,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]道具として　使ってみた。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5927,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]道具として　使ってみた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5927,
+    "file": "0803.p",
+    "ids": [
+      165
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]道具として　使ってみた。[END STRING AC]",
+    "sfc_vf_secondaire": "5927<0559>[CODE C0][CODE B5][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n道具として　使ってみた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 essaie d'utiliser %a040100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 essaie d'utiliser %a040100.",
+    "adaptation_body": "%a090000 essaie d'utiliser %a090001 comme outil.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Usage comme outil et tentative, C0/B5 ; ne pas affirmer un effet. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Usage comme outil et tentative, C0/B5 ; ne pas affirmer un effet.",
+    "sfc_context": [
+      {
+        "id": 5926,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]道具として　使ってみた。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5927,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]道具として　使ってみた。[END STRING AC]"
+      },
+      {
+        "id": 5928,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5932,
+    "file": "0803.p",
+    "ids": [
+      211
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は[LINE][CODE B5]を　ふりまいた![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] jete [CODE B5].[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は\nせいすいを　ふりまいた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 répand des gouttes d'eau sacrée autour %A0010%Xde lui%Z%B0010%Xd'elle%Z%C0010%X%Z.\n@c0@"
+    ],
+    "original_body": "%0%a020010 répand des gouttes d'eau sacrée autour %A0010%Xde lui%Z%B0010%Xd'elle%Z%C0010%X%Z.",
+    "adaptation_body": "%a090000 répand autour de soi %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "B5 SFC variable, eau sacrée littérale DS retirée ; genre neutre. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "B5 SFC variable, eau sacrée littérale DS retirée ; genre neutre.",
+    "sfc_context": [
+      {
+        "id": 5931,
+        "text": "[CODE C0]は　ふしぎな地図を[LINE]ひろげた。[END STRING AC]"
+      },
+      {
+        "id": 5932,
+        "text": "[CODE C0]は[LINE][CODE B5]を　ふりまいた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5933,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]ほうり　投げた![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5933,
+    "file": "0803.p",
+    "ids": [
+      185
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]ほうり　投げた![END STRING AC]",
+    "sfc_vf_secondaire": "5933<0559>[CODE C0][CODE B5][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\nほうり投げた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 lance %a020100 en l'airⓠ \n@c0@"
+    ],
+    "original_body": "%0%a020010 lance %a020100 en l'airⓠ",
+    "adaptation_body": "%a090000 lance en l'air %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Lancer C0/B5, français DS adapté pour conserver la ligne du nom complet. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Lancer C0/B5, français DS adapté pour conserver la ligne du nom complet.",
+    "sfc_context": [
+      {
+        "id": 5932,
+        "text": "[CODE C0]は[LINE][CODE B5]を　ふりまいた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5933,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]ほうり　投げた![END STRING AC]"
+      },
+      {
+        "id": 5934,
+        "text": "[CODE C0]は　[CODE B5]を[LINE][CODE C1]に　与えた![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5934,
+    "file": "0803.p",
+    "ids": [
+      214
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE][CODE C1]に　与えた![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5934<0559>[CODE C0][CODE B5][LINE][CODE C1][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　せかいじゅのはを\n%a000180に　与えた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 donne une feuille d'Yggdrasil %E0180%Xà %Y%G0180%Xà l'%Y%A0180%Xau %Z%B0180%Xà la %Z%C0180%X%Z%Z%Z%a000180.\n@c0@"
+    ],
+    "original_body": "%0%a020010 donne une feuille d'Yggdrasil %E0180%Xà %Y%G0180%Xà l'%Y%A0180%Xau %Z%B0180%Xà la %Z%C0180%X%Z%Z%Z%a000180.",
+    "adaptation_body": "%a090000 donne %a090001 à %a090002!",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181,
+      "%a090002": 193
+    },
+    "adaptation_review": "Nom variable B5 au lieu de feuille d’Yggdrasil fixe DS ; destinataire C1, donneur C0. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Nom variable B5 au lieu de feuille d’Yggdrasil fixe DS ; destinataire C1, donneur C0.",
+    "sfc_context": [
+      {
+        "id": 5933,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]ほうり　投げた![END STRING AC]"
+      },
+      {
+        "id": 5934,
+        "text": "[CODE C0]は　[CODE B5]を[LINE][CODE C1]に　与えた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5935,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]仲間たちに　与えた![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5935,
+    "file": "0803.p",
+    "ids": [
+      217
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]仲間たちに　与えた![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5935<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　せかいじゅのしずくを\n仲間たちに　与えた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 %H0860%Xprend un peu de rosée d'Yggdrasil%Ydonne de la rosée d'Yggdrasil à tous les membres de l'équipe%Z.\n@c0@"
+    ],
+    "original_body": "%0%a020010 %H0860%Xprend un peu de rosée d'Yggdrasil%Ydonne de la rosée d'Yggdrasil à tous les membres de l'équipe%Z.",
+    "adaptation_body": "%a090000 donne à ses compagnons %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Compagnons SFC explicites, pas branche solitaire DS ; pas de guérison déclarée. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Compagnons SFC explicites, pas branche solitaire DS ; pas de guérison déclarée.",
+    "sfc_context": [
+      {
+        "id": 5934,
+        "text": "[CODE C0]は　[CODE B5]を[LINE][CODE C1]に　与えた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5935,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]仲間たちに　与えた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5936,
+        "text": "なんと　全員のキズが[LINE]たちまち　回復した![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5937,
+    "file": "0803.p",
+    "ids": [
+      193
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]指に　はめて　祈った![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5937<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　いのりのゆびわを\n指に　はめて　祈った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 met la bague de prière et prie...\n@c0@"
+    ],
+    "original_body": "%0%a020010 met la bague de prière et prie...",
+    "adaptation_body": "%a090000 passe à son doigt %a090001 puis prie.",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Bague de prière littérale DS remplacée par B5 ; action au doigt conservée. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Bague de prière littérale DS remplacée par B5 ; action au doigt conservée.",
+    "sfc_context": [
+      {
+        "id": 5936,
+        "text": "なんと　全員のキズが[LINE]たちまち　回復した![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5937,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]指に　はめて　祈った![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5938,
+        "text": "[CODE C0]のMPが[LINE][CODE BB]回復した![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5946,
+    "file": "0803.p",
+    "ids": [
+      223
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]ひろげてみた。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE C0] ouvre le [CODE B5].[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　むらのみんげいひんを\nひろげてみた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 examine les produits du village.\n@c0@"
+    ],
+    "original_body": "%0%a020010 examine les produits du village.",
+    "adaptation_body": "%a090000 déplie %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Déplier SFC, plutôt que seulement examiner FR DS ; produits du village littéraux remplacés par B5. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Déplier SFC, plutôt que seulement examiner FR DS ; produits du village littéraux remplacés par B5.",
+    "sfc_context": [
+      {
+        "id": 5945,
+        "text": "[CODE C0]の　さいだいMPが[LINE][CODE BB]あがった![END STRING AC]"
+      },
+      {
+        "id": 5946,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]ひろげてみた。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5947,
+        "text": "とても　よくできた　木ぼり細工と[LINE]きぬおりものだ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5952,
+    "file": "0803.p",
+    "ids": [
+      247
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]ひろげた![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] a jeté [CODE B5]![END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　まほうのじゅうたんを\nひろげた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 sort le tapis volantⓠ\n@c0@"
+    ],
+    "original_body": "%0%a020010 sort le tapis volantⓠ",
+    "adaptation_body": "%a090000 déplie %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Tapis volant fixe DS remplacé par B5, pas nouveau nom inscrit en dur. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Tapis volant fixe DS remplacé par B5, pas nouveau nom inscrit en dur.",
+    "sfc_context": [
+      {
+        "id": 5951,
+        "text": "まほうのじゅうたんは[LINE]すでに　つかっています。[END STRING AC]"
+      },
+      {
+        "id": 5952,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]ひろげた![END STRING AC]"
+      },
+      {
+        "id": 5953,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]天に　かざしてみた![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5953,
+    "file": "0803.p",
+    "ids": [
+      226
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]天に　かざしてみた![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5953<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　せいれいのかんむりを\n天に　かざしてみた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 brandit la couronne sacrée.\n@c0@"
+    ],
+    "original_body": "%0%a020010 brandit la couronne sacrée.",
+    "adaptation_body": "%a090000 brandit vers le ciel %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Couronne fixe DS remplacée par variable SFC, action de lever vers le ciel explicite. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Couronne fixe DS remplacée par variable SFC, action de lever vers le ciel explicite.",
+    "sfc_context": [
+      {
+        "id": 5952,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]ひろげた![END STRING AC]"
+      },
+      {
+        "id": 5953,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]天に　かざしてみた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5954,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]にぎりしめた。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5954,
+    "file": "0803.p",
+    "ids": [
+      231
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]にぎりしめた。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5954<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　つうこうしょうを\nにぎりしめた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 serre fermement le laissez-passer.\n@c0@"
+    ],
+    "original_body": "%0%a020010 serre fermement le laissez-passer.",
+    "adaptation_body": "%a090000 serre fermement %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Laissez-passer DS remplacé par B5, aucune branche de genre. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Laissez-passer DS remplacé par B5, aucune branche de genre.",
+    "sfc_context": [
+      {
+        "id": 5953,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]天に　かざしてみた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5954,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]にぎりしめた。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5955,
+        "text": "[CODE B5]は[LINE]くしゃくしゃに　なってしまった...。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5956,
+    "file": "0803.p",
+    "ids": [
+      201
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]たしかめた![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5956<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　くじけぬこころを\nたしかめた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 se saisit du cœur impétueux.\n@c0@"
+    ],
+    "original_body": "%0%a020010 se saisit du cœur impétueux.",
+    "adaptation_body": "%a090000 examine %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Vérifier l’objet SFC, coeur impétueux littéral DS non figé ; écarte le faux rapprochement vérifier son visage. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Vérifier l’objet SFC, coeur impétueux littéral DS non figé ; écarte le faux rapprochement vérifier son visage.",
+    "sfc_context": [
+      {
+        "id": 5955,
+        "text": "[CODE B5]は[LINE]くしゃくしゃに　なってしまった...。[END STRING AC]"
+      },
+      {
+        "id": 5956,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]たしかめた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5957,
+        "text": "すこし　ゆうきが　わいてきた![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5962,
+    "file": "0803.p",
+    "ids": [
+      237
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]手にとった![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5962<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n手にとった。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 prend %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 prend %a020100.",
+    "adaptation_body": "%a090000 prend en main %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Prendre en main C0/B5, sans inventer une acquisition/récompense. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Prendre en main C0/B5, sans inventer une acquisition/récompense.",
+    "sfc_context": [
+      {
+        "id": 5961,
+        "text": "文字は　きたないが　こころの[LINE]こもった　文章で　[CODE C0]たちを[LINE]よろしくと　書いてあった。[END STRING AC]"
+      },
+      {
+        "id": 5962,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]手にとった![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5963,
+        "text": "パイプは　よく　使いこまれていて[LINE]しぶい　かがやきを　はなっている。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5972,
+    "file": "0803.p",
+    "ids": [
+      237
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]手にとった![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5972<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n手にとった。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 prend %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 prend %a020100.",
+    "adaptation_body": "%a090000 prend en main %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Prendre en main C0/B5, sans inventer une acquisition/récompense. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Prendre en main C0/B5, sans inventer une acquisition/récompense.",
+    "sfc_context": [
+      {
+        "id": 5971,
+        "text": "どうぐは　すぐにも　使えるよう[LINE]ひとつ　ひとつ　みがきこまれている...。[END STRING AC]"
+      },
+      {
+        "id": 5972,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]手にとった![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5973,
+        "text": "よく見ると　ビキニを着た[LINE]美しい女性の　絵が　かいてある...。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5964,
+    "file": "0803.p",
+    "ids": [
+      254,
+      255
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]ふるってみた。[WAIT][LINE]しかし　ここには　つるはしで[LINE]こわせるようなものが　ない...。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] tourne [CODE B5].[WAIT][LINE]Mais il n'y a rien ici qu'on puisse utiliser.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　おうごんのつるはしを\nふるってみた。\n@c0@",
+      "@a@bしかし　ここには　つるはしで\nこわせるようなものが　ない…。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 balance la pioche dorée.\n@c0@",
+      "@a@bMais il n'y a rien à creuser.\n@c0@"
+    ],
+    "original_body": "%0%a020010 balance la pioche dorée. Mais il n'y a rien à creuser.",
+    "adaptation_body": "%a090000 brandit %a090001 Mais rien ici ne peut être brisé à la pioche...",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "B5 remplace la pioche dorée DS ; le japonais SFC dit briser, pas seulement creuser comme FR DS. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "B5 remplace la pioche dorée DS ; le japonais SFC dit briser, pas seulement creuser comme FR DS.",
+    "sfc_context": [
+      {
+        "id": 5963,
+        "text": "パイプは　よく　使いこまれていて[LINE]しぶい　かがやきを　はなっている。[END STRING AC]"
+      },
+      {
+        "id": 5964,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]ふるってみた。[WAIT][LINE]しかし　ここには　つるはしで[LINE]こわせるようなものが　ない...。[END STRING AC]"
+      },
+      {
+        "id": 5965,
+        "text": "[CODE C0]は　つるはしを　ふるった。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5968,
+    "file": "0803.p",
+    "ids": [
+      162
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]すこし　つまんでみた。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5968<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　\n%a000100を　使った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 utilise %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 utilise %a020100.",
+    "adaptation_body": "%a090000 prend une petite pincée de %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Action spécifique SFC すこしつまんだ, emprunt lexical de la phrase d’usage DS seulement, pas consommation ou effet inventé. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Action spécifique SFC すこしつまんだ, emprunt lexical de la phrase d’usage DS seulement, pas consommation ou effet inventé.",
+    "sfc_context": [
+      {
+        "id": 5967,
+        "text": "小さいのに　ズッシリと　重さが[LINE]つたわってくる。[END STRING AC]"
+      },
+      {
+        "id": 5968,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]すこし　つまんでみた。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5969,
+        "text": "[CODE C0]は　きもちわるく[LINE]なってしまった...。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5970,
+    "file": "0803.p",
+    "ids": [
+      162
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]開けてみた。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5970<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　\n%a000100を　使った！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 utilise %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 utilise %a020100.",
+    "adaptation_body": "%a090000 essaie d'ouvrir %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Action d’ouverture SFC conservée ; aucun coffre introduit par un rapprochement flou. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Action d’ouverture SFC conservée ; aucun coffre introduit par un rapprochement flou.",
+    "sfc_context": [
+      {
+        "id": 5969,
+        "text": "[CODE C0]は　きもちわるく[LINE]なってしまった...。[END STRING AC]"
+      },
+      {
+        "id": 5970,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]開けてみた。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5971,
+        "text": "どうぐは　すぐにも　使えるよう[LINE]ひとつ　ひとつ　みがきこまれている...。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5975,
+    "file": "0803.p",
+    "ids": [
+      231
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]つよく　にぎった![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] utilise le [CODE B5].[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　つうこうしょうを\nにぎりしめた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 serre fermement le laissez-passer.\n@c0@"
+    ],
+    "original_body": "%0%a020010 serre fermement le laissez-passer.",
+    "adaptation_body": "%a090000 serre très fort %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Action de serrer SFC sans figer le laissez-passer DS. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Action de serrer SFC sans figer le laissez-passer DS.",
+    "sfc_context": [
+      {
+        "id": 5974,
+        "text": "[CODE C0]は　ちょっぴり[LINE]うれしくなった。[END STRING AC]"
+      },
+      {
+        "id": 5975,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]つよく　にぎった![END STRING AC]"
+      },
+      {
+        "id": 5976,
+        "text": "しかし　空に　まいあがるには[LINE]ここは　せますぎる![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5980,
+    "file": "0803.p",
+    "ids": [
+      176
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]天にかざした![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5980<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　ラミアスのつるぎを\n天にかざした！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 tient l'épée de Ramias en l'air.\n@c0@"
+    ],
+    "original_body": "%0%a020010 tient l'épée de Ramias en l'air.",
+    "adaptation_body": "%a090000 lève vers le ciel %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Action de lever au ciel SFC ; arme/bouclier DS remplacé par le nom natif B5. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Action de lever au ciel SFC ; arme/bouclier DS remplacé par le nom natif B5.",
+    "sfc_context": [
+      {
+        "id": 5979,
+        "text": "ファルシオンは　つばさを　ひろげ[LINE]とびたとうとした![WAIT][LINE]しかし　なまりのように[LINE]からだが　おもくなり　とびたてない![END STRING AC]"
+      },
+      {
+        "id": 5980,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]天にかざした![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5981,
+        "text": "さびたつるぎには　なにやら[LINE]もようが　きざまれている。[WAIT][LINE]しかし　さびていて[LINE]よく　わからない......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5983,
+    "file": "0803.p",
+    "ids": [
+      182
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]天に　かかげた![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5983<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　スフィーダのたてを\n天に　かかげた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 tient le bouclier de Valora en l'air.\n@c0@"
+    ],
+    "original_body": "%0%a020010 tient le bouclier de Valora en l'air.",
+    "adaptation_body": "%a090000 lève vers le ciel %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Action de lever au ciel SFC ; arme/bouclier DS remplacé par le nom natif B5. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Action de lever au ciel SFC ; arme/bouclier DS remplacé par le nom natif B5.",
+    "sfc_context": [
+      {
+        "id": 5982,
+        "text": "ラミアスのつるぎには　なにやら[LINE]いなずまのような　しるしが[LINE]きざまれている。[END STRING AC]"
+      },
+      {
+        "id": 5983,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]天に　かかげた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5984,
+        "text": "スフィーダのたてには　なにやら[LINE]十字架のような　しるしが[LINE]きざまれている。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5985,
+    "file": "0803.p",
+    "ids": [
+      190
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]手にとり　ながめた。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "5985<0559>[CODE C0][CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　セバスのかぶとを\n手にとり　ながめた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 examine le heaume de Sebath.\n@c0@"
+    ],
+    "original_body": "%0%a020010 examine le heaume de Sebath.",
+    "adaptation_body": "%a090000 prend et observe %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "Deux actions SFC, pas heaume littéral DS ; B5 garde le nom courant. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Deux actions SFC, pas heaume littéral DS ; B5 garde le nom courant.",
+    "sfc_context": [
+      {
+        "id": 5984,
+        "text": "スフィーダのたてには　なにやら[LINE]十字架のような　しるしが[LINE]きざまれている。[END STRING AC]"
+      },
+      {
+        "id": 5985,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]手にとり　ながめた。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5986,
+        "text": "オルゴーのよろいには　なにやら[LINE]ハートのような　しるしが[LINE]きざまれている。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5990,
+    "file": "0803.p",
+    "ids": [
+      74
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B5]を投げ捨てた。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE B5] a été jeté.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000100を投げ捨てた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020100 a été %A0100%Xabandonné%Z%B0100%Xabandonnée%Z%C0100%X%Z.\n@c0@"
+    ],
+    "original_body": "%0%a020100 a été %A0100%Xabandonné%Z%B0100%Xabandonnée%Z%C0100%X%Z.",
+    "adaptation_body": "Objet jeté, %a090001",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Action accomplie et nom B5 ; tournure sans branche de genre, pas question de confirmation. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Action accomplie et nom B5 ; tournure sans branche de genre, pas question de confirmation.",
+    "sfc_context": [
+      {
+        "id": 5989,
+        "text": "[CODE B5]を[LINE]捨ててもいいですか?[END STRING AC]"
+      },
+      {
+        "id": 5990,
+        "text": "[CODE B5]を投げ捨てた。[END STRING AC]"
+      },
+      {
+        "id": 5991,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C1]の　道具袋から　取り出し[LINE]投げ捨てた。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5991,
+    "file": "0803.p",
+    "ids": [
+      23,
+      74
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　[CODE B5]を[LINE][CODE C1]の　道具袋から　取り出し[LINE]投げ捨てた。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE D3] a pris [CODE B5] du sac de [CODE C1] et l'a jeté.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n%a000010の　棺おけから　取り出し\n%a000180の　棺おけに入れた。\n@c0@",
+      "@a@b%a000100を投げ捨てた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 prend %a020100 dans le cercueil %E0010%X%G0010%Xd'%Yde %Z%Y%G0010%Xde l'%Y%A0010%Xdu %Z%B0010%Xde la %Z%C0010%X%Z%Z%Z%a000010 et %A0100%Xle%Z%B0100%Xla%Z%C0100%X%Z met dans celui %E0180%X%G0180%Xd'%Yde %Z%Y%G0180%Xde l'%Y%A0180%Xdu %Z%B0180%Xde la %Z%C0180%X%Z%Z%Z%a000180.\n@c0@",
+      "@a@b%0%a020100 a été %A0100%Xabandonné%Z%B0100%Xabandonnée%Z%C0100%X%Z.\n@c0@"
+    ],
+    "original_body": "%0%a000120 prend %a020100 dans le cercueil %E0010%X%G0010%Xd'%Yde %Z%Y%G0010%Xde l'%Y%A0010%Xdu %Z%B0010%Xde la %Z%C0010%X%Z%Z%Z%a000010 et %A0100%Xle%Z%B0100%Xla%Z%C0100%X%Z met dans celui %E0180%X%G0180%Xd'%Yde %Z%Y%G0180%Xde l'%Y%A0180%Xdu %Z%B0180%Xde la %Z%C0180%X%Z%Z%Z%a000180. %0%a020100 a été %A0100%Xabandonné%Z%B0100%Xabandonnée%Z%C0100%X%Z.",
+    "adaptation_body": "%a090003 prend %a090001 parmi les affaires de %a090002 et le jette.",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090002": 193,
+      "%a090003": 211
+    },
+    "adaptation_review": "D3/B5/C1 dans cet ordre ; retrait puis abandon, aucun transfert au donneur. Variantes outil/sac SFC relues. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "D3/B5/C1 dans cet ordre ; retrait puis abandon, aucun transfert au donneur. Variantes outil/sac SFC relues.",
+    "sfc_context": [
+      {
+        "id": 5990,
+        "text": "[CODE B5]を投げ捨てた。[END STRING AC]"
+      },
+      {
+        "id": 5991,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C1]の　道具袋から　取り出し[LINE]投げ捨てた。[END STRING AC]"
+      },
+      {
+        "id": 5992,
+        "text": "それを　捨てるなんて　とんでもない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5993,
+    "file": "0803.p",
+    "ids": [
+      23,
+      74
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D3]は　[CODE B5]を[LINE][CODE C1]の　もちものから　取り出し[LINE]投げ捨てた。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>[CODE D3] a pris [CODE B5] à [CODE C1] et l'a jeté.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n%a000010の　棺おけから　取り出し\n%a000180の　棺おけに入れた。\n@c0@",
+      "@a@b%a000100を投げ捨てた。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 prend %a020100 dans le cercueil %E0010%X%G0010%Xd'%Yde %Z%Y%G0010%Xde l'%Y%A0010%Xdu %Z%B0010%Xde la %Z%C0010%X%Z%Z%Z%a000010 et %A0100%Xle%Z%B0100%Xla%Z%C0100%X%Z met dans celui %E0180%X%G0180%Xd'%Yde %Z%Y%G0180%Xde l'%Y%A0180%Xdu %Z%B0180%Xde la %Z%C0180%X%Z%Z%Z%a000180.\n@c0@",
+      "@a@b%0%a020100 a été %A0100%Xabandonné%Z%B0100%Xabandonnée%Z%C0100%X%Z.\n@c0@"
+    ],
+    "original_body": "%0%a000120 prend %a020100 dans le cercueil %E0010%X%G0010%Xd'%Yde %Z%Y%G0010%Xde l'%Y%A0010%Xdu %Z%B0010%Xde la %Z%C0010%X%Z%Z%Z%a000010 et %A0100%Xle%Z%B0100%Xla%Z%C0100%X%Z met dans celui %E0180%X%G0180%Xd'%Yde %Z%Y%G0180%Xde l'%Y%A0180%Xdu %Z%B0180%Xde la %Z%C0180%X%Z%Z%Z%a000180. %0%a020100 a été %A0100%Xabandonné%Z%B0100%Xabandonnée%Z%C0100%X%Z.",
+    "adaptation_body": "%a090003 prend %a090001 parmi les affaires de %a090002 et le jette.",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090002": 193,
+      "%a090003": 211
+    },
+    "adaptation_review": "D3/B5/C1 dans cet ordre ; retrait puis abandon, aucun transfert au donneur. Variantes outil/sac SFC relues. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "D3/B5/C1 dans cet ordre ; retrait puis abandon, aucun transfert au donneur. Variantes outil/sac SFC relues.",
+    "sfc_context": [
+      {
+        "id": 5992,
+        "text": "それを　捨てるなんて　とんでもない![END STRING AC]"
+      },
+      {
+        "id": 5993,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C1]の　もちものから　取り出し[LINE]投げ捨てた。[END STRING AC]"
+      },
+      {
+        "id": 5994,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]装備することができない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5994,
+    "file": "0803.p",
+    "ids": [
+      65
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]装備することができない。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] ne peut équipper [CODE B5].[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n装備することができない。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 ne peut s'équiper %A0100%X%M0100%Xdes %Y%G0100%Xde l'%Ydu %Z%Z%Z%B0100%X%M0100%Xdes %Y%G0100%Xde l'%Yde la %Z%Z%Z%C0100%X%Z%a000100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 ne peut s'équiper %A0100%X%M0100%Xdes %Y%G0100%Xde l'%Ydu %Z%Z%Z%B0100%X%M0100%Xdes %Y%G0100%Xde l'%Yde la %Z%Z%Z%C0100%X%Z%a000100.",
+    "adaptation_body": "%a090000 ne peut pas s'équiper avec %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "C0/B5, incapacité, pas équipement effectué. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "C0/B5, incapacité, pas équipement effectué.",
+    "sfc_context": [
+      {
+        "id": 5993,
+        "text": "[CODE D3]は　[CODE B5]を[LINE][CODE C1]の　もちものから　取り出し[LINE]投げ捨てた。[END STRING AC]"
+      },
+      {
+        "id": 5994,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]装備することができない。[END STRING AC]"
+      },
+      {
+        "id": 5995,
+        "text": "[CODE B5]を[LINE]装備することは　できません。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5996,
+    "file": "0803.p",
+    "ids": [
+      55
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B5]を[LINE]装備した。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] a équippé [CODE B5].[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　%a000100を\n装備した。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 s'équipe %A0100%X%M0100%Xdes %Y%G0100%Xde l'%Ydu %Z%Z%Z%B0100%X%M0100%Xdes %Y%G0100%Xde l'%Yde la %Z%Z%Z%C0100%X%Z%a000100.\n@c0@"
+    ],
+    "original_body": "%0%a020010 s'équipe %A0100%X%M0100%Xdes %Y%G0100%Xde l'%Ydu %Z%Z%Z%B0100%X%M0100%Xdes %Y%G0100%Xde l'%Yde la %Z%Z%Z%C0100%X%Z%a000100.",
+    "adaptation_body": "%a090000 s'équipe avec %a090001",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090001": 181
+    },
+    "adaptation_review": "C0/B5, équipement du sujet, pas action par D3 ou autre personne. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "C0/B5, équipement du sujet, pas action par D3 ou autre personne.",
+    "sfc_context": [
+      {
+        "id": 5995,
+        "text": "[CODE B5]を[LINE]装備することは　できません。[END STRING AC]"
+      },
+      {
+        "id": 5996,
+        "text": "[CODE C0]は　[CODE B5]を[LINE]装備した。[END STRING AC]"
+      },
+      {
+        "id": 5997,
+        "text": "ならびかえを　する仲間が　いない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6219,
+    "file": "0811.p",
+    "ids": [
+      6
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE][CODE B5]だな。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "Le [CODE B5].[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100だな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100, c'est bien çaⓡ\nMerci beaucoup.\n@c0@"
+    ],
+    "original_body": "%0%a040100, c'est bien çaⓡ\nMerci beaucoup.",
+    "adaptation_body": "%a090001 C'est bien ça?",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Accusé de sélection SFC uniquement, pas remerciement ajouté dans FR DS ; DE/D5 conservés. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Accusé de sélection SFC uniquement, pas remerciement ajouté dans FR DS ; DE/D5 conservés.",
+    "sfc_context": [
+      {
+        "id": 6218,
+        "text": "[CODE DE]おっと　それを買うには[LINE]お金が　足りないようだ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6219,
+        "text": "[CODE DE][CODE B5]だな。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6220,
+        "text": "[CODE DE]これは　戦いのときに[LINE]どうぐとして　つかっても[LINE]効力が　あるぜ![WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6238,
+    "file": "0811.p",
+    "ids": [
+      52
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE][CODE B5]だな。[LINE][CODE BB]ゴールドで[LINE]引きとろう。いいかい?[END STRING AC]",
+    "sfc_vf_secondaire": "Le [CODE B5]. Je vous en offre [CODE BB] piêces d'or.[WAIT][LINE]C'est d'accord?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100だな。\n\t%a000620ゴールドで\n\t引き取るが　どうかね？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100ⓡ Je vous en donne %a000620 pièce%I0620%X%Ys%Z d'or. Vous êtes d'accordⓡ\n@c0@"
+    ],
+    "original_body": "%0%a040100ⓡ Je vous en donne %a000620 pièce%I0620%X%Ys%Z d'or. Vous êtes d'accordⓡ",
+    "adaptation_body": "%a090001 Je vous en donne %a090005 pièces d'or. Cela vous convient?",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090005": 187
+    },
+    "adaptation_review": "Offre de rachat du marchand : B5 puis BB. Prix variable et consentement, sans exécuter la vente. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Offre de rachat du marchand : B5 puis BB. Prix variable et consentement, sans exécuter la vente.",
+    "sfc_context": [
+      {
+        "id": 6237,
+        "text": "[CODE DE]おっと!　買いとりたいが[LINE]それ以上　お金を[LINE]持てないみたいだぜっ![WAIT][LINE]売るまえに　うちで[LINE]なにか　買っていきなよ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6238,
+        "text": "[CODE DE][CODE B5]だな。[LINE][CODE BB]ゴールドで[LINE]引きとろう。いいかい?[END STRING AC]"
+      },
+      {
+        "id": 6239,
+        "text": "[CODE DE]よし!　たしかに買いとったぜ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6264,
+    "file": "0812.p",
+    "ids": [
+      52
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE][CODE B5]で[LINE]ございますね。[WAIT][LINE]それなら[LINE][CODE BB]ゴールドで[LINE]お引きとり　いたしますが?[END STRING AC]",
+    "sfc_vf_secondaire": "Le [CODE B5]. Acceptez-vous [CODE BB] piêce d'or pour ça?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100でしたら\n\t%a000620ゴールドで\n\tお引き取り　いたしますが？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je vous %M0100%Xles %Yl'%Zachète pour %a000620 pièce%I0620%X%Ys%Z d'or.\nQu'est-ce que vous en ditesⓡ\n@c0@"
+    ],
+    "original_body": "Je vous %M0100%Xles %Yl'%Zachète pour %a000620 pièce%I0620%X%Ys%Z d'or.\nQu'est-ce que vous en ditesⓡ",
+    "adaptation_body": "%a090001 Je vous en donne %a090005 pièces d'or. Cela vous convient?",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090005": 187
+    },
+    "adaptation_review": "Offre de rachat du marchand : B5 puis BB. Prix variable et consentement, sans exécuter la vente. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Offre de rachat du marchand : B5 puis BB. Prix variable et consentement, sans exécuter la vente.",
+    "sfc_context": [
+      {
+        "id": 6263,
+        "text": "[CODE DE]おや?　お金を　わたそうにも[LINE][CODE C9]さまは　それ以上[LINE]持てないようです。[WAIT][LINE]ただで　いただくわけには[LINE]いきませんし　こまりましたね。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6264,
+        "text": "[CODE DE][CODE B5]で[LINE]ございますね。[WAIT][LINE]それなら[LINE][CODE BB]ゴールドで[LINE]お引きとり　いたしますが?[END STRING AC]"
+      },
+      {
+        "id": 6265,
+        "text": "[CODE DE]どうも　ありがとうございます。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6290,
+    "file": "0810.p",
+    "ids": [
+      52
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]ええと　[CODE B5]なら[LINE][CODE BB]ゴールドで[LINE]買いとりますが　いいですか?[END STRING AC]",
+    "sfc_vf_secondaire": "TEXT6290[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100ですね。\n\t%a000620ゴールドで\n\t買い取りますが　いかがですか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je vous %M0100%Xles %Yl'%Zachète pour %a000620 pièce%I0620%X%Ys%Z d'or.\nQu'est-ce que vous en ditesⓡ\n@c0@"
+    ],
+    "original_body": "Je vous %M0100%Xles %Yl'%Zachète pour %a000620 pièce%I0620%X%Ys%Z d'or.\nQu'est-ce que vous en ditesⓡ",
+    "adaptation_body": "%a090001 Je vous en donne %a090005 pièces d'or. Cela vous convient?",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090005": 187
+    },
+    "adaptation_review": "Offre de rachat du marchand : B5 puis BB. Prix variable et consentement, sans exécuter la vente. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Offre de rachat du marchand : B5 puis BB. Prix variable et consentement, sans exécuter la vente.",
+    "sfc_context": [
+      {
+        "id": 6289,
+        "text": "[CODE DE]あれれ?　お客さん。[LINE]しかし　それ以上　お金を[LINE]持てないみたいですよ。[WAIT][LINE]いいですね。私も1回でいいから[LINE]使いきれないほどの　お金を[LINE]持ってみたいものです。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6290,
+        "text": "[CODE DE]ええと　[CODE B5]なら[LINE][CODE BB]ゴールドで[LINE]買いとりますが　いいですか?[END STRING AC]"
+      },
+      {
+        "id": 6291,
+        "text": "[CODE DE]売って　いただけますか。[LINE]まいど　どうも![WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6315,
+    "file": "0811.p",
+    "ids": [
+      52
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]はいよ。[LINE][CODE B5]じゃな。[WAIT][LINE]それじゃったら[LINE][CODE BB]ゴールドで[LINE]引きとるが　どうじゃ?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DE]Le [CODE B5]? Je vous en donne [CODE BB] piêce d'or.[WAIT][LINE]Vous me le vendez?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100だな。\n\t%a000620ゴールドで\n\t引き取るが　どうかね？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100ⓡ Je vous en donne %a000620 pièce%I0620%X%Ys%Z d'or. Vous êtes d'accordⓡ\n@c0@"
+    ],
+    "original_body": "%0%a040100ⓡ Je vous en donne %a000620 pièce%I0620%X%Ys%Z d'or. Vous êtes d'accordⓡ",
+    "adaptation_body": "%a090001 Je vous en donne %a090005 pièces d'or. Cela vous convient?",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090005": 187
+    },
+    "adaptation_review": "Offre de rachat du marchand : B5 puis BB. Prix variable et consentement, sans exécuter la vente. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Offre de rachat du marchand : B5 puis BB. Prix variable et consentement, sans exécuter la vente.",
+    "sfc_context": [
+      {
+        "id": 6314,
+        "text": "[CODE DE]うーむ。わるいが[LINE]そいつは　引きとれないぞよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6315,
+        "text": "[CODE DE]はいよ。[LINE][CODE B5]じゃな。[WAIT][LINE]それじゃったら[LINE][CODE BB]ゴールドで[LINE]引きとるが　どうじゃ?[END STRING AC]"
+      },
+      {
+        "id": 6316,
+        "text": "[CODE DE]ふむ　ありがたいことじゃ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6340,
+    "file": "0811.p",
+    "ids": [
+      52
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]はいよ。[LINE][CODE B5]だね。[WAIT][LINE]それだったら[LINE][CODE BB]ゴールドで[LINE]引きとるけど　どうだい?[END STRING AC]",
+    "sfc_vf_secondaire": "6340<0559>[LINE][CODE B5][WAIT][LINE][LINE][CODE BB]gold[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100だな。\n\t%a000620ゴールドで\n\t引き取るが　どうかね？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100ⓡ Je vous en donne %a000620 pièce%I0620%X%Ys%Z d'or. Vous êtes d'accordⓡ\n@c0@"
+    ],
+    "original_body": "%0%a040100ⓡ Je vous en donne %a000620 pièce%I0620%X%Ys%Z d'or. Vous êtes d'accordⓡ",
+    "adaptation_body": "%a090001 Je vous en donne %a090005 pièces d'or. Cela vous convient?",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090005": 187
+    },
+    "adaptation_review": "Offre de rachat du marchand : B5 puis BB. Prix variable et consentement, sans exécuter la vente. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Offre de rachat du marchand : B5 puis BB. Prix variable et consentement, sans exécuter la vente.",
+    "sfc_context": [
+      {
+        "id": 6339,
+        "text": "[CODE DE]いやあ　わるいけど[LINE]そいつは　引きとれないなあ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6340,
+        "text": "[CODE DE]はいよ。[LINE][CODE B5]だね。[WAIT][LINE]それだったら[LINE][CODE BB]ゴールドで[LINE]引きとるけど　どうだい?[END STRING AC]"
+      },
+      {
+        "id": 6341,
+        "text": "[CODE DE]よっしゃ!　まいどあり![WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6298,
+    "file": "0811.p",
+    "ids": [
+      6
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE][CODE B5]じゃな。[LINE]ありがたいことじゃ。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DE]Le [CODE B5]?[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100だな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100, c'est bien çaⓡ\nMerci beaucoup.\n@c0@"
+    ],
+    "original_body": "%0%a040100, c'est bien çaⓡ\nMerci beaucoup.",
+    "adaptation_body": "%a090001 Merci beaucoup.",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Accusé et gratitude SFC, DE/D5 conservés. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Accusé et gratitude SFC, DE/D5 conservés.",
+    "sfc_context": [
+      {
+        "id": 6297,
+        "text": "[CODE DE]ありゃ?[LINE]それを　買うには　お金が[LINE]ちと　足らないようじゃよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6298,
+        "text": "[CODE DE][CODE B5]じゃな。[LINE]ありがたいことじゃ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6299,
+        "text": "[CODE DE]この品は　戦いの時に[LINE]道具として　つかっても[LINE]やくに立つ　すぐれもんじゃぞ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6324,
+    "file": "0811.p",
+    "ids": [
+      6
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE][CODE B5]だね。[LINE]まいどあり![WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6324<0559>[CODE B5][LINE][WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100だな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100, c'est bien çaⓡ\nMerci beaucoup.\n@c0@"
+    ],
+    "original_body": "%0%a040100, c'est bien çaⓡ\nMerci beaucoup.",
+    "adaptation_body": "%a090001 Merci de votre achat!",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Remerciement commercial SFC, DE/D5 ; pas commentaire de genre sur le client DS. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Remerciement commercial SFC, DE/D5 ; pas commentaire de genre sur le client DS.",
+    "sfc_context": [
+      {
+        "id": 6323,
+        "text": "[CODE DE]ありゃ?[LINE]それを　買うには　お金が[LINE]ちと　足らないようだよ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6324,
+        "text": "[CODE DE][CODE B5]だね。[LINE]まいどあり![WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6325,
+        "text": "[CODE DE]この品は　戦いの時に[LINE]道具として　つかっても[LINE]やくに立つ　すぐれもんだよ![WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6502,
+    "file": "0815.p",
+    "ids": [
+      12
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE][CODE B5]かい。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DE]Le [CODE B5].[WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100かい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100...\n@c0@"
+    ],
+    "original_body": "%0%a040100...",
+    "adaptation_body": "%a090001",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Sélection du forgeron SFC, phrase brève sans introduire un effet ou prix ; DE/D5. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Sélection du forgeron SFC, phrase brève sans introduire un effet ou prix ; DE/D5.",
+    "sfc_context": [
+      {
+        "id": 6501,
+        "text": "[CODE DE]うーん　これかあ......[LINE]こいつは　ちょっと[LINE]たたきようが　ないぜ。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6502,
+        "text": "[CODE DE][CODE B5]かい。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6503,
+        "text": "[CODE DE]ああ　こりゃひどい!　センスの[LINE]かけらもないや!　あんた　よく[LINE]こんなもの　そうびしてたね。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6554,
+    "file": "0810.p",
+    "ids": [
+      6
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE][CODE B5]　ですね?[LINE]それで　いいですか?[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le [CODE B5]?[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100ですね。\n\tかしこまりました！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100ⓡ\nAvec grand plaisir.\n@c0@"
+    ],
+    "original_body": "%0%a040100ⓡ\nAvec grand plaisir.",
+    "adaptation_body": "%a090001 Vous confirmez?",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Nom d’objet puis confirmation SFC, pas remerciement prématuré. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Nom d’objet puis confirmation SFC, pas remerciement prématuré.",
+    "sfc_context": [
+      {
+        "id": 6553,
+        "text": "[CODE DE]どれと　こうかん　しますか?[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6554,
+        "text": "[CODE DE][CODE B5]　ですね?[LINE]それで　いいですか?[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6555,
+        "text": "[CODE B5]と[LINE]こうかん　するには[LINE]コインが　たりないようです。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6702,
+    "file": "0074.p",
+    "ids": [
+      272
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B2]は　[CODE B5]を[LINE]手に入れた![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE B2] reçoit le [CODE B5]![END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000120は　%a000100を\n手に入れた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a000120 reçoit %a020100.\n@c0@"
+    ],
+    "original_body": "%0%a000120 reçoit %a020100.",
+    "adaptation_body": "%a090004 obtient %a090001",
+    "native_bindings": {
+      "%a090001": 181,
+      "%a090004": 178
+    },
+    "adaptation_review": "Sujet B2 de la SFC, pas D3/C0 de la variante DS ; récompense B5 préservée. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Sujet B2 de la SFC, pas D3/C0 de la variante DS ; récompense B5 préservée.",
+    "sfc_context": [
+      {
+        "id": 6701,
+        "text": "[CODE D9]おめでとう　[CODE B2]さん![LINE]はいっ　どうぞ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6702,
+        "text": "[CODE B2]は　[CODE B5]を[LINE]手に入れた![END STRING AC]"
+      },
+      {
+        "id": 6703,
+        "text": "[CODE D4]司会「ほかの　出場者のみなさんは[LINE]ざんねん　でしたねー。[WAIT][LINE][CODE D4]司会「また　次回の　参加を[LINE]おまちしております![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6717,
+    "file": "0074.p",
+    "ids": [
+      317
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4]ラルフ「それに　[CODE B5][WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Ralph.<0559>Le [CODE B5].[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@bラルフ「それに　%a000103。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aCalvin@bAvec %a040103ⓡ\n@c0@"
+    ],
+    "original_body": "Avec %a040103ⓡ",
+    "adaptation_body": "Et avec %a090001",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Fragment de la liste d’équipement de Calvin, phrase inachevée SFC conservée, attente et terminateur natifs. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Fragment de la liste d’équipement de Calvin, phrase inachevée SFC conservée, attente et terminateur natifs.",
+    "sfc_context": [
+      {
+        "id": 6716,
+        "text": "[CODE D4]ラルフ「んー......　5ばんさんだけど[WAIT][LINE][CODE D4]ラルフ「[CODE B5]と[LINE][CODE C7][WAIT][END STRING AC]"
+      },
+      {
+        "id": 6717,
+        "text": "[CODE D4]ラルフ「それに　[CODE B5][WAIT][END STRING AC]"
+      },
+      {
+        "id": 6718,
+        "text": "[CODE D4]ラルフ「それに　[CODE B5]と[LINE][CODE C7][WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6930,
+    "file": "0810.p",
+    "ids": [
+      6
+    ],
+    "status": "RELU",
+    "sfc_jp": "＊「[CODE B5]ですね。[LINE]　　かしこまりました![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "<0559>The [CODE B5]?[LINE]Excellect choice![WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100ですね。\n\tかしこまりました！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100ⓡ\nAvec grand plaisir.\n@c0@"
+    ],
+    "original_body": "%0%a040100ⓡ\nAvec grand plaisir.",
+    "adaptation_body": "%a090001 Avec grand plaisir!",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Texte tardif dupliqué, accusé de sélection ; locuteur étoilé SFC non nommé. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Texte tardif dupliqué, accusé de sélection ; locuteur étoilé SFC non nommé.",
+    "sfc_context": [
+      {
+        "id": 6929,
+        "text": "＊「お買い上げですね。[LINE]　　どれに　いたしましょう?[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6930,
+        "text": "＊「[CODE B5]ですね。[LINE]　　かしこまりました![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6931,
+        "text": "＊「どなたが　お使いになりますか?[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6938,
+    "file": "0810.p",
+    "ids": [
+      6
+    ],
+    "status": "RELU",
+    "sfc_jp": "＊「[CODE B5]ですね。[LINE]　　すこし　お待ちを![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "6938<0559>[CODE B5][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100ですね。\n\tかしこまりました！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100ⓡ\nAvec grand plaisir.\n@c0@"
+    ],
+    "original_body": "%0%a040100ⓡ\nAvec grand plaisir.",
+    "adaptation_body": "%a090001 Un instant, je vous prie.",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Demande d’attendre explicitement présente en SFC, pas acquiescement seul du français DS. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Demande d’attendre explicitement présente en SFC, pas acquiescement seul du français DS.",
+    "sfc_context": [
+      {
+        "id": 6937,
+        "text": "＊「どの品物を[LINE]　　売ってくださいます?[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6938,
+        "text": "＊「[CODE B5]ですね。[LINE]　　すこし　お待ちを![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6939,
+        "text": "＊「ええと　その品なら[LINE]　　[CODE BB]ゴールドで[LINE]　　買い取りますが　いいですか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6941,
+    "file": "0810.p",
+    "ids": [
+      47
+    ],
+    "status": "RELU",
+    "sfc_jp": "＊「[CODE B5]ですか。[LINE]　　それは　手ばなさない方が[LINE]　　よろしいのでは?[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "6941<0559>[CODE B5][LINE][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000100ですか。\n\tそれは　手ばなさない方が\n\tよろしいのでは？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a040100ⓡ\nCe n'est pas le genre d'objet dont je me débarrasserais, à votre place.\n@c0@"
+    ],
+    "original_body": "%0%a040100ⓡ\nCe n'est pas le genre d'objet dont je me débarrasserais, à votre place.",
+    "adaptation_body": "%a090001 Vous feriez mieux de conserver cet objet.",
+    "native_bindings": {
+      "%a090001": 181
+    },
+    "adaptation_review": "Conseil de ne pas vendre, pas refus d’achat technique ajouté ; variable B5. Rôles liés explicitement depuis les commandes SFC ; aucun nom figé, B5 réservé sur 24 cellules sans ponctuation accolée.",
+    "review": "Conseil de ne pas vendre, pas refus d’achat technique ajouté ; variable B5.",
+    "sfc_context": [
+      {
+        "id": 6940,
+        "text": "＊「売って　いただけます?[LINE]　　まいど　どうも![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6941,
+        "text": "＊「[CODE B5]ですか。[LINE]　　それは　手ばなさない方が[LINE]　　よろしいのでは?[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6942,
+        "text": "＊「持ちきれなく　なったら[LINE]　　使わない品物は　預り所に[LINE]　　預けると　いいですよ。[WAIT][END STRING AC]"
+      }
+    ]
+  }
+]

@@ -1,3 +1,7 @@
+# Reprise v0.42
+
+71 ajouts : utilisation, appréciation, équipement, transfert, abandon et rachat d’objets. Noms natifs B5 et rôles C0/C1/D3 explicitement liés ; la garde d’ambiguïté du compilateur ne s’ouvre que si tous les rôles contextuels sont liés par la revue. Contrôle indépendant de chaque occurrence conservé. 5917 garde ses deux C1, comme les deux japonais, sans réduire silencieusement la répétition. Objet et prix du marchand restent variables. Les objets fixes des descriptions DS sont remplacés par le B5 SFC, sans nom figé ni effet d’objet inventé. Continuer les 855 textes et les tables. Audits hérités et scènes naturelles ouverts, pas finalisé.
+
 # Reprise v0.41
 
 64 ajouts relus, 5967 anciens tokens et tous les noms inchangés. Dialogues, panneaux, services et cris ; aucune extension du moteur. 71 pages de diagnostic pour les 64 textes. Continuer les 926 textes et les tables. Conserver audits hérités, 25 lieux préparés et 26 cas différés v0.34. Aucune finalisation annoncée.

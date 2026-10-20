@@ -1,13 +1,17 @@
-# Dragon Quest VI FR — v0.41 partielle
+# Dragon Quest VI FR — v0.42 partielle
 
-6031/6957 messages intégrés, 64 nouveaux ; 926 restants. Aucun préparé principal nouveau. Tables inchangées : 37 entrées françaises confirmées, 25 lieux préparés, hors compte principal. 8 Mio conservés.
+6102/6957 messages intégrés, 71 nouveaux ; 855 restants. Aucun préparé principal nouveau. Tables inchangées : 37 entrées françaises confirmées, 25 lieux préparés. Toujours 8 Mio.
 
-Français DS fourni comme source principale, japonais SFC et DS relus, ancien IPS secondaire souvent décalé. Adaptations détaillées dans revue-lot-v041.json : le sort suprême et la cascade en 3724, le rôle de prêtre en 4993 et la direction du panneau en 2359 sont rétablis. Les cris ne reprennent pas les discours ajoutés dans FR DS. 6078/6118 n’ajoutent pas les locuteurs DS ; 2835 garde deux C9. 5974 emploie DS 0803:209 positif, pas la phrase de déception 0804:140. 4010 emploie l’appel DS 0000:111, pas le prince du rapprochement initial. 828 présente la pipe SFC, ne la reçoit pas. Les soldats 4778 répondent au capitaine Ferraille (トム), confirmé dans DS 0008:699/761/763. Le soldat 2411 reste Soldat, sans importer la désignation de garde du trésor d’un autre contexte.
+71 ajouts : utilisation, appréciation, équipement, transfert, abandon et rachat d’objets. Noms natifs B5 et rôles C0/C1/D3 explicitement liés ; la garde d’ambiguïté du compilateur ne s’ouvre que si tous les rôles contextuels sont liés par la revue. Contrôle indépendant de chaque occurrence conservé. 5917 garde ses deux C1, comme les deux japonais, sans réduire silencieusement la répétition. Objet et prix du marchand restent variables. Les objets fixes des descriptions DS sont remplacés par le B5 SFC, sans nom figé ni effet d’objet inventé.
 
-Les 5967 anciennes sélections et 2512 noms sont inchangés. Recette idempotente pass41.py, base v0.40 ; restore_sources.py puis init.py, prepare.py, build.py, verify.py sous dq6-fr/v0.41. Périmètre strict de 64 IDs. BPS/IPS réappliqués à la source JP intacte, mauvaises sources rejetées, 6960 entrées redécodées, zones protégées et occurrences natives contrôlées. SHA256 résultat : 04cb2f15d3b560649822921312976813d0c392982fbd26fde7fc14ba6f07521f.
+Français DS fourni comme source principale, japonais SFC/DS et contexte relus, ancien IPS secondaire souvent décalé. Revue explicite revue-lot-v042.json. Les 6031 anciennes sélections et les 2512 noms sont inchangés. Aucun handler modifié. Recette idempotente pass42.py, base v0.41. Restaurer par restore_sources.py, puis init.py, prepare.py, build.py et verify.py sous dq6-fr/v0.42. Périmètre limité aux nouveaux IDs relus. BPS/IPS réappliqués à la source intacte, mauvaises sources rejetées, 6960 entrées redécodées, zones protégées et occurrences natives contrôlées.
 
-Snes9x : 71 pages relues pour les 64 textes, bus de 874 plages (script, noms, pointeurs et copie haute), démarrage/Journal. Redirections et RAM diagnostiques, pas les parcours naturels ni transactions. Les choix visibles sont ceux de l’hôte du camp. Aucun handler modifié. Aucun test global des tables revendiqué.
+SHA256 résultat : 47f3b81eff2ec6aa0b0a733230bce976cb4d64288f22d0162ee7241f585398db.
 
-Appliquer patches/DQVI-FR-DS-v0.41-BASE-JP-PARTIEL.bps sur la ROM JP intacte sans en-tête, SHA256 90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e, sans ancien patch préalable. Aucune ROM, SRAM ni sauvegarde d’état publiée.
+Snes9x : 99 pages de diagnostic relues pour les 71 textes ; bus de 874 plages et 508401 octets ; démarrage/Journal. 14 pages supplémentaires sur huit textes avec un nom d’objet de 24 cellules. Valeurs distinctes observées : C0 Emilie, C1 Olivier, D3 AM, B2 Gus, BB 12345. La permutation de deux noms est limitée aux bancs privés, pas la ROM publiée.
 
-Scènes naturelles 322/323,1836,4095, indices différés, alphabet accentué et fenêtres natives des tables restent ouverts. Projet non finalisé.
+Limites : Redirections au camp et RAM diagnostique. Ni les scènes naturelles, ni les calculs d’effets, ni les transactions réelles, ni tous les noms possibles testés. Les choix visibles sont ceux de l’hôte ; tables encore partiellement anglaises.
+
+Appliquer patches/DQVI-FR-DS-v0.42-BASE-JP-PARTIEL.bps directement sur la ROM JP intacte sans en-tête, SHA256 90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e. Aucun ancien patch préalable. Aucune ROM, SRAM, sauvegarde d’état ni archive de ROM publiée.
+
+Scènes naturelles 322/323,1836,4095, indices différés, 26 cas v0.34, alphabet accentué et fenêtres natives des tables restent ouverts. Ne pas annoncer finalisé.

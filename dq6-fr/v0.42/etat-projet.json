@@ -1,0 +1,31 @@
+{
+  "release": "v0.42",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 6102,
+    "visible_total": 6957,
+    "new_this_pass": 71,
+    "remaining": 855
+  },
+  "baseline": "v0.41",
+  "prepared_not_inserted": {
+    "main": 0,
+    "separate_places": 25
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.42",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "spell_action_labels_inserted": 20,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 37
+  },
+  "rom_bytes": 8388608,
+  "notes": "71 ajouts : utilisation, appréciation, équipement, transfert, abandon et rachat d’objets. Noms natifs B5 et rôles C0/C1/D3 explicitement liés ; la garde d’ambiguïté du compilateur ne s’ouvre que si tous les rôles contextuels sont liés par la revue. Contrôle indépendant de chaque occurrence conservé. 5917 garde ses deux C1, comme les deux japonais, sans réduire silencieusement la répétition. Objet et prix du marchand restent variables. Les objets fixes des descriptions DS sont remplacés par le B5 SFC, sans nom figé ni effet d’objet inventé.",
+  "next": "Continuer les 855 textes et les tables. Audits hérités et scènes naturelles ouverts, pas finalisé."
+}

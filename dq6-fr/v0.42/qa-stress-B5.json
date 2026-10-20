@@ -1,0 +1,125 @@
+{
+  "result_sha256": "47f3b81eff2ec6aa0b0a733230bce976cb4d64288f22d0162ee7241f585398db",
+  "fixture_message_redirect": 100,
+  "diagnostic_item_name_swap": true,
+  "diagnostic_RAM": {
+    "B5_item_ID": 1,
+    "B2_values_by_ID": {
+      "armor": 2160,
+      "vocation": 2297,
+      "monster": 558,
+      "rank": 0,
+      "other": 2352
+    },
+    "C0_name_ID": 3,
+    "C1_name_ID": 2,
+    "5A2E_5A2F_5A30_bytes": [
+      57,
+      48,
+      0
+    ],
+    "BB_expected_decimal": 12345,
+    "3B2F": 2
+  },
+  "rows": [
+    {
+      "id": 5915,
+      "page": 1,
+      "screenshot": "screenshots/v042stress-5915-page1.png",
+      "sha256": "122c44944b7ef49190333f7563dc3a4c2ee421017186b47948a9ce58ce3b199a",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5915-page1\", \"message_id\": 100, \"frame_mean\": 46.376947312127974}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5915,
+      "page": 2,
+      "screenshot": "screenshots/v042stress-5915-page2.png",
+      "sha256": "dd0ef1cce73811072b20b9bb80f8dc891a86100cf63a548cb849e44d0aa5f602",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5915-page2\", \"message_id\": 100, \"frame_mean\": 50.756754557291664}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5917,
+      "page": 1,
+      "screenshot": "screenshots/v042stress-5917-page1.png",
+      "sha256": "122c44944b7ef49190333f7563dc3a4c2ee421017186b47948a9ce58ce3b199a",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5917-page1\", \"message_id\": 100, \"frame_mean\": 46.376947312127974}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5917,
+      "page": 2,
+      "screenshot": "screenshots/v042stress-5917-page2.png",
+      "sha256": "7179194fdc60b4f4f056cdfece934a62b156a5d7292d72c79c733db42d18a1da",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5917-page2\", \"message_id\": 100, \"frame_mean\": 50.77740187872024}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5923,
+      "page": 1,
+      "screenshot": "screenshots/v042stress-5923-page1.png",
+      "sha256": "122c44944b7ef49190333f7563dc3a4c2ee421017186b47948a9ce58ce3b199a",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5923-page1\", \"message_id\": 100, \"frame_mean\": 46.376947312127974}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5923,
+      "page": 2,
+      "screenshot": "screenshots/v042stress-5923-page2.png",
+      "sha256": "760d3e4e947a397e169a9d05c07e06dd2c832da2a91562329024c4c3bd3f9097",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5923-page2\", \"message_id\": 100, \"frame_mean\": 49.428443545386905}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5924,
+      "page": 1,
+      "screenshot": "screenshots/v042stress-5924-page1.png",
+      "sha256": "b0246bc97e614b48d6885b903df8cc1f0192e5cff7ab505f0d347b3a94f3cfae",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5924-page1\", \"message_id\": 100, \"frame_mean\": 44.94195847284226}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5924,
+      "page": 2,
+      "screenshot": "screenshots/v042stress-5924-page2.png",
+      "sha256": "03a24203e6f0fec2f3c6f4fa7aebd2f2dc4cdc41904543b7b02a55aaaf1754cf",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5924-page2\", \"message_id\": 100, \"frame_mean\": 50.48145693824405}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6238,
+      "page": 1,
+      "screenshot": "screenshots/v042stress-6238-page1.png",
+      "sha256": "1bda7ae6586d43bc354a8a9b5cc291339585a68ea5826bc72f038300abca5a27",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-6238-page1\", \"message_id\": 100, \"frame_mean\": 46.559331984747026}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6238,
+      "page": 2,
+      "screenshot": "screenshots/v042stress-6238-page2.png",
+      "sha256": "80886b9aacd80161b8e84938d670329d56530485467537441768859ed98f490c",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-6238-page2\", \"message_id\": 100, \"frame_mean\": 48.850318545386905}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6702,
+      "page": 1,
+      "screenshot": "screenshots/v042stress-6702-page1.png",
+      "sha256": "0e1582e4d011e1ade0c68613ed9cc5444e7a86530eb7ed052498e257f58ba6ff",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-6702-page1\", \"message_id\": 100, \"frame_mean\": 46.99326869419643}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5934,
+      "page": 1,
+      "screenshot": "screenshots/v042stress-5934-page1.png",
+      "sha256": "10bd19b2d767f2c5167948616d836df82ac7dc3ae3ba54ed626eeb238fe13482",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5934-page1\", \"message_id\": 100, \"frame_mean\": 45.72999790736607}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5991,
+      "page": 1,
+      "screenshot": "screenshots/v042stress-5991-page1.png",
+      "sha256": "122c44944b7ef49190333f7563dc3a4c2ee421017186b47948a9ce58ce3b199a",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5991-page1\", \"message_id\": 100, \"frame_mean\": 46.376947312127974}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 5991,
+      "page": 2,
+      "screenshot": "screenshots/v042stress-5991-page2.png",
+      "sha256": "5a6f973d728903048ed8a175dea3495ed6cc0c4f505c76918f7ad1a8ea281d39",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v042stress-5991-page2\", \"message_id\": 100, \"frame_mean\": 48.705787295386905}\nMap_ExtendedHiROMMap"
+    }
+  ],
+  "limits": "Diagnostic camp redirections, not natural scenes or monetary actions; injected display values do not test calculations or save state."
+}
