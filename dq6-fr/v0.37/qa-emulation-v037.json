@@ -1,0 +1,37 @@
+{
+  "result_sha256": "13f703d4b49680148c848e0f0409a429e22b15537aee859170de32da4b43113c",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "sampled_message_ids": [
+    20,
+    337,
+    2296,
+    2315,
+    3784,
+    3887,
+    5009,
+    5177,
+    5279,
+    6589,
+    6220,
+    5686
+  ],
+  "captures_visually_reviewed": 45,
+  "translated_text_pages_reviewed": 43,
+  "host_choice_and_successor_captures_for_6220": 2,
+  "all_sampled_pages_coherent": true,
+  "variable_controls_rendered": [
+    "D3",
+    "CC",
+    "CB",
+    "CE",
+    "CF"
+  ],
+  "DB_voice_sampled": true,
+  "DE_D5_sampled": true,
+  "journal_menu_visually_reviewed": true,
+  "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "all_51_messages_emulated": false,
+  "natural_scenes_played": false,
+  "limits": "Redirections diagnostiques au camp initial ; pas de parcours naturel, choix hôte distinct de la scène marchande. Aucun changement de moteur ou de table."
+}

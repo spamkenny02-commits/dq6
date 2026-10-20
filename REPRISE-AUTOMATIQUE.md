@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dernière version : v0.36, 5854/6957 intégrés, 1103 restants. Depuis v0.33 : 122 ajouts au script et le nom séparé Gus. Principal préparé actif : 0 ; 4095 désormais intégré en version concise. Tables : huit lieux et Gus, 25 lieux préparés ; inventaire v0.35. Toujours 8 Mio.
+Dernière version : v0.37, 5905/6957 intégrés, 1052 restants. Nouveau lot : 51 adaptations explicites des variantes DS de genre/nombre, sans modification du moteur. Principal préparé actif : 0. Tables : huit lieux et Gus, 25 lieux préparés ; inventaire reproductible v0.37, 17 entrées FR confirmées. Toujours 8 Mio.
+
+## Lot v0.37 : variantes DS adaptées
+
+Lire v0.37/LISEZ-MOI.md et revue-lot-v037.json. Périmètre strict de 51 nouveaux IDs, 5854 anciennes sélections et 2512 noms inchangés. Ne pas compter ces revues comme un futur lot. Recette pass37.py, comparaison avec v0.36. 6960 entrées redécodées, BPS/IPS et mauvaises sources, zones protégées, bus ROM, démarrage/Journal vérifiés. 45 captures sur 12 messages, pas tous les 51 et pas un parcours naturel. 6220 garde DE/D5 et un texte de deux pages, choix hôte séparé. Pierre/Pierrick relus dans les DS 0024:465–477 ; Tommy littéral reste littéral. Aucun préparé principal. Continuer les 1052 textes, tables et réserves héritées ; ne pas annoncer finalisé. Inventaire par audit_tables.py v0.37 puis inventaire_tables_v035.py v0.37. Ne pas écraser les anciens outils empreintés.
 
 ## Lot v0.36 : 4095 concis
 

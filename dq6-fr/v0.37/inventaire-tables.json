@@ -1,0 +1,161 @@
+{
+  "version": "v0.37",
+  "sids": 2512,
+  "reachable_entries": 2048,
+  "aliases": 464,
+  "counts": {
+    "AUTRE_TEXTE_A_REVOIR": 1576,
+    "VIDE_A_QUALIFIER": 82,
+    "FR_DS_IDENTIQUE_A_VERIFIER_EN_CONTEXTE": 23,
+    "CREDIT_RETIRE_CONFORME": 1,
+    "IDENTIFIANT_NON_TRADUIT": 349,
+    "FR_CONFIRME_PROJET": 17,
+    "JAPONAIS_DETECTE": 0
+  },
+  "by_region": {
+    "grille_noms_et_menus": {
+      "entries": 416,
+      "statuses": {
+        "AUTRE_TEXTE_A_REVOIR": 256,
+        "VIDE_A_QUALIFIER": 37,
+        "FR_DS_IDENTIQUE_A_VERIFIER_EN_CONTEXTE": 17,
+        "CREDIT_RETIRE_CONFORME": 1,
+        "IDENTIFIANT_NON_TRADUIT": 103,
+        "FR_CONFIRME_PROJET": 2
+      }
+    },
+    "lieux": {
+      "entries": 128,
+      "statuses": {
+        "AUTRE_TEXTE_A_REVOIR": 112,
+        "FR_CONFIRME_PROJET": 8,
+        "IDENTIFIANT_NON_TRADUIT": 8
+      }
+    },
+    "monstres_et_personnages": {
+      "entries": 288,
+      "statuses": {
+        "AUTRE_TEXTE_A_REVOIR": 266,
+        "FR_CONFIRME_PROJET": 1,
+        "IDENTIFIANT_NON_TRADUIT": 20,
+        "VIDE_A_QUALIFIER": 1
+      }
+    },
+    "menus_casino_titres_et_rangs": {
+      "entries": 256,
+      "statuses": {
+        "IDENTIFIANT_NON_TRADUIT": 23,
+        "AUTRE_TEXTE_A_REVOIR": 233
+      }
+    },
+    "sorts_et_actions": {
+      "entries": 192,
+      "statuses": {
+        "AUTRE_TEXTE_A_REVOIR": 169,
+        "FR_DS_IDENTIQUE_A_VERIFIER_EN_CONTEXTE": 1,
+        "IDENTIFIANT_NON_TRADUIT": 22
+      }
+    },
+    "fragments_descriptions": {
+      "entries": 352,
+      "statuses": {
+        "IDENTIFIANT_NON_TRADUIT": 98,
+        "AUTRE_TEXTE_A_REVOIR": 252,
+        "VIDE_A_QUALIFIER": 2
+      }
+    },
+    "objets": {
+      "entries": 192,
+      "statuses": {
+        "AUTRE_TEXTE_A_REVOIR": 192
+      }
+    },
+    "vocations_noms_et_reserves": {
+      "entries": 224,
+      "statuses": {
+        "AUTRE_TEXTE_A_REVOIR": 96,
+        "FR_DS_IDENTIQUE_A_VERIFIER_EN_CONTEXTE": 5,
+        "FR_CONFIRME_PROJET": 6,
+        "IDENTIFIANT_NON_TRADUIT": 75,
+        "VIDE_A_QUALIFIER": 42
+      }
+    }
+  },
+  "exact_ds_candidates": 906,
+  "unmapped_glyph_entries": 17,
+  "limits": [
+    "La catégorie AUTRE ne signifie pas anglais : elle inclut du français hérité non relu, des noms et des labels internes. Aucune détection automatique ne prouve la langue ou la correction.",
+    "VIDE ne signifie pas manquant : certaines réserves sont intentionnelles.",
+    "Les 906 rapprochements exacts ne sont pas 906 traductions validées.",
+    "Les descriptions sont des fragments composés au runtime ; les traduire avec leur composition, pas isolément.",
+    "Caps documentés : actions 9, descriptions 12, menus 18, lieux 20 caractères par ligne. Les fenêtres réelles et les sauts natifs doivent être testés.",
+    "Pointeurs 157 groupes de 16, 2512 SIDs, 2048 entrées ; préserver les alias et le dictionnaire binaire."
+  ],
+  "pool": {
+    "start": "0x3b8703",
+    "end": "0x3bc712",
+    "bytes": 16399,
+    "reachable_bytes": 14329,
+    "tail_bytes": 2070,
+    "tail_is_all_ff": false,
+    "note": "Ne pas considérer le tail comme libre sans l’auditer ; le repacker actuel préserve ce tail depuis l’IPS et refuse le débordement."
+  },
+  "inserted_this_audit": 0,
+  "places_prepared_not_inserted": 25,
+  "width_audit": {
+    "actions": {
+      "reference_width": 9,
+      "entries_checked": 192,
+      "unknown_glyph_entries_skipped": 0,
+      "exceeding_reference": 0,
+      "rows": [],
+      "limit": "Seuil observé dans la documentation du projet anglais, pas preuve des dimensions réelles de chaque fenêtre."
+    },
+    "descriptions": {
+      "reference_width": 12,
+      "entries_checked": 352,
+      "unknown_glyph_entries_skipped": 0,
+      "exceeding_reference": 0,
+      "rows": [],
+      "limit": "Seuil observé dans la documentation du projet anglais, pas preuve des dimensions réelles de chaque fenêtre."
+    },
+    "menus": {
+      "reference_width": 18,
+      "entries_checked": 127,
+      "unknown_glyph_entries_skipped": 1,
+      "exceeding_reference": 1,
+      "rows": [
+        {
+          "position": 242,
+          "text": "Choisis le nom du Heros",
+          "longest": 23
+        }
+      ],
+      "limit": "Seuil observé dans la documentation du projet anglais, pas preuve des dimensions réelles de chaque fenêtre."
+    },
+    "lieux": {
+      "reference_width": 20,
+      "entries_checked": 128,
+      "unknown_glyph_entries_skipped": 0,
+      "exceeding_reference": 3,
+      "rows": [
+        {
+          "position": 440,
+          "text": "Chateay de Deathtamoor",
+          "longest": 22
+        },
+        {
+          "position": 507,
+          "text": "Tente de Bonne Aventure",
+          "longest": 23
+        },
+        {
+          "position": 511,
+          "text": "Caverne de la Montagne",
+          "longest": 22
+        }
+      ],
+      "limit": "Seuil observé dans la documentation du projet anglais, pas preuve des dimensions réelles de chaque fenêtre."
+    }
+  }
+}

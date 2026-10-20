@@ -1,0 +1,30 @@
+{
+  "release": "v0.37",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5905,
+    "visible_total": 6957,
+    "new_this_pass": 51,
+    "remaining": 1052
+  },
+  "baseline": "v0.36",
+  "prepared_not_inserted": {
+    "main": 0,
+    "separate_places": 25
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.37",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 17
+  },
+  "rom_bytes": 8388608,
+  "notes": "51 nouvelles adaptations explicites des variantes de genre/nombre DS au japonais SFC. Aucune ancienne sélection, table ou commande machine modifiée. 45 captures sur 12 textes relues ; pas tous les 51 ni scènes naturelles.",
+  "next": "Continuer les 1052 textes et les tables séparées. 25 lieux préparés, 26 appariements différés v0.34. Accents des tables, fenêtres natives et scènes naturelles 322/323,1836,4095 restent ouverts. Ne pas annoncer finalisé."
+}
