@@ -1,0 +1,15 @@
+[
+  {
+    "id": 4095,
+    "previous_preparation": "v0.34/prepares-non-inseres.json",
+    "previous_diagnostic": "v0.34/qa-4095-preparation.json",
+    "new_status": "INTEGRE_V036_TEXTE_CONCIS",
+    "natural_scene_tested": false,
+    "old_failure_cause_established": false,
+    "source_commands_preserved": true,
+    "release_rom_sha256": "daab10b0d17852bbb1e05f7b337784a8d31a723dfb51ab074bd76809a28fb6ab",
+    "source_D5_preserved": true,
+    "text_pages_tested": 2,
+    "natural_scene_still_unverified": true
+  }
+]

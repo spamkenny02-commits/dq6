@@ -1,0 +1,42 @@
+{
+  "result_sha256": "daab10b0d17852bbb1e05f7b337784a8d31a723dfb51ab074bd76809a28fb6ab",
+  "fixture_message_redirect": 100,
+  "rows": [
+    {
+      "id": 4095,
+      "page": 1,
+      "screenshot": "screenshots/v036-4095-page1.png",
+      "sha256": "9c085d60bb2f6c1b588e1432671cd3f8c4d9467ea5fa6905ca0e572817d161de",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v036-4095-page1\", \"message_id\": 100, \"frame_mean\": 47.56072707403274}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 4095,
+      "page": 2,
+      "screenshot": "screenshots/v036-4095-page2.png",
+      "sha256": "a3e7874c8a01b0abd47f848c800e3e8e8020bb5138201d09481af460952b7133",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v036-4095-page2\", \"message_id\": 100, \"frame_mean\": 50.958839053199405}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 4095,
+      "page": 3,
+      "screenshot": "screenshots/v036-4095-page3.png",
+      "sha256": "c1ad29ce8d22867dcc35e8aaf5fda3d3b5fe5944e957825048ea8d66f15a803d",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v036-4095-page3\", \"message_id\": 100, \"frame_mean\": 51.401785714285715}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 4095,
+      "page": 4,
+      "screenshot": "screenshots/v036-4095-page4.png",
+      "sha256": "811d07afc4a4c0fb235e21277331bcc1cdc91812a87972b33f23a0f1a5bb3162",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v036-4095-page4\", \"message_id\": 101, \"frame_mean\": 47.29237583705357}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 4095,
+      "page": 5,
+      "screenshot": "screenshots/v036-4095-page5.png",
+      "sha256": "e78b9c9717041bc682cad7c4bfa4d1b2a1278c058daf921759760c3561f3dd83",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v036-4095-page5\", \"message_id\": 103, \"frame_mean\": 47.882289341517854}\nMap_ExtendedHiROMMap"
+    }
+  ],
+  "limits": "Diagnostic redirections from local camp state; no natural scene progression or full playthrough."
+}

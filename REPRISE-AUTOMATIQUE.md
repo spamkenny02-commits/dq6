@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dernière version : v0.35. Script 5853/6957 inchangé, 1104 restants ; 4095 préparé non inséré et 26 autres cas différés de v0.34. Tables : huit lieux et un nom supplémentaire intégrés, 25 lieux préparés. Inventaire v0.35 : 2048 entrées physiques, 2512 SIDs, 17 entrées FR confirmées. Toujours 8 Mio.
+Dernière version : v0.36, 5854/6957 intégrés, 1103 restants. Depuis v0.33 : 122 ajouts au script et le nom séparé Gus. Principal préparé actif : 0 ; 4095 désormais intégré en version concise. Tables : huit lieux et Gus, 25 lieux préparés ; inventaire v0.35. Toujours 8 Mio.
+
+## Lot v0.36 : 4095 concis
+
+Lire v0.36/LISEZ-MOI.md et preparations-resolues.json. Formulation fidèle de six lignes, deux pages de texte cohérentes, D5 conservé. Le choix hôte conserve ensuite le dernier écran, avant les messages hôtes. Cinq captures relues ; aucun correctif machine. Ancien essai et ancien préparé v0.34 conservés ; cause exacte du chevauchement précédent non établie. Scène naturelle de marchands non parcourue. 5853 anciens textes et 2512 noms conservés. Recette pass36.py, delta v0.36, comparaison avec v0.35 construit ; ne pas réinsérer l'ancien texte long du 4095. BPS/IPS, redécodage, zones protégées, bus et Journal vérifiés. Continuer 1103 textes et tables ; les 26 autres cas différés v0.34 et les réserves de parcours naturels restent ouverts. Ne pas annoncer la fin.
 
 ## Lot v0.35 : Gus
 

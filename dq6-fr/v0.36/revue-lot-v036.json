@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4095,
+    "file": "0003.p",
+    "ids": [
+      171,
+      172
+    ],
+    "sfc_jp": "私たちは　旅の商人です。[WAIT][LINE]西にずっといった森の中で[LINE]仲間が　あばれ馬に　おそわれ[LINE]ケガをしてしまいました。[CODE D5][WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le cheval l'a frappé quand il a essayé de lui[LINE]monter dessus…[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「私たちは　旅の商人です。\n@c0@",
+      "@a@b＊「西の岩山の向こうの橋を　わたって\n\t北に行った森の中で　仲間が\n\tあばれ馬におそわれ　ケガをしました。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ On est des marchands ambulants, lui et moi. Enfin, on l'était.\n@c0@",
+      "@a@b*ⓢ Mon partenaire a été attaqué par une jument sauvage dans la forêt, au nord du pont, à l'ouest.\n@c0@"
+    ],
+    "ds_fr_body": "On est des marchands ambulants, lui et moi. Enfin, on l'était. Mon partenaire a été attaqué par une jument sauvage dans la forêt, au nord du pont, à l'ouest.",
+    "review": "Formulation plus concise, tous les faits SFC conservés : marchands ambulants, compagnon attaqué et blessé, monture sauvage, forêt loin à l’ouest. Pas de pont/nord DS. D5 conservé. Le nouveau banc affiche deux pages de texte cohérentes, puis le choix hôte avec le dernier écran conservé ; cela ne prouve pas la cause exacte de l’ancien chevauchement ni la scène naturelle.",
+    "status": "RELU",
+    "original_body": "On est des marchands ambulants, lui et moi. Enfin, on l'était. Mon partenaire a été attaqué par une jument sauvage dans la forêt, au nord du pont, à l'ouest.",
+    "adaptation_body": "Nous sommes marchands ambulants. Notre compagnon a été attaqué et blessé par une jument sauvage dans la forêt, loin à l'ouest.",
+    "adaptation_review": "Formulation plus concise, tous les faits SFC conservés : marchands ambulants, compagnon attaqué et blessé, monture sauvage, forêt loin à l’ouest. Pas de pont/nord DS. D5 conservé. Le nouveau banc affiche deux pages de texte cohérentes, puis le choix hôte avec le dernier écran conservé ; cela ne prouve pas la cause exacte de l’ancien chevauchement ni la scène naturelle."
+  }
+]

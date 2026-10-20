@@ -1,0 +1,34 @@
+{
+  "release": "v0.36",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5854,
+    "visible_total": 6957,
+    "new_this_pass": 1,
+    "new_since_v033": 122,
+    "remaining": 1103
+  },
+  "baseline": "v0.35",
+  "prepared_not_inserted": {
+    "main": 0,
+    "separate_places": 25
+  },
+  "prepared_resolved_this_pass": [
+    4095
+  ],
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.35",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 17
+  },
+  "rom_bytes": 8388608,
+  "notes": "4095 intégré en formulation concise fidèle : six lignes et deux pages cohérentes, D5 conservé. Ancien essai v0.34 et texte préparé restent dans leur historique ; cause exacte de l’ancien chevauchement non établie. 5853 anciens textes et 2512 noms inchangés. Diagnostic au camp, scène naturelle de marchands non parcourue.",
+  "next": "Continuer les 1103 textes et les tables. 26 appariements différés v0.34, indices, alphabet accentué et fenêtres naturelles restent ouverts ; vérifier aussi les scènes naturelles 322/323,1836,4095. Ne pas annoncer finalisé."
+}

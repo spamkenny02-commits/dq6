@@ -1,0 +1,24 @@
+{
+  "result_sha256": "daab10b0d17852bbb1e05f7b337784a8d31a723dfb51ab074bd76809a28fb6ab",
+  "cold_boot_reaches_journal_menu": true,
+  "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "fixture_id": 4095,
+  "pages_visually_reviewed": 5,
+  "text_pages": [
+    1,
+    2
+  ],
+  "host_choice_page": 3,
+  "host_successors_pages": [
+    4,
+    5
+  ],
+  "two_text_pages_complete_and_coherent": true,
+  "source_D5_preserved": true,
+  "release_machine_code_changed": false,
+  "natural_merchant_scene_played": false,
+  "old_overlap_cause_established": false,
+  "limits": "Nouveau texte concis de six lignes, deux pages. La troisième capture est le choix hôte avec conservation du dernier écran, pas une nouvelle page de traduction. Ce résultat ne démontre ni la cause précise du précédent essai ni la scène naturelle."
+}
