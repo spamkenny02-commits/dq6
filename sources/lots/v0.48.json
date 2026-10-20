@@ -1,0 +1,207 @@
+{
+  "kind": "readable_translation_delta",
+  "version": "v0.48",
+  "baseline": "v0.47",
+  "baseline_count": 6529,
+  "new_count": 143,
+  "recipe": "dq6-fr/pass48.py",
+  "merged_selection_sha256": "db6df3e6e0e5c4c9d8ec5bd9a3818084b876dd8be455a020f28359bbcd8e8cbe",
+  "generated_inputs": {
+    "correspondances-revues.json": "ad847fb1509698eafe57909387161259e72128979f90790f56d9acb590939a6b",
+    "adaptations-francaises.json": "2d027012ea2734a7cff2e1bba67bd5d3dd48c0ae5f2b3460084784d29c310a24",
+    "liaisons-variables-natives.json": "40f2e2e395dc26836dcaaed388d132b612ca2ddbe2956a761b4dbc04909ca0d0",
+    "charset.json": "f84c9183341fab8591f23ee608b0bdf6b9191a09ceeecf04a95afca114027c55"
+  },
+  "files": [
+    {
+      "path": "dq6-fr/pass48.py",
+      "sha256": "7a4a6adf8970a2ae8b7acee3546ed3c3fbdeef5e5fed06c6c79db67a9046e3f0",
+      "bytes": 2162
+    },
+    {
+      "path": "dq6-fr/audit_reliquat_v048.py",
+      "sha256": "74ed9cba50421ab272835683cb03e4de8221b9d33c732914fa17f406ecf9aaa8",
+      "bytes": 4404
+    },
+    {
+      "path": "emballer_lot48.py",
+      "sha256": "e414588605a84fab6c16643500142687d82317f697aa255b635a46bb3fc6364e",
+      "bytes": 7158
+    },
+    {
+      "path": "revoir_lot48.py",
+      "sha256": "5d2f0cd7281410ea17939c99071eb73bf7313d3536e49ed0e27e58e60d2ce96c",
+      "bytes": 9770
+    },
+    {
+      "path": "traductions-v048.json",
+      "sha256": "2c44fe3d8ec2307d40b4e57b5c98d438557d8ce1116bb5668dccde89f254a508",
+      "bytes": 14074
+    },
+    {
+      "path": "reconstruire_propre48.py",
+      "sha256": "6ba764c989af795fbbb4be698fea519f4e82dbc092b56098e0bacd71c47284a5",
+      "bytes": 1811
+    },
+    {
+      "path": "planches_relecture48.py",
+      "sha256": "9bd30a733ae6ab683a8376a465c1b8548899d4e3de5adff75ab0b78750807038",
+      "bytes": 882
+    },
+    {
+      "path": "patches/DQVI-FR-DS-v0.48-BASE-JP-PARTIEL.bps",
+      "sha256": "e6438d61819a1611225f2f60afca61e8119a2a4672de1a6ae91019b36493d4e5",
+      "bytes": 677417
+    },
+    {
+      "path": "dq6-fr/v0.48/native_helpers.py",
+      "sha256": "978d0e3d76d03d15d888275dcad7994c0a20d8d90226ca79e4f4e895e44e2802",
+      "bytes": 3191
+    },
+    {
+      "path": "dq6-fr/v0.48/revue-lot-v048.json",
+      "sha256": "7ee35e5cc37f1734c1278140890c8dd3e5d6a66cfab4617d7ec8e04c2e02072b",
+      "bytes": 351050
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-protocole-pilote.json",
+      "sha256": "3876597f324fdccbec93911929d1082569c3356851a647a3048784a17deb50df",
+      "bytes": 4203
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-restauration-propre.json",
+      "sha256": "dd50698687ae128a32b67c79536c3d9c324728c8e438bd87c9ef31a6e0af778b",
+      "bytes": 262
+    },
+    {
+      "path": "dq6-fr/v0.48/names.py",
+      "sha256": "c0c390d76c922016547548506cfbb01a254dbe7665c53e843715545a48dabdd7",
+      "bytes": 6855
+    },
+    {
+      "path": "dq6-fr/v0.48/verify.py",
+      "sha256": "9b8fadd1bfd8d1c5bf4dfa9d5c9f12963e4ed9145f5af2ba9642d867059a0a75",
+      "bytes": 7835
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-patchs-regression.json",
+      "sha256": "18d93ccf20481471ef14846933ad2d655edcae1b49d767322cf8a9af99a74a36",
+      "bytes": 1393
+    },
+    {
+      "path": "dq6-fr/v0.48/validation.json",
+      "sha256": "9b70495d1320ec0e179f6db015849f6aa037576b8568dc8c0024e24abf10b8d6",
+      "bytes": 1312
+    },
+    {
+      "path": "dq6-fr/v0.48/test_render.py",
+      "sha256": "8677938d8ca5e91ff876a2e4d80f8910423d20d22b4ea04cf1787771ff1263ca",
+      "bytes": 3225
+    },
+    {
+      "path": "dq6-fr/v0.48/init.py",
+      "sha256": "1320a9dcaa9ee9376afeadb66f8169cbc019a94e69e9331ad15ee69097e3d43e",
+      "bytes": 1385
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-reliquat.json",
+      "sha256": "c1d5b0eb7b55cac097be228abd687995eed3da174c3427a469d818ea5629cb35",
+      "bytes": 61740
+    },
+    {
+      "path": "dq6-fr/v0.48/prepares-non-inseres.json",
+      "sha256": "718b2330b8b93e5a0f4a9c1d6016ea798595b5ba33d465745cf48de5bc5129d0",
+      "bytes": 13841
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-emulation-v048.json",
+      "sha256": "f20b6e97781fe89d6c941904772092a229ec0782d956d1cf7689efecf6993d86",
+      "bytes": 626
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-script-name-engine-bus.json",
+      "sha256": "4d5e8ee25ba51f95891ae016de04c8a2a78777c0d516ec66f5c93e8999040f0c",
+      "bytes": 286
+    },
+    {
+      "path": "dq6-fr/v0.48/LISEZ-MOI.md",
+      "sha256": "34f652afef526ea4c9a8064044c751ff7219525770f331cf084cf7e9ac248cc8",
+      "bytes": 2678
+    },
+    {
+      "path": "dq6-fr/v0.48/build.py",
+      "sha256": "432e4a9873290f51410f8c34031c63f1c7ce3224edb4e33364f673f9d7c78e12",
+      "bytes": 9040
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-relecture-visuelle.json",
+      "sha256": "bbbae17c3a45dd1d280e038afcbe7fdc3c6b9c50425dad0ec1ce40fc3a8a1ea1",
+      "bytes": 36006
+    },
+    {
+      "path": "dq6-fr/v0.48/nouveaux-messages.json",
+      "sha256": "0cc94f4955ee4a1044e8afc3eed5d8f851e228280e8d6a9d1ad1ec497d65e847",
+      "bytes": 267695
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-recette-idempotente.json",
+      "sha256": "64edaecd0abfa1d6385111e63b38c873ec0bec4ae7a2680bd2eded8623c9caf1",
+      "bytes": 483
+    },
+    {
+      "path": "dq6-fr/v0.48/revues-preparatoires-remplacees.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-protocole-correction.json",
+      "sha256": "9c66df260f1d56899ca0ec286b11371c346a8f16a1c24fcaea3637b915f87b1d",
+      "bytes": 625
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-render-fixtures.json",
+      "sha256": "700112219066260b3ab14dc5648e82c99b2ee688cfc6b3b5b7cf35ce510f5e41",
+      "bytes": 102458
+    },
+    {
+      "path": "dq6-fr/v0.48/inventaire-tables.json",
+      "sha256": "c3cf5e89e4027378d02b859aa49b53261cb83bb32938b930c407c6145fca0598",
+      "bytes": 5111
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-noms-moteur-inchanges.json",
+      "sha256": "767f6c323a9efc44eb02e3f2f0e9501524a2d55d1e32016bc1b8ac117e556460",
+      "bytes": 193
+    },
+    {
+      "path": "dq6-fr/v0.48/layout-engine-check.json",
+      "sha256": "404bcb8139e8750e653842eaec6b531e3f3dfee1131564e8a0b14f916367e9ed",
+      "bytes": 87688
+    },
+    {
+      "path": "dq6-fr/v0.48/prepare.py",
+      "sha256": "bbc98c0a862e33059a793890a4ca06180336994843ce2fd5dcf74c432b50367e",
+      "bytes": 17721
+    },
+    {
+      "path": "dq6-fr/v0.48/spells.py",
+      "sha256": "2d52e27e357aed50f2dc13e56d99f2a2693b49edd65f018576bf9a56c5ddc45b",
+      "bytes": 2049
+    },
+    {
+      "path": "dq6-fr/v0.48/qa-pauses-natives.json",
+      "sha256": "193523d635b1360a04ee5d9ae447ff5bd7c7d44cf34add07865b029191df4721",
+      "bytes": 12295
+    },
+    {
+      "path": "dq6-fr/v0.48/couverture-preparation.json",
+      "sha256": "31d0c496fae5701c7a78a301a23d2550b1c2c349a79f127cca094578b873b71e",
+      "bytes": 182
+    },
+    {
+      "path": "dq6-fr/v0.48/etat-projet.json",
+      "sha256": "83a6677750c9ae3eeb7d22a5dc6121edb798f32f1bf815246f3f21f38965a485",
+      "bytes": 1618
+    }
+  ]
+}

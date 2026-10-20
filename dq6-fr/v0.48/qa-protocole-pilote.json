@@ -1,0 +1,97 @@
+{
+  "result_sha256": "bf006b5b95378db72a09c80391693a3be615213909fb86fbde82bc163476a9b0",
+  "rows": [
+    {
+      "id": 11,
+      "page": 1,
+      "screenshot": "screenshots/v048-11-page1.png",
+      "sha256": "b91bbf4ef80ff470b7804cba0ae29213dd04143600c219c20290659f4755d1d7",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v048-11-page1\", \"message_id\": 100, \"frame_mean\": 48.121988932291664}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    },
+    {
+      "id": 5067,
+      "page": 1,
+      "screenshot": "screenshots/v048-5067-page1.png",
+      "sha256": "fd5c3c5f4f49c3df05e2cf5a8ddf8a83bbde3553b67e04ed4927ce72b5407014",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v048-5067-page1\", \"message_id\": 100, \"frame_mean\": 42.1683349609375}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    },
+    {
+      "id": 5067,
+      "page": 2,
+      "screenshot": "screenshots/v048-5067-page2.png",
+      "sha256": "9edc2c09550de34722ca3cab0e56524d0e08fd899df984db825a14235ede88be",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v048-5067-page2\", \"message_id\": 100, \"frame_mean\": 49.58329845610119}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    },
+    {
+      "id": 1546,
+      "page": 1,
+      "screenshot": "screenshots/v048-1546-page1.png",
+      "sha256": "08b809131652d800c8adf8aa3c88135c1fa037e8d9ac919b3161dc12963b4e19",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v048-1546-page1\", \"message_id\": 100, \"frame_mean\": 46.46641903831845}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    },
+    {
+      "id": 1546,
+      "page": 2,
+      "screenshot": "screenshots/v048-1546-page2.png",
+      "sha256": "6f485cafff2245496b397780506750433cc5bd9a3e65534f56c64007470f68e3",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v048-1546-page2\", \"message_id\": 100, \"frame_mean\": 47.02288527715774}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    },
+    {
+      "id": 1546,
+      "page": 3,
+      "screenshot": "screenshots/v048-1546-page3.png",
+      "sha256": "d7b17ba31408cf81eccdf3a0febd828f261d7d3c3e27ee5c92b67d127e60da34",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v048-1546-page3\", \"message_id\": 100, \"frame_mean\": 49.07732863653274}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    },
+    {
+      "id": 1546,
+      "page": 4,
+      "screenshot": "screenshots/v048-1546-page4.png",
+      "sha256": "48fc880dd96a83c13a677deb6e037e64635275533eebae3563cbceda028ab053",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v048-1546-page4\", \"message_id\": 100, \"frame_mean\": 45.03733607700893}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    },
+    {
+      "id": 1546,
+      "page": 5,
+      "screenshot": "screenshots/v048-1546-page5.png",
+      "sha256": "cfa00ff0174d868d5053bc7c52a8e024ba377b03d4751be3004ef63b9a2f0ab6",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v048-1546-page5\", \"message_id\": 100, \"frame_mean\": 48.079584030877974}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    },
+    {
+      "id": 1546,
+      "page": 6,
+      "screenshot": "screenshots/v048-1546-page6.png",
+      "sha256": "fc72391e98750fe7bb6af3ff1adcadbebada0a6b21b99ecd2cde01657277354f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v048-1546-page6\", \"message_id\": 100, \"frame_mean\": 46.533226376488095}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    },
+    {
+      "id": 755,
+      "page": 1,
+      "screenshot": "screenshots/v048-755-page1.png",
+      "sha256": "56d17d87cce9433fbd2bb361d759f9ca71835d5aac4503b659cd72f7c5d97419",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v048-755-page1\", \"message_id\": 100, \"frame_mean\": 41.948096865699405}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    }
+  ],
+  "diagnostic_RAM": {
+    "C0_name_ID": 3,
+    "C1_name_ID": 2,
+    "D8_buffer": "MAXIME",
+    "BB_decimal": 12345,
+    "B5_item_ID": 1,
+    "B3_name_ID": 3,
+    "B2_vocation": 2297,
+    "B2_name_ID": 2471,
+    "other_B2": 2352
+  },
+  "limits": "Camp message100 redirections. No natural scenes, real transactions, naming writes or save effects tested."
+}

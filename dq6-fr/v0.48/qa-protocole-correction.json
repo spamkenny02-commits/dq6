@@ -1,0 +1,20 @@
+{
+  "rom_unchanged": true,
+  "result_sha256": "bf006b5b95378db72a09c80391693a3be615213909fb86fbde82bc163476a9b0",
+  "initial_run_failed_at": {
+    "id": 5067,
+    "page": 2,
+    "host_message_observed": 101
+  },
+  "cause": "Held initial A could skip the very short first paragraph; initial page1 was actually page2.",
+  "final_protocol": "A1 frame, wait330, Down1 frame, wait10+240; no final extra A. Each subsequent page uses A1 then240frames.",
+  "pilot_ids": [
+    11,
+    5067,
+    1546,
+    755
+  ],
+  "full_final_recapture_texts": 143,
+  "full_final_recapture_pages": 272,
+  "all_final_observed_host_message_ids": 100
+}

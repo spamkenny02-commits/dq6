@@ -1,3 +1,7 @@
+# Reprise v0.48
+
+143 textes SFC relus : dialogues, panneaux, objets légendaires, commerces et quelques libellés techniques. 69 références DS de formulation, fragments ou lexique, avec écarts SFC documentés ; 74 adaptations directes sans équivalent DS validé. Pauses natives conservées. Ancien IPS secondaire relu mais ses nombreux décalages sont rejetés. Terminer les 285 entrées restantes, dont19 préparées non insérées, en traitant les dialogues couplés et commandes avant toute annonce de finalisation. Continuer aussi les tables et audits naturels.
+
 # Reprise v0.47
 
 142 libellés techniques, progression des quêtes et textes de démonstration SFC relus directement. Français DS utilisé comme lexique explicite pour 47 entrées ; aucun dialogue DS équivalent déclaré. Trois pauses d’avertissement natives conservées et testées. Huit brouillons ambigus restent non insérés, avec onze fragments hérités. Continuer les 428 messages restants dont 19 préparés non insérés, les tables et les audits naturels. Projet non finalisé.

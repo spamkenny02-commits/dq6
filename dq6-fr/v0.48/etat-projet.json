@@ -1,0 +1,58 @@
+{
+  "release": "v0.48",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 6672,
+    "visible_total": 6957,
+    "new_this_pass": 143,
+    "remaining": 285
+  },
+  "baseline": "v0.47",
+  "prepared_not_inserted": {
+    "main": 19,
+    "separate_places": 25,
+    "reviewed_fragments": 11,
+    "draft_main": 8
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.48",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "spell_action_labels_inserted": 20,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 37,
+    "native_grammar_helpers_adapted": 4
+  },
+  "rom_bytes": 8388608,
+  "notes": "143 textes SFC relus : dialogues, panneaux, objets légendaires, commerces et quelques libellés techniques. 69 références DS de formulation, fragments ou lexique, avec écarts SFC documentés ; 74 adaptations directes sans équivalent DS validé. Pauses natives conservées. Ancien IPS secondaire relu mais ses nombreux décalages sont rejetés.",
+  "next": "Terminer les 285 entrées restantes, dont19 préparées non insérées, en traitant les dialogues couplés et commandes avant toute annonce de finalisation. Continuer aussi les tables et audits naturels.",
+  "deferred_remaining_from_v034": 5,
+  "resolved_from_v034_ids": [
+    1478,
+    2368,
+    4866,
+    4880,
+    5159,
+    5748,
+    5761,
+    5778,
+    5816,
+    5818,
+    5844,
+    5851,
+    6117,
+    6172,
+    6209,
+    6265,
+    6338,
+    6465,
+    6937,
+    6944,
+    6949
+  ]
+}
