@@ -1,3 +1,7 @@
+# Reprise v0.43
+
+63 ajouts : cris, répliques courtes, noms variables de sorts et de vocations, appels aux compagnons. 6414 conserve deux C0, 6416 deux C0 et B2, 6441 deux C0 puis D3 ; 5281 deux C9. Noms de locuteurs natifs conservés. Les 26 cas différés historiques v0.34 sont réconciliés : 2368 et 6265 résolus explicitement en v0.41, 24 encore différés. Le reliquat reproductible compte 792 textes non validés et sépare les propositions de mots des validations. Continuer les 792 textes et les tables. Audits hérités et scènes naturelles ouverts, pas finalisé.
+
 # Reprise v0.42
 
 71 ajouts : utilisation, appréciation, équipement, transfert, abandon et rachat d’objets. Noms natifs B5 et rôles C0/C1/D3 explicitement liés ; la garde d’ambiguïté du compilateur ne s’ouvre que si tous les rôles contextuels sont liés par la revue. Contrôle indépendant de chaque occurrence conservé. 5917 garde ses deux C1, comme les deux japonais, sans réduire silencieusement la répétition. Objet et prix du marchand restent variables. Les objets fixes des descriptions DS sont remplacés par le B5 SFC, sans nom figé ni effet d’objet inventé. Continuer les 855 textes et les tables. Audits hérités et scènes naturelles ouverts, pas finalisé.

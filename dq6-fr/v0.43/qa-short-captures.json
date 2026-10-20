@@ -1,0 +1,320 @@
+{
+  "result_sha256": "118b388a0132150969fde5810ab4c6ca374fe09ccf42f35b7f8b57744b2d4a03",
+  "fixture_message_redirect": 100,
+  "diagnostic_item_name_swap": false,
+  "diagnostic_RAM": {
+    "B5_item_ID": 1,
+    "B2_values_by_ID": {
+      "vocation_6411_6416": 2297,
+      "spell_5776_5777": 1570,
+      "rank_1783": 0,
+      "other": 2352
+    },
+    "C0_name_ID": 3,
+    "C1_name_ID": 2,
+    "5A2E_5A2F_5A30_bytes": [
+      57,
+      48,
+      0
+    ],
+    "BB_expected_decimal": 12345,
+    "3B2F": 2
+  },
+  "rows": [
+    {
+      "id": 35,
+      "page": 1,
+      "screenshot": "screenshots/v043short-35-page1.png",
+      "sha256": "4683d23e76c426963a302feb9ab62792c7ff22e9ad2a4f6fee9c20caf5f48bf9",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-35-page1\", \"message_id\": 100, \"frame_mean\": 44.61538550967262}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-35-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-35-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 36,
+      "page": 1,
+      "screenshot": "screenshots/v043short-36-page1.png",
+      "sha256": "4683d23e76c426963a302feb9ab62792c7ff22e9ad2a4f6fee9c20caf5f48bf9",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-36-page1\", \"message_id\": 100, \"frame_mean\": 44.61538550967262}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-36-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-36-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 39,
+      "page": 1,
+      "screenshot": "screenshots/v043short-39-page1.png",
+      "sha256": "4683d23e76c426963a302feb9ab62792c7ff22e9ad2a4f6fee9c20caf5f48bf9",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-39-page1\", \"message_id\": 100, \"frame_mean\": 44.61538550967262}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-39-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-39-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 47,
+      "page": 1,
+      "screenshot": "screenshots/v043short-47-page1.png",
+      "sha256": "d5358007a51823f3fff0d778c86c54819df9fd995782326187d8c0db7b16dbcd",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-47-page1\", \"message_id\": 100, \"frame_mean\": 44.81153506324405}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-47-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-47-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 49,
+      "page": 1,
+      "screenshot": "screenshots/v043short-49-page1.png",
+      "sha256": "d8a4e2b5aac21d78be07ed158910165eb190132ddd0622dd9a4b7c73fcadd68f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-49-page1\", \"message_id\": 100, \"frame_mean\": 44.670445033482146}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-49-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-49-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 61,
+      "page": 1,
+      "screenshot": "screenshots/v043short-61-page1.png",
+      "sha256": "39b8042b3502505594951e84891ef1cd482624db0be232bf188ba878d16ca320",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-61-page1\", \"message_id\": 100, \"frame_mean\": 44.460530598958336}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-61-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-61-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 989,
+      "page": 1,
+      "screenshot": "screenshots/v043short-989-page1.png",
+      "sha256": "84e57e707c27d20503a248be243b8e01a9b614759e84c6307d28c7a92f6835af",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-989-page1\", \"message_id\": 100, \"frame_mean\": 44.618826729910715}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-989-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-989-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 2061,
+      "page": 1,
+      "screenshot": "screenshots/v043short-2061-page1.png",
+      "sha256": "03c12c99e8f0bf3875ae339b9c24e9bacffb19d50e16f097d4c5882e559688ac",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2061-page1\", \"message_id\": 100, \"frame_mean\": 44.65668015252976}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2061-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-2061-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 2763,
+      "page": 1,
+      "screenshot": "screenshots/v043short-2763-page1.png",
+      "sha256": "0740fee46c44e7f1d58bba04e152ed2deb275fa7752ca9f0c012be68e8aaef6f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2763-page1\", \"message_id\": 100, \"frame_mean\": 44.395147414434526}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2763-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-2763-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 2767,
+      "page": 1,
+      "screenshot": "screenshots/v043short-2767-page1.png",
+      "sha256": "0740fee46c44e7f1d58bba04e152ed2deb275fa7752ca9f0c012be68e8aaef6f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2767-page1\", \"message_id\": 100, \"frame_mean\": 44.395147414434526}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2767-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-2767-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 2777,
+      "page": 1,
+      "screenshot": "screenshots/v043short-2777-page1.png",
+      "sha256": "0740fee46c44e7f1d58bba04e152ed2deb275fa7752ca9f0c012be68e8aaef6f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2777-page1\", \"message_id\": 100, \"frame_mean\": 44.395147414434526}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2777-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-2777-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 2781,
+      "page": 1,
+      "screenshot": "screenshots/v043short-2781-page1.png",
+      "sha256": "0740fee46c44e7f1d58bba04e152ed2deb275fa7752ca9f0c012be68e8aaef6f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2781-page1\", \"message_id\": 100, \"frame_mean\": 44.395147414434526}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2781-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-2781-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 2784,
+      "page": 1,
+      "screenshot": "screenshots/v043short-2784-page1.png",
+      "sha256": "0740fee46c44e7f1d58bba04e152ed2deb275fa7752ca9f0c012be68e8aaef6f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2784-page1\", \"message_id\": 100, \"frame_mean\": 44.395147414434526}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2784-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-2784-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 2790,
+      "page": 1,
+      "screenshot": "screenshots/v043short-2790-page1.png",
+      "sha256": "0740fee46c44e7f1d58bba04e152ed2deb275fa7752ca9f0c012be68e8aaef6f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2790-page1\", \"message_id\": 100, \"frame_mean\": 44.395147414434526}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2790-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-2790-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 2794,
+      "page": 1,
+      "screenshot": "screenshots/v043short-2794-page1.png",
+      "sha256": "0740fee46c44e7f1d58bba04e152ed2deb275fa7752ca9f0c012be68e8aaef6f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2794-page1\", \"message_id\": 100, \"frame_mean\": 44.395147414434526}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-2794-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-2794-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 3228,
+      "page": 1,
+      "screenshot": "screenshots/v043short-3228-page1.png",
+      "sha256": "5fe71d9621742f1653221b047b86ef1e32978fbbf190f472ba2e7ee20bdb8ee0",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-3228-page1\", \"message_id\": 100, \"frame_mean\": 44.556884765625}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-3228-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-3228-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 3305,
+      "page": 1,
+      "screenshot": "screenshots/v043short-3305-page1.png",
+      "sha256": "594cf98239d3057066d8021b6996725d8d849da75454396bcafbe923876cf45e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-3305-page1\", \"message_id\": 100, \"frame_mean\": 44.52247256324405}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-3305-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-3305-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 3365,
+      "page": 1,
+      "screenshot": "screenshots/v043short-3365-page1.png",
+      "sha256": "6e220d57a93226fb52b8bff5bb34384894b5d5a9ebf90234a992f4a5b244c378",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-3365-page1\", \"message_id\": 100, \"frame_mean\": 44.56376720610119}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-3365-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-3365-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 4527,
+      "page": 1,
+      "screenshot": "screenshots/v043short-4527-page1.png",
+      "sha256": "650aebe16e3986b725d4051245bb68ebd2b17c4736f90fec9f536bf6e3d7acae",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-4527-page1\", \"message_id\": 100, \"frame_mean\": 44.611944289434526}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-4527-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-4527-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 5622,
+      "page": 1,
+      "screenshot": "screenshots/v043short-5622-page1.png",
+      "sha256": "0c00ebec2e16a9ad02f0e202a3e1a1200b5bdbf6fdade67cbc1f22097a3880e5",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-5622-page1\", \"message_id\": 100, \"frame_mean\": 44.494942801339285}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-5622-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-5622-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    },
+    {
+      "id": 6630,
+      "page": 1,
+      "screenshot": "screenshots/v043short-6630-page1.png",
+      "sha256": "08191a05c455f14ebf665614ed0b5cad56606f13867811915f04e0be41762431",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-6630-page1\", \"message_id\": 100, \"frame_mean\": 44.60162062872024}\nMap_ExtendedHiROMMap",
+      "capture_fallback": {
+        "reason": "The final confirmation A selected the host choice after a very short text had finished.",
+        "initial_message_id": 101,
+        "initial_output": "{\"pixel_format\": 2, \"screenshot\": \"v043short-6630-page1\", \"message_id\": 101, \"frame_mean\": 45.73918224516369}\nMap_ExtendedHiROMMap",
+        "initial_screenshot": "screenshots/initial-v043short-6630-page1.png",
+        "initial_sha256": "390f589149b2fcbadf7156792980a0453752f0bfc6c103eaa704a1b2f1d94d7d"
+      }
+    }
+  ],
+  "limits": "Diagnostic camp redirections, not natural scenes or monetary actions; injected display values do not test calculations or save state."
+}

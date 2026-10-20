@@ -1,20 +1,20 @@
 {
-  "release": "v0.42",
+  "release": "v0.43",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 6102,
+    "validated": 6165,
     "visible_total": 6957,
-    "new_this_pass": 71,
-    "remaining": 855
+    "new_this_pass": 63,
+    "remaining": 792
   },
-  "baseline": "v0.41",
+  "baseline": "v0.42",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 25
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.42",
+    "inventory_version": "v0.43",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -26,6 +26,11 @@
     "confirmed_french_entries": 37
   },
   "rom_bytes": 8388608,
-  "notes": "71 ajouts : utilisation, appréciation, équipement, transfert, abandon et rachat d’objets. Noms natifs B5 et rôles C0/C1/D3 explicitement liés ; la garde d’ambiguïté du compilateur ne s’ouvre que si tous les rôles contextuels sont liés par la revue. Contrôle indépendant de chaque occurrence conservé. 5917 garde ses deux C1, comme les deux japonais, sans réduire silencieusement la répétition. Objet et prix du marchand restent variables. Les objets fixes des descriptions DS sont remplacés par le B5 SFC, sans nom figé ni effet d’objet inventé.",
-  "next": "Continuer les 855 textes et les tables. Audits hérités et scènes naturelles ouverts, pas finalisé."
+  "notes": "63 ajouts : cris, répliques courtes, noms variables de sorts et de vocations, appels aux compagnons. 6414 conserve deux C0, 6416 deux C0 et B2, 6441 deux C0 puis D3 ; 5281 deux C9. Noms de locuteurs natifs conservés. Les 26 cas différés historiques v0.34 sont réconciliés : 2368 et 6265 résolus explicitement en v0.41, 24 encore différés. Le reliquat reproductible compte 792 textes non validés et sépare les propositions de mots des validations.",
+  "next": "Continuer les 792 textes et les tables. Audits hérités et scènes naturelles ouverts, pas finalisé.",
+  "deferred_remaining_from_v034": 24,
+  "resolved_from_v034_ids": [
+    2368,
+    6265
+  ]
 }

@@ -1,0 +1,33 @@
+"""Render every v0.43 addition from private camp fixtures, not natural scenes."""
+from pathlib import Path
+import argparse,json,subprocess,sys,math,hashlib,shutil
+ap=argparse.ArgumentParser();ap.add_argument('--camp-state',required=True,type=Path);ap.add_argument('--ids',default='');ap.add_argument('--report',default='qa-render-fixtures.json');ap.add_argument('--tag-suffix',default='');ap.add_argument('--stress',action='store_true');a=ap.parse_args()
+O=Path(__file__).resolve().parent;P=O.parent;E=P/'emulator-tests'
+review=json.loads((O/'revue-lot-v043.json').read_text());ids=[r['id'] for r in review]
+if a.ids:ids=list(map(int,a.ids.split(',')))
+subprocess.run([sys.executable,str(P/'render_fixtures.py'),'v0.43',','.join(map(str,ids))],check=True)
+if a.stress:raise ValueError('No item-name stress required in this batch')
+rows={r['id']:r for r in json.loads((O/'insertion-candidates.json').read_text())};report=[]
+S=O/'screenshots';S.mkdir(exist_ok=True)
+for mid in ids:
+ sid=0 if mid==1783 else 0x8f9 if mid in [6411,6416] else 1570 if mid in [5776,5777] else 2352
+ count=math.ceil(len(rows[mid]['lines'])/3)
+ for page in range(1,count+1):
+  tag=f'v043{a.tag_suffix}-{mid}-page{page}';cmd=[sys.executable,str(E/'run_core.py'),'--rom',str(E/f'fixture-v043-{mid}.sfc'),'--session',f'v043{a.tag_suffix}-fixture-{mid}','--tag',tag]
+  if page==1:
+   cmd+=['--load-state',str(a.camp_state),'--set-wram',json.dumps({'0x5a2e':[0x39,0x30,0],'0x3b2f':[2,0],'0x3b2d':[3,0],'0x5a2a':[1,0],'0x5a28':list(sid.to_bytes(2,'little'))}),'--sequence',json.dumps([{'button':'a','frames':4,'press':4},{'frames':330},{'button':'down','frames':8,'press':8},{'frames':10},{'button':'a','frames':1,'press':1},{'frames':240}])]
+  else:cmd+=['--sequence',json.dumps([{'button':'a','frames':1,'press':1},{'frames':240}])]
+  result=subprocess.run(cmd,check=True,capture_output=True,text=True);s=E/(tag+'.png');fallback=None
+  message_id=json.loads(result.stdout.splitlines()[0])['message_id']
+  if page==1 and message_id==101:
+   assert count==1,('Unexpected host transition in a multi-page fixture',mid)
+   first=S/('initial-'+s.name);shutil.copy2(s,first)
+   fallback=dict(reason='The final confirmation A selected the host choice after a very short text had finished.',initial_message_id=101,initial_output=result.stdout.strip(),initial_screenshot='screenshots/'+first.name,initial_sha256=hashlib.sha256(first.read_bytes()).hexdigest())
+   seq=json.loads(cmd[-1]);assert seq[-2]=={'button':'a','frames':1,'press':1};del seq[-2];cmd[-1]=json.dumps(seq)
+   result=subprocess.run(cmd,check=True,capture_output=True,text=True)
+   message_id=json.loads(result.stdout.splitlines()[0])['message_id']
+  assert message_id==100,(mid,page,message_id,'Target dialogue not visible')
+  shutil.copy2(s,S/s.name)
+  report.append(dict(id=mid,page=page,screenshot='screenshots/'+s.name,sha256=hashlib.sha256(s.read_bytes()).hexdigest(),output=result.stdout.strip(),capture_fallback=fallback))
+(O/a.report).write_text(json.dumps(dict(result_sha256=hashlib.sha256((O/'result.sfc').read_bytes()).hexdigest(),fixture_message_redirect=100,diagnostic_item_name_swap=a.stress,diagnostic_RAM={'B5_item_ID':1,'B2_values_by_ID':{'vocation_6411_6416':2297,'spell_5776_5777':1570,'rank_1783':0,'other':2352},'C0_name_ID':3,'C1_name_ID':2,'5A2E_5A2F_5A30_bytes':[57,48,0],'BB_expected_decimal':12345,'3B2F':2},rows=report,limits='Diagnostic camp redirections, not natural scenes or monetary actions; injected display values do not test calculations or save state.'),ensure_ascii=False,indent=2))
+print('Rendered',len(report),'captures for all',len(ids),'new texts')

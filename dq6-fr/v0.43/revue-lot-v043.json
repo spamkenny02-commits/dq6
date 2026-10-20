@@ -1,0 +1,2255 @@
+[
+  {
+    "id": 35,
+    "file": "0000.p",
+    "ids": [
+      217
+    ],
+    "status": "RELU",
+    "sfc_jp": "にゃーん。[END STRING AC]",
+    "sfc_vf_secondaire": "Miaou.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「にゃーん。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaou.\n@c0@"
+    ],
+    "original_body": "Miaou.",
+    "adaptation_body": "Miaou.",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 34,
+        "text": "[CODE D3]は　はやてのリングを[LINE]うけとった![END STRING AE]"
+      },
+      {
+        "id": 35,
+        "text": "にゃーん。[END STRING AC]"
+      },
+      {
+        "id": 36,
+        "text": "にゃ~ん。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "file": "0005.p",
+    "ids": [
+      140
+    ],
+    "status": "RELU",
+    "sfc_jp": "にゃ~ん。[END STRING AC]",
+    "sfc_vf_secondaire": "Miaou.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「にゃ～ん。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaou.\n@c0@"
+    ],
+    "original_body": "Miaou.",
+    "adaptation_body": "Miaou.",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 35,
+        "text": "にゃーん。[END STRING AC]"
+      },
+      {
+        "id": 36,
+        "text": "にゃ~ん。[END STRING AC]"
+      },
+      {
+        "id": 37,
+        "text": "にゃん　にゃん　にゃん![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "file": "0008.p",
+    "ids": [
+      639
+    ],
+    "status": "RELU",
+    "sfc_jp": "ニイ　ニイ。[END STRING AC]",
+    "sfc_vf_secondaire": "Mew mew.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ニイ　ニイ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaouⓠ\n@c0@"
+    ],
+    "original_body": "Miaouⓠ",
+    "adaptation_body": "Miaou, miaou.",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 37,
+        "text": "にゃん　にゃん　にゃん![END STRING AC]"
+      },
+      {
+        "id": 38,
+        "text": "ニイ　ニイ。[END STRING AC]"
+      },
+      {
+        "id": 39,
+        "text": "ニャーゴ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "file": "0011.p",
+    "ids": [
+      98
+    ],
+    "status": "RELU",
+    "sfc_jp": "ニャーゴ。[END STRING AC]",
+    "sfc_vf_secondaire": "Miaou.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ニャーゴ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaou.\n@c0@"
+    ],
+    "original_body": "Miaou.",
+    "adaptation_body": "Miaou.",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 38,
+        "text": "ニイ　ニイ。[END STRING AC]"
+      },
+      {
+        "id": 39,
+        "text": "ニャーゴ。[END STRING AC]"
+      },
+      {
+        "id": 40,
+        "text": "ニャーン。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "file": "0017.p",
+    "ids": [
+      453
+    ],
+    "status": "RELU",
+    "sfc_jp": "ニャーン。[END STRING AC]",
+    "sfc_vf_secondaire": "Miaou.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ニャーン。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaou...\n@c0@"
+    ],
+    "original_body": "Miaou...",
+    "adaptation_body": "Miaou...",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 39,
+        "text": "ニャーゴ。[END STRING AC]"
+      },
+      {
+        "id": 40,
+        "text": "ニャーン。[END STRING AC]"
+      },
+      {
+        "id": 41,
+        "text": "ゴロニャーン![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "file": "0056.p",
+    "ids": [
+      685
+    ],
+    "status": "RELU",
+    "sfc_jp": "フーッ!![END STRING AC]",
+    "sfc_vf_secondaire": "Hiss![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「フーッ！！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ffffftⓠ\n@c0@"
+    ],
+    "original_body": "Ffffftⓠ",
+    "adaptation_body": "Ffffft!!",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 42,
+        "text": "にゃん　にゃん　にゃん!![END STRING AC]"
+      },
+      {
+        "id": 43,
+        "text": "フーッ!![END STRING AC]"
+      },
+      {
+        "id": 44,
+        "text": "ミイ　ミイ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "file": "0057.p",
+    "ids": [
+      207
+    ],
+    "status": "RELU",
+    "sfc_jp": "ミイ　ミイ![END STRING AC]",
+    "sfc_vf_secondaire": "Mew! Mew![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ミイ　ミイ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaouuⓠ\n@c0@"
+    ],
+    "original_body": "Miaouuⓠ",
+    "adaptation_body": "Miaou, miaou!",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 43,
+        "text": "フーッ!![END STRING AC]"
+      },
+      {
+        "id": 44,
+        "text": "ミイ　ミイ![END STRING AC]"
+      },
+      {
+        "id": 45,
+        "text": "にゃん　にゃん![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "file": "0000.p",
+    "ids": [
+      217
+    ],
+    "status": "RELU",
+    "sfc_jp": "にゃーん...。[END STRING AC]",
+    "sfc_vf_secondaire": "Miaou…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「にゃーん。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Miaou.\n@c0@"
+    ],
+    "original_body": "Miaou.",
+    "adaptation_body": "Miaou...",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 45,
+        "text": "にゃん　にゃん![END STRING AC]"
+      },
+      {
+        "id": 46,
+        "text": "にゃーん...。[END STRING AC]"
+      },
+      {
+        "id": 47,
+        "text": "フギャー![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "file": "0089.p",
+    "ids": [
+      680
+    ],
+    "status": "RELU",
+    "sfc_jp": "フギャー![END STRING AC]",
+    "sfc_vf_secondaire": "Prrr…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「フギャー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Grrrrⓠ\n@c0@"
+    ],
+    "original_body": "Grrrrⓠ",
+    "adaptation_body": "Miaaou!",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 46,
+        "text": "にゃーん...。[END STRING AC]"
+      },
+      {
+        "id": 47,
+        "text": "フギャー![END STRING AC]"
+      },
+      {
+        "id": 48,
+        "text": "にゃん　にゃん......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "file": "0094.p",
+    "ids": [
+      544
+    ],
+    "status": "RELU",
+    "sfc_jp": "フーーッ![END STRING AC]",
+    "sfc_vf_secondaire": "Hisss![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「フーーッ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ffffftⓠ\n@c0@"
+    ],
+    "original_body": "Ffffftⓠ",
+    "adaptation_body": "Ffffft!",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 48,
+        "text": "にゃん　にゃん......。[END STRING AC]"
+      },
+      {
+        "id": 49,
+        "text": "フーーッ![END STRING AC]"
+      },
+      {
+        "id": 50,
+        "text": "わん　わん![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "file": "0003.p",
+    "ids": [
+      111
+    ],
+    "status": "RELU",
+    "sfc_jp": "わん　わん![END STRING AC]",
+    "sfc_vf_secondaire": "Ouaf-ouaf![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「わん　わん！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouafⓠ Ouafⓠ\n@c0@"
+    ],
+    "original_body": "Ouafⓠ Ouafⓠ",
+    "adaptation_body": "Ouaf! Ouaf!",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 49,
+        "text": "フーーッ![END STRING AC]"
+      },
+      {
+        "id": 50,
+        "text": "わん　わん![END STRING AC]"
+      },
+      {
+        "id": 51,
+        "text": "わん　わん　わん![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "file": "0017.p",
+    "ids": [
+      9
+    ],
+    "status": "RELU",
+    "sfc_jp": "く~ん　く~ん。[END STRING AC]",
+    "sfc_vf_secondaire": "Bow-wow.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「く～ん　く～ん。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ (gémissement)\n@c0@"
+    ],
+    "original_body": "(gémissement)",
+    "adaptation_body": "(gémissement)",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 53,
+        "text": "クーン　クーン。[END STRING AC]"
+      },
+      {
+        "id": 54,
+        "text": "く~ん　く~ん。[END STRING AC]"
+      },
+      {
+        "id": 55,
+        "text": "わん　わんわん![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "file": "0083.p",
+    "ids": [
+      187
+    ],
+    "status": "RELU",
+    "sfc_jp": "ガルルル~![END STRING AC]",
+    "sfc_vf_secondaire": "Grrrr![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ガルルル～！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Grrrⓠ\n@c0@"
+    ],
+    "original_body": "Grrrⓠ",
+    "adaptation_body": "Grrr!",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 60,
+        "text": "わおーんっ![END STRING AC]"
+      },
+      {
+        "id": 61,
+        "text": "ガルルル~![END STRING AC]"
+      },
+      {
+        "id": 62,
+        "text": "わんわんわん!![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "file": "0041.p",
+    "ids": [
+      502
+    ],
+    "status": "RELU",
+    "sfc_jp": "わおーん。[END STRING AC]",
+    "sfc_vf_secondaire": "Ouaf.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「わおーん！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouafⓠ Ouafⓠ\n@c0@"
+    ],
+    "original_body": "Ouafⓠ Ouafⓠ",
+    "adaptation_body": "Hou-ou-ou...",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 62,
+        "text": "わんわんわん!![END STRING AC]"
+      },
+      {
+        "id": 63,
+        "text": "わおーん。[END STRING AC]"
+      },
+      {
+        "id": 64,
+        "text": "くーん　くーん...。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "file": "0005.p",
+    "ids": [
+      644
+    ],
+    "status": "RELU",
+    "sfc_jp": "モー　モー[END STRING AC]",
+    "sfc_vf_secondaire": "Moo moo.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「モー　モー。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Meuh... Meuh...\n@c0@"
+    ],
+    "original_body": "Meuh... Meuh...",
+    "adaptation_body": "Meuh... Meuh...",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 65,
+        "text": "うーっ　わん　わんっ![END STRING AC]"
+      },
+      {
+        "id": 66,
+        "text": "モー　モー[END STRING AC]"
+      },
+      {
+        "id": 67,
+        "text": "モーー。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "file": "0005.p",
+    "ids": [
+      644
+    ],
+    "status": "RELU",
+    "sfc_jp": "モー　モー。[END STRING AC]",
+    "sfc_vf_secondaire": "Moo moo.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「モー　モー。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Meuh... Meuh...\n@c0@"
+    ],
+    "original_body": "Meuh... Meuh...",
+    "adaptation_body": "Meuh... Meuh...",
+    "native_bindings": {},
+    "adaptation_review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri animal simple : espèce, nombre de sons et rythme japonais relus ; pas de locuteur ou de contenu narratif ajouté.",
+    "sfc_context": [
+      {
+        "id": 67,
+        "text": "モーー。[END STRING AC]"
+      },
+      {
+        "id": 68,
+        "text": "モー　モー。[END STRING AC]"
+      },
+      {
+        "id": 69,
+        "text": "モーッ　モーッ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "file": "0004.p",
+    "ids": [
+      275
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE B2]が　仲間に　くわわった![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE B2] rejoint l'équipe![END STRING AE]",
+    "ds_ja": [
+      "@a@b%a002000が　仲間に　くわわった！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a002000 rejoint %a000090ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a002000 rejoint %a000090ⓠ",
+    "adaptation_body": "%a090004 rejoint l'équipe!",
+    "native_bindings": {
+      "%a090004": 178
+    },
+    "adaptation_review": "Seul le nouvel allié B2 est nommé en SFC, pas Hassan et le héros nommés dans la variante FR DS. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Seul le nouvel allié B2 est nommé en SFC, pas Hassan et le héros nommés dans la variante FR DS.",
+    "sfc_context": [
+      {
+        "id": 23,
+        "text": "なんと　[CODE B3]が　生き返った![END STRING AE]"
+      },
+      {
+        "id": 24,
+        "text": "[CODE B2]が　仲間に　くわわった![END STRING AE]"
+      },
+      {
+        "id": 25,
+        "text": "[CODE C0]は[LINE][CODE B5]を　使った![END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "file": "0803.p",
+    "ids": [
+      265,
+      266
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　砂の器を[LINE]つかおうと　した......。[WAIT][LINE]しかし　どう　つかうのか[LINE]わからなかった![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] ne sais pas s'en servir.[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　砂の器を\nつかおうと　した……。\n@c0@",
+      "@a@bしかし　どう　つかうのか\nわからなかった！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 essaie d'utiliser l'urne de sable.\n@c0@",
+      "@a@bMais %A0010%Xil%Z%B0010%Xelle%Z%C0010%X%Z ne sait pas comment ça fonctionne...\n@c0@"
+    ],
+    "original_body": "%0%a020010 essaie d'utiliser l'urne de sable. Mais %A0010%Xil%Z%B0010%Xelle%Z%C0010%X%Z ne sait pas comment ça fonctionne...",
+    "adaptation_body": "%a090000 essaie d'utiliser l'urne de sable... Mais impossible de comprendre son fonctionnement!",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_review": "C0 une seule fois comme dans SFC ; pas de second nom ou branche de genre ajouté par DS. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "C0 une seule fois comme dans SFC ; pas de second nom ou branche de genre ajouté par DS.",
+    "sfc_context": [
+      {
+        "id": 357,
+        "text": "しかし　ここでは　なにも[LINE]おこらなかった![END STRING AC]"
+      },
+      {
+        "id": 358,
+        "text": "[CODE C0]は　砂の器を[LINE]つかおうと　した......。[WAIT][LINE]しかし　どう　つかうのか[LINE]わからなかった![END STRING AC]"
+      },
+      {
+        "id": 359,
+        "text": "[CODE CC]は　馬車にいるので[LINE]ここでは　つかえない。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 989,
+    "file": "0079.p",
+    "ids": [
+      8
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DB]まてっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DB]Wait![END STRING AC]",
+    "ds_ja": [
+      "@a@b%3まてっ！！%4\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b\n%3Halteⓠ%4\n@c0@"
+    ],
+    "original_body": "%3Halteⓠ%4",
+    "adaptation_body": "Halte!",
+    "native_bindings": {},
+    "adaptation_review": "Ordre DB bref, sans ajouter de locuteur ou importer %3/%4. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Ordre DB bref, sans ajouter de locuteur ou importer %3/%4.",
+    "sfc_context": [
+      {
+        "id": 988,
+        "text": "[CODE D4]兵士「きさまっ![END STRING AC]"
+      },
+      {
+        "id": 989,
+        "text": "[CODE DB]まてっ![END STRING AC]"
+      },
+      {
+        "id": 990,
+        "text": "[CODE D4][CODE DB]兵士長「これは　いったい[LINE]なんの　さわぎだっ!?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1260,
+    "file": "0045.p",
+    "ids": [
+      32
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D9]......![LINE]イ......イヤ......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]…![LINE]N…Non……[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「……！\n\tイ……イヤ……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ohⓠ N-nonⓠ\n@c0@"
+    ],
+    "original_body": "Ohⓠ N-nonⓠ",
+    "adaptation_body": "...! N... Non...",
+    "native_bindings": {},
+    "adaptation_review": "Hésitation et refus japonais, voix D9 conservée. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Hésitation et refus japonais, voix D9 conservée.",
+    "sfc_context": [
+      {
+        "id": 1259,
+        "text": "[CODE D3]は　どうくつのカベを[LINE]たんねんに　しらべた。[WAIT][LINE]なにやら　ボタンのような[LINE]でっぱりが　ある![LINE]おしてみますか?[END STRING AC]"
+      },
+      {
+        "id": 1260,
+        "text": "[CODE D9]......![LINE]イ......イヤ......。[END STRING AC]"
+      },
+      {
+        "id": 1261,
+        "text": "[CODE D4]ロブ「おまえ......　やっぱり[LINE]オレのあとを　つけて[LINE]いやがったんだな![WAIT][LINE][CODE D4]ロブ「おまえ......ここで　今[LINE]なにも　見なかったよな?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1480,
+    "file": "0099.p",
+    "ids": [
+      62
+    ],
+    "status": "RELU",
+    "sfc_jp": "ふにゃ。[END STRING AC]",
+    "sfc_vf_secondaire": "Hmph.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ふにゃ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Fuzzz...\n@c0@"
+    ],
+    "original_body": "Fuzzz...",
+    "adaptation_body": "Fuzzz...",
+    "native_bindings": {},
+    "adaptation_review": "Onomatopée DS, sans inventer une phrase. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Onomatopée DS, sans inventer une phrase.",
+    "sfc_context": [
+      {
+        "id": 1479,
+        "text": "もう!　姉の私を　おいて[LINE]ミネアったら　どこまで[LINE]いったのかしら?　ぷんぷんっ。[END STRING AC]"
+      },
+      {
+        "id": 1480,
+        "text": "ふにゃ。[END STRING AC]"
+      },
+      {
+        "id": 1481,
+        "text": "こまった![LINE]おかしな所に　まよいこんだ[LINE]みたいだぞ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1583,
+    "file": "0006.p",
+    "ids": [
+      67
+    ],
+    "status": "RELU",
+    "sfc_jp": "すまん![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Bien sur![WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「すまん！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Désolé, les gars.\n@c0@"
+    ],
+    "original_body": "Désolé, les gars.",
+    "adaptation_body": "Désolé!",
+    "native_bindings": {},
+    "adaptation_review": "Excuse SFC sans les gars ajoutés dans FR DS. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Excuse SFC sans les gars ajoutés dans FR DS.",
+    "sfc_context": [
+      {
+        "id": 1582,
+        "text": "ラーのカガミか......。[LINE]うーん　うーん......。[LINE]えーと　えーと......。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1583,
+        "text": "すまん![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1584,
+        "text": "ほんとうに　すまなんだ![LINE]そんな名前のカガミは[LINE]聞いたことがない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1615,
+    "file": "0006.p",
+    "ids": [
+      973
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE D9][CODE CB]「あ　はい......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9][CODE CB].Oui, grand-mêre…[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a002010「あ　はい……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002010@bAh... Oui...\n@c0@"
+    ],
+    "original_body": "Ah... Oui...",
+    "adaptation_body": "Ah, oui...",
+    "native_bindings": {},
+    "adaptation_review": "Voix D9 et locuteur CB natif, pas un autre nom. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Voix D9 et locuteur CB natif, pas un autre nom.",
+    "sfc_context": [
+      {
+        "id": 1614,
+        "text": "[CODE D4]グランマーズ「そうかい。[LINE]だったら　もう　たのまんわい。[WAIT][LINE][CODE D4]グランマーズ「[CODE CB]。[LINE]客人のお帰りだよ。[LINE]出口まで　おくっておやり。[END STRING AC]"
+      },
+      {
+        "id": 1615,
+        "text": "[CODE D4][CODE D9][CODE CB]「あ　はい......。[END STRING AC]"
+      },
+      {
+        "id": 1616,
+        "text": "[CODE D4][CODE D9][CODE CB]「じゃあ　こちらへ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1783,
+    "file": "0837.p",
+    "ids": [
+      48,
+      50
+    ],
+    "status": "RELU",
+    "sfc_jp": "では　[CODE B2]ランクの[LINE]試合を　おこないます。[WAIT][LINE]出場する　[CODE C0]さんは[LINE]選手の入場口へ　どうぞ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] is participating in rank [CODE B2].[WAIT][LINE]Proceed to the fighter<024D> entrance.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「では　%a002210ランクの\n\t試合を　おこないます。\n@c0@",
+      "@a@b＊「出場する　%a002190さんは\n\t選手の入場口へ　どうぞ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Parfaitⓠ Le prochain match est une épreuve de niveau %a002210.\n@c0@",
+      "@a@b*ⓢ %0%a002190, il faut passer par l'entrée des combattantsⓠ\n@c0@"
+    ],
+    "original_body": "Parfaitⓠ Le prochain match est une épreuve de niveau %a002210. %0%a002190, il faut passer par l'entrée des combattantsⓠ",
+    "adaptation_body": "Le prochain match est de rang %a090004. %a090000, passez par l’entrée des combattants!",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090004": 178
+    },
+    "adaptation_review": "Rang B2 puis participant C0 ; pas inversion ni remplacement du participant par le héros. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Rang B2 puis participant C0 ; pas inversion ni remplacement du participant par le héros.",
+    "sfc_context": [
+      {
+        "id": 1782,
+        "text": "参加料　[CODE BB]ゴールド[LINE]いただきます。[END STRING AC]"
+      },
+      {
+        "id": 1783,
+        "text": "では　[CODE B2]ランクの[LINE]試合を　おこないます。[WAIT][LINE]出場する　[CODE C0]さんは[LINE]選手の入場口へ　どうぞ![END STRING AC]"
+      },
+      {
+        "id": 1784,
+        "text": "では　1回戦目の[LINE]バトルスタート![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2061,
+    "file": "0086.p",
+    "ids": [
+      538
+    ],
+    "status": "RELU",
+    "sfc_jp": "うげっ![END STRING AC]",
+    "sfc_vf_secondaire": "Ungh![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「うげっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ahⓠ\n@c0@"
+    ],
+    "original_body": "Ahⓠ",
+    "adaptation_body": "Beurk!",
+    "native_bindings": {},
+    "adaptation_review": "うげっ exprime le dégoût ; exclamation sans nouvelle action. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "うげっ exprime le dégoût ; exclamation sans nouvelle action.",
+    "sfc_context": [
+      {
+        "id": 2060,
+        "text": "宝は　ボクの物だ![LINE]じいさんは　すっこんでろ![LINE]えいっ![END STRING AC]"
+      },
+      {
+        "id": 2061,
+        "text": "うげっ![END STRING AC]"
+      },
+      {
+        "id": 2062,
+        "text": "な　なにを　するんですっ!?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2149,
+    "file": "0091.p",
+    "ids": [
+      30
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DB]やれっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DB]Do it![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「やれっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Qu'on l'exécuteⓠ\n@c0@"
+    ],
+    "original_body": "Qu'on l'exécuteⓠ",
+    "adaptation_body": "Exécutez-le!",
+    "native_bindings": {},
+    "adaptation_review": "Ordre DB confirmé par le contexte SFC 2147–2151 : menace contre le frère du grand Penseur, comme DS. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Ordre DB confirmé par le contexte SFC 2147–2151 : menace contre le frère du grand Penseur, comme DS.",
+    "sfc_context": [
+      {
+        "id": 2148,
+        "text": "[CODE D4]マサール「うう......[END STRING AC]"
+      },
+      {
+        "id": 2149,
+        "text": "[CODE DB]やれっ![END STRING AC]"
+      },
+      {
+        "id": 2150,
+        "text": "[CODE D4]マサール「ま　まってくれ![LINE]も　もう......　わ　わかった...[WAIT][LINE][CODE D4]マサール「お前たち　魔族に[LINE]忠誠を　ちかおう。だ　だから...[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2152,
+    "file": "0091.p",
+    "ids": [
+      34
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DB]むむっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DB]What!?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「むむっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Grrrr...\n@c0@"
+    ],
+    "original_body": "Grrrr...",
+    "adaptation_body": "Grrrr...",
+    "native_bindings": {},
+    "adaptation_review": "Réaction DB après l’interruption de la menace, ponctuation et voix conservées. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Réaction DB après l’interruption de la menace, ponctuation et voix conservées.",
+    "sfc_context": [
+      {
+        "id": 2151,
+        "text": "[CODE D4]クリムト「だまされては　いけません![LINE]兄上!　私は　ここに　います![END STRING AC]"
+      },
+      {
+        "id": 2152,
+        "text": "[CODE DB]むむっ![END STRING AC]"
+      },
+      {
+        "id": 2153,
+        "text": "[CODE D4]クリムト「兄上......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2338,
+    "file": "0080.p",
+    "ids": [
+      52
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE CA]「見ろよ![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D4][CODE CA].Regardez![END STRING AE]",
+    "ds_ja": [
+      "@a@b%a002000「見ろよ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002000@bRegardeⓠ\n@c0@"
+    ],
+    "original_body": "Regardeⓠ",
+    "adaptation_body": "Regarde!",
+    "native_bindings": {},
+    "adaptation_review": "Même invitation simple DS ; les locuteurs SFC CA et CD restent distincts, sans les remplacer par le locuteur DS. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Même invitation simple DS ; les locuteurs SFC CA et CD restent distincts, sans les remplacer par le locuteur DS.",
+    "sfc_context": [
+      {
+        "id": 2337,
+        "text": "[CODE D4][CODE D9][CODE CC]「みて![END STRING AE]"
+      },
+      {
+        "id": 2338,
+        "text": "[CODE D4][CODE CA]「見ろよ![END STRING AE]"
+      },
+      {
+        "id": 2339,
+        "text": "[CODE D4][CODE CE]「見てください![END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 2340,
+    "file": "0080.p",
+    "ids": [
+      52
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE CD]「見ろよ![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D4][CODE CD].Regardez![END STRING AE]",
+    "ds_ja": [
+      "@a@b%a002000「見ろよ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002000@bRegardeⓠ\n@c0@"
+    ],
+    "original_body": "Regardeⓠ",
+    "adaptation_body": "Regarde!",
+    "native_bindings": {},
+    "adaptation_review": "Même invitation simple DS ; les locuteurs SFC CA et CD restent distincts, sans les remplacer par le locuteur DS. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Même invitation simple DS ; les locuteurs SFC CA et CD restent distincts, sans les remplacer par le locuteur DS.",
+    "sfc_context": [
+      {
+        "id": 2339,
+        "text": "[CODE D4][CODE CE]「見てください![END STRING AE]"
+      },
+      {
+        "id": 2340,
+        "text": "[CODE D4][CODE CD]「見ろよ![END STRING AE]"
+      },
+      {
+        "id": 2341,
+        "text": "なんと　ファルシオンに　かけた[LINE]たづなが　ひかりかがやいている![WAIT][LINE][CODE D3]は　天馬のたづなを[LINE]手に入れたっ![END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 2390,
+    "file": "0050.p",
+    "ids": [
+      3
+    ],
+    "status": "RELU",
+    "sfc_jp": "うふふ。[END STRING AC]",
+    "sfc_vf_secondaire": "Hmph.[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「うふふ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Hé hé héⓠ\n@c0@"
+    ],
+    "original_body": "Hé hé héⓠ",
+    "adaptation_body": "Hé hé hé.",
+    "native_bindings": {},
+    "adaptation_review": "Rire discret SFC et français DS, sans locuteur nommé. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Rire discret SFC et français DS, sans locuteur nommé.",
+    "sfc_context": [
+      {
+        "id": 2389,
+        "text": "海の悪魔を　やっつけてくれて[LINE]ありがとう。[WAIT][LINE]でも　海の底には　私たちでも[LINE]知らないことが　まだまだ[LINE]いっぱい　あるの。[WAIT][LINE]気をつけて　旅をつづけてね。[END STRING AC]"
+      },
+      {
+        "id": 2390,
+        "text": "うふふ。[END STRING AC]"
+      },
+      {
+        "id": 2391,
+        "text": "どう　海の中は?[LINE]ここが　私たちの世界なのよ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2763,
+    "file": "0063.p",
+    "ids": [
+      509
+    ],
+    "status": "RELU",
+    "sfc_jp": "キキー![END STRING AC]",
+    "sfc_vf_secondaire": "Grrrr![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「キキー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ahⓠ\n@c0@"
+    ],
+    "original_body": "Ahⓠ",
+    "adaptation_body": "Hii!",
+    "native_bindings": {},
+    "adaptation_review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté.",
+    "sfc_context": [
+      {
+        "id": 2762,
+        "text": "この魔物と　戦いますか?[END STRING AC]"
+      },
+      {
+        "id": 2763,
+        "text": "キキー![END STRING AC]"
+      },
+      {
+        "id": 2764,
+        "text": "[CODE D4]ランド「うりゃ!　とう![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2767,
+    "file": "0063.p",
+    "ids": [
+      509
+    ],
+    "status": "RELU",
+    "sfc_jp": "キキー![END STRING AC]",
+    "sfc_vf_secondaire": "*grrrr*![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「キキー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ahⓠ\n@c0@"
+    ],
+    "original_body": "Ahⓠ",
+    "adaptation_body": "Hii!",
+    "native_bindings": {},
+    "adaptation_review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté.",
+    "sfc_context": [
+      {
+        "id": 2766,
+        "text": "キキキー　死ねー![WAIT][END STRING AC]"
+      },
+      {
+        "id": 2767,
+        "text": "キキー![END STRING AC]"
+      },
+      {
+        "id": 2768,
+        "text": "[CODE D4]ランド「ハアハア......。[LINE]オレは　だいじょうぶだ......。[LINE]それより　ターニアを。ハアハア。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2777,
+    "file": "0063.p",
+    "ids": [
+      509
+    ],
+    "status": "RELU",
+    "sfc_jp": "キキー![END STRING AC]",
+    "sfc_vf_secondaire": "*grrrr*[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「キキー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ahⓠ\n@c0@"
+    ],
+    "original_body": "Ahⓠ",
+    "adaptation_body": "Hii!",
+    "native_bindings": {},
+    "adaptation_review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté.",
+    "sfc_context": [
+      {
+        "id": 2776,
+        "text": "キキー![LINE]ころせー!　もやせー![WAIT][END STRING AC]"
+      },
+      {
+        "id": 2777,
+        "text": "キキー![END STRING AC]"
+      },
+      {
+        "id": 2778,
+        "text": "てめえ　この!　ブキヤを[LINE]ナメんじゃ　ねえぜ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2781,
+    "file": "0063.p",
+    "ids": [
+      509
+    ],
+    "status": "RELU",
+    "sfc_jp": "キキー![END STRING AC]",
+    "sfc_vf_secondaire": "*grrrr*[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「キキー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ahⓠ\n@c0@"
+    ],
+    "original_body": "Ahⓠ",
+    "adaptation_body": "Hii!",
+    "native_bindings": {},
+    "adaptation_review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté.",
+    "sfc_context": [
+      {
+        "id": 2780,
+        "text": "ひいー　魔物　こわいよー![END STRING AC]"
+      },
+      {
+        "id": 2781,
+        "text": "キキー![END STRING AC]"
+      },
+      {
+        "id": 2782,
+        "text": "ぐう　ぐう......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2784,
+    "file": "0063.p",
+    "ids": [
+      509
+    ],
+    "status": "RELU",
+    "sfc_jp": "キキー![END STRING AC]",
+    "sfc_vf_secondaire": "*grrrr*[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「キキー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ahⓠ\n@c0@"
+    ],
+    "original_body": "Ahⓠ",
+    "adaptation_body": "Hii!",
+    "native_bindings": {},
+    "adaptation_review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté.",
+    "sfc_context": [
+      {
+        "id": 2783,
+        "text": "ケケケ　死ねー![WAIT][END STRING AC]"
+      },
+      {
+        "id": 2784,
+        "text": "キキー![END STRING AC]"
+      },
+      {
+        "id": 2785,
+        "text": "ケッ　来年のまつりを見るまで[LINE]死ねるかってんだよ　べらぼーめ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2790,
+    "file": "0063.p",
+    "ids": [
+      509
+    ],
+    "status": "RELU",
+    "sfc_jp": "キキー![END STRING AC]",
+    "sfc_vf_secondaire": "*grrrr*[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「キキー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ahⓠ\n@c0@"
+    ],
+    "original_body": "Ahⓠ",
+    "adaptation_body": "Hii!",
+    "native_bindings": {},
+    "adaptation_review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté.",
+    "sfc_context": [
+      {
+        "id": 2789,
+        "text": "キキー![LINE]ころせー!　もやせー![WAIT][END STRING AC]"
+      },
+      {
+        "id": 2790,
+        "text": "キキー![END STRING AC]"
+      },
+      {
+        "id": 2791,
+        "text": "おらの牛にゃあ　ユビいっぽん[LINE]さわらせねえだよ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2794,
+    "file": "0063.p",
+    "ids": [
+      509
+    ],
+    "status": "RELU",
+    "sfc_jp": "キキー![END STRING AC]",
+    "sfc_vf_secondaire": "*grrrr*![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「キキー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ahⓠ\n@c0@"
+    ],
+    "original_body": "Ahⓠ",
+    "adaptation_body": "Hii!",
+    "native_bindings": {},
+    "adaptation_review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri キキー des monstres, pas un nouvel ordre ou rire ajouté.",
+    "sfc_context": [
+      {
+        "id": 2793,
+        "text": "ケケケ　死ねー![WAIT][END STRING AC]"
+      },
+      {
+        "id": 2794,
+        "text": "キキー![END STRING AC]"
+      },
+      {
+        "id": 2795,
+        "text": "おりゃ　クワこうげき![LINE]カマこうげき!![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2821,
+    "file": "0063.p",
+    "ids": [
+      567
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DB]ケケケ　死ねー![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DB]Meuurs![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ケケケ　死ねー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ha haⓠ %H0860%XPrépare-toi%YPréparez-vous%Z à mourirⓠ\n@c0@"
+    ],
+    "original_body": "Ha haⓠ %H0860%XPrépare-toi%YPréparez-vous%Z à mourirⓠ",
+    "adaptation_body": "Ha ha! Crevez!",
+    "native_bindings": {},
+    "adaptation_review": "Rire hostile et injonction de mort SFC, voix DB conservée ; aucune condition de nombre DS non résolue. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Rire hostile et injonction de mort SFC, voix DB conservée ; aucune condition de nombre DS non résolue.",
+    "sfc_context": [
+      {
+        "id": 2820,
+        "text": "[CODE DB]では　そこで　見てるがいい。[LINE]もう　ひとりの自分が[LINE]どれほどの　ちからかをな。[END STRING AC]"
+      },
+      {
+        "id": 2821,
+        "text": "[CODE DB]ケケケ　死ねー![END STRING AC]"
+      },
+      {
+        "id": 2822,
+        "text": "[CODE DB]な...　なぜだ......[LINE]お前は　夢のなかの存在のはず。[LINE]そのお前に　やぶれるとは......。[WAIT][LINE][CODE DB]ガハッ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3228,
+    "file": "0006.p",
+    "ids": [
+      368
+    ],
+    "status": "RELU",
+    "sfc_jp": "あれっ?[END STRING AC]",
+    "sfc_vf_secondaire": "Hein?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「あれっ？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Heinⓡ\n@c0@"
+    ],
+    "original_body": "Heinⓡ",
+    "adaptation_body": "Hein?",
+    "native_bindings": {},
+    "adaptation_review": "Surprise brève, sans importer un récit ou un locuteur DS. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Surprise brève, sans importer un récit ou un locuteur DS.",
+    "sfc_context": [
+      {
+        "id": 3227,
+        "text": "あ~ん　返してよう![LINE]あたしのリボン![END STRING AC]"
+      },
+      {
+        "id": 3228,
+        "text": "あれっ?[END STRING AC]"
+      },
+      {
+        "id": 3229,
+        "text": "ラッキー![LINE]50ゴールド　みっけ!![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3305,
+    "file": "0006.p",
+    "ids": [
+      481
+    ],
+    "status": "RELU",
+    "sfc_jp": "はいっ!......。[END STRING AC]",
+    "sfc_vf_secondaire": "Oui?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「はいっ！……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Que puis-je... Heinⓡⓐ\n@c0@"
+    ],
+    "original_body": "Que puis-je... Heinⓡⓐ",
+    "adaptation_body": "Oui...!",
+    "native_bindings": {},
+    "adaptation_review": "Réponse japonaise affirmative, pas la question ajoutée dans FR DS. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Réponse japonaise affirmative, pas la question ajoutée dans FR DS.",
+    "sfc_context": [
+      {
+        "id": 3304,
+        "text": "や　やったーっ!![LINE]ダブルアップで[LINE]10000コインだあー![WAIT][LINE]ぐう　ぐう......。[END STRING AC]"
+      },
+      {
+        "id": 3305,
+        "text": "はいっ!......。[END STRING AC]"
+      },
+      {
+        "id": 3306,
+        "text": "あれっ?　気のせいか......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3365,
+    "file": "0007.p",
+    "ids": [
+      421
+    ],
+    "status": "RELU",
+    "sfc_jp": "ふーん......。[END STRING AC]",
+    "sfc_vf_secondaire": "Bien…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ふーん……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ouahⓠ Euh, attendez... Comment savoir que vous me mentez pas, làⓡ\n@c0@"
+    ],
+    "original_body": "Ouahⓠ Euh, attendez... Comment savoir que vous me mentez pas, làⓡ",
+    "adaptation_body": "Mmm...",
+    "native_bindings": {},
+    "adaptation_review": "Réaction brève SFC ; retire le soupçon de mensonge ajouté en FR DS. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Réaction brève SFC ; retire le soupçon de mensonge ajouté en FR DS.",
+    "sfc_context": [
+      {
+        "id": 3364,
+        "text": "ウソをついたり　かくし事を[LINE]したりすると　ラーのカガミに[LINE]見られちゃうんだってさ。[WAIT][LINE]おばあちゃんが　いってたよ。[END STRING AC]"
+      },
+      {
+        "id": 3365,
+        "text": "ふーん......。[END STRING AC]"
+      },
+      {
+        "id": 3366,
+        "text": "ラーのカガミは[LINE]むかし　大地の女神さまが[LINE]おつくりになったそうじゃよ。[WAIT][LINE]この世界の　どこかにあると[LINE]いわれてるが　くわしい場所までは[LINE]わからんのう。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3511,
+    "file": "0016.p",
+    "ids": [
+      104
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D9]でも　[CODE CA]......。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]Mais [CODE CA]…[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「でも　%a002000……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Mais %a002000...\n@c0@"
+    ],
+    "original_body": "Mais %a002000...",
+    "adaptation_body": "Mais %a002000...",
+    "native_bindings": {},
+    "adaptation_review": "CA est nommé une seule fois, voix D9 et attente natives conservées. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "CA est nommé une seule fois, voix D9 et attente natives conservées.",
+    "sfc_context": [
+      {
+        "id": 3510,
+        "text": "[CODE D4][CODE CA]「いいんだ　おふくろ。[LINE]親父が　怒ってるのも　ムリない。[LINE]家を出たのは　本当だしな。[END STRING AC]"
+      },
+      {
+        "id": 3511,
+        "text": "[CODE D9]でも　[CODE CA]......。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 3512,
+        "text": "[CODE D4][CODE CA]「それに　オレは　まだ[LINE]この家には　もどれない。[LINE]やることが　残ってるんだ。[WAIT][LINE][CODE D4][CODE CA]「ごめんよ　おふくろ......。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4045,
+    "file": "0014.p",
+    "ids": [
+      994
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE D9][CODE CB]「きゃっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE CE].Ahhhh![END STRING AC]",
+    "ds_ja": [
+      "@a@b%a002010「きゃっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002010@bAaaghⓠ\n@c0@"
+    ],
+    "original_body": "Aaaghⓠ",
+    "adaptation_body": "Aaagh!",
+    "native_bindings": {},
+    "adaptation_review": "Cri de CB, avec voix D9 native. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri de CB, avec voix D9 native.",
+    "sfc_context": [
+      {
+        "id": 4044,
+        "text": "[CODE D4][CODE CA]「よし　いくぞ![END STRING AC]"
+      },
+      {
+        "id": 4045,
+        "text": "[CODE D4][CODE D9][CODE CB]「きゃっ![END STRING AC]"
+      },
+      {
+        "id": 4046,
+        "text": "[CODE D4][CODE CE]「うわっ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4046,
+    "file": "0012.p",
+    "ids": [
+      221
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE CE]「うわっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE CA].Nooonnn… C'est comme la derniêre fois…![END STRING AC]",
+    "ds_ja": [
+      "@a@bソルディ「うわっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aCapitaine Croisefer@bAghhⓠ\n@c0@"
+    ],
+    "original_body": "Aghhⓠ",
+    "adaptation_body": "Aghh!",
+    "native_bindings": {},
+    "adaptation_review": "Cri de CE, locuteur natif conservé. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri de CE, locuteur natif conservé.",
+    "sfc_context": [
+      {
+        "id": 4045,
+        "text": "[CODE D4][CODE D9][CODE CB]「きゃっ![END STRING AC]"
+      },
+      {
+        "id": 4046,
+        "text": "[CODE D4][CODE CE]「うわっ![END STRING AC]"
+      },
+      {
+        "id": 4047,
+        "text": "[CODE D4][CODE CA]「だ　だめだ......![LINE]これじゃ　あのときのように......![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4527,
+    "file": "0008.p",
+    "ids": [
+      614
+    ],
+    "status": "RELU",
+    "sfc_jp": "ややっ!?[END STRING AC]",
+    "sfc_vf_secondaire": "Huff, huff, huff…[LINE]Oh, mon prince! Vous allez bien![WAIT][LINE]Je suis le général Tom. Je savais que vous reviendriez en vie.[WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ややっ！？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Est-ce... Est-ce possibleⓡ\n@c0@"
+    ],
+    "original_body": "Est-ce... Est-ce possibleⓡ",
+    "adaptation_body": "Quoi!?",
+    "native_bindings": {},
+    "adaptation_review": "Surprise japonaise et lexique DS, sans ajouter un fait. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Surprise japonaise et lexique DS, sans ajouter un fait.",
+    "sfc_context": [
+      {
+        "id": 4526,
+        "text": "おかえりなさいませ　王子さま![END STRING AC]"
+      },
+      {
+        "id": 4527,
+        "text": "ややっ!?[END STRING AC]"
+      },
+      {
+        "id": 4528,
+        "text": "はあ　はあ......。[LINE]お　王子さま![LINE]よくぞ　ご無事で![WAIT][LINE]この兵士長のトムめは[LINE]王子は　かならず生きていると[LINE]信じておりましたぞ![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5156,
+    "file": "0027.p",
+    "ids": [
+      559
+    ],
+    "status": "RELU",
+    "sfc_jp": "ははっ![END STRING AC]",
+    "sfc_vf_secondaire": "  Cette nuit, une grande[LINE] célébration eu lieu pour[LINE]     le prince Holse…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ははっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ T-tout de suite, Votre Majestéⓠ\n@c0@"
+    ],
+    "original_body": "T-tout de suite, Votre Majestéⓠ",
+    "adaptation_body": "À vos ordres!",
+    "native_bindings": {},
+    "adaptation_review": "Réponse au roi Horten, qui vient de demander les préparatifs du banquet en 5155 ; pas nouveau locuteur nommé. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Réponse au roi Horten, qui vient de demander les préparatifs du banquet en 5155 ; pas nouveau locuteur nommé.",
+    "sfc_context": [
+      {
+        "id": 5155,
+        "text": "[CODE D4]ホルテン「とにかく　うたげだ![LINE]うたげを　ひらくぞ![WAIT][LINE][CODE D4]ホルテン「[CODE D3]!　そなたたちも[LINE]ぞんぶんに　楽しんでいってくれ![WAIT][LINE][CODE D4]ホルテン「さあ　大臣!　兵士たち![LINE]うたげのしたくだ![END STRING AC]"
+      },
+      {
+        "id": 5156,
+        "text": "ははっ![END STRING AC]"
+      },
+      {
+        "id": 5157,
+        "text": "　　　　　　　その夜　盛大な　うたげが[LINE]　　　　ホルス王子のため　ひらかれた......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5281,
+    "file": "0092.p",
+    "ids": [
+      580
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C9]!　[CODE C9]![LINE]私の声が　聞こえるかっ!?[LINE]私だ　マサールだっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Masarl.Vite, sortons d'ici! Ce monde s'écroule![END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a000120！　%a000120！\n\t私の声が　聞こえるかっ！？\n\t私だ　マサールだっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a000120ⓠ %0%a000120, vous m'entendezⓡ C'est moi, Pascalⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000120ⓠ %0%a000120, vous m'entendezⓡ C'est moi, Pascalⓠ",
+    "adaptation_body": "%a090006! %a090006! Vous m'entendez? C'est moi, Pascal!",
+    "native_bindings": {
+      "%a090006": 201
+    },
+    "adaptation_review": "Deux C9 conservés, Pascal est le nom français DS de Masarl ; le D3 DS n’est pas introduit. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Deux C9 conservés, Pascal est le nom français DS de Masarl ; le D3 DS n’est pas introduit.",
+    "sfc_context": [
+      {
+        "id": 5280,
+        "text": "[CODE D4][CODE DB]ムーア「グギギギ......　な　なぜだ......[LINE]この私が　こんな虫ケラどもに[LINE]やぶれてしまうとは......[WAIT][LINE][CODE D4][CODE DB]ムーア「い　いしきが　うすれてゆく...[LINE]私の　私の世界が......　くずれ......[LINE]　　　　　　　　　　　ぐはっ!![END STRING AC]"
+      },
+      {
+        "id": 5281,
+        "text": "[CODE C9]!　[CODE C9]![LINE]私の声が　聞こえるかっ!?[LINE]私だ　マサールだっ![END STRING AC]"
+      },
+      {
+        "id": 5282,
+        "text": "[CODE D4]マサール「いそいで　そこを脱出しろ![LINE]なぜだか　わからぬが　この世界が[LINE]くずれおちようと　しているのだ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5622,
+    "file": "0079.p",
+    "ids": [
+      8
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE DB]　　　　　　　　　　　　　　　まてっ!![END STRING AC]",
+    "sfc_vf_secondaire": "Kii!?[END STRING AC]",
+    "ds_ja": [
+      "@a@b%3まてっ！！%4\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b\n%3Halteⓠ%4\n@c0@"
+    ],
+    "original_body": "%3Halteⓠ%4",
+    "adaptation_body": "Halte!!",
+    "native_bindings": {},
+    "adaptation_review": "D4/DB natifs, locuteur non révélé dans SFC ; marqueurs de typographie DS retirés. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "D4/DB natifs, locuteur non révélé dans SFC ; marqueurs de typographie DS retirés.",
+    "sfc_context": [
+      {
+        "id": 5621,
+        "text": "キキーッ!![END STRING AC]"
+      },
+      {
+        "id": 5622,
+        "text": "[CODE D4][CODE DB]　　　　　　　　　　　　　　　まてっ!![END STRING AC]"
+      },
+      {
+        "id": 5623,
+        "text": "キッ　キキーッ!?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5662,
+    "file": "0014.p",
+    "ids": [
+      969
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE D9][CODE CB]「まって![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9][CODE CB].Attend STP…[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a002010「待って！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002010@b%0%a000090ⓠ Attendsⓠ\n@c0@"
+    ],
+    "original_body": "%0%a000090ⓠ Attendsⓠ",
+    "adaptation_body": "Attends!",
+    "native_bindings": {},
+    "adaptation_review": "CB parle, le nom du héros ajouté en FR DS est retiré car absent du corps SFC. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "CB parle, le nom du héros ajouté en FR DS est retiré car absent du corps SFC.",
+    "sfc_context": [
+      {
+        "id": 5661,
+        "text": "[CODE D4]テリー「うくっ......くそっ![LINE]いつだって　こうだ。[WAIT][LINE][CODE D4]テリー「こっちが　助けてほしいときは[LINE]だれも　助けてくれないくせに　なぜ[LINE]オレのやる事は　ジャマばかりする![WAIT][LINE][CODE D4]テリー「オレは　強くなりたかった![LINE]強くなれるなら　相手が魔物だろうが[LINE]なんだろうが　かまわなかったんだ![WAIT][LINE][CODE D4]テリー「さあ　殺せ!　殺すがいい![LINE]生かしておいたら　オレは　きっと[LINE]あんたらを　殺すことになる。[WAIT][LINE][CODE D4]テリー「いまのうちに　息の根を[LINE]止めておくのが　賢明ってもんだぜ。[LINE]さあ　ひと思いに　殺してくれ![END STRING AC]"
+      },
+      {
+        "id": 5662,
+        "text": "[CODE D4][CODE D9][CODE CB]「まって![END STRING AC]"
+      },
+      {
+        "id": 5663,
+        "text": "[CODE D4][CODE D9][CODE CB]「おねがい　まって...。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5776,
+    "file": "0801.p",
+    "ids": [
+      180
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B2]を　となえた![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] lance [CODE B2]![END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は\n%a000170を　となえた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 lance le sort %a000170ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a020010 lance le sort %a000170ⓠ",
+    "adaptation_body": "%a090000 lance le sort %a090004!",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090004": 178
+    },
+    "adaptation_review": "C0 et nom de sort B2 explicites ; suffixes d’attente distincts conservés. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "C0 et nom de sort B2 explicites ; suffixes d’attente distincts conservés.",
+    "sfc_context": [
+      {
+        "id": 5775,
+        "text": "[END STRING AC]"
+      },
+      {
+        "id": 5776,
+        "text": "[CODE C0]は　[CODE B2]を　となえた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5777,
+        "text": "[CODE C0]は　[CODE B2]を　となえた![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5777,
+    "file": "0801.p",
+    "ids": [
+      180
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　[CODE B2]を　となえた![END STRING AC]",
+    "sfc_vf_secondaire": "5778<0559>[CODE C0][LINE][WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は\n%a000170を　となえた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020010 lance le sort %a000170ⓠ\n@c0@"
+    ],
+    "original_body": "%0%a020010 lance le sort %a000170ⓠ",
+    "adaptation_body": "%a090000 lance le sort %a090004!",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090004": 178
+    },
+    "adaptation_review": "C0 et nom de sort B2 explicites ; suffixes d’attente distincts conservés. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "C0 et nom de sort B2 explicites ; suffixes d’attente distincts conservés.",
+    "sfc_context": [
+      {
+        "id": 5776,
+        "text": "[CODE C0]は　[CODE B2]を　となえた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5777,
+        "text": "[CODE C0]は　[CODE B2]を　となえた![END STRING AC]"
+      },
+      {
+        "id": 5778,
+        "text": "[CODE C0]は　目をこらして[LINE]世界をながめた![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5783,
+    "file": "0803.p",
+    "ids": [
+      145
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は　しのびあしで[LINE]あるきだした。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0] siffle![WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は　しのびあしで\nあるきだした。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%H0860%X%0%a020010 commence à se déplacer aussi furtivement %A0010%Xqu'un voleur%Z%B0010%Xqu'une voleuse%Z%C0010%X%Z%YLes membres de l'équipe commencent à se déplacer aussi furtivement que des voleurs%Z.\n@c0@"
+    ],
+    "original_body": "%H0860%X%0%a020010 commence à se déplacer aussi furtivement %A0010%Xqu'un voleur%Z%B0010%Xqu'une voleuse%Z%C0010%X%Z%YLes membres de l'équipe commencent à se déplacer aussi furtivement que des voleurs%Z.",
+    "adaptation_body": "%a090000 avance à pas feutrés.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_review": "Un seul C0 SFC, pas branche DS sur toute l’équipe ou genre du voleur. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Un seul C0 SFC, pas branche DS sur toute l’équipe ou genre du voleur.",
+    "sfc_context": [
+      {
+        "id": 5782,
+        "text": "[CODE C0]は　おおごえを　あげた![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5783,
+        "text": "[CODE C0]は　しのびあしで[LINE]あるきだした。[END STRING AC]"
+      },
+      {
+        "id": 5784,
+        "text": "[CODE C0]は　くちぶえをふいた![WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5804,
+    "file": "0803.p",
+    "ids": [
+      188
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE C0]は[LINE]天井に　頭をぶつけた![END STRING AC]",
+    "sfc_vf_secondaire": "5805<0559>[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a000010は\n天井に　頭をぶつけた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%H0860%X%0%a020010 se cogne la tête%YLes membres de l'équipe se cognent la tête%Z au plafondⓠ\n@c0@"
+    ],
+    "original_body": "%H0860%X%0%a020010 se cogne la tête%YLes membres de l'équipe se cognent la tête%Z au plafondⓠ",
+    "adaptation_body": "%a090000 se cogne la tête au plafond!",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_review": "C0 singulier SFC conservé, pas substitution par tout le groupe. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "C0 singulier SFC conservé, pas substitution par tout le groupe.",
+    "sfc_context": [
+      {
+        "id": 5803,
+        "text": "[CODE C1]の　しびれが　消えた![END STRING AE]"
+      },
+      {
+        "id": 5804,
+        "text": "[CODE C0]は[LINE]天井に　頭をぶつけた![END STRING AC]"
+      },
+      {
+        "id": 5805,
+        "text": "チャモロが　いないので[LINE]そこには　とんでゆけない![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6411,
+    "file": "0831.p",
+    "ids": [
+      8
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE][CODE B2]じゃな?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE B2]?[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「%a002160　じゃな？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%A0180%X%a002161%Z%B0180%X%a002162%Z%C0180%X%Z, c'est çaⓡ\n@c0@"
+    ],
+    "original_body": "%0%A0180%X%a002161%Z%B0180%X%a002162%Z%C0180%X%Z, c'est çaⓡ",
+    "adaptation_body": "%a090004, c'est bien ça?",
+    "native_bindings": {
+      "%a090004": 178
+    },
+    "adaptation_review": "Nom de vocation B2, formulation sans branche de genre DS ; DE conservé. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Nom de vocation B2, formulation sans branche de genre DS ; DE conservé.",
+    "sfc_context": [
+      {
+        "id": 6410,
+        "text": "[CODE DE][CODE C0]が　今　なれるのは[LINE]これだけじゃ。[LINE]どれを　おのぞみか?[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6411,
+        "text": "[CODE DE][CODE B2]じゃな?[END STRING AC]"
+      },
+      {
+        "id": 6412,
+        "text": "[CODE DE]うん?　しかし　[CODE C0]は[LINE]もう　それに　なっているぞ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6414,
+    "file": "0831.p",
+    "ids": [
+      36
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]これで　[CODE C0]は[LINE]本来の　[CODE C0]となった。[WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "6414<0559>[CODE C0][LINE][CODE C0][WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「これで　%a000180は\n\t本来の　%a000180となった。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ %0%a000180 est désormais de nouveau %A0180%Xmaître%Z%B0180%Xmaîtresse%Z%C0180%X%Z de sa propre voie.\n@c0@"
+    ],
+    "original_body": "%0%a000180 est désormais de nouveau %A0180%Xmaître%Z%B0180%Xmaîtresse%Z%C0180%X%Z de sa propre voie.",
+    "adaptation_body": "%a090000 redevient %a090000.",
+    "native_bindings": {
+      "%a090000": 192
+    },
+    "adaptation_review": "Les deux C0 sont conservés, comme le japonais, sans figer une vocation ou ajouter un nouveau nom ; DE/D5. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Les deux C0 sont conservés, comme le japonais, sans figer une vocation ou ajouter un nouveau nom ; DE/D5.",
+    "sfc_context": [
+      {
+        "id": 6413,
+        "text": "[CODE DE]ほほう　おのれ自身に[LINE]もどりたいと申すか?[LINE]それも　よかろう![WAIT][LINE]おのれを　ありのままに[LINE]生きるのも　また[LINE]大切なことじゃ。[WAIT][LINE]おお　この世の　すべての命を[LINE]つかさどる神よ!　[CODE C0]に[LINE]おのれの人生を　歩ませたまえ![WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6414,
+        "text": "[CODE DE]これで　[CODE C0]は[LINE]本来の　[CODE C0]となった。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6415,
+        "text": "[CODE DE]しかし　[CODE C0]は[LINE][CODE B2]　として[LINE]じゅうぶんに　修業をつんだ。[WAIT][LINE]これ以上　おぼえることは[LINE]ないであろう。[WAIT][LINE]それでも[LINE][CODE B2]　として[LINE]生きてゆきたいと申すか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6416,
+    "file": "0831.p",
+    "ids": [
+      18,
+      20
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DE]それでは　[CODE C0]よ[LINE][CODE B2]の[LINE]気持ちになって　祈りなさい。[WAIT][LINE]おお　この世の　すべての命を[LINE]つかさどる神よ!　[CODE C0]に[LINE]新たな人生を　歩ませたまえ![WAIT][CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C0], Je vous confêre la classe de [CODE B2]![WAIT][CODE D5][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「それでは　%a000180よ\n\t%a002160　の\n\t気持ちになって　祈りなさい。\n@c0@",
+      "@a@b＊「おお　この世の　すべての命を\n\tつかさどる神よ！　%a000180に\n\t新たな人生を　歩ませたまえ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Très bien. Alors, fermez les yeux, %a000180, et visualisez la vocation %A0180%X%a002161%Z%B0180%X%a002162%Z%C0180%X%Z.\n@c0@",
+      "@a@b*ⓢ Ô grande Déesse, notre bergère qui nous guide tousⓠ Conduis %a000180 vers une nouvelle voieⓠ\n@c0@"
+    ],
+    "original_body": "Très bien. Alors, fermez les yeux, %a000180, et visualisez la vocation %A0180%X%a002161%Z%B0180%X%a002162%Z%C0180%X%Z. Ô grande Déesse, notre bergère qui nous guide tousⓠ Conduis %a000180 vers une nouvelle voieⓠ",
+    "adaptation_body": "%a090000, priez dans la voie %a090004. Ô Déesse de toute vie! Guidez %a090000 vers une nouvelle vie!",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090004": 178
+    },
+    "adaptation_review": "Deux C0 encadrent B2, ordre et répétitions conservés ; prière SFC complète, DE/D5 conservés. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Deux C0 encadrent B2, ordre et répétitions conservés ; prière SFC complète, DE/D5 conservés.",
+    "sfc_context": [
+      {
+        "id": 6415,
+        "text": "[CODE DE]しかし　[CODE C0]は[LINE][CODE B2]　として[LINE]じゅうぶんに　修業をつんだ。[WAIT][LINE]これ以上　おぼえることは[LINE]ないであろう。[WAIT][LINE]それでも[LINE][CODE B2]　として[LINE]生きてゆきたいと申すか?[END STRING AC]"
+      },
+      {
+        "id": 6416,
+        "text": "[CODE DE]それでは　[CODE C0]よ[LINE][CODE B2]の[LINE]気持ちになって　祈りなさい。[WAIT][LINE]おお　この世の　すべての命を[LINE]つかさどる神よ!　[CODE C0]に[LINE]新たな人生を　歩ませたまえ![WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6417,
+        "text": "[CODE DE]これで　[CODE C0]は[LINE][CODE B2]　として[LINE]生きてゆくことになった。[WAIT][LINE]生まれ変わったつもりで[LINE]修業をつむがよい。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6441,
+    "file": "0816.p",
+    "ids": [
+      46,
+      48
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE DE]ルイーダ「[CODE C0]さんを[LINE]仲間に　くわえるのね。　わかったわ。[WAIT][LINE][CODE D4]ルイーダ「[CODE C0]さーん![LINE][CODE D3]さんが　お呼びよー![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Luisa.Vous voulez que [CODE C0] se joigne à vous. Bien sûr.[WAIT][LINE][CODE D4]Luisa.[CODE C0]! [CODE D3] vous appelle![WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@bルイーダ「%a000180さんを\n\t仲間に　くわえるのね。　わかったわ。\n@c0@",
+      "@a@bルイーダ「%a000180さーん！\n\t%a000090さんが　お呼びよー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aTulipe@bVous voulez %G0180%Xqu'%Yque %Z%a000180 se joigne à vousⓡ Pas de problèmeⓠ\n@c0@",
+      "@aTulipe@b%0%a000180ⓠ\n%0%a000090 est venu te chercher.\n@c0@"
+    ],
+    "original_body": "Vous voulez %G0180%Xqu'%Yque %Z%a000180 se joigne à vousⓡ Pas de problèmeⓠ %0%a000180ⓠ\n%0%a000090 est venu te chercher.",
+    "adaptation_body": "%a090000 doit rejoindre l'équipe? Entendu! %a090000! %a090003 vous appelle!",
+    "native_bindings": {
+      "%a090000": 192,
+      "%a090003": 211
+    },
+    "adaptation_review": "Deux C0 puis D3 ; le héros C9 du français DS devient le nom contextuel D3 de la SFC. Tulipe n’est pas remplacée. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Deux C0 puis D3 ; le héros C9 du français DS devient le nom contextuel D3 de la SFC. Tulipe n’est pas remplacée.",
+    "sfc_context": [
+      {
+        "id": 6440,
+        "text": "[CODE D4][CODE DE]ルイーダ「だれを　むかえに　いらしたの?[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6441,
+        "text": "[CODE D4][CODE DE]ルイーダ「[CODE C0]さんを[LINE]仲間に　くわえるのね。　わかったわ。[WAIT][LINE][CODE D4]ルイーダ「[CODE C0]さーん![LINE][CODE D3]さんが　お呼びよー![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6442,
+        "text": "[CODE DE][CODE C0]が　仲間に　くわわった![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6627,
+    "file": "0074.p",
+    "ids": [
+      442
+    ],
+    "status": "RELU",
+    "sfc_jp": "ガルル......。[END STRING AC]",
+    "sfc_vf_secondaire": "Grrrr…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「ガルル……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Grrrr...\n@c0@"
+    ],
+    "original_body": "Grrrr...",
+    "adaptation_body": "Grrrr...",
+    "native_bindings": {},
+    "adaptation_review": "Grogne identique dans les deux japonais. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Grogne identique dans les deux japonais.",
+    "sfc_context": [
+      {
+        "id": 6626,
+        "text": "こんな　派手なコンテストに[LINE]出たことを　ふるさとの母さんが[LINE]知ったら......　トホホ...。[END STRING AC]"
+      },
+      {
+        "id": 6627,
+        "text": "ガルル......。[END STRING AC]"
+      },
+      {
+        "id": 6628,
+        "text": "プルプル......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6630,
+    "file": "0074.p",
+    "ids": [
+      446,
+      448
+    ],
+    "status": "RELU",
+    "sfc_jp": "ウウウ...。[END STRING AC]",
+    "sfc_vf_secondaire": "Uuuu…[END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「………。\n@c0@",
+      "@a@b＊「ウウウ……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ ......\n@c0@",
+      "@a@b*ⓢ Mmmmm...\n@c0@"
+    ],
+    "original_body": "...... Mmmmm...",
+    "adaptation_body": "Ouuu...",
+    "native_bindings": {},
+    "adaptation_review": "Gémissement ウウウ source, pas nouvelle phrase narrative. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Gémissement ウウウ source, pas nouvelle phrase narrative.",
+    "sfc_context": [
+      {
+        "id": 6629,
+        "text": ".........。[END STRING AC]"
+      },
+      {
+        "id": 6630,
+        "text": "ウウウ...。[END STRING AC]"
+      },
+      {
+        "id": 6631,
+        "text": "やや!　これは　これは[LINE]スーパードレッサー　ごー行さま![LINE]ようこそ　いらっしゃいました。[WAIT][LINE]今日は　これから[LINE]ランク[CODE B2]の　コンテストが[LINE]行なわれるんですが...[WAIT][LINE]よかったら　特別しんさいんを[LINE]していただけませんか?[LINE]ぜひ　おねがいします。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6664,
+    "file": "0570.p",
+    "ids": [
+      744
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE B2]「ピキー!![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE B2].Peep![END STRING AC]",
+    "ds_ja": [
+      "@a@b%a002070「ピキー！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002070@bBoing, boing, boingⓠ\n@c0@"
+    ],
+    "original_body": "Boing, boing, boingⓠ",
+    "adaptation_body": "Boing!!",
+    "native_bindings": {
+      "%a090004": 178
+    },
+    "adaptation_review": "Cri du locuteur B2, pas trois cris ni introduction d’un nom dans le corps. Le B2 est lié au locuteur natif. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Cri du locuteur B2, pas trois cris ni introduction d’un nom dans le corps. Le B2 est lié au locuteur natif.",
+    "sfc_context": [
+      {
+        "id": 6663,
+        "text": "[CODE D4][CODE B2]「ガルルル......![END STRING AC]"
+      },
+      {
+        "id": 6664,
+        "text": "[CODE D4][CODE B2]「ピキー!![END STRING AC]"
+      },
+      {
+        "id": 6665,
+        "text": "[CODE D4]司会「えー　コホン......。[WAIT][LINE][CODE D4]司会「みなさん![LINE]たいへん　ながらく[LINE]おーまーたーせ　いたしました!![END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 6701,
+    "file": "0074.p",
+    "ids": [
+      271
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D9]おめでとう　[CODE B2]さん![LINE]はいっ　どうぞ![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]Bien joué, [CODE B2]![WAIT][END STRING AC]",
+    "ds_ja": [
+      "@a@b＊「おめでとう　%a000120さん！\n\tはいっ　どうぞ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Félicitations, %a000120ⓠ\nTenezⓠ\n@c0@"
+    ],
+    "original_body": "Félicitations, %a000120ⓠ\nTenezⓠ",
+    "adaptation_body": "Félicitations, %a090004! Tenez!",
+    "native_bindings": {
+      "%a090004": 178
+    },
+    "adaptation_review": "B2 SFC conserve le nom du destinataire, voix D9 et attente. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "B2 SFC conserve le nom du destinataire, voix D9 et attente.",
+    "sfc_context": [
+      {
+        "id": 6700,
+        "text": "[CODE D4]司会「優勝した　[CODE B2]さんには[LINE][CODE B5]が[LINE]賞品として　おくられます![END STRING AC]"
+      },
+      {
+        "id": 6701,
+        "text": "[CODE D9]おめでとう　[CODE B2]さん![LINE]はいっ　どうぞ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6702,
+        "text": "[CODE B2]は　[CODE B5]を[LINE]手に入れた![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6868,
+    "file": "0096.p",
+    "ids": [
+      507
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE DA]おお　[CODE CB]......![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE DA]Oh [CODE CB]…![END STRING AE]",
+    "ds_ja": [
+      "@a@b＊「おお　%a002010……！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Oh, que la Déesse te bénisse, %a002010ⓠ\n@c0@"
+    ],
+    "original_body": "Oh, que la Déesse te bénisse, %a002010ⓠ",
+    "adaptation_body": "Oh, %a002010...!",
+    "native_bindings": {},
+    "adaptation_review": "Nom CB et voix DA présents, mais aucune bénédiction ajoutée en FR DS. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "Nom CB et voix DA présents, mais aucune bénédiction ajoutée en FR DS.",
+    "sfc_context": [
+      {
+        "id": 6867,
+        "text": "[CODE D4][CODE D9][CODE CB]「もちろんです。だって[LINE]身よりのない　私たち姉弟を[LINE]ひきとって......[WAIT][LINE][CODE D4][CODE D9][CODE CB]「ここまで　育ててくれたのは[LINE]おとうさまと　おかあさまですもの。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6868,
+        "text": "[CODE DA]おお　[CODE CB]......![END STRING AE]"
+      },
+      {
+        "id": 6869,
+        "text": "[CODE D4][CODE DA][CODE CD]「...............。[WAIT][LINE][CODE D4][CODE D9][CODE CB]「ところでね　私　夢占い師に[LINE]なりたいの。グランマーズという[LINE]人のもとで　勉強したいの。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6908,
+    "file": "0097.p",
+    "ids": [
+      589
+    ],
+    "status": "RELU",
+    "sfc_jp": "[CODE D4][CODE D9][CODE CC]「あっ　[CODE C9]......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9][CODE CC].Ah, [CODE C9]…[END STRING AC]",
+    "ds_ja": [
+      "@a@b%a002020「あっ　%a000090……。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002020@bOh, salut, %a000090...\n@c0@"
+    ],
+    "original_body": "Oh, salut, %a000090...",
+    "adaptation_body": "Ah, %a000090...",
+    "native_bindings": {},
+    "adaptation_review": "CC parle à C9, aucun autre personnage ou nom ajouté. Rôles liés explicitement depuis les commandes SFC, aucun nom variable figé.",
+    "review": "CC parle à C9, aucun autre personnage ou nom ajouté.",
+    "sfc_context": [
+      {
+        "id": 6907,
+        "text": "う~ん　気になるなあ......。[LINE]さっき　上にあがっていった子[LINE]なんだか　さみしそうで......。[WAIT][LINE]こんなに　めでたい日なのに......。[END STRING AC]"
+      },
+      {
+        "id": 6908,
+        "text": "[CODE D4][CODE D9][CODE CC]「あっ　[CODE C9]......。[END STRING AC]"
+      },
+      {
+        "id": 6909,
+        "text": "[CODE D4][CODE D9][CODE CC]「さみしいけど[LINE]そろそろ　おわかれの時が[LINE]きたみたいね......。[WAIT][LINE][CODE D4][CODE D9][CODE CC]「ほらっ　あたしは[LINE]みんなと　ちがって[LINE]自分の実体が　なかったから......[END STRING AC]"
+      }
+    ]
+  }
+]
