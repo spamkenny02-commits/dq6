@@ -1,0 +1,33 @@
+{
+  "baseline": "v0.36",
+  "latest": "v0.38",
+  "main_new": 51,
+  "main_integrated": 5905,
+  "main_remaining": 1052,
+  "separate_labels_new": 20,
+  "confirmed_french_physical_table_entries": 37,
+  "main_prepared_active": 0,
+  "places_prepared_non_inserted": 25,
+  "previously_examined_deferred_v034": 26,
+  "translation_commits": [
+    "f37f8bd809bced37e854059562c0f60229087723",
+    "6119e30e5793f9dee970dc54950ca5d79e92751c"
+  ],
+  "both_git_restores_verified": true,
+  "both_clean_rebuilds_exact": true,
+  "main_fixture_captures": 45,
+  "main_messages_sampled": 12,
+  "spell_label_screens": 20,
+  "spell_label_B2_repetitions_per_screen": 3,
+  "natural_playthrough": false,
+  "native_spell_battle_menus_tested": false,
+  "roms_published": false,
+  "limits": [
+    "1052 textes et tables encore à terminer",
+    "25 lieux préparés, 26 cas différés de v0.34",
+    "Scènes naturelles 322/323,1836,4095 à parcourir",
+    "Tables accentuées et fenêtres natives à vérifier",
+    "Sonde B2 courte manquait certains noms ; cause exacte non établie, banc à trois lignes observé pour tous les 20",
+    "8 Mio conservés ; 4 Mio seulement à réexaminer à la fin"
+  ]
+}
