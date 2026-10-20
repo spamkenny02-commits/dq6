@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dernière version : v0.38, 5905/6957 intégrés, 1052 restants. Depuis v0.36 : 51 nouveaux textes et 20 noms séparés de sorts/actions. Tables : huit lieux, Gus et 20 sorts/actions intégrés, 25 lieux préparés ; inventaire v0.38, 37 entrées FR confirmées. Principal préparé actif : 0. Toujours 8 Mio.
+Dernière version : v0.39, 5927/6957 intégrés, 1030 restants. 22 ajouts nouveaux, zéro préparé principal. Tables inchangées : huit lieux, Gus et 20 noms de sorts/actions ; 37 entrées FR confirmées, 25 lieux préparés. Toujours 8 Mio.
+
+## Lot v0.39 : noms et nombres natifs
+
+Lire v0.39/LISEZ-MOI.md et revue-lot-v039.json. Périmètre strict de 22 nouveaux IDs ; 5905 anciennes sélections et 2512 noms inchangés. Recette pass39.py, base v0.38, helper spells.py hérité. Override de locuteur explicite seulement sur les IDs relus. Deux D2 dans 5647, huit C9 et CB/CA dans 4757 ; Tommy littéral reste littéral. Tous les 22 textes ont des bancs de rendu, 117 pages relues, pas scènes naturelles ni transactions. IMPORTANT BB : initialiser trois octets 5A2E/5A2F/5A30, pas seulement deux. Le premier banc montrait 7352377, reprise avec [39,30,00] hex : 12345. Rapport historique v0.19 conservé, correction isolée qa-protocole-BB-24bit.json. Aucun handler modifié. Audit alphabet des noms : 28 octets non observés, aucun prouvé libre ni réaffecté. Continuer 1030 textes et tables ; 26 cas différés v0.34, 25 lieux préparés, fenêtres natives, accents et scènes naturelles héritées restent ouverts. Ne pas annoncer finalisé.
 
 ## Lot v0.38 : 20 noms de sorts/actions
 

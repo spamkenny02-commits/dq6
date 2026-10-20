@@ -1,0 +1,191 @@
+{
+  "result_sha256": "18b5f0dbe37ccb73054c582c8248c0c094e7af667fad1ed8fd15dc657566543e",
+  "fixture_message_redirect": 100,
+  "diagnostic_RAM": {
+    "5A2E_5A2F_5A30_bytes": [
+      57,
+      48,
+      0
+    ],
+    "BB_expected_decimal": 12345,
+    "3B2F": 2
+  },
+  "rows": [
+    {
+      "id": 1704,
+      "page": 1,
+      "screenshot": "screenshots/v039bb24-1704-page1.png",
+      "sha256": "327a3ed2196b99e88da53ba637bd7a45da195dcbf78dbb12de41717d5ab7c0c6",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-1704-page1\", \"message_id\": 100, \"frame_mean\": 45.6370849609375}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1704,
+      "page": 2,
+      "screenshot": "screenshots/v039bb24-1704-page2.png",
+      "sha256": "855384f78154e178a9fae497bee158d81d78b10cb14f65f582b84751fb2c805b",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-1704-page2\", \"message_id\": 100, \"frame_mean\": 49.373238699776785}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1709,
+      "page": 1,
+      "screenshot": "screenshots/v039bb24-1709-page1.png",
+      "sha256": "987ebc34273a8eac33870d6f52b1a6c5f1425d9e620c0d383d920d392bfefbca",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-1709-page1\", \"message_id\": 100, \"frame_mean\": 45.798822312127974}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1709,
+      "page": 2,
+      "screenshot": "screenshots/v039bb24-1709-page2.png",
+      "sha256": "499cb9ec525d0dae297ff47c3158be393e550f26ec1746c22d529938619f579e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-1709-page2\", \"message_id\": 100, \"frame_mean\": 49.04632277715774}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1713,
+      "page": 1,
+      "screenshot": "screenshots/v039bb24-1713-page1.png",
+      "sha256": "4cfa29f484ca5b96700b47bc639f49c12aeacc1681f4eab927d487627238e17c",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-1713-page1\", \"message_id\": 100, \"frame_mean\": 46.738275437127974}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1713,
+      "page": 2,
+      "screenshot": "screenshots/v039bb24-1713-page2.png",
+      "sha256": "8ea23f9cd771ddc8945b8a9e55f904f59dbd33303ac2d0f2c0b3530d11769247",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-1713-page2\", \"message_id\": 100, \"frame_mean\": 50.704990931919646}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1713,
+      "page": 3,
+      "screenshot": "screenshots/v039bb24-1713-page3.png",
+      "sha256": "59719608529eee813f0c7166a695048ef0089b8a33ac1162524ae163e9cfc07d",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-1713-page3\", \"message_id\": 100, \"frame_mean\": 47.63201613653274}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 1713,
+      "page": 4,
+      "screenshot": "screenshots/v039bb24-1713-page4.png",
+      "sha256": "101e98e47e0a0eb6ccd770a32e8c3efe4c3b4defb69391e3032b76491b82baa2",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-1713-page4\", \"message_id\": 100, \"frame_mean\": 46.48629906063988}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 2971,
+      "page": 1,
+      "screenshot": "screenshots/v039bb24-2971-page1.png",
+      "sha256": "8c82cd70a826470be56701969a54c5e8531853ee666d30619d92adca032cb823",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-2971-page1\", \"message_id\": 100, \"frame_mean\": 46.72795177641369}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 2971,
+      "page": 2,
+      "screenshot": "screenshots/v039bb24-2971-page2.png",
+      "sha256": "8b165c1d46d94286bd82e2aa5ea1b5a0774e53c07a8d4f9616ddf490d3d5f145",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-2971-page2\", \"message_id\": 100, \"frame_mean\": 51.561854771205354}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 2971,
+      "page": 3,
+      "screenshot": "screenshots/v039bb24-2971-page3.png",
+      "sha256": "db17ed1ed2c740fa4e0fcd98ac182423b0f02740180635f80e994256e2286d90",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-2971-page3\", \"message_id\": 100, \"frame_mean\": 48.11378696986607}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 2971,
+      "page": 4,
+      "screenshot": "screenshots/v039bb24-2971-page4.png",
+      "sha256": "0f5463bb9508b58ef8ab2efa9467f09c56e983d5023ef5d519150dc455c3a603",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-2971-page4\", \"message_id\": 100, \"frame_mean\": 48.12776111421131}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 2971,
+      "page": 5,
+      "screenshot": "screenshots/v039bb24-2971-page5.png",
+      "sha256": "66d1f578e29d6857040dd73ab0b789b47e0b77123d19386eaaa228ec679d7aa3",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-2971-page5\", \"message_id\": 100, \"frame_mean\": 48.084891183035715}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6367,
+      "page": 1,
+      "screenshot": "screenshots/v039bb24-6367-page1.png",
+      "sha256": "7ecf557c7d1cb35f0ece35905ebb22175b48516f02dd17048d3960193316db0a",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6367-page1\", \"message_id\": 100, \"frame_mean\": 46.68665713355655}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6367,
+      "page": 2,
+      "screenshot": "screenshots/v039bb24-6367-page2.png",
+      "sha256": "493818aa55ae23f2569aa9b77a2be8abbeaaaf136d702e516f1d9b2974731dcd",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6367-page2\", \"message_id\": 100, \"frame_mean\": 49.15658714657738}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6390,
+      "page": 1,
+      "screenshot": "screenshots/v039bb24-6390-page1.png",
+      "sha256": "83a44e43910df955a25775a8bb4ae02d191dcd77c5ea500472f16f57b862f354",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6390-page1\", \"message_id\": 100, \"frame_mean\": 46.184238978794646}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6390,
+      "page": 2,
+      "screenshot": "screenshots/v039bb24-6390-page2.png",
+      "sha256": "493818aa55ae23f2569aa9b77a2be8abbeaaaf136d702e516f1d9b2974731dcd",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6390-page2\", \"message_id\": 100, \"frame_mean\": 49.15658714657738}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6546,
+      "page": 1,
+      "screenshot": "screenshots/v039bb24-6546-page1.png",
+      "sha256": "ed109f41087d1001a9eaea952f34d30f09601847126a7bb6106d011d0efd2aba",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6546-page1\", \"message_id\": 100, \"frame_mean\": 46.26682826450893}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6546,
+      "page": 2,
+      "screenshot": "screenshots/v039bb24-6546-page2.png",
+      "sha256": "975617b7ed6a4bb2778593a081a0ffc6c29e1ba6d5ad0685dcaaf8fc5e08e796",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6546-page2\", \"message_id\": 100, \"frame_mean\": 51.386497860863095}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6552,
+      "page": 1,
+      "screenshot": "screenshots/v039bb24-6552-page1.png",
+      "sha256": "d790055eadce1fdc4fa86615f9651be8d418aa058bf1a3024eb584849714c95f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6552-page1\", \"message_id\": 100, \"frame_mean\": 45.626761300223215}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6552,
+      "page": 2,
+      "screenshot": "screenshots/v039bb24-6552-page2.png",
+      "sha256": "bc3587989373e5c2ae9cc49cbc2411507ffcfb113511e1c1046a0b68c16bdb79",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6552-page2\", \"message_id\": 100, \"frame_mean\": 50.584693545386905}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6708,
+      "page": 1,
+      "screenshot": "screenshots/v039bb24-6708-page1.png",
+      "sha256": "86fc50e310ae106e883fdf1180af9dc9a97459a07293bfa0979a8c6efe48831a",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6708-page1\", \"message_id\": 100, \"frame_mean\": 45.561378115699405}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6708,
+      "page": 2,
+      "screenshot": "screenshots/v039bb24-6708-page2.png",
+      "sha256": "019d76a755aa5f371555c129b2b5730bfb9bf290915741eb7fef4053b80bb1cb",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6708-page2\", \"message_id\": 100, \"frame_mean\": 51.407145182291664}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6713,
+      "page": 1,
+      "screenshot": "screenshots/v039bb24-6713-page1.png",
+      "sha256": "6a2df0cdef91c7c18afef9bfaeaa2b1c08148ff2b56841beb513292ced54871d",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6713-page1\", \"message_id\": 100, \"frame_mean\": 46.256504603794646}\nMap_ExtendedHiROMMap"
+    },
+    {
+      "id": 6713,
+      "page": 2,
+      "screenshot": "screenshots/v039bb24-6713-page2.png",
+      "sha256": "410d123bdbb9d733a653c93fd5cc21ecac3807ce4575a1960bd0686b1060f59a",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v039bb24-6713-page2\", \"message_id\": 100, \"frame_mean\": 48.01410202752976}\nMap_ExtendedHiROMMap"
+    }
+  ],
+  "limits": "Diagnostic camp redirections, not natural scenes or monetary actions; injected display values do not test calculations or save state."
+}

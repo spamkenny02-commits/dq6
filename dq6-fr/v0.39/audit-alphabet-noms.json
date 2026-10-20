@@ -1,0 +1,255 @@
+{
+  "version": "v0.39",
+  "rom_sha256": "18b5f0dbe37ccb73054c582c8248c0c094e7af667fad1ed8fd15dc657566543e",
+  "inserted": 0,
+  "mutation_performed": false,
+  "reachable_name_entries": 2048,
+  "packed_byte_values_used": 167,
+  "dictionary_first": "C9",
+  "dictionary_entries": 50,
+  "glyph_table_file_offset": "011100",
+  "accent_glyphs_in_main_charset": {
+    "é": [
+      "0254"
+    ],
+    "è": [
+      "0256"
+    ],
+    "ê": [
+      "0255"
+    ],
+    "à": [
+      "0251"
+    ],
+    "â": [
+      "0252"
+    ],
+    "î": [
+      "0259"
+    ],
+    "ï": [
+      "0258"
+    ],
+    "ô": [
+      "025A"
+    ],
+    "ù": [
+      "025E"
+    ],
+    "û": [
+      "025C"
+    ],
+    "É": [
+      "0260"
+    ],
+    "ç": [
+      "025F"
+    ]
+  },
+  "unobserved_low_bytes": [
+    {
+      "byte": "0C",
+      "current_glyph": "0208",
+      "main_charset_interpretation": "H",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "0E",
+      "current_glyph": "020E",
+      "main_charset_interpretation": "P",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "0F",
+      "current_glyph": "0207",
+      "main_charset_interpretation": "G",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "2A",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "2B",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "2C",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "2D",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "2E",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "2F",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "30",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "31",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "32",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "33",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "34",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "35",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "38",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "39",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "3A",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "3B",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "3C",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "3D",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "3E",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "3F",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "40",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "41",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "7B",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "7C",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    },
+    {
+      "byte": "7D",
+      "current_glyph": "0200",
+      "main_charset_interpretation": " ",
+      "occurrences_in_reachable_names": 0,
+      "safe_to_reassign": false
+    }
+  ],
+  "all_candidates_blocked": true,
+  "blockers": [
+    "Un octet absent des noms atteignables n’est pas prouvé inutilisé par les variables, noms personnalisés, saisie ou autres interfaces.",
+    "Le tableau 011100 et les appels du décodeur sont à tracer avant toute réaffectation ; ne pas changer silencieusement une commande ou un glyphe partagé.",
+    "La présence d’un accent dans le script Huffman ne prouve pas son encodage dans la table de noms à octets.",
+    "Exiger ensuite gardes binaires, dictionnaire/sauts/pointeurs inchangés, anciennes chaînes et noms personnalisés, rendu B2 et fenêtres natives, et reconstruction exacte."
+  ],
+  "decision": "DIAGNOSTIC_NON_INSERE — aucune affectation de code proposée comme sûre"
+}

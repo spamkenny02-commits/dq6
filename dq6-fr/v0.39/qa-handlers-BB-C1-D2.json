@@ -1,0 +1,25 @@
+{
+  "handlers": [
+    {
+      "control": "BB",
+      "file_offset": 430938,
+      "bytes_hex": "20c095ad2e5a85a6ad2f5a85a74c7a93",
+      "identical_in_ips": true,
+      "meaning": "Nombre : charge 5A2E/5A2F dans A6/A7, puis conversion décimale."
+    },
+    {
+      "control": "C1",
+      "file_offset": 430929,
+      "bytes_hex": "20c095ad2f3b4cf793",
+      "identical_in_ips": true,
+      "meaning": "Nom cible : charge 3B2F puis rejoint 93F7, routine commune aux noms de personnages."
+    },
+    {
+      "control": "D2",
+      "file_offset": 431130,
+      "bytes_hex": "221c2bc401feca302222262cc401feffc901"
+    }
+  ],
+  "all_identical_to_ips": true,
+  "scope": "Code natif inchangé ; ne prouve ni transaction ni scène naturelle."
+}

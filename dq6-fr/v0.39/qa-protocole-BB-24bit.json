@@ -1,0 +1,29 @@
+{
+  "historical_reference": "v0.19/commandes-BB-C1.json",
+  "historical_report_unchanged": true,
+  "release_handler_unchanged": true,
+  "handler_file_offset": 430938,
+  "handler_hex": "20c095ad2e5a85a6ad2f5a85a74c7a93",
+  "correction": "Le rapport historique citait seulement 5A2E/5A2F. Les deux chargements/stores 16 bits sont chevauchants : le troisième octet 5A30 intervient aussi. Le banc doit initialiser les trois octets, sans changer le handler.",
+  "first_probe": {
+    "bytes_written_at_5A2E": [
+      57,
+      48
+    ],
+    "third_byte_not_initialised": true,
+    "decimal_observed": 7352377,
+    "report": "qa-render-fixtures.json"
+  },
+  "controlled_probe": {
+    "bytes_written_at_5A2E": [
+      57,
+      48,
+      0
+    ],
+    "decimal_observed": 12345,
+    "messages_checked": 10,
+    "pages_visually_reviewed": 25,
+    "report": "qa-render-bb-24bit.json"
+  },
+  "limits": "Valeur injectée pour affichage seulement ; ni calcul de prix ni transaction ni compteur réel de sauvegarde testé."
+}

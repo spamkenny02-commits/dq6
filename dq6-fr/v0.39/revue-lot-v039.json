@@ -1,0 +1,988 @@
+[
+  {
+    "id": 768,
+    "file": "0082.p",
+    "ids": [
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "sfc_jp": "なんじゃ　お前さんは。[LINE]わしゃ　もう　2度と[LINE]防具なんぞ　つくらんぞ。[WAIT][LINE]ここで　何をしたって[LINE]もう　家族のもとには[LINE]もどれんのじゃ...。[WAIT][LINE]...ん?　なんじゃと?[LINE]大魔王を　たおすために　この世界に[LINE]やって来たじゃと?[WAIT][LINE]それじゃ　お前さん[LINE]自分のチカラで　この世界に[LINE]やって来たというのか...![WAIT][LINE]いや!　信じられん。　そんな話は[LINE]信じられんぞい!　これも　きっと[LINE]大魔王の　ワナじゃ![WAIT][LINE]もし　そうでないと　いうなら...[LINE]もし　お前さんの話が　本当なら[LINE]その　あかしを　見せてくれ。[WAIT][LINE]そうじゃな......[LINE]こういうのは　どうじゃ?[WAIT][LINE]ザクソンの村...　まわりを[LINE]高い山に　かこまれた　小さな村に[LINE]わしの家が　ある。[WAIT][LINE]そこには　残された　わしの家族が[LINE]おるはずじゃ。　わしの妻と[LINE]犬の　シルバー......。[WAIT][LINE]きっと　わしのことを[LINE]心配しておるじゃろう...。[WAIT][LINE]その　ザクソンの村の[LINE]わしの妻に　これを[LINE]わたしてほしいのじゃ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Oh… Will I ever be able to make another armor again?[WAIT][LINE]I've tried everything and I can't figure out how to return to my family.[WAIT][LINE]…? You've come to this world to defeat the demon emporer?[WAIT][LINE]Are you telling me that you came here of your own free will?[WAIT][LINE]Impossible! I don't believe you![WAIT][LINE]The demon emporer must have sent you![WAIT][LINE]But perhaps I'm wrong… What can you say to convince me?[WAIT][LINE]Yes… Of course…[WAIT][LINE]My home lies deep in the mountains… In the village of Zaxon.[WAIT][LINE]That<024D> the last place I saw my family… My wife, and my dog, Silver.[WAIT][LINE]I hope they're still okay…[WAIT][LINE]I have something I'd like you to give my wife if you see her.[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「なんじゃ　お前さんは\n\tわしゃ　もう　２度と\n\t防具なんぞ　つくらんぞ。\n@c0@",
+      "@a@b＊「ここで　何をしたって\n\tもう　家族のもとには\n\tもどれんのじゃ……。\n@c0@",
+      "@a@b＊「……ん？㈢　なんじゃと？㈢\n\t大魔王を　たおすために　この世界に\n\tやって来たじゃと？\n@c0@",
+      "@a@b＊「それじゃ　お前さん\n\t自分のチカラで　この世界に\n\tやって来たというのか……！\n@c0@",
+      "@a@b＊「いや！　信じられん。　そんな話は\n\t信じられんぞい！　これも　きっと\n\t大魔王の　ワナじゃ！\n@c0@",
+      "@a@b＊「もし　そうでないと　いうなら……\n\tもし　お前さんの話が　本当なら\n\tその　あかしを　見せてくれ。\n@c0@",
+      "@a@b＊「そうじゃな……㈢㈢\n\tこういうのは　どうじゃ？\n@c0@",
+      "@a@b＊「ザクソンの村……。\n@c0@",
+      "@a@b＊「モンストルの北西の　まわりを\n\t高い山に　かこまれた　小さな村に\n\tわしの家が　ある。\n@c0@",
+      "@a@b＊「そこには　残された　わしの家族が\n\tおるはずじゃ。　わしの妻と\n\t犬の　シルバー……。\n@c0@",
+      "@a@b＊「きっと　わしのことを\n\t心配しておるじゃろう……。\n@c0@",
+      "@a@b＊「その　ザクソンの村の\n\tわしの妻に　これを\n\tわたしてほしいのじゃ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ (soupir) Combien de fois devrai-je le répéterⓡ J'ai dit adieu à la fabrication d'armures. Pour de bon.\n@c0@",
+      "@a@b*ⓢ Quel intérêt, de toute façon, heinⓡ C'est pas comme si ça allait me permettre de retrouver ma famille...\n@c0@",
+      "@a@b*ⓢ Mmmⓡ ㈢Qu'est-ce que vous ditesⓡ ㈢Vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z dans ce monde pour vaincre Mortamor et nous libérerⓡ\n@c0@",
+      "@a@b*ⓢ Vous voulez dire que... vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z ici dans ce butⓡ Par vos propres moyensⓡⓐ\n@c0@",
+      "@a@b*ⓢ Nonⓠ Ça ne prend pas avec moiⓠ Je parie que c'est encore une des ruses de Mortamorⓠ\n@c0@",
+      "@a@b*ⓢ Il faudra faire mieux que ça pour m'entourlouperⓠ C'est pas comme si vous aviez une preuve à me donner...\n@c0@",
+      "@a@b*ⓢ Mmm...㈢㈢ J'ai une idée.\n@c0@",
+      "@a@b*ⓢ Le village de Morneville...\n@c0@",
+      "@a@b*ⓢ C'est là-bas que j'habite. C'est un tout petit village niché dans les montagnes au nord-ouest de Monstria.\n@c0@",
+      "@a@b*ⓢ La famille dont j'ai été séparé devrait toujours y habiter... Mon épouse et mon chien, Airain.\n@c0@",
+      "@a@b*ⓢ Ils doivent tous deux être morts d'inquiétude...\n@c0@",
+      "@a@b*ⓢ Si vous réussissez à y aller, remettez ceci de ma part à mon épouse. C'est ma vieille pipe.\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "(soupir) Combien de fois devrai-je le répéterⓡ J'ai dit adieu à la fabrication d'armures. Pour de bon. Quel intérêt, de toute façon, heinⓡ C'est pas comme si ça allait me permettre de retrouver ma famille... Mmmⓡ ㈢Qu'est-ce que vous ditesⓡ ㈢Vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z dans ce monde pour vaincre Mortamor et nous libérerⓡ Vous voulez dire que... vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z ici dans ce butⓡ Par vos propres moyensⓡⓐ Nonⓠ Ça ne prend pas avec moiⓠ Je parie que c'est encore une des ruses de Mortamorⓠ Il faudra faire mieux que ça pour m'entourlouperⓠ C'est pas comme si vous aviez une preuve à me donner... Mmm...㈢㈢ J'ai une idée. Le village de Morneville... C'est là-bas que j'habite. C'est un tout petit village niché dans les montagnes au nord-ouest de Monstria. La famille dont j'ai été séparé devrait toujours y habiter... Mon épouse et mon chien, Airain. Ils doivent tous deux être morts d'inquiétude... Si vous réussissez à y aller, remettez ceci de ma part à mon épouse. C'est ma vieille pipe.",
+    "original_body": "(soupir) Combien de fois devrai-je le répéterⓡ J'ai dit adieu à la fabrication d'armures. Pour de bon. Quel intérêt, de toute façon, heinⓡ C'est pas comme si ça allait me permettre de retrouver ma famille... Mmmⓡ ㈢Qu'est-ce que vous ditesⓡ ㈢Vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z dans ce monde pour vaincre Mortamor et nous libérerⓡ Vous voulez dire que... vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z ici dans ce butⓡ Par vos propres moyensⓡⓐ Nonⓠ Ça ne prend pas avec moiⓠ Je parie que c'est encore une des ruses de Mortamorⓠ Il faudra faire mieux que ça pour m'entourlouperⓠ C'est pas comme si vous aviez une preuve à me donner... Mmm...㈢㈢ J'ai une idée. Le village de Morneville... C'est là-bas que j'habite. C'est un tout petit village niché dans les montagnes au nord-ouest de Monstria. La famille dont j'ai été séparé devrait toujours y habiter... Mon épouse et mon chien, Airain. Ils doivent tous deux être morts d'inquiétude... Si vous réussissez à y aller, remettez ceci de ma part à mon épouse. C'est ma vieille pipe.",
+    "adaptation_body": "Qui êtes-vous? Je ne fabriquerai plus jamais d'armures. Quoi que je fasse ici, je ne pourrai plus retrouver ma famille... Hein? Vous êtes ici pour vaincre le démon suprême? Vous avez gagné ce monde par vos propres moyens? Non, je n'y crois pas! C'est sûrement encore un piège du démon suprême! Si ce que vous dites est vrai, montrez-m'en la preuve. Voyons... J'ai une idée. Ma maison est à Morneville, un petit village entouré de hautes montagnes. Ma famille doit encore y vivre, ma femme et mon chien Airain... Ils doivent s'inquiéter pour moi. Remettez donc ceci à ma femme, à Morneville.",
+    "adaptation_review": "Famille et preuve SFC complètes ; retire nord-ouest de Monstria ajouté en DS et pipe révélée seulement en FR. Aucun nom propre japonais laissé comme preuve IPS.",
+    "review": "Famille et preuve SFC complètes ; retire nord-ouest de Monstria ajouté en DS et pipe révélée seulement en FR. Aucun nom propre japonais laissé comme preuve IPS.",
+    "sfc_context": [
+      {
+        "id": 767,
+        "text": "そうだろうとも。　この世界で[LINE]大魔王さまに　さからえる者など[LINE]おらんのだ。　グワッハハハ![END STRING AC]"
+      },
+      {
+        "id": 768,
+        "text": "なんじゃ　お前さんは。[LINE]わしゃ　もう　2度と[LINE]防具なんぞ　つくらんぞ。[WAIT][LINE]ここで　何をしたって[LINE]もう　家族のもとには[LINE]もどれんのじゃ...。[WAIT][LINE]...ん?　なんじゃと?[LINE]大魔王を　たおすために　この世界に[LINE]やって来たじゃと?[WAIT][LINE]それじゃ　お前さん[LINE]自分のチカラで　この世界に[LINE]やって来たというのか...![WAIT][LINE]いや!　信じられん。　そんな話は[LINE]信じられんぞい!　これも　きっと[LINE]大魔王の　ワナじゃ![WAIT][LINE]もし　そうでないと　いうなら...[LINE]もし　お前さんの話が　本当なら[LINE]その　あかしを　見せてくれ。[WAIT][LINE]そうじゃな......[LINE]こういうのは　どうじゃ?[WAIT][LINE]ザクソンの村...　まわりを[LINE]高い山に　かこまれた　小さな村に[LINE]わしの家が　ある。[WAIT][LINE]そこには　残された　わしの家族が[LINE]おるはずじゃ。　わしの妻と[LINE]犬の　シルバー......。[WAIT][LINE]きっと　わしのことを[LINE]心配しておるじゃろう...。[WAIT][LINE]その　ザクソンの村の[LINE]わしの妻に　これを[LINE]わたしてほしいのじゃ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 769,
+        "text": "[CODE D4][CODE D3]は　ふるびたパイプを[LINE]うけとった![END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 1236,
+    "file": "0012.p",
+    "ids": [
+      580
+    ],
+    "sfc_jp": "[CODE D4][CODE D9]シェーラ「いまよっ![LINE]さあ　[CODE D2]　ラーのカガミを![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9]Shera.Maintenant! [CODE D2]! Utilise le Mirroir de Ra![END STRING AC]",
+    "ds_jp": [
+      "@a@bシェーラ「今よっ！\n\tさあ　%a000140　ラーの鏡を！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aApnéa@bMaintenant, %a000140ⓠ Le miroirⓠ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Maintenant, %a000140ⓠ Le miroirⓠ",
+    "original_body": "Maintenant, %a000140ⓠ Le miroirⓠ",
+    "adaptation_body": "Maintenant, %a000140! Le miroir de Râ!",
+    "adaptation_review": "D2 unique, Apnéa nommée, D9 ; nom complet du miroir restauré selon les deux JP.",
+    "review": "D2 unique, Apnéa nommée, D9 ; nom complet du miroir restauré selon les deux JP.",
+    "native_bindings": {
+      "%a000140": 210
+    },
+    "sfc_context": [
+      {
+        "id": 1235,
+        "text": "[CODE D4][CODE DB]ムドー「ば　ばかな......。[LINE]このわしが　負けるとは......。[WAIT][LINE][CODE D4][CODE DB]ムドー「しかし　わしは　たおされぬ![LINE]このつぎこそ　おまえたちを[LINE]地獄に　おくってやるわっ![WAIT][LINE][CODE D4][CODE DB]ムドー「では　また　会おうぞっ![LINE]わっはっはっはっ![END STRING AC]"
+      },
+      {
+        "id": 1236,
+        "text": "[CODE D4][CODE D9]シェーラ「いまよっ![LINE]さあ　[CODE D2]　ラーのカガミを![END STRING AC]"
+      },
+      {
+        "id": 1237,
+        "text": "[CODE D4][CODE D9]シェーラ「どうしたの　[CODE D2]?[LINE]さあ　はやく　ラーのカガミを![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1704,
+    "file": "0820.p",
+    "ids": [
+      25
+    ],
+    "sfc_jp": "ふむ。今回までで　[CODE D3]が[LINE]もってきた　メダルは[LINE]ぜんぶで　[CODE BB]枚じゃな。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Hmmm… [CODE D3] currently has [CODE BB] medals.[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bメダル王「ふむ。　今回までに　%a000120が\n\t持ってきた　ちいさなメダルは\n\t全部で　%a000570枚じゃな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aRoi Médaillon@bMmm... oui, oui. Donc jusqu'à maintenant, vous m'avez donné %a000570 mini médaille%I0570%X%Ys%Z.\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Mmm... oui, oui. Donc jusqu'à maintenant, vous m'avez donné %a000570 mini médaille%I0570%X%Ys%Z.",
+    "original_body": "Mmm... oui, oui. Donc jusqu'à maintenant, vous m'avez donné %a000570 mini médaille%I0570%X%Ys%Z.",
+    "adaptation_body": "Mmm... %a000120, le total des mini médailles que vous m'avez apportées jusqu'ici est de %a000570.",
+    "adaptation_review": "D3 restauré, BB total apporté, pas montant possédé du faux IPS.",
+    "review": "D3 restauré, BB total apporté, pas montant possédé du faux IPS.",
+    "native_bindings": {
+      "%a000570": 187
+    },
+    "sfc_context": [
+      {
+        "id": 1703,
+        "text": "ほほう　メダルを持ってきたか。[LINE]どれっ　わしが　預かろう![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1704,
+        "text": "ふむ。今回までで　[CODE D3]が[LINE]もってきた　メダルは[LINE]ぜんぶで　[CODE BB]枚じゃな。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1705,
+        "text": "これが　[CODE BB]枚に　なったときは[LINE][CODE B5]を　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1709,
+    "file": "0820.p",
+    "ids": [
+      11
+    ],
+    "sfc_jp": "今　わしが　[CODE D3]から[LINE]あずかっているメダルは[LINE]ぜんぶで　[CODE BB]枚じゃ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "I'll take care of your [CODE BB] medals.[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bメダル王「今　わしが　%a000120から\n\t預かっている　メダルは\n\t全部で　%a000570枚じゃ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aRoi Médaillon@bIl semblerait que vous m'ayez donné %a000570 mini médaille%H0570%X%Ys%Z, %H0860%X%A0110%Xfidèle sujet%Z%B0110%Xfidèle sujette%Z%Y%R0000%Xfidèles sujettes%Yfidèles sujets%Z%Z.\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Il semblerait que vous m'ayez donné %a000570 mini médaille%H0570%X%Ys%Z, %H0860%X%A0110%Xfidèle sujet%Z%B0110%Xfidèle sujette%Z%Y%R0000%Xfidèles sujettes%Yfidèles sujets%Z%Z.",
+    "original_body": "Il semblerait que vous m'ayez donné %a000570 mini médaille%H0570%X%Ys%Z, %H0860%X%A0110%Xfidèle sujet%Z%B0110%Xfidèle sujette%Z%Y%R0000%Xfidèles sujettes%Yfidèles sujets%Z%Z.",
+    "adaptation_body": "%a000120, je garde actuellement un total de %a000570 mini médailles que vous m'avez confiées.",
+    "adaptation_review": "D3 omis FR DS restauré, BB total confié ; pas titre de sujet ajouté.",
+    "review": "D3 omis FR DS restauré, BB total confié ; pas titre de sujet ajouté.",
+    "native_bindings": {
+      "%a000570": 187
+    },
+    "sfc_context": [
+      {
+        "id": 1708,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]うけとった![END STRING AC]"
+      },
+      {
+        "id": 1709,
+        "text": "今　わしが　[CODE D3]から[LINE]あずかっているメダルは[LINE]ぜんぶで　[CODE BB]枚じゃ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1710,
+        "text": "つぎは　[CODE BB]枚に　なったときに[LINE][CODE B5]を　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1713,
+    "file": "0820.p",
+    "ids": [
+      22,
+      24,
+      25
+    ],
+    "sfc_jp": "わしは　世界中にちらばる[LINE]小さなメダルを　集めておる。[WAIT][LINE]ほほう　メダルを持ってきたか。[LINE]どれっ　わしが　預ろう![WAIT][LINE]ふむ。今回までで　[CODE D3]が[LINE]もってきた　メダルは[LINE]ぜんぶで　[CODE BB]枚じゃな。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "I collect small medals which were scattered around the world.[WAIT][LINE]You've brought more medals? I will gladly keep them for you![WAIT][LINE]Hmmm… [CODE D3] currently has [CODE BB] medals.[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bメダル王「わしは　世界中にちらばる\n\tちいさなメダルを　集めておる。\n@c0@",
+      "@a@bメダル王「ほほう　メダルを持ってきたか。\n\tどれっ　わしが　預かろう！\n@c0@",
+      "@a@bメダル王「ふむ。　今回までに　%a000120が\n\t持ってきた　ちいさなメダルは\n\t全部で　%a000570枚じゃな。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aRoi Médaillon@bBonjourⓠ Je collectionne les mini médailles, qui seraient disséminées dans le monde entier, à ce que l'on dit.\n@c0@",
+      "@aRoi Médaillon@bMagnifiqueⓠ Je vois que vous avez des mini médailles. Laissez-moi les examiner, %H0860%Xmon ami%A0110%X%Z%B0110%Xe%Z%Ymes ami%R0000%Xes%Ys%Z%Z.\n@c0@",
+      "@aRoi Médaillon@bMmm... oui, oui. Donc jusqu'à maintenant, vous m'avez donné %a000570 mini médaille%I0570%X%Ys%Z.\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Bonjourⓠ Je collectionne les mini médailles, qui seraient disséminées dans le monde entier, à ce que l'on dit. Magnifiqueⓠ Je vois que vous avez des mini médailles. Laissez-moi les examiner, %H0860%Xmon ami%A0110%X%Z%B0110%Xe%Z%Ymes ami%R0000%Xes%Ys%Z%Z. Mmm... oui, oui. Donc jusqu'à maintenant, vous m'avez donné %a000570 mini médaille%I0570%X%Ys%Z.",
+    "original_body": "Bonjourⓠ Je collectionne les mini médailles, qui seraient disséminées dans le monde entier, à ce que l'on dit. Magnifiqueⓠ Je vois que vous avez des mini médailles. Laissez-moi les examiner, %H0860%Xmon ami%A0110%X%Z%B0110%Xe%Z%Ymes ami%R0000%Xes%Ys%Z%Z. Mmm... oui, oui. Donc jusqu'à maintenant, vous m'avez donné %a000570 mini médaille%I0570%X%Ys%Z.",
+    "adaptation_body": "Je collectionne les mini médailles disséminées à travers le monde. Oh! Vous m'en avez apporté? Confiez-les-moi donc! Mmm... %a000120, le total des mini médailles que vous m'avez apportées jusqu'ici est de %a000570.",
+    "adaptation_review": "D3 et BB, trois segments non contigus 22/24/25 relus ; pas accueil ou examen supplémentaire DS.",
+    "review": "D3 et BB, trois segments non contigus 22/24/25 relus ; pas accueil ou examen supplémentaire DS.",
+    "native_bindings": {
+      "%a000570": 187
+    },
+    "sfc_context": [
+      {
+        "id": 1712,
+        "text": "わしは　世界中にちらばる[LINE]小さなメダルを　集めておる。[WAIT][LINE]メダルを　見つけて来た者には[LINE]その数におうじた　すばらしい[LINE]ほうびを　とらせようぞ![END STRING AC]"
+      },
+      {
+        "id": 1713,
+        "text": "わしは　世界中にちらばる[LINE]小さなメダルを　集めておる。[WAIT][LINE]ほほう　メダルを持ってきたか。[LINE]どれっ　わしが　預ろう![WAIT][LINE]ふむ。今回までで　[CODE D3]が[LINE]もってきた　メダルは[LINE]ぜんぶで　[CODE BB]枚じゃな。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1714,
+        "text": "よし!　これで　[CODE D3]は[LINE][CODE BB]枚以上　メダルを集めたので[LINE]これを　ほうびに　とらせよう![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2326,
+    "file": "0080.p",
+    "ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "sfc_jp": "わしは　代々　天馬の世話を[LINE]しとるもんじゃが......[WAIT][LINE]もし　天馬に会いに[LINE]来たというなら　ムダじゃぞ。[WAIT][LINE]お前さんたちも　ここまで[LINE]やってこれたということは[LINE]いろんな事情を　わかっとるじゃろ。[WAIT][LINE]大魔王デスタムーアじゃ![LINE]あいつが　あいつが[LINE]天馬を石に......。[WAIT][LINE]もちろん　ただ石にされた[LINE]くらいだったら　このわしにも[LINE]とくことが　できるわい![WAIT][LINE]じゃが　ダメなんじゃ![LINE]心が　いないんじゃよ![LINE]あれは　もう　ぬけがらなんじゃ![WAIT][LINE]だから　わるいことは　いわん。[LINE]いくだけ　ムダじゃ。[LINE]もどったほうが　ええぞ。うくく。[END STRING AC]",
+    "sfc_vf_secondaire": "Je me suis occupé de le Pégase pendant des générations…[WAIT][LINE]Étes-vous venu chercher le Pégase?[WAIT][LINE]C'est dommage. Deathtamoor l'a changé en pierre…[WAIT][LINE]J'ai essayé tout ce que je savais, mais je n'ai pas pu rompre le sort.[WAIT][LINE]C'était inutile, alors je suis revenu ici.[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「わしは　代々　天馬の世話を\n\tしとる者じゃが……\n@c0@",
+      "@a@b＊「もし　天馬に会いに\n\t来たというなら　ムダじゃぞ。\n@c0@",
+      "@a@b＊「お前さんたちも　ここまで\n\tやってこれたということは\n\tいろんな事情を　わかっとるじゃろ。\n@c0@",
+      "@a@b＊「大魔王デスタムーアじゃ！\n\tあいつが……　あいつが\n\t天馬を　呪いで　石に……。\n@c0@",
+      "@a@b＊「もちろん　ただ　石にされた\n\tくらいじゃったら　このわしにも\n\t解くことが　できるわい！\n@c0@",
+      "@a@b＊「じゃが　ダメなんじゃ！\n\t心が　いないんじゃよ！\n\tあれは　もう　ぬけがらなんじゃ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Je suis responsable de Pégase depuis de nombreuses années.\n@c0@",
+      "@a@b*ⓢ Mais si vous êtes là pour voir Pégase, je crains que vous perdiez votre temps.\n@c0@",
+      "@a@b*ⓢ Si vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z jusqu'ici, c'est que vous savez comment se porte le monde.\n@c0@",
+      "@a@b*ⓢ Vous avez entendu parler de Mortamor le démonⓡ C'est lui qui a changé Pégase en pierre en lui jetant un sort...\n@c0@",
+      "@a@b*ⓢ Évidemment, si Pégase avait été changée en pierre uniquement, j'aurais pu briser la malédiction.\n@c0@",
+      "@a@b*ⓢ Mais c'est bien plus que celaⓠ Son cœur lui a été volé, la laissant comme un coquillage vide.\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Je suis responsable de Pégase depuis de nombreuses années. Mais si vous êtes là pour voir Pégase, je crains que vous perdiez votre temps. Si vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z jusqu'ici, c'est que vous savez comment se porte le monde. Vous avez entendu parler de Mortamor le démonⓡ C'est lui qui a changé Pégase en pierre en lui jetant un sort... Évidemment, si Pégase avait été changée en pierre uniquement, j'aurais pu briser la malédiction. Mais c'est bien plus que celaⓠ Son cœur lui a été volé, la laissant comme un coquillage vide.",
+    "original_body": "Je suis responsable de Pégase depuis de nombreuses années. Mais si vous êtes là pour voir Pégase, je crains que vous perdiez votre temps. Si vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z jusqu'ici, c'est que vous savez comment se porte le monde. Vous avez entendu parler de Mortamor le démonⓡ C'est lui qui a changé Pégase en pierre en lui jetant un sort... Évidemment, si Pégase avait été changée en pierre uniquement, j'aurais pu briser la malédiction. Mais c'est bien plus que celaⓠ Son cœur lui a été volé, la laissant comme un coquillage vide.",
+    "adaptation_body": "Ma famille s'occupe de Pégase depuis des générations. Mais si vous venez le voir, c'est inutile. Puisque vous êtes parvenus jusqu'ici, vous devez connaître la situation du monde. C'est Mortamor, le démon suprême! C'est lui qui a changé Pégase en pierre... Si ce n'était que de la pierre, je pourrais briser le sort. Mais son coeur n'est plus là! Ce n'est qu'une enveloppe vide! Croyez-moi, inutile d'y aller. Vous feriez mieux de repartir... Snif...",
+    "adaptation_review": "DS 0–5 seulement ; DS6 commence la scène suivante et n'est pas repris. Lignée de gardiens, coeur absent et renvoi final rétablis depuis JP SFC ; pas coeur volé affirmé.",
+    "review": "DS 0–5 seulement ; DS6 commence la scène suivante et n'est pas repris. Lignée de gardiens, coeur absent et renvoi final rétablis depuis JP SFC ; pas coeur volé affirmé.",
+    "sfc_context": [
+      {
+        "id": 2325,
+        "text": "[CODE DB]ゲゲ?[LINE]なんじゃ　キサマたちは?[WAIT][LINE][CODE DB]よく　この塔の　トビラの[LINE]あけかたが　わかったの。[WAIT][LINE][CODE DB]まあ　よい　ゲッゲ。[LINE]わしは　世界ーの　まどうし[LINE]ミラルゴさまじゃ。[WAIT][LINE][CODE DB]よく　おぼえておくが　いい。[LINE]ゲッゲ。[END STRING AC]"
+      },
+      {
+        "id": 2326,
+        "text": "わしは　代々　天馬の世話を[LINE]しとるもんじゃが......[WAIT][LINE]もし　天馬に会いに[LINE]来たというなら　ムダじゃぞ。[WAIT][LINE]お前さんたちも　ここまで[LINE]やってこれたということは[LINE]いろんな事情を　わかっとるじゃろ。[WAIT][LINE]大魔王デスタムーアじゃ![LINE]あいつが　あいつが[LINE]天馬を石に......。[WAIT][LINE]もちろん　ただ石にされた[LINE]くらいだったら　このわしにも[LINE]とくことが　できるわい![WAIT][LINE]じゃが　ダメなんじゃ![LINE]心が　いないんじゃよ![LINE]あれは　もう　ぬけがらなんじゃ![WAIT][LINE]だから　わるいことは　いわん。[LINE]いくだけ　ムダじゃ。[LINE]もどったほうが　ええぞ。うくく。[END STRING AC]"
+      },
+      {
+        "id": 2327,
+        "text": "[CODE D4][CODE D9][CODE CB]「まって![LINE]ファルシオンの　ようすが......![END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 2971,
+    "file": "0001.p",
+    "ids": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "sfc_jp": "わっはっはっ![LINE]お客さん　おそかったね![WAIT][LINE]うちの品物は　もう　ぜんぶ[LINE]売れちまったよ。[LINE]さあ　店じまい　店じまい。[WAIT][LINE]なにを　売ってたかって聞くのは[LINE]よしなよ。聞くと　よけいに[LINE]ほしくなっちゃうよ![WAIT][LINE]さあ　店じまい　店じまいと。[LINE]あれ?　あれれ?　こんな所に[LINE]もう1つだけ　のこってたよ。[WAIT][LINE]お客さん　運がいいね。[LINE]さいごの1つだから　ぴったし[LINE][CODE BB]ゴールドで　どうだい?[END STRING AC]",
+    "sfc_vf_secondaire": "Ha, ha, ha! Vous arrivez trop tard, mon ami![WAIT][LINE]J'ai tout vendu dans mon magasin.[WAIT][LINE]Ne me demandez pas ce que j'ai vendu. Sinon, vous en voudriez![WAIT][LINE]Bien, je suis fermé.[WAIT][LINE]Quoi? Vous avez de la chance, mon ami! Il me reste un objet.[WAIT][LINE]Parce que c'est le seul, je vous le vends à [CODE BB] d'or. Qu'en pensez-vous?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「わっはっは！\n\tお客さん　おそかったね！\n@c0@",
+      "@a@b＊「うちの品物は　もう　ぜんぶ\n\t売れちまったよ。\n\tさあ　店じまい　店じまい。\n@c0@",
+      "@a@b＊「なにを　売っていたかって聞くのは\n\tよしなよ。　聞くと　よけいに\n\tほしくなっちゃうよ！\n@c0@",
+      "@a@b＊「さあ　店じまい　店じまいと。\n\tあれ？　あれれ？　こんな所に\n\tもう１つだけ　のこってたよ。\n@c0@",
+      "@a@b＊「お客さん　運がいいね。\n\tさいごの１つだから　ぴったし\n\t１００ゴールドで　どうだい？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ha haⓠ Désolé, %A0110%Xl'ami%Z%B0110%Xl'amie%Z. Vous arrivez trop tardⓠ\n@c0@",
+      "@a@b*ⓢ Je viens de vendre mon dernier articleⓠ\nJe n'ai plus qu'à tout remballer et à reprendre la routeⓠ\n@c0@",
+      "@a@b*ⓢ Oh, je préfère pas vous dire ce que je vendais. Vous risqueriez de vous en mordre les doigts.\n@c0@",
+      "@a@b*ⓢ Allez, il faut que je range tout ça... Tiensⓡ\nÇa alors, regardezⓠ Moi qui croyais avoir tout venduⓠ\n@c0@",
+      "@a@b*ⓢ C'est votre jour de chance, Monsieurⓠ C'est à vous pour 100 pièces d'or. Marché concluⓡ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Ha haⓠ Désolé, %A0110%Xl'ami%Z%B0110%Xl'amie%Z. Vous arrivez trop tardⓠ Je viens de vendre mon dernier articleⓠ\nJe n'ai plus qu'à tout remballer et à reprendre la routeⓠ Oh, je préfère pas vous dire ce que je vendais. Vous risqueriez de vous en mordre les doigts. Allez, il faut que je range tout ça... Tiensⓡ\nÇa alors, regardezⓠ Moi qui croyais avoir tout venduⓠ C'est votre jour de chance, Monsieurⓠ C'est à vous pour 100 pièces d'or. Marché concluⓡ",
+    "original_body": "Ha haⓠ Désolé, %A0110%Xl'ami%Z%B0110%Xl'amie%Z. Vous arrivez trop tardⓠ Je viens de vendre mon dernier articleⓠ\nJe n'ai plus qu'à tout remballer et à reprendre la routeⓠ Oh, je préfère pas vous dire ce que je vendais. Vous risqueriez de vous en mordre les doigts. Allez, il faut que je range tout ça... Tiensⓡ\nÇa alors, regardezⓠ Moi qui croyais avoir tout venduⓠ C'est votre jour de chance, Monsieurⓠ C'est à vous pour 100 pièces d'or. Marché concluⓡ",
+    "adaptation_body": "Ha ha ha! Vous arrivez trop tard! J'ai vendu tous mes articles. Je vais fermer boutique. Ne me demandez pas ce que je vendais, vous en auriez encore plus envie! Bon, je remballe... Tiens? Il en reste un ici! Quelle chance vous avez! C'est le dernier, je vous le fais à %a000650 pièces d'or. D'accord?",
+    "adaptation_review": "DS annonce 100 mais SFC a BB : préserver le prix natif variable, sans le figer. Retire adresse genrée DS et reprend fermeture répétée condensée.",
+    "review": "DS annonce 100 mais SFC a BB : préserver le prix natif variable, sans le figer. Retire adresse genrée DS et reprend fermeture répétée condensée.",
+    "native_bindings": {
+      "%a000650": 187
+    },
+    "sfc_context": [
+      {
+        "id": 2970,
+        "text": "ここは　いろんな民芸品を[LINE]買いとる　お店よ。[WAIT][LINE]お買い物だったら[LINE]ほかの　お店にいってね。[END STRING AC]"
+      },
+      {
+        "id": 2971,
+        "text": "わっはっはっ![LINE]お客さん　おそかったね![WAIT][LINE]うちの品物は　もう　ぜんぶ[LINE]売れちまったよ。[LINE]さあ　店じまい　店じまい。[WAIT][LINE]なにを　売ってたかって聞くのは[LINE]よしなよ。聞くと　よけいに[LINE]ほしくなっちゃうよ![WAIT][LINE]さあ　店じまい　店じまいと。[LINE]あれ?　あれれ?　こんな所に[LINE]もう1つだけ　のこってたよ。[WAIT][LINE]お客さん　運がいいね。[LINE]さいごの1つだから　ぴったし[LINE][CODE BB]ゴールドで　どうだい?[END STRING AC]"
+      },
+      {
+        "id": 2972,
+        "text": "よーし　売ったあ![LINE]さあて　これで　ホントに[LINE]店じまい　店じまい......っと![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3639,
+    "file": "0818.p",
+    "ids": [
+      88,
+      90,
+      92
+    ],
+    "sfc_jp": "おおっ　旅のお方ですな?[LINE]もうしわけ　ありませんが[LINE]中は今　そうじ中なのです。[WAIT][LINE]もうすぐ　すみますから[LINE]ほかの　ようじを　すませて[LINE]おいでなさい。[WAIT][LINE]とりあえず[LINE]ぼうけんの　きろくだけでも[LINE]しておかれますか?[END STRING AC]",
+    "sfc_vf_secondaire": "Voyageurs? Je ne peux pas louer maintenant.[WAIT][LINE]Voulez-vous enregistrer vos aventures?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「おおっ　旅のお方ですな？\n\tもうしわけ　ありませんが\n\t中は今　そうじ中なのです。\n@c0@",
+      "@a@b＊「もうすぐ　終わりますから\n\tほかの　用事を　すませて\n\tおいでなさい。\n@c0@",
+      "@a@b＊「とりあえず\n\t冒険の　記録だけでも\n\tしておかれますか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ah, je vois que vous êtes %H0860%X%A0110%Xun visiteur%Z%B0110%Xune visiteuse%Z%Y%R0000%Xdes visiteuses%Ydes visiteurs%Z%Z à Desmodia. J'ai peur que notre église soit actuellement en cours de nettoyage.\n@c0@",
+      "@a@b*ⓢ Cela ne devrait pas être long. Je vous conseille de vaquer à d'autres occupations avant de revenir.\n@c0@",
+      "@a@b*ⓢ En attendant, me permettez-vous d'enregistrer vos aventures dans un journalⓡ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Ah, je vois que vous êtes %H0860%X%A0110%Xun visiteur%Z%B0110%Xune visiteuse%Z%Y%R0000%Xdes visiteuses%Ydes visiteurs%Z%Z à Desmodia. J'ai peur que notre église soit actuellement en cours de nettoyage. Cela ne devrait pas être long. Je vous conseille de vaquer à d'autres occupations avant de revenir. En attendant, me permettez-vous d'enregistrer vos aventures dans un journalⓡ",
+    "original_body": "Ah, je vois que vous êtes %H0860%X%A0110%Xun visiteur%Z%B0110%Xune visiteuse%Z%Y%R0000%Xdes visiteuses%Ydes visiteurs%Z%Z à Desmodia. J'ai peur que notre église soit actuellement en cours de nettoyage. Cela ne devrait pas être long. Je vous conseille de vaquer à d'autres occupations avant de revenir. En attendant, me permettez-vous d'enregistrer vos aventures dans un journalⓡ",
+    "adaptation_body": "Oh! Vous êtes de passage? Pardonnez-nous, mais l'église est en cours de nettoyage. Cela sera bientôt fini. Occupez-vous d'abord de vos autres affaires, puis revenez. En attendant, voulez-vous faire consigner vos aventures dans un journal?",
+    "adaptation_review": "Nettoyage et proposition de sauvegarde ; pas Desmodia nommé SFC et pas location de l'IPS décalé.",
+    "review": "Nettoyage et proposition de sauvegarde ; pas Desmodia nommé SFC et pas location de l'IPS décalé.",
+    "sfc_context": [
+      {
+        "id": 3638,
+        "text": "グガオーンッ![LINE]............。[LINE]どわっ!?[WAIT][LINE]あちゃーっ[LINE]また　はんたいだぜ。[END STRING AC]"
+      },
+      {
+        "id": 3639,
+        "text": "おおっ　旅のお方ですな?[LINE]もうしわけ　ありませんが[LINE]中は今　そうじ中なのです。[WAIT][LINE]もうすぐ　すみますから[LINE]ほかの　ようじを　すませて[LINE]おいでなさい。[WAIT][LINE]とりあえず[LINE]ぼうけんの　きろくだけでも[LINE]しておかれますか?[END STRING AC]"
+      },
+      {
+        "id": 3640,
+        "text": "では　なんばんの冒険の書に[LINE]記録しますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4757,
+    "file": "0067.p",
+    "ids": [
+      690,
+      691,
+      692,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700
+    ],
+    "sfc_jp": "[CODE D4]グランマーズ「おや　[CODE C9]。[LINE]起きてしまったのかい。[WAIT][LINE][CODE D4]グランマーズ「ひさしぶりに　母親の[LINE]となりで　ねむれるというのに[LINE]おちつかないようじゃの。[WAIT][LINE][CODE D4]グランマーズ「お前さんは　やはり[LINE]もとの　[CODE C9]王子ではない。[WAIT][LINE][CODE D4]グランマーズ「いや　[CODE C9]王子が[LINE]生まれ変わったと　いうべきかの。[WAIT][LINE][CODE D4]グランマーズ「[CODE CB]や　[CODE CA]と[LINE]ちがって　お前さんは　自分の実体を[LINE]とりもどすのに　時間が　かかった...[WAIT][LINE][CODE D4]グランマーズ「そのため　夢の中を[LINE]生きてきた　[CODE C9]の　いしきが[LINE]強くなってしまったのじゃろう。[WAIT][LINE][CODE D4]グランマーズ「この城で　くらしていた[LINE]きおくが　あまり　もどらないのは[LINE]つらいかもしれんが...[WAIT][LINE][CODE D4]グランマーズ「[CODE C9]は　このまま[LINE][CODE C9]として　生きてゆけばええ。[WAIT][LINE][CODE D4]グランマーズ「[CODE C9]王子は　もう[LINE]お前さんしか　おらんのだからな。[WAIT][LINE][CODE D4]グランマーズ「......目が　覚めて[LINE]しまったのなら　城の中でも[LINE]歩いてきたら　どうじゃ?[WAIT][LINE][CODE D4]グランマーズ「お前さんの中に　いる[LINE]もうひとりの　[CODE C9]の　きおくが[LINE]また　よみがえるかも知れんぞ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Granmaz.Le roi et la reine sont vraiment inquiet pour vous.[END STRING AC]",
+    "ds_jp": [
+      "@a@bグランマーズ「おや　%a000090。\n\t起きてしまったのかい。\n@c0@",
+      "@a@bグランマーズ「ひさしぶりに\n\t母親の　となりで　ねむれるというのに\n\t落ち着かないようじゃの。\n@c0@",
+      "@a@bグランマーズ「お前さんは　やはり\n\tもとの　%a000090王子ではない。\n@c0@",
+      "@a@bグランマーズ「いや　%a000090王子が\n\t生まれ変わった……とでも\n\tいうべきかの。\n@c0@",
+      "@a@bグランマーズ「%a002010や　%a002000と\n\tちがって　お前さんは　自分の実体を\n\tとりもどすのに　時間が　かかった……\n@c0@",
+      "@a@bグランマーズ「そのため　夢の中を\n\t生きてきた　%a000090の　意識が\n\t強くなってしまったのじゃろう。\n@c0@",
+      "@a@bグランマーズ「この城で　暮らしていた\n\tきおくが　あまり　もどらないのは\n\tつらいかもしれんが……\n@c0@",
+      "@a@bグランマーズ「%a000090は　このまま\n\t%a000090として　生きてゆけばええ。\n@c0@",
+      "@a@bグランマーズ「%a000090王子は　もう\n\tお前さんしか　おらんのだからな。\n@c0@",
+      "@a@bグランマーズ「……目が　覚めて\n\tしまったのなら　城の中でも\n\t歩いてきたら　どうじゃ？\n@c0@",
+      "@a@bグランマーズ「お前さんの中に　いる\n\tもうひとりの　%a000090の　きおくが\n\tまた　よみがえるかもしれんぞ。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aMadame Luce@bAh, %a000090. Tu es réveilléⓡ\n@c0@",
+      "@aMadame Luce@bCela doit faire de nombreuses lunes que tu n'as pas dormi auprès de ta mère... Mais madame Luce perçoit ton malaise...\n@c0@",
+      "@aMadame Luce@bIl est clair que tu n'es plus le prince %a000090 qui jadis a quitté le château.\n@c0@",
+      "@aMadame Luce@bMadame Luce devrait dire que le prince %a000090 est né une nouvelle fois, mmm-hmm.\n@c0@",
+      "@aMadame Luce@bContrairement à ma chère %a002010 et à %a002000 le monsieur Muscles, tu n'as pas réussi à retrouver ton vrai moi rapidement.\n@c0@",
+      "@aMadame Luce@bL'esprit %G0090%Xde l'%Ydu %Z%a000090 qui vit dans tes rêves est devenu plus fort au fil du temps. Madame Luce en est certaine.\n@c0@",
+      "@aMadame Luce@bCe doit être terrible pour toi de ne pas avoir de souvenirs de ce château, mon pauvre agneau...\n@c0@",
+      "@aMadame Luce@bMais tu ne peux pas changer ton destin. Tu es qui tu es maintenant, %a000090, et tu ne pourras pas redevenir celui que tu étais.\n@c0@",
+      "@aMadame Luce@bIl n'y a qu'un seul prince %a000090 maintenant, mmm-hmm.\n@c0@",
+      "@aMadame Luce@bSi jamais tu n'arrives pas à t'endormir, alors madame Luce pense que tu pourrais marcher un peu dans le château. Ce serait agréable, nonⓡ\n@c0@",
+      "@aMadame Luce@bÇa aidera sans doute %G0090%Xl'%Yle %Z%a000090 qui sommeille en toi à retrouver la mémoire, nonⓡ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Ah, %a000090. Tu es réveilléⓡ Cela doit faire de nombreuses lunes que tu n'as pas dormi auprès de ta mère... Mais madame Luce perçoit ton malaise... Il est clair que tu n'es plus le prince %a000090 qui jadis a quitté le château. Madame Luce devrait dire que le prince %a000090 est né une nouvelle fois, mmm-hmm. Contrairement à ma chère %a002010 et à %a002000 le monsieur Muscles, tu n'as pas réussi à retrouver ton vrai moi rapidement. L'esprit %G0090%Xde l'%Ydu %Z%a000090 qui vit dans tes rêves est devenu plus fort au fil du temps. Madame Luce en est certaine. Ce doit être terrible pour toi de ne pas avoir de souvenirs de ce château, mon pauvre agneau... Mais tu ne peux pas changer ton destin. Tu es qui tu es maintenant, %a000090, et tu ne pourras pas redevenir celui que tu étais. Il n'y a qu'un seul prince %a000090 maintenant, mmm-hmm. Si jamais tu n'arrives pas à t'endormir, alors madame Luce pense que tu pourrais marcher un peu dans le château. Ce serait agréable, nonⓡ Ça aidera sans doute %G0090%Xl'%Yle %Z%a000090 qui sommeille en toi à retrouver la mémoire, nonⓡ",
+    "original_body": "Ah, %a000090. Tu es réveilléⓡ Cela doit faire de nombreuses lunes que tu n'as pas dormi auprès de ta mère... Mais madame Luce perçoit ton malaise... Il est clair que tu n'es plus le prince %a000090 qui jadis a quitté le château. Madame Luce devrait dire que le prince %a000090 est né une nouvelle fois, mmm-hmm. Contrairement à ma chère %a002010 et à %a002000 le monsieur Muscles, tu n'as pas réussi à retrouver ton vrai moi rapidement. L'esprit %G0090%Xde l'%Ydu %Z%a000090 qui vit dans tes rêves est devenu plus fort au fil du temps. Madame Luce en est certaine. Ce doit être terrible pour toi de ne pas avoir de souvenirs de ce château, mon pauvre agneau... Mais tu ne peux pas changer ton destin. Tu es qui tu es maintenant, %a000090, et tu ne pourras pas redevenir celui que tu étais. Il n'y a qu'un seul prince %a000090 maintenant, mmm-hmm. Si jamais tu n'arrives pas à t'endormir, alors madame Luce pense que tu pourrais marcher un peu dans le château. Ce serait agréable, nonⓡ Ça aidera sans doute %G0090%Xl'%Yle %Z%a000090 qui sommeille en toi à retrouver la mémoire, nonⓡ",
+    "adaptation_body": "Ah, %a000090. Tu es réveillé? Tu peux enfin dormir auprès de ta mère, mais tu sembles mal à l'aise. Tu n'es plus le prince %a000090 d'autrefois. Ou plutôt, le prince %a000090 a connu une nouvelle naissance. Contrairement à %a002010 et à %a002000, tu as mis du temps à retrouver ton corps. La conscience de %a000090, qui vivait dans les rêves, est sans doute devenue plus forte. Ce doit être pénible de si peu retrouver tes souvenirs de ce château... Mais %a000090 peut continuer à vivre en tant que %a000090. Il n'y a désormais qu'un seul prince %a000090, et c'est toi. Puisque tu es réveillé, pourquoi ne pas marcher un peu dans le château? Les souvenirs de l'autre %a000090 qui sommeille en toi pourraient ressurgir.",
+    "adaptation_review": "Huit C9, CB et CA du corps conservés. Hypothèse sur conscience, pas destin irréversible ajouté FR ; nom du prince non figé, aucune condition d'élision DS résiduelle.",
+    "review": "Huit C9, CB et CA du corps conservés. Hypothèse sur conscience, pas destin irréversible ajouté FR ; nom du prince non figé, aucune condition d'élision DS résiduelle.",
+    "sfc_context": [
+      {
+        "id": 4756,
+        "text": "　　　　　そして　やっと　うたげが　終わり[LINE]　　　　城の皆が　眠りにつくころ　東の空が[LINE]　　　　　しらじらと　明けようとしていた...。[END STRING AC]"
+      },
+      {
+        "id": 4757,
+        "text": "[CODE D4]グランマーズ「おや　[CODE C9]。[LINE]起きてしまったのかい。[WAIT][LINE][CODE D4]グランマーズ「ひさしぶりに　母親の[LINE]となりで　ねむれるというのに[LINE]おちつかないようじゃの。[WAIT][LINE][CODE D4]グランマーズ「お前さんは　やはり[LINE]もとの　[CODE C9]王子ではない。[WAIT][LINE][CODE D4]グランマーズ「いや　[CODE C9]王子が[LINE]生まれ変わったと　いうべきかの。[WAIT][LINE][CODE D4]グランマーズ「[CODE CB]や　[CODE CA]と[LINE]ちがって　お前さんは　自分の実体を[LINE]とりもどすのに　時間が　かかった...[WAIT][LINE][CODE D4]グランマーズ「そのため　夢の中を[LINE]生きてきた　[CODE C9]の　いしきが[LINE]強くなってしまったのじゃろう。[WAIT][LINE][CODE D4]グランマーズ「この城で　くらしていた[LINE]きおくが　あまり　もどらないのは[LINE]つらいかもしれんが...[WAIT][LINE][CODE D4]グランマーズ「[CODE C9]は　このまま[LINE][CODE C9]として　生きてゆけばええ。[WAIT][LINE][CODE D4]グランマーズ「[CODE C9]王子は　もう[LINE]お前さんしか　おらんのだからな。[WAIT][LINE][CODE D4]グランマーズ「......目が　覚めて[LINE]しまったのなら　城の中でも[LINE]歩いてきたら　どうじゃ?[WAIT][LINE][CODE D4]グランマーズ「お前さんの中に　いる[LINE]もうひとりの　[CODE C9]の　きおくが[LINE]また　よみがえるかも知れんぞ。[END STRING AC]"
+      },
+      {
+        "id": 4758,
+        "text": "[CODE D4]グランマーズ「王と王妃は　本当に[LINE]お前さんのことを　心配して[LINE]おったよ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5608,
+    "file": "0080.p",
+    "ids": [
+      438,
+      439
+    ],
+    "sfc_jp": "[CODE D4]ゼニス王「よくやった　[CODE D2]よ![LINE]よくぞ　ペガサスをも[LINE]かいほうしてくれた![WAIT][LINE][CODE D4]ゼニス王「ところで　どうじゃ?[LINE]天馬の背にのって　天かける気分は?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Zenith.Se pourrait-il que tu ne l'ais pas vraiment libéré?[WAIT][LINE][CODE D4]Zenith.Tout ce que tu as à faire est d'utiliser les Rènes de Pégase.[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@bゼニス王「よくやった　%a000140よ！\n\tよくぞ　ペガサスをも\n\t解放してくれた！\n@c0@",
+      "@a@bゼニス王「ところで　どうじゃ？\n\t天馬の背に乗って　空を駆ける気分は？\n@c0@"
+    ],
+    "ds_fr": [
+      "@aSeigneur Zénith@bMagnifique travail, %a000140ⓠ Pégase est à nouveau libre de voler dans les airsⓠ\n@c0@",
+      "@aSeigneur Zénith@bN'était-ce pas formidable de chevaucher un tel destrierⓡ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Magnifique travail, %a000140ⓠ Pégase est à nouveau libre de voler dans les airsⓠ N'était-ce pas formidable de chevaucher un tel destrierⓡ",
+    "original_body": "Magnifique travail, %a000140ⓠ Pégase est à nouveau libre de voler dans les airsⓠ N'était-ce pas formidable de chevaucher un tel destrierⓡ",
+    "adaptation_body": "Magnifique travail, %a000140! Vous avez même libéré Pégase! Alors, quel effet cela fait-il de voler à travers le ciel sur son dos?",
+    "adaptation_review": "D2 unique ; question sur sensation actuelle, pas instructions de rênes de l'IPS décalé.",
+    "review": "D2 unique ; question sur sensation actuelle, pas instructions de rênes de l'IPS décalé.",
+    "native_bindings": {
+      "%a000140": 210
+    },
+    "sfc_context": [
+      {
+        "id": 5607,
+        "text": "どうか　ごぶうんを![END STRING AC]"
+      },
+      {
+        "id": 5608,
+        "text": "[CODE D4]ゼニス王「よくやった　[CODE D2]よ![LINE]よくぞ　ペガサスをも[LINE]かいほうしてくれた![WAIT][LINE][CODE D4]ゼニス王「ところで　どうじゃ?[LINE]天馬の背にのって　天かける気分は?[END STRING AC]"
+      },
+      {
+        "id": 5609,
+        "text": "[CODE D4]ゼニス王「まさか　まだ　自由に[LINE]とんでいないと申すのか?[LINE]たづなを　うまく　つかうのじゃぞ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5647,
+    "file": "0079.p",
+    "ids": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "sfc_jp": "[CODE D4][CODE DB]デュラン「ほほう...　たしかに[LINE]伝説の4つの武具を　もっておる。[LINE]敵ながら　みごとなものよな。[WAIT][LINE][CODE D4][CODE DB]デュラン「世界中に　ちらばる[LINE]伝説の武具すべてを　あつめられる[LINE]ほどの人間が　いるとすれば......[WAIT][LINE][CODE D4][CODE DB]デュラン「その者は　かならずや[LINE]われらにとって[LINE]やっかいな存在に　なるであろう。[WAIT][LINE][CODE D4][CODE DB]デュラン「ならば　そうならぬうちに[LINE]そのめを　つみとっておこうと[LINE]こうして　まっていたのだが...。[WAIT][LINE][CODE D4][CODE DB]デュラン「ほう　[CODE D2]と申すのか。[LINE][CODE D2]![LINE]正直いって　私は　うれしいぞ![WAIT][LINE][CODE D4][CODE DB]デュラン「よもや　すべての武具を[LINE]あつめられる人間など[LINE]いるはずもないと思っていたからな。[WAIT][LINE][CODE D4][CODE DB]デュラン「その実力　どれほどのものか。[LINE]ひさしぶりに　血が　さわぐわ![WAIT][LINE][CODE D4][CODE DB]デュラン「いでよ!　わが　しもべよ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE DB]Duran.Cela pourrait ètre amusant![END STRING AC]",
+    "ds_jp": [
+      "@a@bデュラン「ほほう……　たしかに\n\t伝説の４つの武具を　持っておる。\n\t敵ながら　みごとなものよな。\n@c0@",
+      "@a@bデュラン「世界中にちらばる　伝説の武具\n\tすべてを集め　この城へと導かれる\n\t資格を得る人間が　いたとしたら……\n@c0@",
+      "@a@bデュラン「その者は　かならずや\n\tわれら　魔族にとって\n\tやっかいな存在と　なるであろう。\n@c0@",
+      "@a@bデュラン「ならば　そうならぬうちに\n\tその芽を　つみとっておこうと\n\tこうして　待っていたのだが……。\n@c0@",
+      "@a@bデュラン「ほう　%a000140と　申すのか。\n\t%a000140！\n\t正直いって　私は　うれしいぞ！\n@c0@",
+      "@a@bデュラン「よもや　すべての武具を\n\t集められる人間など\n\tいるはずもないと　思っていたからな。\n@c0@",
+      "@a@bデュラン「その実力　どれほどのものか。\n\tひさしぶりに　血が　さわぐわ！\n@c0@",
+      "@a@bデュラン「いでよ！　わが　しもべよ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aDragore@bJe vois que %H0860%Xtu as%Yvous avez%Z les quatre reliques légendaires. Félicitations, même si %H0860%X%A0110%Xtu es mon ennemi%Z%B0110%Xtu es mon ennemie%Z%Y%R0000%Xvous êtes mes ennemies%Yvous êtes mes ennemis%Z%Z.\n@c0@",
+      "@aDragore@bCe n'est pas rien de rassembler les quatre reliques légendaires disséminées dans le monde entier et de réussir à atteindre ce château...\n@c0@",
+      "@aDragore@bTout humain capable d'un tel exploit constitue une certaine menace pour les monstres.\n@c0@",
+      "@aDragore@bJ'ai donc attendu %H0860%Xton%Yvotre%Z arrivée... afin de tuer la menace dans l'œuf une fois pour toutes.\n@c0@",
+      "@aDragore@b%0%a000140ⓠ C'est bien ça, n'est-ce pasⓡ En vérité, je suis raviⓠ\n@c0@",
+      "@aDragore@bJ'étais convaincu qu'aucun humain ne serait capable de rassembler ces reliques... mais j'avais tort.\n@c0@",
+      "@aDragore@bMaintenant, je désire voir quelle puissance %H0860%Xtu possèdes%Yvous possédez%Z. J'ai le cœur qui s'emballe pour la première fois depuis une éternitéⓠ\n@c0@",
+      "@aDragore@bVenez à moi, mes sbiresⓠ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Je vois que %H0860%Xtu as%Yvous avez%Z les quatre reliques légendaires. Félicitations, même si %H0860%X%A0110%Xtu es mon ennemi%Z%B0110%Xtu es mon ennemie%Z%Y%R0000%Xvous êtes mes ennemies%Yvous êtes mes ennemis%Z%Z. Ce n'est pas rien de rassembler les quatre reliques légendaires disséminées dans le monde entier et de réussir à atteindre ce château... Tout humain capable d'un tel exploit constitue une certaine menace pour les monstres. J'ai donc attendu %H0860%Xton%Yvotre%Z arrivée... afin de tuer la menace dans l'œuf une fois pour toutes. %0%a000140ⓠ C'est bien ça, n'est-ce pasⓡ En vérité, je suis raviⓠ J'étais convaincu qu'aucun humain ne serait capable de rassembler ces reliques... mais j'avais tort. Maintenant, je désire voir quelle puissance %H0860%Xtu possèdes%Yvous possédez%Z. J'ai le cœur qui s'emballe pour la première fois depuis une éternitéⓠ Venez à moi, mes sbiresⓠ",
+    "original_body": "Je vois que %H0860%Xtu as%Yvous avez%Z les quatre reliques légendaires. Félicitations, même si %H0860%X%A0110%Xtu es mon ennemi%Z%B0110%Xtu es mon ennemie%Z%Y%R0000%Xvous êtes mes ennemies%Yvous êtes mes ennemis%Z%Z. Ce n'est pas rien de rassembler les quatre reliques légendaires disséminées dans le monde entier et de réussir à atteindre ce château... Tout humain capable d'un tel exploit constitue une certaine menace pour les monstres. J'ai donc attendu %H0860%Xton%Yvotre%Z arrivée... afin de tuer la menace dans l'œuf une fois pour toutes. %0%a000140ⓠ C'est bien ça, n'est-ce pasⓡ En vérité, je suis raviⓠ J'étais convaincu qu'aucun humain ne serait capable de rassembler ces reliques... mais j'avais tort. Maintenant, je désire voir quelle puissance %H0860%Xtu possèdes%Yvous possédez%Z. J'ai le cœur qui s'emballe pour la première fois depuis une éternitéⓠ Venez à moi, mes sbiresⓠ",
+    "adaptation_body": "Je vois que vous possédez bien les quatre reliques légendaires. Quel exploit, même pour nos ennemis! Un humain capable de rassembler ces reliques dispersées dans le monde entier deviendrait une menace pour nous. J'attendais donc ici pour étouffer cette menace dans l'oeuf... Vous vous nommez %a000140? %a000140! En vérité, je suis ravi! Je ne croyais pas qu'un humain pourrait tout réunir. Quelle est donc votre puissance? Pour la première fois depuis longtemps, mon sang bouillonne! Venez à moi, mes sbires!",
+    "adaptation_review": "Deux D2, DB, invitation des sbires finale. Pas condition DS supplémentaire de qualification pour atteindre le château.",
+    "review": "Deux D2, DB, invitation des sbires finale. Pas condition DS supplémentaire de qualification pour atteindre le château.",
+    "native_bindings": {
+      "%a000140": 210
+    },
+    "sfc_context": [
+      {
+        "id": 5646,
+        "text": "[CODE DB]初に　お目に　かかる。[LINE]わが名は　デュラン。[LINE]このヘルクラウド城の　主だ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5647,
+        "text": "[CODE D4][CODE DB]デュラン「ほほう...　たしかに[LINE]伝説の4つの武具を　もっておる。[LINE]敵ながら　みごとなものよな。[WAIT][LINE][CODE D4][CODE DB]デュラン「世界中に　ちらばる[LINE]伝説の武具すべてを　あつめられる[LINE]ほどの人間が　いるとすれば......[WAIT][LINE][CODE D4][CODE DB]デュラン「その者は　かならずや[LINE]われらにとって[LINE]やっかいな存在に　なるであろう。[WAIT][LINE][CODE D4][CODE DB]デュラン「ならば　そうならぬうちに[LINE]そのめを　つみとっておこうと[LINE]こうして　まっていたのだが...。[WAIT][LINE][CODE D4][CODE DB]デュラン「ほう　[CODE D2]と申すのか。[LINE][CODE D2]![LINE]正直いって　私は　うれしいぞ![WAIT][LINE][CODE D4][CODE DB]デュラン「よもや　すべての武具を[LINE]あつめられる人間など[LINE]いるはずもないと思っていたからな。[WAIT][LINE][CODE D4][CODE DB]デュラン「その実力　どれほどのものか。[LINE]ひさしぶりに　血が　さわぐわ![WAIT][LINE][CODE D4][CODE DB]デュラン「いでよ!　わが　しもべよ![END STRING AC]"
+      },
+      {
+        "id": 5648,
+        "text": "[CODE D4][CODE DB]デュラン「さあ　楽しませてもらおう![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5658,
+    "file": "0079.p",
+    "ids": [
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149
+    ],
+    "sfc_jp": "[CODE D4][CODE DB]デュラン「み...　みごとだ......。[LINE]完全に　私の負けだ......。[WAIT][LINE][CODE D4][CODE DB]デュラン「だが　まだ　終り　ではない。[LINE]私は　強い者が　好きだ。[LINE]だから　お前たちに　教えよう。[WAIT][LINE][CODE D4][CODE DB]デュラン「ムドー　ジャミラス[LINE]グラコス　そして私　デュランは[LINE]大魔王さまの　しもべに　すぎぬ。[WAIT][LINE][CODE D4][CODE DB]デュラン「われらが　あるじの名は[LINE]大魔王　デスタムーアさま。[WAIT][LINE][CODE D4][CODE DB]デュラン「さまざまな術をつかい[LINE]われらなど　まともに[LINE]戦うことすら　できぬ......。[WAIT][LINE][CODE D4][CODE DB]デュラン「強くなれ![LINE]もっと　強くなるのだ。[LINE]それらの術を　はねかえすほどに...[WAIT][LINE][CODE D4][CODE DB]デュラン「[CODE D2]よ......[LINE]こんど私が　生まれかわった時も[LINE]おぬしと　戦いたいものだな......[WAIT][LINE][CODE D4][CODE DB]デュラン「ぐふっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D2] retrouve l'équipment légendaire![END STRING AC]",
+    "ds_jp": [
+      "@a@bデュラン「み……㈢　みごとだ……。\n\t完全に　私の㈢㈢負けだ……。\n@c0@",
+      "@a@bデュラン「だが　まだ　終わりではない。\n\t私は　強い者が　好きだ。\n\tだから　お前たちに　教えよう。\n@c0@",
+      "@a@bデュラン「ムドー　ジャミラス\n\tグラコス　そして私　デュランは\n\t大魔王さまの　しもべに　すぎぬ。\n@c0@",
+      "@a@bデュラン「われらが　主の名は\n\t大魔王　デスタムーアさま。\n@c0@",
+      "@a@bデュラン「さまざまな術をつかい\n\tわれらなど　まともに\n\t戦うことすら　できぬ……。\n@c0@",
+      "@a@bデュラン「強くなれ！\n\tもっと　強くなるのだ。\n\tそれらの術を　はねかえすほどに……！\n@c0@",
+      "@a@bデュラン「%a000140よ……。\n@c0@",
+      "@a@bデュラン「もし㈢㈢　いつの日か　生まれ㈢変わり\n\tこの大地に㈢戻れたら　その㈢とき㈢㈢は……㈢㈢\n\tまた　おぬしと　戦いたい㈢㈢もの㈢㈢だ……㈢㈢㈢\n@c0@",
+      "@a@bデュラン「ぐふっ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@aDragore@bI-in-㈢croyable. J'ai été tout simplement㈢㈢ vaincu...\n@c0@",
+      "@aDragore@bMais ce n'est pas terminé. J'admire les gens qui ont de la force, et il y a quelque chose que je dois %H0860%Xte%Yvous%Z dire.\n@c0@",
+      "@aDragore@bMeurtor, Jamirus, Gracos et moi-même ne sommes que de petits démons.\n@c0@",
+      "@aDragore@bNotre chef est Mortamor. Les humains l'appellent le ⓥdémon suprêmeⓦ.\n@c0@",
+      "@aDragore@bAvec les nombreux pouvoirs qu'il possède, même nous, nous ne faisons pas le poids contre lui.\n@c0@",
+      "@aDragore@bIl va falloir que %H0860%Xtu gagnes%Yvous gagniez%Z en puissance. C'est seulement à cette condition que %H0860%Xtu pourras%Yvous pourrez%Z tenter de résister à sa force...\n@c0@",
+      "@aDragore@b%0%a000140...\n@c0@",
+      "@aDragore@bJe prie pour qu'on se㈢ rencontre à nouveau㈢㈢ dans une prochaine vie. Alors, ㈢on pourra㈢ s'affronter㈢㈢ une nouvelle fois.\n@c0@",
+      "@aDragore@b... Urrghⓠ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "I-in-㈢croyable. J'ai été tout simplement㈢㈢ vaincu... Mais ce n'est pas terminé. J'admire les gens qui ont de la force, et il y a quelque chose que je dois %H0860%Xte%Yvous%Z dire. Meurtor, Jamirus, Gracos et moi-même ne sommes que de petits démons. Notre chef est Mortamor. Les humains l'appellent le ⓥdémon suprêmeⓦ. Avec les nombreux pouvoirs qu'il possède, même nous, nous ne faisons pas le poids contre lui. Il va falloir que %H0860%Xtu gagnes%Yvous gagniez%Z en puissance. C'est seulement à cette condition que %H0860%Xtu pourras%Yvous pourrez%Z tenter de résister à sa force... %0%a000140... Je prie pour qu'on se㈢ rencontre à nouveau㈢㈢ dans une prochaine vie. Alors, ㈢on pourra㈢ s'affronter㈢㈢ une nouvelle fois. ... Urrghⓠ",
+    "original_body": "I-in-㈢croyable. J'ai été tout simplement㈢㈢ vaincu... Mais ce n'est pas terminé. J'admire les gens qui ont de la force, et il y a quelque chose que je dois %H0860%Xte%Yvous%Z dire. Meurtor, Jamirus, Gracos et moi-même ne sommes que de petits démons. Notre chef est Mortamor. Les humains l'appellent le ⓥdémon suprêmeⓦ. Avec les nombreux pouvoirs qu'il possède, même nous, nous ne faisons pas le poids contre lui. Il va falloir que %H0860%Xtu gagnes%Yvous gagniez%Z en puissance. C'est seulement à cette condition que %H0860%Xtu pourras%Yvous pourrez%Z tenter de résister à sa force... %0%a000140... Je prie pour qu'on se㈢ rencontre à nouveau㈢㈢ dans une prochaine vie. Alors, ㈢on pourra㈢ s'affronter㈢㈢ une nouvelle fois. ... Urrghⓠ",
+    "adaptation_body": "Re-remarquable... Ma défaite est totale... Mais ce n'est pas terminé. J'admire la force, alors je vais vous révéler ceci. Meurtor, Jamirus, Gracos et moi, Dragore, ne sommes que les serviteurs du démon suprême. Notre maître se nomme Mortamor. Il emploie tant de pouvoirs que même nous ne pourrions lui livrer un véritable combat... Devenez plus forts! Assez forts pour repousser ces pouvoirs... %a000140... Quand je renaîtrai, j'aimerais vous affronter à nouveau... Urgh!",
+    "adaptation_review": "Neuf segments DS 141–149, fin de réincarnation et râle inclus ; D2 unique, DB. Pas simples petits démons sans statut de serviteurs.",
+    "review": "Neuf segments DS 141–149, fin de réincarnation et râle inclus ; D2 unique, DB. Pas simples petits démons sans statut de serviteurs.",
+    "native_bindings": {
+      "%a000140": 210
+    },
+    "sfc_context": [
+      {
+        "id": 5657,
+        "text": "はっ![END STRING AC]"
+      },
+      {
+        "id": 5658,
+        "text": "[CODE D4][CODE DB]デュラン「み...　みごとだ......。[LINE]完全に　私の負けだ......。[WAIT][LINE][CODE D4][CODE DB]デュラン「だが　まだ　終り　ではない。[LINE]私は　強い者が　好きだ。[LINE]だから　お前たちに　教えよう。[WAIT][LINE][CODE D4][CODE DB]デュラン「ムドー　ジャミラス[LINE]グラコス　そして私　デュランは[LINE]大魔王さまの　しもべに　すぎぬ。[WAIT][LINE][CODE D4][CODE DB]デュラン「われらが　あるじの名は[LINE]大魔王　デスタムーアさま。[WAIT][LINE][CODE D4][CODE DB]デュラン「さまざまな術をつかい[LINE]われらなど　まともに[LINE]戦うことすら　できぬ......。[WAIT][LINE][CODE D4][CODE DB]デュラン「強くなれ![LINE]もっと　強くなるのだ。[LINE]それらの術を　はねかえすほどに...[WAIT][LINE][CODE D4][CODE DB]デュラン「[CODE D2]よ......[LINE]こんど私が　生まれかわった時も[LINE]おぬしと　戦いたいものだな......[WAIT][LINE][CODE D4][CODE DB]デュラン「ぐふっ![END STRING AC]"
+      },
+      {
+        "id": 5659,
+        "text": "[CODE D2]は　伝説の武器・防具を[LINE]とりもどした![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5661,
+    "file": "0079.p",
+    "ids": [
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "sfc_jp": "[CODE D4]テリー「うくっ......くそっ![LINE]いつだって　こうだ。[WAIT][LINE][CODE D4]テリー「こっちが　助けてほしいときは[LINE]だれも　助けてくれないくせに　なぜ[LINE]オレのやる事は　ジャマばかりする![WAIT][LINE][CODE D4]テリー「オレは　強くなりたかった![LINE]強くなれるなら　相手が魔物だろうが[LINE]なんだろうが　かまわなかったんだ![WAIT][LINE][CODE D4]テリー「さあ　殺せ!　殺すがいい![LINE]生かしておいたら　オレは　きっと[LINE]あんたらを　殺すことになる。[WAIT][LINE][CODE D4]テリー「いまのうちに　息の根を[LINE]止めておくのが　賢明ってもんだぜ。[LINE]さあ　ひと思いに　殺してくれ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9][CODE CB].Attend![END STRING AC]",
+    "ds_jp": [
+      "@a@b%a002040「うくっ……㈢㈢くそっ！\n\tいつだって　こうだ。\n@c0@",
+      "@a@b%a002040「こっちが　助けてほしいときには\n\tだれも　手を貸してくれないくせに……\n\t邪魔だけはされる！　肝心なときに！！\n@c0@",
+      "@a@b%a002040「オレは　強くなりたかった！\n\t強くなれるなら　相手が魔族だろうが\n\tなんだろうが　かまわなかったんだ！\n@c0@",
+      "@a@b%a002040「さあ　殺せ！　殺すがいい！\n\t生かしておいたら　オレは　きっと\n\tあんたらを　殺すことになる。\n@c0@",
+      "@a@b%a002040「いまのうちに　息の根を\n\t止めておくのが　賢明ってもんだぜ。\n\tさあ　ひと思いに　殺してくれ！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a%0%a002040@bUrgh...㈢㈢ %H0860%XVa te%YAllez vous%Z faire voirⓠ C'est toujours pareilⓠ\n@c0@",
+      "@a%0%a002040@bIl faut toujours que quelqu'un apparaisse au mauvais moment... Mais quand j'ai BESOIN d'aide, il n'y a plus personne...\n@c0@",
+      "@a%0%a002040@bTout ce que je voulais, c'était devenir plus fortⓠ Même si pour ça, je devais m'allier à des monstresⓠ\n@c0@",
+      "@a%0%a002040@b%H0860%XTu ferais%YVous feriez%Z mieux de m'éliminer. Sinon, c'est moi qui vais %H0860%Xte%Yvous%Z tuer.\n@c0@",
+      "@a%0%a002040@bAllezⓠ %H0860%XÉlimine-moi%YÉliminez-moi%Z tant que c'est possibleⓠ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Urgh...㈢㈢ %H0860%XVa te%YAllez vous%Z faire voirⓠ C'est toujours pareilⓠ Il faut toujours que quelqu'un apparaisse au mauvais moment... Mais quand j'ai BESOIN d'aide, il n'y a plus personne... Tout ce que je voulais, c'était devenir plus fortⓠ Même si pour ça, je devais m'allier à des monstresⓠ %H0860%XTu ferais%YVous feriez%Z mieux de m'éliminer. Sinon, c'est moi qui vais %H0860%Xte%Yvous%Z tuer. Allezⓠ %H0860%XÉlimine-moi%YÉliminez-moi%Z tant que c'est possibleⓠ",
+    "original_body": "Urgh...㈢㈢ %H0860%XVa te%YAllez vous%Z faire voirⓠ C'est toujours pareilⓠ Il faut toujours que quelqu'un apparaisse au mauvais moment... Mais quand j'ai BESOIN d'aide, il n'y a plus personne... Tout ce que je voulais, c'était devenir plus fortⓠ Même si pour ça, je devais m'allier à des monstresⓠ %H0860%XTu ferais%YVous feriez%Z mieux de m'éliminer. Sinon, c'est moi qui vais %H0860%Xte%Yvous%Z tuer. Allezⓠ %H0860%XÉlimine-moi%YÉliminez-moi%Z tant que c'est possibleⓠ",
+    "adaptation_body": "Urgh... Merde! C'est toujours pareil! Quand j'ai besoin d'aide, personne ne m'aide. Alors pourquoi faut-il toujours qu'on me mette des bâtons dans les roues? Je voulais devenir plus fort! Peu m'importait de m'allier à des monstres pour y parvenir! Allez, tuez-moi! Si vous me laissez vivre, je finirai par vous tuer. Le plus sage serait de m'achever maintenant. Allez, tuez-moi d'un seul coup!",
+    "adaptation_review": "Tommy littéral pour テリー SFC, pas CD DS introduit. Menaces et demande finale conservées, pas réplique CB de l'IPS décalé.",
+    "review": "Tommy littéral pour テリー SFC, pas CD DS introduit. Menaces et demande finale conservées, pas réplique CB de l'IPS décalé.",
+    "adaptation_speaker": "Tommy",
+    "sfc_context": [
+      {
+        "id": 5660,
+        "text": "[CODE D4]テリー「ま　まてっ![WAIT][LINE][CODE D4]テリー「オレを　このままに[LINE]してゆく気かっ!?[END STRING AC]"
+      },
+      {
+        "id": 5661,
+        "text": "[CODE D4]テリー「うくっ......くそっ![LINE]いつだって　こうだ。[WAIT][LINE][CODE D4]テリー「こっちが　助けてほしいときは[LINE]だれも　助けてくれないくせに　なぜ[LINE]オレのやる事は　ジャマばかりする![WAIT][LINE][CODE D4]テリー「オレは　強くなりたかった![LINE]強くなれるなら　相手が魔物だろうが[LINE]なんだろうが　かまわなかったんだ![WAIT][LINE][CODE D4]テリー「さあ　殺せ!　殺すがいい![LINE]生かしておいたら　オレは　きっと[LINE]あんたらを　殺すことになる。[WAIT][LINE][CODE D4]テリー「いまのうちに　息の根を[LINE]止めておくのが　賢明ってもんだぜ。[LINE]さあ　ひと思いに　殺してくれ![END STRING AC]"
+      },
+      {
+        "id": 5662,
+        "text": "[CODE D4][CODE D9][CODE CB]「まって![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5803,
+    "file": "0802.p",
+    "ids": [
+      456
+    ],
+    "sfc_jp": "[CODE C1]の　しびれが　消えた![END STRING AE]",
+    "sfc_vf_secondaire": "[CODE C0] se cogne la tète au plafond![END STRING AC]",
+    "ds_jp": [
+      "@a@b%a000180の　しびれが　きえた！\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b%0%a020180 n'est plus %A0180%Xparalysé%Z%B0180%Xparalysée%Z%C0180%X%Z.\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "%0%a020180 n'est plus %A0180%Xparalysé%Z%B0180%Xparalysée%Z%C0180%X%Z.",
+    "original_body": "%0%a020180 n'est plus %A0180%Xparalysé%Z%B0180%Xparalysée%Z%C0180%X%Z.",
+    "adaptation_body": "La paralysie de %a020180 se dissipe!",
+    "adaptation_review": "C1 nom de la cible native, pas C0 du faux IPS. Accord de genre neutralisé sans effacer la cible, AE conservé.",
+    "review": "C1 nom de la cible native, pas C0 du faux IPS. Accord de genre neutralisé sans effacer la cible, AE conservé.",
+    "native_bindings": {
+      "%a020180": 193
+    },
+    "sfc_context": [
+      {
+        "id": 5802,
+        "text": "[CODE C1]の　身体から[LINE]毒が　消えた![END STRING AC]"
+      },
+      {
+        "id": 5803,
+        "text": "[CODE C1]の　しびれが　消えた![END STRING AE]"
+      },
+      {
+        "id": 5804,
+        "text": "[CODE C0]は[LINE]天井に　頭をぶつけた![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6367,
+    "file": "0818.p",
+    "ids": [
+      40
+    ],
+    "sfc_jp": "[CODE DE]さすれば　わが教会に[LINE][CODE BB]ゴールドの　ご寄付を。[LINE]よろしいですかな?[END STRING AC]",
+    "sfc_vf_secondaire": "Une donation de [CODE BB] piêces d'or pour mes services. Vous ètes d'accord?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「さすれば　わが教会に\n\t%a000650ゴールドの　ご寄付を。\n\tよろしいですかな？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Pour accomplir cette tâche, je dois vous demander un modeste tribut de %a000650 pièces d'or.\n㈡\n*ⓢ Auriez-vous l'obligeance d'y consentir, mon enfantⓡ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Pour accomplir cette tâche, je dois vous demander un modeste tribut de %a000650 pièces d'or.\n㈡\n*ⓢ Auriez-vous l'obligeance d'y consentir, mon enfantⓡ",
+    "original_body": "Pour accomplir cette tâche, je dois vous demander un modeste tribut de %a000650 pièces d'or.\n㈡\n*ⓢ Auriez-vous l'obligeance d'y consentir, mon enfantⓡ",
+    "adaptation_body": "Je vous demande donc un don de %a000650 pièces d'or pour notre église. Acceptez-vous?",
+    "adaptation_review": "BB montant de don identique dans JP SFC/DS ; DE conservé, pas enfant ajouté.",
+    "review": "BB montant de don identique dans JP SFC/DS ; DE conservé, pas enfant ajouté.",
+    "native_bindings": {
+      "%a000650": 187
+    },
+    "sfc_context": [
+      {
+        "id": 6366,
+        "text": "[CODE DE]おお神よ!　わが主よ![LINE][CODE B3]の身体より[LINE]毒のけがれを　きよめたまえ![WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6367,
+        "text": "[CODE DE]さすれば　わが教会に[LINE][CODE BB]ゴールドの　ご寄付を。[LINE]よろしいですかな?[END STRING AC]"
+      },
+      {
+        "id": 6368,
+        "text": "[CODE DE]なんと　寄付をするには[LINE]お金が　たりないようじゃ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6390,
+    "file": "0819.p",
+    "ids": [
+      40
+    ],
+    "sfc_jp": "[CODE DE]それでは　わが教会に[LINE][CODE BB]ゴールドの　ご寄付を。[LINE]よろしいですか?[END STRING AC]",
+    "sfc_vf_secondaire": "Pour mon église, un don de [CODE BB] piêce d'or. Étes-vous d'accord?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「それでは　わが教会に\n\t%a000650ゴールドの　ご寄付を。\n\tよろしいですか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Si je puis me permettre... Pour accomplir cette tâche, je dois vous demander un modeste tribut de %a000650 pièces d'or.\n㈡\n*ⓢ Auriez-vous l'obligeance de vous en acquitterⓡ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Si je puis me permettre... Pour accomplir cette tâche, je dois vous demander un modeste tribut de %a000650 pièces d'or.\n㈡\n*ⓢ Auriez-vous l'obligeance de vous en acquitterⓡ",
+    "original_body": "Si je puis me permettre... Pour accomplir cette tâche, je dois vous demander un modeste tribut de %a000650 pièces d'or.\n㈡\n*ⓢ Auriez-vous l'obligeance de vous en acquitterⓡ",
+    "adaptation_body": "Il faudra donc faire un don de %a000650 pièces d'or à notre église. Acceptez-vous?",
+    "adaptation_review": "Même montant et question, autre voix DE ; montant natif, pas condition DS.",
+    "review": "Même montant et question, autre voix DE ; montant natif, pas condition DS.",
+    "native_bindings": {
+      "%a000650": 187
+    },
+    "sfc_context": [
+      {
+        "id": 6389,
+        "text": "[CODE DE]ああ　われらが神よ。[LINE][CODE B3]を　むしばむ毒を[LINE]おきよめ　ください。[WAIT][CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6390,
+        "text": "[CODE DE]それでは　わが教会に[LINE][CODE BB]ゴールドの　ご寄付を。[LINE]よろしいですか?[END STRING AC]"
+      },
+      {
+        "id": 6391,
+        "text": "[CODE DE]ざんねんですが[LINE]お金が　たりないようですわ。[WAIT][CODE D5][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6546,
+    "file": "0821.p",
+    "ids": [
+      7,
+      8
+    ],
+    "sfc_jp": "[CODE C9]さんは　現在　コインを[LINE][CODE BB]枚　お持ちです。[WAIT][LINE]1枚20ゴールドですが[LINE]何枚　お求めに　なりますか?[END STRING AC]",
+    "sfc_vf_secondaire": "Vous avez actuellement [CODE BB] piêces.[WAIT][LINE]1 piêce coûte 20 piêces d'or. Combien en voulez-vous?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「%a000120さんは　現在　コインを\n\t%a000420枚　お持ちです。\n@c0@",
+      "@a@b＊「１枚　２０ゴールドですが\n\t何枚　お求めになりますか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Vous avez actuellement %a000420 jeton%I0420%X%Ys%Z, %a000120.\n@c0@",
+      "@a@b*ⓢ Chaque jeton de casino coûte 20 pièces d'or.\nCombien voulez-vous en acheterⓡ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Vous avez actuellement %a000420 jeton%I0420%X%Ys%Z, %a000120. Chaque jeton de casino coûte 20 pièces d'or.\nCombien voulez-vous en acheterⓡ",
+    "original_body": "Vous avez actuellement %a000420 jeton%I0420%X%Ys%Z, %a000120. Chaque jeton de casino coûte 20 pièces d'or.\nCombien voulez-vous en acheterⓡ",
+    "adaptation_body": "%a000090, votre nombre actuel de jetons est de %a000420. Chaque jeton coûte 20 pièces d'or. Combien en voulez-vous?",
+    "adaptation_review": "C9 SFC conservé, pas D3 du contexte DS ; BB nombre de jetons. Formulation sans accord variable singulier/pluriel.",
+    "review": "C9 SFC conservé, pas D3 du contexte DS ; BB nombre de jetons. Formulation sans accord variable singulier/pluriel.",
+    "native_bindings": {
+      "%a000420": 187
+    },
+    "sfc_context": [
+      {
+        "id": 6545,
+        "text": "[CODE DE]いらっしゃいませ。[LINE]ここは　コイン売場です。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6546,
+        "text": "[CODE C9]さんは　現在　コインを[LINE][CODE BB]枚　お持ちです。[WAIT][LINE]1枚20ゴールドですが[LINE]何枚　お求めに　なりますか?[END STRING AC]"
+      },
+      {
+        "id": 6547,
+        "text": "[CODE DE][CODE BB]枚ですね。[CODE D5][LINE][END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 6552,
+    "file": "0822.p",
+    "ids": [
+      7
+    ],
+    "sfc_jp": "[CODE C9]さんは　現在　コインを[LINE][CODE BB]枚　お持ちですが[LINE]品物と　こうかん　しますか?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE C9] a actuellement [CODE BB] piêces. Voulez-vous acheter quelquechose?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「%a000120さんは　現在　コインを\n\t%a000420枚　お持ちですが\n\t景品と　こうかん　しますか？\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Vous avez actuellement %a000420 jeton%I0420%X%Ys%Z.\nVoulez-vous %I0420%Xl'%Yles %Zéchanger contre l'un de nos prixⓡ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Vous avez actuellement %a000420 jeton%I0420%X%Ys%Z.\nVoulez-vous %I0420%Xl'%Yles %Zéchanger contre l'un de nos prixⓡ",
+    "original_body": "Vous avez actuellement %a000420 jeton%I0420%X%Ys%Z.\nVoulez-vous %I0420%Xl'%Yles %Zéchanger contre l'un de nos prixⓡ",
+    "adaptation_body": "%a000090, votre nombre actuel de jetons est de %a000420. Voulez-vous les échanger contre un prix?",
+    "adaptation_review": "C9 omis FR DS restauré ; BB jetons, pas achat direct d'objet de l'IPS.",
+    "review": "C9 omis FR DS restauré ; BB jetons, pas achat direct d'objet de l'IPS.",
+    "native_bindings": {
+      "%a000420": 187
+    },
+    "sfc_context": [
+      {
+        "id": 6551,
+        "text": "[CODE DE]どうも　ありがとうございました。[END STRING AC]"
+      },
+      {
+        "id": 6552,
+        "text": "[CODE C9]さんは　現在　コインを[LINE][CODE BB]枚　お持ちですが[LINE]品物と　こうかん　しますか?[END STRING AC]"
+      },
+      {
+        "id": 6553,
+        "text": "[CODE DE]どれと　こうかん　しますか?[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6646,
+    "file": "0838.p",
+    "ids": [
+      8
+    ],
+    "sfc_jp": "[CODE D4]司会「もうしわけ　ありませんが[LINE]今回は　男の人だけしか[LINE]参加できませんので......[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Président de séance.Je suis désolé, mais ce concours est réservé aux hommes…[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「もうしわけ　ありませんが\n\t今回は　%a002270だけしか\n\t参加できないんです。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ça m'attriste de vous dire ça, mais on n'accepte que les %a002270 dans cette manche.\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Ça m'attriste de vous dire ça, mais on n'accepte que les %a002270 dans cette manche.",
+    "original_body": "Ça m'attriste de vous dire ça, mais on n'accepte que les %a002270 dans cette manche.",
+    "adaptation_body": "Je suis désolé, mais cette épreuve est réservée aux hommes...",
+    "adaptation_review": "Présentateur nommé SFC ; catégorie DS dynamique explicitée selon branche masculine SFC.",
+    "review": "Présentateur nommé SFC ; catégorie DS dynamique explicitée selon branche masculine SFC.",
+    "adaptation_speaker": "Présentateur",
+    "sfc_context": [
+      {
+        "id": 6645,
+        "text": "[CODE D4]司会「さあ　どなたが　参加しますか?[END STRING AC]"
+      },
+      {
+        "id": 6646,
+        "text": "[CODE D4]司会「もうしわけ　ありませんが[LINE]今回は　男の人だけしか[LINE]参加できませんので......[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6647,
+        "text": "[CODE D4]司会「もうしわけ　ありませんが[LINE]今回は　女の人だけしか[LINE]参加できませんので......[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6647,
+    "file": "0838.p",
+    "ids": [
+      8
+    ],
+    "sfc_jp": "[CODE D4]司会「もうしわけ　ありませんが[LINE]今回は　女の人だけしか[LINE]参加できませんので......[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Président de séance.Je suis désolé, mais ce concours est réservé aux femmes…[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「もうしわけ　ありませんが\n\t今回は　%a002270だけしか\n\t参加できないんです。\n@c0@"
+    ],
+    "ds_fr": [
+      "@a@b*ⓢ Ça m'attriste de vous dire ça, mais on n'accepte que les %a002270 dans cette manche.\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Ça m'attriste de vous dire ça, mais on n'accepte que les %a002270 dans cette manche.",
+    "original_body": "Ça m'attriste de vous dire ça, mais on n'accepte que les %a002270 dans cette manche.",
+    "adaptation_body": "Je suis désolé, mais cette épreuve est réservée aux femmes...",
+    "adaptation_review": "Même DS générique, branche féminine relue séparément ; présentateur nommé SFC.",
+    "review": "Même DS générique, branche féminine relue séparément ; présentateur nommé SFC.",
+    "adaptation_speaker": "Présentateur",
+    "sfc_context": [
+      {
+        "id": 6646,
+        "text": "[CODE D4]司会「もうしわけ　ありませんが[LINE]今回は　男の人だけしか[LINE]参加できませんので......[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6647,
+        "text": "[CODE D4]司会「もうしわけ　ありませんが[LINE]今回は　女の人だけしか[LINE]参加できませんので......[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6648,
+        "text": "[CODE D4]司会「もうしわけ　ありませんが[LINE]今回は　モンスターさんだけしか[LINE]参加できませんので......[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6708,
+    "file": "0074.p",
+    "ids": [
+      290,
+      291
+    ],
+    "sfc_jp": "[CODE D4]ダンテ「わしは　[CODE BB]ばんを[LINE]おしたんじゃがのう......。[WAIT][LINE][CODE D4]ダンテ「まあ　しんさは[LINE]多数決じゃからな。[LINE]また　ちょうせん　してくれい。[END STRING AC]",
+    "sfc_vf_secondaire": "6708<0559>[CODE D4]Dante[CODE BB][LINE][WAIT][LINE][CODE D4]Dante[END STRING AC]",
+    "ds_jp": [
+      "@a@bダンテ「わしは　%a002320番を\n\tおしたんじゃがのう……。\n@c0@",
+      "@a@bダンテ「まあ　しんさは\n\t多数決じゃからな。\n\tまた　挑戦してくれい。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aHugo@bC'est vous, qui m'avez le plus ému, numéro %a002320...\n@c0@",
+      "@aHugo@bMais c'est le résultat des votes qui compte.\nIl faudra retenter votre chance, c'est comprisⓡ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "C'est vous, qui m'avez le plus ému, numéro %a002320... Mais c'est le résultat des votes qui compte.\nIl faudra retenter votre chance, c'est comprisⓡ",
+    "original_body": "C'est vous, qui m'avez le plus ému, numéro %a002320... Mais c'est le résultat des votes qui compte.\nIl faudra retenter votre chance, c'est comprisⓡ",
+    "adaptation_body": "J'avais voté pour le numéro %a002320... Mais les juges décident à la majorité. Retentez votre chance!",
+    "adaptation_review": "BB numéro soutenu par le juge, pas forcément le concurrent auquel il parle ; majorité SFC.",
+    "review": "BB numéro soutenu par le juge, pas forcément le concurrent auquel il parle ; majorité SFC.",
+    "native_bindings": {
+      "%a002320": 187
+    },
+    "sfc_context": [
+      {
+        "id": 6707,
+        "text": "[CODE D4]ダンテ「みんな　なかなか[LINE]よかったぞい。[LINE]ほっほっほっ![END STRING AC]"
+      },
+      {
+        "id": 6708,
+        "text": "[CODE D4]ダンテ「わしは　[CODE BB]ばんを[LINE]おしたんじゃがのう......。[WAIT][LINE][CODE D4]ダンテ「まあ　しんさは[LINE]多数決じゃからな。[LINE]また　ちょうせん　してくれい。[END STRING AC]"
+      },
+      {
+        "id": 6709,
+        "text": "[CODE D4]ダンテ「ふむ...　今日は　みんな[LINE]よく　がんばったのう。[WAIT][LINE][CODE D4]ダンテ「勝負は　時の運![LINE]まけた者も　あきらめずに[LINE]また　ちょうせんしてくれい。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6713,
+    "file": "0074.p",
+    "ids": [
+      306
+    ],
+    "sfc_jp": "[CODE D4]ラルフ「んー......。　まあ[LINE]なかなか　だったよ　[CODE BB]ばんさん。[LINE]その　ちょうしで　がんばって。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Ralph.<0559>Ummm… Wouah! Ce n'était pas facile. Numéro [CODE BB].[END STRING AC]",
+    "ds_jp": [
+      "@a@bラルフ「んー……。　まあ\n\tなかなか　だったよ　%a002300番さん。\n\tその調子で　がんばって。\n@c0@"
+    ],
+    "ds_fr": [
+      "@aCalvin@bBien joué, numéro %a002300. Vous m'avez impressionné aujourd'hui, et ce n'est pas une mince affaireⓠ\n@c0@"
+    ],
+    "status": "RELU",
+    "ds_fr_body": "Bien joué, numéro %a002300. Vous m'avez impressionné aujourd'hui, et ce n'est pas une mince affaireⓠ",
+    "original_body": "Bien joué, numéro %a002300. Vous m'avez impressionné aujourd'hui, et ce n'est pas une mince affaireⓠ",
+    "adaptation_body": "Mmm... C'était plutôt bien, numéro %a002300. Continuez comme ça!",
+    "adaptation_review": "BB numéro et encouragement ; retire hyperbole DS.",
+    "review": "BB numéro et encouragement ; retire hyperbole DS.",
+    "native_bindings": {
+      "%a002300": 187
+    },
+    "sfc_context": [
+      {
+        "id": 6712,
+        "text": "[CODE D4]ラルフ「いやー　今日は[LINE]しんさいん長が　ゴネちゃって[LINE]まいったよ。[WAIT][LINE][CODE D4]ラルフ「ボクは　ぜったい　こういう[LINE]女の人とは　結婚したくないなー。[LINE]あっ　失礼。[END STRING AC]"
+      },
+      {
+        "id": 6713,
+        "text": "[CODE D4]ラルフ「んー......。　まあ[LINE]なかなか　だったよ　[CODE BB]ばんさん。[LINE]その　ちょうしで　がんばって。[END STRING AC]"
+      },
+      {
+        "id": 6714,
+        "text": "[CODE D4]ラルフ「んー...　5ばんの　[CODE B2]さん[LINE]ちょうネクタイだけが[LINE]ういてたみたいよ。[WAIT]　[LINE][CODE D4]ラルフ「ちょうネクタイをするなら[LINE]タキシードとかで　バッチリ[LINE]きめないとね。次に　期待かな。[END STRING AC]"
+      }
+    ]
+  }
+]

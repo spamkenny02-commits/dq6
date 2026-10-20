@@ -1,0 +1,22 @@
+{
+  "result_sha256": "18b5f0dbe37ccb73054c582c8248c0c094e7af667fad1ed8fd15dc657566543e",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "new_texts_rendered": 22,
+  "pages_visually_reviewed": 117,
+  "first_pass_all_22_pages": 92,
+  "controlled_BB_pages": 25,
+  "controlled_BB_decimal_observed": 12345,
+  "D2_observed": "AM",
+  "C1_observed": "Olivier",
+  "C9_observed": "AM",
+  "CB_observed": "Emilie",
+  "CA_observed": "Olivier",
+  "eight_C9_occurrences_in_4757_preserved": true,
+  "long_dialogues_and_pagination_coherent": true,
+  "journal_visually_reviewed": true,
+  "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "natural_scenes_played": false,
+  "real_transactions_tested": false,
+  "limits": "Les 22 textes ont un banc de rendu, pas toutes leurs branches ni scènes naturelles. Valeurs RAM diagnostiques seulement ; les choix visibles appartiennent au dialogue hôte du camp."
+}
