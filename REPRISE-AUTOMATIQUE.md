@@ -1,3 +1,11 @@
+# Reprise v0.44
+
+Correction technique isolée : extension minimale Huffman C4/DF, vecteur C4 japonais rétabli, quatre aides grammaticales adaptées. Aucune sélection principale ajoutée ou modifiée. Nom du sac conservé en sauvegarde. Traduire les 792 textes restants ; conserver les réserves et les audits naturels ouverts.
+
+# Reprise v0.44
+
+Correction technique isolée : extension minimale Huffman C4/DF, vecteur C4 japonais rétabli, quatre aides grammaticales adaptées. Aucune sélection principale ajoutée ou modifiée. Nom du sac conservé en sauvegarde. Traduire les 792 textes restants ; conserver les réserves et les audits naturels ouverts.
+
 # Reprise v0.43
 
 63 ajouts : cris, répliques courtes, noms variables de sorts et de vocations, appels aux compagnons. 6414 conserve deux C0, 6416 deux C0 et B2, 6441 deux C0 puis D3 ; 5281 deux C9. Noms de locuteurs natifs conservés. Les 26 cas différés historiques v0.34 sont réconciliés : 2368 et 6265 résolus explicitement en v0.41, 24 encore différés. Le reliquat reproductible compte 792 textes non validés et sépare les propositions de mots des validations. Continuer les 792 textes et les tables. Audits hérités et scènes naturelles ouverts, pas finalisé.

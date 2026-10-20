@@ -1,20 +1,20 @@
 {
-  "release": "v0.43",
+  "release": "v0.44",
   "status": "PARTIEL",
   "main_script": {
     "validated": 6165,
     "visible_total": 6957,
-    "new_this_pass": 63,
+    "new_this_pass": 0,
     "remaining": 792
   },
-  "baseline": "v0.42",
+  "baseline": "v0.43",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 25
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.43",
+    "inventory_version": "v0.44",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -23,11 +23,12 @@
     "spell_action_labels_inserted": 20,
     "new_this_pass": 0,
     "prepared_places": 25,
-    "confirmed_french_entries": 37
+    "confirmed_french_entries": 37,
+    "native_grammar_helpers_adapted": 4
   },
   "rom_bytes": 8388608,
-  "notes": "63 ajouts : cris, répliques courtes, noms variables de sorts et de vocations, appels aux compagnons. 6414 conserve deux C0, 6416 deux C0 et B2, 6441 deux C0 puis D3 ; 5281 deux C9. Noms de locuteurs natifs conservés. Les 26 cas différés historiques v0.34 sont réconciliés : 2368 et 6265 résolus explicitement en v0.41, 24 encore différés. Le reliquat reproductible compte 792 textes non validés et sépare les propositions de mots des validations.",
-  "next": "Continuer les 792 textes et les tables. Audits hérités et scènes naturelles ouverts, pas finalisé.",
+  "notes": "Correction technique isolée : extension minimale Huffman C4/DF, vecteur C4 japonais rétabli, quatre aides grammaticales adaptées. Aucune sélection principale ajoutée ou modifiée. Nom du sac conservé en sauvegarde.",
+  "next": "Traduire les 792 textes restants ; conserver les réserves et les audits naturels ouverts.",
   "deferred_remaining_from_v034": 24,
   "resolved_from_v034_ids": [
     2368,

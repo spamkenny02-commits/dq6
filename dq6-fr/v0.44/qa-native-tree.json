@@ -1,0 +1,25 @@
+{
+  "result_sha256": "289634cf8ccf362c9e11e645a6633154d91674a12b06d8c5acfc68846a8f3d1a",
+  "old_leaves": 138,
+  "new_leaves": 140,
+  "all_old_bitpaths_unchanged_except_D6_E1_append_zero": true,
+  "added_commands": [
+    196,
+    223
+  ],
+  "forced_plural_branch_probes": [
+    {
+      "id": 9000,
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"forced44-9000\", \"message_id\": 100, \"frame_mean\": 46.52182152157738}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 9001,
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"forced44-9001\", \"message_id\": 100, \"frame_mean\": 46.170817057291664}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 9002,
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"forced44-9002\", \"message_id\": 100, \"frame_mean\": 46.55279250372024}\nMap_ExtendedHiROMMap\n"
+    }
+  ],
+  "limits": "Private forced comparison results exercise rendering branches, not natural party counting."
+}

@@ -1,0 +1,34 @@
+{
+  "source": "Japanese original ROM handlers and byte-coded table; DS French contextual plural forms, not a fuzzy match.",
+  "entries": [
+    {
+      "sid": "0118",
+      "jp": "たち",
+      "old": "s",
+      "fr": " et Cie",
+      "reason": "Conditional companion suffix; neutral nominal sentence required for singular/plural."
+    },
+    {
+      "sid": "011C",
+      "jp": "がた",
+      "old": "M11C",
+      "fr": "",
+      "reason": "French vous covers the honorific plural, retain DF command."
+    },
+    {
+      "sid": "011D",
+      "jp": "みなさん",
+      "old": "M11D",
+      "fr": "vous tous",
+      "reason": "E0 plural branch."
+    },
+    {
+      "sid": "011E",
+      "jp": "あなた",
+      "old": "M11E",
+      "fr": "vous",
+      "reason": "E0 singular polite branch."
+    }
+  ],
+  "bag_sid_09C8": "Intentionally empty ROM slot resolved through saved runtime names. Not filled or frozen."
+}
