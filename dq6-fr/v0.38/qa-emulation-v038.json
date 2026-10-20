@@ -1,0 +1,17 @@
+{
+  "result_sha256": "f9b14485ce0d6e846468c5040ee180326104ca06721ba8ca0278ed8c1eb8abd2",
+  "core_repository": "snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "all_20_label_screens_visually_reviewed": true,
+  "three_native_B2_lookups_per_label": true,
+  "labels_complete_and_unclipped_in_diagnostic": true,
+  "initial_single_lookup_probe_missed_short_names": true,
+  "initial_probe_cause_established": false,
+  "journal_menu_visually_reviewed": true,
+  "journal_screenshot_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "native_spell_battle_menu_windows_tested": false,
+  "spell_execution_tested": false,
+  "natural_progression_played": false,
+  "release_machine_code_changed": false,
+  "limits": "Redirection de diagnostic au camp, trois noms répétés par écran. Ni fenêtre native de liste de sorts ni combat ni parcours naturel. Ce banc ne détermine pas la cause exacte des captures initiales trop tardives."
+}

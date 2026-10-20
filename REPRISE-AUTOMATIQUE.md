@@ -1,6 +1,10 @@
 # Reprise DQVI FR depuis GitHub
 
-Dernière version : v0.37, 5905/6957 intégrés, 1052 restants. Nouveau lot : 51 adaptations explicites des variantes DS de genre/nombre, sans modification du moteur. Principal préparé actif : 0. Tables : huit lieux et Gus, 25 lieux préparés ; inventaire reproductible v0.37, 17 entrées FR confirmées. Toujours 8 Mio.
+Dernière version : v0.38, 5905/6957 intégrés, 1052 restants. Depuis v0.36 : 51 nouveaux textes et 20 noms séparés de sorts/actions. Tables : huit lieux, Gus et 20 sorts/actions intégrés, 25 lieux préparés ; inventaire v0.38, 37 entrées FR confirmées. Principal préparé actif : 0. Toujours 8 Mio.
+
+## Lot v0.38 : 20 noms de sorts/actions
+
+Lire v0.38/LISEZ-MOI.md et revue-sorts-v038.json. Périmètre strict : 20 SID sans alias, ASCII complet, une ligne, au plus neuf cellules, aucune largeur augmentée. Aucun ajout principal ; revue-lot-v038.json vide intentionnellement. 5905 sélections et 2492 autres noms inchangés. Recette pass38.py, helper spells.py, comparaison avec v0.37. Snes9x B2 : les 20 noms observés trois fois chacun, pas leurs fenêtres natives de sorts/combat ni exécution des actions. Sonde initiale manquant les noms courts conservée ; ne pas prétendre en connaître la cause exacte ni avoir corrigé le moteur. BPS/IPS, mauvaises sources, redécodage, bus et Journal vérifiés. Inventaire : audit_tables.py v0.38 puis inventaire_tables_v038.py v0.38. Continuer 1052 textes et les tables ; alphabets accentués, fenêtres natives, 25 lieux préparés, 26 cas différés v0.34 et scènes naturelles héritées ouverts. Ne pas annoncer finalisé.
 
 ## Lot v0.37 : variantes DS adaptées
 

@@ -1,0 +1,606 @@
+[
+  {
+    "sid": 1570,
+    "position": 1106,
+    "sfc_jp": "ギラ",
+    "current": "Firebal",
+    "french": "Crame",
+    "old_bytes": "154af043424d",
+    "new_bytes": "1253424e46",
+    "runtime_sids": [
+      1570
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 3,
+        "jp": "ギラ",
+        "fr": "Crame"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte ギラ, sort de feu de base. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1ギラ@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Crame@"
+    ]
+  },
+  {
+    "sid": 1576,
+    "position": 1112,
+    "sfc_jp": "バギ",
+    "current": "Infernos",
+    "french": "Tornade",
+    "old_bytes": "184f47dae654",
+    "new_bytes": "2350534f424546",
+    "runtime_sids": [
+      1576
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 9,
+        "jp": "バギ",
+        "fr": "Tornade"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte バギ, vent de base. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1バギ@"
+    ],
+    "ds_fr_raw": [
+      "@2la @3une @4Tornade@"
+    ]
+  },
+  {
+    "sid": 1579,
+    "position": 1115,
+    "sfc_jp": "ヒャド",
+    "current": "IceBolt",
+    "french": "Glace",
+    "old_bytes": "18d311504d55",
+    "new_bytes": "164d424446",
+    "runtime_sids": [
+      1579
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 12,
+        "jp": "ヒャド",
+        "fr": "Glace"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte ヒャド, glace de base. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1ヒャド@"
+    ],
+    "ds_fr_raw": [
+      "@2la @3une @4Glace@"
+    ]
+  },
+  {
+    "sid": 1581,
+    "position": 1117,
+    "sfc_jp": "マヒャド",
+    "current": "SnowStorm",
+    "french": "Gigaglace",
+    "old_bytes": "22e6582255ec4e",
+    "new_bytes": "164a4842484d424446",
+    "runtime_sids": [
+      1581
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 14,
+        "jp": "マヒャド",
+        "fr": "Gigaglace"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte マヒャド, rang de glace supérieur. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1マヒャド@"
+    ],
+    "ds_fr_raw": [
+      "@2la @3une @4Gigaglace@"
+    ]
+  },
+  {
+    "sid": 1585,
+    "position": 1121,
+    "sfc_jp": "ザキ",
+    "current": "Beat",
+    "french": "Kill",
+    "old_bytes": "11d755",
+    "new_bytes": "1a4a4d4d",
+    "runtime_sids": [
+      1585
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 18,
+        "jp": "ザキ",
+        "fr": "Kill"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte ザキ, mort instantanée. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1ザキ@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Kill@"
+    ]
+  },
+  {
+    "sid": 1588,
+    "position": 1124,
+    "sfc_jp": "ニフラム",
+    "current": "Expell",
+    "french": "Zap",
+    "old_bytes": "14595146e3",
+    "new_bytes": "294251",
+    "runtime_sids": [
+      1588
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 21,
+        "jp": "ニフラム",
+        "fr": "Zap"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte ニフラム, expulsion. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1ニフラム@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Zap@"
+    ]
+  },
+  {
+    "sid": 1589,
+    "position": 1125,
+    "sfc_jp": "メガンテ",
+    "current": "Sacrifice",
+    "french": "Kamikaze",
+    "old_bytes": "22cd534a47de46",
+    "new_bytes": "1a424e4a4c425b46",
+    "runtime_sids": [
+      1589
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 22,
+        "jp": "メガンテ",
+        "fr": "Kamikaze"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte メガンテ, sacrifice. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1メガンテ@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Kamikaze@"
+    ]
+  },
+  {
+    "sid": 1592,
+    "position": 1128,
+    "sfc_jp": "マホトーン",
+    "current": "StopSpell",
+    "french": "Antimagie",
+    "old_bytes": "22555051225146e3",
+    "new_bytes": "104f554a4e42484a46",
+    "runtime_sids": [
+      1592
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 25,
+        "jp": "マホトーン",
+        "fr": "Antimagie"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte マホトーン, blocage magique. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1マホトーン@"
+    ],
+    "ds_fr_raw": [
+      "@2l'@3un @4Antimagie@"
+    ]
+  },
+  {
+    "sid": 1604,
+    "position": 1140,
+    "sfc_jp": "モシャス",
+    "current": "Mimic",
+    "french": "Morph",
+    "old_bytes": "1c4a4ede",
+    "new_bytes": "1c50535149",
+    "runtime_sids": [
+      1604
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 40,
+        "jp": "モシャス",
+        "fr": "Morph"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte モシャス, imitation. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1モシャス@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Morph@"
+    ]
+  },
+  {
+    "sid": 1605,
+    "position": 1141,
+    "sfc_jp": "ドラゴラム",
+    "current": "BeDragon",
+    "french": "Pouf",
+    "old_bytes": "114613ef48ea",
+    "new_bytes": "1f505647",
+    "runtime_sids": [
+      1605
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 41,
+        "jp": "ドラゴラム",
+        "fr": "Pouf"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte ドラゴラム, métamorphose en dragon. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1ドラゴラム@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Pouf@"
+    ]
+  },
+  {
+    "sid": 1611,
+    "position": 1147,
+    "sfc_jp": "ベホマズン",
+    "current": "Healusall",
+    "french": "Omnisoin",
+    "old_bytes": "17d74dfa42e3",
+    "new_bytes": "1e4e4f4a54504a4f",
+    "runtime_sids": [
+      1611
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 54,
+        "jp": "ベホマズン",
+        "fr": "Omnisoin"
+      },
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 174,
+        "jp": "ベホマズン",
+        "fr": "Omnisoin"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte ベホマズン, soin de groupe maximal. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1ベホマズン@",
+      "@1ベホマズン@"
+    ],
+    "ds_fr_raw": [
+      "@2l'@3un @4Omnisoin@",
+      "@2l'@3un @4Omnisoin@"
+    ]
+  },
+  {
+    "sid": 1612,
+    "position": 1148,
+    "sfc_jp": "ザオラル",
+    "current": "Vivify",
+    "french": "Rappel",
+    "old_bytes": "254a574a475a",
+    "new_bytes": "21425151464d",
+    "runtime_sids": [
+      1612
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 55,
+        "jp": "ザオラル",
+        "fr": "Rappel"
+      },
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 176,
+        "jp": "ザオラル",
+        "fr": "Rappel"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte ザオラル, résurrection partielle. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1ザオラル@",
+      "@1ザオラル@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Rappel@",
+      "@2le @3un @4Rappel@"
+    ]
+  },
+  {
+    "sid": 1620,
+    "position": 1156,
+    "sfc_jp": "きあいため",
+    "current": "PowerUp",
+    "french": "Tension",
+    "old_bytes": "1feeda2451",
+    "new_bytes": "23464f544a504f",
+    "runtime_sids": [
+      1620
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 73,
+        "jp": "きあいため",
+        "fr": "Tension"
+      },
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 157,
+        "jp": "きあいため",
+        "fr": "Tension"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte きあいため, concentration de force. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1きあいため@",
+      "@1きあいため@"
+    ],
+    "ds_fr_raw": [
+      "@2la @3une @4Tension@",
+      "@2la @3une @4Tension@"
+    ]
+  },
+  {
+    "sid": 1627,
+    "position": 1163,
+    "sfc_jp": "マホターン",
+    "current": "Reflect",
+    "french": "Rebond",
+    "old_bytes": "214647e24455",
+    "new_bytes": "214643504f45",
+    "runtime_sids": [
+      1627
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 61,
+        "jp": "マホターン",
+        "fr": "Rebond"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte マホターン, réflexion magique. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1マホターン@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Rebond@"
+    ]
+  },
+  {
+    "sid": 1628,
+    "position": 1164,
+    "sfc_jp": "おいかぜ",
+    "current": "AirWall",
+    "french": "Riposte",
+    "old_bytes": "104a532642e3",
+    "new_bytes": "214a5150545546",
+    "runtime_sids": [
+      1628
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 80,
+        "jp": "おいかぜ",
+        "fr": "Riposte"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte おいかぜ, réflexion de souffle. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1おいかぜ@"
+    ],
+    "ds_fr_raw": [
+      "@2la @3une @4Riposte@"
+    ]
+  },
+  {
+    "sid": 1639,
+    "position": 1175,
+    "sfc_jp": "おどりふうじ",
+    "current": "Stillness",
+    "french": "Antidanse",
+    "old_bytes": "22554ae34fdb54",
+    "new_bytes": "104f554a45424f5446",
+    "runtime_sids": [
+      1639
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 90,
+        "jp": "おどりふうじ",
+        "fr": "Antidanse"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte おどりふうじ, blocage de danse. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias. Le point-virgule de おどり;ふうじ est le séparateur de coupure DS, pas une commande SFC.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1おどり;ふうじ@"
+    ],
+    "ds_fr_raw": [
+      "@2l'@3une @4Antidanse@"
+    ]
+  },
+  {
+    "sid": 1652,
+    "position": 1188,
+    "sfc_jp": "あしばらい",
+    "current": "SweepKick",
+    "french": "Balayage",
+    "old_bytes": "2258d9511ade4c",
+    "new_bytes": "11424d425a424846",
+    "runtime_sids": [
+      1652
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 103,
+        "jp": "あしばらい",
+        "fr": "Balayage"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte あしばらい, balayage des jambes. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1あしばらい@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Balayage@"
+    ]
+  },
+  {
+    "sid": 1711,
+    "position": 1247,
+    "sfc_jp": "フローミ",
+    "current": "Mapreader",
+    "french": "Kelnivo",
+    "old_bytes": "1c4251f04245da",
+    "new_bytes": "1a464d4f4a5750",
+    "runtime_sids": [
+      1711
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 183,
+        "jp": "フローミ",
+        "fr": "Kelnivo"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte フローミ, lecture du niveau du lieu. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1フローミ@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Kelnivo@"
+    ]
+  },
+  {
+    "sid": 1714,
+    "position": 1250,
+    "sfc_jp": "おおごえ",
+    "current": "Caravan",
+    "french": "Klameur",
+    "old_bytes": "12d04257cf",
+    "new_bytes": "1a4d424e465653",
+    "runtime_sids": [
+      1714
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 188,
+        "jp": "おおごえ",
+        "fr": "Klameur"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte おおごえ, appel de marchand. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1おおごえ@"
+    ],
+    "ds_fr_raw": [
+      "@2la @3une @4Klameur@"
+    ]
+  },
+  {
+    "sid": 1716,
+    "position": 1252,
+    "sfc_jp": "くちぶえ",
+    "current": "Whistle",
+    "french": "Sifflet",
+    "old_bytes": "2649e055e2",
+    "new_bytes": "224a47474d4655",
+    "runtime_sids": [
+      1716
+    ],
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 190,
+        "jp": "くちぶえ",
+        "fr": "Sifflet"
+      }
+    ],
+    "status": "RELU_POUR_INSERTION",
+    "review": "Même entrée japonaise dans la table SFC et MENULIST6 DS, contexte くちぶえ, appel par sifflement. Nom FR complet, sans article ou fragment de description DS, sans accent, saut ou commande. Largeur inférieure ou égale à l’ancien libellé et à neuf cellules. Un seul SID, aucun alias.",
+    "remaining_checks": "Fenêtres natives de sorts/combat et progression naturelle non testées. Le banc B2 de trois lignes confirme les 20 noms, pas leur exécution ni toutes leurs utilisations.",
+    "ds_jp_raw": [
+      "@1くちぶえ@"
+    ],
+    "ds_fr_raw": [
+      "@2le @3un @4Sifflet@"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "release": "v0.38",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 5905,
+    "visible_total": 6957,
+    "new_this_pass": 0,
+    "new_since_v036": 51,
+    "remaining": 1052
+  },
+  "baseline": "v0.37",
+  "prepared_not_inserted": {
+    "main": 0,
+    "separate_places": 25
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.38",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "spell_action_labels_inserted": 20,
+    "new_this_pass": 20,
+    "prepared_places": 25,
+    "confirmed_french_entries": 37
+  },
+  "rom_bytes": 8388608,
+  "notes": "20 noms complets de sorts/actions DS FR intégrés, ASCII, une ligne, au plus neuf cellules sans élargissement. 2492 autres noms et 5905 textes inchangés. Tous les 20 rendus via B2, pas dans leurs fenêtres natives ni en combat.",
+  "next": "Continuer les 1052 textes et tables ; tester fenêtres natives de sorts/combat, alphabet accentué et scènes naturelles 322/323,1836,4095. 25 lieux préparés et 26 cas v0.34 différés. Projet non finalisé."
+}
