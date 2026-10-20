@@ -1,0 +1,3452 @@
+[
+  {
+    "id": 6038,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ふくろを　持っていれば[LINE]装備品以外を　ふくろに　いれます。[END STRING AC]",
+    "sfc_vf_secondaire": "Vous ne portez rien dans un sac.[END STRING AC]",
+    "adaptation_body": "Avec un sac, les objets non équipés y seront rangés.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6037,
+        "text": "装備品以外を　ふくろに　いれます。[LINE]いいですか?[END STRING AC]"
+      },
+      {
+        "id": 6038,
+        "text": "ふくろを　持っていれば[LINE]装備品以外を　ふくろに　いれます。[END STRING AC]"
+      },
+      {
+        "id": 6039,
+        "text": "ただいま　作成中です![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6039,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ただいま　作成中です![END STRING AC]",
+    "sfc_vf_secondaire": "6039<0559>[END STRING AC]",
+    "adaptation_body": "En cours de création !",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6038,
+        "text": "ふくろを　持っていれば[LINE]装備品以外を　ふくろに　いれます。[END STRING AC]"
+      },
+      {
+        "id": 6039,
+        "text": "ただいま　作成中です![END STRING AC]"
+      },
+      {
+        "id": 6040,
+        "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6040,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "キャンセル歩行を　できる様にしますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6040<0559>[END STRING AC]",
+    "adaptation_body": "Activer la marche d'annulation ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6039,
+        "text": "ただいま　作成中です![END STRING AC]"
+      },
+      {
+        "id": 6040,
+        "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+      },
+      {
+        "id": 6041,
+        "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6041,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "キャンセル歩行を　できる様にしました。[END STRING AC]",
+    "sfc_vf_secondaire": "6041<0559>[END STRING AC]",
+    "adaptation_body": "Marche d'annulation activée.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6040,
+        "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+      },
+      {
+        "id": 6041,
+        "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6042,
+        "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6042,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "キャンセル歩行を　できない様にしました。[END STRING AC]",
+    "sfc_vf_secondaire": "6042<0559>[END STRING AC]",
+    "adaptation_body": "Marche d'annulation désactivée.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6041,
+        "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6042,
+        "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6043,
+        "text": "ランダムエンカウントを　行ないますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6043,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ランダムエンカウントを　行ないますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6043<0559>random encounter[END STRING AC]",
+    "adaptation_body": "Activer les rencontres aléatoires ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6042,
+        "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6043,
+        "text": "ランダムエンカウントを　行ないますか?[END STRING AC]"
+      },
+      {
+        "id": 6044,
+        "text": "ランダムエンカウントが[LINE]起こる様にしました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6044,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ランダムエンカウントが[LINE]起こる様にしました。[END STRING AC]",
+    "sfc_vf_secondaire": "6044<0559>random encounter[END STRING AC]",
+    "adaptation_body": "Rencontres aléatoires activées.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6043,
+        "text": "ランダムエンカウントを　行ないますか?[END STRING AC]"
+      },
+      {
+        "id": 6044,
+        "text": "ランダムエンカウントが[LINE]起こる様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6045,
+        "text": "ランダムエンカウントが[LINE]起こらない様にしました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6045,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ランダムエンカウントが[LINE]起こらない様にしました。[END STRING AC]",
+    "sfc_vf_secondaire": "6045<0559>random encounter[END STRING AC]",
+    "adaptation_body": "Rencontres aléatoires désactivées.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6044,
+        "text": "ランダムエンカウントが[LINE]起こる様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6045,
+        "text": "ランダムエンカウントが[LINE]起こらない様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6046,
+        "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6046,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "開始フロアを　インチキフロアとしますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6046<0559>[END STRING AC]",
+    "adaptation_body": "Prendre la zone de triche comme niveau de départ ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6045,
+        "text": "ランダムエンカウントが[LINE]起こらない様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6046,
+        "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+      },
+      {
+        "id": 6047,
+        "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6047,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "開始フロアを　インチキフロアとします。[END STRING AC]",
+    "sfc_vf_secondaire": "6047<0559>[END STRING AC]",
+    "adaptation_body": "Zone de triche choisie comme niveau de départ.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6046,
+        "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+      },
+      {
+        "id": 6047,
+        "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6048,
+        "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6048,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "開始フロアを　標準フロアとします。[END STRING AC]",
+    "sfc_vf_secondaire": "6048<0559>[END STRING AC]",
+    "adaptation_body": "Niveau de départ standard choisi.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6047,
+        "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6048,
+        "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6049,
+        "text": "座標ウインドウを　使いますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6049,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "座標ウインドウを　使いますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6049<0559>window[END STRING AC]",
+    "adaptation_body": "Utiliser la fenêtre des coordonnées ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6048,
+        "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6049,
+        "text": "座標ウインドウを　使いますか?[END STRING AC]"
+      },
+      {
+        "id": 6050,
+        "text": "座標ウインドウを　使用できます。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6050,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "座標ウインドウを　使用できます。[END STRING AC]",
+    "sfc_vf_secondaire": "6050<0559>window[END STRING AC]",
+    "adaptation_body": "Fenêtre des coordonnées disponible.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6049,
+        "text": "座標ウインドウを　使いますか?[END STRING AC]"
+      },
+      {
+        "id": 6050,
+        "text": "座標ウインドウを　使用できます。[END STRING AC]"
+      },
+      {
+        "id": 6051,
+        "text": "座標ウインドウは　使用できません。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6051,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "座標ウインドウは　使用できません。[END STRING AC]",
+    "sfc_vf_secondaire": "6051<0559>window[END STRING AC]",
+    "adaptation_body": "Fenêtre des coordonnées indisponible.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6050,
+        "text": "座標ウインドウを　使用できます。[END STRING AC]"
+      },
+      {
+        "id": 6051,
+        "text": "座標ウインドウは　使用できません。[END STRING AC]"
+      },
+      {
+        "id": 6052,
+        "text": "仲間モンスター確率を100%にしますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6052,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "仲間モンスター確率を100%にしますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6052<0559>[END STRING AC]",
+    "adaptation_body": "Recruter les monstres avec une probabilité de 100 pour cent ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6051,
+        "text": "座標ウインドウは　使用できません。[END STRING AC]"
+      },
+      {
+        "id": 6052,
+        "text": "仲間モンスター確率を100%にしますか?[END STRING AC]"
+      },
+      {
+        "id": 6053,
+        "text": "確率は100%です。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6053,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "確率は100%です。[END STRING AC]",
+    "sfc_vf_secondaire": "6053<0559>[END STRING AC]",
+    "adaptation_body": "Probabilité fixée à 100 pour cent.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6052,
+        "text": "仲間モンスター確率を100%にしますか?[END STRING AC]"
+      },
+      {
+        "id": 6053,
+        "text": "確率は100%です。[END STRING AC]"
+      },
+      {
+        "id": 6054,
+        "text": "確率は通常どおりです。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6054,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "確率は通常どおりです。[END STRING AC]",
+    "sfc_vf_secondaire": "6054<0559>[END STRING AC]",
+    "adaptation_body": "Probabilité habituelle rétablie.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6053,
+        "text": "確率は100%です。[END STRING AC]"
+      },
+      {
+        "id": 6054,
+        "text": "確率は通常どおりです。[END STRING AC]"
+      },
+      {
+        "id": 6055,
+        "text": "職業レベルアップだけを行ないますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6055,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "職業レベルアップだけを行ないますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6055<0559>[END STRING AC]",
+    "adaptation_body": "Ne faire progresser que les vocations ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6054,
+        "text": "確率は通常どおりです。[END STRING AC]"
+      },
+      {
+        "id": 6055,
+        "text": "職業レベルアップだけを行ないますか?[END STRING AC]"
+      },
+      {
+        "id": 6056,
+        "text": "まじめに　おおあなに[LINE]とびこみますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6056,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "まじめに　おおあなに[LINE]とびこみますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6056<0559>[END STRING AC]",
+    "adaptation_body": "Voulez-vous vraiment sauter dans le grand gouffre ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6055,
+        "text": "職業レベルアップだけを行ないますか?[END STRING AC]"
+      },
+      {
+        "id": 6056,
+        "text": "まじめに　おおあなに[LINE]とびこみますか?[END STRING AC]"
+      },
+      {
+        "id": 6057,
+        "text": "ざんねんですが[LINE]フラグが　たりません。[WAIT][LINE]まじめに　馬車を[LINE]入手してください。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6057,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ざんねんですが[LINE]フラグが　たりません。[WAIT][LINE]まじめに　馬車を[LINE]入手してください。[END STRING AC]",
+    "sfc_vf_secondaire": "6057<0559>[LINE][WAIT][END STRING AC]",
+    "adaptation_body": "Hélas, des drapeaux manquent. Obtenez le chariot normalement.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6056,
+        "text": "まじめに　おおあなに[LINE]とびこみますか?[END STRING AC]"
+      },
+      {
+        "id": 6057,
+        "text": "ざんねんですが[LINE]フラグが　たりません。[WAIT][LINE]まじめに　馬車を[LINE]入手してください。[END STRING AC]"
+      },
+      {
+        "id": 6058,
+        "text": "船　手に入れる?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6058,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "船　手に入れる?[END STRING AC]",
+    "sfc_vf_secondaire": "6058<0559>[END STRING AC]",
+    "adaptation_body": "Obtenir le bateau ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6057,
+        "text": "ざんねんですが[LINE]フラグが　たりません。[WAIT][LINE]まじめに　馬車を[LINE]入手してください。[END STRING AC]"
+      },
+      {
+        "id": 6058,
+        "text": "船　手に入れる?[END STRING AC]"
+      },
+      {
+        "id": 6059,
+        "text": "ひょうたん島　手に入れる?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6059,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ひょうたん島　手に入れる?[END STRING AC]",
+    "sfc_vf_secondaire": "6059<0559>[END STRING AC]",
+    "adaptation_body": "Obtenir l'île flottante ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6058,
+        "text": "船　手に入れる?[END STRING AC]"
+      },
+      {
+        "id": 6059,
+        "text": "ひょうたん島　手に入れる?[END STRING AC]"
+      },
+      {
+        "id": 6060,
+        "text": "ベッド　手に入れる?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6060,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ベッド　手に入れる?[END STRING AC]",
+    "sfc_vf_secondaire": "6060<0559>[END STRING AC]",
+    "adaptation_body": "Obtenir le lit ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6059,
+        "text": "ひょうたん島　手に入れる?[END STRING AC]"
+      },
+      {
+        "id": 6060,
+        "text": "ベッド　手に入れる?[END STRING AC]"
+      },
+      {
+        "id": 6061,
+        "text": "じゅうたん　手に入れる?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6061,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "じゅうたん　手に入れる?[END STRING AC]",
+    "sfc_vf_secondaire": "6061<0559>[END STRING AC]",
+    "adaptation_body": "Obtenir le tapis ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6060,
+        "text": "ベッド　手に入れる?[END STRING AC]"
+      },
+      {
+        "id": 6061,
+        "text": "じゅうたん　手に入れる?[END STRING AC]"
+      },
+      {
+        "id": 6062,
+        "text": "スライムに　転職できる　[LINE]フラグを　たてますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6062,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "スライムに　転職できる　[LINE]フラグを　たてますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6062<0559>Slime[END STRING AC]",
+    "adaptation_body": "Activer le drapeau permettant la vocation de Gluant ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6061,
+        "text": "じゅうたん　手に入れる?[END STRING AC]"
+      },
+      {
+        "id": 6062,
+        "text": "スライムに　転職できる　[LINE]フラグを　たてますか?[END STRING AC]"
+      },
+      {
+        "id": 6063,
+        "text": "ドラゴンに　転職できる[LINE]フラグを　たてますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6063,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ドラゴンに　転職できる[LINE]フラグを　たてますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6063<0559>dragon[END STRING AC]",
+    "adaptation_body": "Activer le drapeau permettant la vocation de Dragon ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6062,
+        "text": "スライムに　転職できる　[LINE]フラグを　たてますか?[END STRING AC]"
+      },
+      {
+        "id": 6063,
+        "text": "ドラゴンに　転職できる[LINE]フラグを　たてますか?[END STRING AC]"
+      },
+      {
+        "id": 6064,
+        "text": "デバッグに　転職できる[LINE]フラグを　たてますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6064,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "デバッグに　転職できる[LINE]フラグを　たてますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6064<0559>debug[END STRING AC]",
+    "adaptation_body": "Activer le drapeau permettant la vocation de débogage ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6063,
+        "text": "ドラゴンに　転職できる[LINE]フラグを　たてますか?[END STRING AC]"
+      },
+      {
+        "id": 6064,
+        "text": "デバッグに　転職できる[LINE]フラグを　たてますか?[END STRING AC]"
+      },
+      {
+        "id": 6065,
+        "text": "パーティ先頭者の　かっこよさ[LINE]10あげる?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6065,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "パーティ先頭者の　かっこよさ[LINE]10あげる?[END STRING AC]",
+    "sfc_vf_secondaire": "6065<0559>[END STRING AC]",
+    "adaptation_body": "Augmenter de 10 le Style du premier membre du groupe ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6064,
+        "text": "デバッグに　転職できる[LINE]フラグを　たてますか?[END STRING AC]"
+      },
+      {
+        "id": 6065,
+        "text": "パーティ先頭者の　かっこよさ[LINE]10あげる?[END STRING AC]"
+      },
+      {
+        "id": 6066,
+        "text": "もう1回　あげる?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6066,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "もう1回　あげる?[END STRING AC]",
+    "sfc_vf_secondaire": "6066<0559>[END STRING AC]",
+    "adaptation_body": "L'augmenter encore une fois ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6065,
+        "text": "パーティ先頭者の　かっこよさ[LINE]10あげる?[END STRING AC]"
+      },
+      {
+        "id": 6066,
+        "text": "もう1回　あげる?[END STRING AC]"
+      },
+      {
+        "id": 6067,
+        "text": "ここから先は　ー般の人は[LINE]立ち入り禁止です。[WAIT][LINE]とりわけ　デバッガーの方は[LINE]えんりょして下さいね。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6067,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ここから先は　ー般の人は[LINE]立ち入り禁止です。[WAIT][LINE]とりわけ　デバッガーの方は[LINE]えんりょして下さいね。[END STRING AC]",
+    "sfc_vf_secondaire": "6067<0559>[LINE][WAIT][END STRING AC]",
+    "adaptation_body": "Au-delà, l'accès est interdit au public. En particulier, les personnes chargées du débogage sont priées de s'abstenir.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6066,
+        "text": "もう1回　あげる?[END STRING AC]"
+      },
+      {
+        "id": 6067,
+        "text": "ここから先は　ー般の人は[LINE]立ち入り禁止です。[WAIT][LINE]とりわけ　デバッガーの方は[LINE]えんりょして下さいね。[END STRING AC]"
+      },
+      {
+        "id": 6068,
+        "text": "オープニング終了後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6068,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "オープニング終了後[END STRING AC]",
+    "sfc_vf_secondaire": "6068<0559>[END STRING AC]",
+    "adaptation_body": "Après l'introduction",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6067,
+        "text": "ここから先は　ー般の人は[LINE]立ち入り禁止です。[WAIT][LINE]とりわけ　デバッガーの方は[LINE]えんりょして下さいね。[END STRING AC]"
+      },
+      {
+        "id": 6068,
+        "text": "オープニング終了後[END STRING AC]"
+      },
+      {
+        "id": 6069,
+        "text": "道具袋　もらった[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6069,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "道具袋　もらった[END STRING AC]",
+    "sfc_vf_secondaire": "6069<0559>[END STRING AC]",
+    "adaptation_body": "Sac à objets reçu",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6068,
+        "text": "オープニング終了後[END STRING AC]"
+      },
+      {
+        "id": 6069,
+        "text": "道具袋　もらった[END STRING AC]"
+      },
+      {
+        "id": 6070,
+        "text": "精霊のかんむり　手に入れた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6070,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "精霊のかんむり　手に入れた[END STRING AC]",
+    "sfc_vf_secondaire": "6070<0559>[END STRING AC]",
+    "adaptation_body": "Couronne sacrée obtenue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6069,
+        "text": "道具袋　もらった[END STRING AC]"
+      },
+      {
+        "id": 6070,
+        "text": "精霊のかんむり　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6071,
+        "text": "精霊イベント開始[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6071,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "精霊イベント開始[END STRING AC]",
+    "sfc_vf_secondaire": "6071<0559>event[END STRING AC]",
+    "adaptation_body": "Début de la scène de l'esprit",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6070,
+        "text": "精霊のかんむり　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6071,
+        "text": "精霊イベント開始[END STRING AC]"
+      },
+      {
+        "id": 6072,
+        "text": "村まつり　自由[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6072,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "村まつり　自由[END STRING AC]",
+    "sfc_vf_secondaire": "6072<0559>[END STRING AC]",
+    "adaptation_body": "Fête du village - temps libre",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6071,
+        "text": "精霊イベント開始[END STRING AC]"
+      },
+      {
+        "id": 6072,
+        "text": "村まつり　自由[END STRING AC]"
+      },
+      {
+        "id": 6073,
+        "text": "村まつり　ナレーション[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6073,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "村まつり　ナレーション[END STRING AC]",
+    "sfc_vf_secondaire": "6073<0559>[END STRING AC]",
+    "adaptation_body": "Fête du village - narration",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6072,
+        "text": "村まつり　自由[END STRING AC]"
+      },
+      {
+        "id": 6073,
+        "text": "村まつり　ナレーション[END STRING AC]"
+      },
+      {
+        "id": 6074,
+        "text": "村まつり終了後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6074,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "村まつり終了後[END STRING AC]",
+    "sfc_vf_secondaire": "6074<0559>[END STRING AC]",
+    "adaptation_body": "Après la fête du village",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6073,
+        "text": "村まつり　ナレーション[END STRING AC]"
+      },
+      {
+        "id": 6074,
+        "text": "村まつり終了後[END STRING AC]"
+      },
+      {
+        "id": 6075,
+        "text": "試練の説明が　終った[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6075,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "試練の説明が　終った[END STRING AC]",
+    "sfc_vf_secondaire": "6075<0559>[END STRING AC]",
+    "adaptation_body": "Explication de l'épreuve terminée",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6074,
+        "text": "村まつり終了後[END STRING AC]"
+      },
+      {
+        "id": 6075,
+        "text": "試練の説明が　終った[END STRING AC]"
+      },
+      {
+        "id": 6076,
+        "text": "くじけぬ心　入手後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6076,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "くじけぬ心　入手後[END STRING AC]",
+    "sfc_vf_secondaire": "6076<0559>[END STRING AC]",
+    "adaptation_body": "Après l'obtention du coeur impétueux",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6075,
+        "text": "試練の説明が　終った[END STRING AC]"
+      },
+      {
+        "id": 6076,
+        "text": "くじけぬ心　入手後[END STRING AC]"
+      },
+      {
+        "id": 6077,
+        "text": "兵士になった[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6077,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "兵士になった[END STRING AC]",
+    "sfc_vf_secondaire": "6077<0559>[END STRING AC]",
+    "adaptation_body": "Recrutement comme soldat",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6076,
+        "text": "くじけぬ心　入手後[END STRING AC]"
+      },
+      {
+        "id": 6077,
+        "text": "兵士になった[END STRING AC]"
+      },
+      {
+        "id": 6078,
+        "text": "ファルシオン　つかまえた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6079,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "馬車を　手に入れた[END STRING AC]",
+    "sfc_vf_secondaire": "6079<0559>[END STRING AC]",
+    "adaptation_body": "Chariot obtenu",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6078,
+        "text": "ファルシオン　つかまえた[END STRING AC]"
+      },
+      {
+        "id": 6079,
+        "text": "馬車を　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6080,
+        "text": "M05に　初めて　入った[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6080,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "M05に　初めて　入った[END STRING AC]",
+    "sfc_vf_secondaire": "6080<0559>[END STRING AC]",
+    "adaptation_body": "Première entrée dans M05",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6079,
+        "text": "馬車を　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6080,
+        "text": "M05に　初めて　入った[END STRING AC]"
+      },
+      {
+        "id": 6081,
+        "text": "サンディとジョセフの寸劇を見た[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6081,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "サンディとジョセフの寸劇を見た[END STRING AC]",
+    "sfc_vf_secondaire": "6081<0559>SandyJoseph[END STRING AC]",
+    "adaptation_body": "Scène entre Ella et Johan vue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6080,
+        "text": "M05に　初めて　入った[END STRING AC]"
+      },
+      {
+        "id": 6081,
+        "text": "サンディとジョセフの寸劇を見た[END STRING AC]"
+      },
+      {
+        "id": 6082,
+        "text": "サンディ　入牢後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6082,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "サンディ　入牢後[END STRING AC]",
+    "sfc_vf_secondaire": "6082<0559>Sandy[END STRING AC]",
+    "adaptation_body": "Après l'emprisonnement d'Ella",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6081,
+        "text": "サンディとジョセフの寸劇を見た[END STRING AC]"
+      },
+      {
+        "id": 6082,
+        "text": "サンディ　入牢後[END STRING AC]"
+      },
+      {
+        "id": 6083,
+        "text": "ドックでミレーユと話した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6083,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ドックでミレーユと話した[END STRING AC]",
+    "sfc_vf_secondaire": "6083<0559>[END STRING AC]",
+    "adaptation_body": "Discussion avec Émilie sur les docks",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6082,
+        "text": "サンディ　入牢後[END STRING AC]"
+      },
+      {
+        "id": 6083,
+        "text": "ドックでミレーユと話した[END STRING AC]"
+      },
+      {
+        "id": 6084,
+        "text": "夢見のしずくを　手に入れた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6084,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "夢見のしずくを　手に入れた[END STRING AC]",
+    "sfc_vf_secondaire": "6084<0559>[END STRING AC]",
+    "adaptation_body": "Rosée onirique obtenue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6083,
+        "text": "ドックでミレーユと話した[END STRING AC]"
+      },
+      {
+        "id": 6084,
+        "text": "夢見のしずくを　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6085,
+        "text": "実体化後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6085,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "実体化後[END STRING AC]",
+    "sfc_vf_secondaire": "6085<0559>[END STRING AC]",
+    "adaptation_body": "Après la matérialisation",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6084,
+        "text": "夢見のしずくを　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6085,
+        "text": "実体化後[END STRING AC]"
+      },
+      {
+        "id": 6086,
+        "text": "定期船に乗る[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6086,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "定期船に乗る[END STRING AC]",
+    "sfc_vf_secondaire": "6086<0559>[END STRING AC]",
+    "adaptation_body": "Embarquement sur le ferry",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6085,
+        "text": "実体化後[END STRING AC]"
+      },
+      {
+        "id": 6086,
+        "text": "定期船に乗る[END STRING AC]"
+      },
+      {
+        "id": 6087,
+        "text": "ニセ王子として　追い出された[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6087,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ニセ王子として　追い出された[END STRING AC]",
+    "sfc_vf_secondaire": "6087<0559>[END STRING AC]",
+    "adaptation_body": "Expulsion comme faux prince",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6086,
+        "text": "定期船に乗る[END STRING AC]"
+      },
+      {
+        "id": 6087,
+        "text": "ニセ王子として　追い出された[END STRING AC]"
+      },
+      {
+        "id": 6088,
+        "text": "M06の川が　赤く染まった[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6088,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "M06の川が　赤く染まった[END STRING AC]",
+    "sfc_vf_secondaire": "6088<0559>[END STRING AC]",
+    "adaptation_body": "Rivière de M06 devenue rouge",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6087,
+        "text": "ニセ王子として　追い出された[END STRING AC]"
+      },
+      {
+        "id": 6088,
+        "text": "M06の川が　赤く染まった[END STRING AC]"
+      },
+      {
+        "id": 6089,
+        "text": "カガミのカギ入手後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6089,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "カガミのカギ入手後[END STRING AC]",
+    "sfc_vf_secondaire": "6089<0559>[END STRING AC]",
+    "adaptation_body": "Après l'obtention de la clef du miroir",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6088,
+        "text": "M06の川が　赤く染まった[END STRING AC]"
+      },
+      {
+        "id": 6089,
+        "text": "カガミのカギ入手後[END STRING AC]"
+      },
+      {
+        "id": 6090,
+        "text": "エリザ　さらわれた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6090,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "エリザ　さらわれた[END STRING AC]",
+    "sfc_vf_secondaire": "6090<0559>Eliza[END STRING AC]",
+    "adaptation_body": "Alyzée enlevée",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6089,
+        "text": "カガミのカギ入手後[END STRING AC]"
+      },
+      {
+        "id": 6090,
+        "text": "エリザ　さらわれた[END STRING AC]"
+      },
+      {
+        "id": 6091,
+        "text": "誘拐事件解決後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6091,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "誘拐事件解決後[END STRING AC]",
+    "sfc_vf_secondaire": "6091<0559>[END STRING AC]",
+    "adaptation_body": "Enlèvement résolu",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6090,
+        "text": "エリザ　さらわれた[END STRING AC]"
+      },
+      {
+        "id": 6091,
+        "text": "誘拐事件解決後[END STRING AC]"
+      },
+      {
+        "id": 6092,
+        "text": "バーバラに会う[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6092,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "バーバラに会う[END STRING AC]",
+    "sfc_vf_secondaire": "6092<0559>[END STRING AC]",
+    "adaptation_body": "Rencontre avec Laura",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6091,
+        "text": "誘拐事件解決後[END STRING AC]"
+      },
+      {
+        "id": 6092,
+        "text": "バーバラに会う[END STRING AC]"
+      },
+      {
+        "id": 6093,
+        "text": "ラーの鏡入手後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6093,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ラーの鏡入手後[END STRING AC]",
+    "sfc_vf_secondaire": "6093<0559>[END STRING AC]",
+    "adaptation_body": "Après l'obtention du miroir de Râ",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6092,
+        "text": "バーバラに会う[END STRING AC]"
+      },
+      {
+        "id": 6093,
+        "text": "ラーの鏡入手後[END STRING AC]"
+      },
+      {
+        "id": 6094,
+        "text": "王がシェーラに戻った後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6094,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "王がシェーラに戻った後[END STRING AC]",
+    "sfc_vf_secondaire": "6094<0559>Shera[END STRING AC]",
+    "adaptation_body": "Après le retour du roi à sa forme d'Apnéa",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6093,
+        "text": "ラーの鏡入手後[END STRING AC]"
+      },
+      {
+        "id": 6094,
+        "text": "王がシェーラに戻った後[END STRING AC]"
+      },
+      {
+        "id": 6095,
+        "text": "地底魔城に飛ぶ[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6095,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "地底魔城に飛ぶ[END STRING AC]",
+    "sfc_vf_secondaire": "6095<0559>[END STRING AC]",
+    "adaptation_body": "Vol vers Fort-Terreur",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6094,
+        "text": "王がシェーラに戻った後[END STRING AC]"
+      },
+      {
+        "id": 6095,
+        "text": "地底魔城に飛ぶ[END STRING AC]"
+      },
+      {
+        "id": 6096,
+        "text": "ムドーが王に戻った後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6096,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ムドーが王に戻った後[END STRING AC]",
+    "sfc_vf_secondaire": "6096<0559>Mudo[END STRING AC]",
+    "adaptation_body": "Après le retour de Meurtor à sa forme de roi",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6095,
+        "text": "地底魔城に飛ぶ[END STRING AC]"
+      },
+      {
+        "id": 6096,
+        "text": "ムドーが王に戻った後[END STRING AC]"
+      },
+      {
+        "id": 6097,
+        "text": "大臣の眠れぬ夜が明けた後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6097,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "大臣の眠れぬ夜が明けた後[END STRING AC]",
+    "sfc_vf_secondaire": "6097<0559>[END STRING AC]",
+    "adaptation_body": "Après la nuit sans sommeil du ministre",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6096,
+        "text": "ムドーが王に戻った後[END STRING AC]"
+      },
+      {
+        "id": 6097,
+        "text": "大臣の眠れぬ夜が明けた後[END STRING AC]"
+      },
+      {
+        "id": 6098,
+        "text": "下の世界　C01[LINE]回想イベント終った[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6098,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "下の世界　C01[LINE]回想イベント終った[END STRING AC]",
+    "sfc_vf_secondaire": "6098<0559>[LINE]event[END STRING AC]",
+    "adaptation_body": "Monde réel C01 - souvenir terminé",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6097,
+        "text": "大臣の眠れぬ夜が明けた後[END STRING AC]"
+      },
+      {
+        "id": 6098,
+        "text": "下の世界　C01[LINE]回想イベント終った[END STRING AC]"
+      },
+      {
+        "id": 6099,
+        "text": "王の書状を[LINE]受けとった[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6099,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "王の書状を[LINE]受けとった[END STRING AC]",
+    "sfc_vf_secondaire": "6099<0559>[END STRING AC]",
+    "adaptation_body": "Lettre du roi reçue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6098,
+        "text": "下の世界　C01[LINE]回想イベント終った[END STRING AC]"
+      },
+      {
+        "id": 6099,
+        "text": "王の書状を[LINE]受けとった[END STRING AC]"
+      },
+      {
+        "id": 6100,
+        "text": "ゲント船の　進水イベント[LINE]終った[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6100,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ゲント船の　進水イベント[LINE]終った[END STRING AC]",
+    "sfc_vf_secondaire": "6100<0559>Gentevent[END STRING AC]",
+    "adaptation_body": "Mise à l'eau du bateau de Paradisia terminée",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6099,
+        "text": "王の書状を[LINE]受けとった[END STRING AC]"
+      },
+      {
+        "id": 6100,
+        "text": "ゲント船の　進水イベント[LINE]終った[END STRING AC]"
+      },
+      {
+        "id": 6101,
+        "text": "森と崖のイベント[LINE]2回目　終了[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6101,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "森と崖のイベント[LINE]2回目　終了[END STRING AC]",
+    "sfc_vf_secondaire": "6101<0559>event[END STRING AC]",
+    "adaptation_body": "Deuxième scène de la forêt et de la falaise terminée",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6100,
+        "text": "ゲント船の　進水イベント[LINE]終った[END STRING AC]"
+      },
+      {
+        "id": 6101,
+        "text": "森と崖のイベント[LINE]2回目　終了[END STRING AC]"
+      },
+      {
+        "id": 6102,
+        "text": "ムドー城へ[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6102,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ムドー城へ[END STRING AC]",
+    "sfc_vf_secondaire": "6102<0559>[END STRING AC]",
+    "adaptation_body": "Vers le donjon de Meurtor",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6101,
+        "text": "森と崖のイベント[LINE]2回目　終了[END STRING AC]"
+      },
+      {
+        "id": 6102,
+        "text": "ムドー城へ[END STRING AC]"
+      },
+      {
+        "id": 6103,
+        "text": "ムドーを　倒した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6103,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ムドーを　倒した[END STRING AC]",
+    "sfc_vf_secondaire": "6103<0559>[END STRING AC]",
+    "adaptation_body": "Meurtor vaincu",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6102,
+        "text": "ムドー城へ[END STRING AC]"
+      },
+      {
+        "id": 6103,
+        "text": "ムドーを　倒した[END STRING AC]"
+      },
+      {
+        "id": 6104,
+        "text": "M08での選択[LINE]アモスの処遇[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6104,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "M08での選択[LINE]アモスの処遇[END STRING AC]",
+    "sfc_vf_secondaire": "6104<0559>[LINE]Amos[END STRING AC]",
+    "adaptation_body": "Choix dans M08 - sort réservé à Amos",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6103,
+        "text": "ムドーを　倒した[END STRING AC]"
+      },
+      {
+        "id": 6104,
+        "text": "M08での選択[LINE]アモスの処遇[END STRING AC]"
+      },
+      {
+        "id": 6105,
+        "text": "アモスを仲間にする?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6105,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "アモスを仲間にする?[END STRING AC]",
+    "sfc_vf_secondaire": "6105<0559>Amos[END STRING AC]",
+    "adaptation_body": "Recruter Amos ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6104,
+        "text": "M08での選択[LINE]アモスの処遇[END STRING AC]"
+      },
+      {
+        "id": 6105,
+        "text": "アモスを仲間にする?[END STRING AC]"
+      },
+      {
+        "id": 6106,
+        "text": "C08　棺桶を受け取った[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6106,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "C08　棺桶を受け取った[END STRING AC]",
+    "sfc_vf_secondaire": "6106<0559>[END STRING AC]",
+    "adaptation_body": "C08 - cercueil reçu",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6105,
+        "text": "アモスを仲間にする?[END STRING AC]"
+      },
+      {
+        "id": 6106,
+        "text": "C08　棺桶を受け取った[END STRING AC]"
+      },
+      {
+        "id": 6107,
+        "text": "テリーの　戦闘イベント終った[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6107,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "テリーの　戦闘イベント終った[END STRING AC]",
+    "sfc_vf_secondaire": "6107<0559>[CODE CD]event[END STRING AC]",
+    "adaptation_body": "Combat de Tommy terminé",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6106,
+        "text": "C08　棺桶を受け取った[END STRING AC]"
+      },
+      {
+        "id": 6107,
+        "text": "テリーの　戦闘イベント終った[END STRING AC]"
+      },
+      {
+        "id": 6108,
+        "text": "旅人の洞窟　開通した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6108,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "旅人の洞窟　開通した[END STRING AC]",
+    "sfc_vf_secondaire": "6108<0559>[END STRING AC]",
+    "adaptation_body": "Col des Voyageurs ouvert",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6107,
+        "text": "テリーの　戦闘イベント終った[END STRING AC]"
+      },
+      {
+        "id": 6108,
+        "text": "旅人の洞窟　開通した[END STRING AC]"
+      },
+      {
+        "id": 6109,
+        "text": "砂漠の町に　夜が来た[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6109,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "砂漠の町に　夜が来た[END STRING AC]",
+    "sfc_vf_secondaire": "6109<0559>[END STRING AC]",
+    "adaptation_body": "La nuit tombe sur la ville du désert",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6108,
+        "text": "旅人の洞窟　開通した[END STRING AC]"
+      },
+      {
+        "id": 6109,
+        "text": "砂漠の町に　夜が来た[END STRING AC]"
+      },
+      {
+        "id": 6110,
+        "text": "ゆーとぴあへ[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6110,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ゆーとぴあへ[END STRING AC]",
+    "sfc_vf_secondaire": "6110<0559>[END STRING AC]",
+    "adaptation_body": "Vers l'île des Sourires",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6109,
+        "text": "砂漠の町に　夜が来た[END STRING AC]"
+      },
+      {
+        "id": 6110,
+        "text": "ゆーとぴあへ[END STRING AC]"
+      },
+      {
+        "id": 6111,
+        "text": "ジャミラス倒して[LINE]ひょうたん島を　手に入れた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6111,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ジャミラス倒して[LINE]ひょうたん島を　手に入れた[END STRING AC]",
+    "sfc_vf_secondaire": "6111<0559>Jamiras[END STRING AC]",
+    "adaptation_body": "Jamirus vaincu, île flottante obtenue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6110,
+        "text": "ゆーとぴあへ[END STRING AC]"
+      },
+      {
+        "id": 6111,
+        "text": "ジャミラス倒して[LINE]ひょうたん島を　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6112,
+        "text": "ホルスを　仲間にした[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6112,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ホルスを　仲間にした[END STRING AC]",
+    "sfc_vf_secondaire": "6112<0559>Holse[END STRING AC]",
+    "adaptation_body": "Pierre a rejoint le groupe",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6111,
+        "text": "ジャミラス倒して[LINE]ひょうたん島を　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6112,
+        "text": "ホルスを　仲間にした[END STRING AC]"
+      },
+      {
+        "id": 6113,
+        "text": "ホルスが　洗礼の洞窟から[LINE]逃げ出した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6113,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ホルスが　洗礼の洞窟から[LINE]逃げ出した[END STRING AC]",
+    "sfc_vf_secondaire": "6113<0559>Holse[END STRING AC]",
+    "adaptation_body": "Pierre s'est enfui de la grotte du Baptême",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6112,
+        "text": "ホルスを　仲間にした[END STRING AC]"
+      },
+      {
+        "id": 6113,
+        "text": "ホルスが　洗礼の洞窟から[LINE]逃げ出した[END STRING AC]"
+      },
+      {
+        "id": 6114,
+        "text": "C04　お祝いが終った[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6114,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "C04　お祝いが終った[END STRING AC]",
+    "sfc_vf_secondaire": "6114<0559>[END STRING AC]",
+    "adaptation_body": "C04 - célébration terminée",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6113,
+        "text": "ホルスが　洗礼の洞窟から[LINE]逃げ出した[END STRING AC]"
+      },
+      {
+        "id": 6114,
+        "text": "C04　お祝いが終った[END STRING AC]"
+      },
+      {
+        "id": 6115,
+        "text": "魔法の鍵を　受けとった[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6115,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "魔法の鍵を　受けとった[END STRING AC]",
+    "sfc_vf_secondaire": "6115<0559>[END STRING AC]",
+    "adaptation_body": "Clef magique reçue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6114,
+        "text": "C04　お祝いが終った[END STRING AC]"
+      },
+      {
+        "id": 6115,
+        "text": "魔法の鍵を　受けとった[END STRING AC]"
+      },
+      {
+        "id": 6116,
+        "text": "黄金のつるはし　手に入れた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6116,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "黄金のつるはし　手に入れた[END STRING AC]",
+    "sfc_vf_secondaire": "6116<0559>[END STRING AC]",
+    "adaptation_body": "Pioche dorée obtenue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6115,
+        "text": "魔法の鍵を　受けとった[END STRING AC]"
+      },
+      {
+        "id": 6116,
+        "text": "黄金のつるはし　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6117,
+        "text": "勇気のかけら　手に入れた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6117,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "勇気のかけら　手に入れた[END STRING AC]",
+    "sfc_vf_secondaire": "6117<0559>[END STRING AC]",
+    "adaptation_body": "Fragment de courage obtenu",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6116,
+        "text": "黄金のつるはし　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6117,
+        "text": "勇気のかけら　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6118,
+        "text": "空飛ぶベッド　手に入れた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6119,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "フォーン王の　たのみを　きいた[END STRING AC]",
+    "sfc_vf_secondaire": "6119<0559>Foan[END STRING AC]",
+    "adaptation_body": "Requête du roi Louis acceptée",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6118,
+        "text": "空飛ぶベッド　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6119,
+        "text": "フォーン王の　たのみを　きいた[END STRING AC]"
+      },
+      {
+        "id": 6120,
+        "text": "ミラルゴを　たおした[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6120,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ミラルゴを　たおした[END STRING AC]",
+    "sfc_vf_secondaire": "6120<0559>Miralgo[END STRING AC]",
+    "adaptation_body": "Méphisto vaincu",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6119,
+        "text": "フォーン王の　たのみを　きいた[END STRING AC]"
+      },
+      {
+        "id": 6120,
+        "text": "ミラルゴを　たおした[END STRING AC]"
+      },
+      {
+        "id": 6121,
+        "text": "イリカ姫　鏡から　助けられた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6121,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "イリカ姫　鏡から　助けられた[END STRING AC]",
+    "sfc_vf_secondaire": "6121<0559>Erika[END STRING AC]",
+    "adaptation_body": "Princesse Cristal libérée du miroir",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6120,
+        "text": "ミラルゴを　たおした[END STRING AC]"
+      },
+      {
+        "id": 6121,
+        "text": "イリカ姫　鏡から　助けられた[END STRING AC]"
+      },
+      {
+        "id": 6122,
+        "text": "水門のカギ　手に入れた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6122,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "水門のカギ　手に入れた[END STRING AC]",
+    "sfc_vf_secondaire": "6122<0559>[END STRING AC]",
+    "adaptation_body": "Clef de l'écluse obtenue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6121,
+        "text": "イリカ姫　鏡から　助けられた[END STRING AC]"
+      },
+      {
+        "id": 6122,
+        "text": "水門のカギ　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6123,
+        "text": "隠し通路　発見した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6123,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "隠し通路　発見した[END STRING AC]",
+    "sfc_vf_secondaire": "6123<0559>[END STRING AC]",
+    "adaptation_body": "Passage secret découvert",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6122,
+        "text": "水門のカギ　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6123,
+        "text": "隠し通路　発見した[END STRING AC]"
+      },
+      {
+        "id": 6124,
+        "text": "ディーネを　仲間にした[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6124,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ディーネを　仲間にした[END STRING AC]",
+    "sfc_vf_secondaire": "6124<0559>Denae[END STRING AC]",
+    "adaptation_body": "Ondine a rejoint le groupe",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6123,
+        "text": "隠し通路　発見した[END STRING AC]"
+      },
+      {
+        "id": 6124,
+        "text": "ディーネを　仲間にした[END STRING AC]"
+      },
+      {
+        "id": 6125,
+        "text": "マーメイドハープを　手に入れた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6125,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "マーメイドハープを　手に入れた[END STRING AC]",
+    "sfc_vf_secondaire": "6125<0559>mermaid harp[END STRING AC]",
+    "adaptation_body": "Harpe de Calypso obtenue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6124,
+        "text": "ディーネを　仲間にした[END STRING AC]"
+      },
+      {
+        "id": 6125,
+        "text": "マーメイドハープを　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6126,
+        "text": "グラコス倒して　砂の器　入手した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6126,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "グラコス倒して　砂の器　入手した[END STRING AC]",
+    "sfc_vf_secondaire": "6126<0559>Glacos[END STRING AC]",
+    "adaptation_body": "Gracos vaincu, urne de sable obtenue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6125,
+        "text": "マーメイドハープを　手に入れた[END STRING AC]"
+      },
+      {
+        "id": 6126,
+        "text": "グラコス倒して　砂の器　入手した[END STRING AC]"
+      },
+      {
+        "id": 6127,
+        "text": "まほうのじゅうたん　入手後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6127,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "まほうのじゅうたん　入手後[END STRING AC]",
+    "sfc_vf_secondaire": "6127<0559>[END STRING AC]",
+    "adaptation_body": "Après l'obtention du tapis volant",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6126,
+        "text": "グラコス倒して　砂の器　入手した[END STRING AC]"
+      },
+      {
+        "id": 6127,
+        "text": "まほうのじゅうたん　入手後[END STRING AC]"
+      },
+      {
+        "id": 6128,
+        "text": "マダンテ　入手した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6128,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "マダンテ　入手した[END STRING AC]",
+    "sfc_vf_secondaire": "6128<0559>Dante[END STRING AC]",
+    "adaptation_body": "Explosion magique apprise",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6127,
+        "text": "まほうのじゅうたん　入手後[END STRING AC]"
+      },
+      {
+        "id": 6128,
+        "text": "マダンテ　入手した[END STRING AC]"
+      },
+      {
+        "id": 6129,
+        "text": "ゴランと　話した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6129,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ゴランと　話した[END STRING AC]",
+    "sfc_vf_secondaire": "6129<0559>Goran[END STRING AC]",
+    "adaptation_body": "Discussion avec Saul Ytaire",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6128,
+        "text": "マダンテ　入手した[END STRING AC]"
+      },
+      {
+        "id": 6129,
+        "text": "ゴランと　話した[END STRING AC]"
+      },
+      {
+        "id": 6130,
+        "text": "雪女の怒りが　とけた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6130,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "雪女の怒りが　とけた[END STRING AC]",
+    "sfc_vf_secondaire": "6130<0559>[END STRING AC]",
+    "adaptation_body": "Colère de la femme des neiges apaisée",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6129,
+        "text": "ゴランと　話した[END STRING AC]"
+      },
+      {
+        "id": 6130,
+        "text": "雪女の怒りが　とけた[END STRING AC]"
+      },
+      {
+        "id": 6131,
+        "text": "合い言葉を　聞いた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6131,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "合い言葉を　聞いた[END STRING AC]",
+    "sfc_vf_secondaire": "6131<0559>[END STRING AC]",
+    "adaptation_body": "Mot de passe entendu",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6130,
+        "text": "雪女の怒りが　とけた[END STRING AC]"
+      },
+      {
+        "id": 6131,
+        "text": "合い言葉を　聞いた[END STRING AC]"
+      },
+      {
+        "id": 6132,
+        "text": "さびたつるぎを　入手した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6132,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "さびたつるぎを　入手した[END STRING AC]",
+    "sfc_vf_secondaire": "6132<0559>[END STRING AC]",
+    "adaptation_body": "Épée rouillée obtenue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6131,
+        "text": "合い言葉を　聞いた[END STRING AC]"
+      },
+      {
+        "id": 6132,
+        "text": "さびたつるぎを　入手した[END STRING AC]"
+      },
+      {
+        "id": 6133,
+        "text": "主人公分身　逃げ出した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6133,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "主人公分身　逃げ出した[END STRING AC]",
+    "sfc_vf_secondaire": "6133<0559>[END STRING AC]",
+    "adaptation_body": "Fuite du double du héros",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6132,
+        "text": "さびたつるぎを　入手した[END STRING AC]"
+      },
+      {
+        "id": 6133,
+        "text": "主人公分身　逃げ出した[END STRING AC]"
+      },
+      {
+        "id": 6134,
+        "text": "ライフコッド　魔物におそわれている[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6134,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ライフコッド　魔物におそわれている[END STRING AC]",
+    "sfc_vf_secondaire": "6134<0559>Lifecod[END STRING AC]",
+    "adaptation_body": "Le pic des Tisseurs est attaqué par des monstres",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6133,
+        "text": "主人公分身　逃げ出した[END STRING AC]"
+      },
+      {
+        "id": 6134,
+        "text": "ライフコッド　魔物におそわれている[END STRING AC]"
+      },
+      {
+        "id": 6135,
+        "text": "ザコデーモン　倒した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6135,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ザコデーモン　倒した[END STRING AC]",
+    "sfc_vf_secondaire": "6135<0559>[END STRING AC]",
+    "adaptation_body": "Démon mineur vaincu",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6134,
+        "text": "ライフコッド　魔物におそわれている[END STRING AC]"
+      },
+      {
+        "id": 6135,
+        "text": "ザコデーモン　倒した[END STRING AC]"
+      },
+      {
+        "id": 6136,
+        "text": "下のライフコッド[LINE]魔物を　倒した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6136,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "下のライフコッド[LINE]魔物を　倒した[END STRING AC]",
+    "sfc_vf_secondaire": "6136<0559>Lifecod[END STRING AC]",
+    "adaptation_body": "Monstres vaincus au pic des Tisseurs du monde réel",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6135,
+        "text": "ザコデーモン　倒した[END STRING AC]"
+      },
+      {
+        "id": 6136,
+        "text": "下のライフコッド[LINE]魔物を　倒した[END STRING AC]"
+      },
+      {
+        "id": 6137,
+        "text": "伝説のヨロイ　入手した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6137,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "伝説のヨロイ　入手した[END STRING AC]",
+    "sfc_vf_secondaire": "6137<0559>[END STRING AC]",
+    "adaptation_body": "Armure légendaire obtenue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6136,
+        "text": "下のライフコッド[LINE]魔物を　倒した[END STRING AC]"
+      },
+      {
+        "id": 6137,
+        "text": "伝説のヨロイ　入手した[END STRING AC]"
+      },
+      {
+        "id": 6138,
+        "text": "変装イベント　スタート[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6138,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "変装イベント　スタート[END STRING AC]",
+    "sfc_vf_secondaire": "6138<0559>event[END STRING AC]",
+    "adaptation_body": "Début de la scène du déguisement",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6137,
+        "text": "伝説のヨロイ　入手した[END STRING AC]"
+      },
+      {
+        "id": 6138,
+        "text": "変装イベント　スタート[END STRING AC]"
+      },
+      {
+        "id": 6139,
+        "text": "変装イベント　終了[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6139,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "変装イベント　終了[END STRING AC]",
+    "sfc_vf_secondaire": "6139<0559>event[END STRING AC]",
+    "adaptation_body": "Scène du déguisement terminée",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6138,
+        "text": "変装イベント　スタート[END STRING AC]"
+      },
+      {
+        "id": 6139,
+        "text": "変装イベント　終了[END STRING AC]"
+      },
+      {
+        "id": 6140,
+        "text": "剣を　サリイに渡した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6140,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "剣を　サリイに渡した[END STRING AC]",
+    "sfc_vf_secondaire": "6140<0559>Sally[END STRING AC]",
+    "adaptation_body": "Épée confiée à Martel",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6139,
+        "text": "変装イベント　終了[END STRING AC]"
+      },
+      {
+        "id": 6140,
+        "text": "剣を　サリイに渡した[END STRING AC]"
+      },
+      {
+        "id": 6141,
+        "text": "ラミアスのつるぎ　入手した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6141,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ラミアスのつるぎ　入手した[END STRING AC]",
+    "sfc_vf_secondaire": "6141<0559>Ramia[END STRING AC]",
+    "adaptation_body": "Épée de Ramias obtenue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6140,
+        "text": "剣を　サリイに渡した[END STRING AC]"
+      },
+      {
+        "id": 6141,
+        "text": "ラミアスのつるぎ　入手した[END STRING AC]"
+      },
+      {
+        "id": 6142,
+        "text": "ヘルクラウドへの　道が　開けた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6142,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ヘルクラウドへの　道が　開けた[END STRING AC]",
+    "sfc_vf_secondaire": "6142<0559>Hell Coud[END STRING AC]",
+    "adaptation_body": "Voie vers Typhonia ouverte",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6141,
+        "text": "ラミアスのつるぎ　入手した[END STRING AC]"
+      },
+      {
+        "id": 6142,
+        "text": "ヘルクラウドへの　道が　開けた[END STRING AC]"
+      },
+      {
+        "id": 6143,
+        "text": "天空城　復活した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6143,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "天空城　復活した[END STRING AC]",
+    "sfc_vf_secondaire": "6143<0559>[END STRING AC]",
+    "adaptation_body": "Château céleste restauré",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6142,
+        "text": "ヘルクラウドへの　道が　開けた[END STRING AC]"
+      },
+      {
+        "id": 6143,
+        "text": "天空城　復活した[END STRING AC]"
+      },
+      {
+        "id": 6144,
+        "text": "ペガサス合体　終了[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6144,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ペガサス合体　終了[END STRING AC]",
+    "sfc_vf_secondaire": "6144<0559>Pegasus[END STRING AC]",
+    "adaptation_body": "Union avec Pégase terminée",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6143,
+        "text": "天空城　復活した[END STRING AC]"
+      },
+      {
+        "id": 6144,
+        "text": "ペガサス合体　終了[END STRING AC]"
+      },
+      {
+        "id": 6145,
+        "text": "青いボタン　ついた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6145,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "青いボタン　ついた[END STRING AC]",
+    "sfc_vf_secondaire": "6145<0559>[END STRING AC]",
+    "adaptation_body": "Bouton bleu activé",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6144,
+        "text": "ペガサス合体　終了[END STRING AC]"
+      },
+      {
+        "id": 6145,
+        "text": "青いボタン　ついた[END STRING AC]"
+      },
+      {
+        "id": 6146,
+        "text": "レイドック城[LINE]記憶をたどる　イベント終了[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6146,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "レイドック城[LINE]記憶をたどる　イベント終了[END STRING AC]",
+    "sfc_vf_secondaire": "6146<0559>Reidock[LINE]event[END STRING AC]",
+    "adaptation_body": "Souvenirs du château de Somnia retrouvés",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6145,
+        "text": "青いボタン　ついた[END STRING AC]"
+      },
+      {
+        "id": 6146,
+        "text": "レイドック城[LINE]記憶をたどる　イベント終了[END STRING AC]"
+      },
+      {
+        "id": 6147,
+        "text": "ふるびたパイプを　受け取った[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6147,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ふるびたパイプを　受け取った[END STRING AC]",
+    "sfc_vf_secondaire": "6147<0559>[END STRING AC]",
+    "adaptation_body": "Vieille pipe reçue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6146,
+        "text": "レイドック城[LINE]記憶をたどる　イベント終了[END STRING AC]"
+      },
+      {
+        "id": 6147,
+        "text": "ふるびたパイプを　受け取った[END STRING AC]"
+      },
+      {
+        "id": 6148,
+        "text": "無気力フィルター解除[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6148,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "無気力フィルター解除[END STRING AC]",
+    "sfc_vf_secondaire": "6148<0559>[END STRING AC]",
+    "adaptation_body": "Filtre d'apathie désactivé",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6147,
+        "text": "ふるびたパイプを　受け取った[END STRING AC]"
+      },
+      {
+        "id": 6148,
+        "text": "無気力フィルター解除[END STRING AC]"
+      },
+      {
+        "id": 6149,
+        "text": "モルガンの手紙を　読んだ[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6149,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "モルガンの手紙を　読んだ[END STRING AC]",
+    "sfc_vf_secondaire": "6149<0559>Morgan[END STRING AC]",
+    "adaptation_body": "Lettre de Fortuné Friquet lue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6148,
+        "text": "無気力フィルター解除[END STRING AC]"
+      },
+      {
+        "id": 6149,
+        "text": "モルガンの手紙を　読んだ[END STRING AC]"
+      },
+      {
+        "id": 6150,
+        "text": "湖のイベント終了[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6150,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "湖のイベント終了[END STRING AC]",
+    "sfc_vf_secondaire": "6150<0559>event[END STRING AC]",
+    "adaptation_body": "Scène du lac terminée",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6149,
+        "text": "モルガンの手紙を　読んだ[END STRING AC]"
+      },
+      {
+        "id": 6150,
+        "text": "湖のイベント終了[END STRING AC]"
+      },
+      {
+        "id": 6151,
+        "text": "M17　クリア後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6151,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "M17　クリア後[END STRING AC]",
+    "sfc_vf_secondaire": "6151<0559>[END STRING AC]",
+    "adaptation_body": "Après la réussite de M17",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6150,
+        "text": "湖のイベント終了[END STRING AC]"
+      },
+      {
+        "id": 6151,
+        "text": "M17　クリア後[END STRING AC]"
+      },
+      {
+        "id": 6152,
+        "text": "兵士の服　入手した[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6152,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "兵士の服　入手した[END STRING AC]",
+    "sfc_vf_secondaire": "6152<0559>[END STRING AC]",
+    "adaptation_body": "Uniforme de soldat obtenu",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6151,
+        "text": "M17　クリア後[END STRING AC]"
+      },
+      {
+        "id": 6152,
+        "text": "兵士の服　入手した[END STRING AC]"
+      },
+      {
+        "id": 6153,
+        "text": "ドグマとゾゾゲルに　敗れた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6153,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ドグマとゾゾゲルに　敗れた[END STRING AC]",
+    "sfc_vf_secondaire": "6153<0559>DogmaZozogel[END STRING AC]",
+    "adaptation_body": "Défaite contre Dogmus et Marcus",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6152,
+        "text": "兵士の服　入手した[END STRING AC]"
+      },
+      {
+        "id": 6153,
+        "text": "ドグマとゾゾゲルに　敗れた[END STRING AC]"
+      },
+      {
+        "id": 6154,
+        "text": "M20　呪いを受けた[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6154,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "M20　呪いを受けた[END STRING AC]",
+    "sfc_vf_secondaire": "6154<0559>[END STRING AC]",
+    "adaptation_body": "M20 - malédiction reçue",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6153,
+        "text": "ドグマとゾゾゲルに　敗れた[END STRING AC]"
+      },
+      {
+        "id": 6154,
+        "text": "M20　呪いを受けた[END STRING AC]"
+      },
+      {
+        "id": 6155,
+        "text": "しんじつのオーブ　入手後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6155,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "しんじつのオーブ　入手後[END STRING AC]",
+    "sfc_vf_secondaire": "6155<0559>[END STRING AC]",
+    "adaptation_body": "Après l'obtention de l'orbe de vérité",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6154,
+        "text": "M20　呪いを受けた[END STRING AC]"
+      },
+      {
+        "id": 6155,
+        "text": "しんじつのオーブ　入手後[END STRING AC]"
+      },
+      {
+        "id": 6156,
+        "text": "クリムトを　仲間にした[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6156,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "クリムトを　仲間にした[END STRING AC]",
+    "sfc_vf_secondaire": "6156<0559>Krimut[END STRING AC]",
+    "adaptation_body": "Blaise a rejoint le groupe",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6155,
+        "text": "しんじつのオーブ　入手後[END STRING AC]"
+      },
+      {
+        "id": 6156,
+        "text": "クリムトを　仲間にした[END STRING AC]"
+      },
+      {
+        "id": 6157,
+        "text": "はざまの城　落下後[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6157,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "はざまの城　落下後[END STRING AC]",
+    "sfc_vf_secondaire": "6157<0559>[END STRING AC]",
+    "adaptation_body": "Après la chute du château de l'entre-monde",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6156,
+        "text": "クリムトを　仲間にした[END STRING AC]"
+      },
+      {
+        "id": 6157,
+        "text": "はざまの城　落下後[END STRING AC]"
+      },
+      {
+        "id": 6158,
+        "text": "エンディングへ[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6158,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "エンディングへ[END STRING AC]",
+    "sfc_vf_secondaire": "6158<0559>[END STRING AC]",
+    "adaptation_body": "Vers la fin",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6157,
+        "text": "はざまの城　落下後[END STRING AC]"
+      },
+      {
+        "id": 6158,
+        "text": "エンディングへ[END STRING AC]"
+      },
+      {
+        "id": 6159,
+        "text": "ムーア倒したとこから?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6159,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ムーア倒したとこから?[END STRING AC]",
+    "sfc_vf_secondaire": "6159<0559>[END STRING AC]",
+    "adaptation_body": "Reprendre après la défaite de Mortamor ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6158,
+        "text": "エンディングへ[END STRING AC]"
+      },
+      {
+        "id": 6159,
+        "text": "ムーア倒したとこから?[END STRING AC]"
+      },
+      {
+        "id": 6160,
+        "text": "ペガサス飛行から?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6160,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ペガサス飛行から?[END STRING AC]",
+    "sfc_vf_secondaire": "6160<0559>Pegasus[END STRING AC]",
+    "adaptation_body": "Reprendre depuis le vol de Pégase ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6159,
+        "text": "ムーア倒したとこから?[END STRING AC]"
+      },
+      {
+        "id": 6160,
+        "text": "ペガサス飛行から?[END STRING AC]"
+      },
+      {
+        "id": 6161,
+        "text": "下のレイドックから?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6161,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "下のレイドックから?[END STRING AC]",
+    "sfc_vf_secondaire": "6161<0559>Reidock[END STRING AC]",
+    "adaptation_body": "Reprendre depuis Somnia du monde réel ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6160,
+        "text": "ペガサス飛行から?[END STRING AC]"
+      },
+      {
+        "id": 6161,
+        "text": "下のレイドックから?[END STRING AC]"
+      },
+      {
+        "id": 6162,
+        "text": "スタッフスクロールから?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6162,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "スタッフスクロールから?[END STRING AC]",
+    "sfc_vf_secondaire": "6162<0559>[END STRING AC]",
+    "adaptation_body": "Reprendre depuis le défilement des crédits ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6161,
+        "text": "下のレイドックから?[END STRING AC]"
+      },
+      {
+        "id": 6162,
+        "text": "スタッフスクロールから?[END STRING AC]"
+      },
+      {
+        "id": 6163,
+        "text": "後日シーンから?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6163,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "後日シーンから?[END STRING AC]",
+    "sfc_vf_secondaire": "6163<0559>[END STRING AC]",
+    "adaptation_body": "Reprendre depuis les scènes ultérieures ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6162,
+        "text": "スタッフスクロールから?[END STRING AC]"
+      },
+      {
+        "id": 6163,
+        "text": "後日シーンから?[END STRING AC]"
+      },
+      {
+        "id": 6164,
+        "text": "ラストシーンから?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6164,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ラストシーンから?[END STRING AC]",
+    "sfc_vf_secondaire": "6164<0559>[END STRING AC]",
+    "adaptation_body": "Reprendre depuis la dernière scène ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6163,
+        "text": "後日シーンから?[END STRING AC]"
+      },
+      {
+        "id": 6164,
+        "text": "ラストシーンから?[END STRING AC]"
+      },
+      {
+        "id": 6165,
+        "text": "ざんねんですが[LINE]フラグが　足りません。[WAIT][LINE]まじめに　ハッサンを[LINE]連れてきてください。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6165,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ざんねんですが[LINE]フラグが　足りません。[WAIT][LINE]まじめに　ハッサンを[LINE]連れてきてください。[END STRING AC]",
+    "sfc_vf_secondaire": "6165<0559>[LINE][WAIT][END STRING AC]",
+    "adaptation_body": "Hélas, des drapeaux manquent. Amenez Olivier normalement.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6164,
+        "text": "ラストシーンから?[END STRING AC]"
+      },
+      {
+        "id": 6165,
+        "text": "ざんねんですが[LINE]フラグが　足りません。[WAIT][LINE]まじめに　ハッサンを[LINE]連れてきてください。[END STRING AC]"
+      },
+      {
+        "id": 6166,
+        "text": "まじめに　ファルシオンを[LINE]仲間に　しますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6166,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "まじめに　ファルシオンを[LINE]仲間に　しますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6166<0559>Falshion[END STRING AC]",
+    "adaptation_body": "Recruter Céleste normalement ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6165,
+        "text": "ざんねんですが[LINE]フラグが　足りません。[WAIT][LINE]まじめに　ハッサンを[LINE]連れてきてください。[END STRING AC]"
+      },
+      {
+        "id": 6166,
+        "text": "まじめに　ファルシオンを[LINE]仲間に　しますか?[END STRING AC]"
+      },
+      {
+        "id": 6167,
+        "text": "最強と　呼ばれたい?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6167,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "最強と　呼ばれたい?[END STRING AC]",
+    "sfc_vf_secondaire": "6167<0559>[END STRING AC]",
+    "adaptation_body": "Voulez-vous porter le titre de plus fort ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6166,
+        "text": "まじめに　ファルシオンを[LINE]仲間に　しますか?[END STRING AC]"
+      },
+      {
+        "id": 6167,
+        "text": "最強と　呼ばれたい?[END STRING AC]"
+      },
+      {
+        "id": 6168,
+        "text": "ノーメッセージ[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6168,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ノーメッセージ[END STRING AC]",
+    "sfc_vf_secondaire": "Pas de Message[END STRING AC]",
+    "adaptation_body": "Aucun message",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6167,
+        "text": "最強と　呼ばれたい?[END STRING AC]"
+      },
+      {
+        "id": 6168,
+        "text": "ノーメッセージ[END STRING AC]"
+      },
+      {
+        "id": 6169,
+        "text": "⁾⁾人生五十年、[WAIT][LINE]　印税五十円。⁾⁾[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6170,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "＊「はにゃ?[END STRING AC]",
+    "sfc_vf_secondaire": "6170<0559>[END STRING AC]",
+    "adaptation_body": "Hein ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6169,
+        "text": "⁾⁾人生五十年、[WAIT][LINE]　印税五十円。⁾⁾[END STRING AC]"
+      },
+      {
+        "id": 6170,
+        "text": "＊「はにゃ?[END STRING AC]"
+      },
+      {
+        "id": 6171,
+        "text": "ダンチョネ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6172,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "その方向には　誰もいなかったことに[LINE]　してください。[END STRING AC]",
+    "sfc_vf_secondaire": "6172<0559>[END STRING AC]",
+    "adaptation_body": "Faites comme s'il n'y avait eu personne dans cette direction.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6171,
+        "text": "ダンチョネ。[END STRING AC]"
+      },
+      {
+        "id": 6172,
+        "text": "その方向には　誰もいなかったことに[LINE]　してください。[END STRING AC]"
+      },
+      {
+        "id": 6173,
+        "text": "[CODE D4]とくに　何も　みつからなかった。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6176,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ファルシオンと　わかれた。[END STRING AC]",
+    "sfc_vf_secondaire": "6176<0559>Falshion[END STRING AC]",
+    "adaptation_body": "Séparation avec Céleste",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6175,
+        "text": "なんと　ファルシオンを[LINE]つかまえた![END STRING AC]"
+      },
+      {
+        "id": 6176,
+        "text": "ファルシオンと　わかれた。[END STRING AC]"
+      },
+      {
+        "id": 6177,
+        "text": "と　いうわけで　戦闘ですが[LINE]勝ちますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6177,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "と　いうわけで　戦闘ですが[LINE]勝ちますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6177<0559>[END STRING AC]",
+    "adaptation_body": "Un combat va donc commencer. Voulez-vous gagner ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6176,
+        "text": "ファルシオンと　わかれた。[END STRING AC]"
+      },
+      {
+        "id": 6177,
+        "text": "と　いうわけで　戦闘ですが[LINE]勝ちますか?[END STRING AC]"
+      },
+      {
+        "id": 6178,
+        "text": "おかね　ほしい?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6178,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "おかね　ほしい?[END STRING AC]",
+    "sfc_vf_secondaire": "6178<0559>[END STRING AC]",
+    "adaptation_body": "Voulez-vous de l'or ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6177,
+        "text": "と　いうわけで　戦闘ですが[LINE]勝ちますか?[END STRING AC]"
+      },
+      {
+        "id": 6178,
+        "text": "おかね　ほしい?[END STRING AC]"
+      },
+      {
+        "id": 6179,
+        "text": "いっぱい　ほしい?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6179,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "いっぱい　ほしい?[END STRING AC]",
+    "sfc_vf_secondaire": "6179<0559>[END STRING AC]",
+    "adaptation_body": "En voulez-vous beaucoup ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6178,
+        "text": "おかね　ほしい?[END STRING AC]"
+      },
+      {
+        "id": 6179,
+        "text": "いっぱい　ほしい?[END STRING AC]"
+      },
+      {
+        "id": 6180,
+        "text": "いっぱい　あげる。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6180,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "いっぱい　あげる。[END STRING AC]",
+    "sfc_vf_secondaire": "6180<0559>[END STRING AC]",
+    "adaptation_body": "Je vous en donne beaucoup.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6179,
+        "text": "いっぱい　ほしい?[END STRING AC]"
+      },
+      {
+        "id": 6180,
+        "text": "いっぱい　あげる。[END STRING AC]"
+      },
+      {
+        "id": 6181,
+        "text": "すこし　あげる。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6181,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "すこし　あげる。[END STRING AC]",
+    "sfc_vf_secondaire": "6181<0559>[END STRING AC]",
+    "adaptation_body": "Je vous en donne un peu.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6180,
+        "text": "いっぱい　あげる。[END STRING AC]"
+      },
+      {
+        "id": 6181,
+        "text": "すこし　あげる。[END STRING AC]"
+      },
+      {
+        "id": 6182,
+        "text": "経験値　ほしい?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6182,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "経験値　ほしい?[END STRING AC]",
+    "sfc_vf_secondaire": "6182<0559>[END STRING AC]",
+    "adaptation_body": "Voulez-vous de l'expérience ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6181,
+        "text": "すこし　あげる。[END STRING AC]"
+      },
+      {
+        "id": 6182,
+        "text": "経験値　ほしい?[END STRING AC]"
+      },
+      {
+        "id": 6183,
+        "text": "呪文　おぼえる?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6183,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "呪文　おぼえる?[END STRING AC]",
+    "sfc_vf_secondaire": "6183<0559>[END STRING AC]",
+    "adaptation_body": "Apprendre des sorts ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6182,
+        "text": "経験値　ほしい?[END STRING AC]"
+      },
+      {
+        "id": 6183,
+        "text": "呪文　おぼえる?[END STRING AC]"
+      },
+      {
+        "id": 6184,
+        "text": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6200,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "いらないか......。[END STRING AC]",
+    "sfc_vf_secondaire": "6200<0559>[END STRING AC]",
+    "adaptation_body": "Vous n'en voulez pas...",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6199,
+        "text": "あなた　もう　ふくろ　もってる。[LINE]わたし　もう　ふくろ　ないね。[END STRING AC]"
+      },
+      {
+        "id": 6200,
+        "text": "いらないか......。[END STRING AC]"
+      },
+      {
+        "id": 6201,
+        "text": "[CODE D4][CODE C9]は　大きな　ふくろを[LINE]うけとった![WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6202,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ふくろあると　べんりね。[END STRING AC]",
+    "sfc_vf_secondaire": "6202<0559>[END STRING AC]",
+    "adaptation_body": "Un sac, c'est pratique.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6201,
+        "text": "[CODE D4][CODE C9]は　大きな　ふくろを[LINE]うけとった![WAIT][END STRING AC]"
+      },
+      {
+        "id": 6202,
+        "text": "ふくろあると　べんりね。[END STRING AC]"
+      },
+      {
+        "id": 6203,
+        "text": "だれの　HPを設定をしますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6203,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "だれの　HPを設定をしますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6203<0559>[END STRING AC]",
+    "adaptation_body": "De qui faut-il régler les PV ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6202,
+        "text": "ふくろあると　べんりね。[END STRING AC]"
+      },
+      {
+        "id": 6203,
+        "text": "だれの　HPを設定をしますか?[END STRING AC]"
+      },
+      {
+        "id": 6204,
+        "text": "最大HPを入力してください![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6204,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "最大HPを入力してください![END STRING AC]",
+    "sfc_vf_secondaire": "6204<0559>[END STRING AC]",
+    "adaptation_body": "Entrez le maximum de PV !",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6203,
+        "text": "だれの　HPを設定をしますか?[END STRING AC]"
+      },
+      {
+        "id": 6204,
+        "text": "最大HPを入力してください![END STRING AC]"
+      },
+      {
+        "id": 6205,
+        "text": "HPを入力してください![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6205,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "HPを入力してください![END STRING AC]",
+    "sfc_vf_secondaire": "6205<0559>[END STRING AC]",
+    "adaptation_body": "Entrez les PV !",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6204,
+        "text": "最大HPを入力してください![END STRING AC]"
+      },
+      {
+        "id": 6205,
+        "text": "HPを入力してください![END STRING AC]"
+      },
+      {
+        "id": 6206,
+        "text": "ノーマルポーカーやらない?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6206,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ノーマルポーカーやらない?[END STRING AC]",
+    "sfc_vf_secondaire": "6206<0559>[END STRING AC]",
+    "adaptation_body": "Jouer au poker classique ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6205,
+        "text": "HPを入力してください![END STRING AC]"
+      },
+      {
+        "id": 6206,
+        "text": "ノーマルポーカーやらない?[END STRING AC]"
+      },
+      {
+        "id": 6207,
+        "text": "ハイローポーカーやらない?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6207,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "ハイローポーカーやらない?[END STRING AC]",
+    "sfc_vf_secondaire": "6207<0559>[END STRING AC]",
+    "adaptation_body": "Jouer au poker haut-bas ?",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6206,
+        "text": "ノーマルポーカーやらない?[END STRING AC]"
+      },
+      {
+        "id": 6207,
+        "text": "ハイローポーカーやらない?[END STRING AC]"
+      },
+      {
+        "id": 6208,
+        "text": "[CODE D3]は　立て札を　読んだ。[END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 6209,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "　　　　　　本日は　ドラゴンクエスト6を[LINE]　　　　　　　　　プレイしていただき[LINE]　　　　　　まことに　ありがとうございます。[END STRING AC]",
+    "sfc_vf_secondaire": "6209<0559>Dragon Quest VI[END STRING AC]",
+    "adaptation_body": "Merci beaucoup d'avoir joué à Dragon Quest VI aujourd'hui.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6208,
+        "text": "[CODE D3]は　立て札を　読んだ。[END STRING AE]"
+      },
+      {
+        "id": 6209,
+        "text": "　　　　　　本日は　ドラゴンクエスト6を[LINE]　　　　　　　　　プレイしていただき[LINE]　　　　　　まことに　ありがとうございます。[END STRING AC]"
+      },
+      {
+        "id": 6210,
+        "text": "　　　　　さあ　これからと　いうところですが[LINE]　　　　　　今日はここで　お別れです。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6210,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "　　　　　さあ　これからと　いうところですが[LINE]　　　　　　今日はここで　お別れです。[END STRING AC]",
+    "sfc_vf_secondaire": "6210<0559>[END STRING AC]",
+    "adaptation_body": "L'aventure ne fait que commencer, mais nous devons nous quitter ici pour aujourd'hui.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6209,
+        "text": "　　　　　　本日は　ドラゴンクエスト6を[LINE]　　　　　　　　　プレイしていただき[LINE]　　　　　　まことに　ありがとうございます。[END STRING AC]"
+      },
+      {
+        "id": 6210,
+        "text": "　　　　　さあ　これからと　いうところですが[LINE]　　　　　　今日はここで　お別れです。[END STRING AC]"
+      },
+      {
+        "id": 6211,
+        "text": "　　　　　　冒険の続きまで　もうしばらく[LINE]　　　　　　　　　お待ちください。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6211,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "　　　　　　冒険の続きまで　もうしばらく[LINE]　　　　　　　　　お待ちください。[END STRING AC]",
+    "sfc_vf_secondaire": "6211<0559>[END STRING AC]",
+    "adaptation_body": "Patientez encore un peu avant de poursuivre l'aventure.",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6210,
+        "text": "　　　　　さあ　これからと　いうところですが[LINE]　　　　　　今日はここで　お別れです。[END STRING AC]"
+      },
+      {
+        "id": 6211,
+        "text": "　　　　　　冒険の続きまで　もうしばらく[LINE]　　　　　　　　　お待ちください。[END STRING AC]"
+      },
+      {
+        "id": 6212,
+        "text": "　　　　　　　　それでは　寒い季節に[LINE]　　　　　　　また　お会いしましょう......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6212,
+    "status": "PREPARE_NON_INSERE",
+    "review_level": "BROUILLON_JP_TRADUIT_LEXIQUE_DS_CONTROLE",
+    "sfc_jp": "　　　　　　　　それでは　寒い季節に[LINE]　　　　　　　また　お会いしましょう......。[END STRING AC]",
+    "sfc_vf_secondaire": "6212<0559>[END STRING AC]",
+    "adaptation_body": "Nous nous retrouverons donc à la saison froide...",
+    "blocker": "Relecture finale, commandes, intégration, restauration et rendu non validés. Libellés techniques et progression des quêtes, pas 150 dialogues naturels.",
+    "sfc_context": [
+      {
+        "id": 6211,
+        "text": "　　　　　　冒険の続きまで　もうしばらく[LINE]　　　　　　　　　お待ちください。[END STRING AC]"
+      },
+      {
+        "id": 6212,
+        "text": "　　　　　　　　それでは　寒い季節に[LINE]　　　　　　　また　お会いしましょう......。[END STRING AC]"
+      },
+      {
+        "id": 6213,
+        "text": "　　　　　　[CODE D5][WAIT][END STRING AE]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "restored_from_public_baseline_and_explicit_delta": true,
+  "baseline_v045_rom_sha256": "3f1e18cbddab15fd5f18ec1b96bf40f12d665c5e58387e0cfc81616c4bac8bf4",
+  "result_sha256": "5c58c12eabce2edbe039f6028e7742493b77e0403ebe08b5430d5241641516ca",
+  "restored_selection_byte_identical": true,
+  "independent_build_and_verify_passed": true,
+  "new_version_directory_fresh": true,
+  "original_sources_checked_by_prior_init": true,
+  "notes": "The prior reuse attempt preserved older generated selections as designed; only this task-owned v0.46 output directory was cleared before a fresh delta restoration and rebuild."
+}

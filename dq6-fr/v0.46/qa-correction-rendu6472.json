@@ -1,0 +1,40 @@
+{
+  "initial_result_sha256": "8ada42eddad92cfa06c193d47b02d498967609ac7d8c46808a4c40a34f0e2183",
+  "result_sha256": "5c58c12eabce2edbe039f6028e7742493b77e0403ebe08b5430d5241641516ca",
+  "reason": "The long welcome left a prior line visible after pagination. A single-window welcome retains D3 and native D5.",
+  "only_message_tokens_changed": [
+    6472
+  ],
+  "other_110_rendered_tokens_identical": true,
+  "all_engine_font_name_and_other_data_unchanged": true,
+  "rejected_initial_captures": [
+    {
+      "id": 6472,
+      "page": 1,
+      "screenshot": "screenshots/initial-v046-6472-page1.png",
+      "sha256": "ea02ecb1ceffc735e46450659dc39f7a616ff4ed847d46e98021f3de9ede1589",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v046-6472-page1\", \"message_id\": 100, \"frame_mean\": 46.087884812127974}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    },
+    {
+      "id": 6472,
+      "page": 2,
+      "screenshot": "screenshots/initial-v046-6472-page2.png",
+      "sha256": "200fa08c811feaef87eb659076815d6816862e1dc73e0bd5412008004d348292",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v046-6472-page2\", \"message_id\": 100, \"frame_mean\": 50.00312732514881}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    }
+  ],
+  "new_capture": {
+    "id": 6472,
+    "page": 1,
+    "screenshot": "screenshots/v046-6472-page1.png",
+    "sha256": "3fda565262d04877fcb640cb477de002b69ba3e18cd3597886e5f60ddf95ae38",
+    "output": "{\"pixel_format\": 2, \"screenshot\": \"v046-6472-page1\", \"message_id\": 100, \"frame_mean\": 47.213506789434526}\nMap_ExtendedHiROMMap\n",
+    "initial_capture": null,
+    "capture_rom_sha256": "5c58c12eabce2edbe039f6028e7742493b77e0403ebe08b5430d5241641516ca",
+    "tokens_sha256": "5daa8d745635572948c0437d6ef88b55938b5938d44c45cc88964c2ec18a2b28"
+  },
+  "initial_adaptation_body": "Bienvenue à la Banque du Trésor de l'Arc-en-ciel. Que puis-je pour %a090010 ?",
+  "final_adaptation_body": "Bienvenue à la banque. Que désire %a090010 ?"
+}

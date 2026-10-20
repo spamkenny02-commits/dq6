@@ -1,0 +1,47 @@
+{
+  "release": "v0.46",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 6387,
+    "visible_total": 6957,
+    "new_this_pass": 111,
+    "remaining": 570
+  },
+  "baseline": "v0.45",
+  "prepared_not_inserted": {
+    "main": 161,
+    "separate_places": 25,
+    "reviewed_fragments": 11,
+    "draft_main": 150
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.46",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "spell_action_labels_inserted": 20,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 37,
+    "native_grammar_helpers_adapted": 4
+  },
+  "rom_bytes": 8388608,
+  "notes": "111 ajouts : commerces, achats/reventes, banque, Journal, vocations, compagnons, noms et concours. B3/C0/C9/D3, B2, BB, B5 et D8 restent variables. 66 formulations DS relues/adaptées ; 45 adaptations directes SFC sans équivalent DS validé. Aucun rapprochement flou seul admis. Onze fragments préparés non insérés en attente de test d’assemblage ; 150 brouillons de libellés techniques/progression sauvegardés séparément, sans validation d’insertion.",
+  "next": "Continuer les 570 textes restants dont 11 fragments préparés et 150 brouillons non insérés, les tables et les audits naturels. Projet non finalisé.",
+  "deferred_remaining_from_v034": 16,
+  "resolved_from_v034_ids": [
+    2368,
+    5761,
+    5778,
+    5816,
+    5818,
+    5844,
+    5851,
+    6265,
+    6338,
+    6465
+  ]
+}

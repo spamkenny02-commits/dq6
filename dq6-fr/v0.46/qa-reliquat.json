@@ -1,0 +1,5943 @@
+{
+  "version": "v0.46",
+  "integrated": 6387,
+  "remaining": 570,
+  "prepared_main": 161,
+  "prepared_main_reviewed_fragments": 11,
+  "prepared_main_drafts": 150,
+  "method": "Japanese words normalized; variables genericized only for discovery, speaker labels and layout ignored.",
+  "warning": "PROPOSITIONS_NON_VALIDEES. Same words do not prove roles, scene, spelling, timing or French meaning. No entry in this report may be auto-inserted.",
+  "rows_with_word_only_proposals": 28,
+  "native_code_message_counts": {
+    "AC": 535,
+    "AD": 332,
+    "AE": 35,
+    "AF": 216,
+    "B0": 7,
+    "B2": 17,
+    "B3": 2,
+    "B5": 7,
+    "BB": 8,
+    "C0": 8,
+    "C1": 2,
+    "C3": 1,
+    "C4": 13,
+    "C7": 2,
+    "C9": 32,
+    "CA": 15,
+    "CB": 13,
+    "CC": 17,
+    "CD": 3,
+    "CE": 3,
+    "CF": 3,
+    "D0": 1,
+    "D2": 7,
+    "D3": 17,
+    "D4": 134,
+    "D5": 22,
+    "D6": 2,
+    "D9": 42,
+    "DA": 27,
+    "DB": 13,
+    "DC": 4,
+    "DE": 19,
+    "DF": 1,
+    "E0": 1,
+    "E1": 1
+  },
+  "open_inherited_audits": [
+    {
+      "ids": [
+        322,
+        323,
+        1836,
+        4095
+      ],
+      "status": "INTEGRES_MAIS_SCENES_NATURELLES_NON_VERIFIEES"
+    },
+    {
+      "ids": [
+        610,
+        1135,
+        2404,
+        5341,
+        5351
+      ],
+      "status": "INDICES_ET_CHOIX_A_REVOIR_ENSEMBLE"
+    },
+    {
+      "source": "v0.34/nouveaux-cas-differes.json",
+      "status": "CONSERVER_LES_CAS_NON_RESOLUS, voir historical_v034"
+    },
+    {
+      "scope": "tables",
+      "status": "ALPHABET_ACCENTUE_ET_FENETRES_NATIVES_OUVERTS"
+    }
+  ],
+  "rows": [
+    {
+      "id": 0,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D5",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 11,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 13,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 21,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D3",
+        "D9",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 22,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B2",
+        "D9",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 29,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B5",
+        "C4",
+        "D3"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0074.p",
+          "ids": [
+            272
+          ]
+        },
+        {
+          "file": "data/MESS6/FR/0804.p",
+          "ids": [
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 70,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 74,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "BB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 80,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C0",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0803.p",
+          "ids": [
+            376
+          ]
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C4",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 84,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "C4",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 89,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 151,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 300,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF",
+        "CC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 301,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "CC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 346,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "CC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 349,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 351,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CC",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0056.p",
+          "ids": [
+            698,
+            699,
+            700
+          ]
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0056.p",
+          "ids": [
+            704,
+            705,
+            706,
+            707
+          ]
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B0",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 426,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B0",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 430,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "CB",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 441,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 445,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B0",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 452,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 473,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 498,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 500,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0075.p",
+          "ids": [
+            973,
+            974,
+            975
+          ]
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 581,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B2",
+        "BB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 582,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 598,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 599,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 601,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 602,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0559.p",
+          "ids": [
+            54
+          ]
+        },
+        {
+          "file": "data/MESS6/FR/0559.p",
+          "ids": [
+            54,
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "id": 610,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 641,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 663,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C3"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0083.p",
+          "ids": [
+            23,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": 752,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4",
+        "DF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 755,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 764,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 784,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF",
+        "B2",
+        "B5",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 852,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 857,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 866,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C4",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 867,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0088.p",
+          "ids": [
+            71,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "id": 871,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0088.p",
+          "ids": [
+            79,
+            80,
+            81,
+            82,
+            83
+          ]
+        }
+      ]
+    },
+    {
+      "id": 873,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B3",
+        "D4",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 875,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D4",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 876,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 897,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 953,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 960,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 969,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 999,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1008,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1096,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C4",
+        "D3",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1107,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1135,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1138,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1177,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1178,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1237,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D2",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1306,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1312,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1313,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1314,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1315,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1317,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1318,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1319,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1320,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1322,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1323,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1324,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1325,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1332,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1334,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CD",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1356,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1368,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1375,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1424,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1468,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1469,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1475,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1476,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1477,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1478,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1479,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1481,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1482,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1483,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1484,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1502,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1505,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B2",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1507,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B2",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1508,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B2",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1546,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1603,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CB",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1606,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1611,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "CA",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1623,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "CB",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1639,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B0",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1642,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1645,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1666,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B2"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1671,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1716,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B5",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1718,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1725,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1739,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1740,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0539.p",
+          "ids": [
+            714
+          ]
+        },
+        {
+          "file": "data/MESS6/FR/0565.p",
+          "ids": [
+            79
+          ]
+        },
+        {
+          "file": "data/MESS6/FR/0566.p",
+          "ids": [
+            596
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1741,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1748,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1772,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1773,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C0"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1799,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B5",
+        "C0"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1806,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1807,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1830,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "B2",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1833,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B2",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1841,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D0",
+        "D4",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0060.p",
+          "ids": [
+            99,
+            100,
+            101,
+            102,
+            103
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1856,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1857,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1891,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B2"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1933,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1961,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1980,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1999,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B2"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2004,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2073,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2090,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2128,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2131,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2132,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2204,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2225,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2226,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2231,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2238,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2239,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2242,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2253,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2289,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2290,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2301,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2302,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF",
+        "CC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2303,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "C9",
+        "CA",
+        "D4",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2304,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF",
+        "CB",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2305,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2307,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "CC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2318,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2336,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "CB",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2337,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "CC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2352,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "CC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2358,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2360,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2371,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2378,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2397,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2404,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2432,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2445,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2463,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2464,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2506,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2507,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2515,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2516,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2539,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2631,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2664,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C4",
+        "C9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2683,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C4",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2684,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C4",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2746,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2754,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2808,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2811,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "D4",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2822,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2836,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2847,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2849,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2878,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2883,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2885,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2888,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2916,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2921,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2930,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2954,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2962,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2963,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2968,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2983,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2985,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2992,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3071,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3117,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3145,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3215,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3233,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3239,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CA",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3240,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CA",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3260,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF",
+        "D4",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3295,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3315,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3334,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3363,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B2"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3400,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3489,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0016.p",
+          "ids": [
+            42
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3568,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3636,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3637,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3694,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3716,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3719,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3727,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "E0"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3728,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3779,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "CE",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3799,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CE",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3853,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3876,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3901,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3922,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B0",
+        "CF",
+        "D4"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0018.p",
+          "ids": [
+            906
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3955,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "CF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3967,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3988,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4000,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4026,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4033,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "CA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4034,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "CA",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4407,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C9",
+        "CA",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4408,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "CC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4429,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "CA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4462,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4463,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4464,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4483,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C9",
+        "CA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4488,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C9",
+        "CA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4573,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4644,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4688,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "C9",
+        "CA",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4691,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "CA",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4745,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C4",
+        "C9"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0067.p",
+          "ids": [
+            649
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4810,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4812,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4814,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4836,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4854,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C4",
+        "C9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4866,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4867,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4870,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4879,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4880,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4883,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4892,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4899,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4913,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4952,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4958,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4965,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4967,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4982,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5020,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5035,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5038,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5049,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5067,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5100,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5125,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF",
+        "D3",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5159,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5183,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5195,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5229,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5326,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5327,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5341,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5351,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5363,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5368,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5389,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5392,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5427,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5431,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5444,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D3",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5470,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5502,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5525,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5533,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5542,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0080.p",
+          "ids": [
+            623
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5543,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5568,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5587,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5588,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D2",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5592,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5594,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D2",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5607,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5632,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5652,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF",
+        "D2",
+        "D4",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5655,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5656,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D4",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5657,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5659,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D2"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5666,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "CB",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5668,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B0",
+        "CB",
+        "D4"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0079.p",
+          "ids": [
+            172
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5669,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "CB",
+        "D4",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5687,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4",
+        "DB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5688,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B5",
+        "C0"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5699,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "C1",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5700,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "C1",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5701,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5702,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5703,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5739,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5741,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5747,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5748,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5775,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5820,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "BB",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5821,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "BB",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5822,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "BB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5823,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "BB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5832,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5833,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5834,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5835,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5836,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5837,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5838,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5839,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5854,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D2"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5855,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D2"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6006,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D6"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6019,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6020,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6021,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6022,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6023,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6024,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6025,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6026,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6027,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6028,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6029,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6030,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6031,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6032,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6033,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6034,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6035,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6038,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6039,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6040,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6041,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6042,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6043,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6044,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6045,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6046,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6047,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6048,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6049,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6050,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6051,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6052,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6053,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6054,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6055,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6056,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6057,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6058,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6059,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6060,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6061,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6062,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6063,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6064,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6065,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6066,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6067,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6068,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6069,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6070,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6071,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6072,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6073,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6074,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6075,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6076,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6077,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6079,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6080,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6081,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6082,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6083,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6084,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6085,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6086,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6087,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6088,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6089,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6090,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6091,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6092,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6093,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6094,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6095,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6096,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6097,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6098,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6099,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6100,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6101,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6102,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6103,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6104,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6105,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6106,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6107,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6108,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6109,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6110,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6111,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6112,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6113,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6114,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6115,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6116,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6117,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6119,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6120,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6121,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6122,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6123,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6124,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6125,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6126,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6127,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6128,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6129,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6130,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6131,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6132,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6133,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6134,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6135,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6136,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6137,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6138,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6139,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6140,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6141,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6142,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6143,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6144,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6145,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6146,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6147,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6148,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6149,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6150,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6151,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6152,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6153,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6154,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6155,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6156,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6157,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6158,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6159,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6160,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6161,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6162,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6163,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6164,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6165,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6166,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6167,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6168,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6169,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6170,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6171,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6172,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6174,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D6"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6176,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6177,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6178,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6179,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6180,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6181,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6182,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6183,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6184,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6185,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6186,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6187,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6188,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6189,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6190,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6191,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6193,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6194,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6195,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6197,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6198,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6199,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6200,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6201,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6202,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6203,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6204,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6205,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6206,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6207,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6208,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6209,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6210,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6211,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6212,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6213,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "AF",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6214,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6356,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B2",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6372,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B2",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6383,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B2",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6548,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "BB",
+        "D4",
+        "D5",
+        "DE",
+        "E1"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6576,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C4",
+        "D3"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0804.p",
+          "ids": [
+            134
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6579,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6629,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6653,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "B2",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6654,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "B2",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6678,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6680,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6716,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B5",
+        "C7",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6718,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B5",
+        "C7",
+        "D4"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0074.p",
+          "ids": [
+            318
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6759,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CB",
+        "D4",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0093.p",
+          "ids": [
+            30,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6806,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CC",
+        "D4",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0094.p",
+          "ids": [
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6808,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CC",
+        "D4",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0094.p",
+          "ids": [
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6838,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CB",
+        "CD",
+        "D4",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6839,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CB",
+        "D4",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6840,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CB",
+        "D4",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0095.p",
+          "ids": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6841,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "CA",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0095.p",
+          "ids": [
+            497,
+            498,
+            499
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6843,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6844,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "CA",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6850,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "CA",
+        "CB",
+        "CE",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6870,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6882,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "D4",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6883,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "CC",
+        "D4",
+        "D9",
+        "DA"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0097.p",
+          "ids": [
+            508,
+            509,
+            510
+          ]
+        },
+        {
+          "file": "data/MESS6/FR/0097.p",
+          "ids": [
+            508,
+            509,
+            510,
+            511
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6885,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9",
+        "D4",
+        "DA"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6921,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "CD",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6922,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "CC",
+        "D4",
+        "DC"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0098.p",
+          "ids": [
+            19,
+            29
+          ]
+        },
+        {
+          "file": "data/MESS6/FR/0098.p",
+          "ids": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6923,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4",
+        "DC"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0098.p",
+          "ids": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6924,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D4",
+        "DC"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0098.p",
+          "ids": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6925,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B0",
+        "CC",
+        "D4",
+        "DC"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0098.p",
+          "ids": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6926,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6934,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C0"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6937,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6939,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "BB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6942,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6944,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6947,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6948,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C0",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6949,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6952,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6954,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "AF",
+        "C0"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6955,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C0"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6956,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9"
+      ],
+      "word_only_proposals": []
+    }
+  ],
+  "historical_v034": {
+    "examined_then": 26,
+    "resolved_ids": [
+      2368,
+      5761,
+      5778,
+      5816,
+      5818,
+      5844,
+      5851,
+      6265,
+      6338,
+      6465
+    ],
+    "remaining_ids": [
+      610,
+      1135,
+      1356,
+      1478,
+      2404,
+      4866,
+      4880,
+      5159,
+      5341,
+      5748,
+      6117,
+      6172,
+      6209,
+      6937,
+      6944,
+      6949
+    ],
+    "remaining_count": 16,
+    "resolution_references": {
+      "2368": "v0.41/revue-lot-v041.json: inscription relue contre les deux japonais",
+      "6265": "v0.41/revue-lot-v041.json: remerciement relu, pas le poème ajouté en DS FR",
+      "5761": "v0.46/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "5778": "v0.46/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "5816": "v0.46/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "5818": "v0.46/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "5844": "v0.46/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "5851": "v0.46/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "6338": "v0.46/revue-lot-v046.json: question sur l’objet ou contexte funéraire SFC, pas proposition DS erronée.",
+      "6465": "v0.46/revue-lot-v046.json: question sur l’objet ou contexte funéraire SFC, pas proposition DS erronée."
+    }
+  }
+}

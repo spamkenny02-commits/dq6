@@ -1,0 +1,14 @@
+{
+  "result_sha256": "5c58c12eabce2edbe039f6028e7742493b77e0403ebe08b5430d5241641516ca",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "new_texts_rendered": 111,
+  "final_target_pages_visually_reviewed": 166,
+  "stress_B5_target_pages_visually_reviewed": 1,
+  "stress_B5_cells": 24,
+  "boot_new_game_menu_visually_reviewed": true,
+  "natural_scenes_played": false,
+  "real_transactions_or_naming_writes_tested": false,
+  "all_captures_on_final_rom": false,
+  "render_provenance": "110 texts rendered on initial build with identical tokens and engine;6472 rerendered on final build, initial overlap captures rejected.",
+  "limits": "Camp message100 redirections. C0 and B3 actor3, B2 hero SID09A7 or vocation08F9, D8 MAXIME, BB12345; display diagnostics only, no real item, gold, memory or save operations validated."
+}

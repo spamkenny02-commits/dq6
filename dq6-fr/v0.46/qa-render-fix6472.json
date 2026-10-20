@@ -1,0 +1,25 @@
+{
+  "result_sha256": "5c58c12eabce2edbe039f6028e7742493b77e0403ebe08b5430d5241641516ca",
+  "rows": [
+    {
+      "id": 6472,
+      "page": 1,
+      "screenshot": "screenshots/v046-6472-page1.png",
+      "sha256": "3fda565262d04877fcb640cb477de002b69ba3e18cd3597886e5f60ddf95ae38",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v046-6472-page1\", \"message_id\": 100, \"frame_mean\": 47.213506789434526}\nMap_ExtendedHiROMMap\n",
+      "initial_capture": null
+    }
+  ],
+  "diagnostic_RAM": {
+    "C0_name_ID": 3,
+    "C1_name_ID": 2,
+    "D8_buffer": "MAXIME",
+    "BB_decimal": 12345,
+    "B5_item_ID": 1,
+    "B3_name_ID": 3,
+    "B2_vocation": 2297,
+    "B2_name_ID": 2471,
+    "other_B2": 2352
+  },
+  "limits": "Camp message100 redirections. No natural scenes, real transactions, naming writes or save effects tested."
+}
