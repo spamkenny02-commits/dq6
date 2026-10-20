@@ -1,0 +1,50 @@
+{
+  "translation_commit": "13d152106c321783c0cd308a0df7d8301d4d3ebd",
+  "public_restore_verified": true,
+  "published_files_checked": 35,
+  "manifest_files_checked": 30,
+  "clean_recipe_scripts_regenerated_identically": true,
+  "clean_rebuild_sha256": "118b388a0132150969fde5810ab4c6ca374fe09ccf42f35b7f8b57744b2d4a03",
+  "selection_sha256": "40475c5621d842eff58995586c3fc95d7bf230289f70dfd8128080af28112fe6",
+  "baseline_integrated": 5927,
+  "integrated": 6165,
+  "new_across_four_batches": 238,
+  "remaining": 792,
+  "prepared_main": 0,
+  "prepared_places": 25,
+  "confirmed_french_table_entries": 37,
+  "historical_v034_remaining": 24,
+  "render_target_pages_across_batches": 313,
+  "extra_stress_pages": 25,
+  "batches": [
+    {
+      "version": "v0.40",
+      "commit": "d6fd5163b940285fab311e871db5f446ef812894",
+      "new": 40,
+      "target_pages": 75,
+      "stress_pages": 11
+    },
+    {
+      "version": "v0.41",
+      "commit": "7bab07e69a5060e5af31177a6e91ec7c0120fa69",
+      "new": 64,
+      "target_pages": 71,
+      "stress_pages": 0
+    },
+    {
+      "version": "v0.42",
+      "commit": "c4f253cc4f0f5da9524d0cc02e2d7ccb7e942e4e",
+      "new": 71,
+      "target_pages": 99,
+      "stress_pages": 14
+    },
+    {
+      "version": "v0.43",
+      "commit": "13d152106c321783c0cd308a0df7d8301d4d3ebd",
+      "new": 63,
+      "target_pages": 68,
+      "stress_pages": 0
+    }
+  ],
+  "limits": "Diagnostics and RAM display values, not natural scenes or transactions. Initial non-target captures from v0.43 are excluded. Tables and inherited natural-scene audits remain open. Only sources, reports and BPS published."
+}
