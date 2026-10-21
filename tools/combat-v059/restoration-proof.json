@@ -1,0 +1,24 @@
+{
+  "published_commit": "7f4f37636d2be90471dad69b1cb989bb77f6e9dc",
+  "restoration_from_git_archive": true,
+  "restore_sources_exit_code": 0,
+  "native_probe_exit_code": 0,
+  "native_binding_guard_exit_code": 0,
+  "native_pointer_mutation_detected_id": 8,
+  "positive_report_byte_identical": true,
+  "manifest_files_checked": {
+    "tools/combat-v059/README.md": "ce92dfcb58cbfdac7306f6ea0d12df5d57648e6bc0a70c124d8a87143490dc30",
+    "tools/combat-v059/native_probe.py": "70bdeac9985a52521df445142b613d091f4c367f3f88553dc64014ec02be119d",
+    "tools/combat-v059/qa-font-scope.json": "05e3e93e6da2ac6b3230c8971d1bedf189fc75eeafc5bbc115d0366da998d4ed",
+    "tools/combat-v059/qa-native-loader.json": "935e5b5461691e8117404530469cfea7dd4ccc14abf253fef5bc3ae30a7f4616",
+    "tools/combat-v059/qa-pointer-mutation.json": "bc83f42aeda539c6e7d903aa2f887dc941c73aec0206f2b97cc8fdf13ac11a1a",
+    "tools/combat-v059/binding-465.json": "189c6e61c8ccd92bc3246ddbf17bddfb13b974f33c4167ced9d952d0b9005675",
+    "tools/combat-v059/verify_binding.py": "ae1484e2100cb956da4a50822ce4da5fc79a105ec86a2ab5232ec65bdbfe9145"
+  },
+  "new_translations_inserted": 0,
+  "ROM_release_unchanged": "v0.56",
+  "limitations": [
+    "Native address/first-byte checks only; full battle rendering and accents remain open.",
+    "No validation of all complete messages, native commands or variables."
+  ]
+}

@@ -38,5 +38,13 @@
     "Décodage de noms depuis les tables sources ; aucune validation du rendu natif de combat.",
     "La formulation française du texte 465 reste réservée ; aucune insertion.",
     "Le site 0DB39E observé précédemment est un appel de script de carte, pas une preuve de combat."
-  ]
+  ],
+  "adaptation_candidate_not_approved": {
+    "status": "PREPARE_NON_INSERE_RESERVE_ADAPTATION",
+    "game": "jeu de rimes",
+    "464": "{BC}{B7} se lance soudain{AD}dans un jeu de rimes !{B1}{AC}",
+    "465": "{BC}{B7}. Je commence : {B2} !{AD}Euh... je ne trouve pas de rime !{AD}{B7} a perdu !{B1}{AC}",
+    "reason": "Remplacer la règle japonaise de terminaison par un échec à trouver une rime conserve le jeu verbal, le mot variable et la défaite comique pour les quatre choix. Il s’agit d’une adaptation proposée, pas du texte DS ni d’une validation.",
+    "native_commands": "Conserver BC, deux B7 dans465, B2, B1 et AC ; AD reste une proposition de disposition à vérifier."
+  }
 }
