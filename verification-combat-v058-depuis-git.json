@@ -1,0 +1,21 @@
+{
+  "checked_commit": "ac252e91dc4d4e6d1f1d868aa47fb3dc22fa2187",
+  "fresh_git_archive": true,
+  "restore_sources_exit_code": 0,
+  "combat_v057_verification_exit_code": 0,
+  "combat_v058_verification_exit_code": 0,
+  "checkpoint_file_hashes_match": true,
+  "published_allowlist_files_match": 10,
+  "new_translations": 0,
+  "new_inserted": 0,
+  "prepared_unchanged": 107,
+  "strict_encoding_candidate_count": 43,
+  "missing_accent_blocked_count": 64,
+  "release_unchanged": "v0.56",
+  "main_selections_unchanged": 6957,
+  "baseline_sha256": "e14ebc5611642b229edd3e7becae27813c823ef8182e2d06058953d593f2375d",
+  "Snes9x_bus_verified_bytes": 11722,
+  "Snes9x_bus_verified_messages": 608,
+  "Snes9x_new_render_accepted": 0,
+  "limits": "Bus and baseline boot succeeded. Native camp rendering experiment rejected. No new patch, no battle scene validation, no exhaustive proofreading completion."
+}
