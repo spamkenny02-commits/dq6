@@ -1,0 +1,3529 @@
+[
+  {
+    "id": 21,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE][CODE D9][CODE D3]どの[LINE]よくぞ　もどられました。[WAIT][LINE][CODE DE][CODE D9]神さまは　あなたたちを[LINE]いつも　見まもっておいでです。[LINE]どうか　お気をつけて。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]Bon retour, [CODE D3]. Soit prudent.[END STRING AC]",
+    "native_plan": "{DE}{D9}{D3}, vous voici de retour !{AF}{DE}{D9}La Déesse veille toujours sur vous. Soyez prudents.",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{DE}{D9}{D3}, vous voici de retour !{AF}{DE}{D9}La Déesse veille toujours sur vous. Soyez prudents.",
+    "adaptation_body": "{DE}{D9}{D3}, vous voici de retour !{AF}{DE}{D9}La Déesse veille toujours sur vous. Soyez prudents.",
+    "adaptation_speaker": "",
+    "adaptation_review": "D3 est le destinataire natif ; bénédiction et retour, deux styles DE/D9 et pause conservés.",
+    "review": "D3 est le destinataire natif ; bénédiction et retour, deux styles DE/D9 et pause conservés.",
+    "native_bindings": {
+      "native_DE": 222,
+      "native_D9": 217,
+      "native_D3": 211
+    },
+    "sfc_context": [
+      {
+        "id": 19,
+        "text": "[CODE D3]の姿が　見えないようだ。[LINE]こっそり　おいのりしますか?[END STRING AC]"
+      },
+      {
+        "id": 20,
+        "text": "[CODE DE]よくぞ　もどられた![LINE][CODE D3]どの。[WAIT][LINE][CODE DE]おお　神よ![LINE]この者たちに　あなたさまの[LINE]ご加護の　あらんことを![END STRING AC]"
+      },
+      {
+        "id": 21,
+        "text": "[CODE DE][CODE D9][CODE D3]どの[LINE]よくぞ　もどられました。[WAIT][LINE][CODE DE][CODE D9]神さまは　あなたたちを[LINE]いつも　見まもっておいでです。[LINE]どうか　お気をつけて。[END STRING AC]"
+      },
+      {
+        "id": 22,
+        "text": "[CODE DE][CODE D9]おお　神よ![LINE]この者[CODE B2]に　あなたさまの[LINE]ご加護の　あらんことを![END STRING AC]"
+      },
+      {
+        "id": 23,
+        "text": "なんと　[CODE B3]が　生き返った![END STRING AE]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 19,
+        "text": "Il ne semble pas voir . Faire une petite prière rapide?"
+      },
+      {
+        "id": 20,
+        "text": "Quelle joie de vous revoir, ! Déesse toute-puissante, accorde-leur ta protection!"
+      },
+      {
+        "id": 23,
+        "text": " revient à la vie!"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE][CODE D9]おお　神よ![LINE]この者[CODE B2]に　あなたさまの[LINE]ご加護の　あらんことを![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]Oh, dieux! Accordez à [CODE D3] votre protection![END STRING AC]",
+    "native_plan": "{DE}{D9}Ô Déesse ! Accorde ta protection à {B2} !",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0818.p",
+        "id": 84,
+        "ja": "@a@b＊「おお　神よ！\n\tこの者たちに　尊き　ご加護の\n\tあらんことを！\n@c0@",
+        "fr": "@a@b*ⓢ Déesse toute-puissante, puisses-tu protéger\n%A0110%Xce pauvre enfant%Z%B0110%Xcette pauvre enfant%Zⓠ Amenⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{DE}{D9}Ô Déesse ! Accorde ta protection à {B2} !",
+    "adaptation_body": "{DE}{D9}Ô Déesse ! Accorde ta protection à {B2} !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_DE": 222,
+      "native_D9": 217,
+      "native_B2": 178
+    },
+    "sfc_context": [
+      {
+        "id": 20,
+        "text": "[CODE DE]よくぞ　もどられた![LINE][CODE D3]どの。[WAIT][LINE][CODE DE]おお　神よ![LINE]この者たちに　あなたさまの[LINE]ご加護の　あらんことを![END STRING AC]"
+      },
+      {
+        "id": 21,
+        "text": "[CODE DE][CODE D9][CODE D3]どの[LINE]よくぞ　もどられました。[WAIT][LINE][CODE DE][CODE D9]神さまは　あなたたちを[LINE]いつも　見まもっておいでです。[LINE]どうか　お気をつけて。[END STRING AC]"
+      },
+      {
+        "id": 22,
+        "text": "[CODE DE][CODE D9]おお　神よ![LINE]この者[CODE B2]に　あなたさまの[LINE]ご加護の　あらんことを![END STRING AC]"
+      },
+      {
+        "id": 23,
+        "text": "なんと　[CODE B3]が　生き返った![END STRING AE]"
+      },
+      {
+        "id": 24,
+        "text": "[CODE B2]が　仲間に　くわわった![END STRING AE]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 20,
+        "text": "Quelle joie de vous revoir, ! Déesse toute-puissante, accorde-leur ta protection!"
+      },
+      {
+        "id": 23,
+        "text": " revient à la vie!"
+      },
+      {
+        "id": 24,
+        "text": " rejoint l'équipe!"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D3][CODE C4]は　[CODE B5]を[LINE]手に入れた![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D3] prend [CODE B5].[END STRING AC]",
+    "native_plan": "Objet acquis par {D3}{C4} - {B5}",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0074.p",
+        "id": 272,
+        "ja": "@a@b%a000120は　%a000100を\n手に入れた！\n@c0@",
+        "fr": "@a@b%0%a000120 reçoit %a020100.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "Objet acquis par {D3}{C4} - {B5}",
+    "adaptation_body": "Objet acquis par {D3}{C4} - {B5}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Acquisition nominale pour éviter un accord singulier figé devant C4, qui affiche et Cie selon le groupe. Ordre D3 C4 B5 conservé.",
+    "review": "Acquisition nominale pour éviter un accord singulier figé devant C4, qui affiche et Cie selon le groupe. Ordre D3 C4 B5 conservé.",
+    "native_bindings": {
+      "native_D3": 211,
+      "native_C4": 196,
+      "native_B5": 181
+    },
+    "sfc_context": [
+      {
+        "id": 27,
+        "text": "なんと![LINE][CODE B5]を　みつけた![END STRING AE]"
+      },
+      {
+        "id": 28,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]手にいれた![END STRING AE]"
+      },
+      {
+        "id": 29,
+        "text": "[CODE D3][CODE C4]は　[CODE B5]を[LINE]手に入れた![END STRING AC]"
+      },
+      {
+        "id": 30,
+        "text": "[CODE D3]は　[CODE B5]を[LINE]うけとった![END STRING AE]"
+      },
+      {
+        "id": 31,
+        "text": "[CODE D3]は　ちからのたねを[LINE]もらった![END STRING AE]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 27,
+        "text": "Quelle veine! "
+      },
+      {
+        "id": 28,
+        "text": " reçoit "
+      },
+      {
+        "id": 30,
+        "text": " reçoit "
+      },
+      {
+        "id": 31,
+        "text": " reçoit une graine de Force!"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE D9]ディーナ「[CODE C0]さん[LINE]ハープは　もっと広い海で[LINE]ひいてくださいね。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9]Dina.STP, joue de la harpe dans des eaux plus profondes.[END STRING AC]",
+    "native_plan": "{D4}{D9}Marine. {C0}, jouez de la harpe dans une plus grande étendue d'eau, s'il vous plaît.",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0803.p",
+        "id": 376,
+        "ja": "@a@bディーナ「%a000010さん\n\tハープは　もっと広い海で\n\tひいてくださいね。\n@c0@",
+        "fr": "@aMarine@bLa harpe ne fonctionnera pas ici,\nc'est évidentⓠ\n㈡\nIl faut une plus grande étendue d'eau\npour plonger dans l'océan.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}{D9}Marine. {C0}, jouez de la harpe dans une plus grande étendue d'eau, s'il vous plaît.",
+    "adaptation_body": "{D4}{D9}Marine. {C0}, jouez de la harpe dans une plus grande étendue d'eau, s'il vous plaît.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_D9": 217,
+      "native_C0": 192
+    },
+    "sfc_context": [
+      {
+        "id": 78,
+        "text": "[CODE C0]は　つよく念じながら[LINE]夢見のしずくを　その少女に[LINE]ふりかけた。[END STRING AC]"
+      },
+      {
+        "id": 79,
+        "text": "ディーナの声が　聞こえる。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 80,
+        "text": "[CODE D4][CODE D9]ディーナ「[CODE C0]さん[LINE]ハープは　もっと広い海で[LINE]ひいてくださいね。[END STRING AC]"
+      },
+      {
+        "id": 81,
+        "text": "人魚たちの　たすけで[LINE]船は　あわに　つつまれた![END STRING AC]"
+      },
+      {
+        "id": 82,
+        "text": "ファルシオンは　つばさを　ひろげ[LINE]とびたとうとした![WAIT][LINE]しかし　なまりのように[LINE]からだが　おもくなり　とびたてない![END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 78,
+        "text": " sort la rosée onirique et en verse quelques gouttes sur la fille."
+      },
+      {
+        "id": 79,
+        "text": "La voix mélodieuse de Marine se fait entendre..."
+      },
+      {
+        "id": 81,
+        "text": "Le pouvoir des sirènes englobe le navire dans une bulle géante!"
+      },
+      {
+        "id": 82,
+        "text": "Céleste déploie ses ailes et s'élance au galop! Mais son corps est lourd comme du plomb ici. Elle ne parvient pas à s'envoler..."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D3][CODE C4]は　兵士の服に[LINE]着がえた![END STRING AC]",
+    "sfc_vf_secondaire": "L'équipe de [CODE D3] a mis les Uniformes de Soldat.[END STRING AC]",
+    "native_plan": "Tenue de garde enfilée par {D3}{C4} !",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0088.p",
+        "id": 94,
+        "ja": "@a@b%a000120たちは　兵士の服に\n着がえた！\n@c0@",
+        "fr": "@a@b%H0860%X%0%a000120 enfile la tenue%YL'équipe enfile les tenues%Z de garde.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "Tenue de garde enfilée par {D3}{C4} !",
+    "adaptation_body": "Tenue de garde enfilée par {D3}{C4} !",
+    "adaptation_speaker": "",
+    "adaptation_review": "C4 conditionnel : phrase nominale, aucun accord de nombre figé.",
+    "review": "C4 conditionnel : phrase nominale, aucun accord de nombre figé.",
+    "native_bindings": {
+      "native_D3": 211,
+      "native_C4": 196
+    },
+    "sfc_context": [
+      {
+        "id": 81,
+        "text": "人魚たちの　たすけで[LINE]船は　あわに　つつまれた![END STRING AC]"
+      },
+      {
+        "id": 82,
+        "text": "ファルシオンは　つばさを　ひろげ[LINE]とびたとうとした![WAIT][LINE]しかし　なまりのように[LINE]からだが　おもくなり　とびたてない![END STRING AC]"
+      },
+      {
+        "id": 83,
+        "text": "[CODE D3][CODE C4]は　兵士の服に[LINE]着がえた![END STRING AC]"
+      },
+      {
+        "id": 84,
+        "text": "[CODE D3][CODE C4]は　兵士の服を　ぬいだ。[END STRING AC]"
+      },
+      {
+        "id": 85,
+        "text": "しかし　ここでは　兵士の服を[LINE]ぬがないほうが　よさそうだ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 81,
+        "text": "Le pouvoir des sirènes englobe le navire dans une bulle géante!"
+      },
+      {
+        "id": 82,
+        "text": "Céleste déploie ses ailes et s'élance au galop! Mais son corps est lourd comme du plomb ici. Elle ne parvient pas à s'envoler..."
+      },
+      {
+        "id": 85,
+        "text": "Mieux vaut ne pas retirer la tenue de garde pour le moment."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D3][CODE C4]は　兵士の服を　ぬいだ。[END STRING AC]",
+    "sfc_vf_secondaire": "L'équipe de [CODE D3] a enlevé les Uniformes de Soldat.[END STRING AC]",
+    "native_plan": "Tenue de garde retirée par {D3}{C4}.",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0088.p",
+        "id": 96,
+        "ja": "@a@b%a000120たちは　兵士の服を　ぬいだ。\n@c0@",
+        "fr": "@a@b%H0860%X%0%a000120 retire sa tenue%YL'équipe retire les tenues%Z de garde.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "Tenue de garde retirée par {D3}{C4}.",
+    "adaptation_body": "Tenue de garde retirée par {D3}{C4}.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Même retrait de tenue, C4 conditionnel conservé.",
+    "review": "Même retrait de tenue, C4 conditionnel conservé.",
+    "native_bindings": {
+      "native_D3": 211,
+      "native_C4": 196
+    },
+    "sfc_context": [
+      {
+        "id": 82,
+        "text": "ファルシオンは　つばさを　ひろげ[LINE]とびたとうとした![WAIT][LINE]しかし　なまりのように[LINE]からだが　おもくなり　とびたてない![END STRING AC]"
+      },
+      {
+        "id": 83,
+        "text": "[CODE D3][CODE C4]は　兵士の服に[LINE]着がえた![END STRING AC]"
+      },
+      {
+        "id": 84,
+        "text": "[CODE D3][CODE C4]は　兵士の服を　ぬいだ。[END STRING AC]"
+      },
+      {
+        "id": 85,
+        "text": "しかし　ここでは　兵士の服を[LINE]ぬがないほうが　よさそうだ。[END STRING AC]"
+      },
+      {
+        "id": 86,
+        "text": "ここでは　意味がない......。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 82,
+        "text": "Céleste déploie ses ailes et s'élance au galop! Mais son corps est lourd comme du plomb ici. Elle ne parvient pas à s'envoler..."
+      },
+      {
+        "id": 85,
+        "text": "Mieux vaut ne pas retirer la tenue de garde pour le moment."
+      },
+      {
+        "id": 86,
+        "text": "Inutile de porter ça ici."
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE D9][CODE CC]「????[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9][CODE CC].…?[END STRING AC]",
+    "native_plan": "{D4}{D9}{CC}. ????",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}{D9}{CC}. ????",
+    "adaptation_body": "{D4}{D9}{CC}. ????",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_D9": 217,
+      "native_CC": 204
+    },
+    "sfc_context": [
+      {
+        "id": 299,
+        "text": "魔法都市　カルベローナへ[LINE]ようこそ。[WAIT][LINE]この町は　はるか昔　いだいなる[LINE]大魔女　バーバレラさまが[LINE]おつくりになりました。[END STRING AC]"
+      },
+      {
+        "id": 300,
+        "text": "よくぞ　おいでになられました。[WAIT][LINE]われわれは　封印されている時にも[LINE]心の目で　世界を　見わたして[LINE]おりました。[WAIT][LINE]また　[CODE CC]さまの　成長をも[LINE]いのる想いで　見守って[LINE]おったのです。[WAIT][LINE]そう　ここは　[CODE CC]さまの[LINE]ふるさと......。[WAIT][LINE]昔　大魔王が　この　カルベローナを[LINE]封印した時　[CODE CC]さまの[LINE]まほうりょくが　反発し...[WAIT][LINE][CODE CC]さまの　心だけは[LINE]われわれと　ちがって　封印されずに[LINE]ちがう場所へ　とばされたようです。[WAIT][LINE]ただ　あまりに　大きなチカラが[LINE]ほとばしったため　きおくを[LINE]なくされたのでしょう。[END STRING AE]"
+      },
+      {
+        "id": 301,
+        "text": "[CODE D4][CODE D9][CODE CC]「????[END STRING AC]"
+      },
+      {
+        "id": 302,
+        "text": "私たちの町は　ただしくは[LINE]大魔王に　2かい　ほろぼされたと[LINE]いってよいでしょう。[WAIT][LINE]1かいめは　現実の世界で[LINE]町ごと　死の　ほのおで[LINE]やきつくされました。[WAIT][LINE]そのとき　私たちは　肉体から[LINE]精神を　ときはなち　たましいだけの[LINE]存在となって　この夢世界へ。[WAIT][LINE]しかし　大魔王のチカラは[LINE]夢の世界にまで　のびてきました。[WAIT][LINE]私たちが　夢の世界に　きずいた[LINE]この町を　こんどは　この島ごと[LINE]封印してしまったのです。[END STRING AC]"
+      },
+      {
+        "id": 303,
+        "text": "わしら　魔法をあやつる者は[LINE]たましいだけの存在となって[LINE]生きることが　できるのじゃ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 299,
+        "text": "Bienvenue à Sorcéria. Comme on dit chez nous, 'il n'y a pas d'endroit plus magique qu'ici'! Notre cité fut bâtie il y a bien longtemps par la grande sorcière Laurelda."
+      },
+      {
+        "id": 302,
+        "text": "Ce misérable démon a semé le chaos sur Sorcéria plus d'une fois, vous savez. Nos malheurs ont commencé quand une pluie de flammes fit disparaître notre cité du monde réel. Nous avons alors trouvé refuge dans le royaume des rêves, nos pauvres âmes à jamais privées de leurs corps. Mais ce répit fut de courte durée. Le démon découvrit bien vite notre sanctuaire. Il ne tarda pas à faire disparaître à nouveau notre nouvelle cité onirique ainsi que l'île sur laquelle elle était construite."
+      },
+      {
+        "id": 303,
+        "text": "Ne soyons pas si négatifs! Notre maîtrise de la magie nous permet de vivre normalement, même sans véritables enveloppes charnelles."
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE D9][CODE CC]「............。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9][CODE CC].…[END STRING AC]",
+    "native_plan": "{D4}{D9}{CC}. ...",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}{D9}{CC}. ...",
+    "adaptation_body": "{D4}{D9}{CC}. ...",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_D9": 217,
+      "native_CC": 204
+    },
+    "sfc_context": [
+      {
+        "id": 344,
+        "text": "この北の家には　カルベ老夫婦とは[LINE]正反対の　へんくつ夫婦が[LINE]住んでてさ。[WAIT][LINE]町の皆との　つき合いも　なくて[LINE]あたしらも　あまり　会ったことが[LINE]ないんだよ。[END STRING AC]"
+      },
+      {
+        "id": 345,
+        "text": "[CODE CC]さま。　あんたは　やはり[LINE]この町の皆を　まとめる　長老に[LINE]なるべき　おかただよ。[WAIT][LINE]もちろん　今は　まだ[LINE]やらなければ　いけないことが[LINE]おありだろうけど。[WAIT][LINE]最後には　かならず[LINE]もどって来て　くださいね。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 346,
+        "text": "[CODE D4][CODE D9][CODE CC]「............。[END STRING AC]"
+      },
+      {
+        "id": 347,
+        "text": "[CODE DA]だれかを　おさがしかな?[END STRING AC]"
+      },
+      {
+        "id": 348,
+        "text": "[CODE DA]わかっとる　わかっとる[LINE]それは　こんな姿じゃろう。[LINE]モシャス![END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 344,
+        "text": "C'est curieux, mais la maison au nord d'ici abrite un couple on ne peut plus différent des Soren. Ils ne sortent que très peu de chez eux. Je ne les ai aperçus qu'en de rares occasions."
+      },
+      {
+        "id": 345,
+        "text": "Ah, , c'est vous! Nul n'est plus capable que l'Acolyte pour diriger notre peuple. Bien sûr, nous savons tous que vous avez d'autres affaires à régler dans l'immédiat... Mais j'attends avec impatience le jour où vous nous reviendrez pour de bon."
+      },
+      {
+        "id": 347,
+        "text": "Mmm? Vous cherchez quelqu'un en particulier?"
+      },
+      {
+        "id": 348,
+        "text": "Ah oui? Eh bien, laissez-moi vous aider. Morph!"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DA]さあ　どうじゃ![LINE]さがしていたのは　おそらく[LINE]この姿の者じゃろう。ほっほっ![WAIT][LINE][CODE DA]これは　モシャスといって[LINE]かなりレベルの高い　呪文でな。[LINE]わしも　つい最近　覚えたのじゃ。[WAIT][LINE][CODE DA]それより　はて?[LINE]ばあさんを　見かけなかったか。[LINE]どこへ　行ったのかのう......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DA]Bien, qu'en dis-tu? Comment suis-je[WAIT][LINE][CODE DA]C'est le sort Mimic. Il faut un haut niveau pour l'apprendre.[WAIT][LINE][CODE DA]Je viens de l'apprendre.[WAIT][LINE][CODE DA]Au fait, as-tu vu ma femme? Je me demande où elle est…[END STRING AC]",
+    "native_plan": "{DA}Alors ? C'est sans doute la personne que vous cherchiez ! Ho ho !{AF}{DA}C'est Morph, un sort de haut niveau que j'ai appris récemment.{AF}{DA}Au fait... Vous n'auriez pas vu ma femme ? Où a-t-elle bien pu aller ?",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0056.p",
+        "id": 692,
+        "ja": "@a@b＊「これは　モシャスといって\n\tかなりレベルの高い　呪文でな。\n\tわしも　つい最近　覚えたのじゃ。\n@c0@",
+        "fr": "@a@b*ⓢ Vous avez la démonstration du pouvoir de Morph. Ma foi, ce sort est bien pratiqueⓠ Je ne l'ai appris que récemment.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{DA}Alors ? C'est sans doute la personne que vous cherchiez ! Ho ho !{AF}{DA}C'est Morph, un sort de haut niveau que j'ai appris récemment.{AF}{DA}Au fait... Vous n'auriez pas vu ma femme ? Où a-t-elle bien pu aller ?",
+    "adaptation_body": "{DA}Alors ? C'est sans doute la personne que vous cherchiez ! Ho ho !{AF}{DA}C'est Morph, un sort de haut niveau que j'ai appris récemment.{AF}{DA}Au fait... Vous n'auriez pas vu ma femme ? Où a-t-elle bien pu aller ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Morph, déguisement et recherche de l'épouse ; le locuteur anonyme n'est pas nommé.",
+    "review": "Morph, déguisement et recherche de l'épouse ; le locuteur anonyme n'est pas nommé.",
+    "native_bindings": {
+      "native_DA": 218
+    },
+    "sfc_context": [
+      {
+        "id": 347,
+        "text": "[CODE DA]だれかを　おさがしかな?[END STRING AC]"
+      },
+      {
+        "id": 348,
+        "text": "[CODE DA]わかっとる　わかっとる[LINE]それは　こんな姿じゃろう。[LINE]モシャス![END STRING AC]"
+      },
+      {
+        "id": 349,
+        "text": "[CODE DA]さあ　どうじゃ![LINE]さがしていたのは　おそらく[LINE]この姿の者じゃろう。ほっほっ![WAIT][LINE][CODE DA]これは　モシャスといって[LINE]かなりレベルの高い　呪文でな。[LINE]わしも　つい最近　覚えたのじゃ。[WAIT][LINE][CODE DA]それより　はて?[LINE]ばあさんを　見かけなかったか。[LINE]どこへ　行ったのかのう......。[END STRING AC]"
+      },
+      {
+        "id": 350,
+        "text": "[CODE DA]まったく　どこを[LINE]ほっつき歩いとるのかの[LINE]うちの　ばあさんは![END STRING AE]"
+      },
+      {
+        "id": 351,
+        "text": "[CODE DA]ん?　おや......よくよく見たら[LINE][CODE CC]さまでは　ないか![WAIT][LINE][CODE DA]ほほう　長老ブボールが[LINE]いっておったのは　本当じゃったか![LINE]じきに　[CODE CC]さまが　もどると...[WAIT][LINE][CODE DA]ふん。　長老も　たまには[LINE]正しいことを　いうようじゃの。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 347,
+        "text": "Mmm? Vous cherchez quelqu'un en particulier?"
+      },
+      {
+        "id": 348,
+        "text": "Ah oui? Eh bien, laissez-moi vous aider. Morph!"
+      },
+      {
+        "id": 350,
+        "text": "Malédiction! Où diable ma tête-en-l'air de bonne femme a-t-elle bien pu aller?"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DA]ん?　おや......よくよく見たら[LINE][CODE CC]さまでは　ないか![WAIT][LINE][CODE DA]ほほう　長老ブボールが[LINE]いっておったのは　本当じゃったか![LINE]じきに　[CODE CC]さまが　もどると...[WAIT][LINE][CODE DA]ふん。　長老も　たまには[LINE]正しいことを　いうようじゃの。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DA]Hmmm… Tu es[CODE CC], non?[WAIT][LINE][CODE DA]Bubole disait vrai. Elle disait que tu reviendrais…[WAIT][LINE][CODE DA]Bah, on ne peut pas toujours avoir tord.[END STRING AC]",
+    "native_plan": "{DA}Tiens... Mais c'est {CC} !{AF}{DA}L'Aïeule Tenjadice disait donc vrai ! Elle annonçait le retour imminent de {CC}...{AF}{DA}Hum. Même l'Aïeule a parfois raison, on dirait.",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0056.p",
+        "id": 699,
+        "ja": "@a@b＊「ほほう　長老ブボールが\n\tいっておったのは　本当じゃったか！\n\tじきに　%a002020さまが　もどると……\n@c0@",
+        "fr": "@a@b*ⓢ Parfaitementⓠ L'Aïeule Tenjadice disait donc vraiⓠ Elle prétendait que vous seriez bientôt de retourⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{DA}Tiens... Mais c'est {CC} !{AF}{DA}L'Aïeule Tenjadice disait donc vrai ! Elle annonçait le retour imminent de {CC}...{AF}{DA}Hum. Même l'Aïeule a parfois raison, on dirait.",
+    "adaptation_body": "{DA}Tiens... Mais c'est {CC} !{AF}{DA}L'Aïeule Tenjadice disait donc vrai ! Elle annonçait le retour imminent de {CC}...{AF}{DA}Hum. Même l'Aïeule a parfois raison, on dirait.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Deux CC conservés, Tenjadice confirmée dans le lexique DS, trois tours DA.",
+    "review": "Deux CC conservés, Tenjadice confirmée dans le lexique DS, trois tours DA.",
+    "native_bindings": {
+      "native_DA": 218,
+      "native_CC": 204
+    },
+    "sfc_context": [
+      {
+        "id": 349,
+        "text": "[CODE DA]さあ　どうじゃ![LINE]さがしていたのは　おそらく[LINE]この姿の者じゃろう。ほっほっ![WAIT][LINE][CODE DA]これは　モシャスといって[LINE]かなりレベルの高い　呪文でな。[LINE]わしも　つい最近　覚えたのじゃ。[WAIT][LINE][CODE DA]それより　はて?[LINE]ばあさんを　見かけなかったか。[LINE]どこへ　行ったのかのう......。[END STRING AC]"
+      },
+      {
+        "id": 350,
+        "text": "[CODE DA]まったく　どこを[LINE]ほっつき歩いとるのかの[LINE]うちの　ばあさんは![END STRING AE]"
+      },
+      {
+        "id": 351,
+        "text": "[CODE DA]ん?　おや......よくよく見たら[LINE][CODE CC]さまでは　ないか![WAIT][LINE][CODE DA]ほほう　長老ブボールが[LINE]いっておったのは　本当じゃったか![LINE]じきに　[CODE CC]さまが　もどると...[WAIT][LINE][CODE DA]ふん。　長老も　たまには[LINE]正しいことを　いうようじゃの。[END STRING AC]"
+      },
+      {
+        "id": 352,
+        "text": "[CODE DA]シーッ![LINE]わしも　モシャスで　ネコに[LINE]なってみたんじゃが...[WAIT][LINE][CODE DA]もとに　もどる呪文を[LINE]忘れてしもうたんじゃ。[WAIT][LINE][CODE DA]でも　ネコでいれば　しばらくは[LINE]うるさい　じいさんの相手を[LINE]せんでいいから　らくちんじゃ。[WAIT][LINE][CODE DA]いいかい。[LINE]じいさんには　ナイショじゃよ。[LINE]にゃーん![END STRING AC]"
+      },
+      {
+        "id": 353,
+        "text": "こっくり　こっくり......。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 350,
+        "text": "Malédiction! Où diable ma tête-en-l'air de bonne femme a-t-elle bien pu aller?"
+      },
+      {
+        "id": 353,
+        "text": "Zzzz... Zzzz..."
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DA]シーッ![LINE]わしも　モシャスで　ネコに[LINE]なってみたんじゃが...[WAIT][LINE][CODE DA]もとに　もどる呪文を[LINE]忘れてしもうたんじゃ。[WAIT][LINE][CODE DA]でも　ネコでいれば　しばらくは[LINE]うるさい　じいさんの相手を[LINE]せんでいいから　らくちんじゃ。[WAIT][LINE][CODE DA]いいかい。[LINE]じいさんには　ナイショじゃよ。[LINE]にゃーん![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DA]Shhh! Je connais aussi Mimic, et je suis devenu un chat.[WAIT][LINE][CODE DA]Mais je ne me souviens plus comment renverser le sort…[WAIT][LINE][CODE DA]Au moins, en tant que chat, je n'ai pas à dormir avec lui.[WAIT][LINE][CODE DA]Son ronflement est vraiment ennuyeux.[WAIT][LINE][CODE DA]Ne lui dis rien, d'accord? Miaou.[END STRING AC]",
+    "native_plan": "{DA}Chut ! J'ai aussi utilisé Morph pour me changer en chat...{AF}{DA}Mais j'ai oublié le sort pour reprendre ma forme !{AF}{DA}Au moins, en restant un chat, je n'ai plus à supporter mon fichu mari ! Quel repos !{AF}{DA}Pas un mot à mon mari, d'accord ? Miaou !",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0056.p",
+        "id": 706,
+        "ja": "@a@b＊「でも　ネコでいれば　しばらくは\n\tうるさい　じいさんの相手を\n\tせんでいいから　らくちんじゃ。\n@c0@",
+        "fr": "@a@b*ⓢ Mais je préfèrrre encore rester comme ça plutôt que de supporrrter mon fichu marrri à longueur de journée.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{DA}Chut ! J'ai aussi utilisé Morph pour me changer en chat...{AF}{DA}Mais j'ai oublié le sort pour reprendre ma forme !{AF}{DA}Au moins, en restant un chat, je n'ai plus à supporter mon fichu mari ! Quel repos !{AF}{DA}Pas un mot à mon mari, d'accord ? Miaou !",
+    "adaptation_body": "{DA}Chut ! J'ai aussi utilisé Morph pour me changer en chat...{AF}{DA}Mais j'ai oublié le sort pour reprendre ma forme !{AF}{DA}Au moins, en restant un chat, je n'ai plus à supporter mon fichu mari ! Quel repos !{AF}{DA}Pas un mot à mon mari, d'accord ? Miaou !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Épouse changée en chat par Morph, sort inverse oublié, secret à garder au mari ; pas de sexe variable figé.",
+    "review": "Épouse changée en chat par Morph, sort inverse oublié, secret à garder au mari ; pas de sexe variable figé.",
+    "native_bindings": {
+      "native_DA": 218
+    },
+    "sfc_context": [
+      {
+        "id": 350,
+        "text": "[CODE DA]まったく　どこを[LINE]ほっつき歩いとるのかの[LINE]うちの　ばあさんは![END STRING AE]"
+      },
+      {
+        "id": 351,
+        "text": "[CODE DA]ん?　おや......よくよく見たら[LINE][CODE CC]さまでは　ないか![WAIT][LINE][CODE DA]ほほう　長老ブボールが[LINE]いっておったのは　本当じゃったか![LINE]じきに　[CODE CC]さまが　もどると...[WAIT][LINE][CODE DA]ふん。　長老も　たまには[LINE]正しいことを　いうようじゃの。[END STRING AC]"
+      },
+      {
+        "id": 352,
+        "text": "[CODE DA]シーッ![LINE]わしも　モシャスで　ネコに[LINE]なってみたんじゃが...[WAIT][LINE][CODE DA]もとに　もどる呪文を[LINE]忘れてしもうたんじゃ。[WAIT][LINE][CODE DA]でも　ネコでいれば　しばらくは[LINE]うるさい　じいさんの相手を[LINE]せんでいいから　らくちんじゃ。[WAIT][LINE][CODE DA]いいかい。[LINE]じいさんには　ナイショじゃよ。[LINE]にゃーん![END STRING AC]"
+      },
+      {
+        "id": 353,
+        "text": "こっくり　こっくり......。[END STRING AC]"
+      },
+      {
+        "id": 354,
+        "text": "すや　すや......。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 350,
+        "text": "Malédiction! Où diable ma tête-en-l'air de bonne femme a-t-elle bien pu aller?"
+      },
+      {
+        "id": 353,
+        "text": "Zzzz... Zzzz..."
+      },
+      {
+        "id": 354,
+        "text": "Ron-pfff, ron-pfff..."
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]ラビアン「下で　おとなしく[LINE]見ててね　ボ[CODE B0]　ウ[CODE B0]　ヤ[CODE B0]　♥[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Lavian.Pourquoi ne regarderais-tu pas tranquilement, petit.[END STRING AC]",
+    "native_plan": "{D4}Dame Séductra. Regarde d'en bas, mon jo{B0}li{B0} coeur{B0} ♥",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0075.p",
+        "id": 658,
+        "ja": "@a@bラビアン「下で　おとなしく\n\t見ててね　ボ㈢㈢ウ㈢㈢ヤ㈢㈢Ⓟ\n@c0@",
+        "fr": "@aDame Séductra@bRedescendez et admirez ma beauté depuis le poulailler. C'est compris, %H0860%Xmon joli%Ymes jolis%Zⓡ ㈢㈢Ⓟ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}Dame Séductra. Regarde d'en bas, mon jo{B0}li{B0} coeur{B0} ♥",
+    "adaptation_body": "{D4}Dame Séductra. Regarde d'en bas, mon jo{B0}li{B0} coeur{B0} ♥",
+    "adaptation_speaker": "",
+    "adaptation_review": "Branche masculine singulière SFC, trois B0 à l'intérieur de l'adresse affectueuse, coeur natif.",
+    "review": "Branche masculine singulière SFC, trois B0 à l'intérieur de l'adresse affectueuse, coeur natif.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_B0": 176
+    },
+    "sfc_context": [
+      {
+        "id": 423,
+        "text": "やはり　ムチムチギャルは　ええ![LINE]ええのう!　むふーっ。[END STRING AC]"
+      },
+      {
+        "id": 424,
+        "text": "[CODE D4]ラビアン「あら　ダメじゃない[LINE]舞台に　あがってきちゃあ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 425,
+        "text": "[CODE D4]ラビアン「下で　おとなしく[LINE]見ててね　ボ[CODE B0]　ウ[CODE B0]　ヤ[CODE B0]　♥[END STRING AC]"
+      },
+      {
+        "id": 426,
+        "text": "[CODE D4]ラビアン「下で　おとなしく[LINE]見ててね　コ[CODE B0]　ネ[CODE B0]　コ[CODE B0]　ちゃん♥[END STRING AC]"
+      },
+      {
+        "id": 427,
+        "text": "あらん　お客さんたら[LINE]積極的ねえ。[WAIT][LINE]でも　踊り娘さんに　手をふれちゃ[LINE]いけないって　いうのが[LINE]決まりなの。ゴメンね♥[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 423,
+        "text": "J'adore les femmes bien en chair! Je m'en lasse pas!"
+      },
+      {
+        "id": 424,
+        "text": "Dame Séductra. à quoi est-ce que vous jouez? Cette scène est à moi, dame Séductra!"
+      },
+      {
+        "id": 427,
+        "text": "Oh, vous avez fait le déplacement pour me voir? N'oubliez pas que vous ne pouvez toucher qu'avec les yeux. C'est la règle! ♥"
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]ラビアン「下で　おとなしく[LINE]見ててね　コ[CODE B0]　ネ[CODE B0]　コ[CODE B0]　ちゃん♥[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Lavian.Pourquoi ne regarderais-tu pas tranquilement, chaton.[END STRING AC]",
+    "native_plan": "{D4}Dame Séductra. Regarde d'en bas, ma pe{B0}tite{B0} minette{B0} ♥",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0075.p",
+        "id": 659,
+        "ja": "@a@bラビアン「下で　おとなしく\n\t見ててね　コ㈢㈢ネ㈢㈢コ㈢㈢ちゃんⓅ\n@c0@",
+        "fr": "@aDame Séductra@bRedescendez et admirez ma beauté depuis le poulailler. C'est compris, %H0860%Xma jolie%Ymes jolies%Zⓡ ㈢㈢Ⓟ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}Dame Séductra. Regarde d'en bas, ma pe{B0}tite{B0} minette{B0} ♥",
+    "adaptation_body": "{D4}Dame Séductra. Regarde d'en bas, ma pe{B0}tite{B0} minette{B0} ♥",
+    "adaptation_speaker": "",
+    "adaptation_review": "Branche féminine singulière SFC, diminutif de chat, trois B0 conservés ; ne pas importer branche plurielle DS.",
+    "review": "Branche féminine singulière SFC, diminutif de chat, trois B0 conservés ; ne pas importer branche plurielle DS.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_B0": 176
+    },
+    "sfc_context": [
+      {
+        "id": 424,
+        "text": "[CODE D4]ラビアン「あら　ダメじゃない[LINE]舞台に　あがってきちゃあ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 425,
+        "text": "[CODE D4]ラビアン「下で　おとなしく[LINE]見ててね　ボ[CODE B0]　ウ[CODE B0]　ヤ[CODE B0]　♥[END STRING AC]"
+      },
+      {
+        "id": 426,
+        "text": "[CODE D4]ラビアン「下で　おとなしく[LINE]見ててね　コ[CODE B0]　ネ[CODE B0]　コ[CODE B0]　ちゃん♥[END STRING AC]"
+      },
+      {
+        "id": 427,
+        "text": "あらん　お客さんたら[LINE]積極的ねえ。[WAIT][LINE]でも　踊り娘さんに　手をふれちゃ[LINE]いけないって　いうのが[LINE]決まりなの。ゴメンね♥[END STRING AC]"
+      },
+      {
+        "id": 428,
+        "text": "ダンス　ダンス![LINE]ダンス　ダンス![WAIT][LINE]私が　踊ればー　みんなが[LINE]ふりかーえるのー。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 424,
+        "text": "Dame Séductra. à quoi est-ce que vous jouez? Cette scène est à moi, dame Séductra!"
+      },
+      {
+        "id": 427,
+        "text": "Oh, vous avez fait le déplacement pour me voir? N'oubliez pas que vous ne pouvez toucher qu'avec les yeux. C'est la règle! ♥"
+      },
+      {
+        "id": 428,
+        "text": "Un pas à gauche, un pas à droite. Cha cha cha! Il me suffit de remuer ces hanches pour faire tourner des têtes. Cha cha cha!"
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE CB]「............。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE CB].…[END STRING AC]",
+    "native_plan": "{D4}{CB}. ...",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}{CB}. ...",
+    "adaptation_body": "{D4}{CB}. ...",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_CB": 203
+    },
+    "sfc_context": [
+      {
+        "id": 428,
+        "text": "ダンス　ダンス![LINE]ダンス　ダンス![WAIT][LINE]私が　踊ればー　みんなが[LINE]ふりかーえるのー。[END STRING AC]"
+      },
+      {
+        "id": 429,
+        "text": "この町に　流れてきてから[LINE]もう　12年になるわ。[WAIT][LINE]前は　ガンディーノって城に[LINE]いたんだけどね。[WAIT][LINE]あの頃のことは　なにか[LINE]悪い夢を　見ていたよう。[LINE]あまり　思いだしたくないわね。[END STRING AE]"
+      },
+      {
+        "id": 430,
+        "text": "[CODE D4][CODE CB]「............。[END STRING AC]"
+      },
+      {
+        "id": 431,
+        "text": "見かけねえ　顔だな。[LINE]来ちまったもんは　しかたねえが[LINE]ここのことは　あまり　しゃべんなよ。[WAIT][LINE]オレは　ひっそりと[LINE]やっていきたいんでね。[END STRING AC]"
+      },
+      {
+        "id": 432,
+        "text": "グビビ......プハー![WAIT][LINE]よう　あんた![LINE]情報を　買わないか?[LINE]とびきりのヤツを　50でだ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 428,
+        "text": "Un pas à gauche, un pas à droite. Cha cha cha! Il me suffit de remuer ces hanches pour faire tourner des têtes. Cha cha cha!"
+      },
+      {
+        "id": 429,
+        "text": "ça fait presque douze ans que j'habite cette ville. Je suis venue du château de Brigandia. C'était un vrai cauchemar. Je préfère ne plus y songer..."
+      },
+      {
+        "id": 431,
+        "text": "Je ne vous connais pas. N'allez pas raconter ce que vous voyez dans le coin, c'est compris? Cet endroit est réservé à certaines personnes."
+      },
+      {
+        "id": 432,
+        "text": "Glou glou glou... Hé vous! Vous voulez des scoops? Je vous en donne pour seulement 50 pièces d'or."
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D9]そーお?[LINE]バニー　つまんなーい。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]Quoi? Tu n'aimes pas les bunnies?[END STRING AC]",
+    "native_plan": "{D9}Ah bon ? Tu n'es pas drôle !",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D9}Ah bon ? Tu n'es pas drôle !",
+    "adaptation_body": "{D9}Ah bon ? Tu n'es pas drôle !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D9": 217
+    },
+    "sfc_context": [
+      {
+        "id": 439,
+        "text": "ときどき　カベのウラから[LINE]変な音が　聞こえるの......。[WAIT][LINE]なにか　パフパフって[LINE]いってるみたいなの。[LINE]オバケだったら　コワイな。[END STRING AC]"
+      },
+      {
+        "id": 440,
+        "text": "[CODE D9]あらん　あなた　なかなか[LINE]イカスわね。どう?[LINE]パフパフして　いかない?[END STRING AC]"
+      },
+      {
+        "id": 441,
+        "text": "[CODE D9]そーお?[LINE]バニー　つまんなーい。[END STRING AC]"
+      },
+      {
+        "id": 442,
+        "text": "[CODE D9]ウフフ　じゃあ[LINE]こっちに　来て......。[END STRING AC]"
+      },
+      {
+        "id": 443,
+        "text": "[CODE D9]ちょっと　まってね。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 439,
+        "text": "J'entends parfois de drôles de bruits de l'autre côté du mur. On dirait que c'est quelqu'un qui dit 'marshmallow'. Vous croyez pas que c'est un fantôme, hein?"
+      },
+      {
+        "id": 440,
+        "text": "Vous avez l'air de savoir ce que vous voulez. Alors, qu'est-ce que vous en pensez? ça vous tente, une petite séance privée de marshmallow?"
+      },
+      {
+        "id": 442,
+        "text": "Hi hi! Je le savais! Suivez-moi..."
+      },
+      {
+        "id": 443,
+        "text": "Une petite minute. Hi hi!"
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D9]うふっ　うれしい![LINE]お礼に　キスして　あげるね♥[WAIT][LINE][CODE DA]じょり![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]Je suis si heureuse! Je vais te remercier d'un baiser![WAIT][LINE][CODE DA]Ow![END STRING AC]",
+    "native_plan": "{D9}Oh, merci ! Pour te remercier, voilà un bisou ! ♥{AF}{DA}(gratte) (gratte)",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0075.p",
+        "id": 970,
+        "ja": "@a@b＊「うふっ　うれしい！\n\tお礼に　キスして　あげるねⓅ\n@c0@",
+        "fr": "@a@b*ⓢ Formidableⓠ Voilà un bisouⓠ Ⓟ\n@c0@"
+      },
+      {
+        "file": "data/MESS6/JA/0075.p",
+        "id": 971,
+        "ja": "@a@b＊「じょり！\n@c0@",
+        "fr": "@a@b*ⓢ (gratte) (gratte)\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D9}Oh, merci ! Pour te remercier, voilà un bisou ! ♥{AF}{DA}(gratte) (gratte)",
+    "adaptation_body": "{D9}Oh, merci ! Pour te remercier, voilà un bisou ! ♥{AF}{DA}(gratte) (gratte)",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D9": 217,
+      "native_DA": 218
+    },
+    "sfc_context": [
+      {
+        "id": 496,
+        "text": "[CODE D9]あら?　あなた　なーに?[LINE]私の　ファンの人かしら?[END STRING AC]"
+      },
+      {
+        "id": 497,
+        "text": "[CODE D9]なによう　テレなくったって[LINE]いいのに♥　私に　会いに来て[LINE]くれたんでしょ。[END STRING AC]"
+      },
+      {
+        "id": 498,
+        "text": "[CODE D9]うふっ　うれしい![LINE]お礼に　キスして　あげるね♥[WAIT][LINE][CODE DA]じょり![END STRING AC]"
+      },
+      {
+        "id": 499,
+        "text": "[CODE DA]いっけねえ![LINE]ヒゲをそるのを　わすれてたぜ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 500,
+        "text": "[CODE D4][CODE DA]ホック「はっはっはっ　女装も[LINE]なかなか　いけるだろ。[WAIT][LINE][CODE D4][CODE DA]ホック「じゃあ　次のところへ[LINE]いってきますわ。[WAIT][LINE][CODE D4][CODE DA]ホック「こんどは　そうカンタンに[LINE]見つからなくてよ。おほほほ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 496,
+        "text": "Hi hi! Vous êtes qui? Vous aimez m'admirer?"
+      },
+      {
+        "id": 497,
+        "text": "Allez, faut se défaire de cette timidité! ♥ Vous êtes là pour me voir, non?"
+      },
+      {
+        "id": 499,
+        "text": "Zut! Je savais que j'aurais dû me raser! ça fait deux!"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE DA]ホック「はっはっはっ　女装も[LINE]なかなか　いけるだろ。[WAIT][LINE][CODE D4][CODE DA]ホック「じゃあ　次のところへ[LINE]いってきますわ。[WAIT][LINE][CODE D4][CODE DA]ホック「こんどは　そうカンタンに[LINE]見つからなくてよ。おほほほ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE DA]Hawk.Je fais une belle femme, non?[WAIT][LINE][CODE D4][CODE DA]Hawk.Je vais ailleurs.[WAIT][LINE][CODE D4][CODE DA]Hawk.Ca ne sera pas aussi facile cette fois.[END STRING AC]",
+    "native_plan": "{D4}{DA}Lynx. Ha ha ha ! Je suis plutôt convaincant en femme, non ?{AF}{D4}{DA}Lynx. Je m'en vais ailleurs, à présent.{AF}{D4}{DA}Lynx. Vous ne me trouverez pas aussi facilement la prochaine fois ! Ho ho ho !",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0075.p",
+        "id": 975,
+        "ja": "@a@bホック「こんどは　そうカンタンに\n\t見つからなくてよ。　おほほほ。\n@c0@",
+        "fr": "@aLynx@bVous ne me trouverez pas aussi facilement la prochaine fois.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}{DA}Lynx. Ha ha ha ! Je suis plutôt convaincant en femme, non ?{AF}{D4}{DA}Lynx. Je m'en vais ailleurs, à présent.{AF}{D4}{DA}Lynx. Vous ne me trouverez pas aussi facilement la prochaine fois ! Ho ho ho !",
+    "adaptation_body": "{D4}{DA}Lynx. Ha ha ha ! Je suis plutôt convaincant en femme, non ?{AF}{D4}{DA}Lynx. Je m'en vais ailleurs, à présent.{AF}{D4}{DA}Lynx. Vous ne me trouverez pas aussi facilement la prochaine fois ! Ho ho ho !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Trois répliques D4/DA de Lynx ; changement de cachette et travestissement, aucune commande consolidée.",
+    "review": "Trois répliques D4/DA de Lynx ; changement de cachette et travestissement, aucune commande consolidée.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_DA": 218
+    },
+    "sfc_context": [
+      {
+        "id": 498,
+        "text": "[CODE D9]うふっ　うれしい![LINE]お礼に　キスして　あげるね♥[WAIT][LINE][CODE DA]じょり![END STRING AC]"
+      },
+      {
+        "id": 499,
+        "text": "[CODE DA]いっけねえ![LINE]ヒゲをそるのを　わすれてたぜ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 500,
+        "text": "[CODE D4][CODE DA]ホック「はっはっはっ　女装も[LINE]なかなか　いけるだろ。[WAIT][LINE][CODE D4][CODE DA]ホック「じゃあ　次のところへ[LINE]いってきますわ。[WAIT][LINE][CODE D4][CODE DA]ホック「こんどは　そうカンタンに[LINE]見つからなくてよ。おほほほ。[END STRING AC]"
+      },
+      {
+        "id": 501,
+        "text": "いやー　バイトをやとったから[LINE]ひさびさに　のんびりできるぜ。[END STRING AC]"
+      },
+      {
+        "id": 502,
+        "text": "ホックを　さがしてる?[LINE]ああ　あの情報屋の男だね。[WAIT][LINE]まったく......。この町で[LINE]あんな商売を　はじめるなんて[LINE]とんでもないヤツだよ。[WAIT][LINE]あんたらも　あんまり[LINE]人のことを　かぎまわるんじゃ[LINE]ないよ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 499,
+        "text": "Zut! Je savais que j'aurais dû me raser! ça fait deux!"
+      },
+      {
+        "id": 501,
+        "text": "Je viens d'embaucher un barman à mi-temps. ça fait du bien de pouvoir souffler de temps en temps."
+      },
+      {
+        "id": 502,
+        "text": "Vous cherchez Lynx, cette sale fouine? Ce type est une honte. Il est venu dans cette ville pour colporter ses ragots. Je vous conseille de ne pas vous mêler des affaires des autres."
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "そうすると　[CODE B2]LV[CODE BB]の[LINE]記録が　消えてしまいますが[LINE]それでも　いいですか?[END STRING AC]",
+    "sfc_vf_secondaire": "Do you really want to replace the log of [CODE B2] Lv[CODE BB]?[END STRING AC]",
+    "native_plan": "Cela effacera le Journal de {B2}, niveau {BB}. Voulez-vous continuer ?",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "Cela effacera le Journal de {B2}, niveau {BB}. Voulez-vous continuer ?",
+    "adaptation_body": "Cela effacera le Journal de {B2}, niveau {BB}. Voulez-vous continuer ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "B2 et BB restent le nom et le niveau du Journal effacé, pas des valeurs fixes.",
+    "review": "B2 et BB restent le nom et le niveau du Journal effacé, pas des valeurs fixes.",
+    "native_bindings": {
+      "native_B2": 178,
+      "native_BB": 187
+    },
+    "sfc_context": [
+      {
+        "id": 579,
+        "text": "返事が　ない......。[WAIT][LINE]しかし　よく見ると　つくえの上に[LINE]冒険の書が　おいてあった。[WAIT][LINE]こっそり　冒険の記録を[LINE]書きとめておきますか?[END STRING AC]"
+      },
+      {
+        "id": 580,
+        "text": "では　なんばんの　冒険の書に[LINE]記録しますか?[END STRING AC]"
+      },
+      {
+        "id": 581,
+        "text": "そうすると　[CODE B2]LV[CODE BB]の[LINE]記録が　消えてしまいますが[LINE]それでも　いいですか?[END STRING AC]"
+      },
+      {
+        "id": 582,
+        "text": "[CODE D3]は　冒険の書に[LINE]こっそり　旅の記録を　書きとめた![END STRING AC]"
+      },
+      {
+        "id": 583,
+        "text": "[CODE D3]は　旅の記録を　しなかった。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 579,
+        "text": "Pas de réponse. Mais un journal ouvert est posé sur la table. Écrire discrètement une entrée dans le journal?"
+      },
+      {
+        "id": 580,
+        "text": "Dans quel journal dois-je procéder à l'enregistrement?"
+      },
+      {
+        "id": 583,
+        "text": " décide de ne pas laisser de trace de ses voyages."
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D3]は　冒険の書に[LINE]こっそり　旅の記録を　書きとめた![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D3] recorded [CODE C8] adventures into the Adventure Log.[END STRING AC]",
+    "native_plan": "{D3} note discrètement le récit du voyage dans le Journal !",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D3} note discrètement le récit du voyage dans le Journal !",
+    "adaptation_body": "{D3} note discrètement le récit du voyage dans le Journal !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D3": 211
+    },
+    "sfc_context": [
+      {
+        "id": 580,
+        "text": "では　なんばんの　冒険の書に[LINE]記録しますか?[END STRING AC]"
+      },
+      {
+        "id": 581,
+        "text": "そうすると　[CODE B2]LV[CODE BB]の[LINE]記録が　消えてしまいますが[LINE]それでも　いいですか?[END STRING AC]"
+      },
+      {
+        "id": 582,
+        "text": "[CODE D3]は　冒険の書に[LINE]こっそり　旅の記録を　書きとめた![END STRING AC]"
+      },
+      {
+        "id": 583,
+        "text": "[CODE D3]は　旅の記録を　しなかった。[END STRING AC]"
+      },
+      {
+        "id": 584,
+        "text": "......。[WAIT][LINE]あんたら　こんな村に[LINE]なんの用だね。[WAIT][LINE]ごらんの通り　わし　いがいの[LINE]村人は　皆　こおりついて[LINE]しまっとる![WAIT][LINE]こんな　おいぼれに[LINE]用は　ないじゃろう?　さっさと[LINE]立ち去るがええ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 580,
+        "text": "Dans quel journal dois-je procéder à l'enregistrement?"
+      },
+      {
+        "id": 583,
+        "text": " décide de ne pas laisser de trace de ses voyages."
+      },
+      {
+        "id": 584,
+        "text": "............ Qu'est-ce qui vous amène dans ce lieu perdu? Vous avez dû remarquer que je suis le seul ici à ne pas m'être transformé en bonhomme de neige. J'imagine que vous êtes pas ici pour voir un vieux fou comme moi, alors partez."
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "まいどありっ![WAIT][LINE]じゃあ　その　[CODE C3]の中に[LINE]入れておくよ![LINE]また　いつでも　どうぞ![END STRING AC]",
+    "sfc_vf_secondaire": "Sold! I'll put it in the [CODE C3]![END STRING AC]",
+    "native_plan": "Merci bien !{AF}Je mets cet achat dans {C3}. Revenez quand vous voulez !",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "Merci bien !{AF}Je mets cet achat dans {C3}. Revenez quand vous voulez !",
+    "adaptation_body": "Merci bien !{AF}Je mets cet achat dans {C3}. Revenez quand vous voulez !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Sac natif C3 issu de la sauvegarde, pas un nom anglais/français imposé.",
+    "review": "Sac natif C3 issu de la sauvegarde, pas un nom anglais/français imposé.",
+    "native_bindings": {
+      "native_C3": 195
+    },
+    "sfc_context": [
+      {
+        "id": 661,
+        "text": "また　いつでも　どうぞ![END STRING AC]"
+      },
+      {
+        "id": 662,
+        "text": "ありゃりゃ　お客さん[LINE]お金　たりないよ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 663,
+        "text": "まいどありっ![WAIT][LINE]じゃあ　その　[CODE C3]の中に[LINE]入れておくよ![LINE]また　いつでも　どうぞ![END STRING AC]"
+      },
+      {
+        "id": 664,
+        "text": "おい　じじい![LINE]いったい　誰に　ことわって[LINE]ここで　商売してんだ!?[WAIT][LINE]商売したけりゃ　オレに[LINE]ショバ代を　よこしな![END STRING AC]"
+      },
+      {
+        "id": 665,
+        "text": "ふん!　どこで　商売しようと[LINE]わしの勝手　じゃわい![END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 661,
+        "text": "Revenez quand vous aurez de quoi acheter!"
+      },
+      {
+        "id": 662,
+        "text": "Je crains que vous n'ayez pas suffisamment d'argent."
+      },
+      {
+        "id": 664,
+        "text": "Hé, papy! Qui t'a dit que tu pouvais vendre ta camelote ici, hein? Faut payer les frais de participation, compris? C'est, euh... c'est la loi, ici!"
+      },
+      {
+        "id": 665,
+        "text": "Mmpf! Je vends ce que je veux, où je veux!"
+      }
+    ]
+  },
+  {
+    "id": 866,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "　　　　　　　　　[CODE D3][CODE C4]は　再び[LINE]　　　　　　　　　牢に　入れられた...。[END STRING AC]",
+    "sfc_vf_secondaire": "      [CODE D3]<024D> party was[LINE]     put in jail once more…[END STRING AC]",
+    "native_plan": "Retour en prison pour {D3}{C4}...",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "Retour en prison pour {D3}{C4}...",
+    "adaptation_body": "Retour en prison pour {D3}{C4}...",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D3": 211,
+      "native_C4": 196
+    },
+    "sfc_context": [
+      {
+        "id": 864,
+        "text": "あっ　お前はっ!![END STRING AE]"
+      },
+      {
+        "id": 865,
+        "text": "いったい　どうやって　牢を[LINE]ぬけ出したのだ!?[LINE]さあ　こっちへ　来い![END STRING AC]"
+      },
+      {
+        "id": 866,
+        "text": "　　　　　　　　　[CODE D3][CODE C4]は　再び[LINE]　　　　　　　　　牢に　入れられた...。[END STRING AC]"
+      },
+      {
+        "id": 867,
+        "text": "[CODE DA]なにやつだっ!?[WAIT][LINE][CODE DA].........っっ??[WAIT][END STRING AC]"
+      },
+      {
+        "id": 868,
+        "text": "[CODE DA]お　お前は　たしか　[CODE B3]![WAIT][END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 864,
+        "text": "Hé, là!"
+      },
+      {
+        "id": 865,
+        "text": "Comment vous avez fait pour sortir de votre cellule? On dirait qu'il va falloir tout recommencer..."
+      },
+      {
+        "id": 868,
+        "text": "V- vous! Mais vous êtes !"
+      }
+    ]
+  },
+  {
+    "id": 867,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DA]なにやつだっ!?[WAIT][LINE][CODE DA].........っっ??[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DA]Aren't you…?[WAIT][LINE][CODE DA]……?[WAIT][END STRING AC]",
+    "native_plan": "{DA}Qui va là ?!{AF}{DA}... ??{AF}",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{DA}Qui va là ?!{AF}{DA}... ??{AF}",
+    "adaptation_body": "{DA}Qui va là ?!{AF}{DA}... ??{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_DA": 218
+    },
+    "sfc_context": [
+      {
+        "id": 865,
+        "text": "いったい　どうやって　牢を[LINE]ぬけ出したのだ!?[LINE]さあ　こっちへ　来い![END STRING AC]"
+      },
+      {
+        "id": 866,
+        "text": "　　　　　　　　　[CODE D3][CODE C4]は　再び[LINE]　　　　　　　　　牢に　入れられた...。[END STRING AC]"
+      },
+      {
+        "id": 867,
+        "text": "[CODE DA]なにやつだっ!?[WAIT][LINE][CODE DA].........っっ??[WAIT][END STRING AC]"
+      },
+      {
+        "id": 868,
+        "text": "[CODE DA]お　お前は　たしか　[CODE B3]![WAIT][END STRING AC]"
+      },
+      {
+        "id": 869,
+        "text": "[CODE DA]お　お前は　たしか[LINE][CODE C9]の　仲間ではっ!?[WAIT][END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 865,
+        "text": "Comment vous avez fait pour sortir de votre cellule? On dirait qu'il va falloir tout recommencer..."
+      },
+      {
+        "id": 868,
+        "text": "V- vous! Mais vous êtes !"
+      },
+      {
+        "id": 869,
+        "text": "V- vous! Vous faites partie de la bande qui accompagne !"
+      }
+    ]
+  },
+  {
+    "id": 897,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D9]............。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D9]…[END STRING AC]",
+    "native_plan": "{D9}...",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D9}...",
+    "adaptation_body": "{D9}...",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D9": 217
+    },
+    "sfc_context": [
+      {
+        "id": 895,
+        "text": "[CODE DA]な　なんてことを　いうんだ![LINE]そんな言葉を　アクバーさまに[LINE]聞かれたら......[END STRING AC]"
+      },
+      {
+        "id": 896,
+        "text": "[CODE DA]あわわわ...　何でもありません[LINE]何でもありませんから...。[END STRING AC]"
+      },
+      {
+        "id": 897,
+        "text": "[CODE D9]............。[END STRING AC]"
+      },
+      {
+        "id": 898,
+        "text": "おにいちゃんたち[LINE]悪い人なんでしょ?[WAIT][LINE]だって　お父さんが　いってたもん。[LINE]そのうち　きっと　兵士たちを[LINE]とっちめてやるって。[END STRING AC]"
+      },
+      {
+        "id": 899,
+        "text": "ねえ　ここは　どこ?[LINE]どうして　おそとに出ちゃ[LINE]いけないの?[WAIT][LINE]前は　パパが　お家の近くの湖に[LINE]つれて行ってくれたのに。[LINE]つまんない......。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 895,
+        "text": "ça ne va pas la tête? Si Noirkeur avait entendu ça..."
+      },
+      {
+        "id": 896,
+        "text": "Ah, hum! Ha ha! Vous n'avez rien entendu!"
+      },
+      {
+        "id": 898,
+        "text": "Les soldats sont méchants, hein? Ils sont toujours méchants! Mon père m'a dit qu'il allait vous donner une bonne leçon, quitte à en mourir!"
+      },
+      {
+        "id": 899,
+        "text": "Où on est? Pourquoi on peut pas sortir? Je me souviens quand papa nous emmenait près du lac, à côté de la maison. Maintenant, on peut plus aller nulle part."
+      }
+    ]
+  },
+  {
+    "id": 960,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]ルイ「あんたが　その気なら[LINE]道具屋の主人に　話してごらん。[WAIT][LINE][CODE D4]ルイ「ただし　こっそりとね。[LINE]兵士たちに　バレたら　あたしらの[LINE]命も　あぶないからさ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Lee.If you really want to help, speak to the shopkeeper.[WAIT][LINE][CODE D4]Lee.But be discreet about it. We can't be revealed to the soldiers.[END STRING AC]",
+    "native_plan": "{D4}Tully. Si vous êtes d'accord, parlez au marchand d'objets.{AF}{D4}Tully. Mais discrètement ! Si les gardes l'apprennent, nos vies seront en danger.",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0088.p",
+        "id": 771,
+        "ja": "@a@bルイ「あんたが　その気なら\n\t道具屋の主人に　話してごらん。\n@c0@",
+        "fr": "@aTully@bSi c'est le cas, je vous conseille de vous adresser à l'homme qui distribue la nourriture.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}Tully. Si vous êtes d'accord, parlez au marchand d'objets.{AF}{D4}Tully. Mais discrètement ! Si les gardes l'apprennent, nos vies seront en danger.",
+    "adaptation_body": "{D4}Tully. Si vous êtes d'accord, parlez au marchand d'objets.{AF}{D4}Tully. Mais discrètement ! Si les gardes l'apprennent, nos vies seront en danger.",
+    "adaptation_speaker": "",
+    "adaptation_review": "SFC marchand d'objets, DS distributeur de nourriture : conserver le commerce SFC et l'avertissement.",
+    "review": "SFC marchand d'objets, DS distributeur de nourriture : conserver le commerce SFC et l'avertissement.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 958,
+        "text": "[CODE D4]ルイ「え?　何だって?[LINE]シスター　アンナは　明日にも[LINE]アクバーのところへ!?[WAIT][LINE][CODE D4]ルイ「な　なんてことを...　どこまで[LINE]心のゆがんだ　ヤツだろう![WAIT][LINE][CODE D4]ルイ「それにしても　あんた　よく[LINE]そんな　情報を...　もしや[LINE]アクバーを　たおすつもりかい?[END STRING AC]"
+      },
+      {
+        "id": 959,
+        "text": "[CODE D4]ルイ「いや　聞かなくても　あんたの[LINE]目が　そういってるよ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 960,
+        "text": "[CODE D4]ルイ「あんたが　その気なら[LINE]道具屋の主人に　話してごらん。[WAIT][LINE][CODE D4]ルイ「ただし　こっそりとね。[LINE]兵士たちに　バレたら　あたしらの[LINE]命も　あぶないからさ。[END STRING AC]"
+      },
+      {
+        "id": 961,
+        "text": "え?　アクバーを　たおしたい?[LINE]シーーッ![WAIT][LINE]こ　こまりますよ　こんなところで...[LINE]そういう話なら　うらに[LINE]まわってくれなくちゃ。[END STRING AE]"
+      },
+      {
+        "id": 962,
+        "text": "酒場のうらにいる　ゴンに[LINE]声をかけてみてください。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 958,
+        "text": "Tully. Hein? Qu'est-ce que vous dites? La soeur Anne doit être amenée à Noirkeur demain? La perversité de Noirkeur n'a donc aucune limite? Heureusement que vous avez découvert ces informations... M-mais... vous êtes là pour affronter Noirkeur?"
+      },
+      {
+        "id": 959,
+        "text": "Tully. Inutile de poser la question. Je le vois à vos yeux."
+      },
+      {
+        "id": 961,
+        "text": "Comment? Vous voulez vaincre Noirkeur? Chut! Je vais avoir des problèmes si on m'entend. Restons discrets."
+      },
+      {
+        "id": 962,
+        "text": "Allez voir Magnus. Vous le trouverez derrière le bar."
+      }
+    ]
+  },
+  {
+    "id": 999,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]兵士「はっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Soldier.Yes![END STRING AC]",
+    "native_plan": "{D4}Soldat. Oui, chef !",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Soldat. Oui, chef !",
+    "adaptation_body": "{D4}Soldat. Oui, chef !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 997,
+        "text": "[CODE D4]兵士「それと　こいつら[LINE]こんなカギと　兵士の服まで[LINE]もっていました![END STRING AC]"
+      },
+      {
+        "id": 998,
+        "text": "[CODE D4]兵士「うん?　これは...[LINE]ろうごくのカギ![LINE]いったい　これを　どこで...。[WAIT][LINE][CODE D4]兵士「まあ　いい。　カギと服は[LINE]あずかっておく。　こいつらを[LINE]しっかり　見はっておけよ。[END STRING AC]"
+      },
+      {
+        "id": 999,
+        "text": "[CODE D4]兵士「はっ![END STRING AC]"
+      },
+      {
+        "id": 1000,
+        "text": "[CODE D4]兵士「あーあ　つかれた...[LINE]おい　もどって　酒でも[LINE]飲もうぜ。[END STRING AC]"
+      },
+      {
+        "id": 1001,
+        "text": "[CODE D4]兵士「この　さわぎで　また[LINE]兵士長どのに　おこられますよ。[LINE]やってられませんね。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 997,
+        "text": "Soldat. Il y avait même une clef et une tenue de garde!"
+      },
+      {
+        "id": 998,
+        "text": "Soldat. Hein? Mais c'est... C'est la clef du geôlier! Comment c'est possible? Quoi qu'il en soit, je récupère la clef et tout cet équipement de garde. Il faut avoir ça à l'oeil!"
+      },
+      {
+        "id": 1000,
+        "text": "Soldat. Quelle histoire... Je veux juste rentrer chez moi et déguster un bon verre de vin."
+      },
+      {
+        "id": 1001,
+        "text": "Soldat. à cause de ce bazar, le capitaine s'est encore énervé contre moi. C'est mal barré."
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]兵士「うん?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Solder.Huh?[END STRING AC]",
+    "native_plan": "{D4}Soldat. Hein ?",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Soldat. Hein ?",
+    "adaptation_body": "{D4}Soldat. Hein ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1006,
+        "text": "[CODE D4]兵士「おい!　起きろ![END STRING AC]"
+      },
+      {
+        "id": 1007,
+        "text": "[CODE D4]兵士「まったく　どうなってんだ![LINE]みんな　いねむりしちまって[LINE]兵士長どのまで......。[END STRING AC]"
+      },
+      {
+        "id": 1008,
+        "text": "[CODE D4]兵士「うん?[END STRING AC]"
+      },
+      {
+        "id": 1009,
+        "text": "よし　いそげ![LINE]こっちだ![END STRING AC]"
+      },
+      {
+        "id": 1010,
+        "text": "[CODE D4]兵士「な　なんだ　きさまらは![WAIT][LINE][CODE D4]兵士「はっ...　もしや[LINE]ゆうべの　ぶどう酒に　きさまらが[LINE]なにか　しかけを...![END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1006,
+        "text": "Soldat. Hé! Debout!"
+      },
+      {
+        "id": 1007,
+        "text": "Soldat. Qu'est-ce qui se passe? Tout le monde dort, du simple soldat au capitaine!"
+      },
+      {
+        "id": 1009,
+        "text": "Allez! Par ici!"
+      },
+      {
+        "id": 1010,
+        "text": "Soldat. Q-qui êtes-vous? Minute! Ne me dites pas que vous avez mis quelque chose dans le vin hier soir?"
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]トンヌラ「はやく　下へいって[LINE]皆と　いっぱいやると　いいだよ。[WAIT][LINE][CODE D4]トンヌラ「なんたって[LINE][CODE D3]さん[CODE C4]が　クーデターの[LINE]主役だからな。[WAIT][LINE][CODE D4]トンヌラ「オラは　もうちょっと[LINE]ここで...　その...　かあちゃんと[LINE]話が　あるだよ...　ゴ　ゴホン。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Tonra.Hurry below, everyone is waiting for you.[WAIT][LINE][CODE D4]Tonra.Why? Because you're responsible for the coup d'etat.[WAIT][LINE][CODE D4]Tonra.I'm going to stay here a little while longer…[WAIT][LINE][CODE D4]Tonra.I have some… uh… business to discuss.[END STRING AC]",
+    "native_plan": "{D4}Elric. Descendez donc boire un verre avec les autres !{AF}{D4}Elric. Après tout, les vedettes de cette révolution, c'est {D3}{C4} !{AF}{D4}Elric. Moi, je vais rester encore un peu ici... Euh... J'ai à parler avec ma femme... Hum, hum !",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0089.p",
+        "id": 509,
+        "ja": "@a@bトンヌラ「なんたって\n\t%a000120さんが　クーデターの\n\t主役だからな。\n@c0@",
+        "fr": "@aElric@bAprès tout, %a000120, vous avez été la vedette de cette révolutionⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}Elric. Descendez donc boire un verre avec les autres !{AF}{D4}Elric. Après tout, les vedettes de cette révolution, c'est {D3}{C4} !{AF}{D4}Elric. Moi, je vais rester encore un peu ici... Euh... J'ai à parler avec ma femme... Hum, hum !",
+    "adaptation_body": "{D4}Elric. Descendez donc boire un verre avec les autres !{AF}{D4}Elric. Après tout, les vedettes de cette révolution, c'est {D3}{C4} !{AF}{D4}Elric. Moi, je vais rester encore un peu ici... Euh... J'ai à parler avec ma femme... Hum, hum !",
+    "adaptation_speaker": "",
+    "adaptation_review": "C4 reste lié à D3 ; vedettes de la révolution et gêne devant l'épouse, trois tours.",
+    "review": "C4 reste lié à D3 ; vedettes de la révolution et gêne devant l'épouse, trois tours.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_D3": 211,
+      "native_C4": 196
+    },
+    "sfc_context": [
+      {
+        "id": 1094,
+        "text": "ぼく　1度でいいから　ここに[LINE]のぼりたかったんです。[END STRING AC]"
+      },
+      {
+        "id": 1095,
+        "text": "ん?　はるか北のほうに[LINE]城のようなものが　見えます。[WAIT][LINE]もしかして　あそこに[LINE]デスタムーアが......!　ひい...。[END STRING AC]"
+      },
+      {
+        "id": 1096,
+        "text": "[CODE D4]トンヌラ「はやく　下へいって[LINE]皆と　いっぱいやると　いいだよ。[WAIT][LINE][CODE D4]トンヌラ「なんたって[LINE][CODE D3]さん[CODE C4]が　クーデターの[LINE]主役だからな。[WAIT][LINE][CODE D4]トンヌラ「オラは　もうちょっと[LINE]ここで...　その...　かあちゃんと[LINE]話が　あるだよ...　ゴ　ゴホン。[END STRING AC]"
+      },
+      {
+        "id": 1097,
+        "text": "夫の　トンヌラのことが　心配で[LINE]かけつけて来たんです。[WAIT][LINE]ぶじで　本当に　よかった...[LINE]あなたがたのおかげです。[LINE]ありがとうございました。[END STRING AC]"
+      },
+      {
+        "id": 1098,
+        "text": "ついにやったな!　あの　アクバーを[LINE]たおすとは　じつに　たいした[LINE]やつらよ。[WAIT][LINE]そなたらなら　あの　大魔王ですら[LINE]もしかすると......。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1094,
+        "text": "J'ai toujours voulu voir la vue d'ici."
+      },
+      {
+        "id": 1095,
+        "text": "Mmm? Regardez ça! Il y a quelque chose qui ressemble à un château, loin au nord. Est-ce qu'il pourrait s'agir du repaire de Mortamor? Brrr. Je frissonne rien que d'y penser."
+      },
+      {
+        "id": 1097,
+        "text": "Je me suis précipitée ici pour voir si mon cher mari Elric allait bien. Grâce à la Déesse, il est en vie et il va bien. Je vous remercie!"
+      },
+      {
+        "id": 1098,
+        "text": "Noirkeur a enfin été vaincu! C'est un exploit qui restera dans la légende. Si vous avez réussi ça, vous pourriez sans doute affronter le démon suprême..."
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]ゴン「よう!　主役の登場だな。[LINE]まあ　いっぱい　やれよ![WAIT][LINE][CODE D4]ゴン「プハーッ![LINE]勝利の後の　ぶどう酒は　最高だよ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Gon.Hey! Our leading actor appears. Fill it up![WAIT][LINE][CODE D4]Gon.A strong drink is great after a victory![END STRING AC]",
+    "native_plan": "{D4}Magnus. Tiens, la vedette ! Allez, bois un verre !{AF}{D4}Magnus. Ah ! Rien ne vaut un bon vin après la victoire !",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0089.p",
+        "id": 555,
+        "ja": "@a@bゴン「よう！　主役の登場だな。\n\tえんりょせず　たっぷり\n\t食ってくれよ！\n@c0@",
+        "fr": "@aMagnus@bTiens, tiensⓠ %H0860%X%A0110%XL'invité de marque est arrivé%Z%B0110%XL'invitée de marque est arrivée%Z%Y%R0000%XLes invitées de marques sont arrivées%YLes invités de marque sont arrivés%Z%Zⓠ Allez, régalez-vousⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}Magnus. Tiens, la vedette ! Allez, bois un verre !{AF}{D4}Magnus. Ah ! Rien ne vaut un bon vin après la victoire !",
+    "adaptation_body": "{D4}Magnus. Tiens, la vedette ! Allez, bois un verre !{AF}{D4}Magnus. Ah ! Rien ne vaut un bon vin après la victoire !",
+    "adaptation_speaker": "",
+    "adaptation_review": "SFC vin, DS repas : vin conservé ; Magnus confirmé par la DS.",
+    "review": "SFC vin, DS repas : vin conservé ; Magnus confirmé par la DS.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1105,
+        "text": "おお　ありがたい![LINE]お礼に　いいことを　教えましょう。[WAIT][LINE]この町の　北西にある[LINE]暗黒の岬から　大魔王の城へ[LINE]いけるはずです。[WAIT][LINE]それから　大魔王は　かならず[LINE]まやかしの術を　使います。[LINE]決して　まどわされませぬよう。[END STRING AC]"
+      },
+      {
+        "id": 1106,
+        "text": "牢獄の町と　呼ばれた　この町も[LINE]皆で　努力すれば　住みやすい[LINE]場所に　なりそうですよ。[END STRING AC]"
+      },
+      {
+        "id": 1107,
+        "text": "[CODE D4]ゴン「よう!　主役の登場だな。[LINE]まあ　いっぱい　やれよ![WAIT][LINE][CODE D4]ゴン「プハーッ![LINE]勝利の後の　ぶどう酒は　最高だよ![END STRING AC]"
+      },
+      {
+        "id": 1108,
+        "text": "ソルディどのは　あわてて[LINE]地下牢の方へ　いきましたよ。[END STRING AC]"
+      },
+      {
+        "id": 1109,
+        "text": "兵士のヤツら　食べものを[LINE]ごっそり　かくしてたんだぜ。[LINE]今夜は　ごちそうだ!　へへへ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1105,
+        "text": "Merci beaucoup! En échange de votre bonté, j'ai des informations intéressantes pour vous. Il semblerait qu'il soit possible d'atteindre le château du démon suprême depuis le cap de la Mort, au nord-est d'ici. Mais faites bien attention, le démon suprême est capable d'utiliser toutes sortes d'illusions."
+      },
+      {
+        "id": 1106,
+        "text": "Noirgibet est un nom menaçant, mais si on s'y met tous, on fera de cet endroit un lieu accueillant."
+      },
+      {
+        "id": 1108,
+        "text": "Le capitaine Croisefer s'est précipité dans les cellules."
+      },
+      {
+        "id": 1109,
+        "text": "Ces satanés soldats avaient caché un tas de nourriture. Ce soir, on va faire un festin!"
+      }
+    ]
+  },
+  {
+    "id": 1138,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]クリムト「......　......。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Krimut.…[WAIT][END STRING AC]",
+    "native_plan": "{D4}Blaise. ... ...{AF}",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Blaise. ... ...{AF}",
+    "adaptation_body": "{D4}Blaise. ... ...{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1136,
+        "text": "[CODE D4]ソルディ「ク　クリムトどの![END STRING AC]"
+      },
+      {
+        "id": 1137,
+        "text": "[CODE D4]ソルディ「どうやら　ねむってしまった[LINE]ようだ。　無理もない。　長い間[LINE]とじこめられていたのだから...。[END STRING AC]"
+      },
+      {
+        "id": 1138,
+        "text": "[CODE D4]クリムト「......　......。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1139,
+        "text": "どうやら　ふかい　ねむりに[LINE]ついているようだ。[END STRING AC]"
+      },
+      {
+        "id": 1140,
+        "text": "[CODE D4]ソルディ「おぬしたちは　ただ者では[LINE]ないとは　思っていたが　やはり...。[WAIT][LINE][CODE D4]ソルディ「思えば　[CODE C9]らと[LINE]はじめて会ったのは　城の志願兵に[LINE]おうぼ　してきたときだったな。[WAIT][LINE][CODE D4]ソルディ「あの頃から　ふしぎな感じが[LINE]しておったのだ。[LINE]なにやら　なつかしいような...[WAIT][LINE][CODE D4]ソルディ「それ以前にも　どこかで[LINE]知り合いだったような......。[WAIT][LINE][CODE D4]ソルディ「まあ　よい。[LINE]つもる話は　あとに　しよう。[LINE]皆が上で　まっているからな。[WAIT][LINE][CODE D4]ソルディ「マサール...じゃなかった[LINE]クリムト大賢者も　いずれ[LINE]目を　さますだろう。[WAIT][LINE][CODE D4]ソルディ「さあ　いくぞ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1136,
+        "text": "Capitaine Croisefer. Blaise!"
+      },
+      {
+        "id": 1137,
+        "text": "Capitaine Croisefer. On dirait qu'il s'est endormi. Rien d'étonnant après avoir été enfermé si longtemps..."
+      },
+      {
+        "id": 1139,
+        "text": "Il semble avoir sombré dans un profond sommeil."
+      },
+      {
+        "id": 1140,
+        "text": "Capitaine Croisefer. Vous savez, c'est étrange, mais je savais depuis le début qu'il y avait quelque chose de spécial chez vous. Nos chemins se sont croisés la première fois lorsque vous, , avez débarqué au château pour intégrer l'armée. J'ai senti qu'il y avait quelque chose de particulier chez vous. Quelque chose de... nostalgique... C'était comme si nous nous connaissions déjà... En tout cas, nous pourrons reparler de tout ça plus tard. Tout le monde attend en haut. Pascal... euh... Blaise se réveillera bientôt. Allons-y!"
+      }
+    ]
+  },
+  {
+    "id": 1178,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE C9]「............。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE C9].…[END STRING AC]",
+    "native_plan": "{D4}{C9}. ...",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}{C9}. ...",
+    "adaptation_body": "{D4}{C9}. ...",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_C9": 201
+    },
+    "sfc_context": [
+      {
+        "id": 1176,
+        "text": "[CODE D4]ジュディ「なーに?　ジャマしないでよ。[LINE]わたし　今　いそがしいの。[END STRING AC]"
+      },
+      {
+        "id": 1177,
+        "text": "[CODE D4]ランド「おい　[CODE C9]　いつまで[LINE]ターニアのとこに　いるつもりだ。[WAIT][LINE][CODE D4][CODE C9]「でも　ランド......[LINE]そんなこと　いわれても　ボク[LINE]どうしたら　いいか......[WAIT][LINE][CODE D4]ランド「おまえが　ころがりこんで[LINE]ターニアは　めいわくしてるに[LINE]ちがいないんだ。[WAIT][LINE][CODE D4][CODE C9]「でも　ターニアは[LINE]とても　やさしくしてくれる......[WAIT][LINE][CODE D4]ランド「あいつは　ひとが[LINE]よすぎるんだよっ。[WAIT][LINE][CODE D4]ランド「ともかく　その　おひとよしに[LINE]つけこんで　いつまで[LINE]あまえてるんだって　ことだ。[WAIT][LINE][CODE D4][CODE C9]「でも　ほかに　いくところが...。[WAIT][LINE][CODE D4]ランド「そんなことは　オレの[LINE]知ったこっちゃ　ないね。[WAIT][LINE][CODE D4]ランド「なんなら　このオレが[LINE]ちからづくで　村から[LINE]追いだしても　いいんだぜ。[WAIT][LINE][CODE D4][CODE C9]「...............。[WAIT][LINE][CODE D4]ランド「なんだよ?[LINE]その　うらめしそうな目は?[WAIT][LINE][CODE D4]ランド「いいたいことが　あるなら[LINE]いってみなよ!　男だろ。[WAIT][LINE][CODE D4][CODE C9]「...............。[WAIT][LINE][CODE D4]ランド「けっ。まったく　いくじのない[LINE]ヤローだぜ。ターニアも　どうして[LINE]こんな男を......。[WAIT][LINE][CODE D4]ランド「じゃあ　オレは　いくからな。[LINE]オレの話を　よく　おぼえておけよ。[END STRING AC]"
+      },
+      {
+        "id": 1178,
+        "text": "[CODE D4][CODE C9]「............。[END STRING AC]"
+      },
+      {
+        "id": 1179,
+        "text": "[CODE D4]ジュディ「ムニャムニャ......。[LINE]ねえ　[CODE C9]　いつになったら[LINE]結婚してくれるの?　スヤスヤ......。[END STRING AC]"
+      },
+      {
+        "id": 1180,
+        "text": "[CODE D4][CODE C9]「キミたちは　ボクに似た人の[LINE]仲間だね。おねがいだから[LINE]ボクを　ほっといてくれないか。[WAIT][LINE][CODE D4][CODE C9]「たとえ　ボクに似た人を[LINE]連れてきても　だめだからね......。[LINE]さあ　あっちにいってくれないか。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1176,
+        "text": "Judith. Mmm? Qu'y a-t-il? Je suis occupée! ça se voit pas?"
+      },
+      {
+        "id": 1179,
+        "text": "Judith. Zzzz... Alors, , quand est-ce qu'on va se marier? Zzzz..."
+      },
+      {
+        "id": 1180,
+        "text": ". Ce type qui me ressemble, c'est votre ami, hein? Laissez-moi tranquille... Pitié... Je ne veux pas qu'il m'approche. N'approchez pas de moi."
+      }
+    ]
+  },
+  {
+    "id": 1237,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE D9]シェーラ「どうしたの　[CODE D2]?[LINE]さあ　はやく　ラーのカガミを![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9]Shera.Quelque chose ne va pas, [CODE D2]? Vite, utilise le mirroir![END STRING AC]",
+    "native_plan": "{D4}{D9}Apnéa. Que fais-tu, {D2} ? Vite, le miroir de Râ !",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0012.p",
+        "id": 582,
+        "ja": "@a@bシェーラ「どうしたの？\n\tムドーのオーラが消えた　今が\n\tチャンスよ。　さあ　はやく　鏡を！\n@c0@",
+        "fr": "@aApnéa@bQu'est-ce que vous faitesⓡ Viteⓠ Utilisez le miroir avant qu'il ne disparaisse à nouveauⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}{D9}Apnéa. Que fais-tu, {D2} ? Vite, le miroir de Râ !",
+    "adaptation_body": "{D4}{D9}Apnéa. Que fais-tu, {D2} ? Vite, le miroir de Râ !",
+    "adaptation_speaker": "",
+    "adaptation_review": "D2 natif destinataire conservé. L'aura de Meurtor ajoutée sur DS n'est pas importée.",
+    "review": "D2 natif destinataire conservé. L'aura de Meurtor ajoutée sur DS n'est pas importée.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_D9": 217,
+      "native_D2": 210
+    },
+    "sfc_context": [
+      {
+        "id": 1235,
+        "text": "[CODE D4][CODE DB]ムドー「ば　ばかな......。[LINE]このわしが　負けるとは......。[WAIT][LINE][CODE D4][CODE DB]ムドー「しかし　わしは　たおされぬ![LINE]このつぎこそ　おまえたちを[LINE]地獄に　おくってやるわっ![WAIT][LINE][CODE D4][CODE DB]ムドー「では　また　会おうぞっ![LINE]わっはっはっはっ![END STRING AC]"
+      },
+      {
+        "id": 1236,
+        "text": "[CODE D4][CODE D9]シェーラ「いまよっ![LINE]さあ　[CODE D2]　ラーのカガミを![END STRING AC]"
+      },
+      {
+        "id": 1237,
+        "text": "[CODE D4][CODE D9]シェーラ「どうしたの　[CODE D2]?[LINE]さあ　はやく　ラーのカガミを![END STRING AC]"
+      },
+      {
+        "id": 1238,
+        "text": "[CODE D2]は　ラーのカガミに[LINE]ムドーのすがたを　うつしだした![END STRING AC]"
+      },
+      {
+        "id": 1239,
+        "text": "[CODE D4][CODE DB]ムドー「わっはっはっはっ![LINE]なんじゃ　そのカガミは?[LINE]うん?[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1235,
+        "text": "Meurtor. Ceci... Ceci n'est pas mon destin! Vous pensez m'avoir vaincu. Vous ne savez pas ce qu'est la défaite! Je vous l'apprendrai la prochaine fois! à bientôt! Mouah ha ha!"
+      },
+      {
+        "id": 1236,
+        "text": "Apnéa. Maintenant, ! Le miroir de Râ!"
+      },
+      {
+        "id": 1238,
+        "text": " place le miroir de Râ devant Meurtor."
+      },
+      {
+        "id": 1239,
+        "text": "Meurtor. Moua ha ha! On m'a apporté un cadeau?... Quoi?"
+      }
+    ]
+  },
+  {
+    "id": 1306,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D3]は　トビラを調べた。[LINE]トビラは　かたく　とざされている。[END STRING AE]",
+    "sfc_vf_secondaire": "[CODE D3] examine la porte, mais elle est scellé.[END STRING AE]",
+    "native_plan": "{D3} examine la porte. Elle est solidement fermée.",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D3} examine la porte. Elle est solidement fermée.",
+    "adaptation_body": "{D3} examine la porte. Elle est solidement fermée.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D3": 211
+    },
+    "sfc_context": [
+      {
+        "id": 1304,
+        "text": "そうです。[LINE]それが　よろしいでしょう。[END STRING AC]"
+      },
+      {
+        "id": 1305,
+        "text": "私は　旅の尼で　ございます。[LINE]こんな私に　できることと[LINE]いったら......。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1306,
+        "text": "[CODE D3]は　トビラを調べた。[LINE]トビラは　かたく　とざされている。[END STRING AE]"
+      },
+      {
+        "id": 1307,
+        "text": "ザム神官に　教わった合い言葉を[LINE]となえて　みますか?[END STRING AC]"
+      },
+      {
+        "id": 1308,
+        "text": "[CODE D4][CODE DA][CODE D3]「メラサム![END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1304,
+        "text": "D'accord. Quel soulagement!"
+      },
+      {
+        "id": 1305,
+        "text": "Recevez ma bénédiction. Je suis une nonne itinérante. Je peux peut-être vous aider."
+      },
+      {
+        "id": 1307,
+        "text": "Prononcer la formule magique que vous a apprise Kad Abra?"
+      },
+      {
+        "id": 1308,
+        "text": ". Frizzam!"
+      }
+    ]
+  },
+  {
+    "id": 1334,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE CD]「あんたたちの　命が[LINE]無事だったら　また　会うときも[LINE]あるかもな。[WAIT][LINE][CODE D4][CODE CD]「あばよ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE CD].Peut-ètre qu'un jour, nous nous rencontrerons de nouveau.[WAIT][LINE][CODE D4][CODE CD].Au revoir.[END STRING AC]",
+    "native_plan": "{D4}{CD}. Si vous restez en vie, on se reverra peut-être.{AF}{D4}{CD}. Salut.",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}{CD}. Si vous restez en vie, on se reverra peut-être.{AF}{D4}{CD}. Salut.",
+    "adaptation_body": "{D4}{CD}. Si vous restez en vie, on se reverra peut-être.{AF}{D4}{CD}. Salut.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_CD": 205
+    },
+    "sfc_context": [
+      {
+        "id": 1332,
+        "text": "......フッ。伝説なんて　しょせん[LINE]こんなものかも　知れんな。[WAIT][LINE]こんな所まで　やってきて[LINE]とんだ　むだ足だったと[LINE]いうわけか...。アッハッハ。[WAIT][LINE]ジャマして　すまなかった。[LINE]この剣は　あんたたちの　ものだ。[END STRING AC]"
+      },
+      {
+        "id": 1333,
+        "text": "よけいな　お世話かも　しれないが[LINE]ひとこと　いっておくよ。[WAIT][LINE]魔王は　強いぜ。　あんたたち[LINE]そんな剣に　たよっているようじゃ[LINE]まだまだってことだ。[WAIT][LINE]オレの名は　[CODE CD]。[LINE]世界中を　まわって[LINE]剣の修業を　している者だ。[END STRING AE]"
+      },
+      {
+        "id": 1334,
+        "text": "[CODE D4][CODE CD]「あんたたちの　命が[LINE]無事だったら　また　会うときも[LINE]あるかもな。[WAIT][LINE][CODE D4][CODE CD]「あばよ。[END STRING AC]"
+      },
+      {
+        "id": 1335,
+        "text": "『トビラをひらくべき　旅人よ。[LINE]　北・西・東・南へと　氷をひきさく[LINE]　いなずまを　たどれ』[END STRING AC]"
+      },
+      {
+        "id": 1336,
+        "text": "キキッ?[LINE]まだ　のこっていたのか。[WAIT][LINE]はやく　つれてゆけ。[LINE]いけにえの　ぎしきは[LINE]もう　はじまっているぞ。キキー![END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1332,
+        "text": "Bah... Les légendes ne valent peut-être pas mieux que ça. Faire tout ce chemin pour rien... Ah ah ah ! Désolé de vous avoir dérangés. Cette épée est à vous."
+      },
+      {
+        "id": 1333,
+        "text": "Pardon de me mêler de ce qui ne me regarde pas, mais j'ai un conseil à vous donner. Le démon est puissant. Si vous comptez sur une telle épée, vous n'êtes pas encore prêts. Je m'appelle . Je parcours le monde pour perfectionner ma maîtrise de l'épée."
+      },
+      {
+        "id": 1335,
+        "text": "'à ceux qui ont ouvert la porte, suivez la voie de l'éclair, nord... ouest... est... sud...'"
+      },
+      {
+        "id": 1336,
+        "text": "Quoi? Y'en a d'autres? Amenez-les! Le rituel a déjà commencé!"
+      }
+    ]
+  },
+  {
+    "id": 1356,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DB]われは　試練なり。[WAIT][LINE]なんじ　王家の血を　ひく者よ。[LINE][CODE DB]われと　戦い　われを　たおせ。[WAIT][LINE]われは　試練なり。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DB]Vous avez à vos côtés un membre de la famille royale.[WAIT][LINE][CODE DB]Donc, vous devez me combattre, pour prouver votre valeur.[END STRING AC]",
+    "native_plan": "{DB}Je suis l'épreuve.{AF}Toi qui portes le sang royal, {DB}affronte-moi et terrasse-moi.{AF}Je suis l'épreuve.",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{DB}Je suis l'épreuve.{AF}Toi qui portes le sang royal, {DB}affronte-moi et terrasse-moi.{AF}Je suis l'épreuve.",
+    "adaptation_body": "{DB}Je suis l'épreuve.{AF}Toi qui portes le sang royal, {DB}affronte-moi et terrasse-moi.{AF}Je suis l'épreuve.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Second DB commence au milieu de la seconde phrase, position rhétorique conservée sans déplacement en tête.",
+    "review": "Second DB commence au milieu de la seconde phrase, position rhétorique conservée sans déplacement en tête.",
+    "native_bindings": {
+      "native_DB": 219
+    },
+    "sfc_context": [
+      {
+        "id": 1354,
+        "text": "なんと!　ホルス王子が　いない![END STRING AC]"
+      },
+      {
+        "id": 1355,
+        "text": "[CODE DB]われは　試練なり。[WAIT][LINE]さきに　進みたければ[LINE][CODE DB]われと戦い　われをたおすべし。[WAIT][LINE]われは　試練なり。[END STRING AC]"
+      },
+      {
+        "id": 1356,
+        "text": "[CODE DB]われは　試練なり。[WAIT][LINE]なんじ　王家の血を　ひく者よ。[LINE][CODE DB]われと　戦い　われを　たおせ。[WAIT][LINE]われは　試練なり。[END STRING AC]"
+      },
+      {
+        "id": 1357,
+        "text": "[CODE DB]なんじ　試練を　こえたり。[END STRING AC]"
+      },
+      {
+        "id": 1358,
+        "text": "なんと　ホルス王子の　すがたが[LINE]見えない![END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1354,
+        "text": "Quoi? Le prince Pierre semble avoir disparu!"
+      },
+      {
+        "id": 1355,
+        "text": "(grogne) Un test! Tout le monde doit subir un test! Personne ne passera sans prouver sa valeur! (grogne) Un test! Tout le monde doit subir un test!"
+      },
+      {
+        "id": 1357,
+        "text": "(grogne) V-vous avez prouvé votre courage. Vous pouvez passer!"
+      },
+      {
+        "id": 1358,
+        "text": "Quoi? Le prince Pierre semble avoir disparu!"
+      }
+    ]
+  },
+  {
+    "id": 1368,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]ホルス「ふん!　その様子だと[LINE]あの怪物も　やっつけたようだな。[WAIT][LINE][CODE D4]ホルス「いっておくが　オレは[LINE]逃げたわけじゃないからな。[WAIT][LINE][CODE D4]ホルス「さあ　それじゃ　いこうか![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Holse.<0559>Tu es certain de prendre soin de ce monstre.[WAIT][LINE][CODE D4]Holse.Je ne m'enfuirais plus.[WAIT][LINE][CODE D4]Holse.Continuons.[END STRING AC]",
+    "native_plan": "{D4}Pierre. Hmpf ! Vous avez donc aussi vaincu ce monstre.{AF}{D4}Pierre. Je vous préviens, je ne me suis pas enfui !{AF}{D4}Pierre. Bon, allons-y !{AF}",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Pierre. Hmpf ! Vous avez donc aussi vaincu ce monstre.{AF}{D4}Pierre. Je vous préviens, je ne me suis pas enfui !{AF}{D4}Pierre. Bon, allons-y !{AF}",
+    "adaptation_body": "{D4}Pierre. Hmpf ! Vous avez donc aussi vaincu ce monstre.{AF}{D4}Pierre. Je vous préviens, je ne me suis pas enfui !{AF}{D4}Pierre. Bon, allons-y !{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1366,
+        "text": "[CODE D4]ホルス「ふんっ!　オレは　ホルスだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1367,
+        "text": "[CODE D4]ホルス「ひつこいやつだな。[LINE]ホルスだと　いってるだろっ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1368,
+        "text": "[CODE D4]ホルス「ふん!　その様子だと[LINE]あの怪物も　やっつけたようだな。[WAIT][LINE][CODE D4]ホルス「いっておくが　オレは[LINE]逃げたわけじゃないからな。[WAIT][LINE][CODE D4]ホルス「さあ　それじゃ　いこうか![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1369,
+        "text": "[CODE D4]ホルス「ふん![LINE]なかなか　やるじゃないか。[WAIT][LINE][CODE D4]ホルス「オレを　ここまで[LINE]つれて　こられたヤツは[LINE]おまえらが　はじめてだよ。[WAIT][LINE][CODE D4]ホルス「わかった!　もう逃げないぞ。[LINE]さあ　いこうか　[CODE D3]。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1370,
+        "text": "[CODE D4]ホルス「やっと　ついたぞ[LINE]ちくしょー。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1366,
+        "text": "Prince Pierre. Je suis Pierre, fils de Pierrick!"
+      },
+      {
+        "id": 1367,
+        "text": "Prince Pierre. Mmpf! Comme je le disais, je suis Pierre, fils de Pierrick et héritier du trône du château de Pierreforte!"
+      },
+      {
+        "id": 1369,
+        "text": "Prince Pierre. On dirait que mon père a bien fait de vous faire confiance. Aucun des malheureux gardes du château de Pierreforte n'avait réussi à m'escorter dans cette grotte sombre. Bien, vous avez gagné! Je ne m'enfuirai plus. Allons-y, !"
+      },
+      {
+        "id": 1370,
+        "text": "Prince Pierre. On y est, enfin! Bon, advienne que pourra!"
+      }
+    ]
+  },
+  {
+    "id": 1476,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]トルネコ「洞くつの奥に[LINE]こんな村が　あるとは......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Taloon.Le village se trouve dans les profondeurs d'une grotte…[END STRING AC]",
+    "native_plan": "{D4}Torneko. Un village au fond d'une grotte... Qui l'aurait cru ?",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Torneko. Un village au fond d'une grotte... Qui l'aurait cru ?",
+    "adaptation_body": "{D4}Torneko. Un village au fond d'une grotte... Qui l'aurait cru ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1474,
+        "text": "ヒヒヒヒヒ......。[LINE]いいことを　おしえてやろう。[WAIT][LINE]カルカドの井戸から[LINE]西に5歩　北に5歩の所に[LINE]オレさまの宝を　うめたのだ。[WAIT][LINE]あれは　だれにも[LINE]見つけられないだろうな。[LINE]ヒヒヒヒヒ......。[END STRING AC]"
+      },
+      {
+        "id": 1475,
+        "text": "私は　トルネコという[LINE]旅の商人ですが　いやはや[LINE]ここは　まったく　ふしぎだ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1476,
+        "text": "[CODE D4]トルネコ「洞くつの奥に[LINE]こんな村が　あるとは......。[END STRING AC]"
+      },
+      {
+        "id": 1477,
+        "text": "[CODE D4]トルネコ「そ　そうか!　ここは[LINE]さらに　ふしぎな洞くつ　だな![LINE]うん!　そうに　ちがいないぞ![END STRING AC]"
+      },
+      {
+        "id": 1478,
+        "text": "ふむ...。武器屋かと　思ったが[LINE]剣を　売っていないとは...。[WAIT][LINE]まったく　キカイのすることは[LINE]わけが　わからんで　ござるよ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1474,
+        "text": "Grrrrr... Écoutez! Z'ai un bon conseil! Allez au puits d'Aridéa. Marçez cinq pas à l'ouest, puis cinq pas au nord. Mon trésor est enterré à cet endroit. Sinon, personne ne le trouvera! Grrrr..."
+      },
+      {
+        "id": 1475,
+        "text": "Je suis Torneko, marchand ambulant. Ma foi, cet endroit est vraiment étrange !"
+      },
+      {
+        "id": 1478,
+        "text": "Hum... Je pensais être chez un marchand d'armes, mais il ne vend pas d'épées... Décidément, je ne comprends rien à ce que font les machines."
+      }
+    ]
+  },
+  {
+    "id": 1477,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]トルネコ「そ　そうか!　ここは[LINE]さらに　ふしぎな洞くつ　だな![LINE]うん!　そうに　ちがいないぞ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Taloon.Vraiment? Tu as vu la grotte? Etonnant![END STRING AC]",
+    "native_plan": "{D4}Torneko. Je vois ! Voilà une grotte encore plus mystérieuse ! Oui, c'est forcément ça !",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0098.p",
+        "id": 611,
+        "ja": "@a@bトルネコ「それにしても　ここは\n\tなんとも　不思議な洞くつですね。\n@c0@",
+        "fr": "@aTorneko@bC'est une grotte étrange, pas vraiⓡ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}Torneko. Je vois ! Voilà une grotte encore plus mystérieuse ! Oui, c'est forcément ça !",
+    "adaptation_body": "{D4}Torneko. Je vois ! Voilà une grotte encore plus mystérieuse ! Oui, c'est forcément ça !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Allusion SFC à une grotte encore plus mystérieuse ; DS ne possède pas toute cette formulation.",
+    "review": "Allusion SFC à une grotte encore plus mystérieuse ; DS ne possède pas toute cette formulation.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1475,
+        "text": "私は　トルネコという[LINE]旅の商人ですが　いやはや[LINE]ここは　まったく　ふしぎだ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1476,
+        "text": "[CODE D4]トルネコ「洞くつの奥に[LINE]こんな村が　あるとは......。[END STRING AC]"
+      },
+      {
+        "id": 1477,
+        "text": "[CODE D4]トルネコ「そ　そうか!　ここは[LINE]さらに　ふしぎな洞くつ　だな![LINE]うん!　そうに　ちがいないぞ![END STRING AC]"
+      },
+      {
+        "id": 1478,
+        "text": "ふむ...。武器屋かと　思ったが[LINE]剣を　売っていないとは...。[WAIT][LINE]まったく　キカイのすることは[LINE]わけが　わからんで　ござるよ。[END STRING AC]"
+      },
+      {
+        "id": 1479,
+        "text": "もう!　姉の私を　おいて[LINE]ミネアったら　どこまで[LINE]いったのかしら?　ぷんぷんっ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1475,
+        "text": "Je suis Torneko, marchand ambulant. Ma foi, cet endroit est vraiment étrange !"
+      },
+      {
+        "id": 1478,
+        "text": "Hum... Je pensais être chez un marchand d'armes, mais il ne vend pas d'épées... Décidément, je ne comprends rien à ce que font les machines."
+      },
+      {
+        "id": 1479,
+        "text": "Oh ! Où Mina a-t-elle bien pu aller en laissant sa grande soeur derrière elle ? ça m'énerve !"
+      }
+    ]
+  },
+  {
+    "id": 1502,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE DB]ムーア「グギギギ......　な　なぜだ...[LINE]いったい　どういうわけなんだ...[WAIT][LINE][CODE D4][CODE DB]ムーア「い　いしきが　うすれてゆく...[LINE]私の　私の世界が......　くずれ......[LINE]　　　　　　　　　　ぐはっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE DB]Deathtamoor.Aaahh…. Cela ne peut…[WAIT][LINE][CODE D4][CODE DB]Deathtamoor.Mes connaissances… Mon monde… Fading…. Ah![END STRING AC]",
+    "native_plan": "{D4}{DB}Mortamor. Grrr... Pourquoi ? Comment est-ce possible ?{AF}{D4}{DB}Mortamor. Ma conscience... s'éteint... Mon... mon monde... s'effondre... Argh !",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}{DB}Mortamor. Grrr... Pourquoi ? Comment est-ce possible ?{AF}{D4}{DB}Mortamor. Ma conscience... s'éteint... Mon... mon monde... s'effondre... Argh !",
+    "adaptation_body": "{D4}{DB}Mortamor. Grrr... Pourquoi ? Comment est-ce possible ?{AF}{D4}{DB}Mortamor. Ma conscience... s'éteint... Mon... mon monde... s'effondre... Argh !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_DB": 219
+    },
+    "sfc_context": [
+      {
+        "id": 1500,
+        "text": "[CODE D4][CODE DB]ドレアム「この者を　たおせば[LINE]よいのだな?　たやすいことだ...。[END STRING AC]"
+      },
+      {
+        "id": 1501,
+        "text": "[CODE D4][CODE DB]ムーア「な　なにを　いっておるのだ。[LINE]おろか者どもめっ![LINE]思い知るがいいっ![END STRING AC]"
+      },
+      {
+        "id": 1502,
+        "text": "[CODE D4][CODE DB]ムーア「グギギギ......　な　なぜだ...[LINE]いったい　どういうわけなんだ...[WAIT][LINE][CODE D4][CODE DB]ムーア「い　いしきが　うすれてゆく...[LINE]私の　私の世界が......　くずれ......[LINE]　　　　　　　　　　ぐはっ![END STRING AC]"
+      },
+      {
+        "id": 1503,
+        "text": "[CODE D4][CODE DB]ドレアム「これで　いいのだな。[LINE]では　わたしは　いくとしよう。[END STRING AC]"
+      },
+      {
+        "id": 1504,
+        "text": "うん?　今　人の声が[LINE]したような......。[WAIT][LINE]さてと　もうすこし休んでから[LINE]村に　もどるとしようかな。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1500,
+        "text": "Nokturnus. Voulez-vous que j'écrase cette vermine? Ce serait un jeu d'enfant."
+      },
+      {
+        "id": 1501,
+        "text": "Mortamor. Qu-qu'est-ce que ça signifie? Cette insolence ne restera pas impunie!"
+      },
+      {
+        "id": 1503,
+        "text": "Nokturnus. Est-ce que c'est terminé? Dans ce cas, je m'en vais. Au revoir!"
+      },
+      {
+        "id": 1504,
+        "text": "Mmm? C'était quoi, ça? On aurait dit la voix de quelqu'un... Bon, j'crois que j'vais me reposer un peu les jambes avant de retourner au village."
+      }
+    ]
+  },
+  {
+    "id": 1505,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DB]よう　[CODE B2][LINE]わりいけど　冒険ごっこなら[LINE]よそで　やってくれねえか?[WAIT][LINE][CODE DB]......さて　そろそろ[LINE]スモックのヤツが　手紙を[LINE]とどけたころかな......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DB]If you were smart adventurers, you'd leave.[WAIT][LINE][CODE DB]Don't make me call Smok…[END STRING AC]",
+    "native_plan": "{DB}Hé, {B2} ! Tu peux aller jouer à l'aventure ailleurs ?{AF}{DB}Bon... Joufflu a dû remettre la lettre, maintenant...",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0008.p",
+        "id": 1,
+        "ja": "@a@b＊「……さて　そろそろ\n\tスモックのヤツが　手紙を\n\tとどけたころかな……。\n@c0@",
+        "fr": "@a@b*ⓢ (Joufflu doit être en train de livrer notre message. On va avoir la belle vie, c'est clairⓠ)\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{DB}Hé, {B2} ! Tu peux aller jouer à l'aventure ailleurs ?{AF}{DB}Bon... Joufflu a dû remettre la lettre, maintenant...",
+    "adaptation_body": "{DB}Hé, {B2} ! Tu peux aller jouer à l'aventure ailleurs ?{AF}{DB}Bon... Joufflu a dû remettre la lettre, maintenant...",
+    "adaptation_speaker": "",
+    "adaptation_review": "B2 reste l'adresse native ; Joufflu confirmé DS, livraison de lettre pas inventée.",
+    "review": "B2 reste l'adresse native ; Joufflu confirmé DS, livraison de lettre pas inventée.",
+    "native_bindings": {
+      "native_DB": 219,
+      "native_B2": 178
+    },
+    "sfc_context": [
+      {
+        "id": 1503,
+        "text": "[CODE D4][CODE DB]ドレアム「これで　いいのだな。[LINE]では　わたしは　いくとしよう。[END STRING AC]"
+      },
+      {
+        "id": 1504,
+        "text": "うん?　今　人の声が[LINE]したような......。[WAIT][LINE]さてと　もうすこし休んでから[LINE]村に　もどるとしようかな。[END STRING AC]"
+      },
+      {
+        "id": 1505,
+        "text": "[CODE DB]よう　[CODE B2][LINE]わりいけど　冒険ごっこなら[LINE]よそで　やってくれねえか?[WAIT][LINE][CODE DB]......さて　そろそろ[LINE]スモックのヤツが　手紙を[LINE]とどけたころかな......。[END STRING AC]"
+      },
+      {
+        "id": 1506,
+        "text": "[CODE DB]くそー　町長のヤツ[LINE]待たせやがるぜ......。[END STRING AC]"
+      },
+      {
+        "id": 1507,
+        "text": "[CODE DB]うわっと![WAIT][LINE][CODE DB]なんだ　[CODE B2]は?[LINE]ハッ　まさか　トルッカの町長の[LINE]使いの者か?[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1503,
+        "text": "Nokturnus. Est-ce que c'est terminé? Dans ce cas, je m'en vais. Au revoir!"
+      },
+      {
+        "id": 1504,
+        "text": "Mmm? C'était quoi, ça? On aurait dit la voix de quelqu'un... Bon, j'crois que j'vais me reposer un peu les jambes avant de retourner au village."
+      },
+      {
+        "id": 1506,
+        "text": "Ce maudit chef en met du temps..."
+      }
+    ]
+  },
+  {
+    "id": 1507,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DB]うわっと![WAIT][LINE][CODE DB]なんだ　[CODE B2]は?[LINE]ハッ　まさか　トルッカの町長の[LINE]使いの者か?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DB]Bien sur. What was I thinking![WAIT][LINE][CODE DB]You're here on behalf of the mayor. Right?[END STRING AC]",
+    "native_plan": "{DB}Oh !{AF}{DB}Qui es-tu, {B2} ? Tu ne serais pas un émissaire du maire de Puidebourg ?",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0008.p",
+        "id": 13,
+        "ja": "@a@b＊「なんだ　ねえちゃんたちは？\n\tハッ　まさか　トルッカ町長の\n\t使いの者か？\n@c0@",
+        "fr": "@a@b*ⓢ Vous vous prenez pour qui, heinⓡ Vous venez de la part du chef du village, c'est çaⓡ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{DB}Oh !{AF}{DB}Qui es-tu, {B2} ? Tu ne serais pas un émissaire du maire de Puidebourg ?",
+    "adaptation_body": "{DB}Oh !{AF}{DB}Qui es-tu, {B2} ? Tu ne serais pas un émissaire du maire de Puidebourg ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Maire de Puidebourg confirmé DS ; pas de genre DS conditionnel importé.",
+    "review": "Maire de Puidebourg confirmé DS ; pas de genre DS conditionnel importé.",
+    "native_bindings": {
+      "native_DB": 219,
+      "native_B2": 178
+    },
+    "sfc_context": [
+      {
+        "id": 1505,
+        "text": "[CODE DB]よう　[CODE B2][LINE]わりいけど　冒険ごっこなら[LINE]よそで　やってくれねえか?[WAIT][LINE][CODE DB]......さて　そろそろ[LINE]スモックのヤツが　手紙を[LINE]とどけたころかな......。[END STRING AC]"
+      },
+      {
+        "id": 1506,
+        "text": "[CODE DB]くそー　町長のヤツ[LINE]待たせやがるぜ......。[END STRING AC]"
+      },
+      {
+        "id": 1507,
+        "text": "[CODE DB]うわっと![WAIT][LINE][CODE DB]なんだ　[CODE B2]は?[LINE]ハッ　まさか　トルッカの町長の[LINE]使いの者か?[END STRING AC]"
+      },
+      {
+        "id": 1508,
+        "text": "[CODE DB]じゃあ　どこかへ　いってくれ。[LINE][CODE B2]が　いると[LINE]仕事のじゃま　なんだよ。[END STRING AC]"
+      },
+      {
+        "id": 1509,
+        "text": "[CODE DB]本当か?　それじゃあ[LINE]5000ゴールド　持って[LINE]きたんだろうな![WAIT][LINE][CODE DB]なに?　その前に　娘のすがたを[LINE]見せろ?　フフン　いいだろう。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1506,
+        "text": "Ce maudit chef en met du temps..."
+      },
+      {
+        "id": 1509,
+        "text": "Alors, vous devez avoir apporté la rançon. ça fait 5000 belles pièces d'or. Allez! Par ici la monnaie! Comment ça? Pas d'or tant que vous avez pas vu si la fille va bien? Si c'est ce que vous voulez... C'est d'accord!"
+      }
+    ]
+  },
+  {
+    "id": 1508,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DB]じゃあ　どこかへ　いってくれ。[LINE][CODE B2]が　いると[LINE]仕事のじゃま　なんだよ。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DB]Then we have nothing to discuss.[END STRING AC]",
+    "native_plan": "{DB}Alors, va-t'en. {B2}, tu me gênes dans mon travail.",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0008.p",
+        "id": 15,
+        "ja": "@a@b＊「じゃあ　どこかへ　行ってくれ。\n\tねえちゃんたちが　いると\n\t仕事のじゃま　なんだよ。\n@c0@",
+        "fr": "@a@b*ⓢ Allez, vous feriez bien de vous tirerⓠ Les jolies filles comme vous n'ont rien à faire iciⓠ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{DB}Alors, va-t'en. {B2}, tu me gênes dans mon travail.",
+    "adaptation_body": "{DB}Alors, va-t'en. {B2}, tu me gênes dans mon travail.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_DB": 219,
+      "native_B2": 178
+    },
+    "sfc_context": [
+      {
+        "id": 1506,
+        "text": "[CODE DB]くそー　町長のヤツ[LINE]待たせやがるぜ......。[END STRING AC]"
+      },
+      {
+        "id": 1507,
+        "text": "[CODE DB]うわっと![WAIT][LINE][CODE DB]なんだ　[CODE B2]は?[LINE]ハッ　まさか　トルッカの町長の[LINE]使いの者か?[END STRING AC]"
+      },
+      {
+        "id": 1508,
+        "text": "[CODE DB]じゃあ　どこかへ　いってくれ。[LINE][CODE B2]が　いると[LINE]仕事のじゃま　なんだよ。[END STRING AC]"
+      },
+      {
+        "id": 1509,
+        "text": "[CODE DB]本当か?　それじゃあ[LINE]5000ゴールド　持って[LINE]きたんだろうな![WAIT][LINE][CODE DB]なに?　その前に　娘のすがたを[LINE]見せろ?　フフン　いいだろう。[END STRING AC]"
+      },
+      {
+        "id": 1510,
+        "text": "[CODE DB]スモック!　娘を　つれてこい![END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1506,
+        "text": "Ce maudit chef en met du temps..."
+      },
+      {
+        "id": 1509,
+        "text": "Alors, vous devez avoir apporté la rançon. ça fait 5000 belles pièces d'or. Allez! Par ici la monnaie! Comment ça? Pas d'or tant que vous avez pas vu si la fille va bien? Si c'est ce que vous voulez... C'est d'accord!"
+      },
+      {
+        "id": 1510,
+        "text": "JOUFFLU! Va chercher Sa Majesté! VITE!"
+      }
+    ]
+  },
+  {
+    "id": 1603,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]グランマーズ「わしや　[CODE CB]に[LINE]どうして　お前さんたちの姿が[LINE]見えるのか　いまに　わかるさ。[WAIT][LINE][CODE D4]グランマーズ「ともかく[LINE]今日のところは　ひとやすみおし。[WAIT][LINE][CODE D4]グランマーズ「話の　つづきは[LINE]また　明日にしよう。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Granmaz.Tu comprendras bien assez tôt.[WAIT][LINE][CODE D4]Granmaz.Prenez un peu de repos. Je vous expliquerai tout dans la matinée.[END STRING AC]",
+    "native_plan": "{D4}Madame Luce. Vous comprendrez bientôt pourquoi {CB} et moi pouvons vous voir.{AF}{D4}Madame Luce. Pour l'instant, reposez-vous.{AF}{D4}Madame Luce. Nous reprendrons cette discussion demain.",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0006.p",
+        "id": 912,
+        "ja": "@a@bグランマーズ「わしや　%a002010に\n\tどうして　お前さんたちの姿が\n\t見えるのか……\n@c0@",
+        "fr": "@aMadame Luce@bVous devez vous demander pourquoi %a002010 et madame Luce peuvent vous voir, heinⓡ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}Madame Luce. Vous comprendrez bientôt pourquoi {CB} et moi pouvons vous voir.{AF}{D4}Madame Luce. Pour l'instant, reposez-vous.{AF}{D4}Madame Luce. Nous reprendrons cette discussion demain.",
+    "adaptation_body": "{D4}Madame Luce. Vous comprendrez bientôt pourquoi {CB} et moi pouvons vous voir.{AF}{D4}Madame Luce. Pour l'instant, reposez-vous.{AF}{D4}Madame Luce. Nous reprendrons cette discussion demain.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_CB": 203
+    },
+    "sfc_context": [
+      {
+        "id": 1601,
+        "text": "[CODE D4]グランマーズ「そういうことじゃ。[LINE]たしか　お前さんたちは[LINE][CODE C9]と　[CODE CA]だったね。[END STRING AC]"
+      },
+      {
+        "id": 1602,
+        "text": "[CODE D4]グランマーズ「ふおっほっほっ[LINE]そんなに　ふしぎそうな顔を[LINE]しなさんな。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1603,
+        "text": "[CODE D4]グランマーズ「わしや　[CODE CB]に[LINE]どうして　お前さんたちの姿が[LINE]見えるのか　いまに　わかるさ。[WAIT][LINE][CODE D4]グランマーズ「ともかく[LINE]今日のところは　ひとやすみおし。[WAIT][LINE][CODE D4]グランマーズ「話の　つづきは[LINE]また　明日にしよう。[END STRING AC]"
+      },
+      {
+        "id": 1604,
+        "text": "[CODE D4][CODE CA]「よう　[CODE C9][LINE]起きたかい?[WAIT][LINE][CODE D4][CODE CA]「なんだか　ヘンなことに[LINE]なってきたなあ。[LINE]あの　ばあさんも　あやしいし。[WAIT][LINE][CODE D4][CODE CA]「まあ　とりあえずは[LINE]話を　聞いてみるしか[LINE]なさそうだけどな...。[END STRING AC]"
+      },
+      {
+        "id": 1605,
+        "text": "[CODE D4][CODE CB]「おはよう　[CODE C9][LINE]ゆうべは　よく[LINE]ねむっていたみたいね。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1601,
+        "text": "Madame Luce. Mmm-hmm, j'attends ça depuis longtemps. Vous êtes  et , hein?"
+      },
+      {
+        "id": 1602,
+        "text": "Madame Luce. Ha hé! Ne restez pas comme ça, les garçons!"
+      },
+      {
+        "id": 1604,
+        "text": ". Yo. Je suis le seul à être réveillé? Comment on peut dormir dans un moment pareil? Cette bonne femme me file les chocottes. Enfin, on va être obligés de l'écouter... Personne d'autre peut nous aider."
+      },
+      {
+        "id": 1605,
+        "text": ". Bonjour, . Tu as l'air bien reposé."
+      }
+    ]
+  },
+  {
+    "id": 1606,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]グランマーズ「やっと　起きたかい。[LINE]わしゃ　年のせいか　朝が[LINE]早くてね。　まちくたびれたよ。[WAIT][LINE][CODE D4]グランマーズ「さて...と[LINE]お前さんたちのことだがね...[WAIT][LINE][CODE D4]グランマーズ「自分たちの姿が[LINE]ひとに　見えないのは[LINE]なかなか　不便なものじゃろ?[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Granmaz.Je m'excuse pour la nuit derniêre, mais à mon age je suis fatigué.[WAIT][LINE][CODE D4]Granmaz.So has being invisible been at all inconvient for you?[END STRING AC]",
+    "native_plan": "{D4}Madame Luce. Enfin debout ! Avec l'âge, je me lève tôt. Je vous attendais !{AF}{D4}Madame Luce. Bon... Revenons à vous...{AF}{D4}Madame Luce. C'est bien peu commode d'être invisibles aux yeux des autres, pas vrai ?",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0006.p",
+        "id": 937,
+        "ja": "@a@bグランマーズ「やっと　起きたかい。\n\tわしゃ　年のせいか　朝が\n\t早くてね。　まちくたびれたよ。\n@c0@",
+        "fr": "@aMadame Luce@bEnfin deboutⓡ Madame Luce se lève avec le soleil, alors que vous, les jeunes, vous perdez votre journée au lit. La sagesse vient avec l'âge, heinⓡ\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}Madame Luce. Enfin debout ! Avec l'âge, je me lève tôt. Je vous attendais !{AF}{D4}Madame Luce. Bon... Revenons à vous...{AF}{D4}Madame Luce. C'est bien peu commode d'être invisibles aux yeux des autres, pas vrai ?",
+    "adaptation_body": "{D4}Madame Luce. Enfin debout ! Avec l'âge, je me lève tôt. Je vous attendais !{AF}{D4}Madame Luce. Bon... Revenons à vous...{AF}{D4}Madame Luce. C'est bien peu commode d'être invisibles aux yeux des autres, pas vrai ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1604,
+        "text": "[CODE D4][CODE CA]「よう　[CODE C9][LINE]起きたかい?[WAIT][LINE][CODE D4][CODE CA]「なんだか　ヘンなことに[LINE]なってきたなあ。[LINE]あの　ばあさんも　あやしいし。[WAIT][LINE][CODE D4][CODE CA]「まあ　とりあえずは[LINE]話を　聞いてみるしか[LINE]なさそうだけどな...。[END STRING AC]"
+      },
+      {
+        "id": 1605,
+        "text": "[CODE D4][CODE CB]「おはよう　[CODE C9][LINE]ゆうべは　よく[LINE]ねむっていたみたいね。[END STRING AC]"
+      },
+      {
+        "id": 1606,
+        "text": "[CODE D4]グランマーズ「やっと　起きたかい。[LINE]わしゃ　年のせいか　朝が[LINE]早くてね。　まちくたびれたよ。[WAIT][LINE][CODE D4]グランマーズ「さて...と[LINE]お前さんたちのことだがね...[WAIT][LINE][CODE D4]グランマーズ「自分たちの姿が[LINE]ひとに　見えないのは[LINE]なかなか　不便なものじゃろ?[END STRING AC]"
+      },
+      {
+        "id": 1607,
+        "text": "[CODE D4]グランマーズ「ふむ...　お前さんたち[LINE]なにか　悪いことでも[LINE]考えてるんじゃなかろうね。[WAIT][LINE][CODE D4]グランマーズ「ともかく![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1608,
+        "text": "[CODE D4]グランマーズ「この世界で　ふたりの[LINE]姿が　見えるようにするには[LINE]夢見のしずくが　必要じゃ。[WAIT][LINE][CODE D4]グランマーズ「夢見のしずくは[LINE]わしも　仕事で　つかうんじゃが[LINE]今は　きらしていてね。[WAIT][LINE][CODE D4]グランマーズ「南にある　洞くつの奥[LINE]夢見の祭だんでしか[LINE]手に入らないんじゃよ。[WAIT][LINE][CODE D4]グランマーズ「しかし　その洞くつには[LINE]最近　魔物が　住みついて[LINE]しまってのう。[WAIT][LINE][CODE D4]グランマーズ「とりにいきたくても[LINE]わしや　[CODE CB]だけでは[LINE]いけないと　いうわけじゃよ。[WAIT][LINE][CODE D4]グランマーズ「そこで　ここはひとつ[LINE]お前さんたちに[LINE]いってもらおうと思ってな。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1604,
+        "text": ". Yo. Je suis le seul à être réveillé? Comment on peut dormir dans un moment pareil? Cette bonne femme me file les chocottes. Enfin, on va être obligés de l'écouter... Personne d'autre peut nous aider."
+      },
+      {
+        "id": 1605,
+        "text": ". Bonjour, . Tu as l'air bien reposé."
+      },
+      {
+        "id": 1607,
+        "text": "Madame Luce. Oh? Alors, on préfère rester invisible pour faire plein de bêtises? Madame Luce s'y oppose... Cependant..."
+      },
+      {
+        "id": 1608,
+        "text": "Madame Luce. Pour devenir visible dans ce monde, il faut une substance appelée rosée onirique. Madame Luce en utilise souvent dans son travail, mais ses réserves sont insuffisantes en ce moment. Pour ne pas dire inexistantes. Le seul endroit où en trouver, c'est dans une petite grotte au sud, appelée la grotte des Songes. Mais depuis quelque temps, cette grotte est infestée d'affreuses créatures. Madame Luce est une liseuse de rêves, pas une guerrière. Et le danger est trop grand pour  si elle y va seule. Alors, madame Luce pense que vous devriez aller lui chercher la rosée."
+      }
+    ]
+  },
+  {
+    "id": 1611,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE CA]「..................。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE CA].…[END STRING AC]",
+    "native_plan": "{D4}{CA}. ...",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}{CA}. ...",
+    "adaptation_body": "{D4}{CA}. ...",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_CA": 202
+    },
+    "sfc_context": [
+      {
+        "id": 1609,
+        "text": "[CODE D4][CODE CA]「ちょっと　ばあさん![LINE]かってに　決めないでくれよ![END STRING AC]"
+      },
+      {
+        "id": 1610,
+        "text": "[CODE D4]グランマーズ「ふおっほっほっ。[LINE]かってに決めたわけでは　ないぞ。[LINE]これも　夢のおつげじゃよ。[END STRING AC]"
+      },
+      {
+        "id": 1611,
+        "text": "[CODE D4][CODE CA]「..................。[END STRING AC]"
+      },
+      {
+        "id": 1612,
+        "text": "[CODE D4]グランマーズ「ともかく　わしにも[LINE]お前さんたちにも　夢見のしずくが[LINE]必要なわけだし。[WAIT][LINE][CODE D4]グランマーズ「いってみれば[LINE]これは　たすけあい[LINE]ということじゃな。[WAIT][LINE][CODE D4]グランマーズ「どうじゃ?[LINE]ここから南にある　夢見の洞くつに[LINE]いきたくなってきたじゃろ?[END STRING AC]"
+      },
+      {
+        "id": 1613,
+        "text": "[CODE D4]グランマーズ「わしも　いそがしいんじゃ。[LINE]2度とは　たのまんぞ。[LINE]南の洞くつに　いってくれんか?[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1609,
+        "text": ". Oh non... ça ne va pas recommencer, les 'je vous aide si vous m'aidez'! Vous n'êtes pas ma chef, Madame!"
+      },
+      {
+        "id": 1610,
+        "text": "Madame Luce. Ah, mais ce n'est pas madame Luce qui donne les ordres ici. C'est le cristal des rêves! Madame Luce ne fait que son travail."
+      },
+      {
+        "id": 1612,
+        "text": "Madame Luce. De plus, vous avez autant besoin de la rosée onirique que madame Luce. Si vous rendez service à madame Luce, elle vous rendra votre visibilité. Hé hé. C'est compris, hein? Tout est prêt pour aller faire un tour au sud, dans la grotte des Songes?"
+      },
+      {
+        "id": 1613,
+        "text": "Madame Luce. Allons, madame Luce est très occupée. Je ne le redemanderai qu'une fois. Acceptez-vous d'aller jusqu'à la grotte des Songes?"
+      }
+    ]
+  },
+  {
+    "id": 1623,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE D9][CODE CB]「ええ　わかったわ。[LINE]おばあちゃん。それじゃ[LINE]いきましょう。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9][CODE CB].Merci, grand-mêre.[WAIT][LINE][CODE D4][CODE D9][CODE CB].Puis-je y aller?[END STRING AC]",
+    "native_plan": "{D4}{D9}{CB}. D'accord, madame Luce. Allons-y.",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0006.p",
+        "id": 963,
+        "ja": "@a@b%a002010「ええ　わかったわ\n\tおばあちゃん。\n@c0@",
+        "fr": "@a%0%a002010@bD'accord, Madame Luce. Merci.\n@c0@"
+      }
+    ],
+    "ds_reference_scope": "Fragments/formulation/lexique explicitement relus ; différences SFC conservées.",
+    "original_body": "{D4}{D9}{CB}. D'accord, madame Luce. Allons-y.",
+    "adaptation_body": "{D4}{D9}{CB}. D'accord, madame Luce. Allons-y.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_D9": 217,
+      "native_CB": 203
+    },
+    "sfc_context": [
+      {
+        "id": 1621,
+        "text": "[CODE D3]は　やくそう10コを[LINE]ふくろに　いれてもらった![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1622,
+        "text": "[CODE D4]グランマーズ「気をつけてな。[END STRING AC]"
+      },
+      {
+        "id": 1623,
+        "text": "[CODE D4][CODE D9][CODE CB]「ええ　わかったわ。[LINE]おばあちゃん。それじゃ[LINE]いきましょう。[END STRING AC]"
+      },
+      {
+        "id": 1624,
+        "text": "[CODE D4]グランマーズ「夢見のしずくは[LINE]洞くつの奥の　夢見の祭だんで[LINE]取れるはずじゃ。[WAIT][LINE][CODE D4]グランマーズ「気をつけて[LINE]いっておいで。[END STRING AC]"
+      },
+      {
+        "id": 1625,
+        "text": "[CODE D4]グランマーズ「ふぉっほっほっ。[WAIT][LINE][CODE D4]グランマーズ「あんなにイヤがったのに[LINE]結局は　夢見のしずくを[LINE]とってきてくれたようじゃな。[WAIT][LINE][CODE D4]グランマーズ「やはり　わしの[LINE]占いのとおり。[LINE]運命には　さからえんもんよのう。[END STRING AE]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1621,
+        "text": " reçoit dix herbes médicinales!  range les herbes médicinales dans le sac."
+      },
+      {
+        "id": 1622,
+        "text": "Madame Luce. Faites bon voyage, mes agneaux."
+      },
+      {
+        "id": 1624,
+        "text": "Madame Luce. La rosée onirique se trouve sur un autel au fond de la grotte des Songes. Il faut y aller. Prudence!"
+      },
+      {
+        "id": 1625,
+        "text": "Madame Luce. Hé hé! Madame Luce ne doute jamais du cristal. Après toutes ces histoires pour ne pas aller dans la grotte, madame Luce a finalement la rosée onirique! On ne peut pas lutter contre le destin!"
+      }
+    ]
+  },
+  {
+    "id": 1639,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]グランマーズ「なぜかって?[LINE]ふーむ。　それは　それはな......。[CODE B0][LINE]きぎょうひみつ　じゃよ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Granmaz.…?[CODE B0][LINE]C'est mon secret.[WAIT][END STRING AC]",
+    "native_plan": "{D4}Madame Luce. Pourquoi ? Hmm... C'est...{B0} un secret professionnel !{AF}",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Madame Luce. Pourquoi ? Hmm... C'est...{B0} un secret professionnel !{AF}",
+    "adaptation_body": "{D4}Madame Luce. Pourquoi ? Hmm... C'est...{B0} un secret professionnel !{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_B0": 176
+    },
+    "sfc_context": [
+      {
+        "id": 1637,
+        "text": "[CODE D4][CODE CA]「なんだ　そうだったのか![LINE]それで　あんたには　オレたちの[LINE]姿が　見えたってわけだな。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1638,
+        "text": "[CODE D4][CODE CA]「でも　ばあさんにも[LINE]見えるのは　なぜだい?[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1639,
+        "text": "[CODE D4]グランマーズ「なぜかって?[LINE]ふーむ。　それは　それはな......。[CODE B0][LINE]きぎょうひみつ　じゃよ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1640,
+        "text": "[CODE D4]グランマーズ「ふおっほっほっ。[END STRING AC]"
+      },
+      {
+        "id": 1641,
+        "text": "[CODE D4][CODE D9][CODE CB]「おばあちゃん。[LINE]私　この人たちに[LINE]ついて　いくことにします。[WAIT][END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1637,
+        "text": ". Ah ouais! C'est pour ça que tu nous voyais!"
+      },
+      {
+        "id": 1638,
+        "text": ". Et vous, alors, Madame? C'est quoi votre histoire?"
+      },
+      {
+        "id": 1640,
+        "text": "Madame Luce. Ho ho ho!"
+      },
+      {
+        "id": 1641,
+        "text": ". Madame Luce... J'ai décidé de les accompagner."
+      }
+    ]
+  },
+  {
+    "id": 1642,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]グランマーズ「そうかい。　お前が[LINE]そういうなら　わしは[LINE]とめはしないさ。[WAIT][LINE][CODE D4]グランマーズ「なにやら　事情が[LINE]ありそうじゃしな。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Granmaz.Três bien. Je ne peux te garder ici contre ta volonté.[WAIT][LINE][CODE D4]Granmaz.Peut-etre qu'un jour tu viens me rendre visite de nouveau…[END STRING AC]",
+    "native_plan": "{D4}Madame Luce. Soit. Si tu le dis, je ne te retiendrai pas.{AF}{D4}Madame Luce. Tu dois avoir tes raisons.",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Madame Luce. Soit. Si tu le dis, je ne te retiendrai pas.{AF}{D4}Madame Luce. Tu dois avoir tes raisons.",
+    "adaptation_body": "{D4}Madame Luce. Soit. Si tu le dis, je ne te retiendrai pas.{AF}{D4}Madame Luce. Tu dois avoir tes raisons.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1640,
+        "text": "[CODE D4]グランマーズ「ふおっほっほっ。[END STRING AC]"
+      },
+      {
+        "id": 1641,
+        "text": "[CODE D4][CODE D9][CODE CB]「おばあちゃん。[LINE]私　この人たちに[LINE]ついて　いくことにします。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1642,
+        "text": "[CODE D4]グランマーズ「そうかい。　お前が[LINE]そういうなら　わしは[LINE]とめはしないさ。[WAIT][LINE][CODE D4]グランマーズ「なにやら　事情が[LINE]ありそうじゃしな。[END STRING AC]"
+      },
+      {
+        "id": 1643,
+        "text": "[CODE D4][CODE D9][CODE CB]「[CODE C9]　[CODE CA]。[LINE]これからは　いっしょに[LINE]旅をさせて　いただくわ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1644,
+        "text": "[CODE D4]グランマーズ「お前さんたち[LINE][CODE CB]を　よろしくたのむよ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1640,
+        "text": "Madame Luce. Ho ho ho!"
+      },
+      {
+        "id": 1641,
+        "text": ". Madame Luce... J'ai décidé de les accompagner."
+      },
+      {
+        "id": 1643,
+        "text": ". , ... Merci d'avoir accepté que je vous accompagne."
+      },
+      {
+        "id": 1644,
+        "text": "Madame Luce. Veillez bien sur la petite  de madame Luce."
+      }
+    ]
+  },
+  {
+    "id": 1645,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]グランマーズ「さて　このあとの[LINE]お前さんたちの　行動じゃが......。[WAIT][LINE][CODE D4]グランマーズ「わしの　占いでは[LINE]ふむ!　船　船が　見えるぞ。[LINE]ゆき先は　レイドック城じゃな。[WAIT][LINE][CODE D4]グランマーズ「まあ　そうするか[LINE]しないかは　お前さんたちの自由。[LINE]とにかく　気をつけてな。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Granmaz.Il n'y a rien de plus que je peux faire pour vous.[WAIT][LINE][CODE D4]Granmaz.Peut-ètre que quelqu'un au Château de Castle pourra vous aider.[END STRING AC]",
+    "native_plan": "{D4}Madame Luce. Quant à la suite de votre voyage...{AF}{D4}Madame Luce. Dans mes prédictions, je vois un bateau ! En route pour le château de Somnia.{AF}{D4}Madame Luce. Libre à vous de suivre ce conseil. Soyez prudents !",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Madame Luce. Quant à la suite de votre voyage...{AF}{D4}Madame Luce. Dans mes prédictions, je vois un bateau ! En route pour le château de Somnia.{AF}{D4}Madame Luce. Libre à vous de suivre ce conseil. Soyez prudents !",
+    "adaptation_body": "{D4}Madame Luce. Quant à la suite de votre voyage...{AF}{D4}Madame Luce. Dans mes prédictions, je vois un bateau ! En route pour le château de Somnia.{AF}{D4}Madame Luce. Libre à vous de suivre ce conseil. Soyez prudents !",
+    "adaptation_speaker": "",
+    "adaptation_review": "レイドック correspond à Somnia ; bateau vers le château, conseil facultatif et pas destination forcée.",
+    "review": "レイドック correspond à Somnia ; bateau vers le château, conseil facultatif et pas destination forcée.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1643,
+        "text": "[CODE D4][CODE D9][CODE CB]「[CODE C9]　[CODE CA]。[LINE]これからは　いっしょに[LINE]旅をさせて　いただくわ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1644,
+        "text": "[CODE D4]グランマーズ「お前さんたち[LINE][CODE CB]を　よろしくたのむよ。[END STRING AC]"
+      },
+      {
+        "id": 1645,
+        "text": "[CODE D4]グランマーズ「さて　このあとの[LINE]お前さんたちの　行動じゃが......。[WAIT][LINE][CODE D4]グランマーズ「わしの　占いでは[LINE]ふむ!　船　船が　見えるぞ。[LINE]ゆき先は　レイドック城じゃな。[WAIT][LINE][CODE D4]グランマーズ「まあ　そうするか[LINE]しないかは　お前さんたちの自由。[LINE]とにかく　気をつけてな。[END STRING AC]"
+      },
+      {
+        "id": 1646,
+        "text": "ひゃ~　つめたくて[LINE]気持ちが　いいや。[WAIT][LINE]おっと　オレが　ここに[LINE]いるってことは　ないしょだぜ。[WAIT][LINE]そのかわり　いいことを[LINE]おしえてやろう。[WAIT][LINE]ここから　海をわたった　西の[LINE]大陸には　すごい宝がねむってる[LINE]カガミの塔というのが　あるそうだ。[END STRING AC]"
+      },
+      {
+        "id": 1647,
+        "text": "[CODE D4]グランマーズ「おや　よく来たね[LINE][CODE D3]。[WAIT][END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1643,
+        "text": ". , ... Merci d'avoir accepté que je vous accompagne."
+      },
+      {
+        "id": 1644,
+        "text": "Madame Luce. Veillez bien sur la petite  de madame Luce."
+      },
+      {
+        "id": 1646,
+        "text": "Ahh... C'est vraiment bien ici. C'est joli et sympa. Oh, oh... Dites à personne que je suis là, d'accord? Vous pouvez tenir votre langue? Si vous la fermez, je vous raconterai des ragots intéressants. Il paraît qu'il y a un super trésor dans un endroit appelé la tour de Milune. C'est sur le continent à l'ouest d'ici. Si j'étais vous, j'irais voir ça!"
+      },
+      {
+        "id": 1647,
+        "text": "Madame Luce. Bienvenue, ."
+      }
+    ]
+  },
+  {
+    "id": 1666,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE B2]は　グランマーズに[LINE]生き返してもらった。[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Granmaz fait revivre [CODE B2].[END STRING AC]",
+    "native_plan": "{B2} revient à la vie grâce à madame Luce.",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{B2} revient à la vie grâce à madame Luce.",
+    "adaptation_body": "{B2} revient à la vie grâce à madame Luce.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_B2": 178
+    },
+    "sfc_context": [
+      {
+        "id": 1664,
+        "text": "[CODE D4]グランマーズ「ほっほっほっ。[END STRING AC]"
+      },
+      {
+        "id": 1665,
+        "text": "[CODE D4]グランマーズ「おや　おや[LINE]お前さんたち　よく来たね。[WAIT][LINE][CODE D4]グランマーズ「お前さんたちの[LINE]りっぱな　たたかいぶりは[LINE]すいしょう玉で　見ていたぞい。[WAIT][LINE][CODE D4]グランマーズ「さあ　家の中に　お入り。[LINE]たまには　ごちそうでも[LINE]してやろうかね。[END STRING AC]"
+      },
+      {
+        "id": 1666,
+        "text": "[CODE B2]は　グランマーズに[LINE]生き返してもらった。[END STRING AC]"
+      },
+      {
+        "id": 1667,
+        "text": "[CODE D4]グランマーズ「さあ　さあ　わしが[LINE]久しぶりに　ウデを　ふるった[LINE]料理じゃ。　たんと　お食べ。[END STRING AC]"
+      },
+      {
+        "id": 1668,
+        "text": "[CODE D4]グランマーズ「おや　何を　えんりょ[LINE]してるんだい?　毒なんか[LINE]入っとりゃせんよ。　ほっほっほっ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1664,
+        "text": "Madame Luce. Ha ha!"
+      },
+      {
+        "id": 1665,
+        "text": "Madame Luce. Ah! Vous revoilà! Madame Luce savait que vous viendriez, mais il est parfois drôle d'avoir l'air surprise, non? Madame Luce a admiré votre magnifique combat dans sa boule de cristal! J'étais au premier rang. Mmm. Ah, entrez, entrez! Madame Luce va peut-être vous offrir un de ses plats."
+      },
+      {
+        "id": 1667,
+        "text": "Madame Luce. Cela fait des années que madame Luce n'a pas remis son tablier, mais elle voit une récompense dans votre avenir! Mangez!"
+      },
+      {
+        "id": 1668,
+        "text": "Madame Luce. Qu'est-ce que vous attendez? Mangez avant que ça refroidisse! Ha ha!"
+      }
+    ]
+  },
+  {
+    "id": 1671,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]グランマーズ「おや　起きたのかい?[LINE]よく眠っていたようだね。[WAIT][LINE][CODE D4]グランマーズ「ところで　さいきん[LINE]すいしょう玉の　ようすが[LINE]おかしいんじゃよ。[WAIT][LINE][CODE D4]グランマーズ「どうも　元気がないような...[LINE]なにか　悪いことがおこる　まえぶれ[LINE]でなければよいがのう。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Granmaz.<0559>Oh, vous ètes réveillés. Vous semblez avoir bien dormis.[WAIT][LINE][CODE D4]Granmaz.A propos, vous vous sentez bien?[WAIT][LINE][CODE D4]Granmaz.Vous ne semblez pas aussi énergique comme d'habitude… Quelquehcose ne vas pas?[END STRING AC]",
+    "native_plan": "{D4}Madame Luce. Ah, vous êtes debout ? Vous avez bien dormi, on dirait.{AF}{D4}Madame Luce. Ces derniers temps, ma boule de cristal se comporte bizarrement.{AF}{D4}Madame Luce. Elle semble manquer d'énergie... Pourvu que cela n'annonce rien de mauvais !",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Madame Luce. Ah, vous êtes debout ? Vous avez bien dormi, on dirait.{AF}{D4}Madame Luce. Ces derniers temps, ma boule de cristal se comporte bizarrement.{AF}{D4}Madame Luce. Elle semble manquer d'énergie... Pourvu que cela n'annonce rien de mauvais !",
+    "adaptation_body": "{D4}Madame Luce. Ah, vous êtes debout ? Vous avez bien dormi, on dirait.{AF}{D4}Madame Luce. Ces derniers temps, ma boule de cristal se comporte bizarrement.{AF}{D4}Madame Luce. Elle semble manquer d'énergie... Pourvu que cela n'annonce rien de mauvais !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1669,
+        "text": "　　　　[CODE D3]たちは　グランマーズの[LINE]　　　　手づくりの　ちんみを　ごちそうに[LINE]　　　　なり　くつろいだ時を　すごした...。[END STRING AC]"
+      },
+      {
+        "id": 1670,
+        "text": "[CODE D4]グランマーズ「おや　起きたのかい?[LINE]よく　眠っていたようだね。[WAIT][LINE][CODE D4]グランマーズ「ところで　夢占いで[LINE]すいしょう玉に　奇妙な神殿が[LINE]見えはじめたんじゃよ。[WAIT][LINE][CODE D4]グランマーズ「お前さんたちが[LINE]ムドーを　たおした頃から[LINE]見えはじめたような......。[END STRING AC]"
+      },
+      {
+        "id": 1671,
+        "text": "[CODE D4]グランマーズ「おや　起きたのかい?[LINE]よく眠っていたようだね。[WAIT][LINE][CODE D4]グランマーズ「ところで　さいきん[LINE]すいしょう玉の　ようすが[LINE]おかしいんじゃよ。[WAIT][LINE][CODE D4]グランマーズ「どうも　元気がないような...[LINE]なにか　悪いことがおこる　まえぶれ[LINE]でなければよいがのう。[END STRING AC]"
+      },
+      {
+        "id": 1672,
+        "text": "[CODE D4]グランマーズ「おや　よく来たね。[LINE]この前は　ひさしぶりに　お城へ[LINE]よばれて　肩が　こったわい。[WAIT][LINE][CODE D4]グランマーズ「王妃さまには　なんなら[LINE]ずっと　お城に　いてくれないかって[LINE]いわれたけど　ことわったよ。[WAIT][LINE][CODE D4]グランマーズ「わしは　やっぱり[LINE]ひとりで　きらくに　やってるのが[LINE]しょうに合ってるからね。[END STRING AC]"
+      },
+      {
+        "id": 1673,
+        "text": "[CODE D4][CODE D9]ディーネ「まって!![LINE]ディーナおねえさま[LINE]ディーネです![END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1669,
+        "text": "Le groupe déguste les plats mystérieux de madame Luce et profite d'une soirée tranquille..."
+      },
+      {
+        "id": 1670,
+        "text": "Madame Luce. Ah, vous êtes debout. Vous avez dû faire de beaux rêves, non? Au fait, la boule de cristal me montre une chose bizarre ces derniers temps, une vieille abbaye étrange. Madame Luce a commencé à comprendre quand vous avez vaincu Meurtor..."
+      },
+      {
+        "id": 1672,
+        "text": "Madame Luce. Ah! Madame Luce est heureuse de cette visite. La dernière fois, elle était tendue, hein? Madame Luce n'est pas allée au château depuis de nombreuses lunes! La reine a dit que madame Luce pourrait rester définitivement au château. Mais la vieille Luce Luminia devait refuser. On n'est vraiment bien que chez soi, hein? Vivre seule et sans attache convient à madame Luce, mmm-hmm."
+      },
+      {
+        "id": 1673,
+        "text": "Ondine. Marine, ma chère soeur! Ne pars pas, je t'en prie! C'est moi, ton Ondine! Tu sais bien qui je suis!"
+      }
+    ]
+  },
+  {
+    "id": 1773,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "まいったな。[LINE][CODE C0]は　死んでますよ。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Too bad. [CODE C0] was defeated.[WAIT][END STRING AC]",
+    "native_plan": "C'est embêtant. {C0} est sans vie.{AF}",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "C'est embêtant. {C0} est sans vie.{AF}",
+    "adaptation_body": "C'est embêtant. {C0} est sans vie.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_C0": 192
+    },
+    "sfc_context": [
+      {
+        "id": 1771,
+        "text": "スライム格闘場へ　ようこそ![LINE]あなたも　試合に　参加しますか?[END STRING AC]"
+      },
+      {
+        "id": 1772,
+        "text": "どなたが　出場なさいますか?[END STRING AC]"
+      },
+      {
+        "id": 1773,
+        "text": "まいったな。[LINE][CODE C0]は　死んでますよ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1774,
+        "text": "では　本日　おこなわれる[LINE]ほかの　スライムたちの　試合を[LINE]お楽しみください。[END STRING AC]"
+      },
+      {
+        "id": 1775,
+        "text": "おそれいりますが　スライム以外は[LINE]試合に　参加できません。[WAIT][END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1771,
+        "text": "Bienvenue au Gluodrome! Vous êtes là pour participer à des combats de gluants, n'est-ce pas?"
+      },
+      {
+        "id": 1772,
+        "text": "Qui souhaitez-vous inscrire ?"
+      },
+      {
+        "id": 1774,
+        "text": "Dans ce cas, profitez bien des combats du jour."
+      },
+      {
+        "id": 1775,
+        "text": "Cette arène est réservée aux gluants."
+      }
+    ]
+  },
+  {
+    "id": 1799,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "賞品は　なんと[LINE][CODE B5]です![WAIT][LINE]では　[CODE C0]さん[LINE]お受けとりください。[END STRING AC]",
+    "sfc_vf_secondaire": "The [CODE B5]! Here you go, [CODE C0].[END STRING AC]",
+    "native_plan": "Le prix est... {B5}{AF}{C0}, venez le chercher !",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "Le prix est... {B5}{AF}{C0}, venez le chercher !",
+    "adaptation_body": "Le prix est... {B5}{AF}{C0}, venez le chercher !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_B5": 181,
+      "native_C0": 192
+    },
+    "sfc_context": [
+      {
+        "id": 1797,
+        "text": "では　試合スタート!![END STRING AC]"
+      },
+      {
+        "id": 1798,
+        "text": "やりましたっ!　つ　ついに[LINE]新チャンピオンの　誕生ですっ![WAIT][LINE]チャンピオンに　なられましたので[LINE]今回は　とくに　ごうかな賞品を[LINE]用意させていただきました。[END STRING AC]"
+      },
+      {
+        "id": 1799,
+        "text": "賞品は　なんと[LINE][CODE B5]です![WAIT][LINE]では　[CODE C0]さん[LINE]お受けとりください。[END STRING AC]"
+      },
+      {
+        "id": 1800,
+        "text": "[CODE D9][CODE C0]さん　おめでとう![LINE]ちゅっ。[END STRING AC]"
+      },
+      {
+        "id": 1801,
+        "text": "[CODE C0]たちは[LINE][CODE B5]を　手に入れた![END STRING AE]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1797,
+        "text": "Prêt? Partez!"
+      },
+      {
+        "id": 1798,
+        "text": "V-vous avez réussi! Par la Déesse, le titre est remporté! Un tel exploit mérite une récompense très, très, très spéciale!"
+      },
+      {
+        "id": 1800,
+        "text": "Bravo, ! (smack)"
+      },
+      {
+        "id": 1801,
+        "text": " et son équipe obtiennent "
+      }
+    ]
+  },
+  {
+    "id": 1830,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE D9][CODE B2]「ピピピピッピー!!!![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE D9][CODE B2].Peep peep peep peep!!!![WAIT][END STRING AC]",
+    "native_plan": "{D4}{D9}{B2}. Pipi-pipiii !!!!{AF}",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}{D9}{B2}. Pipi-pipiii !!!!{AF}",
+    "adaptation_body": "{D4}{D9}{B2}. Pipi-pipiii !!!!{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Cri du personnage B2 et non Gus fixé, D4 D9 et pause gardés.",
+    "review": "Cri du personnage B2 et non Gus fixé, D4 D9 et pause gardés.",
+    "native_bindings": {
+      "native_D4": 212,
+      "native_D9": 217,
+      "native_B2": 178
+    },
+    "sfc_context": [
+      {
+        "id": 1828,
+        "text": "[CODE D4][CODE D9][CODE B2]「ピピピピーッ!!!![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1829,
+        "text": "[CODE D4]スラッジ「20万!　いやっ[LINE]50万ゴールドで　どうじゃ![END STRING AC]"
+      },
+      {
+        "id": 1830,
+        "text": "[CODE D4][CODE D9][CODE B2]「ピピピピッピー!!!![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1831,
+        "text": "[CODE D4]スラッジ「よし!　100万![LINE]100万ゴールドじゃ![LINE]これなら　もんくあるまい![END STRING AC]"
+      },
+      {
+        "id": 1832,
+        "text": "[CODE D4][CODE D9][CODE B2]「ピッピピピピピーッ!![WAIT][END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1828,
+        "text": ". (slurp...?)"
+      },
+      {
+        "id": 1829,
+        "text": "Boss. Non? Alors 200... Non, 500000 pièces d'or! Qu'est-ce que vous en dites?"
+      },
+      {
+        "id": 1831,
+        "text": "Boss. Oh, voyons! Bon, un million de pièces d'or! Il faudrait être marteau pour dire non à une somme pareille! Alors?"
+      },
+      {
+        "id": 1832,
+        "text": ". (slurp...??)"
+      }
+    ]
+  },
+  {
+    "id": 1891,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "ボクも　[CODE B2]　みたいに[LINE]がんばるぞ![END STRING AC]",
+    "sfc_vf_secondaire": "1891<0559>[CODE B2][END STRING AC]",
+    "native_plan": "Moi aussi, je vais faire de mon mieux, comme {B2} !",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "Moi aussi, je vais faire de mon mieux, comme {B2} !",
+    "adaptation_body": "Moi aussi, je vais faire de mon mieux, comme {B2} !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_B2": 178
+    },
+    "sfc_context": [
+      {
+        "id": 1889,
+        "text": "ここは　試合場の入口です。[WAIT][LINE]今回の試合に　戦士として[LINE]とうろくしてない方は[LINE]入れませんよ。[END STRING AC]"
+      },
+      {
+        "id": 1890,
+        "text": "今度の　チャンピオンは[LINE][CODE B2]か。[WAIT][LINE]チャンプに　勝てるスライムは[LINE]いないと思っていたが。[LINE]上には　上が　いるものだな。[END STRING AC]"
+      },
+      {
+        "id": 1891,
+        "text": "ボクも　[CODE B2]　みたいに[LINE]がんばるぞ![END STRING AC]"
+      },
+      {
+        "id": 1892,
+        "text": "[CODE D9]あらっ　チャンピオンの[LINE][CODE B2]![WAIT][LINE][CODE D9]やっぱり　ステキね...。[END STRING AC]"
+      },
+      {
+        "id": 1893,
+        "text": "これが　かつて　1ばん強かった[LINE]チャンプの石ぞうだ。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1889,
+        "text": "Cette entrée mène à l'arène. (slurp) Pour prendre part au combat en cours, il faut d'abord s'inscrire."
+      },
+      {
+        "id": 1890,
+        "text": "Alors  a pris la tête du championnat, hein? (slurp) J'aurais jamais glu que Moloss se ferait battre un jour. (slurp) Il doit l'avoir mauvaise!"
+      },
+      {
+        "id": 1892,
+        "text": "Oh! Le champion, ! Quel charme..."
+      },
+      {
+        "id": 1893,
+        "text": "C'est une statue de Moloss, l'ancien champion..."
+      }
+    ]
+  },
+  {
+    "id": 1999,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE B2]　ゆっくりだな。[LINE]ほかの客は　みんな　とっくに[LINE]おりていったぜ。[END STRING AC]",
+    "sfc_vf_secondaire": "Welcome friends. It<024D> been a while.[END STRING AC]",
+    "native_plan": "Dis, {B2}, tu prends ton temps ! Les autres passagers ont débarqué depuis longtemps.",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "Dis, {B2}, tu prends ton temps ! Les autres passagers ont débarqué depuis longtemps.",
+    "adaptation_body": "Dis, {B2}, tu prends ton temps ! Les autres passagers ont débarqué depuis longtemps.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_B2": 178
+    },
+    "sfc_context": [
+      {
+        "id": 1997,
+        "text": "はじめは　ここのけいびなんて[LINE]つまらん仕事だと　思っていたが[LINE]いや　なかなか　どうして......[WAIT][LINE]じつに　やりがいのある[LINE]仕事では　ないか　わっははは。[END STRING AC]"
+      },
+      {
+        "id": 1998,
+        "text": "さあ　おりた　おりた。[LINE]レイドックの岬に　着いたぜ。[END STRING AC]"
+      },
+      {
+        "id": 1999,
+        "text": "[CODE B2]　ゆっくりだな。[LINE]ほかの客は　みんな　とっくに[LINE]おりていったぜ。[END STRING AC]"
+      },
+      {
+        "id": 2000,
+        "text": "ここは　サンマリーノゆきの[LINE]キップ売り場ですが[LINE]次の出航は　3日後になります。[WAIT][LINE]また　そのとき　おこしください。[END STRING AC]"
+      },
+      {
+        "id": 2001,
+        "text": "いよいよ　レイドックですな。[LINE]さて　商売の　じゅんびを[LINE]しておかないと。[WAIT][LINE]レイドックの城下町にいったら[LINE]売って売って　売りまくるぞー![END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 1997,
+        "text": "Je croyais que ce serait mortel de garder cette église, mais en fait... J'aime cet endroit. Je crois que j'ai trouvé la foi! Ha ha!"
+      },
+      {
+        "id": 1998,
+        "text": "Terre! Notre dangereux voyage prend fin! Les tours étincelantes de Somnia vous attendent!"
+      },
+      {
+        "id": 2000,
+        "text": "Le prochain navire pour Port Abbri ne partira pas avant trois jours. Revenez si vous voulez acheter un passage!"
+      },
+      {
+        "id": 2001,
+        "text": "Ah, la belle ville de Somnia m'appelle! Il y a de l'argent à se faire pour un commerçant habile! Les Somniens savent marchander, mais je suis prêt à les battre à leur propre jeu!"
+      }
+    ]
+  },
+  {
+    "id": 2128,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]マサール「......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Masarl.…[END STRING AC]",
+    "native_plan": "{D4}Pascal. ...",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Pascal. ...",
+    "adaptation_body": "{D4}Pascal. ...",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 2126,
+        "text": "[CODE D4]マサール「クリムト......。[END STRING AC]"
+      },
+      {
+        "id": 2127,
+        "text": "[CODE DB]そうだ　おまえの弟のクリムトだ。[LINE]おまえが　われわれにチカラを[LINE]かさぬと　いうのなら......[WAIT][LINE][CODE DB]この男を　処刑する![WAIT][LINE][CODE DB]どうだ　大賢者マサールよ[LINE]チカラを　かす気に　なったか?[END STRING AC]"
+      },
+      {
+        "id": 2128,
+        "text": "[CODE D4]マサール「......。[END STRING AC]"
+      },
+      {
+        "id": 2129,
+        "text": "[CODE DB]よかろう......やれ![END STRING AC]"
+      },
+      {
+        "id": 2130,
+        "text": "[CODE DB]今なら　まだ　まにあうぞ。[LINE]どうする　大賢者......?[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 2126,
+        "text": "Pascal. Blaise..."
+      },
+      {
+        "id": 2127,
+        "text": "Exact! C'est ton petit frère, Blaise. Et si tu continues de refuser d'utiliser tes pouvoirs pour nous aider... Il en paiera le prix! Alors, qu'est-ce que tu en dis, le Penseur? Serviras-tu le démon suprême? ......"
+      },
+      {
+        "id": 2129,
+        "text": "Tu as pris ta décision. Qu'on l'exécute!"
+      },
+      {
+        "id": 2130,
+        "text": "Si tu parles maintenant, tu peux encore tout arrêter. Qu'en dis-tu, grand Penseur?"
+      }
+    ]
+  },
+  {
+    "id": 2131,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]マサール「......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Masarl.…[END STRING AC]",
+    "native_plan": "{D4}Pascal. ...",
+    "ds_references": [],
+    "ds_reference_scope": "Adaptation directe SFC ; aucune correspondance DS déclarée.",
+    "original_body": "{D4}Pascal. ...",
+    "adaptation_body": "{D4}Pascal. ...",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "review": "Réplique SFC et contexte voisins relus directement ; variables, pauses, styles et terminator conservés. IPS secondaire non considéré comme validation de ses décalages.",
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 2129,
+        "text": "[CODE DB]よかろう......やれ![END STRING AC]"
+      },
+      {
+        "id": 2130,
+        "text": "[CODE DB]今なら　まだ　まにあうぞ。[LINE]どうする　大賢者......?[END STRING AC]"
+      },
+      {
+        "id": 2131,
+        "text": "[CODE D4]マサール「......。[END STRING AC]"
+      },
+      {
+        "id": 2132,
+        "text": "[CODE DB]やれ![END STRING AC]"
+      },
+      {
+        "id": 2133,
+        "text": "[CODE DB]フン　動じぬか。[LINE]まあ　いいだろう　この世界の[LINE]時間は　無限......[WAIT][LINE][CODE DB]なん度でも　見せてやろう[LINE]おまえの心が　くちはてるまで......[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 2129,
+        "text": "Tu as pris ta décision. Qu'on l'exécute!"
+      },
+      {
+        "id": 2130,
+        "text": "Si tu parles maintenant, tu peux encore tout arrêter. Qu'en dis-tu, grand Penseur?"
+      },
+      {
+        "id": 2133,
+        "text": "Mmpf. Alors, tu choisis de ne pas réagir. Très bien. Mais dans cet univers, le temps n'a pas de limite pour nous. Tu revivras cette scène encore et encore jusqu'à ce que ton coeur se brise en mille morceaux."
+      }
+    ]
+  }
+]

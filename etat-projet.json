@@ -1,13 +1,13 @@
 {
-  "release": "v0.48",
+  "release": "v0.49",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 6672,
+    "validated": 6729,
     "visible_total": 6957,
-    "new_this_pass": 143,
-    "remaining": 285
+    "new_this_pass": 57,
+    "remaining": 228
   },
-  "baseline": "v0.47",
+  "baseline": "v0.48",
   "prepared_not_inserted": {
     "main": 19,
     "separate_places": 25,
@@ -16,7 +16,7 @@
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.48",
+    "inventory_version": "v0.49",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -29,10 +29,11 @@
     "native_grammar_helpers_adapted": 4
   },
   "rom_bytes": 8388608,
-  "notes": "143 textes SFC relus : dialogues, panneaux, objets légendaires, commerces et quelques libellés techniques. 69 références DS de formulation, fragments ou lexique, avec écarts SFC documentés ; 74 adaptations directes sans équivalent DS validé. Pauses natives conservées. Ancien IPS secondaire relu mais ses nombreux décalages sont rejetés.",
-  "next": "Terminer les 285 entrées restantes, dont19 préparées non insérées, en traitant les dialogues couplés et commandes avant toute annonce de finalisation. Continuer aussi les tables et audits naturels.",
-  "deferred_remaining_from_v034": 5,
+  "notes": "57 dialogues, narrations et répliques à commandes natives relus. Plans explicites : ordre de tous les contrôles hors mise en lignes conservé, pauses sources gardées, locuteurs et noms non consolidés. DS prioritaire pour les références explicites, écarts SFC conservés ; IPS secondaire non admis comme validation de ses décalages.",
+  "next": "Continuer les 228 messages, dont19 préparés non insérés, les tables et les audits naturels. Les commandes rares C7/DC/E0/E1, les fragments assemblés et les choix couplés exigent encore une revue spécifique.",
+  "deferred_remaining_from_v034": 4,
   "resolved_from_v034_ids": [
+    1356,
     1478,
     2368,
     4866,

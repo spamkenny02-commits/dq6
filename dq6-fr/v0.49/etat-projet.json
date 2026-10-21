@@ -1,0 +1,59 @@
+{
+  "release": "v0.49",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 6729,
+    "visible_total": 6957,
+    "new_this_pass": 57,
+    "remaining": 228
+  },
+  "baseline": "v0.48",
+  "prepared_not_inserted": {
+    "main": 19,
+    "separate_places": 25,
+    "reviewed_fragments": 11,
+    "draft_main": 8
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.49",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "spell_action_labels_inserted": 20,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 37,
+    "native_grammar_helpers_adapted": 4
+  },
+  "rom_bytes": 8388608,
+  "notes": "57 dialogues, narrations et répliques à commandes natives relus. Plans explicites : ordre de tous les contrôles hors mise en lignes conservé, pauses sources gardées, locuteurs et noms non consolidés. DS prioritaire pour les références explicites, écarts SFC conservés ; IPS secondaire non admis comme validation de ses décalages.",
+  "next": "Continuer les 228 messages, dont19 préparés non insérés, les tables et les audits naturels. Les commandes rares C7/DC/E0/E1, les fragments assemblés et les choix couplés exigent encore une revue spécifique.",
+  "deferred_remaining_from_v034": 4,
+  "resolved_from_v034_ids": [
+    1356,
+    1478,
+    2368,
+    4866,
+    4880,
+    5159,
+    5748,
+    5761,
+    5778,
+    5816,
+    5818,
+    5844,
+    5851,
+    6117,
+    6172,
+    6209,
+    6265,
+    6338,
+    6465,
+    6937,
+    6944,
+    6949
+  ]
+}

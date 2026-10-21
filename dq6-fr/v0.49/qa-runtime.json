@@ -1,0 +1,113 @@
+{
+  "result_sha256": "8ad078214cc5249ff9ff7b88fc7efe296f60e495d6c9a9865986bc2eb5d60164",
+  "boot_output": "{\"groups_checked\": 880, \"bytes_checked\": 524018, \"upper_groups\": 376, \"all_rom_bus_reads_match\": true}\n{\"pixel_format\": 2, \"screenshot\": \"v049-boot\", \"message_id\": 55768, \"frame_mean\": 15.146670386904763}\nMap_ExtendedHiROMMap\n",
+  "boot_screenshot": "screenshots/v049-boot.png",
+  "boot_screenshot_sha256": "52fb1b4bfe419aad24adc931cece2186eb22549243ee19e124c35ff4ad373432",
+  "probes": [
+    {
+      "id": 29,
+      "kind": "C4-plural-maxitem",
+      "page": 1,
+      "screenshot": "screenshots/v049-C4-plural-maxitem-29-page1.png",
+      "sha256": "bfe077a46c50b3f737d57ce51d3a42674dbef3bfebd14d399678fcf1e640762e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-C4-plural-maxitem-29-page1\", \"message_id\": 100, \"frame_mean\": 48.20457821800595}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 83,
+      "kind": "C4-plural-maxitem",
+      "page": 1,
+      "screenshot": "screenshots/v049-C4-plural-maxitem-83-page1.png",
+      "sha256": "a00085c5e94b780586dc3d579e7d6ee2d8d6d367751154120ce936ec2c973d22",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-C4-plural-maxitem-83-page1\", \"message_id\": 100, \"frame_mean\": 47.05176943824405}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 84,
+      "kind": "C4-plural-maxitem",
+      "page": 1,
+      "screenshot": "screenshots/v049-C4-plural-maxitem-84-page1.png",
+      "sha256": "7accfed43007ab425d9fc1ca06f5e466bfc4df57f6cb515a836cfac242182a36",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-C4-plural-maxitem-84-page1\", \"message_id\": 100, \"frame_mean\": 46.972621372767854}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 866,
+      "kind": "C4-plural-maxitem",
+      "page": 1,
+      "screenshot": "screenshots/v049-C4-plural-maxitem-866-page1.png",
+      "sha256": "4e7234ac4e7c3167be1b868cfca266ead6d098c67390ef59361b4149de1a9cc8",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-C4-plural-maxitem-866-page1\", \"message_id\": 100, \"frame_mean\": 46.604410807291664}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 1096,
+      "kind": "C4-plural-maxitem",
+      "page": 1,
+      "screenshot": "screenshots/v049-C4-plural-maxitem-1096-page1.png",
+      "sha256": "e54d2512dca533b78767076d81adbf899c5800a4c292e954ec07f7b4fe56b4d0",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-C4-plural-maxitem-1096-page1\", \"message_id\": 100, \"frame_mean\": 45.82635207403274}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 1096,
+      "kind": "C4-plural-maxitem",
+      "page": 2,
+      "screenshot": "screenshots/v049-C4-plural-maxitem-1096-page2.png",
+      "sha256": "523e6008b6af5e3b12b77152b989ad523841db8d2897ccd44d1d7a318b65b617",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-C4-plural-maxitem-1096-page2\", \"message_id\": 100, \"frame_mean\": 50.30925060453869}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 1096,
+      "kind": "C4-plural-maxitem",
+      "page": 3,
+      "screenshot": "screenshots/v049-C4-plural-maxitem-1096-page3.png",
+      "sha256": "077de916d0eac54b322525b81b5bbbabec52359289e07d5673996a75d10812e4",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-C4-plural-maxitem-1096-page3\", \"message_id\": 100, \"frame_mean\": 44.541800362723215}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 1096,
+      "kind": "C4-plural-maxitem",
+      "page": 4,
+      "screenshot": "screenshots/v049-C4-plural-maxitem-1096-page4.png",
+      "sha256": "3355cf679a290cda37199b94e90c683370c09b82c87041b24ed328eb568c7f5f",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-C4-plural-maxitem-1096-page4\", \"message_id\": 100, \"frame_mean\": 47.576956612723215}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 1096,
+      "kind": "C4-plural-maxitem",
+      "page": 5,
+      "screenshot": "screenshots/v049-C4-plural-maxitem-1096-page5.png",
+      "sha256": "f82cd5ca738c1eecff50832fd4e8a4809ca9913dc3cc591771f81e24619d3a15",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-C4-plural-maxitem-1096-page5\", \"message_id\": 100, \"frame_mean\": 47.823358444940474}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 581,
+      "kind": "BB-max",
+      "page": 1,
+      "screenshot": "screenshots/v049-BB-max-581-page1.png",
+      "sha256": "a8918ca9c89c365b437c4fada93fd15b9a2d5cc87354845cd4a2366b0227ea7d",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-BB-max-581-page1\", \"message_id\": 100, \"frame_mean\": 45.712791806175595}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 581,
+      "kind": "BB-max",
+      "page": 2,
+      "screenshot": "screenshots/v049-BB-max-581-page2.png",
+      "sha256": "a586e6497d79b32ab36f9031162c9bfb39451fa65afde727fdf2bacbf3f7440d",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-BB-max-581-page2\", \"message_id\": 100, \"frame_mean\": 50.467692057291664}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 22,
+      "kind": "B2-vocation",
+      "page": 1,
+      "screenshot": "screenshots/v049-B2-vocation-22-page1.png",
+      "sha256": "7296518cd33a2682cabf2e81d37ccd7686181ea2bdd2d616936048026ea8bc42",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v049-B2-vocation-22-page1\", \"message_id\": 100, \"frame_mean\": 48.555582682291664}\nMap_ExtendedHiROMMap\n"
+    }
+  ],
+  "diagnostic_forced_C4_return_count": 2,
+  "diagnostic_item_name": "Iron Ball of Destruction",
+  "diagnostic_item_physical_entries": [
+    1604,
+    1638
+  ],
+  "BB_decimal": 16777215,
+  "B2_vocation_sid": 2297,
+  "limits": "Camp message100 redirections. Forced C4 count is a display branch probe, not a natural party-count test. No natural transactions, naming writes, real item acquisition or SRAM effects validated."
+}

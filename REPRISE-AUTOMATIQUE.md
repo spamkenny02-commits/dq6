@@ -1,3 +1,7 @@
+# Reprise v0.49
+
+57 dialogues, narrations et répliques à commandes natives relus. Plans explicites : ordre de tous les contrôles hors mise en lignes conservé, pauses sources gardées, locuteurs et noms non consolidés. DS prioritaire pour les références explicites, écarts SFC conservés ; IPS secondaire non admis comme validation de ses décalages. Continuer les 228 messages, dont19 préparés non insérés, les tables et les audits naturels. Les commandes rares C7/DC/E0/E1, les fragments assemblés et les choix couplés exigent encore une revue spécifique. Lire native_plan.py et les plans du lot, ne pas recycler cette revue pour le prochain lot.
+
 # Reprise v0.48
 
 143 textes SFC relus : dialogues, panneaux, objets légendaires, commerces et quelques libellés techniques. 69 références DS de formulation, fragments ou lexique, avec écarts SFC documentés ; 74 adaptations directes sans équivalent DS validé. Pauses natives conservées. Ancien IPS secondaire relu mais ses nombreux décalages sont rejetés. Terminer les 285 entrées restantes, dont19 préparées non insérées, en traitant les dialogues couplés et commandes avant toute annonce de finalisation. Continuer aussi les tables et audits naturels.

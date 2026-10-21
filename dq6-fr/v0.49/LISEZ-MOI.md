@@ -1,0 +1,15 @@
+# DQVI FR v0.49 partielle
+
+6729/6957 messages intégrés, 57 ajouts, 228 restants. 19 préparés non insérés hérités : 11 fragments et 8 brouillons. Aucun nouveau texte principal en préparation dans ce lot. Projet non finalisé. ROM de travail 8 Mio.
+
+Plans français/natifs explicites pour chaque nouveau texte : toutes les commandes hors AD/AF/terminator restent dans l'ordre japonais exact. Les AF sources sont explicites ; seules les pauses supplémentaires nécessaires à la pagination sont ajoutées. Les D4 et les noms de chaque tour restent présents. 23 entrées ont des références DS explicites (fragments, formulation ou lexique) ; les autres sont adaptées directement du japonais SFC et de leur contexte. L'IPS secondaire est conservé dans la revue sans accepter ses lacunes. Le vin SFC de Magnus et le marchand d'objets de Tully ne deviennent pas le repas/distributeur de nourriture DS. Les accords devant C4 sont nominaux pour rester compatibles avec le groupe.
+
+6672 anciens tokens et 2512 noms inchangés, ainsi que moteur, arbre Huffman, vecteur C4, polices, cadre du nom, Journal/Options et crédits retirés. prepare.py/build.py/verify.py, 6960 entrées redécodées, réapplication BPS/IPS, mauvaises sources refusées et zones protégées vérifiées. Recette pass49.py idempotente ; refus explicite de permutations/suppressions de commandes ou de pauses originales. Nouvelle restauration indépendante et reconstruction identique.
+
+Snes9x : 115 pages finales pour les 57 textes, toutes relues ; 12 pages supplémentaires de stress, démarrage et Journal relus ; bus courant 880 plages/524018 octets. C4 et Cie observé sur cinq textes par retour de compte forcé à 2 dans des ROM de diagnostic seulement. Objet de 24 cellules, BB=16777215 et B2 Maître des Combats testés. Ce sont des redirections du message100 au camp, pas des scènes naturelles ni des validations de calcul du groupe, d'acquisition, de Journal ou de SRAM. Le banc choisit maintenant une zone libre du script supérieur au lieu de supposer $7A0000 libre. Aucune modification du moteur de la version diffusée.
+
+Tables séparées inchangées : 2512 SID, 2048 entrées physiques, 464 alias ; 37 libellés français confirmés, 4 aides grammaticales adaptées, 25 lieux préparés non insérés. Le zéro japonais détecté ne signifie pas traduction complète : 1558 textes autres à revoir, 346 identifiants, 83 vides à qualifier, 23 identités DS à vérifier en contexte, 1 crédit retiré et 37 confirmés. Pointeurs, tailles, commandes et fenêtres natives restent à contrôler avant insertion.
+
+Ouverts : scènes322/323/1836/4095, indices610/1135/2404/5341/5351, fragments assemblés, commandes rares, alphabet accentué et tables. Le différé1356 est résolu par une revue directe du japonais et de ses DB, sans reprendre la VF lacunaire ; quatre différés historiques restent610/1135/2404/5341. Ne pas déclarer le jeu finalisé.
+
+SHA256 résultat : 8ad078214cc5249ff9ff7b88fc7efe296f60e495d6c9a9865986bc2eb5d60164. BPS sur JP sans en-tête SHA256 90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e. Aucune ROM, SRAM, état ou archive de ROM publiée.

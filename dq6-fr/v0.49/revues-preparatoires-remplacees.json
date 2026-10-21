@@ -1,0 +1,70 @@
+[
+  {
+    "id": 83,
+    "file": "0088.p",
+    "ids": [
+      94
+    ],
+    "sfc_jp": "[CODE D3][CODE C4]は　兵士の服に[LINE]着がえた![END STRING AC]",
+    "ds_jp": "@a@b%a000120たちは　兵士の服に\n着がえた！\n@c0@",
+    "ds_fr": "%H0860%X%0%a000120 enfile la tenue%YL'équipe enfile les tenues%Z de garde.",
+    "review": "Réplique et variantes japonaises relues ; mêmes faits, graphie, oralité ou précision de l’édition DS. Contrôles filtrés séparément à la compilation."
+  },
+  {
+    "id": 84,
+    "file": "0088.p",
+    "ids": [
+      96
+    ],
+    "sfc_jp": "[CODE D3][CODE C4]は　兵士の服を　ぬいだ。[END STRING AC]",
+    "ds_jp": "@a@b%a000120たちは　兵士の服を　ぬいだ。\n@c0@",
+    "ds_fr": "%H0860%X%0%a000120 retire sa tenue%YL'équipe retire les tenues%Z de garde.",
+    "review": "Réplique et variantes japonaises relues ; mêmes faits, graphie, oralité ou précision de l’édition DS. Contrôles filtrés séparément à la compilation."
+  },
+  {
+    "id": 349,
+    "file": "0056.p",
+    "ids": [
+      691,
+      692,
+      693
+    ],
+    "sfc_jp": "[CODE DA]さあ　どうじゃ![LINE]さがしていたのは　おそらく[LINE]この姿の者じゃろう。ほっほっ![WAIT][LINE][CODE DA]これは　モシャスといって[LINE]かなりレベルの高い　呪文でな。[LINE]わしも　つい最近　覚えたのじゃ。[WAIT][LINE][CODE DA]それより　はて?[LINE]ばあさんを　見かけなかったか。[LINE]どこへ　行ったのかのう......。[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「さあ　どうじゃ！\n\t探していたのは　おそらく\n\tこの姿の者じゃろう。　ほっほっ！\n@c0@",
+      "@a@b＊「これは　モシャスといって\n\tかなりレベルの高い　呪文でな。\n\tわしも　つい最近　覚えたのじゃ。\n@c0@",
+      "@a@b＊「それより　はて？\n\tばあさんを　見かけなかったか？\n\tどこへ　行ったのかのう……。\n@c0@"
+    ],
+    "ds_fr": "Hé hé. Qu'est-ce que vous dites de çaⓡ C'est la personne que vous recherchezⓡ Vous avez la démonstration du pouvoir de Morph. Ma foi, ce sort est bien pratiqueⓠ Je ne l'ai appris que récemment. Mais trêve de bavardage. Auriez-vous vu ma femme dans les environsⓡ Je n'ai aucune idée d'où elle se trouve...",
+    "review": "Séquence complète relue : orthographe ou reformulation japonaise équivalente ; aucun ajout fondé uniquement sur le score.",
+    "reviewed_differences": [
+      {
+        "before": "さが",
+        "after": "探"
+      }
+    ]
+  },
+  {
+    "id": 866,
+    "file": "0088.p",
+    "ids": [
+      65
+    ],
+    "sfc_jp": "　　　　　　　　　[CODE D3][CODE C4]は　再び[LINE]　　　　　　　　　牢に　入れられた...。[END STRING AC]",
+    "ds_jp": "@a@b%a000120たちは　再び\n牢に　入れられた……。\n@c0@",
+    "ds_fr": "%H0860%X%0%a000120%Y%0Le groupe%Z réintègre sa cellule...",
+    "review": "Réplique et variantes japonaises relues ; mêmes faits, graphie, oralité ou précision de l’édition DS. Contrôles filtrés séparément à la compilation."
+  },
+  {
+    "id": 1505,
+    "file": "0008.p",
+    "ids": [
+      0,
+      1
+    ],
+    "sfc_jp": "[CODE DB]よう　[CODE B2][LINE]わりいけど　冒険ごっこなら[LINE]よそで　やってくれねえか?[WAIT][LINE][CODE DB]......さて　そろそろ[LINE]スモックのヤツが　手紙を[LINE]とどけたころかな......。[END STRING AC]",
+    "ds_jp": "@a@b＊「よう　あんちゃんたち\n\tわりいけど　冒険ごっこなら\n\tよそで　やってくれねえか？\n@c0@ @a@b＊「……さて　そろそろ\n\tスモックのヤツが　手紙を\n\tとどけたころかな……。\n@c0@",
+    "ds_fr": "Héⓠ Allez, dégagez de làⓠ Vous voyez pas que c'est pas votre place, iciⓡⓐ Je le répéterai pasⓠ (Joufflu doit être en train de livrer notre message. On va avoir la belle vie, c'est clairⓠ)",
+    "review": "Réplique et variantes japonaises relues ; mêmes faits, graphie, oralité ou précision de l’édition DS. Contrôles filtrés séparément à la compilation."
+  }
+]
