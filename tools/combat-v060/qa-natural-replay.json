@@ -1,0 +1,19 @@
+{
+  "same": true,
+  "before": {
+    "wram_sha256": "edb0280d5d31687f18f5a5f1f09c23878b6ae297e2259d79b46c5f9047d2b211",
+    "screenshot_sha256": "2cefed528b381a76397d46cc63349d601f392ed620ac504ee29fc95e2c59965e"
+  },
+  "after": {
+    "wram_sha256": "edb0280d5d31687f18f5a5f1f09c23878b6ae297e2259d79b46c5f9047d2b211",
+    "screenshot_sha256": "2cefed528b381a76397d46cc63349d601f392ed620ac504ee29fc95e2c59965e"
+  },
+  "natural_inputs_only": true,
+  "initial_state": "v026-camp.state",
+  "initial_state_sha256": "c22c33badd5d6bd2529d895849fb50853b5a5da68c0af4ed859dfe3b876d9d8e",
+  "ROM_release": "v0.56",
+  "final_message_id": 5900,
+  "final_scene": "Château de l’introduction, porte verrouillée",
+  "battle_reached": false,
+  "new_inserted": 0
+}

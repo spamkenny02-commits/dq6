@@ -1,3 +1,7 @@
+# Reprise combat-v060 — Céleste préparée, aucune insertion
+
+Un nouveau nom SID0369/Céleste préparé depuis trois références DS vérifiées, alias physique contrôlé.107 textes de combat inchangés et non insérés. Parcours depuis le camp vers le château consigné en entrées de manette ; aucun combat validé. Alphabet latin et ponctuation relus sur la police résidente de terrain, plan0 ; chargement/rendu en combat et accents toujours non approuvés. Lire tools/combat-v060/README.md. ROM/patch restent v0.56, principal6957 sélections dont9 structures ; autres tables, relecture complète et audits ouverts.
+
 # Reprise combat-v059 — lecteur natif, aucune insertion
 
 Lecteur natif vérifié sous Snes9x pour608 IDs, mutation de pointeur détectée.107 préparés restent non insérés. Le modèlev058 repose sur la table Huffman : ses43 allers-retours/64 caractères manquants ne prouvent pas la police native. Relever la police en combat et établir B2 de465 avant codec/insertion. Archive privée d’états sauvegardée dans cette conversation mais non récupérée après réinitialisation ; aucun état de combat validé. Puis497 hérités, autres tables, relecture et audits naturels. Lire tools/combat-v059/README.md et les rapports. Le patch restev0.56. Aucun fichier ROM, SRAM ou état ne doit être publié sur Git.

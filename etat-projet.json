@@ -25,7 +25,8 @@
     "reviewed_fragments": 0,
     "draft_main": 0,
     "boundary_audit": 0,
-    "separate_battle": 107
+    "separate_battle": 107,
+    "separate_names": 1
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
@@ -39,11 +40,13 @@
     "new_this_pass": 0,
     "prepared_places": 25,
     "confirmed_french_entries": 37,
-    "native_grammar_helpers_adapted": 4
+    "native_grammar_helpers_adapted": 4,
+    "prepared_character_names": 1,
+    "new_prepared_this_checkpoint": 1
   },
   "rom_bytes": 8388608,
   "notes": "16 derniers textes intégrés. Script principal6957 sélections dont6948 entrées linguistiques et9 structurelles ; zéro texte principal en attente. Trois corrections isolées de disposition équipement et réparation de frontière6956 explicites. Tests diagnostiques réussis, scènes naturelles encore ouvertes. Point combat-v057 :107 préparés,0 intégrés ; aucune nouvelle version ROM ni test Snes9x dans ce point. Point combat-v058-codec :0 nouveau/0 intégré,43 allers-retours stricts et64 blocages accents ; bus Snes9x du patch inchangé vérifié, rendu natif non validé.",
-  "next": "Lecteur natif vérifié sous Snes9x pour608 IDs, mutation de pointeur détectée.107 préparés restent non insérés. Le modèlev058 repose sur la table Huffman : ses43 allers-retours/64 caractères manquants ne prouvent pas la police native. Relever la police en combat et relire l’adaptation464/465 depuis les quatre SIDs B2 maintenant identifiés avant codec/insertion. Archive privée d’états sauvegardée dans cette conversation mais non récupérée après réinitialisation ; aucun état de combat validé. Puis497 hérités, autres tables, relecture et audits naturels.",
+  "next": "Céleste/SID0369 préparée avec trois références DS et alias contrôlé, non insérée.107 préparations de combat inchangées. Parcours naturel du camp au château consigné ; aucun combat validé. Alphabet latin et ponctuation relus sur les tuiles résidentes du terrain, plan0 ; vérifier leur chargement en combat et traiter les accents avant approbation du codec. Obtenir un contexte de combat, vérifier police/variables/commandes/pagination, adapter464/465, puis autres tables, recherche exhaustive, relecture intégrale et audits hérités.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -110,7 +113,9 @@
     "legacy_candidate_model_unsupported": 64,
     "prior_43_roundtrips_native_approval": false,
     "native_font_audit": "tools/combat-v059/qa-font-scope.json",
-    "native_465_binding": "tools/combat-v059/binding-465.json"
+    "native_465_binding": "tools/combat-v059/binding-465.json",
+    "prepared_dependency_names": "preparations/combat-v060/nom-celeste.json",
+    "field_font_glyph_review": "tools/combat-v060/qa-resident-font.json"
   },
-  "checkpoint": "combat-v059"
+  "checkpoint": "combat-v060"
 }

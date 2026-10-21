@@ -1,0 +1,22 @@
+{
+  "checkpoint": "combat-v060",
+  "parent_commit": "0f935006f907eee7ed8cbc8c2bec5af6dee31c86",
+  "ROM_release_unchanged": "v0.56",
+  "new_integrated": 0,
+  "new_prepared_name_sids": [
+    "0369"
+  ],
+  "battle_prepared_unchanged": 107,
+  "files_sha256": {
+    "REPRISE-AUTOMATIQUE.md": "353f096eba194e1e3a822144f4239e6f8a1883e6f06bd1fb9d64e78cdea7559b",
+    "etat-projet.json": "fcc20d6c767b09dbfca6293903080dcef4d63c6a70772117657ac361dcc6caff",
+    "preparations/combat-v060/nom-celeste.json": "1524f46a82a3aa26dd004f63d6eea74b08f05f9a732eb1f8a8c0234da4e28a27",
+    "preparations/combat-v060/qa-preparation.json": "d03bdc6d77130b844fe83c87d28ea45d2ec2c38176adc6accde57f0b862bce1d",
+    "preparations/combat-v060/verify.py": "e58c3fbafcb75794bd733a9410c4aaeac5d0279c329fab8071d120c4c7da4853",
+    "tools/combat-v060/README.md": "77b7ca1ce5d11c5f88aee769c407a117b3c91060a7ddc19c8263e2e106bbacde",
+    "tools/combat-v060/natural-actions.json": "643fda7e98196787958aa56b7eb00fbe126714bb4de16dea97ade3eb457e23c4",
+    "tools/combat-v060/qa-natural-replay.json": "1b17226ad2033bf097529362ec00e338cb9782ece24d5ac75af712bde91d766c",
+    "tools/combat-v060/qa-resident-font.json": "4313b5b5e162ab0ae11be52e3371606c5306e39b59af628291508e9deb3009ce",
+    "tools/combat-v060/resident_font_probe.py": "ff93092c42692bab9abf13dbee3db37b17729a7e6496a729980169747124db26"
+  }
+}

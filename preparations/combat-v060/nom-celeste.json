@@ -1,0 +1,49 @@
+{
+  "system": "NAME_BYTE_POOL",
+  "sid": "0369",
+  "status": "PREPARE_NON_INSERE",
+  "japanese": "ファルシオン",
+  "french": "Céleste",
+  "native_binding": "tools/combat-v059/binding-465.json",
+  "review": "Les deux tables DS nomment explicitement le même cheval Céleste. La scène 0004/643 présente son nom. Le mot doit rester un nom de personnage et conserver son accent ; ne pas encoder via la table Huffman.",
+  "ds_references": [
+    {
+      "ja_file": "data/MENULIST6/JA/b1001000.mpt",
+      "fr_file": "data/MENULIST6/FR/b1001000.mpt",
+      "id": 9,
+      "ja_text_sha256": "0fe3f023e87923abf5553c8dffd2cb1ef200ed95bb137714a5f268984b3fde5f",
+      "fr_text_sha256": "862cd388be9cbd02c1934f420715503dce62165b03df8de3ca069ff969308c90",
+      "ja_excerpt": "@1ファルシオン@",
+      "fr_excerpt": "@0F@1Céleste@9N@"
+    },
+    {
+      "ja_file": "data/MENULIST6/JA/b1005000.mpt",
+      "fr_file": "data/MENULIST6/FR/b1005000.mpt",
+      "id": 351,
+      "ja_text_sha256": "0fe3f023e87923abf5553c8dffd2cb1ef200ed95bb137714a5f268984b3fde5f",
+      "fr_text_sha256": "fa7ea9e5a643712703e847cdd6d6dfaaa9086130263074dd743e29824a402b6f",
+      "ja_excerpt": "@1ファルシオン@",
+      "fr_excerpt": "@1Céleste@"
+    },
+    {
+      "ja_file": "data/MESS6/JA/0004.p",
+      "fr_file": "data/MESS6/FR/0004.p",
+      "id": 643,
+      "ja_text_sha256": "841bbbdea0be62590ef27adb01c18bf2b9b37c79fdd88536abd8e36651eb7fed",
+      "fr_text_sha256": "ab0be57dbd8bd323c4c72433e36bf903b5bb75765268c23260341468825c9b64",
+      "ja_excerpt": "@a@b%a002000「こいつの名前は\n\tファルシオンだっ！\n\tどうだ　いい名前だろう？\n@c0@",
+      "fr_excerpt": "@a%0%a002000@bEt si on l'appelait Célesteⓡ Un joli nom pour une jolie jument, heinⓡ\n@c0@"
+    }
+  ],
+  "inserted": false,
+  "emulator_tested": false,
+  "blockers": [
+    "Alphabet byte natif et accent é à établir.",
+    "Alias mesuré : seul SID0369 ; tous les appels et contextes restent à examiner avant insertion.",
+    "La réserve sur le jeu verbal464/465 demeure."
+  ],
+  "physical_entry_v056": 873,
+  "runtime_alias_sids_v056": [
+    "0369"
+  ]
+}
