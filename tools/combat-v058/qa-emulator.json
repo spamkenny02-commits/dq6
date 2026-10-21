@@ -1,0 +1,36 @@
+{
+  "checkpoint": "combat-v058-codec",
+  "release_tested": "v0.56 unchanged",
+  "Snes9x_executed": true,
+  "core_sha256": "c4ed8d3f522c41f9ad3116293678c86571e3f9b9c40a91f8c2ca0e61e9ed30fe",
+  "bus": {
+    "groups_checked": 608,
+    "bytes_checked": 11722,
+    "upper_groups": 0,
+    "all_rom_bus_reads_match": true
+  },
+  "bus_message_ranges": 608,
+  "bus_pointer_groups": 76,
+  "baseline_boot": {
+    "frames": 300,
+    "visual_result": "ENIX PRESENTS visible",
+    "screenshot_sha256": "edc25229270a28b4d7b77a6bbdad7874e14a14522b43b4425abe4b5dbb35383d",
+    "success": true
+  },
+  "native_render_experiment": {
+    "id": 51,
+    "fixture_sha256": "6a724e8d866f553ce8aa50c9642f44e3ad5b6fd4428ca65c3fad04f0d6a5e492",
+    "frames": 334,
+    "observed_message_id": 51,
+    "screenshot_sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28",
+    "accepted": false,
+    "visual_result": "Camp background, no readable text window",
+    "hook": "Private main-entry trampoline to C02671, independent byte pointer loader to new French plan.",
+    "natural_battle": false,
+    "limits": "Setting message_id51 and reaching a loop does not establish rendered glyphs or correct runtime semantics. Need actual battle/window context. Earlier window-opening experiments also failed and are not validations."
+  },
+  "accepted_new_message_render_count": 0,
+  "new_integrated": 0,
+  "ROM_states_and_screenshots_kept_private": true,
+  "release_patch_changed": false
+}

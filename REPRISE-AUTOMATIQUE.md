@@ -1,3 +1,7 @@
+# Reprise combat-v058-codec — aucune insertion
+
+Combat :43 candidats encodables strictement,64 bloqués par accents absents ;107 préparés toujours non insérés. Essai de rendu camp rejeté : obtenir un contexte de combat/fenêtre naturel. Alphabet byte à étendre avec preuve globale ou maintenir le blocage. Réserves464/465 et497 hérités toujours ouverts ; autres tables, relecture exhaustive et audits naturels ensuite. Lire tools/combat-v058/README.md et les deux rapports QA. Le patch reste v0.56. Ne pas convertir un aller-retour de codec ni un ID en RAM en validation visuelle. Le test camp natif échoue à afficher une fenêtre lisible et reste explicitement rejeté. Les préparationsv057 restent inchangées.
+
 # Reprise combat-v057 — préparations non insérées
 
 Pool combat :107 propositions préparées non insérées,105 relues et2 réserves464/465. Établir codec/largeurs/commandes et essais natifs avant insertion ;497 textes hérités encore non relus. Puis autres tables, recherche exhaustive, relecture intégrale et audits naturels. Le script reste6957 sélections (6948 linguistiques et9 structures), patchv0.56 inchangé. Lire preparations/combat-v057/README.md et qa-preparation.json. Les105 relectures ne valident pas le codec ni le rendu. Ne pas rejouer ces préparations comme nouvelles traductions.

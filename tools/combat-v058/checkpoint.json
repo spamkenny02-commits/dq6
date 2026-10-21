@@ -1,0 +1,16 @@
+{
+  "checkpoint": "combat-v058-codec",
+  "parent": "1af519ea33346725fabdfe14171ca3aaf987415b",
+  "new_translations": 0,
+  "new_inserted": 0,
+  "prepared_unchanged": 107,
+  "files_sha256": {
+    "tools/combat-v058/README.md": "99346caea37ee8784fd43a854f2be724742c7c817832d14bdcd49ab3734d3c7e",
+    "tools/combat-v058/bus_layout.py": "40ba7712cedb18245ca6f5470798fdcacbb39bf726ef0160faa3c54509e2548f",
+    "tools/combat-v058/codec.py": "3dcdfa70ee519f48506e46f93f688c1e50d22a3066b48fe6a1ac59928fe2b840",
+    "tools/combat-v058/diagnostic_fixture.py": "dde5632b9f67f7edf37d80ed9d2577c21e73777644f02da0dbd9beeb5ae27d20",
+    "tools/combat-v058/qa-codec.json": "71468b6833cee008a32c145123c67475422a6a127f3cb216844b223f57dc7fe9",
+    "tools/combat-v058/qa-emulator.json": "d4400705deba8cfd6812f03f4413d25f753f1261e81ccc412ac2daabe7ecadcc",
+    "tools/combat-v058/verify.py": "f2217516c29df39b26a15477ad22787d90761c79555a94efe3c40539e960ebec"
+  }
+}

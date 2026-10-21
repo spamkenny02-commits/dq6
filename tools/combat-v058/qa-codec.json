@@ -1,0 +1,550 @@
+{
+  "checkpoint": "combat-v058-codec",
+  "release_unchanged": "v0.56",
+  "baseline_sha256": "e14ebc5611642b229edd3e7becae27813c823ef8182e2d06058953d593f2375d",
+  "source_intact_JP_checked": true,
+  "BPS_reapplied": true,
+  "ROM_bytes": 8388608,
+  "pool_entries": 608,
+  "pool_bytes": 11722,
+  "physical_aliases": 0,
+  "pool_pointer_bounds_and_nonoverlap_checked": true,
+  "main_live_groups_measured": 870,
+  "main_visible_selections_unchanged": 6957,
+  "prepared_total_unchanged": 107,
+  "new_translations": 0,
+  "new_inserted": 0,
+  "canonical_roundtrip_preparation_ids": [
+    51,
+    337,
+    367,
+    381,
+    387,
+    397,
+    406,
+    410,
+    411,
+    427,
+    428,
+    429,
+    454,
+    455,
+    472,
+    478,
+    479,
+    492,
+    494,
+    498,
+    506,
+    507,
+    508,
+    512,
+    513,
+    516,
+    517,
+    519,
+    520,
+    521,
+    523,
+    525,
+    526,
+    527,
+    532,
+    536,
+    538,
+    543,
+    545,
+    547,
+    548,
+    551,
+    552
+  ],
+  "unsupported_preparations": [
+    {
+      "id": 311,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 382,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 389,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 390,
+      "unsupported_characters": [
+        "î"
+      ]
+    },
+    {
+      "id": 395,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 398,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 403,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 404,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 407,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 408,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 409,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 412,
+      "unsupported_characters": [
+        "ê"
+      ]
+    },
+    {
+      "id": 413,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 414,
+      "unsupported_characters": [
+        "è",
+        "é"
+      ]
+    },
+    {
+      "id": 415,
+      "unsupported_characters": [
+        "è",
+        "é"
+      ]
+    },
+    {
+      "id": 432,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 433,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 434,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 435,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 436,
+      "unsupported_characters": [
+        "è"
+      ]
+    },
+    {
+      "id": 437,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 452,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 453,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 461,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 464,
+      "unsupported_characters": [
+        "é",
+        "î"
+      ]
+    },
+    {
+      "id": 465,
+      "unsupported_characters": [
+        "À"
+      ]
+    },
+    {
+      "id": 466,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 467,
+      "unsupported_characters": [
+        "à",
+        "é",
+        "ê"
+      ]
+    },
+    {
+      "id": 468,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 469,
+      "unsupported_characters": [
+        "à",
+        "é"
+      ]
+    },
+    {
+      "id": 470,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 471,
+      "unsupported_characters": [
+        "à",
+        "è"
+      ]
+    },
+    {
+      "id": 473,
+      "unsupported_characters": [
+        "è"
+      ]
+    },
+    {
+      "id": 493,
+      "unsupported_characters": [
+        "à",
+        "è"
+      ]
+    },
+    {
+      "id": 495,
+      "unsupported_characters": [
+        "â",
+        "è"
+      ]
+    },
+    {
+      "id": 499,
+      "unsupported_characters": [
+        "è",
+        "é"
+      ]
+    },
+    {
+      "id": 500,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 501,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 502,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 503,
+      "unsupported_characters": [
+        "À",
+        "à",
+        "ê",
+        "î"
+      ]
+    },
+    {
+      "id": 504,
+      "unsupported_characters": [
+        "à",
+        "â",
+        "û"
+      ]
+    },
+    {
+      "id": 505,
+      "unsupported_characters": [
+        "ê"
+      ]
+    },
+    {
+      "id": 509,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 510,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 511,
+      "unsupported_characters": [
+        "ê"
+      ]
+    },
+    {
+      "id": 514,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 515,
+      "unsupported_characters": [
+        "à",
+        "é",
+        "ê"
+      ]
+    },
+    {
+      "id": 518,
+      "unsupported_characters": [
+        "è"
+      ]
+    },
+    {
+      "id": 522,
+      "unsupported_characters": [
+        "è",
+        "é"
+      ]
+    },
+    {
+      "id": 524,
+      "unsupported_characters": [
+        "è",
+        "é"
+      ]
+    },
+    {
+      "id": 528,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 530,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 531,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 533,
+      "unsupported_characters": [
+        "à",
+        "é"
+      ]
+    },
+    {
+      "id": 534,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 535,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 537,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 544,
+      "unsupported_characters": [
+        "â",
+        "é"
+      ]
+    },
+    {
+      "id": 546,
+      "unsupported_characters": [
+        "è",
+        "é"
+      ]
+    },
+    {
+      "id": 549,
+      "unsupported_characters": [
+        "é",
+        "î"
+      ]
+    },
+    {
+      "id": 550,
+      "unsupported_characters": [
+        "à"
+      ]
+    },
+    {
+      "id": 553,
+      "unsupported_characters": [
+        "é"
+      ]
+    },
+    {
+      "id": 562,
+      "unsupported_characters": [
+        "à",
+        "é"
+      ]
+    },
+    {
+      "id": 563,
+      "unsupported_characters": [
+        "è",
+        "é"
+      ]
+    }
+  ],
+  "unsupported_characters_entry_counts": {
+    "à": 25,
+    "é": 35,
+    "î": 4,
+    "ê": 6,
+    "è": 13,
+    "À": 2,
+    "â": 3,
+    "û": 1
+  },
+  "dictionary_entries_read_locally": 50,
+  "native_command_occurrences": {
+    "AC": 601,
+    "AD": 43,
+    "AE": 7,
+    "AF": 9,
+    "B1": 528,
+    "B2": 53,
+    "B3": 12,
+    "B4": 9,
+    "B5": 10,
+    "B7": 282,
+    "B8": 201,
+    "B9": 7,
+    "BA": 23,
+    "BB": 28,
+    "BC": 340,
+    "BD": 168,
+    "C2": 48,
+    "C6": 2
+  },
+  "unapproved_original_byte_occurrences": {
+    "0C": 5,
+    "2A": 1,
+    "2B": 3,
+    "2E": 2,
+    "2F": 10,
+    "31": 2,
+    "32": 3,
+    "36": 5,
+    "37": 1,
+    "38": 3,
+    "39": 3,
+    "3B": 3,
+    "3C": 6,
+    "3D": 1,
+    "3E": 5,
+    "6F": 2,
+    "7E": 2,
+    "80": 1,
+    "85": 18,
+    "88": 1
+  },
+  "rejected_mutations": [
+    "wrong_intact_JP",
+    "wrong_baseline",
+    "unsupported_accent_without_lossy_fallback",
+    "shadow_PM_byte_not_ordinary_glyph",
+    "dictionary_code_not_a_native_variable",
+    "unresolved_DS_macro",
+    "embedded_terminator",
+    "missing_terminator",
+    "pointer_outside_battle_region",
+    "aliased_overlapping_group",
+    "lost_terminator_crosses_group"
+  ],
+  "native_encoding_candidate_only": true,
+  "renderer_approved": false,
+  "full_main_reread_progress": 0,
+  "limits": [
+    "43 strict byte encodings are candidate encodings, not inserted or runtime validated messages.",
+    "64 preparations require accents not present in the safe byte alphabet; no lossy fallback used.",
+    "The old English documentation maps ! to81, but current VF font maps7A to! and81 toellipsis.",
+    "0C..0F shadow glyphs and all unapproved source bytes are excluded from ordinary textual encoding.",
+    "No extension of the global byte charset, dictionary, engine or native commands has been made.",
+    "497 inherited battle texts and semantic reserves464/465 remain open."
+  ]
+}
