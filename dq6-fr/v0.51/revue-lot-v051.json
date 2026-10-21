@@ -1,0 +1,1092 @@
+[
+  {
+    "id": 6020,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE]剣を使った戦いのプロです。[LINE]修行をつむと　はやぶさぎり[LINE]まじんぎり　などを　おぼえます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Les Soldats sont compétents à l'épée.[WAIT][LINE]Ils s'entraïnent vite, mais n'apprenent pas la magie.[WAIT][END STRING AC]",
+    "native_plan": "{DE}Le Guerrier est un expert du combat à l'épée. Avec de l'entraînement, il apprend l'Attaque du faucon, la Coupe claire et d'autres techniques.{AF}",
+    "original_body": "{DE}Le Guerrier est un expert du combat à l'épée. Avec de l'entraînement, il apprend l'Attaque du faucon, la Coupe claire et d'autres techniques.{AF}",
+    "adaptation_body": "{DE}Le Guerrier est un expert du combat à l'épée. Avec de l'entraînement, il apprend l'Attaque du faucon, la Coupe claire et d'autres techniques.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 0,
+        "ja": "@1せんし@",
+        "fr": "@1Guerrier@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 133,
+        "ja": "@1はやぶさ;ぎり@",
+        "fr": "@2l'@3une @4Attaque du faucon@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 132,
+        "ja": "@1まじんぎり@",
+        "fr": "@2la @3une @4Coupe claire@"
+      }
+    ],
+    "native_bindings": {
+      "native_DE": 222
+    },
+    "sfc_context": [
+      {
+        "id": 6018,
+        "text": "これは　さびている　つるぎのようだ![END STRING AC]"
+      },
+      {
+        "id": 6019,
+        "text": "[CODE DE]ですね!。[END STRING AC]"
+      },
+      {
+        "id": 6020,
+        "text": "[CODE DE]剣を使った戦いのプロです。[LINE]修行をつむと　はやぶさぎり[LINE]まじんぎり　などを　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6021,
+        "text": "[CODE DE]剣などに　たよらず[LINE]自分の　身体を　武器として[LINE]戦います。[WAIT][LINE]修行をつむと　まわしげり[LINE]ばくれつけん　などを[LINE]おぼえてゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6022,
+        "text": "[CODE DE]こうげき呪文を　得意とするのが[LINE]まほうつかいです。[WAIT][LINE]修行をつむと　ベギラマ[LINE]ベギラゴンなどを　おぼえます。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6021,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE]剣などに　たよらず[LINE]自分の　身体を　武器として[LINE]戦います。[WAIT][LINE]修行をつむと　まわしげり[LINE]ばくれつけん　などを[LINE]おぼえてゆきます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Combattant utilise son corps comme arme primaire.[WAIT][LINE]Il est fort physiquement mais faible en magie.[WAIT][END STRING AC]",
+    "native_plan": "{DE}L'Artiste martial ne compte pas sur une épée. Son corps est son arme.{AF}Avec de l'entraînement, il apprend le Coup de pied circulaire, Multipoing et d'autres techniques.{AF}",
+    "original_body": "{DE}L'Artiste martial ne compte pas sur une épée. Son corps est son arme.{AF}Avec de l'entraînement, il apprend le Coup de pied circulaire, Multipoing et d'autres techniques.{AF}",
+    "adaptation_body": "{DE}L'Artiste martial ne compte pas sur une épée. Son corps est son arme.{AF}Avec de l'entraînement, il apprend le Coup de pied circulaire, Multipoing et d'autres techniques.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 1,
+        "ja": "@1ぶとうか@",
+        "fr": "@1Artiste martial@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 146,
+        "ja": "@1まわしげり@",
+        "fr": "@2le @3un @4Coup de pied circulaire@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 131,
+        "ja": "@1ばくれつ;けん@",
+        "fr": "@2le @3un @4Multipoing@"
+      }
+    ],
+    "native_bindings": {
+      "native_DE": 222
+    },
+    "sfc_context": [
+      {
+        "id": 6019,
+        "text": "[CODE DE]ですね!。[END STRING AC]"
+      },
+      {
+        "id": 6020,
+        "text": "[CODE DE]剣を使った戦いのプロです。[LINE]修行をつむと　はやぶさぎり[LINE]まじんぎり　などを　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6021,
+        "text": "[CODE DE]剣などに　たよらず[LINE]自分の　身体を　武器として[LINE]戦います。[WAIT][LINE]修行をつむと　まわしげり[LINE]ばくれつけん　などを[LINE]おぼえてゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6022,
+        "text": "[CODE DE]こうげき呪文を　得意とするのが[LINE]まほうつかいです。[WAIT][LINE]修行をつむと　ベギラマ[LINE]ベギラゴンなどを　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6023,
+        "text": "[CODE DE]そうりょは　かいふく呪文や[LINE]守備呪文を　得意とします。[WAIT][LINE]ベホマ　ザオラル[LINE]スクルト　マホトーンなどを[LINE]身につけて　ゆくでしょう。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6022,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE]こうげき呪文を　得意とするのが[LINE]まほうつかいです。[WAIT][LINE]修行をつむと　ベギラマ[LINE]ベギラゴンなどを　おぼえます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Sorcier apprend de puissants sorts offensifs.[WAIT][END STRING AC]",
+    "native_plan": "{DE}Le Mage se spécialise dans les sorts offensifs.{AF}Avec de l'entraînement, il apprend Supercrame, Mégacrame et d'autres sorts.{AF}",
+    "original_body": "{DE}Le Mage se spécialise dans les sorts offensifs.{AF}Avec de l'entraînement, il apprend Supercrame, Mégacrame et d'autres sorts.{AF}",
+    "adaptation_body": "{DE}Le Mage se spécialise dans les sorts offensifs.{AF}Avec de l'entraînement, il apprend Supercrame, Mégacrame et d'autres sorts.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 2,
+        "ja": "@1まほうつかい@",
+        "fr": "@1Mage@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 4,
+        "ja": "@1ベギラマ@",
+        "fr": "@2le @3un @4Supercrame@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 5,
+        "ja": "@1ベギラゴン@",
+        "fr": "@2le @3un @4Mégacrame@"
+      }
+    ],
+    "native_bindings": {
+      "native_DE": 222
+    },
+    "sfc_context": [
+      {
+        "id": 6020,
+        "text": "[CODE DE]剣を使った戦いのプロです。[LINE]修行をつむと　はやぶさぎり[LINE]まじんぎり　などを　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6021,
+        "text": "[CODE DE]剣などに　たよらず[LINE]自分の　身体を　武器として[LINE]戦います。[WAIT][LINE]修行をつむと　まわしげり[LINE]ばくれつけん　などを[LINE]おぼえてゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6022,
+        "text": "[CODE DE]こうげき呪文を　得意とするのが[LINE]まほうつかいです。[WAIT][LINE]修行をつむと　ベギラマ[LINE]ベギラゴンなどを　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6023,
+        "text": "[CODE DE]そうりょは　かいふく呪文や[LINE]守備呪文を　得意とします。[WAIT][LINE]ベホマ　ザオラル[LINE]スクルト　マホトーンなどを[LINE]身につけて　ゆくでしょう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6024,
+        "text": "[CODE DE]おどりこは　おどるのが大好き。[LINE]いろんなおどりで[LINE]戦いに　花をそえます。[WAIT][LINE]また　敵のおどりを　ふうじる[LINE]ラストダンスも　おぼえます。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6023,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE]そうりょは　かいふく呪文や[LINE]守備呪文を　得意とします。[WAIT][LINE]ベホマ　ザオラル[LINE]スクルト　マホトーンなどを[LINE]身につけて　ゆくでしょう。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Prètre est un maïtre en sorts défensifs et curatifs.[WAIT][END STRING AC]",
+    "native_plan": "{DE}Le Prêtre se spécialise dans les sorts de soin et de protection.{AF}Il apprend Soins complets, Rappel, Mégaprotection, Antimagie et d'autres sorts.{AF}",
+    "original_body": "{DE}Le Prêtre se spécialise dans les sorts de soin et de protection.{AF}Il apprend Soins complets, Rappel, Mégaprotection, Antimagie et d'autres sorts.{AF}",
+    "adaptation_body": "{DE}Le Prêtre se spécialise dans les sorts de soin et de protection.{AF}Il apprend Soins complets, Rappel, Mégaprotection, Antimagie et d'autres sorts.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 3,
+        "ja": "@1そうりょ@",
+        "fr": "@1Prêtre@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 50,
+        "ja": "@1ベホマ@",
+        "fr": "@2le sort de @3un sort de @4Soins complets@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 55,
+        "ja": "@1ザオラル@",
+        "fr": "@2le @3un @4Rappel@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 37,
+        "ja": "@1スクルト@",
+        "fr": "@2la @3une @4Mégaprotection@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 25,
+        "ja": "@1マホトーン@",
+        "fr": "@2l'@3un @4Antimagie@"
+      }
+    ],
+    "native_bindings": {
+      "native_DE": 222
+    },
+    "sfc_context": [
+      {
+        "id": 6021,
+        "text": "[CODE DE]剣などに　たよらず[LINE]自分の　身体を　武器として[LINE]戦います。[WAIT][LINE]修行をつむと　まわしげり[LINE]ばくれつけん　などを[LINE]おぼえてゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6022,
+        "text": "[CODE DE]こうげき呪文を　得意とするのが[LINE]まほうつかいです。[WAIT][LINE]修行をつむと　ベギラマ[LINE]ベギラゴンなどを　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6023,
+        "text": "[CODE DE]そうりょは　かいふく呪文や[LINE]守備呪文を　得意とします。[WAIT][LINE]ベホマ　ザオラル[LINE]スクルト　マホトーンなどを[LINE]身につけて　ゆくでしょう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6024,
+        "text": "[CODE DE]おどりこは　おどるのが大好き。[LINE]いろんなおどりで[LINE]戦いに　花をそえます。[WAIT][LINE]また　敵のおどりを　ふうじる[LINE]ラストダンスも　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6025,
+        "text": "[CODE DE]とうぞくに　なれば[LINE]戦いの時　敵から　持っている物を[LINE]ぬすむことが　あります。[WAIT][LINE]また　近くに　宝物が　いくつ[LINE]のこっているか　などを[LINE]わかるように　なってゆきます。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6024,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE]おどりこは　おどるのが大好き。[LINE]いろんなおどりで[LINE]戦いに　花をそえます。[WAIT][LINE]また　敵のおどりを　ふうじる[LINE]ラストダンスも　おぼえます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Danseur est un guerrier énergique.[WAIT][LINE]Ses danses peuvent ètre amusantes ou troublantes.[WAIT][END STRING AC]",
+    "native_plan": "{DE}Le Danseur adore danser. Ses danses variées égayent les combats.{AF}Il apprend aussi une dernière danse qui empêche les ennemis de danser.{AF}",
+    "original_body": "{DE}Le Danseur adore danser. Ses danses variées égayent les combats.{AF}Il apprend aussi une dernière danse qui empêche les ennemis de danser.{AF}",
+    "adaptation_body": "{DE}Le Danseur adore danser. Ses danses variées égayent les combats.{AF}Il apprend aussi une dernière danse qui empêche les ennemis de danser.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. ラストダンス est décrit littéralement comme dernière danse qui scelle la danse ennemie. DS90 Antidanse est une comparaison de fonction, pas une identité de nom ou de SID imposée.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. ラストダンス est décrit littéralement comme dernière danse qui scelle la danse ennemie. DS90 Antidanse est une comparaison de fonction, pas une identité de nom ou de SID imposée.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 4,
+        "ja": "@1おどりこ@",
+        "fr": "@1Danseur@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 90,
+        "ja": "@1おどり;ふうじ@",
+        "fr": "@2l'@3une @4Antidanse@"
+      }
+    ],
+    "native_bindings": {
+      "native_DE": 222
+    },
+    "sfc_context": [
+      {
+        "id": 6022,
+        "text": "[CODE DE]こうげき呪文を　得意とするのが[LINE]まほうつかいです。[WAIT][LINE]修行をつむと　ベギラマ[LINE]ベギラゴンなどを　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6023,
+        "text": "[CODE DE]そうりょは　かいふく呪文や[LINE]守備呪文を　得意とします。[WAIT][LINE]ベホマ　ザオラル[LINE]スクルト　マホトーンなどを[LINE]身につけて　ゆくでしょう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6024,
+        "text": "[CODE DE]おどりこは　おどるのが大好き。[LINE]いろんなおどりで[LINE]戦いに　花をそえます。[WAIT][LINE]また　敵のおどりを　ふうじる[LINE]ラストダンスも　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6025,
+        "text": "[CODE DE]とうぞくに　なれば[LINE]戦いの時　敵から　持っている物を[LINE]ぬすむことが　あります。[WAIT][LINE]また　近くに　宝物が　いくつ[LINE]のこっているか　などを[LINE]わかるように　なってゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6026,
+        "text": "まものつかいに　なっていれば[LINE]戦いのあとに　魔物が　仲間に[LINE]なってくることが　あります。[WAIT][LINE]また　火や氷の息を　吐いたり[LINE]レベルが　あがると　ドラゴンに[LINE]姿をかえたりも　できます。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6025,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE]とうぞくに　なれば[LINE]戦いの時　敵から　持っている物を[LINE]ぬすむことが　あります。[WAIT][LINE]また　近くに　宝物が　いくつ[LINE]のこっているか　などを[LINE]わかるように　なってゆきます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Voleur a la capacité de voler des objets à ses ennemis.[WAIT][LINE]Il accroit aussi les chances qu'une créature laisse un trésor.[WAIT][END STRING AC]",
+    "native_plan": "{DE}Le Voleur peut dérober aux ennemis les objets qu'ils portent pendant le combat.{AF}Il apprend aussi à savoir combien de trésors restent dans les environs.{AF}",
+    "original_body": "{DE}Le Voleur peut dérober aux ennemis les objets qu'ils portent pendant le combat.{AF}Il apprend aussi à savoir combien de trésors restent dans les environs.{AF}",
+    "adaptation_body": "{DE}Le Voleur peut dérober aux ennemis les objets qu'ils portent pendant le combat.{AF}Il apprend aussi à savoir combien de trésors restent dans les environs.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Le second paragraphe SFC concerne le nombre de trésors proches ; ne pas reprendre les chances de butin inventées par IPS.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Le second paragraphe SFC concerne le nombre de trésors proches ; ne pas reprendre les chances de butin inventées par IPS.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 5,
+        "ja": "@1とうぞく@",
+        "fr": "@1Voleur@"
+      }
+    ],
+    "native_bindings": {
+      "native_DE": 222
+    },
+    "sfc_context": [
+      {
+        "id": 6023,
+        "text": "[CODE DE]そうりょは　かいふく呪文や[LINE]守備呪文を　得意とします。[WAIT][LINE]ベホマ　ザオラル[LINE]スクルト　マホトーンなどを[LINE]身につけて　ゆくでしょう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6024,
+        "text": "[CODE DE]おどりこは　おどるのが大好き。[LINE]いろんなおどりで[LINE]戦いに　花をそえます。[WAIT][LINE]また　敵のおどりを　ふうじる[LINE]ラストダンスも　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6025,
+        "text": "[CODE DE]とうぞくに　なれば[LINE]戦いの時　敵から　持っている物を[LINE]ぬすむことが　あります。[WAIT][LINE]また　近くに　宝物が　いくつ[LINE]のこっているか　などを[LINE]わかるように　なってゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6026,
+        "text": "まものつかいに　なっていれば[LINE]戦いのあとに　魔物が　仲間に[LINE]なってくることが　あります。[WAIT][LINE]また　火や氷の息を　吐いたり[LINE]レベルが　あがると　ドラゴンに[LINE]姿をかえたりも　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6027,
+        "text": "[CODE DE]商人をつれて　いれば[LINE]戦いのあと　よぶんに　お金を[LINE]ひろうかも知れません。[WAIT][LINE]また　持っている　お金をつかって[LINE]軍隊をよび　敵を攻げき[LINE]そんな技も　身につけてゆきます。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6026,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "まものつかいに　なっていれば[LINE]戦いのあとに　魔物が　仲間に[LINE]なってくることが　あります。[WAIT][LINE]また　火や氷の息を　吐いたり[LINE]レベルが　あがると　ドラゴンに[LINE]姿をかえたりも　できます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Un Maïtre des Bètes peut parfois recruter les ennemis aprês le combat.[WAIT][LINE]A haut niveau, il peut devenir un dragon crachant du feu et de la glace.[WAIT][END STRING AC]",
+    "native_plan": "Un Maître monstres peut être rejoint par un monstre après un combat.{AF}Il peut aussi souffler du feu ou de la glace. En montant de niveau, il peut même prendre la forme d'un dragon.{AF}",
+    "original_body": "Un Maître monstres peut être rejoint par un monstre après un combat.{AF}Il peut aussi souffler du feu ou de la glace. En montant de niveau, il peut même prendre la forme d'un dragon.{AF}",
+    "adaptation_body": "Un Maître monstres peut être rejoint par un monstre après un combat.{AF}Il peut aussi souffler du feu ou de la glace. En montant de niveau, il peut même prendre la forme d'un dragon.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. まものつかい SFC et まものマスター DS : nom DS Maître monstres, mais recrutement SFC après combat conservé ; ne pas importer la suppression de cette mécanique sur DS.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. まものつかい SFC et まものマスター DS : nom DS Maître monstres, mais recrutement SFC après combat conservé ; ne pas importer la suppression de cette mécanique sur DS.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 6,
+        "ja": "@1まものマスター@",
+        "fr": "@1Maître monstres@"
+      }
+    ],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6024,
+        "text": "[CODE DE]おどりこは　おどるのが大好き。[LINE]いろんなおどりで[LINE]戦いに　花をそえます。[WAIT][LINE]また　敵のおどりを　ふうじる[LINE]ラストダンスも　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6025,
+        "text": "[CODE DE]とうぞくに　なれば[LINE]戦いの時　敵から　持っている物を[LINE]ぬすむことが　あります。[WAIT][LINE]また　近くに　宝物が　いくつ[LINE]のこっているか　などを[LINE]わかるように　なってゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6026,
+        "text": "まものつかいに　なっていれば[LINE]戦いのあとに　魔物が　仲間に[LINE]なってくることが　あります。[WAIT][LINE]また　火や氷の息を　吐いたり[LINE]レベルが　あがると　ドラゴンに[LINE]姿をかえたりも　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6027,
+        "text": "[CODE DE]商人をつれて　いれば[LINE]戦いのあと　よぶんに　お金を[LINE]ひろうかも知れません。[WAIT][LINE]また　持っている　お金をつかって[LINE]軍隊をよび　敵を攻げき[LINE]そんな技も　身につけてゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6028,
+        "text": "[CODE DE]どんな時でも　あそんでしまうのが[LINE]あそびにん。　ランクが　あがるごとに[LINE]いろんな　あそびを　おぼえ......[WAIT][LINE]また　パルプンテや　ぱふぱふも[LINE]あそびにんの　得意とするものです。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6027,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE]商人をつれて　いれば[LINE]戦いのあと　よぶんに　お金を[LINE]ひろうかも知れません。[WAIT][LINE]また　持っている　お金をつかって[LINE]軍隊をよび　敵を攻げき[LINE]そんな技も　身につけてゆきます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Marchand a la capacité de trouver de l'or supplémentaire aprês le combat.[WAIT][END STRING AC]",
+    "native_plan": "{DE}Avec un Marchand dans le groupe, vous trouverez peut-être un peu d'argent en plus après les combats.{AF}Il apprend aussi à payer une armée pour qu'elle attaque les ennemis.{AF}",
+    "original_body": "{DE}Avec un Marchand dans le groupe, vous trouverez peut-être un peu d'argent en plus après les combats.{AF}Il apprend aussi à payer une armée pour qu'elle attaque les ennemis.{AF}",
+    "adaptation_body": "{DE}Avec un Marchand dans le groupe, vous trouverez peut-être un peu d'argent en plus après les combats.{AF}Il apprend aussi à payer une armée pour qu'elle attaque les ennemis.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 7,
+        "ja": "@1しょうにん@",
+        "fr": "@1Marchand@"
+      }
+    ],
+    "native_bindings": {
+      "native_DE": 222
+    },
+    "sfc_context": [
+      {
+        "id": 6025,
+        "text": "[CODE DE]とうぞくに　なれば[LINE]戦いの時　敵から　持っている物を[LINE]ぬすむことが　あります。[WAIT][LINE]また　近くに　宝物が　いくつ[LINE]のこっているか　などを[LINE]わかるように　なってゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6026,
+        "text": "まものつかいに　なっていれば[LINE]戦いのあとに　魔物が　仲間に[LINE]なってくることが　あります。[WAIT][LINE]また　火や氷の息を　吐いたり[LINE]レベルが　あがると　ドラゴンに[LINE]姿をかえたりも　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6027,
+        "text": "[CODE DE]商人をつれて　いれば[LINE]戦いのあと　よぶんに　お金を[LINE]ひろうかも知れません。[WAIT][LINE]また　持っている　お金をつかって[LINE]軍隊をよび　敵を攻げき[LINE]そんな技も　身につけてゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6028,
+        "text": "[CODE DE]どんな時でも　あそんでしまうのが[LINE]あそびにん。　ランクが　あがるごとに[LINE]いろんな　あそびを　おぼえ......[WAIT][LINE]また　パルプンテや　ぱふぱふも[LINE]あそびにんの　得意とするものです。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6029,
+        "text": "ドラゴンぎり　がんせきおとし[LINE]メタルぎり　そんな強力な技の使い手[LINE]それが　バトルマスターです。[WAIT][LINE]しかし　せんしと　ぶとうかを[LINE]きわめた者しか　この職業に[LINE]つくことが　できません。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6028,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE]どんな時でも　あそんでしまうのが[LINE]あそびにん。　ランクが　あがるごとに[LINE]いろんな　あそびを　おぼえ......[WAIT][LINE]また　パルプンテや　ぱふぱふも[LINE]あそびにんの　得意とするものです。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Gaffeur passe beaucoup de son temps à s'amuser.[WAIT][LINE]Mais il est três chanceux et a beaucoup d'aptitudes uniques.[WAIT][END STRING AC]",
+    "native_plan": "{DE}Le Vadrouilleur s'amuse en toute occasion. Chaque rang lui donne de nouvelles idées de jeux...{AF}Plouf-plouf et Puff-Puff font aussi partie de ses spécialités.{AF}",
+    "original_body": "{DE}Le Vadrouilleur s'amuse en toute occasion. Chaque rang lui donne de nouvelles idées de jeux...{AF}Plouf-plouf et Puff-Puff font aussi partie de ses spécialités.{AF}",
+    "adaptation_body": "{DE}Le Vadrouilleur s'amuse en toute occasion. Chaque rang lui donne de nouvelles idées de jeux...{AF}Plouf-plouf et Puff-Puff font aussi partie de ses spécialités.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 8,
+        "ja": "@1あそびにん@",
+        "fr": "@1Vadrouilleur@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 60,
+        "ja": "@1パルプンテ@",
+        "fr": "@2le @3un @4Plouf-plouf@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 154,
+        "ja": "@1ぱふぱふ@",
+        "fr": "@2le @3un @4Puff-Puff@"
+      }
+    ],
+    "native_bindings": {
+      "native_DE": 222
+    },
+    "sfc_context": [
+      {
+        "id": 6026,
+        "text": "まものつかいに　なっていれば[LINE]戦いのあとに　魔物が　仲間に[LINE]なってくることが　あります。[WAIT][LINE]また　火や氷の息を　吐いたり[LINE]レベルが　あがると　ドラゴンに[LINE]姿をかえたりも　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6027,
+        "text": "[CODE DE]商人をつれて　いれば[LINE]戦いのあと　よぶんに　お金を[LINE]ひろうかも知れません。[WAIT][LINE]また　持っている　お金をつかって[LINE]軍隊をよび　敵を攻げき[LINE]そんな技も　身につけてゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6028,
+        "text": "[CODE DE]どんな時でも　あそんでしまうのが[LINE]あそびにん。　ランクが　あがるごとに[LINE]いろんな　あそびを　おぼえ......[WAIT][LINE]また　パルプンテや　ぱふぱふも[LINE]あそびにんの　得意とするものです。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6029,
+        "text": "ドラゴンぎり　がんせきおとし[LINE]メタルぎり　そんな強力な技の使い手[LINE]それが　バトルマスターです。[WAIT][LINE]しかし　せんしと　ぶとうかを[LINE]きわめた者しか　この職業に[LINE]つくことが　できません。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6030,
+        "text": "かえんぎり　マヒャドぎり[LINE]いなずまぎり　そんな　まほう剣の[LINE]使い手です。[WAIT][LINE]メラゾーマなども　おぼえますが[LINE]せんしと　まほうつかいを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6029,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "ドラゴンぎり　がんせきおとし[LINE]メタルぎり　そんな強力な技の使い手[LINE]それが　バトルマスターです。[WAIT][LINE]しかし　せんしと　ぶとうかを[LINE]きわめた者しか　この職業に[LINE]つくことが　できません。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Un Maïtre du Combat a des aptitudes pour combattre les monstres puissants.[WAIT][LINE]Néanmoins, il faut d'abord maïtriser les classes de Soldat et de Combattant.[WAIT][END STRING AC]",
+    "native_plan": "Lame du dragon, Rock 'n' Roll, Lame de métal... Le Gladiateur maîtrise ces puissantes techniques.{AF}Seuls ceux qui ont maîtrisé les vocations de Guerrier et d'Artiste martial peuvent devenir Gladiateurs.{AF}",
+    "original_body": "Lame du dragon, Rock 'n' Roll, Lame de métal... Le Gladiateur maîtrise ces puissantes techniques.{AF}Seuls ceux qui ont maîtrisé les vocations de Guerrier et d'Artiste martial peuvent devenir Gladiateurs.{AF}",
+    "adaptation_body": "Lame du dragon, Rock 'n' Roll, Lame de métal... Le Gladiateur maîtrise ces puissantes techniques.{AF}Seuls ceux qui ont maîtrisé les vocations de Guerrier et d'Artiste martial peuvent devenir Gladiateurs.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 9,
+        "ja": "@1バトルマスター@",
+        "fr": "@1Gladiateur@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 138,
+        "ja": "@1ドラゴン;ぎり@",
+        "fr": "@2la @3une @4Lame du dragon@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 123,
+        "ja": "@1がんせき;おとし@",
+        "fr": "@2le @3un @4Rock 'n' Roll@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 140,
+        "ja": "@1メタルぎり@",
+        "fr": "@2la @3une @4Lame de métal@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 0,
+        "ja": "@1せんし@",
+        "fr": "@1Guerrier@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 1,
+        "ja": "@1ぶとうか@",
+        "fr": "@1Artiste martial@"
+      }
+    ],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6027,
+        "text": "[CODE DE]商人をつれて　いれば[LINE]戦いのあと　よぶんに　お金を[LINE]ひろうかも知れません。[WAIT][LINE]また　持っている　お金をつかって[LINE]軍隊をよび　敵を攻げき[LINE]そんな技も　身につけてゆきます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6028,
+        "text": "[CODE DE]どんな時でも　あそんでしまうのが[LINE]あそびにん。　ランクが　あがるごとに[LINE]いろんな　あそびを　おぼえ......[WAIT][LINE]また　パルプンテや　ぱふぱふも[LINE]あそびにんの　得意とするものです。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6029,
+        "text": "ドラゴンぎり　がんせきおとし[LINE]メタルぎり　そんな強力な技の使い手[LINE]それが　バトルマスターです。[WAIT][LINE]しかし　せんしと　ぶとうかを[LINE]きわめた者しか　この職業に[LINE]つくことが　できません。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6030,
+        "text": "かえんぎり　マヒャドぎり[LINE]いなずまぎり　そんな　まほう剣の[LINE]使い手です。[WAIT][LINE]メラゾーマなども　おぼえますが[LINE]せんしと　まほうつかいを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6031,
+        "text": "みがわりや　すてみで　自分を[LINE]ぎせいにしてまで　戦う[LINE]それが　パラディンです。[WAIT][LINE]メガザルや　グランドクロスも[LINE]パラディンの　得意技ですが...[WAIT][LINE]ぶとうかと　そうりょの　両方を[LINE]きわめた者だけが　この職業に[LINE]つくことが　できます。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6030,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "かえんぎり　マヒャドぎり[LINE]いなずまぎり　そんな　まほう剣の[LINE]使い手です。[WAIT][LINE]メラゾーマなども　おぼえますが[LINE]せんしと　まほうつかいを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Mage-Guerrier est à la fois fort physiquement et magicalement.[WAIT][LINE]Il peut apprendre des sorts offensifs três puissants.[WAIT][LINE]Mais il doit d'abord maïtriser les classes de Soldat et de Sorcier.[WAIT][END STRING AC]",
+    "native_plan": "L'Armagicien manie des lames magiques, comme Lame de feu, Entaille mégaglace et Lame d'éclair.{AF}Il apprend aussi Mégaflamme et d'autres sorts. Il faut maîtriser les vocations de Guerrier et de Mage pour le devenir.{AF}",
+    "original_body": "L'Armagicien manie des lames magiques, comme Lame de feu, Entaille mégaglace et Lame d'éclair.{AF}Il apprend aussi Mégaflamme et d'autres sorts. Il faut maîtriser les vocations de Guerrier et de Mage pour le devenir.{AF}",
+    "adaptation_body": "L'Armagicien manie des lames magiques, comme Lame de feu, Entaille mégaglace et Lame d'éclair.{AF}Il apprend aussi Mégaflamme et d'autres sorts. Il faut maîtriser les vocations de Guerrier et de Mage pour le devenir.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 10,
+        "ja": "@1まほうせんし@",
+        "fr": "@1Armagicien@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 142,
+        "ja": "@1かえんぎり@",
+        "fr": "@2la @3une @4Lame de feu@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 144,
+        "ja": "@1マヒャド;ぎり@",
+        "fr": "@2l'@3une @4Entaille mégaglace@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 141,
+        "ja": "@1いなずま;ぎり@",
+        "fr": "@2la @3une @4Lame d'éclair@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 2,
+        "ja": "@1メラゾーマ@",
+        "fr": "@2la @3une @4Mégaflamme@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 0,
+        "ja": "@1せんし@",
+        "fr": "@1Guerrier@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 2,
+        "ja": "@1まほうつかい@",
+        "fr": "@1Mage@"
+      }
+    ],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6028,
+        "text": "[CODE DE]どんな時でも　あそんでしまうのが[LINE]あそびにん。　ランクが　あがるごとに[LINE]いろんな　あそびを　おぼえ......[WAIT][LINE]また　パルプンテや　ぱふぱふも[LINE]あそびにんの　得意とするものです。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6029,
+        "text": "ドラゴンぎり　がんせきおとし[LINE]メタルぎり　そんな強力な技の使い手[LINE]それが　バトルマスターです。[WAIT][LINE]しかし　せんしと　ぶとうかを[LINE]きわめた者しか　この職業に[LINE]つくことが　できません。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6030,
+        "text": "かえんぎり　マヒャドぎり[LINE]いなずまぎり　そんな　まほう剣の[LINE]使い手です。[WAIT][LINE]メラゾーマなども　おぼえますが[LINE]せんしと　まほうつかいを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6031,
+        "text": "みがわりや　すてみで　自分を[LINE]ぎせいにしてまで　戦う[LINE]それが　パラディンです。[WAIT][LINE]メガザルや　グランドクロスも[LINE]パラディンの　得意技ですが...[WAIT][LINE]ぶとうかと　そうりょの　両方を[LINE]きわめた者だけが　この職業に[LINE]つくことが　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6032,
+        "text": "ザオリク　マヒャド　イオナズン[LINE]さまざまな　強力呪文の使い手[LINE]それが　けんじゃです。[WAIT][LINE]また　地の精霊を　しょうかんして[LINE]戦いに　参加させたりも　できます。[WAIT][LINE]修行をつむごとに　MP消費も[LINE]へりますが　まほうつかい　そうりょを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6031,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "みがわりや　すてみで　自分を[LINE]ぎせいにしてまで　戦う[LINE]それが　パラディンです。[WAIT][LINE]メガザルや　グランドクロスも[LINE]パラディンの　得意技ですが...[WAIT][LINE]ぶとうかと　そうりょの　両方を[LINE]きわめた者だけが　この職業に[LINE]つくことが　できます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Paladin est un maïtre des attaques physiques et des sorts curatifs.[WAIT][LINE]Il doit d'abord maïtriser les classes de Prètre et de Combattant.[WAIT][END STRING AC]",
+    "native_plan": "Avec Altruisme ou Coup double, le Paladin combat jusqu'à se sacrifier.{AF}Conjuration et Porte de nacre comptent aussi parmi ses spécialités...{AF}Seuls ceux qui ont maîtrisé les vocations d'Artiste martial et de Prêtre peuvent devenir Paladins.{AF}",
+    "original_body": "Avec Altruisme ou Coup double, le Paladin combat jusqu'à se sacrifier.{AF}Conjuration et Porte de nacre comptent aussi parmi ses spécialités...{AF}Seuls ceux qui ont maîtrisé les vocations d'Artiste martial et de Prêtre peuvent devenir Paladins.{AF}",
+    "adaptation_body": "Avec Altruisme ou Coup double, le Paladin combat jusqu'à se sacrifier.{AF}Conjuration et Porte de nacre comptent aussi parmi ses spécialités...{AF}Seuls ceux qui ont maîtrisé les vocations d'Artiste martial et de Prêtre peuvent devenir Paladins.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 11,
+        "ja": "@1パラディン@",
+        "fr": "@1Paladin@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 76,
+        "ja": "@1みがわり@",
+        "fr": "@2l'@3un @4Altruisme@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 129,
+        "ja": "@1すてみ@",
+        "fr": "@2le @3un @4Coup double@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 57,
+        "ja": "@1メガザル@",
+        "fr": "@2la @3une @4Conjuration@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 124,
+        "ja": "@1グランド;クロス@",
+        "fr": "@2la @3une @4Porte de nacre@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 1,
+        "ja": "@1ぶとうか@",
+        "fr": "@1Artiste martial@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 3,
+        "ja": "@1そうりょ@",
+        "fr": "@1Prêtre@"
+      }
+    ],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6029,
+        "text": "ドラゴンぎり　がんせきおとし[LINE]メタルぎり　そんな強力な技の使い手[LINE]それが　バトルマスターです。[WAIT][LINE]しかし　せんしと　ぶとうかを[LINE]きわめた者しか　この職業に[LINE]つくことが　できません。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6030,
+        "text": "かえんぎり　マヒャドぎり[LINE]いなずまぎり　そんな　まほう剣の[LINE]使い手です。[WAIT][LINE]メラゾーマなども　おぼえますが[LINE]せんしと　まほうつかいを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6031,
+        "text": "みがわりや　すてみで　自分を[LINE]ぎせいにしてまで　戦う[LINE]それが　パラディンです。[WAIT][LINE]メガザルや　グランドクロスも[LINE]パラディンの　得意技ですが...[WAIT][LINE]ぶとうかと　そうりょの　両方を[LINE]きわめた者だけが　この職業に[LINE]つくことが　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6032,
+        "text": "ザオリク　マヒャド　イオナズン[LINE]さまざまな　強力呪文の使い手[LINE]それが　けんじゃです。[WAIT][LINE]また　地の精霊を　しょうかんして[LINE]戦いに　参加させたりも　できます。[WAIT][LINE]修行をつむごとに　MP消費も[LINE]へりますが　まほうつかい　そうりょを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6033,
+        "text": "もう毒のキリや　火柱をおこしたり[LINE]また　追い風をまきおこし[LINE]敵の、ほのおのブレスをはねかえす。[WAIT][LINE]そんな　ニンジャのような存在[LINE]それが　レンジャーです。[WAIT][LINE]これに　なるためには　とうぞく[LINE]まものつかい　しょうにんの3つを[LINE]きわめなくては　なりません。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6032,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "ザオリク　マヒャド　イオナズン[LINE]さまざまな　強力呪文の使い手[LINE]それが　けんじゃです。[WAIT][LINE]また　地の精霊を　しょうかんして[LINE]戦いに　参加させたりも　できます。[WAIT][LINE]修行をつむごとに　MP消費も[LINE]へりますが　まほうつかい　そうりょを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Sage est le plus puissant des magiciens.[WAIT][LINE]Il peut lancer des sort avec moins de PM que les autres classes.[WAIT][LINE]Néanmoins, il doit d'abord maïtriser les classes de Mage et de Prètre.[WAIT][END STRING AC]",
+    "native_plan": "Résurrection, Gigaglace, Mégabang... Le Sage maîtrise toutes sortes de sorts puissants.{AF}Il peut aussi invoquer les esprits de la terre pour qu'ils participent au combat.{AF}En progressant, il dépense moins de PM. Il faut maîtriser les vocations de Mage et de Prêtre pour devenir Sage.{AF}",
+    "original_body": "Résurrection, Gigaglace, Mégabang... Le Sage maîtrise toutes sortes de sorts puissants.{AF}Il peut aussi invoquer les esprits de la terre pour qu'ils participent au combat.{AF}En progressant, il dépense moins de PM. Il faut maîtriser les vocations de Mage et de Prêtre pour devenir Sage.{AF}",
+    "adaptation_body": "Résurrection, Gigaglace, Mégabang... Le Sage maîtrise toutes sortes de sorts puissants.{AF}Il peut aussi invoquer les esprits de la terre pour qu'ils participent au combat.{AF}En progressant, il dépense moins de PM. Il faut maîtriser les vocations de Mage et de Prêtre pour devenir Sage.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Ne pas reprendre les omissions et généralités de l’ancien IPS ; techniques et prérequis japonais conservés.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 12,
+        "ja": "@1けんじゃ@",
+        "fr": "@1Sage@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 56,
+        "ja": "@1ザオリク@",
+        "fr": "@2la @3une @4Résurrection@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 14,
+        "ja": "@1マヒャド@",
+        "fr": "@2la @3une @4Gigaglace@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 8,
+        "ja": "@1イオナズン@",
+        "fr": "@2le @3un @4Mégabang@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 150,
+        "ja": "@1しょうかん@",
+        "fr": "@2l'@3une @4Invocation@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 2,
+        "ja": "@1まほうつかい@",
+        "fr": "@1Mage@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 3,
+        "ja": "@1そうりょ@",
+        "fr": "@1Prêtre@"
+      }
+    ],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6030,
+        "text": "かえんぎり　マヒャドぎり[LINE]いなずまぎり　そんな　まほう剣の[LINE]使い手です。[WAIT][LINE]メラゾーマなども　おぼえますが[LINE]せんしと　まほうつかいを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6031,
+        "text": "みがわりや　すてみで　自分を[LINE]ぎせいにしてまで　戦う[LINE]それが　パラディンです。[WAIT][LINE]メガザルや　グランドクロスも[LINE]パラディンの　得意技ですが...[WAIT][LINE]ぶとうかと　そうりょの　両方を[LINE]きわめた者だけが　この職業に[LINE]つくことが　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6032,
+        "text": "ザオリク　マヒャド　イオナズン[LINE]さまざまな　強力呪文の使い手[LINE]それが　けんじゃです。[WAIT][LINE]また　地の精霊を　しょうかんして[LINE]戦いに　参加させたりも　できます。[WAIT][LINE]修行をつむごとに　MP消費も[LINE]へりますが　まほうつかい　そうりょを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6033,
+        "text": "もう毒のキリや　火柱をおこしたり[LINE]また　追い風をまきおこし[LINE]敵の、ほのおのブレスをはねかえす。[WAIT][LINE]そんな　ニンジャのような存在[LINE]それが　レンジャーです。[WAIT][LINE]これに　なるためには　とうぞく[LINE]まものつかい　しょうにんの3つを[LINE]きわめなくては　なりません。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6034,
+        "text": "みんなのアイドル　スーパースター。[LINE]ハッスルダンスで　みんな　ハッスル[LINE]元気が　もりもり　わいてくる。[WAIT][LINE]あっ　そ~れ![LINE]あなたも　ハッスル![LINE]私も　ハッスル![WAIT][LINE]は...っ!　すいません　つい......。[WAIT][LINE]おどりこと　あそびにんを　きわめると[LINE]なることが　できます。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6033,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "もう毒のキリや　火柱をおこしたり[LINE]また　追い風をまきおこし[LINE]敵の、ほのおのブレスをはねかえす。[WAIT][LINE]そんな　ニンジャのような存在[LINE]それが　レンジャーです。[WAIT][LINE]これに　なるためには　とうぞく[LINE]まものつかい　しょうにんの3つを[LINE]きわめなくては　なりません。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Le Ranger est un guerrier furtif avec des aptitudes spéciales suzeraines.[WAIT][LINE]Il doit d'abord maïtriser les classes Voleur, Soldat et Maïtre des Bètes.[WAIT][END STRING AC]",
+    "native_plan": "Le Ranger fait jaillir un Brouillard toxique ou un Bûcher. Avec Riposte, il renvoie le souffle de feu ennemi.{AF}C'est une sorte de ninja.{AF}Pour devenir Ranger, il faut maîtriser trois vocations, Voleur, Maître monstres et Marchand.{AF}",
+    "original_body": "Le Ranger fait jaillir un Brouillard toxique ou un Bûcher. Avec Riposte, il renvoie le souffle de feu ennemi.{AF}C'est une sorte de ninja.{AF}Pour devenir Ranger, il faut maîtriser trois vocations, Voleur, Maître monstres et Marchand.{AF}",
+    "adaptation_body": "Le Ranger fait jaillir un Brouillard toxique ou un Bûcher. Avec Riposte, il renvoie le souffle de feu ennemi.{AF}C'est une sorte de ninja.{AF}Pour devenir Ranger, il faut maîtriser trois vocations, Voleur, Maître monstres et Marchand.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Prérequis SFC exacts : Voleur, Maître monstres, Marchand. IPS remplace à tort Marchand par Soldat. Riposte renvoie ici le souffle de feu, pas toute attaque inventée.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Prérequis SFC exacts : Voleur, Maître monstres, Marchand. IPS remplace à tort Marchand par Soldat. Riposte renvoie ici le souffle de feu, pas toute attaque inventée.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 13,
+        "ja": "@1レンジャー@",
+        "fr": "@1Ranger@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 93,
+        "ja": "@1もうどくの;きり@",
+        "fr": "@2le @3un @4Brouillard ;toxique@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 117,
+        "ja": "@1ひばしら@",
+        "fr": "@2le @3un @4Bûcher@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 80,
+        "ja": "@1おいかぜ@",
+        "fr": "@2la @3une @4Riposte@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 5,
+        "ja": "@1とうぞく@",
+        "fr": "@1Voleur@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 6,
+        "ja": "@1まものマスター@",
+        "fr": "@1Maître monstres@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 7,
+        "ja": "@1しょうにん@",
+        "fr": "@1Marchand@"
+      }
+    ],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6031,
+        "text": "みがわりや　すてみで　自分を[LINE]ぎせいにしてまで　戦う[LINE]それが　パラディンです。[WAIT][LINE]メガザルや　グランドクロスも[LINE]パラディンの　得意技ですが...[WAIT][LINE]ぶとうかと　そうりょの　両方を[LINE]きわめた者だけが　この職業に[LINE]つくことが　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6032,
+        "text": "ザオリク　マヒャド　イオナズン[LINE]さまざまな　強力呪文の使い手[LINE]それが　けんじゃです。[WAIT][LINE]また　地の精霊を　しょうかんして[LINE]戦いに　参加させたりも　できます。[WAIT][LINE]修行をつむごとに　MP消費も[LINE]へりますが　まほうつかい　そうりょを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6033,
+        "text": "もう毒のキリや　火柱をおこしたり[LINE]また　追い風をまきおこし[LINE]敵の、ほのおのブレスをはねかえす。[WAIT][LINE]そんな　ニンジャのような存在[LINE]それが　レンジャーです。[WAIT][LINE]これに　なるためには　とうぞく[LINE]まものつかい　しょうにんの3つを[LINE]きわめなくては　なりません。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6034,
+        "text": "みんなのアイドル　スーパースター。[LINE]ハッスルダンスで　みんな　ハッスル[LINE]元気が　もりもり　わいてくる。[WAIT][LINE]あっ　そ~れ![LINE]あなたも　ハッスル![LINE]私も　ハッスル![WAIT][LINE]は...っ!　すいません　つい......。[WAIT][LINE]おどりこと　あそびにんを　きわめると[LINE]なることが　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6035,
+        "text": "すべての人々の　希望の星[LINE]それが　勇者です。[WAIT][LINE]勇者のはなつ　いてつく波動は[LINE]じゃあくな　呪文効果を[LINE]ふりはらってくれるでしょう。[WAIT][LINE]しかし　勇者になる修行は[LINE]きびしいものです。[WAIT][LINE]いろんな職を　きわめ[LINE]その道を　さがすしかありません。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6034,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "みんなのアイドル　スーパースター。[LINE]ハッスルダンスで　みんな　ハッスル[LINE]元気が　もりもり　わいてくる。[WAIT][LINE]あっ　そ~れ![LINE]あなたも　ハッスル![LINE]私も　ハッスル![WAIT][LINE]は...っ!　すいません　つい......。[WAIT][LINE]おどりこと　あそびにんを　きわめると[LINE]なることが　できます。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Tout le monde envie le stylé Superstar.[WAIT][LINE]Il doit d'abord maïtriser les classes de Danseur et de Gaffeur.[WAIT][LINE]Il a des aptitudes uniques et três utiles.[WAIT][END STRING AC]",
+    "native_plan": "La Sommité est l'idole de tous ! Sa Danse des soins rend de l'énergie à tout le monde.{AF}Allez, on danse ! Vous aussi ! Moi aussi !{AF}Ah ! Pardon, je me suis laissé emporter...{AF}Pour devenir Sommité, il faut maîtriser les vocations de Danseur et de Vadrouilleur.{AF}",
+    "original_body": "La Sommité est l'idole de tous ! Sa Danse des soins rend de l'énergie à tout le monde.{AF}Allez, on danse ! Vous aussi ! Moi aussi !{AF}Ah ! Pardon, je me suis laissé emporter...{AF}Pour devenir Sommité, il faut maîtriser les vocations de Danseur et de Vadrouilleur.{AF}",
+    "adaptation_body": "La Sommité est l'idole de tous ! Sa Danse des soins rend de l'énergie à tout le monde.{AF}Allez, on danse ! Vous aussi ! Moi aussi !{AF}Ah ! Pardon, je me suis laissé emporter...{AF}Pour devenir Sommité, il faut maîtriser les vocations de Danseur et de Vadrouilleur.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Les quatre paragraphes et la plaisanterie du narrateur entraîné dans la danse sont gardés ; pas seulement le résumé IPS.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Les quatre paragraphes et la plaisanterie du narrateur entraîné dans la danse sont gardés ; pas seulement le résumé IPS.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 14,
+        "ja": "@1スーパースター@",
+        "fr": "@1Sommité@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 86,
+        "ja": "@1ハッスル;ダンス@",
+        "fr": "@2la @3une @4Danse des soins@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 4,
+        "ja": "@1おどりこ@",
+        "fr": "@1Danseur@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 8,
+        "ja": "@1あそびにん@",
+        "fr": "@1Vadrouilleur@"
+      }
+    ],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6032,
+        "text": "ザオリク　マヒャド　イオナズン[LINE]さまざまな　強力呪文の使い手[LINE]それが　けんじゃです。[WAIT][LINE]また　地の精霊を　しょうかんして[LINE]戦いに　参加させたりも　できます。[WAIT][LINE]修行をつむごとに　MP消費も[LINE]へりますが　まほうつかい　そうりょを[LINE]きわめた者のみが　これになれます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6033,
+        "text": "もう毒のキリや　火柱をおこしたり[LINE]また　追い風をまきおこし[LINE]敵の、ほのおのブレスをはねかえす。[WAIT][LINE]そんな　ニンジャのような存在[LINE]それが　レンジャーです。[WAIT][LINE]これに　なるためには　とうぞく[LINE]まものつかい　しょうにんの3つを[LINE]きわめなくては　なりません。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6034,
+        "text": "みんなのアイドル　スーパースター。[LINE]ハッスルダンスで　みんな　ハッスル[LINE]元気が　もりもり　わいてくる。[WAIT][LINE]あっ　そ~れ![LINE]あなたも　ハッスル![LINE]私も　ハッスル![WAIT][LINE]は...っ!　すいません　つい......。[WAIT][LINE]おどりこと　あそびにんを　きわめると[LINE]なることが　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6035,
+        "text": "すべての人々の　希望の星[LINE]それが　勇者です。[WAIT][LINE]勇者のはなつ　いてつく波動は[LINE]じゃあくな　呪文効果を[LINE]ふりはらってくれるでしょう。[WAIT][LINE]しかし　勇者になる修行は[LINE]きびしいものです。[WAIT][LINE]いろんな職を　きわめ[LINE]その道を　さがすしかありません。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6036,
+        "text": "このほかにも　まだ知られていない[LINE]職業があると　いわれています。[WAIT][LINE]もし　なにかの　さとりの書を[LINE]見つけたら　持っていてください。[WAIT][LINE]その　さとりを　持つものだけに[LINE]その職業への道が[LINE]ひらかれることでしょう。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6035,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "すべての人々の　希望の星[LINE]それが　勇者です。[WAIT][LINE]勇者のはなつ　いてつく波動は[LINE]じゃあくな　呪文効果を[LINE]ふりはらってくれるでしょう。[WAIT][LINE]しかし　勇者になる修行は[LINE]きびしいものです。[WAIT][LINE]いろんな職を　きわめ[LINE]その道を　さがすしかありません。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Héro est la classe ultime.[WAIT][LINE]La plupart des gens doivent maïtriser toutes les autres classes pour devenir un Héro.[WAIT][LINE]Il a des aptitudes três puissantes qui ne coûtent aucun PM et ne peuvent ètre bloqués.[WAIT][END STRING AC]",
+    "native_plan": "Le Héros est l'espoir de tous.{AF}Sa Perturbonde dissipe les effets des sorts maléfiques.{AF}Mais la voie du Héros exige un rude entraînement.{AF}Il faut maîtriser diverses vocations pour trouver cette voie.{AF}",
+    "original_body": "Le Héros est l'espoir de tous.{AF}Sa Perturbonde dissipe les effets des sorts maléfiques.{AF}Mais la voie du Héros exige un rude entraînement.{AF}Il faut maîtriser diverses vocations pour trouver cette voie.{AF}",
+    "adaptation_body": "Le Héros est l'espoir de tous.{AF}Sa Perturbonde dissipe les effets des sorts maléfiques.{AF}Mais la voie du Héros exige un rude entraînement.{AF}Il faut maîtriser diverses vocations pour trouver cette voie.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Le SFC ne dit pas de maîtriser toutes les autres classes ni absence de PM : ne pas importer ces ajouts IPS. Conserver diverses vocations sans inventer de prérequis précis.",
+    "review": "Description et contexte séquentiel des vocations SFC relus. Noms DS établis par entrées explicites ; aucun équivalent DS complet déclaré. Toutes les pauses AF et DE gardées. Le SFC ne dit pas de maîtriser toutes les autres classes ni absence de PM : ne pas importer ces ajouts IPS. Conserver diverses vocations sans inventer de prérequis précis.",
+    "ds_references": [
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1006000.mpt",
+        "id": 15,
+        "ja": "@1ゆうしゃ@",
+        "fr": "@1Héros@"
+      },
+      {
+        "scope": "LEXIQUE_DS_SEULEMENT_SFC_RELU",
+        "file": "data/MENULIST6/JA/b1003000.mpt",
+        "id": 104,
+        "ja": "@1いてつく;はどう@",
+        "fr": "@2la @3une @4Perturbonde@"
+      }
+    ],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6033,
+        "text": "もう毒のキリや　火柱をおこしたり[LINE]また　追い風をまきおこし[LINE]敵の、ほのおのブレスをはねかえす。[WAIT][LINE]そんな　ニンジャのような存在[LINE]それが　レンジャーです。[WAIT][LINE]これに　なるためには　とうぞく[LINE]まものつかい　しょうにんの3つを[LINE]きわめなくては　なりません。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6034,
+        "text": "みんなのアイドル　スーパースター。[LINE]ハッスルダンスで　みんな　ハッスル[LINE]元気が　もりもり　わいてくる。[WAIT][LINE]あっ　そ~れ![LINE]あなたも　ハッスル![LINE]私も　ハッスル![WAIT][LINE]は...っ!　すいません　つい......。[WAIT][LINE]おどりこと　あそびにんを　きわめると[LINE]なることが　できます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6035,
+        "text": "すべての人々の　希望の星[LINE]それが　勇者です。[WAIT][LINE]勇者のはなつ　いてつく波動は[LINE]じゃあくな　呪文効果を[LINE]ふりはらってくれるでしょう。[WAIT][LINE]しかし　勇者になる修行は[LINE]きびしいものです。[WAIT][LINE]いろんな職を　きわめ[LINE]その道を　さがすしかありません。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6036,
+        "text": "このほかにも　まだ知られていない[LINE]職業があると　いわれています。[WAIT][LINE]もし　なにかの　さとりの書を[LINE]見つけたら　持っていてください。[WAIT][LINE]その　さとりを　持つものだけに[LINE]その職業への道が[LINE]ひらかれることでしょう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6037,
+        "text": "装備品以外を　ふくろに　いれます。[LINE]いいですか?[END STRING AC]"
+      }
+    ]
+  }
+]

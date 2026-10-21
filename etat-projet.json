@@ -1,13 +1,13 @@
 {
-  "release": "v0.50",
+  "release": "v0.51",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 6864,
+    "validated": 6880,
     "visible_total": 6957,
-    "new_this_pass": 135,
-    "remaining": 93
+    "new_this_pass": 16,
+    "remaining": 77
   },
-  "baseline": "v0.49",
+  "baseline": "v0.50",
   "prepared_not_inserted": {
     "main": 26,
     "separate_places": 25,
@@ -16,7 +16,7 @@
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.50",
+    "inventory_version": "v0.51",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -29,8 +29,8 @@
     "native_grammar_helpers_adapted": 4
   },
   "rom_bytes": 8388608,
-  "notes": "135 dialogues, récits, retrouvailles et conversations finales relus. Plans explicites : ordre de tous les contrôles hors mise en lignes conservé, pauses sources gardées, locuteurs et noms non consolidés. DS prioritaire pour les références explicites, écarts SFC conservés ; IPS secondaire non admis comme validation de ses décalages.",
-  "next": "Continuer les 93 messages, dont26 préparés non insérés, les tables et les audits naturels. Les commandes rares C7/DC/E0/E1, les fragments assemblés et les choix couplés exigent encore une revue spécifique.",
+  "notes": "16 descriptions de vocations SFC relues avec lexique DS explicite. Techniques, prérequis et mécaniques SFC conservés ; ancien IPS secondaire corrigé sans servir de validation.",
+  "next": "Continuer les77 entrées, dont26 préparées non insérées, les tables et audits. Après traduction, recherche exhaustive des oublis et relecture de tous les textes par lots suivis.",
   "deferred_remaining_from_v034": 4,
   "resolved_from_v034_ids": [
     1356,

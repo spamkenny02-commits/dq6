@@ -1,3 +1,7 @@
+# Reprise v0.51
+
+16 descriptions de vocations SFC relues avec lexique DS explicite. Techniques, prérequis et mécaniques SFC conservés ; ancien IPS secondaire corrigé sans servir de validation. Continuer les77 entrées, dont26 préparées non insérées, les tables et audits. Après traduction, recherche exhaustive des oublis et relecture de tous les textes par lots suivis. Ne pas recycler la revue de ce lot.
+
 # Reprise v0.50
 
 135 dialogues, récits, retrouvailles et conversations finales relus. Plans explicites : ordre de tous les contrôles hors mise en lignes conservé, pauses sources gardées, locuteurs et noms non consolidés. DS prioritaire pour les références explicites, écarts SFC conservés ; IPS secondaire non admis comme validation de ses décalages. Continuer les 93 messages, dont26 préparés non insérés, les tables et les audits naturels. Les commandes rares C7/DC/E0/E1, les fragments assemblés et les choix couplés exigent encore une revue spécifique. Lire native_plan.py et les plans du lot, ne pas recycler cette revue pour le prochain lot.

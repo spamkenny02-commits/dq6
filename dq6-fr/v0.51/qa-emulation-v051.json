@@ -1,0 +1,16 @@
+{
+  "version": "v0.51",
+  "result_sha256": "78f1c0f7398633e574d6b1c4d6e04cf8e8b2a14d12567d9a8b47db4b6b1392fe",
+  "new_messages": 16,
+  "dialogue_pages": 66,
+  "inherited_variable_pages": 17,
+  "bus_ranges": 880,
+  "bus_bytes": 528063,
+  "all_captured_pages_visually_reviewed": true,
+  "boot_menu_reviewed": true,
+  "core_source": "official snes9xgit/snes9x",
+  "core_revision": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "protocol": "Sequential run_core.py, inherited v026 camp; message100 redirections. New descriptions keep DE and source AF pauses.",
+  "natural_scenes_verified": false,
+  "transactions_or_sram_verified": false
+}
