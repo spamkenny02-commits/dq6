@@ -1,0 +1,42 @@
+{
+  "checkpoint": "combat-v059",
+  "status": "SOURCE_BINDING_ONLY_NOT_RENDERED",
+  "message": 465,
+  "native_caller_file_offset": "026796",
+  "native_message_call_file_offset": "0267A6",
+  "native_inline_message_entry": "C02A16",
+  "variable": "B2",
+  "variable_wram": "7E5A28",
+  "rng_choices": 4,
+  "word_table_file_offset": "0267AD",
+  "caller_sha256": "58c8fb8f908f5307a463fa800fe889f437e580db4ac5e7df5f63a2edb5b2299f",
+  "table_sha256": "829dd91271069543e9d28bd974e195fe44da31504d16032eb9361270b44ca459",
+  "words": [
+    {
+      "sid": "0905",
+      "japanese": "ハッサン",
+      "project_name": "Olivier"
+    },
+    {
+      "sid": "0369",
+      "japanese": "ファルシオン",
+      "project_name": "M369"
+    },
+    {
+      "sid": "036A",
+      "japanese": "ドラゴン",
+      "project_name": "M36A"
+    },
+    {
+      "sid": "064B",
+      "japanese": "ベホマズン",
+      "project_name": "Omnisoin"
+    }
+  ],
+  "semantics": "Les quatre mots japonais se terminent par ン. Les libellés français ne partagent pas cette terminaison. La règle perdante du shiritori ne peut pas être recopiée littéralement. M369/M36A restent des identifiants provisoires de la table séparée.",
+  "limitations": [
+    "Décodage de noms depuis les tables sources ; aucune validation du rendu natif de combat.",
+    "La formulation française du texte 465 reste réservée ; aucune insertion.",
+    "Le site 0DB39E observé précédemment est un appel de script de carte, pas une preuve de combat."
+  ]
+}
