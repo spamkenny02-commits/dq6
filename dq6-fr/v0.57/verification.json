@@ -1,0 +1,29 @@
+{
+  "release": "v0.57",
+  "changed_battle_ids": [
+    51,
+    427,
+    429,
+    494,
+    519,
+    520,
+    536,
+    538
+  ],
+  "unchanged_battle_messages": 600,
+  "main_groups_byte_identical": 870,
+  "main_selections_unchanged": 6957,
+  "BPS_reapplied": true,
+  "IPS_reapplied": true,
+  "wrong_BPS_sources_rejected": [
+    "modified_JP",
+    "copier_header"
+  ],
+  "protected_bytes_unchanged": true,
+  "engine_unchanged": true,
+  "all_new_messages_redecoded": true,
+  "ROM_sha256": "37c4f78da7aa8466fabe59f8a135818996108e6dd68833d81c5c6e37fb542208",
+  "emulator_tests_report": "qa-emulator.json",
+  "natural_battle_validated": false,
+  "recipe_repeated_identical_ROM_and_BPS": true
+}

@@ -1,0 +1,28 @@
+{
+  "release": "v0.57",
+  "baseline": "v0.56",
+  "ROM_bytes": 8388608,
+  "ROM_sha256": "37c4f78da7aa8466fabe59f8a135818996108e6dd68833d81c5c6e37fb542208",
+  "BPS_sha256": "a8b5b9af308cb18dbea9230a6f670854156e15c39628b8d3ddea8db1ed685c91",
+  "IPS_sha256": "b03d6434da3d0939bca5125a3b446d7c419e72ea7446c86505b5e721f38c6c55",
+  "new_battle_ids": [
+    51,
+    427,
+    429,
+    494,
+    519,
+    520,
+    536,
+    538
+  ],
+  "new_battle_integrated": 8,
+  "main_selections_unchanged": 6957,
+  "engine_modified": false,
+  "placement": {
+    "offset": 8001024,
+    "size": 12022,
+    "groups": 76,
+    "messages": 608
+  },
+  "natural_battle_validation": false
+}

@@ -1,0 +1,32 @@
+{
+  "release": "v0.57",
+  "parent_published": "9f82b28c944e77b58c4741a40ff0ef2d7a9df8e3",
+  "files_sha256": {
+    "LISEZ-MOI.md": "3184e48cdd024c33b856ad513ff9537133d869cb4de9a90a046e8abb7673be1b",
+    "README.md": "619be0221d7495b7e91e4fa3ab1d2ad54839c7a6fcccc76dece31e4cb819405c",
+    "REPRISE-AUTOMATIQUE.md": "ffe280d941fe49f9919dfc8df504cc4c3b14b725ce2ad511e3f31d29ad4c69cf",
+    "dq6-fr/v0.57/README.md": "d2da1cc0f243947a3e9d4c37dd5332a565a01a407a211c2d489342da76244a61",
+    "dq6-fr/v0.57/build-report.json": "b6f5809f312449d44d77e6539e2e8556155b02381b00665e390aaf7ebfd02897",
+    "dq6-fr/v0.57/build.py": "b5c9157d70b7d9076cb9245f0be10c4aa67c72bb9fbad45310d246bfe593a770",
+    "dq6-fr/v0.57/common.py": "78d82de74ec3031d790c558a667005b2aa3a3ba34de840500360ec2f2b4977d6",
+    "dq6-fr/v0.57/emulator_probe.py": "7e159f345bb3c27a5057118e96f6cf484f4f5f780a48db65a965297fe38bc47c",
+    "dq6-fr/v0.57/insertion-combat.json": "f9b7e973a817892e06ff6bcd5131907a3d92235c6b8eb9b3f0d10b97607fda5e",
+    "dq6-fr/v0.57/inventaire-combat-v057.json": "21fe1c79f9c2c299514dd501e20d29435c71181bb832c2c135d26404392013c2",
+    "dq6-fr/v0.57/prepare.py": "68fa82b911fdc91301ac1853924d5df26d4078aff77cda737c6db056183a13ec",
+    "dq6-fr/v0.57/qa-emulator-captures.json": "66279d29e2990b5eb23a331bf1723a6bd5c13f575ef2209f59a29833579cad17",
+    "dq6-fr/v0.57/qa-emulator-compact-captures.json": "9cb57d2675bb4e27828c74b1969639762841ce19e948235bd26494d1ca188f50",
+    "dq6-fr/v0.57/qa-emulator.json": "0813b2044b128d073aafb6b0214cef41f130019a37e6082ef14cbea0cfb3ef6a",
+    "dq6-fr/v0.57/qa-native-pointer-negative.json": "c992c4ed1d10d1b2f30c7a963f07f5b27d0b2e1b1be6cac2591ea2eeed0f9edc",
+    "dq6-fr/v0.57/qa-native-reader.json": "1505be23adb660091963cd7a21bb298a682d1f3b299c0bdfa5a6ad42008c20fd",
+    "dq6-fr/v0.57/revue-combat-v057.json": "f0eb6acbcb28c08c5fb49e4abf39dd990f1b36778aa08153a276f646a207d008",
+    "dq6-fr/v0.57/verification.json": "bb18d6dc6dac49ff0c02350e4c0e0019eb3faf5feeeb3677a358a15c0b8bde20",
+    "dq6-fr/v0.57/verify.py": "5ec7985d730c6c9e773b778865ed261411cc93d360b9d9a146b7ab98669e57dc",
+    "etat-projet.json": "fca569d31e99df18d1d3aa96fd7948f789ccbfd4e12ec59f287437926430732e",
+    "patches/DQVI-FR-DS-v0.57-BASE-JP-PARTIEL.bps": "a8b5b9af308cb18dbea9230a6f670854156e15c39628b8d3ddea8db1ed685c91",
+    "patches/v0.57-manifest.json": "4f0274b533375635f3d8316da0939c257e8bcdbaccccc88a9f490e6ad97bda6c"
+  },
+  "new_native_battle_integrated": 8,
+  "remaining_prepared_native_battle": 99,
+  "main_selections_unchanged": 6957,
+  "ROM_published": false
+}

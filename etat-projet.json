@@ -1,11 +1,11 @@
 {
-  "release": "v0.56",
+  "release": "v0.57",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
     "visible_total": 6957,
     "new_this_pass": 0,
-    "new_linguistic_translations": 16,
+    "new_linguistic_translations": 0,
     "new_structural_restorations": 0,
     "linguistic_selected": 6948,
     "structural_selected": 9,
@@ -16,16 +16,16 @@
       5699,
       5700
     ],
-    "release_lot_additions": 16
+    "release_lot_additions": 0
   },
-  "baseline": "v0.55",
+  "baseline": "v0.56",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 25,
     "reviewed_fragments": 0,
     "draft_main": 0,
     "boundary_audit": 0,
-    "separate_battle": 107,
+    "separate_battle": 99,
     "separate_names": 1
   },
   "deferred_examined_in_v034": 26,
@@ -45,8 +45,8 @@
     "new_prepared_this_checkpoint": 1
   },
   "rom_bytes": 8388608,
-  "notes": "16 derniers textes intégrés. Script principal6957 sélections dont6948 entrées linguistiques et9 structurelles ; zéro texte principal en attente. Trois corrections isolées de disposition équipement et réparation de frontière6956 explicites. Tests diagnostiques réussis, scènes naturelles encore ouvertes. Point combat-v057 :107 préparés,0 intégrés ; aucune nouvelle version ROM ni test Snes9x dans ce point. Point combat-v058-codec :0 nouveau/0 intégré,43 allers-retours stricts et64 blocages accents ; bus Snes9x du patch inchangé vérifié, rendu natif non validé.",
-  "next": "Céleste/SID0369 préparée avec trois références DS et alias contrôlé, non insérée.107 préparations de combat inchangées. Parcours naturel du camp au château consigné ; aucun combat validé. Alphabet latin et ponctuation relus sur les tuiles résidentes du terrain, plan0 ; vérifier leur chargement en combat et traiter les accents avant approbation du codec. Obtenir un contexte de combat, vérifier police/variables/commandes/pagination, adapter464/465, puis autres tables, recherche exhaustive, relecture intégrale et audits hérités.",
+  "notes": "Huit textes statiques du pool natif de combat intégrés depuis les préparationsv057 ; zéro ajout au principal.107 préparations historiques,8 intégrées et99 encore non insérées. Le moteur, les600 autres messages du pool, les tables de noms et les6957 sélections principales restent inchangés. Le pool natif complet est relogé en ExHiROM et ses76 pointeurs sont mis à jour dans les deux copies.8 rendus diagnostiques grande fenêtre vérifiés ; pas de combat naturel déclaré.",
+  "next": "Reprendre la releasev0.57, pas la basev0.56 seule. Les huit IDs intégrés sont consignés dans dq6-fr/v0.57/revue-combat-v057.json ; ne pas les recompter.99 préparations restent en attente, dont2 réserves464/465. Traiter les accents et les variables natives, puis les497 messages hérités et les autres tables ; relecture exhaustive et audits naturels toujours ouverts. La police ASCII a été relue en terrain et les huit textes statiques ont été rendus via la véritable API native C02A29 dans un banc de camp. La boucle C02671 seule n’est pas un protocole valide.427/429 utilisent de façon attestée la grande API C02A16 ; la petite fenêtre de diagnostic ne les valide pas. Réserver aussi le pool natif déplacé lors de toute future allocation du script.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -86,26 +86,26 @@
     "physical_entries": 608,
     "aliases": 0,
     "structural_or_control_only": 4,
-    "own_identifier_placeholders": 107,
+    "own_identifier_placeholders": 99,
     "inherited_texts_not_context_reviewed": 497,
-    "project_french_context_reviewed": 0,
+    "project_french_context_reviewed": 8,
     "new_translations_this_audit": 0,
-    "inventory": "audits/ressources-v056.json",
+    "inventory": "dq6-fr/v0.57/inventaire-combat-v057.json",
     "not_in_main_6957": true,
-    "prepared_not_inserted": 107,
-    "semantic_reviewed_prepared": 105,
+    "prepared_not_inserted": 99,
+    "semantic_reviewed_prepared": 97,
     "semantic_reserve_ids": [
       464,
       465
     ],
-    "with_explicit_DS_references": 85,
-    "direct_SFC_without_established_DS": 22,
-    "new_integrated_this_checkpoint": 0,
-    "preparation": "preparations/combat-v057/prepares-non-inseres.json",
+    "with_explicit_DS_references": 80,
+    "direct_SFC_without_established_DS": 19,
+    "new_integrated_this_checkpoint": 8,
+    "preparation": "dq6-fr/v0.57/inventaire-combat-v057.json",
     "codec_approved": false,
-    "strict_candidate_roundtrip": 43,
+    "strict_candidate_roundtrip": 35,
     "codec_report": "tools/combat-v058/qa-codec.json",
-    "native_render_accepted": 0,
+    "native_render_accepted": 8,
     "native_reader_IDs_verified": 608,
     "native_reader_pointer_mutation_detected": true,
     "native_font_validated_prepared_count": 0,
@@ -115,7 +115,35 @@
     "native_font_audit": "tools/combat-v059/qa-font-scope.json",
     "native_465_binding": "tools/combat-v059/binding-465.json",
     "prepared_dependency_names": "preparations/combat-v060/nom-celeste.json",
-    "field_font_glyph_review": "tools/combat-v060/qa-resident-font.json"
+    "field_font_glyph_review": "tools/combat-v060/qa-resident-font.json",
+    "integrated_ids": [
+      51,
+      427,
+      429,
+      494,
+      519,
+      520,
+      536,
+      538
+    ],
+    "historical_preparation": "preparations/combat-v057/prepares-non-inseres.json",
+    "native_static_ascii_integrated_ids": [
+      51,
+      427,
+      429,
+      494,
+      519,
+      520,
+      536,
+      538
+    ],
+    "native_render_report": "dq6-fr/v0.57/qa-emulator.json",
+    "reserved_ROM_range": {
+      "offset": 8001024,
+      "size": 12022,
+      "groups": 76,
+      "messages": 608
+    }
   },
-  "checkpoint": "combat-v060"
+  "checkpoint": "combat-v061-insertion-v057"
 }

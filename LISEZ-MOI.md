@@ -1,3 +1,7 @@
+# Mise à jour v0.57
+
+Le patch courant est patches/DQVI-FR-DS-v0.57-BASE-JP-PARTIEL.bps, pour la JP intacte SHA25690ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e.8 textes statiques de combat sont intégrés et testés en diagnostic ;99 préparés restent en attente. Principal6957 sélections inchangé. Lire dq6-fr/v0.57/README.md pour les tests, limites et reconstruction. Le projet reste partiel. Les indications de versions antérieures ci-dessous sont historiques.
+
 ## Inventaire complémentaire après v0.56
 
 Le pool séparé de combat compte608 entrées physiques, sans alias :107 affichent leur propre identifiant,497 contiennent du texte hérité non relu en contexte et4 sont vides ou composées de commandes seules. Aucune de ces608 entrées n’est comptée dans les6957 du script principal. Aucune nouvelle traduction de combat n’est validée par cet audit. Lire audits/ressources-v056.json ; la langue des497 héritées reste à qualifier.

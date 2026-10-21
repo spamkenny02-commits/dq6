@@ -1,0 +1,58 @@
+[
+  {
+    "id": 51,
+    "french_plan": "{BC}Il n'y avait pas de monstres !{C2}{AC}",
+    "encoded_hex": "bc184d014f775a014257424a5501514254014546014e504f5455534654017ac2ac",
+    "previous_v056_sha256": "2b50b267a84b35553621ccfd3c2836e4108de91c211a73ffcd93bf7ab8a7a543",
+    "source_message_sha256": "c0eee7dcc4cd64ead77a3a3eb69c10c388cc7b7222b63801e2168414f5c63970"
+  },
+  {
+    "id": 427,
+    "french_plan": "{BC}Mais il n'y a plus de place dans le chariot{AD}ni chez Tulipe !{AF}{AC}",
+    "encoded_hex": "bc1c424a54014a4d014f775a014201514d565401454601514d4244460145424f54014d4601444942534a5055ad4f4a014449465b0123564d4a5146017aafac",
+    "previous_v056_sha256": "7c5cc30d3d5e6591c5fb3b007f99f1040360863b5de885da9a1cf40095b587b0",
+    "source_message_sha256": "2bb28360e2703966c5294461a8258347a6a0ff251d98509f837f4125be9b4d3f"
+  },
+  {
+    "id": 429,
+    "french_plan": "{BC}Mieux vaut ne pas renvoyer cette personne{AD}chez Tulipe pour le moment.{AF}{AC}",
+    "encoded_hex": "bc1c4a4656590157425655014f46015142540153464f57505a46530144465555460151465354504f4f46ad4449465b0123564d4a51460151505653014d46014e504e464f557fafac",
+    "previous_v056_sha256": "a2fb2ee1ea94fc29ff49334276c2ec17970ca3e54b1970f9d569286e1c1d8e86",
+    "source_message_sha256": "5d3964b9a9a5f7fefaff6fcef3ad563f5ba7098b80c47f43a4c8210f677f9595"
+  },
+  {
+    "id": 494,
+    "french_plan": "{BD}Mais impossible d'en trouver une !{B1}{AC}",
+    "encoded_hex": "bd1c424a54014a4e515054544a434d46014577464f015553505657465301564f46017ab1ac",
+    "previous_v056_sha256": "c82204742cc7c29d48b8904ce513139837d546b83c7862fa4a10f1e587a68861",
+    "source_message_sha256": "14292bda9193ab7fd42050d7317944fed8b58da494fbd94989e2d13e40a841eb"
+  },
+  {
+    "id": 519,
+    "french_plan": "Pile !{B1}{AC}",
+    "encoded_hex": "1f4a4d46017ab1ac",
+    "previous_v056_sha256": "15c41b78d4a571ba77493415404c4a21b5d58c96236bd493f1433f2ccccd195e",
+    "source_message_sha256": "3ca0d71b970931be1861297105e76c24104a553c6c5954ab0b4aa09e3eb2ff63"
+  },
+  {
+    "id": 520,
+    "french_plan": "Face !{B1}{AC}",
+    "encoded_hex": "15424446017ab1ac",
+    "previous_v056_sha256": "00565f2167f81cf706f6b22b0da60a4b48f7d2a5a3fa92d401a3ba560248aa0a",
+    "source_message_sha256": "d6dcc0029bdb944753770a83401928bf5503c3dd0ba8014ec6320e8fcda3e988"
+  },
+  {
+    "id": 536,
+    "french_plan": "Oh non ! Le feu se propage !{B1}{AD}{BC}Des colonnes de flammes envahissent les alentours !{B1}{AC}",
+    "encoded_hex": "1e49014f504f017a011b46014746560154460151535051424846017ab1adbc1346540144504d504f4f465401454601474d424e4e465401464f5742494a5454464f55014d465401424d464f5550565354017ab1ac",
+    "previous_v056_sha256": "b92689906ebc5bd1173f1024b798980b3d02a2806c234969127491c75ab784e8",
+    "source_message_sha256": "241d72f38fd20721e4d9f83439b5a3d96e68750f8363bab1b53b1c194f1f9b1b"
+  },
+  {
+    "id": 538,
+    "french_plan": "De violentes secousses font trembler le sol !{B1}{AC}",
+    "encoded_hex": "134601574a504d464f554654015446445056545446540147504f55015553464e434d4653014d460154504d017ab1ac",
+    "previous_v056_sha256": "fc9a2c6d3dcc880c677f9432c2d8d32736460c0f3257cbe7361466b04841341b",
+    "source_message_sha256": "97c24053f86d5ace688bd6b4593ed7dc9226280192b07124bad63b2389c90956"
+  }
+]

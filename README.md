@@ -1,9 +1,7 @@
-## Inventaire complémentaire après v0.56
-
-Le pool séparé de combat compte608 entrées physiques, sans alias :107 affichent leur propre identifiant,497 contiennent du texte hérité non relu en contexte et4 sont vides ou composées de commandes seules. Aucune de ces608 entrées n’est comptée dans les6957 du script principal. Aucune nouvelle traduction de combat n’est validée par cet audit. Lire audits/ressources-v056.json ; la langue des497 héritées reste à qualifier.
-
 # Dragon Quest VI — traduction française Super Famicom
 
-**v0.56 : les16 derniers textes du script principal sont intégrés.**6957/6957 entrées sélectionnées :6948 linguistiques et9 structurelles. Zéro texte principal restant. Tables, recherche des oublis, relecture exhaustive et audits naturels encore ouverts.
+**v0.57 : huit textes statiques du pool natif de combat intégrés.** Ils sont relus depuis la source et testés dans le lecteur natif sous Snes9x par redirections de diagnostic.99 préparations de combat restent non insérées ;497 textes hérités restent à qualifier et relire,4 entrées sont structurelles. Aucun combat naturel complet n’est déclaré.
 
-Patch dans patches/. Lire LISEZ-MOI.md et REPRISE-AUTOMATIQUE.md. Restaurer par python restore_sources.py. Aucune ROM ou sauvegarde publiée.
+Le script principal reste à6957 sélections :6948 linguistiques et9 structures. Les tables séparées ne sont pas incluses dans ce compte. Tables, recherche des oublis, relecture exhaustive et audits restent ouverts.
+
+[Patch BPS v0.57](patches/DQVI-FR-DS-v0.57-BASE-JP-PARTIEL.bps), à appliquer à la JP intacte vérifiée. [Recette, tests et limites](dq6-fr/v0.57/README.md). Lire REPRISE-AUTOMATIQUE.md et etat-projet.json ; restaurer par python restore_sources.py. Aucune ROM, SRAM ou sauvegarde d’émulateur publiée.

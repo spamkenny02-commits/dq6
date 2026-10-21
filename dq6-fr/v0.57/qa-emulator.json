@@ -1,0 +1,93 @@
+{
+  "release": "v0.57",
+  "ROM_sha256": "37c4f78da7aa8466fabe59f8a135818996108e6dd68833d81c5c6e37fb542208",
+  "diagnostic_only": true,
+  "natural_battle": false,
+  "native_API_initialization_fixed_in_fixture_only": true,
+  "production_engine_unchanged": true,
+  "large_window_API": "C02A29",
+  "large_window_full_text_visually_reviewed_ids": [
+    51,
+    427,
+    429,
+    494,
+    519,
+    520,
+    536,
+    538
+  ],
+  "compact_API": "C02A4F",
+  "compact_full_text_visually_reviewed_ids": [
+    51,
+    494,
+    519,
+    520,
+    536,
+    538
+  ],
+  "compact_not_validated_ids": [
+    427,
+    429
+  ],
+  "compact_reserve_explanation": "427/429 dépassent la petite fenêtre avec leurs AD ; leurs appels natifs retrouvés utilisent C02A16, équivalent de C02A29, pas C02A3C/4F. Aucune modification du moteur ou du texte pour imposer un mode non prévu.",
+  "actual_inline_callers": {
+    "51": "C2AD4A -> C02A16",
+    "427": "C2B3CA -> C02A16",
+    "429": "C2B477 -> C02A16"
+  },
+  "reviewed_pages": {
+    "51": [
+      2
+    ],
+    "427": [
+      2
+    ],
+    "429": [
+      2
+    ],
+    "494": [
+      2
+    ],
+    "519": [
+      2
+    ],
+    "520": [
+      2
+    ],
+    "536": [
+      2,
+      6
+    ],
+    "538": [
+      2
+    ]
+  },
+  "commands_observed": [
+    "BC",
+    "BD",
+    "B1",
+    "C2",
+    "AF",
+    "AD"
+  ],
+  "names_or_numbers_in_new_messages": false,
+  "all_8_API_calls_returned": true,
+  "pointer_test_messages": 608,
+  "deliberate_pointer_error_detected_id": 8,
+  "limits": [
+    "Redirections dans le camp, pas un combat joué naturellement.",
+    "Les messages à noms/nombres variables, accents et les deux réserves464/465 ne sont pas intégrés.",
+    "La petite fenêtre ne valide pas427/429 ; les appels source grande fenêtre sont conservés.",
+    "La relecture exhaustive du script principal et les audits hérités restent ouverts."
+  ],
+  "ROM_bus": {
+    "groups_checked": 871,
+    "bytes_checked": 498815,
+    "upper_groups": 375,
+    "all_rom_bus_reads_match": true
+  },
+  "cold_boot_menu_visually_checked": true,
+  "Journal_and_name_frame_visually_checked": true,
+  "cold_boot_menu_screenshot_sha256": "52fb1b4bfe419aad24adc931cece2186eb22549243ee19e124c35ff4ad373432",
+  "name_frame_screenshot_sha256": "bccd4bedcdb55d2ab9e6dd6a5d82112f1f7f1f6b9ae2a286111fe96baca93464"
+}

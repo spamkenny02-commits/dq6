@@ -1,0 +1,23 @@
+{
+  "release": "v0.57",
+  "format": "BPS",
+  "source_sha256": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e",
+  "target_sha256": "37c4f78da7aa8466fabe59f8a135818996108e6dd68833d81c5c6e37fb542208",
+  "target_bytes": 8388608,
+  "path": "patches/DQVI-FR-DS-v0.57-BASE-JP-PARTIEL.bps",
+  "patch_sha256": "a8b5b9af308cb18dbea9230a6f670854156e15c39628b8d3ddea8db1ed685c91",
+  "patch_bytes": 677434,
+  "native_battle_integrated_ids": [
+    51,
+    427,
+    429,
+    494,
+    519,
+    520,
+    536,
+    538
+  ],
+  "partial_project": true,
+  "ROM_included": false,
+  "IPS_local_rebuild_only": true
+}

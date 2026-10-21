@@ -1,0 +1,129 @@
+[
+  {
+    "id": 51,
+    "french_plan": "{BC}Il n'y avait pas de monstres !{C2}{AC}",
+    "source_message_sha256": "c0eee7dcc4cd64ead77a3a3eb69c10c388cc7b7222b63801e2168414f5c63970",
+    "ds_references": [],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "new_review": "Relu depuis JP et références DS disponibles ; pas de variable de nom/nombre. 494 se rattache à la recherche de fourmilière493. AD reste une disposition à tester ; contrôles BC/BD/AF/B1/C2 et AC natifs conservés.",
+    "preparation_origin": "combat-v057",
+    "status": "RELU_INTEGRE_DIAGNOSTIC_V057"
+  },
+  {
+    "id": 427,
+    "french_plan": "{BC}Mais il n'y a plus de place dans le chariot{AD}ni chez Tulipe !{AF}{AC}",
+    "source_message_sha256": "2bb28360e2703966c5294461a8258347a6a0ff251d98509f837f4125be9b4d3f",
+    "ds_references": [],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "new_review": "Relu depuis JP et références DS disponibles ; pas de variable de nom/nombre. 494 se rattache à la recherche de fourmilière493. AD reste une disposition à tester ; contrôles BC/BD/AF/B1/C2 et AC natifs conservés.",
+    "preparation_origin": "combat-v057",
+    "status": "RELU_INTEGRE_DIAGNOSTIC_V057"
+  },
+  {
+    "id": 429,
+    "french_plan": "{BC}Mieux vaut ne pas renvoyer cette personne{AD}chez Tulipe pour le moment.{AF}{AC}",
+    "source_message_sha256": "5d3964b9a9a5f7fefaff6fcef3ad563f5ba7098b80c47f43a4c8210f677f9595",
+    "ds_references": [],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "new_review": "Relu depuis JP et références DS disponibles ; pas de variable de nom/nombre. 494 se rattache à la recherche de fourmilière493. AD reste une disposition à tester ; contrôles BC/BD/AF/B1/C2 et AC natifs conservés.",
+    "preparation_origin": "combat-v057",
+    "status": "RELU_INTEGRE_DIAGNOSTIC_V057"
+  },
+  {
+    "id": 494,
+    "french_plan": "{BD}Mais impossible d'en trouver une !{B1}{AC}",
+    "source_message_sha256": "14292bda9193ab7fd42050d7317944fed8b58da494fbd94989e2d13e40a841eb",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 274,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "c635f54e2fcbdc8891a5a66e6c071f2fff1bde848fd8ea5caa7d423bae0dcbb5",
+        "fr_text_sha256": "df8c08611d0cbf7c2112f09429881c04ca3c5e70ade416e3ae0f48ace41fc6fc"
+      }
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "new_review": "Relu depuis JP et références DS disponibles ; pas de variable de nom/nombre. 494 se rattache à la recherche de fourmilière493. AD reste une disposition à tester ; contrôles BC/BD/AF/B1/C2 et AC natifs conservés.",
+    "preparation_origin": "combat-v057",
+    "status": "RELU_INTEGRE_DIAGNOSTIC_V057"
+  },
+  {
+    "id": 519,
+    "french_plan": "Pile !{B1}{AC}",
+    "source_message_sha256": "3ca0d71b970931be1861297105e76c24104a553c6c5954ab0b4aa09e3eb2ff63",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 343,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "fd60b9b04a634718b6d001a0057f221b2f483b184aa6dac207e7081da3a25e43",
+        "fr_text_sha256": "6ca3138fd24e05a9e4ff23cd6ac5f9ddd15950004246d2950722c31fd926a5f1"
+      }
+    ],
+    "review": "Pile selon DS0802:343, convention de localisation relue, pas une déduction omote/ura.",
+    "new_review": "Relu depuis JP et références DS disponibles ; pas de variable de nom/nombre. 494 se rattache à la recherche de fourmilière493. AD reste une disposition à tester ; contrôles BC/BD/AF/B1/C2 et AC natifs conservés.",
+    "preparation_origin": "combat-v057",
+    "status": "RELU_INTEGRE_DIAGNOSTIC_V057"
+  },
+  {
+    "id": 520,
+    "french_plan": "Face !{B1}{AC}",
+    "source_message_sha256": "d6dcc0029bdb944753770a83401928bf5503c3dd0ba8014ec6320e8fcda3e988",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 346,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "0b1e40d1f1bba0625e59c91bdb2a2b7cc35c0d6b28576d4cca1977b30b453eee",
+        "fr_text_sha256": "5fe63dd59c5e373af63094873263fc4031719b0a7b982e3286f822aa1b59414f"
+      }
+    ],
+    "review": "Face selon DS0802:346 ; cohérent avec519 et la convention officielle DS.",
+    "new_review": "Relu depuis JP et références DS disponibles ; pas de variable de nom/nombre. 494 se rattache à la recherche de fourmilière493. AD reste une disposition à tester ; contrôles BC/BD/AF/B1/C2 et AC natifs conservés.",
+    "preparation_origin": "combat-v057",
+    "status": "RELU_INTEGRE_DIAGNOSTIC_V057"
+  },
+  {
+    "id": 536,
+    "french_plan": "Oh non ! Le feu se propage !{B1}{AD}{BC}Des colonnes de flammes envahissent les alentours !{B1}{AC}",
+    "source_message_sha256": "241d72f38fd20721e4d9f83439b5a3d96e68750f8363bab1b53b1c194f1f9b1b",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 392,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "7fa111ee1ab53646f1a58e03de3515be0e30a9d6dc55a8dc023a54cdf5c2cea1",
+        "fr_text_sha256": "92096c69d8738937643db6553ceccd288d466e9b3ec5403ba6d60f1c546405a5"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 393,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "06d92e6f6029447d4c6ac401a07514fbf7827ebd4f5f9cd010d337db3986b164",
+        "fr_text_sha256": "891aab9ea5e19f9c20d7d4576ba0c078f0bac87b7537005f109f93875adc66df"
+      }
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "new_review": "Relu depuis JP et références DS disponibles ; pas de variable de nom/nombre. 494 se rattache à la recherche de fourmilière493. AD reste une disposition à tester ; contrôles BC/BD/AF/B1/C2 et AC natifs conservés.",
+    "preparation_origin": "combat-v057",
+    "status": "RELU_INTEGRE_DIAGNOSTIC_V057"
+  },
+  {
+    "id": 538,
+    "french_plan": "De violentes secousses font trembler le sol !{B1}{AC}",
+    "source_message_sha256": "97c24053f86d5ace688bd6b4593ed7dc9226280192b07124bad63b2389c90956",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 399,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "dfba90bdbb182b7ba3abf29a864a8dc33fb631714b0609a2b7ba19f80dc509a8",
+        "fr_text_sha256": "1a1cf4a4947fb571d7b73933c963528e9b640bf89987ab6b6bb7e3f5e5ee876b"
+      }
+    ],
+    "review": "Le japonais SFC décrit des secousses, pas nécessairement les fissures ajoutées dans le français DS.",
+    "new_review": "Relu depuis JP et références DS disponibles ; pas de variable de nom/nombre. 494 se rattache à la recherche de fourmilière493. AD reste une disposition à tester ; contrôles BC/BD/AF/B1/C2 et AC natifs conservés.",
+    "preparation_origin": "combat-v057",
+    "status": "RELU_INTEGRE_DIAGNOSTIC_V057"
+  }
+]

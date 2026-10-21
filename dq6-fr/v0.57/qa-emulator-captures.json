@@ -1,0 +1,546 @@
+{
+  "release": "v0.57",
+  "production_ROM_sha256": "37c4f78da7aa8466fabe59f8a135818996108e6dd68833d81c5c6e37fb542208",
+  "native_API": "C02A29",
+  "native_loader_unmodified": true,
+  "diagnostic_main_entry_redirect": true,
+  "natural_battle": false,
+  "results": [
+    {
+      "id": 51,
+      "fixture_sha256": "dc07488fd78c6fddc6561a3fe2af3d6ce599245f70663f6de4a4218c090ed537",
+      "captures": [
+        {
+          "step": 0,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 51,
+          "API_returned": false
+        },
+        {
+          "step": 1,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 51,
+          "API_returned": false
+        },
+        {
+          "step": 2,
+          "screenshot_sha256": "00b29ca09d247a74d5589ae9d05fe4d9dfba786be41a37a7ca492d38ccf04994",
+          "message_id": 51,
+          "API_returned": false
+        },
+        {
+          "step": 3,
+          "screenshot_sha256": "b416ca8ed53973527a9780a99cacd6de1e7fb7d54587d24f02bd366271b68f96",
+          "message_id": 51,
+          "API_returned": false
+        },
+        {
+          "step": 4,
+          "screenshot_sha256": "00b29ca09d247a74d5589ae9d05fe4d9dfba786be41a37a7ca492d38ccf04994",
+          "message_id": 51,
+          "API_returned": false
+        },
+        {
+          "step": 5,
+          "screenshot_sha256": "12e14b18893717c5eb812d50e8c66b38b8fcaed10d36c4457e08a04ce3e53a3a",
+          "message_id": 51,
+          "API_returned": false
+        },
+        {
+          "step": 6,
+          "screenshot_sha256": "cb9281ddb679d4cbcfb7f9a7ad048119a7cb998e90dbbfcb62e87f2443bb457d",
+          "message_id": 51,
+          "API_returned": false
+        },
+        {
+          "step": 7,
+          "screenshot_sha256": "11abd0273871f02cbdbd1369516da7c9fe196ca0b34251c216aefa6c0edf201c",
+          "message_id": 51,
+          "API_returned": false
+        },
+        {
+          "step": 8,
+          "screenshot_sha256": "11abd0273871f02cbdbd1369516da7c9fe196ca0b34251c216aefa6c0edf201c",
+          "message_id": 51,
+          "API_returned": true
+        },
+        {
+          "step": 9,
+          "screenshot_sha256": "11abd0273871f02cbdbd1369516da7c9fe196ca0b34251c216aefa6c0edf201c",
+          "message_id": 51,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 427,
+      "fixture_sha256": "a2ab2e01e0717292245aed1fbe947660ee8130c3424bbeb0cdaf0b23a3f527a4",
+      "captures": [
+        {
+          "step": 0,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 427,
+          "API_returned": false
+        },
+        {
+          "step": 1,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 427,
+          "API_returned": false
+        },
+        {
+          "step": 2,
+          "screenshot_sha256": "75632c1488a0474b7d452a86d0323e033398546a4c2436ac540d1d911650f70b",
+          "message_id": 427,
+          "API_returned": false
+        },
+        {
+          "step": 3,
+          "screenshot_sha256": "7a3992c64b7fb6a6e9e39eada216a69cf7d52e992d3fe8a5dbe699b83a1ef936",
+          "message_id": 427,
+          "API_returned": false
+        },
+        {
+          "step": 4,
+          "screenshot_sha256": "8ba88838caa38c2fb76a9620abb7f86797bd896a57c21487f1744291aa4de2c7",
+          "message_id": 427,
+          "API_returned": false
+        },
+        {
+          "step": 5,
+          "screenshot_sha256": "d17dc5a270c56eef9a2f510a8ecf4e50ad436f1d84bb57a24a8853b27cd6a458",
+          "message_id": 427,
+          "API_returned": false
+        },
+        {
+          "step": 6,
+          "screenshot_sha256": "0571f3c15910d017ad8b91384e18882911f9d995e946d7395cd3fe49afc7ad83",
+          "message_id": 427,
+          "API_returned": false
+        },
+        {
+          "step": 7,
+          "screenshot_sha256": "a7c82d52bb3480dbc227f69d48c6b661c1bb465ea3373dd3851a225b917e024d",
+          "message_id": 427,
+          "API_returned": false
+        },
+        {
+          "step": 8,
+          "screenshot_sha256": "a7c82d52bb3480dbc227f69d48c6b661c1bb465ea3373dd3851a225b917e024d",
+          "message_id": 427,
+          "API_returned": true
+        },
+        {
+          "step": 9,
+          "screenshot_sha256": "a7c82d52bb3480dbc227f69d48c6b661c1bb465ea3373dd3851a225b917e024d",
+          "message_id": 427,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 429,
+      "fixture_sha256": "857b96035f0f132edae9239eb9fcc84e5f7bc213d7610002ebd86e73e1424d5c",
+      "captures": [
+        {
+          "step": 0,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 429,
+          "API_returned": false
+        },
+        {
+          "step": 1,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 429,
+          "API_returned": false
+        },
+        {
+          "step": 2,
+          "screenshot_sha256": "c62699c96e8530b6fbc9a721a0cf99a22ed828ab91a3b40b9cc3f0821ccdc4cd",
+          "message_id": 429,
+          "API_returned": false
+        },
+        {
+          "step": 3,
+          "screenshot_sha256": "f880ce4e1b6eef928c241613a65f2496a788292c08f98c24f23043246b18a2ad",
+          "message_id": 429,
+          "API_returned": false
+        },
+        {
+          "step": 4,
+          "screenshot_sha256": "6503418f8806155cbbf09bb7244e7d51cccd87a26a047060637fa0812da29aca",
+          "message_id": 429,
+          "API_returned": false
+        },
+        {
+          "step": 5,
+          "screenshot_sha256": "0b97f5488678ffa8d096859c81a6b72069a66f49f76ca3221db88a1ea59ad7f0",
+          "message_id": 429,
+          "API_returned": false
+        },
+        {
+          "step": 6,
+          "screenshot_sha256": "72187e589fc85d53cdbfbf35a0b7ab68e3e39aa2fd7c63eef56f29235f000e69",
+          "message_id": 429,
+          "API_returned": false
+        },
+        {
+          "step": 7,
+          "screenshot_sha256": "4e25412cdd166bb3307451a3523cf3d41b99704b87db475423b895c043795313",
+          "message_id": 429,
+          "API_returned": false
+        },
+        {
+          "step": 8,
+          "screenshot_sha256": "bb0d2d66a95df2d2f91ebd3797b0393cef63bc224ce91fd173baf53c9b533ee4",
+          "message_id": 429,
+          "API_returned": true
+        },
+        {
+          "step": 9,
+          "screenshot_sha256": "bb0d2d66a95df2d2f91ebd3797b0393cef63bc224ce91fd173baf53c9b533ee4",
+          "message_id": 429,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 494,
+      "fixture_sha256": "4dacef55e7a7976ac64fd7d1acb141ee56c33d2c6de7abe0fbb6e4334515ae1c",
+      "captures": [
+        {
+          "step": 0,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 494,
+          "API_returned": false
+        },
+        {
+          "step": 1,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 494,
+          "API_returned": false
+        },
+        {
+          "step": 2,
+          "screenshot_sha256": "e9847d06854ca0df8cf510b3a5a5160d8b56e6e4ead4b0533976e1f6b1cd25f5",
+          "message_id": 494,
+          "API_returned": false
+        },
+        {
+          "step": 3,
+          "screenshot_sha256": "0ea5866f55af1b51400514e4b86d832fe12c35bb4083c426b8ff979df5a7ce19",
+          "message_id": 494,
+          "API_returned": false
+        },
+        {
+          "step": 4,
+          "screenshot_sha256": "e9847d06854ca0df8cf510b3a5a5160d8b56e6e4ead4b0533976e1f6b1cd25f5",
+          "message_id": 494,
+          "API_returned": false
+        },
+        {
+          "step": 5,
+          "screenshot_sha256": "f9cefd437a0a6746d94a7ec1ebc0e6491603fa0551d846365db55af31ac1368a",
+          "message_id": 494,
+          "API_returned": true
+        },
+        {
+          "step": 6,
+          "screenshot_sha256": "f9cefd437a0a6746d94a7ec1ebc0e6491603fa0551d846365db55af31ac1368a",
+          "message_id": 494,
+          "API_returned": true
+        },
+        {
+          "step": 7,
+          "screenshot_sha256": "f9cefd437a0a6746d94a7ec1ebc0e6491603fa0551d846365db55af31ac1368a",
+          "message_id": 494,
+          "API_returned": true
+        },
+        {
+          "step": 8,
+          "screenshot_sha256": "f9cefd437a0a6746d94a7ec1ebc0e6491603fa0551d846365db55af31ac1368a",
+          "message_id": 494,
+          "API_returned": true
+        },
+        {
+          "step": 9,
+          "screenshot_sha256": "f9cefd437a0a6746d94a7ec1ebc0e6491603fa0551d846365db55af31ac1368a",
+          "message_id": 494,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 519,
+      "fixture_sha256": "0188ba69f1abe45d5f16c5f29048d77695cb6cf9da6408c54677f47bf6fb7daa",
+      "captures": [
+        {
+          "step": 0,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 519,
+          "API_returned": false
+        },
+        {
+          "step": 1,
+          "screenshot_sha256": "b88c22e9e39bb8f7e9284b93007bb141120640f9fdb3f56247a33f382f1cf365",
+          "message_id": 519,
+          "API_returned": false
+        },
+        {
+          "step": 2,
+          "screenshot_sha256": "34b70445bbf15d051ec91d51523c00c4c98803bd676f7c112493ed8fc05d8ca1",
+          "message_id": 519,
+          "API_returned": false
+        },
+        {
+          "step": 3,
+          "screenshot_sha256": "33af3cd8d19a552feedb17d2168defbb899399a30873ae7e92e74b71b9241ca3",
+          "message_id": 519,
+          "API_returned": false
+        },
+        {
+          "step": 4,
+          "screenshot_sha256": "34b70445bbf15d051ec91d51523c00c4c98803bd676f7c112493ed8fc05d8ca1",
+          "message_id": 519,
+          "API_returned": false
+        },
+        {
+          "step": 5,
+          "screenshot_sha256": "bdb64a10d2390342cbf78b849e7b772edb5466b3c2001fbc3efc08321fcc165e",
+          "message_id": 519,
+          "API_returned": true
+        },
+        {
+          "step": 6,
+          "screenshot_sha256": "bdb64a10d2390342cbf78b849e7b772edb5466b3c2001fbc3efc08321fcc165e",
+          "message_id": 519,
+          "API_returned": true
+        },
+        {
+          "step": 7,
+          "screenshot_sha256": "bdb64a10d2390342cbf78b849e7b772edb5466b3c2001fbc3efc08321fcc165e",
+          "message_id": 519,
+          "API_returned": true
+        },
+        {
+          "step": 8,
+          "screenshot_sha256": "bdb64a10d2390342cbf78b849e7b772edb5466b3c2001fbc3efc08321fcc165e",
+          "message_id": 519,
+          "API_returned": true
+        },
+        {
+          "step": 9,
+          "screenshot_sha256": "bdb64a10d2390342cbf78b849e7b772edb5466b3c2001fbc3efc08321fcc165e",
+          "message_id": 519,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 520,
+      "fixture_sha256": "22356c9a50a1b06ed5363d3fe34176c625d97c486d648e8fe35c8de6752a8049",
+      "captures": [
+        {
+          "step": 0,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 520,
+          "API_returned": false
+        },
+        {
+          "step": 1,
+          "screenshot_sha256": "04fd4082703471cee5b4f0700c19b7f6cbf5a614efa6c8c936c29f94e5ff4ac1",
+          "message_id": 520,
+          "API_returned": false
+        },
+        {
+          "step": 2,
+          "screenshot_sha256": "e5affda8cc23d2be7f2212c57989f420ad3379f7bb1a7c1c92facf46c099a94b",
+          "message_id": 520,
+          "API_returned": false
+        },
+        {
+          "step": 3,
+          "screenshot_sha256": "0bedca0a2ac81fbaf82a1fae289df44fa44efa2db461e71444c0d3f5faf136e1",
+          "message_id": 520,
+          "API_returned": false
+        },
+        {
+          "step": 4,
+          "screenshot_sha256": "e5affda8cc23d2be7f2212c57989f420ad3379f7bb1a7c1c92facf46c099a94b",
+          "message_id": 520,
+          "API_returned": false
+        },
+        {
+          "step": 5,
+          "screenshot_sha256": "28f0c674328ca7eeb39a535b1b4bd3b29d5b9e7202e38bb768a5b51540109c27",
+          "message_id": 520,
+          "API_returned": true
+        },
+        {
+          "step": 6,
+          "screenshot_sha256": "28f0c674328ca7eeb39a535b1b4bd3b29d5b9e7202e38bb768a5b51540109c27",
+          "message_id": 520,
+          "API_returned": true
+        },
+        {
+          "step": 7,
+          "screenshot_sha256": "28f0c674328ca7eeb39a535b1b4bd3b29d5b9e7202e38bb768a5b51540109c27",
+          "message_id": 520,
+          "API_returned": true
+        },
+        {
+          "step": 8,
+          "screenshot_sha256": "28f0c674328ca7eeb39a535b1b4bd3b29d5b9e7202e38bb768a5b51540109c27",
+          "message_id": 520,
+          "API_returned": true
+        },
+        {
+          "step": 9,
+          "screenshot_sha256": "28f0c674328ca7eeb39a535b1b4bd3b29d5b9e7202e38bb768a5b51540109c27",
+          "message_id": 520,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 536,
+      "fixture_sha256": "78988e44126345735dabd99aaee465b1f1f7dca2afe3ab5999122e598ec76653",
+      "captures": [
+        {
+          "step": 0,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 536,
+          "API_returned": false
+        },
+        {
+          "step": 1,
+          "screenshot_sha256": "29750faec4003071a5f61e4a58848b3979c643850813daf47ea3dc8622be193f",
+          "message_id": 536,
+          "API_returned": false
+        },
+        {
+          "step": 2,
+          "screenshot_sha256": "03e9f2886936d15bd9f4ddb9553671c98302b588bfa376aae4fecd06856f7c66",
+          "message_id": 536,
+          "API_returned": false
+        },
+        {
+          "step": 3,
+          "screenshot_sha256": "3afa85c81784fe410411e1fcfdb1d6a65a0855438455bd4e82611be6b6a3323c",
+          "message_id": 536,
+          "API_returned": false
+        },
+        {
+          "step": 4,
+          "screenshot_sha256": "03e9f2886936d15bd9f4ddb9553671c98302b588bfa376aae4fecd06856f7c66",
+          "message_id": 536,
+          "API_returned": false
+        },
+        {
+          "step": 5,
+          "screenshot_sha256": "37b0be7b9eff720593eadc7f938f182b8933e695c9c8b9a6aefdb23740a23282",
+          "message_id": 536,
+          "API_returned": false
+        },
+        {
+          "step": 6,
+          "screenshot_sha256": "ef3e8ac02cedeb74c623e4e3029bae203bf2367f46a72b0fc527f9b95b69ad62",
+          "message_id": 536,
+          "API_returned": true
+        },
+        {
+          "step": 7,
+          "screenshot_sha256": "ef3e8ac02cedeb74c623e4e3029bae203bf2367f46a72b0fc527f9b95b69ad62",
+          "message_id": 536,
+          "API_returned": true
+        },
+        {
+          "step": 8,
+          "screenshot_sha256": "ef3e8ac02cedeb74c623e4e3029bae203bf2367f46a72b0fc527f9b95b69ad62",
+          "message_id": 536,
+          "API_returned": true
+        },
+        {
+          "step": 9,
+          "screenshot_sha256": "ef3e8ac02cedeb74c623e4e3029bae203bf2367f46a72b0fc527f9b95b69ad62",
+          "message_id": 536,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 538,
+      "fixture_sha256": "b73358e694b9e2f4969dd36b1ca2a2865efc8dc0462e7d0b49c5453d51c08862",
+      "captures": [
+        {
+          "step": 0,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 538,
+          "API_returned": false
+        },
+        {
+          "step": 1,
+          "screenshot_sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef",
+          "message_id": 538,
+          "API_returned": false
+        },
+        {
+          "step": 2,
+          "screenshot_sha256": "27fd606fd79af436d5ab49edf88487970576dce3ca71601efec3363020eb6d75",
+          "message_id": 538,
+          "API_returned": false
+        },
+        {
+          "step": 3,
+          "screenshot_sha256": "f0d4af3076fe47a4bcf2a705a8f81fc14612608273d39a6ba267303529331236",
+          "message_id": 538,
+          "API_returned": false
+        },
+        {
+          "step": 4,
+          "screenshot_sha256": "27fd606fd79af436d5ab49edf88487970576dce3ca71601efec3363020eb6d75",
+          "message_id": 538,
+          "API_returned": false
+        },
+        {
+          "step": 5,
+          "screenshot_sha256": "b20d129a1f5e85064e7158f1194d4079a6a8cb7e1a3445831c1ef3cbd2ca462a",
+          "message_id": 538,
+          "API_returned": true
+        },
+        {
+          "step": 6,
+          "screenshot_sha256": "b20d129a1f5e85064e7158f1194d4079a6a8cb7e1a3445831c1ef3cbd2ca462a",
+          "message_id": 538,
+          "API_returned": true
+        },
+        {
+          "step": 7,
+          "screenshot_sha256": "b20d129a1f5e85064e7158f1194d4079a6a8cb7e1a3445831c1ef3cbd2ca462a",
+          "message_id": 538,
+          "API_returned": true
+        },
+        {
+          "step": 8,
+          "screenshot_sha256": "b20d129a1f5e85064e7158f1194d4079a6a8cb7e1a3445831c1ef3cbd2ca462a",
+          "message_id": 538,
+          "API_returned": true
+        },
+        {
+          "step": 9,
+          "screenshot_sha256": "b20d129a1f5e85064e7158f1194d4079a6a8cb7e1a3445831c1ef3cbd2ca462a",
+          "message_id": 538,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    }
+  ]
+}

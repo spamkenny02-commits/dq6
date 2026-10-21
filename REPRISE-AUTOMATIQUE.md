@@ -1,3 +1,9 @@
+# Reprise v0.57 — huit textes natifs de combat intégrés
+
+Reprendre v0.57 :8 textes statiques intégrés (51,427,429,494,519,520,536,538),99 préparés encore non insérés et497 hérités non validés ;4 structures hors traduction. Principal6957 sélections inchangé, tables de noms inchangées. Lire dq6-fr/v0.57/README.md, inventaire-combat-v057.json et les rapports. prepare.py/build.py/verify.py reconstruisent depuis JP intacte plus le BPS v0.56 vérifié ; les fichiers v0.57 sont suivis directement. Le BPS v0.57 s’applique à la JP intacte. Pool natif déplacé : réserver aussi ce nouveau segment dans toute allocation future du principal. Ne pas recycler les huit IDs comme nouvelle revue.
+
+Les608 pointeurs et premiers octets natifs passent sous Snes9x ; huit textes sont relus à l’écran par l’API C02A29, aucun combat naturel déclaré. BC/BD/B1/C2/AF/AD sont conservés. Pour427/429, les appels source C02A16 confirment la grande fenêtre ; les tests petite fenêtre ne les valident pas. La correction de protocole est dans les ROM privées de diagnostic seulement, pas dans le moteur de production. Accents, noms variables, réserves464/465, autres tables, relecture exhaustive et audits hérités restent ouverts.8 Mio conservés.
+
 # Reprise combat-v060 — Céleste préparée, aucune insertion
 
 Un nouveau nom SID0369/Céleste préparé depuis trois références DS vérifiées, alias physique contrôlé.107 textes de combat inchangés et non insérés. Parcours depuis le camp vers le château consigné en entrées de manette ; aucun combat validé. Alphabet latin et ponctuation relus sur la police résidente de terrain, plan0 ; chargement/rendu en combat et accents toujours non approuvés. Lire tools/combat-v060/README.md. ROM/patch restent v0.56, principal6957 sélections dont9 structures ; autres tables, relecture complète et audits ouverts.
