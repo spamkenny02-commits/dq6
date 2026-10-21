@@ -1,0 +1,31 @@
+{
+  "published_commit": "bb0f6f6cb4797060f6b77966e99d96a2c27b32b4",
+  "restored_from_fresh_git_archive": true,
+  "restore_sources_exit_code": 0,
+  "prepare_build_verify_exit_codes": [
+    0,
+    0,
+    0
+  ],
+  "all_published_manifest_hashes_match_before_and_after_rebuild": true,
+  "ROM_sha256": "37c4f78da7aa8466fabe59f8a135818996108e6dd68833d81c5c6e37fb542208",
+  "BPS_sha256": "a8b5b9af308cb18dbea9230a6f670854156e15c39628b8d3ddea8db1ed685c91",
+  "IPS_sha256": "b03d6434da3d0939bca5125a3b446d7c419e72ea7446c86505b5e721f38c6c55",
+  "new_battle_ids": [
+    51,
+    427,
+    429,
+    494,
+    519,
+    520,
+    536,
+    538
+  ],
+  "new_battle_integrated": 8,
+  "remaining_prepared": 99,
+  "main_selections_unchanged": 6957,
+  "natural_battle": false,
+  "ROM_or_state_published": false,
+  "native_reader_reexecuted_from_published_sources": true,
+  "native_reader_IDs_verified": 608
+}
