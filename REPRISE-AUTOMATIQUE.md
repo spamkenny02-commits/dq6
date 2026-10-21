@@ -1,3 +1,7 @@
+# Reprise combat-v059 — lecteur natif, aucune insertion
+
+Lecteur natif vérifié sous Snes9x pour608 IDs, mutation de pointeur détectée.107 préparés restent non insérés. Le modèlev058 repose sur la table Huffman : ses43 allers-retours/64 caractères manquants ne prouvent pas la police native. Relever la police en combat et établir B2 de465 avant codec/insertion. Archive privée d’états sauvegardée dans cette conversation mais non récupérée après réinitialisation ; aucun état de combat validé. Puis497 hérités, autres tables, relecture et audits naturels. Lire tools/combat-v059/README.md et les rapports. Le patch restev0.56. Aucun fichier ROM, SRAM ou état ne doit être publié sur Git.
+
 # Reprise combat-v058-codec — aucune insertion
 
 Combat :43 candidats encodables strictement,64 bloqués par accents absents ;107 préparés toujours non insérés. Essai de rendu camp rejeté : obtenir un contexte de combat/fenêtre naturel. Alphabet byte à étendre avec preuve globale ou maintenir le blocage. Réserves464/465 et497 hérités toujours ouverts ; autres tables, relecture exhaustive et audits naturels ensuite. Lire tools/combat-v058/README.md et les deux rapports QA. Le patch reste v0.56. Ne pas convertir un aller-retour de codec ni un ID en RAM en validation visuelle. Le test camp natif échoue à afficher une fenêtre lisible et reste explicitement rejeté. Les préparationsv057 restent inchangées.

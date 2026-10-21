@@ -1,0 +1,21 @@
+{
+  "checkpoint": "combat-v059",
+  "baseline_sha256": "e14ebc5611642b229edd3e7becae27813c823ef8182e2d06058953d593f2375d",
+  "native_tile_writer": "C029B0",
+  "native_tile_expression": "0x1000 | (0x300 + ordinary_byte)",
+  "native_tile_writer_block_sha256": "50abd5000173ba4c2530023267ab1cfa3a7413e5a60a03db8a8d6b8b7d4315c7",
+  "Huffman_glyph_lookup": "C11100 through C02C28",
+  "native_uses_Huffman_glyph_lookup": false,
+  "prior_43_roundtrips_scope": "Algebraic candidates under a Huffman-derived map; no native visual approval.",
+  "prior_64_accents_scope": "Absent from that candidate map; absence in the native tile font is not established.",
+  "prepared_total": 107,
+  "semantic_reviewed": 105,
+  "semantic_reserve_ids": [
+    464,
+    465
+  ],
+  "native_font_validated_prepared_count": 0,
+  "new_inserted": 0,
+  "main_script_selected": 6957,
+  "full_main_reread_progress": 0
+}
