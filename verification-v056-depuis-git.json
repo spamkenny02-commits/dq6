@@ -1,0 +1,32 @@
+{
+  "version": "v0.56",
+  "commit": "c04ad91728580dfda8feb5a055fb451c298dfb2b",
+  "tree": "f6080e1392c25294c96cce308a87b3180e24df01",
+  "publisher_expected_tree_matched": true,
+  "manifest_files_verified": 50,
+  "all_manifest_hashes_match": true,
+  "published_restore_sources_passed": true,
+  "published_exact_baseline_revisions_applied": true,
+  "fresh_init_prepare_build_verify_passed": true,
+  "selection_sha256": "74b00af854dbd2a6c2f58fc892bec8f7084b520ef1f618b714c4cebfe75b88a3",
+  "result_sha256": "e14ebc5611642b229edd3e7becae27813c823ef8182e2d06058953d593f2375d",
+  "published_BPS_reapplied_to_intact_JP": true,
+  "patch_sha256": "06141043ee7b5e5dcc46adf31e97d3005a8d6e288258b5bb812c8f652aa19bcc",
+  "new_texts_in_release": 16,
+  "selected": 6957,
+  "linguistic_selected": 6948,
+  "structural_selected": 9,
+  "remaining_main": 0,
+  "prepared_main_non_inserted": 0,
+  "isolated_existing_revisions": [
+    5698,
+    5699,
+    5700
+  ],
+  "prior_release_QA": {
+    "visual_text_captures_reviewed": 111,
+    "native_helper_units": 6,
+    "source": "Published v0.56 QA and actual previous tool executions; not new captures in this restoration run."
+  },
+  "limits": "Main script translated; tables, exhaustive resource search, full proofreading and natural scene audits remain open. Explicit6956 termination repair does not claim an original source AC. No ROM, SRAM or emulator state published."
+}

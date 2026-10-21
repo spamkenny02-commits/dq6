@@ -1,3 +1,7 @@
+## Inventaire complémentaire après v0.56
+
+Le pool séparé de combat compte608 entrées physiques, sans alias :107 affichent leur propre identifiant,497 contiennent du texte hérité non relu en contexte et4 sont vides ou composées de commandes seules. Aucune de ces608 entrées n’est comptée dans les6957 du script principal. Aucune nouvelle traduction de combat n’est validée par cet audit. Lire audits/ressources-v056.json ; la langue des497 héritées reste à qualifier.
+
 # DQVI FR v0.56 — script principal traduit, projet partiel
 
 Les16 derniers textes sont intégrés :6957/6957 sélections, dont6948 entrées linguistiques et9 structurelles sans texte à traduire. Zéro texte principal préparé non inséré ou différé. Trois corrections d’anciennes sélections sont isolées :5698/5699/5700. Ce jalon ne signifie pas que les tables, la relecture exhaustive ou les scènes naturelles sont finalisées. ROM8 Mio conservée.

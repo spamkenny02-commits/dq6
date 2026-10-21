@@ -1,3 +1,7 @@
+# Reprise après inventaire du combat — v0.56
+
+Script principal terminé : ne pas rejouer le lot16. Priorité au pool séparé de combat608 entrées (107 identifiants sans texte,497 héritées non relues,4 structurelles), avec japonais/DS/contexte. Puis compléter noms/menus/objets/sorts/classes et recherche des autres ressources, relecture exhaustive et audits naturels. Zéro français validé pour le pool combat par ce seul inventaire. La preuve verification-v056-depuis-git.json vérifie une restauration neuve et les patchs du commit c04ad91728580dfda8feb5a055fb451c298dfb2b. Les rapports du lot attestent les anciens tests Snes9x ; ne pas les prendre pour des tests nouvellement exécutés dans le contrôle de restauration. L’audit de ressources reste incomplet hors des trois pools identifiés.
+
 # Reprise v0.56 — passer aux tables et à la relecture
 
 16 derniers textes intégrés. Script principal6957 sélections dont6948 entrées linguistiques et9 structurelles ; zéro texte principal en attente. Trois corrections isolées de disposition équipement et réparation de frontière6956 explicites. Tests diagnostiques réussis, scènes naturelles encore ouvertes. Passer à la recherche exhaustive des ressources oubliées et aux tables séparées, puis relecture intégrale suivie par IDs. Terminer les audits naturels ; ne pas déclarer le projet finalisé. Ne pas recycler la revue v0.56. Restaurer toutes les versions, y compris replacements_file v0.56. Garder la distinction entre traduction complète du script et finalisation du projet.
