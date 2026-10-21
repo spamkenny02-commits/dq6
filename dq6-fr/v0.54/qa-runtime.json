@@ -1,0 +1,257 @@
+{
+  "result_sha256": "26893e6fd8332685f16e920f45e4020e34025218d15ff366a6374f881e294ee3",
+  "boot_output": "{\"groups_checked\": 890, \"bytes_checked\": 528850, \"upper_groups\": 385, \"all_rom_bus_reads_match\": true}\n{\"pixel_format\": 2, \"screenshot\": \"v054-boot\", \"message_id\": 55768, \"frame_mean\": 15.146670386904763}\nMap_ExtendedHiROMMap\n",
+  "boot_screenshot": "screenshots/v054-boot.png",
+  "boot_screenshot_sha256": "52fb1b4bfe419aad24adc931cece2186eb22549243ee19e124c35ff4ad373432",
+  "probes": [
+    {
+      "id": 3727,
+      "kind": "E0-count1",
+      "page": 1,
+      "screenshot": "screenshots/v054-E0-count1-3727-page1.png",
+      "sha256": "5d8e44ff934688c22cc6121ec7585e2fe2c99131488c4171f6a7f9855f9be5ba",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-E0-count1-3727-page1\", \"message_id\": 100, \"frame_mean\": 45.712791806175595}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 130,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    },
+    {
+      "id": 3727,
+      "kind": "E0-count1",
+      "page": 2,
+      "screenshot": "screenshots/v054-E0-count1-3727-page2.png",
+      "sha256": "32bba8b7646a03fd4c32fa08bae7dc8fe7b4619bea3cc878d973c476c0546ae2",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-E0-count1-3727-page2\", \"message_id\": 100, \"frame_mean\": 52.17109607514881}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 16,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    },
+    {
+      "id": 3727,
+      "kind": "E0-count2",
+      "page": 1,
+      "screenshot": "screenshots/v054-E0-count2-3727-page1.png",
+      "sha256": "229fe59d8a48df55ece3cf465f5e4a6eb3da2815f6111eefe80c63da379b1d53",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-E0-count2-3727-page1\", \"message_id\": 100, \"frame_mean\": 46.087884812127974}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 130,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    },
+    {
+      "id": 3727,
+      "kind": "E0-count2",
+      "page": 2,
+      "screenshot": "screenshots/v054-E0-count2-3727-page2.png",
+      "sha256": "32bba8b7646a03fd4c32fa08bae7dc8fe7b4619bea3cc878d973c476c0546ae2",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-E0-count2-3727-page2\", \"message_id\": 100, \"frame_mean\": 52.17109607514881}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 16,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    },
+    {
+      "id": 6716,
+      "kind": "C7-max",
+      "page": 1,
+      "screenshot": "screenshots/v054-C7-max-6716-page1.png",
+      "sha256": "b24ea5240499915044e9c21ce42f084148b3ca36d855606f17f48a5a54416577",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-C7-max-6716-page1\", \"message_id\": 100, \"frame_mean\": 44.01971144903274}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 33,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 2,
+        "0x5a2c": 1
+      }
+    },
+    {
+      "id": 6716,
+      "kind": "C7-max",
+      "page": 2,
+      "screenshot": "screenshots/v054-C7-max-6716-page2.png",
+      "sha256": "c61918b94c484d186a94d8581fc305107959d406cc15b119d7cfbd1b26d0d6f5",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-C7-max-6716-page2\", \"message_id\": 100, \"frame_mean\": 47.9898681640625}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 50,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 2,
+        "0x5a2c": 1
+      }
+    },
+    {
+      "id": 6716,
+      "kind": "C7-max",
+      "page": 3,
+      "screenshot": "screenshots/v054-C7-max-6716-page3.png",
+      "sha256": "841b8f6787169bea1089ab4802e1bfe59ba89a331bc1b36481cb64e8bc0e52c4",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-C7-max-6716-page3\", \"message_id\": 100, \"frame_mean\": 45.625784737723215}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 210,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 2,
+        "0x5a2c": 1
+      }
+    },
+    {
+      "id": 6718,
+      "kind": "C7-max",
+      "page": 1,
+      "screenshot": "screenshots/v054-C7-max-6718-page1.png",
+      "sha256": "5fa81fdce72a0b3bd29fa514e74c3db0bf7717dcddf8e23ebd41d3a4f03991fc",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-C7-max-6718-page1\", \"message_id\": 100, \"frame_mean\": 44.260596865699405}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 50,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 2,
+        "0x5a2c": 1
+      }
+    },
+    {
+      "id": 6718,
+      "kind": "C7-max",
+      "page": 2,
+      "screenshot": "screenshots/v054-C7-max-6718-page2.png",
+      "sha256": "aa9a0c860de404318ee4aac3f14e09b63184167c91de12665e3e574340a0623d",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-C7-max-6718-page2\", \"message_id\": 100, \"frame_mean\": 47.927926199776785}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 210,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 2,
+        "0x5a2c": 1
+      }
+    },
+    {
+      "id": 6548,
+      "kind": "E1-state0",
+      "page": 1,
+      "screenshot": "screenshots/v054-E1-state0-6548-page1.png",
+      "sha256": "cc66fdb1e81ec811e815db8e048bcabea449c04e736ec5afcb5d700567fa43af",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-E1-state0-6548-page1\", \"message_id\": 100, \"frame_mean\": 47.068975539434526}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 16,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    },
+    {
+      "id": 6548,
+      "kind": "E1-state16",
+      "page": 1,
+      "screenshot": "screenshots/v054-E1-state16-6548-page1.png",
+      "sha256": "cc66fdb1e81ec811e815db8e048bcabea449c04e736ec5afcb5d700567fa43af",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-E1-state16-6548-page1\", \"message_id\": 100, \"frame_mean\": 47.068975539434526}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 16,
+        "0x5a04": 0,
+        "0x5a06": 74,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    },
+    {
+      "id": 6922,
+      "kind": "DC-reset",
+      "page": 1,
+      "screenshot": "screenshots/v054-DC-reset-6922-page1.png",
+      "sha256": "d04108996c07ec6c71333158a84b3ee89ae4762dd8029ab087d4d421db8a2230",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-DC-reset-6922-page1\", \"message_id\": 100, \"frame_mean\": 46.11231631324405}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 16,
+        "0x5a04": 0,
+        "0x5a06": 0,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    },
+    {
+      "id": 6923,
+      "kind": "DC-reset",
+      "page": 1,
+      "screenshot": "screenshots/v054-DC-reset-6923-page1.png",
+      "sha256": "77ad8be7007e92aba3e7a10a0a108ca4c8eba3f13e3ea38554a778de3944d6e5",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-DC-reset-6923-page1\", \"message_id\": 100, \"frame_mean\": 45.984991164434526}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 16,
+        "0x5a04": 0,
+        "0x5a06": 0,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    },
+    {
+      "id": 6924,
+      "kind": "DC-reset",
+      "page": 1,
+      "screenshot": "screenshots/v054-DC-reset-6924-page1.png",
+      "sha256": "4ef947274cd5ccd8d51d3e112b9e31bd10e9be2ba3241a78d84b6aebd7300ad1",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-DC-reset-6924-page1\", \"message_id\": 100, \"frame_mean\": 47.90175083705357}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 16,
+        "0x5a04": 0,
+        "0x5a06": 0,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    },
+    {
+      "id": 6925,
+      "kind": "DC-reset",
+      "page": 1,
+      "screenshot": "screenshots/v054-DC-reset-6925-page1.png",
+      "sha256": "e06058ad9332127d83b4defcb97bdf05ceb720b5b647417ebca870e35a10161e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-DC-reset-6925-page1\", \"message_id\": 100, \"frame_mean\": 45.423729306175595}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 180,
+        "0x5a04": 0,
+        "0x5a06": 0,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    },
+    {
+      "id": 6925,
+      "kind": "DC-reset",
+      "page": 2,
+      "screenshot": "screenshots/v054-DC-reset-6925-page2.png",
+      "sha256": "28d0799f56ed4cccaa0114083f3e98eadebe743d00a775056ec57b5a3fe15e62",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v054-DC-reset-6925-page2\", \"message_id\": 100, \"frame_mean\": 48.712669735863095}\nMap_ExtendedHiROMMap\n",
+      "observed_wram": {
+        "0x59a8": 16,
+        "0x5a04": 0,
+        "0x5a06": 0,
+        "0x5a2a": 1,
+        "0x5a2c": 2
+      }
+    }
+  ],
+  "diagnostic_forced_E0_return_counts": [
+    1,
+    2
+  ],
+  "diagnostic_item_name": "Iron Ball of Destruction",
+  "C7_max_item_id": 1,
+  "B5_other_item_id": 2,
+  "BB_decimal": 16777215,
+  "limits": "Camp message100 redirections. E0 count forced in private diagnostic ROMs, not natural group calculation. E1/DC observations are after rendering in camp, not a complete audit of state-machine side effects or natural ending/shop execution. DC cleanup path with5A04 nonzero not exercised. No purchases, contest results, ending progression or SRAM effects validated."
+}

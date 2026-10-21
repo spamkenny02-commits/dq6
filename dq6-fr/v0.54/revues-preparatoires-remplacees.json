@@ -1,0 +1,27 @@
+[
+  {
+    "id": 3727,
+    "file": "0033.p",
+    "ids": [
+      573,
+      574
+    ],
+    "sfc_jp": "おおっ　[CODE E0]は　あの時の。[LINE]元気にして　おられましたかな。[WAIT][LINE]こほっ!　そ...そういえば　今日は[LINE]ジーナさんたちに　会いに[LINE]いらしたのですかな?[END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「おおっ　みなさんは　あの時の。\n\t元気にして　おられましたかな。\n@c0@",
+      "@a@b＊「ごほっ！　そ……そういえば\n\t今日は　ジーナさんたちに\n\t会いに　いらしたのですかな？\n@c0@"
+    ],
+    "ds_fr": "Ah, je vois que vous revenez dans notre ville. Que la Déesse soit avec vousⓠ Si j'ai... Si j'ai bien compris, vous êtes ici pour rendre visite à Svetlanaⓡ",
+    "review": "Séquence japonaise complète relue : différences écrites ou reformulations équivalentes ; les commandes restent filtrées.",
+    "reviewed_differences": [
+      {
+        "before": "",
+        "after": "みなさん"
+      },
+      {
+        "before": "こ",
+        "after": "ご"
+      }
+    ]
+  }
+]

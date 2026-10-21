@@ -1,0 +1,401 @@
+[
+  {
+    "id": 3727,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "おおっ　[CODE E0]は　あの時の。[LINE]元気にして　おられましたかな。[WAIT][LINE]こほっ!　そ...そういえば　今日は[LINE]ジーナさんたちに　会いに[LINE]いらしたのですかな?[END STRING AC]",
+    "sfc_vf_secondaire": "3727<0559>[CODE E0][LINE][WAIT][LINE][LINE]Gina[END STRING AC]",
+    "native_plan": "Oh, {E0} ! Je vous reconnais. Comment allez-vous ?{AF}Cof ! Au fait, vous venez voir Svetlana et les autres aujourd'hui ?",
+    "original_body": "Oh, {E0} ! Je vous reconnais. Comment allez-vous ?{AF}Cof ! Au fait, vous venez voir Svetlana et les autres aujourd'hui ?",
+    "adaptation_body": "Oh, {E0} ! Je vous reconnais. Comment allez-vous ?{AF}Cof ! Au fait, vous venez voir Svetlana et les autres aujourd'hui ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "E0 imprime vous ou vous tous selon le compte natif, pas un nom. Svetlana correspond à ジーナ ; les autres non nommés restent non nommés. AF source conservé. La phrase DS de542 prouve seulement le nom Svetlana, pas un alignement complet.",
+    "review": "E0 imprime vous ou vous tous selon le compte natif, pas un nom. Svetlana correspond à ジーナ ; les autres non nommés restent non nommés. AF source conservé. La phrase DS de542 prouve seulement le nom Svetlana, pas un alignement complet.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_A_ADAPTER_OU_LEXIQUE_EXPLICITE",
+        "file": "data/MESS6/JA/0009.p",
+        "id": 542,
+        "ja": "@a@b＊「聞いてくだされ。\n\t先日　イリアとジーナという\n\t若いふたりが　この町に来たんじゃ。\n@c0@",
+        "fr": "@a@b*ⓢ Un jeune couple est passé en ville l'autre jour. Je crois qu'ils s'appelaient Sergueï et Svetlana...\n@c0@"
+      }
+    ],
+    "native_bindings": {
+      "native_E0": 224
+    },
+    "sfc_context": [
+      {
+        "id": 3725,
+        "text": "いやだよ。　また　空の色が[LINE]どんよりと　あやしく[LINE]なってきたんじゃないかい。[END STRING AC]"
+      },
+      {
+        "id": 3726,
+        "text": "ムドーが　倒されて　ずいぶんたつが[LINE]世の中　ちっとも　平和にならない。[WAIT][LINE]オレが　思うに　ムドーよりすごい[LINE]大魔王みたいな　やつが　どこかに[LINE]いるからだ。そうに　ちがいないぜ![END STRING AC]"
+      },
+      {
+        "id": 3727,
+        "text": "おおっ　[CODE E0]は　あの時の。[LINE]元気にして　おられましたかな。[WAIT][LINE]こほっ!　そ...そういえば　今日は[LINE]ジーナさんたちに　会いに[LINE]いらしたのですかな?[END STRING AC]"
+      },
+      {
+        "id": 3728,
+        "text": "どちらにしても　あなた[CODE C4]には[LINE]お話　しておいたほうが[LINE]よいでしょう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 3729,
+        "text": "そう...　実は[LINE]ジーナさんと　イリアさんは[LINE]もう　ここには　いないのです。[WAIT][LINE]いえ。旅に出たのではなく[LINE]天に　めされたのです[LINE]おふたりとも......。[WAIT][LINE]ジーナさんも　イリアさんも[LINE]かなりの　お年でしたが[LINE]いざ　なくなってみると...[WAIT][LINE]心に　ぽっかりと　穴があいたようで[LINE]さびしい　気持ちは　かくせませんね。[WAIT][LINE]でも　あの人たちは　今でも[LINE]町の人たちの　胸の中で[LINE]生きているのです。[WAIT][LINE]2人と　親しかった　人たちに[LINE]会って　おゆきなさい。[WAIT][LINE]きっと　いろいろな　思い出や[LINE]なつかしい話が　聞けることでしょう。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6548,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE DE][CODE E1][CODE BB]ゴールドに[LINE]なりますが　いいですか?[CODE D5][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE DE][CODE E1]Ca fera [CODE BB] piêces d'or. C'est d'accord?[CODE D5][END STRING AC]",
+    "native_plan": "{D4}{DE}{E1}Cela fera {BB} pièces d'or. D'accord ?{D5}",
+    "original_body": "{D4}{DE}{E1}Cela fera {BB} pièces d'or. D'accord ?{D5}",
+    "adaptation_body": "{D4}{DE}{E1}Cela fera {BB} pièces d'or. D'accord ?{D5}",
+    "adaptation_speaker": "",
+    "adaptation_review": "D4/DE/E1/BB/D5 gardés. E1 ne consomme pas de paramètre du script : modifie59A8 si16. Aucune transaction réelle ni équivalence sémantique de ce drapeau inventée.",
+    "review": "D4/DE/E1/BB/D5 gardés. E1 ne consomme pas de paramètre du script : modifie59A8 si16. Aucune transaction réelle ni équivalence sémantique de ce drapeau inventée.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_D4": 212,
+      "native_DE": 222,
+      "native_E1": 225,
+      "native_BB": 187,
+      "native_D5": 213
+    },
+    "sfc_context": [
+      {
+        "id": 6546,
+        "text": "[CODE C9]さんは　現在　コインを[LINE][CODE BB]枚　お持ちです。[WAIT][LINE]1枚20ゴールドですが[LINE]何枚　お求めに　なりますか?[END STRING AC]"
+      },
+      {
+        "id": 6547,
+        "text": "[CODE DE][CODE BB]枚ですね。[CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 6548,
+        "text": "[CODE D4][CODE DE][CODE E1][CODE BB]ゴールドに[LINE]なりますが　いいですか?[CODE D5][END STRING AC]"
+      },
+      {
+        "id": 6549,
+        "text": "[CODE DE]どうも　ありがとうございました。[LINE]幸運を　お祈りしていますわ。[END STRING AC]"
+      },
+      {
+        "id": 6550,
+        "text": "[CODE DE]あら　お金が　たりませんわ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6716,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]ラルフ「んー......　5ばんさんだけど[WAIT][LINE][CODE D4]ラルフ「[CODE B5]と[LINE][CODE C7][WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Ralph.Ummm… Numéro 5.[WAIT][LINE][CODE D4]Ralph.Le [CODE B5] et le [CODE C7].[WAIT][END STRING AC]",
+    "native_plan": "{D4}Calvin. Hmm... Pour le numéro 5...{AF}{D4}Calvin. {B5} et {C7}{AF}",
+    "original_body": "{D4}Calvin. Hmm... Pour le numéro 5...{AF}{D4}Calvin. {B5} et {C7}{AF}",
+    "adaptation_body": "{D4}Calvin. Hmm... Pour le numéro 5...{AF}{D4}Calvin. {B5} et {C7}{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Calvin confirmé DS0074:109. Numéro5 conservé. B5 lit5A2A, C7 lit5A2C via la même fonction de nom ; deux objets séparés et deux pauses sources conservés. Aucun article imposé aux noms variables.",
+    "review": "Calvin confirmé DS0074:109. Numéro5 conservé. B5 lit5A2A, C7 lit5A2C via la même fonction de nom ; deux objets séparés et deux pauses sources conservés. Aucun article imposé aux noms variables.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_A_ADAPTER_OU_LEXIQUE_EXPLICITE",
+        "file": "data/MESS6/JA/0074.p",
+        "id": 109,
+        "ja": "@a@bラルフ「んー　このボクを　見れば\n\tわかると思うけどさ。　センスが\n\t大切なんだよねー　センスが。\n@c0@",
+        "fr": "@aCalvin@bJ'ai peut-être l'amour, la gloire et la beauté, mais ce n'est pas difficile à obtenir quand on a le sens de la modeⓠ\n@c0@"
+      }
+    ],
+    "native_bindings": {
+      "native_D4": 212,
+      "native_B5": 181,
+      "native_C7": 199
+    },
+    "sfc_context": [
+      {
+        "id": 6714,
+        "text": "[CODE D4]ラルフ「んー...　5ばんの　[CODE B2]さん[LINE]ちょうネクタイだけが[LINE]ういてたみたいよ。[WAIT]　[LINE][CODE D4]ラルフ「ちょうネクタイをするなら[LINE]タキシードとかで　バッチリ[LINE]きめないとね。次に　期待かな。[END STRING AC]"
+      },
+      {
+        "id": 6715,
+        "text": "[CODE D4]ラルフ「んー......　5ばんさん。[LINE]プラチナシリーズが　なかなか[LINE]おしゃれだったな。[WAIT][LINE][CODE D4]ラルフ「でも　これからは　べつの[LINE]コーディネイトにも　挑戦してみて。[WAIT][LINE][CODE D4]ラルフ「これはって思う　組み合わせには[LINE]ボーナスポイントを　いっぱい[LINE]いっぱい　つけちゃうからね。[END STRING AC]"
+      },
+      {
+        "id": 6716,
+        "text": "[CODE D4]ラルフ「んー......　5ばんさんだけど[WAIT][LINE][CODE D4]ラルフ「[CODE B5]と[LINE][CODE C7][WAIT][END STRING AC]"
+      },
+      {
+        "id": 6717,
+        "text": "[CODE D4]ラルフ「それに　[CODE B5][WAIT][END STRING AC]"
+      },
+      {
+        "id": 6718,
+        "text": "[CODE D4]ラルフ「それに　[CODE B5]と[LINE][CODE C7][WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6718,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]ラルフ「それに　[CODE B5]と[LINE][CODE C7][WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Ralph.Le [CODE B5] et le [CODE C7].[WAIT][END STRING AC]",
+    "native_plan": "{D4}Calvin. Et aussi {B5} et {C7}{AF}",
+    "original_body": "{D4}Calvin. Et aussi {B5} et {C7}{AF}",
+    "adaptation_body": "{D4}Calvin. Et aussi {B5} et {C7}{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Même locuteur Calvin et deux objets natifs distincts B5/C7. Pause terminale AF conservée ; ne pas consolider avec6716.",
+    "review": "Même locuteur Calvin et deux objets natifs distincts B5/C7. Pause terminale AF conservée ; ne pas consolider avec6716.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_A_ADAPTER_OU_LEXIQUE_EXPLICITE",
+        "file": "data/MESS6/JA/0074.p",
+        "id": 109,
+        "ja": "@a@bラルフ「んー　このボクを　見れば\n\tわかると思うけどさ。　センスが\n\t大切なんだよねー　センスが。\n@c0@",
+        "fr": "@aCalvin@bJ'ai peut-être l'amour, la gloire et la beauté, mais ce n'est pas difficile à obtenir quand on a le sens de la modeⓠ\n@c0@"
+      }
+    ],
+    "native_bindings": {
+      "native_D4": 212,
+      "native_B5": 181,
+      "native_C7": 199
+    },
+    "sfc_context": [
+      {
+        "id": 6716,
+        "text": "[CODE D4]ラルフ「んー......　5ばんさんだけど[WAIT][LINE][CODE D4]ラルフ「[CODE B5]と[LINE][CODE C7][WAIT][END STRING AC]"
+      },
+      {
+        "id": 6717,
+        "text": "[CODE D4]ラルフ「それに　[CODE B5][WAIT][END STRING AC]"
+      },
+      {
+        "id": 6718,
+        "text": "[CODE D4]ラルフ「それに　[CODE B5]と[LINE][CODE C7][WAIT][END STRING AC]"
+      },
+      {
+        "id": 6719,
+        "text": "[CODE D4]ラルフ「なーんて　なかなか　いいよ。[LINE]これには　ボーナスを　[CODE BB]てん[LINE]つけちゃったな。[END STRING AE]"
+      },
+      {
+        "id": 6720,
+        "text": "[CODE D4]ラルフ「けど　優勝できなかったのは[LINE]ざんねんだけどね。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6922,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE DC][CODE CC]「すごい......　いよいよね。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE DC][CODE CC].Wow… It<024D> finally time, isn't it?[END STRING AC]",
+    "native_plan": "{D4}{DC}{CC}. Waouh... Ça y est, enfin !",
+    "original_body": "{D4}{DC}{CC}. Waouh... Ça y est, enfin !",
+    "adaptation_body": "{D4}{DC}{CC}. Waouh... Ça y est, enfin !",
+    "adaptation_speaker": "",
+    "adaptation_review": "DS0098:29 relu ; DC et CC gardés. CC reste variable et locuteur, pas Laura littérale.",
+    "review": "DS0098:29 relu ; DC et CC gardés. CC reste variable et locuteur, pas Laura littérale.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_A_ADAPTER_OU_LEXIQUE_EXPLICITE",
+        "file": "data/MESS6/JA/0098.p",
+        "id": 29,
+        "ja": "@a@b%a002020「すごい……　いよいよね。\n@c0@",
+        "fr": "@a%0%a002020@bWaouh... Ça y est, enfinⓠ\n@c0@"
+      }
+    ],
+    "native_bindings": {
+      "native_D4": 212,
+      "native_DC": 220,
+      "native_CC": 204
+    },
+    "sfc_context": [
+      {
+        "id": 6920,
+        "text": "[CODE D4][CODE CE]「シッ　しずかに......。[END STRING AC]"
+      },
+      {
+        "id": 6921,
+        "text": "[CODE D4][CODE CD]「...............。[END STRING AC]"
+      },
+      {
+        "id": 6922,
+        "text": "[CODE D4][CODE DC][CODE CC]「すごい......　いよいよね。[END STRING AC]"
+      },
+      {
+        "id": 6923,
+        "text": "[CODE D4][CODE DC]男「生まれる　生まれるだよっ![END STRING AC]"
+      },
+      {
+        "id": 6924,
+        "text": "[CODE D4][CODE DC]ゼニス王「うむ......。[LINE]ついに　育ったのじゃ[LINE]われわれの　未来が......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6923,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE DC]男「生まれる　生まれるだよっ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE DC]Man.It<024D> hatching! It<024D> hatching![END STRING AC]",
+    "native_plan": "{D4}{DC}Homme. Ça éclôt ! Ça éclôt !",
+    "original_body": "{D4}{DC}Homme. Ça éclôt ! Ça éclôt !",
+    "adaptation_body": "{D4}{DC}Homme. Ça éclôt ! Ça éclôt !",
+    "adaptation_speaker": "",
+    "adaptation_review": "DS0098:30 confirme éclosion. SFC Homme gardé plutôt que Gardien ajouté par DS ; répétition conservée.",
+    "review": "DS0098:30 confirme éclosion. SFC Homme gardé plutôt que Gardien ajouté par DS ; répétition conservée.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_A_ADAPTER_OU_LEXIQUE_EXPLICITE",
+        "file": "data/MESS6/JA/0098.p",
+        "id": 30,
+        "ja": "@a@b男「生まれる　生まれるだよっ！\n@c0@",
+        "fr": "@aGardien@bIl est en train d'écloreⓠ\n@c0@"
+      }
+    ],
+    "native_bindings": {
+      "native_D4": 212,
+      "native_DC": 220
+    },
+    "sfc_context": [
+      {
+        "id": 6921,
+        "text": "[CODE D4][CODE CD]「...............。[END STRING AC]"
+      },
+      {
+        "id": 6922,
+        "text": "[CODE D4][CODE DC][CODE CC]「すごい......　いよいよね。[END STRING AC]"
+      },
+      {
+        "id": 6923,
+        "text": "[CODE D4][CODE DC]男「生まれる　生まれるだよっ![END STRING AC]"
+      },
+      {
+        "id": 6924,
+        "text": "[CODE D4][CODE DC]ゼニス王「うむ......。[LINE]ついに　育ったのじゃ[LINE]われわれの　未来が......。[END STRING AC]"
+      },
+      {
+        "id": 6925,
+        "text": "[CODE D4][CODE DC][CODE CC]「どんなのかしら......[LINE]あたしたちの　未来は......。[CODE B0][LINE]　　　　　　あ!　生まれるよ![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6924,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE DC]ゼニス王「うむ......。[LINE]ついに　育ったのじゃ[LINE]われわれの　未来が......。[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE DC]Zenith.Hmmm… It<024D> born at last… Our future…[END STRING AC]",
+    "native_plan": "{D4}{DC}Seigneur Zénith. Oui... Notre avenir a enfin grandi...",
+    "original_body": "{D4}{DC}Seigneur Zénith. Oui... Notre avenir a enfin grandi...",
+    "adaptation_body": "{D4}{DC}Seigneur Zénith. Oui... Notre avenir a enfin grandi...",
+    "adaptation_speaker": "",
+    "adaptation_review": "DS0098:31 relu, nom Seigneur Zénith confirmé. SFC notre avenir a grandi, sans ajouter la nouvelle ère du texte DS.",
+    "review": "DS0098:31 relu, nom Seigneur Zénith confirmé. SFC notre avenir a grandi, sans ajouter la nouvelle ère du texte DS.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_A_ADAPTER_OU_LEXIQUE_EXPLICITE",
+        "file": "data/MESS6/JA/0098.p",
+        "id": 31,
+        "ja": "@a@bゼニス王「うむ……。\n\tついに　育ったのじゃ\n\tわれわれの　未来が……。\n@c0@",
+        "fr": "@aSeigneur Zénith@bOui... Notre avenir est enfin là. Une nouvelle ère est sur le point de commencer...\n@c0@"
+      }
+    ],
+    "native_bindings": {
+      "native_D4": 212,
+      "native_DC": 220
+    },
+    "sfc_context": [
+      {
+        "id": 6922,
+        "text": "[CODE D4][CODE DC][CODE CC]「すごい......　いよいよね。[END STRING AC]"
+      },
+      {
+        "id": 6923,
+        "text": "[CODE D4][CODE DC]男「生まれる　生まれるだよっ![END STRING AC]"
+      },
+      {
+        "id": 6924,
+        "text": "[CODE D4][CODE DC]ゼニス王「うむ......。[LINE]ついに　育ったのじゃ[LINE]われわれの　未来が......。[END STRING AC]"
+      },
+      {
+        "id": 6925,
+        "text": "[CODE D4][CODE DC][CODE CC]「どんなのかしら......[LINE]あたしたちの　未来は......。[CODE B0][LINE]　　　　　　あ!　生まれるよ![END STRING AC]"
+      },
+      {
+        "id": 6926,
+        "text": "＊「べらんめえ!![LINE]　　こちとら　道具屋よう!![WAIT][LINE]＊「何しに　きやがった[LINE]　　こんちきしょうめ!![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6925,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4][CODE DC][CODE CC]「どんなのかしら......[LINE]あたしたちの　未来は......。[CODE B0][LINE]　　　　　　あ!　生まれるよ![END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4][CODE DC][CODE CC].I wonder what it will be like, our future… It<024D> hatching![END STRING AC]",
+    "native_plan": "{D4}{DC}{CC}. Je me demande à quoi ressemblera notre avenir...{B0} Oh ! Ça éclôt !",
+    "original_body": "{D4}{DC}{CC}. Je me demande à quoi ressemblera notre avenir...{B0} Oh ! Ça éclôt !",
+    "adaptation_body": "{D4}{DC}{CC}. Je me demande à quoi ressemblera notre avenir...{B0} Oh ! Ça éclôt !",
+    "adaptation_speaker": "",
+    "adaptation_review": "DS0098:32 relu. CC reste variable ; B0 natif entre la question et l’exclamation gardé. Pas de suppression de pause ni nom figé.",
+    "review": "DS0098:32 relu. CC reste variable ; B0 natif entre la question et l’exclamation gardé. Pas de suppression de pause ni nom figé.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_A_ADAPTER_OU_LEXIQUE_EXPLICITE",
+        "file": "data/MESS6/JA/0098.p",
+        "id": 32,
+        "ja": "@a@b%a002020「どんなのかしら……\n\tあたしたちの　未来は……。㈢㈢\n\t　　あ！㈢　生まれるよ！\n@c0@",
+        "fr": "@a%0%a002020@bJe me demande à quoi va ressembler cet avenir... ㈢㈢\nOhⓠ ㈢Le voilàⓠ\n@c0@"
+      }
+    ],
+    "native_bindings": {
+      "native_D4": 212,
+      "native_DC": 220,
+      "native_CC": 204,
+      "native_B0": 176
+    },
+    "sfc_context": [
+      {
+        "id": 6923,
+        "text": "[CODE D4][CODE DC]男「生まれる　生まれるだよっ![END STRING AC]"
+      },
+      {
+        "id": 6924,
+        "text": "[CODE D4][CODE DC]ゼニス王「うむ......。[LINE]ついに　育ったのじゃ[LINE]われわれの　未来が......。[END STRING AC]"
+      },
+      {
+        "id": 6925,
+        "text": "[CODE D4][CODE DC][CODE CC]「どんなのかしら......[LINE]あたしたちの　未来は......。[CODE B0][LINE]　　　　　　あ!　生まれるよ![END STRING AC]"
+      },
+      {
+        "id": 6926,
+        "text": "＊「べらんめえ!![LINE]　　こちとら　道具屋よう!![WAIT][LINE]＊「何しに　きやがった[LINE]　　こんちきしょうめ!![END STRING AC]"
+      },
+      {
+        "id": 6927,
+        "text": "＊「ありがとうございました![LINE]　　今後とも　ごひいきに![END STRING AC]"
+      }
+    ]
+  }
+]

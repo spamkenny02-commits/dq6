@@ -1,3 +1,7 @@
+# Reprise v0.54
+
+8 textes à commandes natives C7/DC/E0/E1 relus. Autorisation minimale du compilateur, moteur et anciens tokens inchangés ; branches et noms testés en diagnostic. Continuer les54 entrées dont25 préparées non insérées, fragments assemblés, tables, audits naturels et relecture exhaustive. Ne pas recycler la revue de ce lot.
+
 # Reprise v0.53
 
 12 textes : six C4, casino, variante technique à X littéraux, refrain et libellés. Commandes et noms natifs gardés, deux branches C4 testées en diagnostic. Continuer les62 entrées dont25 préparées non insérées, les tables et audits naturels. Recherche des oublis et relecture exhaustive encore à faire. Ne pas recycler la revue de ce lot.

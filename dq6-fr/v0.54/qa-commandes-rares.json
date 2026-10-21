@@ -1,0 +1,42 @@
+{
+  "result_sha256": "26893e6fd8332685f16e920f45e4020e34025218d15ff366a6374f881e294ee3",
+  "handlers": [
+    {
+      "name": "C7",
+      "offset": "0x692ee",
+      "bytes": "20c095ad2c5a22b85ec4ffff4c0c92",
+      "unchanged_from_japanese_and_v053": true
+    },
+    {
+      "name": "E0",
+      "offset": "0x6929b",
+      "bytes": "221c2bc401ff3af006a91d014c0c92a91e014c0c92",
+      "unchanged_from_japanese_and_v053": true
+    },
+    {
+      "name": "DC",
+      "offset": "0x69492",
+      "bytes": "227e95c6a900008d065a6b",
+      "unchanged_from_japanese_and_v053": true
+    },
+    {
+      "name": "DC_helper",
+      "offset": "0x6957e",
+      "bytes": "48ad045ac90000f00a22ebf5c1a900008d045a686b",
+      "unchanged_from_japanese_and_v053": true
+    },
+    {
+      "name": "E1",
+      "offset": "0x695b1",
+      "bytes": "ada859c91000d006a921008da8596b",
+      "unchanged_from_japanese_and_v053": true
+    }
+  ],
+  "script_inline_arguments_added": 0,
+  "C7": "JSR95C0 then LDA5A2C, same C45EB8 name resolver and inlineFFFF as B5; B5 reads5A2A",
+  "E0": "Native count minus1 selects SID011D (plural) or011E (single), French vous tous/vous in inherited helpers",
+  "DC": "JSL C6957E then LDA0 STA5A06; helper optionally callsC1F5EB when5A04 nonzero, clears5A04, preserves accumulator",
+  "E1": "If59A8==0x10, store0x21; otherwise unchanged. Static code inspected, not a transaction validation.",
+  "runtime_observation_limits": "E1 after-render state was16 for both injected0 and16; other renderer commands can change it. Injection before camp interaction does not prove input value at handler entry, so no runtime E1 branch assertion. DC observed5A06=0 for all four texts after injecting4660, with5A04=0. Nonzero cleanup path and natural scenes not exercised.",
+  "engine_modified": false
+}

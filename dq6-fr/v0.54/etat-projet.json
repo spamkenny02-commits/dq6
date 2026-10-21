@@ -1,0 +1,62 @@
+{
+  "release": "v0.54",
+  "status": "PARTIEL",
+  "main_script": {
+    "validated": 6903,
+    "visible_total": 6957,
+    "new_this_pass": 8,
+    "remaining": 54
+  },
+  "baseline": "v0.53",
+  "prepared_not_inserted": {
+    "main": 25,
+    "separate_places": 25,
+    "reviewed_fragments": 12,
+    "draft_main": 13
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.54",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "spell_action_labels_inserted": 20,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 37,
+    "native_grammar_helpers_adapted": 4
+  },
+  "rom_bytes": 8388608,
+  "notes": "8 textes à commandes natives C7/DC/E0/E1 relus. Autorisation minimale du compilateur, moteur et anciens tokens inchangés ; branches et noms testés en diagnostic.",
+  "next": "Continuer les54 entrées dont25 préparées non insérées, fragments assemblés, tables, audits naturels et relecture exhaustive.",
+  "deferred_remaining_from_v034": 1,
+  "resolved_from_v034_ids": [
+    1135,
+    1356,
+    1478,
+    2368,
+    2404,
+    4866,
+    4880,
+    5159,
+    5341,
+    5748,
+    5761,
+    5778,
+    5816,
+    5818,
+    5844,
+    5851,
+    6117,
+    6172,
+    6209,
+    6265,
+    6338,
+    6465,
+    6937,
+    6944,
+    6949
+  ]
+}

@@ -1,13 +1,13 @@
 {
-  "release": "v0.53",
+  "release": "v0.54",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 6895,
+    "validated": 6903,
     "visible_total": 6957,
-    "new_this_pass": 12,
-    "remaining": 62
+    "new_this_pass": 8,
+    "remaining": 54
   },
-  "baseline": "v0.52",
+  "baseline": "v0.53",
   "prepared_not_inserted": {
     "main": 25,
     "separate_places": 25,
@@ -16,7 +16,7 @@
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.53",
+    "inventory_version": "v0.54",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -29,8 +29,8 @@
     "native_grammar_helpers_adapted": 4
   },
   "rom_bytes": 8388608,
-  "notes": "12 textes : six C4, casino, variante technique à X littéraux, refrain et libellés. Commandes et noms natifs gardés, deux branches C4 testées en diagnostic.",
-  "next": "Continuer les62 entrées dont25 préparées non insérées, les tables et audits naturels. Recherche des oublis et relecture exhaustive encore à faire.",
+  "notes": "8 textes à commandes natives C7/DC/E0/E1 relus. Autorisation minimale du compilateur, moteur et anciens tokens inchangés ; branches et noms testés en diagnostic.",
+  "next": "Continuer les54 entrées dont25 préparées non insérées, fragments assemblés, tables, audits naturels et relecture exhaustive.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
