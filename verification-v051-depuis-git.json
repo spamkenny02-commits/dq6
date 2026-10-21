@@ -1,0 +1,13 @@
+{
+  "translation_commit": "76626022878c00b5ce21c02541bd1f5d3091c0bb",
+  "public_tree_sha": "6d5b06b9bbcf40b66be5ebf620071ba076797246",
+  "verification_method": "Actual origin/main fetched through Git after connector publication; fresh archive of that fetched commit. All46 lot files byte-identical to tested sources/patch/reports. restore_sources.py reproduced all6880 selections and generated inputs; public BPS reapplied to intact Japanese source.",
+  "public_files_byte_identical": 46,
+  "public_bps_git_blob_sha": "26f58fd28677579b7a5253ab0b189d20fa40c5f8",
+  "restore_sources_passed": true,
+  "restored_6880_selection_and_inputs_identical": true,
+  "public_tree_bps_reapplied_to_intact_japanese_source": true,
+  "result_sha256": "78f1c0f7398633e574d6b1c4d6e04cf8e8b2a14d12567d9a8b47db4b6b1392fe",
+  "prepublication_fresh_init_prepare_build_verify_passed": true,
+  "rom_published": false
+}
