@@ -1,0 +1,1345 @@
+{
+  "id": 6956,
+  "source_sha256": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e",
+  "script_end_exclusive": 3901187,
+  "name_pool_start": 3901187,
+  "source_text": "ルイーダ「[CODE C9]さんは　まだ[LINE]　　やらなくては　いけないことが[LINE]　　あるんじゃないかしら。[WAIT]子ホのれなのれま　れレおえ...士...が[LINE]...[LINE][LINE]のせにおな[LINE]...[WAIT][LINE]...すうらレゃ強[LINE]なの!ま　!レせか...　[LINE]のどか...か[LINE]...[END STRING AC]",
+  "valid_prefix_through_AF_token_index": 43,
+  "subsequent_tokens_not_a_reliable_dialogue": true,
+  "trace": [
+    {
+      "index": 0,
+      "token": 1318,
+      "start": [
+        3901152,
+        0
+      ],
+      "end": [
+        3901153,
+        0
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 1,
+      "token": 1590,
+      "start": [
+        3901153,
+        0
+      ],
+      "end": [
+        3901155,
+        7
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 2,
+      "token": 1368,
+      "start": [
+        3901155,
+        7
+      ],
+      "end": [
+        3901155,
+        0
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 3,
+      "token": 1383,
+      "start": [
+        3901155,
+        0
+      ],
+      "end": [
+        3901157,
+        6
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 4,
+      "token": 1399,
+      "start": [
+        3901157,
+        6
+      ],
+      "end": [
+        3901158,
+        7
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 5,
+      "token": 201,
+      "start": [
+        3901158,
+        7
+      ],
+      "end": [
+        3901159,
+        6
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 6,
+      "token": 1285,
+      "start": [
+        3901159,
+        6
+      ],
+      "end": [
+        3901160,
+        7
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 7,
+      "token": 1271,
+      "start": [
+        3901160,
+        7
+      ],
+      "end": [
+        3901160,
+        1
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 8,
+      "token": 1264,
+      "start": [
+        3901160,
+        1
+      ],
+      "end": [
+        3901161,
+        3
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 9,
+      "token": 512,
+      "start": [
+        3901161,
+        3
+      ],
+      "end": [
+        3901162,
+        7
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 10,
+      "token": 1265,
+      "start": [
+        3901162,
+        7
+      ],
+      "end": [
+        3901162,
+        1
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 11,
+      "token": 1337,
+      "start": [
+        3901162,
+        1
+      ],
+      "end": [
+        3901163,
+        3
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 12,
+      "token": 173,
+      "start": [
+        3901163,
+        3
+      ],
+      "end": [
+        3901164,
+        7
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 13,
+      "token": 512,
+      "start": [
+        3901164,
+        7
+      ],
+      "end": [
+        3901164,
+        3
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 14,
+      "token": 512,
+      "start": [
+        3901164,
+        3
+      ],
+      "end": [
+        3901165,
+        7
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 15,
+      "token": 1341,
+      "start": [
+        3901165,
+        7
+      ],
+      "end": [
+        3901166,
+        7
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 16,
+      "token": 1267,
+      "start": [
+        3901166,
+        7
+      ],
+      "end": [
+        3901166,
+        1
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 17,
+      "token": 1338,
+      "start": [
+        3901166,
+        1
+      ],
+      "end": [
+        3901167,
+        4
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 18,
+      "token": 1284,
+      "start": [
+        3901167,
+        4
+      ],
+      "end": [
+        3901168,
+        5
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 19,
+      "token": 1574,
+      "start": [
+        3901168,
+        5
+      ],
+      "end": [
+        3901169,
+        7
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 20,
+      "token": 1264,
+      "start": [
+        3901169,
+        7
+      ],
+      "end": [
+        3901169,
+        1
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 21,
+      "token": 512,
+      "start": [
+        3901169,
+        1
+      ],
+      "end": [
+        3901170,
+        5
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 22,
+      "token": 1544,
+      "start": [
+        3901170,
+        5
+      ],
+      "end": [
+        3901170,
+        0
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 23,
+      "token": 1333,
+      "start": [
+        3901170,
+        0
+      ],
+      "end": [
+        3901171,
+        0
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 24,
+      "token": 1338,
+      "start": [
+        3901171,
+        0
+      ],
+      "end": [
+        3901172,
+        3
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 25,
+      "token": 1544,
+      "start": [
+        3901172,
+        3
+      ],
+      "end": [
+        3901173,
+        6
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 26,
+      "token": 1567,
+      "start": [
+        3901173,
+        6
+      ],
+      "end": [
+        3901173,
+        0
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 27,
+      "token": 1288,
+      "start": [
+        3901173,
+        0
+      ],
+      "end": [
+        3901174,
+        2
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 28,
+      "token": 1373,
+      "start": [
+        3901174,
+        2
+      ],
+      "end": [
+        3901175,
+        4
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 29,
+      "token": 173,
+      "start": [
+        3901175,
+        4
+      ],
+      "end": [
+        3901175,
+        0
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 30,
+      "token": 512,
+      "start": [
+        3901175,
+        0
+      ],
+      "end": [
+        3901176,
+        4
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 31,
+      "token": 512,
+      "start": [
+        3901176,
+        4
+      ],
+      "end": [
+        3901176,
+        0
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 32,
+      "token": 1329,
+      "start": [
+        3901176,
+        0
+      ],
+      "end": [
+        3901177,
+        2
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 33,
+      "token": 1268,
+      "start": [
+        3901177,
+        2
+      ],
+      "end": [
+        3901178,
+        3
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 34,
+      "token": 1271,
+      "start": [
+        3901178,
+        3
+      ],
+      "end": [
+        3901179,
+        5
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 35,
+      "token": 1287,
+      "start": [
+        3901179,
+        5
+      ],
+      "end": [
+        3901180,
+        5
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 36,
+      "token": 1569,
+      "start": [
+        3901180,
+        5
+      ],
+      "end": [
+        3901181,
+        6
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 37,
+      "token": 1338,
+      "start": [
+        3901181,
+        6
+      ],
+      "end": [
+        3901181,
+        1
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 38,
+      "token": 1544,
+      "start": [
+        3901181,
+        1
+      ],
+      "end": [
+        3901182,
+        4
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 39,
+      "token": 1332,
+      "start": [
+        3901182,
+        4
+      ],
+      "end": [
+        3901183,
+        6
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 40,
+      "token": 1286,
+      "start": [
+        3901183,
+        6
+      ],
+      "end": [
+        3901183,
+        0
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 41,
+      "token": 1267,
+      "start": [
+        3901183,
+        0
+      ],
+      "end": [
+        3901184,
+        2
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 42,
+      "token": 1356,
+      "start": [
+        3901184,
+        2
+      ],
+      "end": [
+        3901185,
+        5
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 43,
+      "token": 175,
+      "start": [
+        3901185,
+        5
+      ],
+      "end": [
+        3901186,
+        7
+      ],
+      "crosses_name_pool": false
+    },
+    {
+      "index": 44,
+      "token": 960,
+      "start": [
+        3901186,
+        7
+      ],
+      "end": [
+        3901187,
+        5
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 45,
+      "token": 1454,
+      "start": [
+        3901187,
+        5
+      ],
+      "end": [
+        3901188,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 46,
+      "token": 1545,
+      "start": [
+        3901188,
+        4
+      ],
+      "end": [
+        3901189,
+        7
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 47,
+      "token": 1314,
+      "start": [
+        3901189,
+        7
+      ],
+      "end": [
+        3901189,
+        1
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 48,
+      "token": 1338,
+      "start": [
+        3901189,
+        1
+      ],
+      "end": [
+        3901190,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 49,
+      "token": 1545,
+      "start": [
+        3901190,
+        4
+      ],
+      "end": [
+        3901191,
+        7
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 50,
+      "token": 1314,
+      "start": [
+        3901191,
+        7
+      ],
+      "end": [
+        3901191,
+        1
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 51,
+      "token": 1265,
+      "start": [
+        3901191,
+        1
+      ],
+      "end": [
+        3901192,
+        3
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 52,
+      "token": 512,
+      "start": [
+        3901192,
+        3
+      ],
+      "end": [
+        3901193,
+        7
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 53,
+      "token": 1314,
+      "start": [
+        3901193,
+        7
+      ],
+      "end": [
+        3901193,
+        1
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 54,
+      "token": 1274,
+      "start": [
+        3901193,
+        1
+      ],
+      "end": [
+        3901194,
+        0
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 55,
+      "token": 1331,
+      "start": [
+        3901194,
+        0
+      ],
+      "end": [
+        3901195,
+        2
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 56,
+      "token": 1330,
+      "start": [
+        3901195,
+        2
+      ],
+      "end": [
+        3901196,
+        2
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 57,
+      "token": 1395,
+      "start": [
+        3901196,
+        2
+      ],
+      "end": [
+        3901197,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 58,
+      "token": 1491,
+      "start": [
+        3901197,
+        4
+      ],
+      "end": [
+        3901198,
+        2
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 59,
+      "token": 1395,
+      "start": [
+        3901198,
+        2
+      ],
+      "end": [
+        3901199,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 60,
+      "token": 1373,
+      "start": [
+        3901199,
+        4
+      ],
+      "end": [
+        3901200,
+        6
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 61,
+      "token": 173,
+      "start": [
+        3901200,
+        6
+      ],
+      "end": [
+        3901200,
+        2
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 62,
+      "token": 1395,
+      "start": [
+        3901200,
+        2
+      ],
+      "end": [
+        3901201,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 63,
+      "token": 173,
+      "start": [
+        3901201,
+        4
+      ],
+      "end": [
+        3901201,
+        0
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 64,
+      "token": 173,
+      "start": [
+        3901201,
+        0
+      ],
+      "end": [
+        3901202,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 65,
+      "token": 1545,
+      "start": [
+        3901202,
+        4
+      ],
+      "end": [
+        3901203,
+        7
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 66,
+      "token": 1335,
+      "start": [
+        3901203,
+        7
+      ],
+      "end": [
+        3901204,
+        7
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 67,
+      "token": 1577,
+      "start": [
+        3901204,
+        7
+      ],
+      "end": [
+        3901204,
+        1
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 68,
+      "token": 1331,
+      "start": [
+        3901204,
+        1
+      ],
+      "end": [
+        3901205,
+        3
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 69,
+      "token": 1338,
+      "start": [
+        3901205,
+        3
+      ],
+      "end": [
+        3901206,
+        6
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 70,
+      "token": 173,
+      "start": [
+        3901206,
+        6
+      ],
+      "end": [
+        3901206,
+        2
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 71,
+      "token": 1395,
+      "start": [
+        3901206,
+        2
+      ],
+      "end": [
+        3901207,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 72,
+      "token": 175,
+      "start": [
+        3901207,
+        4
+      ],
+      "end": [
+        3901208,
+        6
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 73,
+      "token": 173,
+      "start": [
+        3901208,
+        6
+      ],
+      "end": [
+        3901208,
+        2
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 74,
+      "token": 1395,
+      "start": [
+        3901208,
+        2
+      ],
+      "end": [
+        3901209,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 75,
+      "token": 1334,
+      "start": [
+        3901209,
+        4
+      ],
+      "end": [
+        3901210,
+        5
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 76,
+      "token": 1283,
+      "start": [
+        3901210,
+        5
+      ],
+      "end": [
+        3901211,
+        7
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 77,
+      "token": 1267,
+      "start": [
+        3901211,
+        7
+      ],
+      "end": [
+        3901211,
+        1
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 78,
+      "token": 1274,
+      "start": [
+        3901211,
+        1
+      ],
+      "end": [
+        3901212,
+        0
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 79,
+      "token": 1569,
+      "start": [
+        3901212,
+        0
+      ],
+      "end": [
+        3901213,
+        1
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 80,
+      "token": 745,
+      "start": [
+        3901213,
+        1
+      ],
+      "end": [
+        3901215,
+        5
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 81,
+      "token": 173,
+      "start": [
+        3901215,
+        5
+      ],
+      "end": [
+        3901215,
+        1
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 82,
+      "token": 1338,
+      "start": [
+        3901215,
+        1
+      ],
+      "end": [
+        3901216,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 83,
+      "token": 1545,
+      "start": [
+        3901216,
+        4
+      ],
+      "end": [
+        3901217,
+        7
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 84,
+      "token": 1361,
+      "start": [
+        3901217,
+        7
+      ],
+      "end": [
+        3901217,
+        1
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 85,
+      "token": 1265,
+      "start": [
+        3901217,
+        1
+      ],
+      "end": [
+        3901218,
+        3
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 86,
+      "token": 512,
+      "start": [
+        3901218,
+        3
+      ],
+      "end": [
+        3901219,
+        7
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 87,
+      "token": 1361,
+      "start": [
+        3901219,
+        7
+      ],
+      "end": [
+        3901219,
+        1
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 88,
+      "token": 1274,
+      "start": [
+        3901219,
+        1
+      ],
+      "end": [
+        3901220,
+        0
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 89,
+      "token": 1335,
+      "start": [
+        3901220,
+        0
+      ],
+      "end": [
+        3901221,
+        0
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 90,
+      "token": 1332,
+      "start": [
+        3901221,
+        0
+      ],
+      "end": [
+        3901222,
+        2
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 91,
+      "token": 1395,
+      "start": [
+        3901222,
+        2
+      ],
+      "end": [
+        3901223,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 92,
+      "token": 512,
+      "start": [
+        3901223,
+        4
+      ],
+      "end": [
+        3901223,
+        0
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 93,
+      "token": 173,
+      "start": [
+        3901223,
+        0
+      ],
+      "end": [
+        3901224,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 94,
+      "token": 1545,
+      "start": [
+        3901224,
+        4
+      ],
+      "end": [
+        3901225,
+        7
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 95,
+      "token": 1307,
+      "start": [
+        3901225,
+        7
+      ],
+      "end": [
+        3901225,
+        0
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 96,
+      "token": 1332,
+      "start": [
+        3901225,
+        0
+      ],
+      "end": [
+        3901226,
+        2
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 97,
+      "token": 1395,
+      "start": [
+        3901226,
+        2
+      ],
+      "end": [
+        3901227,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 98,
+      "token": 1332,
+      "start": [
+        3901227,
+        4
+      ],
+      "end": [
+        3901228,
+        6
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 99,
+      "token": 173,
+      "start": [
+        3901228,
+        6
+      ],
+      "end": [
+        3901228,
+        2
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 100,
+      "token": 1395,
+      "start": [
+        3901228,
+        2
+      ],
+      "end": [
+        3901229,
+        4
+      ],
+      "crosses_name_pool": true
+    },
+    {
+      "index": 101,
+      "token": 172,
+      "start": [
+        3901229,
+        4
+      ],
+      "end": [
+        3901230,
+        6
+      ],
+      "crosses_name_pool": true
+    }
+  ],
+  "status": "PREPARE_NON_INSERE",
+  "blocker": "Need native last-message termination proof before replacing the truncated tail. No AC present within the bounded meaningful prefix.",
+  "ds_reference": {
+    "file": "data/MESS6/JA/0816.p",
+    "id": 12
+  },
+  "proposed_french": "Tulipe. {C9} a encore quelque chose à accomplir, non ?{AF}",
+  "limits": "Does not establish a valid native terminator, natural inn scene, or repair the ROM."
+}

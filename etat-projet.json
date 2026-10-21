@@ -1,22 +1,28 @@
 {
-  "release": "v0.54",
+  "release": "v0.55",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 6903,
+    "validated": 6941,
     "visible_total": 6957,
-    "new_this_pass": 8,
-    "remaining": 54
+    "new_this_pass": 38,
+    "new_linguistic_translations": 29,
+    "new_structural_restorations": 9,
+    "linguistic_selected": 6932,
+    "structural_selected": 9,
+    "remaining": 16,
+    "remaining_linguistic": 16
   },
-  "baseline": "v0.53",
+  "baseline": "v0.54",
   "prepared_not_inserted": {
-    "main": 25,
+    "main": 13,
     "separate_places": 25,
-    "reviewed_fragments": 12,
-    "draft_main": 13
+    "reviewed_fragments": 0,
+    "draft_main": 12,
+    "boundary_audit": 1
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.54",
+    "inventory_version": "v0.55",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -29,8 +35,8 @@
     "native_grammar_helpers_adapted": 4
   },
   "rom_bytes": 8388608,
-  "notes": "8 textes à commandes natives C7/DC/E0/E1 relus. Autorisation minimale du compilateur, moteur et anciens tokens inchangés ; branches et noms testés en diagnostic.",
-  "next": "Continuer les54 entrées dont25 préparées non insérées, fragments assemblés, tables, audits naturels et relecture exhaustive.",
+  "notes": "29 traductions et9 restaurations exactes de structure. Toutes les6903 anciennes sélections inchangées. Tests de composition AE, énigme et directions ; audits naturels ouverts.",
+  "next": "16 textes restants :12 debug ambigus et6956 préparés non insérés,3 fragments équipement différés. Tables, recherche exhaustive des oublis, relecture intégrale et audits naturels à poursuivre.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,

@@ -1,0 +1,483 @@
+{
+  "selected": 6941,
+  "linguistic_selected": 6932,
+  "structural_selected": 9,
+  "remaining_linguistic": 16,
+  "prepared_non_inserted": 13,
+  "deferred": 3,
+  "rows": [
+    {
+      "id": 5701,
+      "status": "DIFFERE",
+      "sfc_jp": "そして......[CODE D5][WAIT][END STRING AC]",
+      "sfc_vf_secondaire": "peut l'équiper.[LINE][WAIT][END STRING AC]",
+      "blocker": "Composition de noms C1 et raccord avec5698 déjà intégré à vérifier ; tester liste singulière/plurielle, noms longs, pagination et cas aucun porteur.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 5699,
+          "text": "[CODE C1]　[CODE D5][END STRING AE]"
+        },
+        {
+          "id": 5700,
+          "text": "[CODE C1][CODE D5][LINE][END STRING AE]"
+        },
+        {
+          "id": 5701,
+          "text": "そして......[CODE D5][WAIT][END STRING AC]"
+        },
+        {
+          "id": 5702,
+          "text": "が[LINE]装備できるようだ。[LINE][WAIT][END STRING AC]"
+        },
+        {
+          "id": 5703,
+          "text": "の　ようだ。[CODE D5][LINE][WAIT][END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 5702,
+      "status": "DIFFERE",
+      "sfc_jp": "が[LINE]装備できるようだ。[LINE][WAIT][END STRING AC]",
+      "sfc_vf_secondaire": "peut l'utiliser.[CODE D5][LINE][WAIT][END STRING AC]",
+      "blocker": "Composition de noms C1 et raccord avec5698 déjà intégré à vérifier ; tester liste singulière/plurielle, noms longs, pagination et cas aucun porteur.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 5700,
+          "text": "[CODE C1][CODE D5][LINE][END STRING AE]"
+        },
+        {
+          "id": 5701,
+          "text": "そして......[CODE D5][WAIT][END STRING AC]"
+        },
+        {
+          "id": 5702,
+          "text": "が[LINE]装備できるようだ。[LINE][WAIT][END STRING AC]"
+        },
+        {
+          "id": 5703,
+          "text": "の　ようだ。[CODE D5][LINE][WAIT][END STRING AC]"
+        },
+        {
+          "id": 5704,
+          "text": "今の　[CODE C9]と　仲間には[LINE]これを　装備できる者は[LINE]ひとりも　いないようだ。[WAIT][END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 5703,
+      "status": "DIFFERE",
+      "sfc_jp": "の　ようだ。[CODE D5][LINE][WAIT][END STRING AC]",
+      "sfc_vf_secondaire": "Aucun membre de l'équipe de [CODE C9] ne peut équiper ceci.[WAIT][END STRING AC]",
+      "blocker": "Composition de noms C1 et raccord avec5698 déjà intégré à vérifier ; tester liste singulière/plurielle, noms longs, pagination et cas aucun porteur.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 5701,
+          "text": "そして......[CODE D5][WAIT][END STRING AC]"
+        },
+        {
+          "id": 5702,
+          "text": "が[LINE]装備できるようだ。[LINE][WAIT][END STRING AC]"
+        },
+        {
+          "id": 5703,
+          "text": "の　ようだ。[CODE D5][LINE][WAIT][END STRING AC]"
+        },
+        {
+          "id": 5704,
+          "text": "今の　[CODE C9]と　仲間には[LINE]これを　装備できる者は[LINE]ひとりも　いないようだ。[WAIT][END STRING AC]"
+        },
+        {
+          "id": 5705,
+          "text": "もし　店屋に　売れば[LINE][CODE BB]ゴールドに　なるだろう。[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6040,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "キャンセル歩行を　できる様にしますか?[END STRING AC]",
+      "sfc_vf_secondaire": "6040<0559>[END STRING AC]",
+      "blocker": "Fonction exacte de キャンセル歩行 à vérifier dans le code et le contexte debug.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6038,
+          "text": "ふくろを　持っていれば[LINE]装備品以外を　ふくろに　いれます。[END STRING AC]"
+        },
+        {
+          "id": 6039,
+          "text": "ただいま　作成中です![END STRING AC]"
+        },
+        {
+          "id": 6040,
+          "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+        },
+        {
+          "id": 6041,
+          "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+        },
+        {
+          "id": 6042,
+          "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6041,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "キャンセル歩行を　できる様にしました。[END STRING AC]",
+      "sfc_vf_secondaire": "6041<0559>[END STRING AC]",
+      "blocker": "Même fonction que6040.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6039,
+          "text": "ただいま　作成中です![END STRING AC]"
+        },
+        {
+          "id": 6040,
+          "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+        },
+        {
+          "id": 6041,
+          "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+        },
+        {
+          "id": 6042,
+          "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+        },
+        {
+          "id": 6043,
+          "text": "ランダムエンカウントを　行ないますか?[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6042,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "キャンセル歩行を　できない様にしました。[END STRING AC]",
+      "sfc_vf_secondaire": "6042<0559>[END STRING AC]",
+      "blocker": "Même fonction que6040.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6040,
+          "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+        },
+        {
+          "id": 6041,
+          "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+        },
+        {
+          "id": 6042,
+          "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+        },
+        {
+          "id": 6043,
+          "text": "ランダムエンカウントを　行ないますか?[END STRING AC]"
+        },
+        {
+          "id": 6044,
+          "text": "ランダムエンカウントが[LINE]起こる様にしました。[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6046,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "開始フロアを　インチキフロアとしますか?[END STRING AC]",
+      "sfc_vf_secondaire": "6046<0559>[END STRING AC]",
+      "blocker": "Identité du niveau インチキフロア à établir.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6044,
+          "text": "ランダムエンカウントが[LINE]起こる様にしました。[END STRING AC]"
+        },
+        {
+          "id": 6045,
+          "text": "ランダムエンカウントが[LINE]起こらない様にしました。[END STRING AC]"
+        },
+        {
+          "id": 6046,
+          "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+        },
+        {
+          "id": 6047,
+          "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+        },
+        {
+          "id": 6048,
+          "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6047,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "開始フロアを　インチキフロアとします。[END STRING AC]",
+      "sfc_vf_secondaire": "6047<0559>[END STRING AC]",
+      "blocker": "Même niveau que6046.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6045,
+          "text": "ランダムエンカウントが[LINE]起こらない様にしました。[END STRING AC]"
+        },
+        {
+          "id": 6046,
+          "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+        },
+        {
+          "id": 6047,
+          "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+        },
+        {
+          "id": 6048,
+          "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+        },
+        {
+          "id": 6049,
+          "text": "座標ウインドウを　使いますか?[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6048,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "開始フロアを　標準フロアとします。[END STRING AC]",
+      "sfc_vf_secondaire": "6048<0559>[END STRING AC]",
+      "blocker": "Opposition au niveau6046 à établir.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6046,
+          "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+        },
+        {
+          "id": 6047,
+          "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+        },
+        {
+          "id": 6048,
+          "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+        },
+        {
+          "id": 6049,
+          "text": "座標ウインドウを　使いますか?[END STRING AC]"
+        },
+        {
+          "id": 6050,
+          "text": "座標ウインドウを　使用できます。[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6184,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]",
+      "sfc_vf_secondaire": "6184<0559>[LINE][LINE][WAIT][END STRING AC]",
+      "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6182,
+          "text": "経験値　ほしい?[END STRING AC]"
+        },
+        {
+          "id": 6183,
+          "text": "呪文　おぼえる?[END STRING AC]"
+        },
+        {
+          "id": 6184,
+          "text": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]"
+        },
+        {
+          "id": 6185,
+          "text": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]"
+        },
+        {
+          "id": 6186,
+          "text": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6185,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]",
+      "sfc_vf_secondaire": "6185<0559>[END STRING AC]",
+      "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6183,
+          "text": "呪文　おぼえる?[END STRING AC]"
+        },
+        {
+          "id": 6184,
+          "text": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]"
+        },
+        {
+          "id": 6185,
+          "text": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]"
+        },
+        {
+          "id": 6186,
+          "text": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]"
+        },
+        {
+          "id": 6187,
+          "text": "マップチェックのための[LINE]設定を　行ないますか?[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6186,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]",
+      "sfc_vf_secondaire": "6186<0559>[END STRING AC]",
+      "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6184,
+          "text": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]"
+        },
+        {
+          "id": 6185,
+          "text": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]"
+        },
+        {
+          "id": 6186,
+          "text": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]"
+        },
+        {
+          "id": 6187,
+          "text": "マップチェックのための[LINE]設定を　行ないますか?[END STRING AC]"
+        },
+        {
+          "id": 6188,
+          "text": "シナリオチェックは　出来ませんが[LINE]よろしいですか?[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6193,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "合体しちゃってもいい?[END STRING AC]",
+      "sfc_vf_secondaire": "<0559>Voudriez vous vous joindre à moi?[END STRING AC]",
+      "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6191,
+          "text": "マップチェックモードです。[WAIT][LINE]シナリオデバッグは　ダメよ。[END STRING AC]"
+        },
+        {
+          "id": 6192,
+          "text": "もう　どうなってもいい?[END STRING AC]"
+        },
+        {
+          "id": 6193,
+          "text": "合体しちゃってもいい?[END STRING AC]"
+        },
+        {
+          "id": 6194,
+          "text": "しずくを　たらしちゃってもいい?[END STRING AC]"
+        },
+        {
+          "id": 6195,
+          "text": "せめて　まわしちゃってもいい?[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6194,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "しずくを　たらしちゃってもいい?[END STRING AC]",
+      "sfc_vf_secondaire": "<0559>Seriez-vous en train d'essayer de me séduire?[END STRING AC]",
+      "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6192,
+          "text": "もう　どうなってもいい?[END STRING AC]"
+        },
+        {
+          "id": 6193,
+          "text": "合体しちゃってもいい?[END STRING AC]"
+        },
+        {
+          "id": 6194,
+          "text": "しずくを　たらしちゃってもいい?[END STRING AC]"
+        },
+        {
+          "id": 6195,
+          "text": "せめて　まわしちゃってもいい?[END STRING AC]"
+        },
+        {
+          "id": 6196,
+          "text": "いくぢなし......。[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6195,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "せめて　まわしちゃってもいい?[END STRING AC]",
+      "sfc_vf_secondaire": "6195<0559>[END STRING AC]",
+      "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise.",
+      "needed_evidence": "Appel natif et contexte technique, effets/branches observables ; pas de validation sur traduction littérale seule.",
+      "context": [
+        {
+          "id": 6193,
+          "text": "合体しちゃってもいい?[END STRING AC]"
+        },
+        {
+          "id": 6194,
+          "text": "しずくを　たらしちゃってもいい?[END STRING AC]"
+        },
+        {
+          "id": 6195,
+          "text": "せめて　まわしちゃってもいい?[END STRING AC]"
+        },
+        {
+          "id": 6196,
+          "text": "いくぢなし......。[END STRING AC]"
+        },
+        {
+          "id": 6197,
+          "text": "あなた　ふくろ　ほしいか?[END STRING AC]"
+        }
+      ]
+    },
+    {
+      "id": 6956,
+      "status": "PREPARE_NON_INSERE",
+      "sfc_jp": "ルイーダ「[CODE C9]さんは　まだ[LINE]　　やらなくては　いけないことが[LINE]　　あるんじゃないかしら。[WAIT]子ホのれなのれま　れレおえ...士...が[LINE]...[LINE][LINE]のせにおな[LINE]...[WAIT][LINE]...すうらレゃ強[LINE]なの!ま　!レせか...　[LINE]のどか...か[LINE]...[END STRING AC]",
+      "sfc_vf_secondaire": "6956<0559>Luisa[CODE C9][LINE][LINE][WAIT][LINE][LINE][LINE][LINE][WAIT][END STRING AC]",
+      "blocker": "Need native last-message termination proof before replacing the truncated tail. No AC present within the bounded meaningful prefix.",
+      "needed_evidence": "Need native last-message termination proof before replacing the truncated tail. No AC present within the bounded meaningful prefix.",
+      "context": [
+        {
+          "id": 6954,
+          "text": "ルイーダ「[CODE C0]さんの[LINE]　　もっていた道具は[LINE]　　預り所に　送っておくわね。[WAIT][END STRING AE]"
+        },
+        {
+          "id": 6955,
+          "text": "ルイーダ「[CODE C0]さんは[LINE]　　馬車に　いるのね。[WAIT][LINE]ルイーダ「こちらへ　もどるように[LINE]　　伝えておきますわ。[WAIT][END STRING AC]"
+        },
+        {
+          "id": 6956,
+          "text": "ルイーダ「[CODE C9]さんは　まだ[LINE]　　やらなくては　いけないことが[LINE]　　あるんじゃないかしら。[WAIT]子ホのれなのれま　れレおえ...士...が[LINE]...[LINE][LINE]のせにおな[LINE]...[WAIT][LINE]...すうらレゃ強[LINE]なの!ま　!レせか...　[LINE]のどか...か[LINE]...[END STRING AC]"
+        }
+      ]
+    }
+  ],
+  "exhaustive_french_reread_started": false
+}

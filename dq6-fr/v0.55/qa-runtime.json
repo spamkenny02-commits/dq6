@@ -1,0 +1,8 @@
+{
+  "result_sha256": "b8b71792ae2d490e12467e2c9ead4148481b8985e6e0a01868bbd80f6a829e63",
+  "boot_output": "{\"groups_checked\": 906, \"bytes_checked\": 529375, \"upper_groups\": 392, \"all_rom_bus_reads_match\": true}\n{\"pixel_format\": 2, \"screenshot\": \"v055-boot\", \"message_id\": 55768, \"frame_mean\": 15.146670386904763}\nMap_ExtendedHiROMMap\n",
+  "boot_screenshot": "screenshots/v055-boot.png",
+  "boot_screenshot_sha256": "52fb1b4bfe419aad24adc931cece2186eb22549243ee19e124c35ff4ad373432",
+  "probes": [],
+  "limits": "Cold boot and ROM bus only. Compositions covered separately; no natural scenes validated."
+}

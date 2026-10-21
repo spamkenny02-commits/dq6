@@ -1,3 +1,7 @@
+# Reprise v0.55
+
+29 traductions et9 restaurations exactes de structure. Toutes les6903 anciennes sélections inchangées. Tests de composition AE, énigme et directions ; audits naturels ouverts. 16 textes restants :12 debug ambigus et6956 préparés non insérés,3 fragments équipement différés. Tables, recherche exhaustive des oublis, relecture intégrale et audits naturels à poursuivre. Ne pas recycler cette revue. Ne pas prendre les9 structures pour9 traductions.
+
 # Reprise v0.54
 
 8 textes à commandes natives C7/DC/E0/E1 relus. Autorisation minimale du compilateur, moteur et anciens tokens inchangés ; branches et noms testés en diagnostic. Continuer les54 entrées dont25 préparées non insérées, fragments assemblés, tables, audits naturels et relecture exhaustive. Ne pas recycler la revue de ce lot.

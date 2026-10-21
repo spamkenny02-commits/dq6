@@ -1,0 +1,14 @@
+[
+  {
+    "id": 6956,
+    "status": "PREPARE_NON_INSERE",
+    "sfc_jp": "ルイーダ「[CODE C9]さんは　まだ[LINE]　　やらなくては　いけないことが[LINE]　　あるんじゃないかしら。[WAIT]子ホのれなのれま　れレおえ...士...が[LINE]...[LINE][LINE]のせにおな[LINE]...[WAIT][LINE]...すうらレゃ強[LINE]なの!ま　!レせか...　[LINE]のどか...か[LINE]...[END STRING AC]",
+    "sfc_vf_secondaire": "6956<0559>Luisa[CODE C9][LINE][LINE][WAIT][LINE][LINE][LINE][LINE][WAIT][END STRING AC]",
+    "proposed_french": "Tulipe. {C9} a encore quelque chose à accomplir, non ?{AF}",
+    "blocker": "Need native last-message termination proof before replacing the truncated tail. No AC present within the bounded meaningful prefix.",
+    "ds_reference": {
+      "file": "data/MESS6/JA/0816.p",
+      "id": 12
+    }
+  }
+]

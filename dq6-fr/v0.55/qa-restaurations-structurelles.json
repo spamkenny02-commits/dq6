@@ -1,0 +1,205 @@
+{
+  "count": 9,
+  "rows": [
+    {
+      "id": 1,
+      "jp_tokens": [
+        213,
+        222,
+        175,
+        172
+      ],
+      "ips_tokens": [
+        213,
+        222,
+        175,
+        172
+      ],
+      "final_tokens": [
+        213,
+        222,
+        175,
+        172
+      ],
+      "ips_already_identical": true,
+      "linguistic_translation": false
+    },
+    {
+      "id": 2,
+      "jp_tokens": [
+        222,
+        173,
+        174
+      ],
+      "ips_tokens": [
+        222,
+        173,
+        174
+      ],
+      "final_tokens": [
+        222,
+        173,
+        174
+      ],
+      "ips_already_identical": true,
+      "linguistic_translation": false
+    },
+    {
+      "id": 3,
+      "jp_tokens": [
+        222,
+        172
+      ],
+      "ips_tokens": [
+        222,
+        172
+      ],
+      "final_tokens": [
+        222,
+        172
+      ],
+      "ips_already_identical": true,
+      "linguistic_translation": false
+    },
+    {
+      "id": 2358,
+      "jp_tokens": [
+        172
+      ],
+      "ips_tokens": [
+        172
+      ],
+      "final_tokens": [
+        172
+      ],
+      "ips_already_identical": true,
+      "linguistic_translation": false
+    },
+    {
+      "id": 5699,
+      "jp_tokens": [
+        193,
+        512,
+        213,
+        174
+      ],
+      "ips_tokens": [
+        193,
+        213,
+        173,
+        174
+      ],
+      "final_tokens": [
+        193,
+        512,
+        213,
+        174
+      ],
+      "ips_already_identical": false,
+      "linguistic_translation": false
+    },
+    {
+      "id": 5700,
+      "jp_tokens": [
+        193,
+        213,
+        173,
+        174
+      ],
+      "ips_tokens": [
+        538,
+        564,
+        582,
+        213,
+        175,
+        172
+      ],
+      "final_tokens": [
+        193,
+        213,
+        173,
+        174
+      ],
+      "ips_already_identical": false,
+      "linguistic_translation": false
+    },
+    {
+      "id": 5775,
+      "jp_tokens": [
+        172
+      ],
+      "ips_tokens": [
+        192,
+        512,
+        575,
+        534,
+        542,
+        536,
+        538,
+        512,
+        178,
+        578,
+        175,
+        172
+      ],
+      "final_tokens": [
+        172
+      ],
+      "ips_already_identical": false,
+      "linguistic_translation": false
+    },
+    {
+      "id": 6213,
+      "jp_tokens": [
+        512,
+        512,
+        512,
+        512,
+        512,
+        512,
+        213,
+        175,
+        174
+      ],
+      "ips_tokens": [
+        213,
+        175,
+        174
+      ],
+      "final_tokens": [
+        512,
+        512,
+        512,
+        512,
+        512,
+        512,
+        213,
+        175,
+        174
+      ],
+      "ips_already_identical": false,
+      "linguistic_translation": false
+    },
+    {
+      "id": 6214,
+      "jp_tokens": [
+        213,
+        175,
+        172
+      ],
+      "ips_tokens": [
+        213,
+        175,
+        172
+      ],
+      "final_tokens": [
+        213,
+        175,
+        172
+      ],
+      "ips_already_identical": true,
+      "linguistic_translation": false
+    }
+  ],
+  "isolated_legacy_audit": "Corrects earlier assumption that every unselected structural entry was already safe in the IPS fallback. 5700/5775 contain unrelated shifted French text;5699/6213 differ in spaces/layout. Source exact restored, not new French translations. Existing6903 selections untouched."
+}
