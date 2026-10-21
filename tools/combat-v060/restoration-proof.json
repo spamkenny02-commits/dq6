@@ -1,0 +1,30 @@
+{
+  "published_commit": "8666aa52a62fc6ea5c43e3e9ad281e123496086f",
+  "fresh_git_archive_restored": true,
+  "restore_sources_exit_code": 0,
+  "preparation_verifier_exit_code": 0,
+  "published_manifest_files_checked": [
+    "REPRISE-AUTOMATIQUE.md",
+    "etat-projet.json",
+    "preparations/combat-v060/nom-celeste.json",
+    "preparations/combat-v060/qa-preparation.json",
+    "preparations/combat-v060/verify.py",
+    "tools/combat-v060/README.md",
+    "tools/combat-v060/natural-actions.json",
+    "tools/combat-v060/qa-natural-replay.json",
+    "tools/combat-v060/qa-resident-font.json",
+    "tools/combat-v060/resident_font_probe.py"
+  ],
+  "resident_font_probe_exit_code": 0,
+  "resident_font_and_reviewed_tile_hashes_reproduced": true,
+  "resident_reviewed_glyphs": 71,
+  "ROM_release_unchanged": "v0.56",
+  "new_integrated": 0,
+  "new_prepared_names": 1,
+  "prepared_battle_unchanged": 107,
+  "battle_scene_validated": false,
+  "limits": [
+    "Field atlas only, no native battle/variable/pagination approval.",
+    "Accent extension not implemented; two semantic battle reserves remain."
+  ]
+}
