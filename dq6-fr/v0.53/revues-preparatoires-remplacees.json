@@ -1,0 +1,63 @@
+[
+  {
+    "id": 2683,
+    "file": "0065.p",
+    "ids": [
+      585,
+      586
+    ],
+    "sfc_jp": "[CODE D4]村長「おお!　キミ[CODE C4]は[LINE][CODE C9]の仲間だね。[WAIT][LINE][CODE D4]村長「[CODE C9]に　つたえてくれんか。[LINE]村長が　会いたがっていたと。[END STRING AC]",
+    "ds_jp": [
+      "@a@b村長「おお！　キミたちは\n\t%a000090の仲間だね。\n@c0@",
+      "@a@b村長「%a000090に　つたえてくれんか。\n\t村長が　会いたがっていたと。\n@c0@"
+    ],
+    "ds_fr": "Ah, vous êtes %H0860%X%A0110%Xl'ami%Z%B0110%Xl'amie%Z%Yles compagnons%Z %G0090%Xd'%Yde %Z%a000090, n'est-ce pasⓡ Ravi de vous rencontrer. Si vous le pouvez, dites à %a000090 que j'aimerais lui parler. Merci beaucoupⓠ",
+    "review": "Séquence japonaise complète relue : différences écrites ou reformulations équivalentes ; les commandes restent filtrées.",
+    "reviewed_differences": [
+      {
+        "before": "",
+        "after": "たち"
+      }
+    ]
+  },
+  {
+    "id": 2684,
+    "file": "0065.p",
+    "ids": [
+      588,
+      589
+    ],
+    "sfc_jp": "[CODE D4]村長「おお!　キミ[CODE C4]は[LINE][CODE C9]の仲間だね。[WAIT][LINE][CODE D4]村長「キミたちに　負けないよう[LINE]わしも　がんばって　この村を[LINE]守るよ。[END STRING AC]",
+    "ds_jp": [
+      "@a@b村長「おお！　キミたちは\n\t%a000090の仲間だね。\n@c0@",
+      "@a@b村長「キミたちに　負けないよう\n\tわしも　がんばって\n\tこの村を　守るよ。\n@c0@"
+    ],
+    "ds_fr": "Ah, vous êtes %H0860%X%A0110%Xl'ami%Z%B0110%Xl'amie%Z%Yles compagnons%Z %G0090%Xd'%Yde %Z%a000090, n'est-ce pasⓡ Ravi de vous rencontrer. Je fais le maximum pour faire régner l'ordre au pic des Tisseurs. Je ne voudrais pas %H0860%Xte%Yvous%Z décevoirⓠ",
+    "review": "Séquence japonaise complète relue : différences écrites ou reformulations équivalentes ; les commandes restent filtrées.",
+    "reviewed_differences": [
+      {
+        "before": "",
+        "after": "たち"
+      }
+    ]
+  },
+  {
+    "id": 3728,
+    "file": "0033.p",
+    "ids": [
+      576
+    ],
+    "sfc_jp": "どちらにしても　あなた[CODE C4]には[LINE]お話　しておいたほうが[LINE]よいでしょう。[WAIT][END STRING AC]",
+    "ds_jp": [
+      "@a@b＊「どちらにしても　あなたたちには\n\tお話　しておいたほうが\n\tよいでしょう。\n@c0@"
+    ],
+    "ds_fr": "Je vois. Je crois qu'il faut que vous sachiez quelque chose.",
+    "review": "Séquence japonaise complète relue : différences écrites ou reformulations équivalentes ; les commandes restent filtrées.",
+    "reviewed_differences": [
+      {
+        "before": "",
+        "after": "たち"
+      }
+    ]
+  }
+]

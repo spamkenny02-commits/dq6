@@ -1,3 +1,7 @@
+# Reprise v0.53
+
+12 textes : six C4, casino, variante technique à X littéraux, refrain et libellés. Commandes et noms natifs gardés, deux branches C4 testées en diagnostic. Continuer les62 entrées dont25 préparées non insérées, les tables et audits naturels. Recherche des oublis et relecture exhaustive encore à faire. Ne pas recycler la revue de ce lot.
+
 # Reprise v0.52
 
 Trois indices relus : orbe1135, salle à répétition2404, bouclier5341. Écarts SFC/DS explicitement conservés ; parcours naturels encore ouverts. Continuer les74 entrées, dont26 préparées non insérées, puis les tables, recherche des oublis et relecture complète. Ne pas recycler la revue de ce lot.

@@ -1,22 +1,22 @@
 {
-  "release": "v0.52",
+  "release": "v0.53",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 6883,
+    "validated": 6895,
     "visible_total": 6957,
-    "new_this_pass": 3,
-    "remaining": 74
+    "new_this_pass": 12,
+    "remaining": 62
   },
-  "baseline": "v0.51",
+  "baseline": "v0.52",
   "prepared_not_inserted": {
-    "main": 26,
+    "main": 25,
     "separate_places": 25,
     "reviewed_fragments": 12,
-    "draft_main": 14
+    "draft_main": 13
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.52",
+    "inventory_version": "v0.53",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -29,8 +29,8 @@
     "native_grammar_helpers_adapted": 4
   },
   "rom_bytes": 8388608,
-  "notes": "Trois indices relus : orbe1135, salle à répétition2404, bouclier5341. Écarts SFC/DS explicitement conservés ; parcours naturels encore ouverts.",
-  "next": "Continuer les74 entrées, dont26 préparées non insérées, puis les tables, recherche des oublis et relecture complète.",
+  "notes": "12 textes : six C4, casino, variante technique à X littéraux, refrain et libellés. Commandes et noms natifs gardés, deux branches C4 testées en diagnostic.",
+  "next": "Continuer les62 entrées dont25 préparées non insérées, les tables et audits naturels. Recherche des oublis et relecture exhaustive encore à faire.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,

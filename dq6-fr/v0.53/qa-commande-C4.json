@@ -1,0 +1,21 @@
+{
+  "result_sha256": "8153c7caec1f3791063cc5181480e7a9ad152fcf890929abe609c705b2aeaf78",
+  "handler_rom_offset": "0x6927b",
+  "handler_bytes": "221c2bc401ff3af006a918014c0c926b221c2bc401ff3af006a91c014c0c926b",
+  "native_handler_unchanged_from_v052": true,
+  "diagnostic_return_counts": [
+    1,
+    2
+  ],
+  "observed_count1": "No et Cie suffix",
+  "observed_count2": "et Cie appended to vous",
+  "ids": [
+    2664,
+    2683,
+    2684,
+    3728,
+    4854,
+    5195
+  ],
+  "natural_party_count_verified": false
+}

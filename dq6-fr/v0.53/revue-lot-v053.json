@@ -1,0 +1,495 @@
+[
+  {
+    "id": 0,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE]ノーメッセージ[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE DE]Aucun message[END STRING AC]",
+    "native_plan": "{DE}Aucun message",
+    "original_body": "{DE}Aucun message",
+    "adaptation_body": "{DE}Aucun message",
+    "adaptation_speaker": "",
+    "adaptation_review": "Libellé technique non vide ノーメッセージ : Aucun message. DE natif conservé ; aucune entrée vide comptée comme traduction.",
+    "review": "Libellé technique non vide ノーメッセージ : Aucun message. DE natif conservé ; aucune entrée vide comptée comme traduction.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_DE": 222
+    },
+    "sfc_context": [
+      {
+        "id": 0,
+        "text": "[CODE DE]ノーメッセージ[END STRING AC]"
+      },
+      {
+        "id": 1,
+        "text": "[CODE D5][CODE DE][WAIT][END STRING AC]"
+      },
+      {
+        "id": 2,
+        "text": "[CODE DE][LINE][END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE BB]ドル　スロットマシンが　あります。[WAIT][LINE]1かい　[CODE BB]まいの　コインで　あそべます。[LINE]やってみますか?[END STRING AC]",
+    "sfc_vf_secondaire": "C'est une machine à sous à [CODE BB] piêces. Vas-tu jouer?[END STRING AC]",
+    "native_plan": "Machine à sous à {BB} jetons.{AF}Une partie coûte {BB} jetons. Voulez-vous jouer ?",
+    "original_body": "Machine à sous à {BB} jetons.{AF}Une partie coûte {BB} jetons. Voulez-vous jouer ?",
+    "adaptation_body": "Machine à sous à {BB} jetons.{AF}Une partie coûte {BB} jetons. Voulez-vous jouer ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "DS0824:0 confirme machine à sous et coût en jetons. SFC garde deux BB distincts dans le même ordre : dénomination ドル et coût en pièces まい. Localisation casino en jetons sans conversion numérique. Aucune partie réelle ni débit testé.",
+    "review": "DS0824:0 confirme machine à sous et coût en jetons. SFC garde deux BB distincts dans le même ordre : dénomination ドル et coût en pièces まい. Localisation casino en jetons sans conversion numérique. Aucune partie réelle ni débit testé.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0824.p",
+        "id": 0,
+        "ja": "@a@b%a001070コインスロットが　ある。\n遊んでみますか？\n@c0@",
+        "fr": "@a@bCette machine à sous coûte %a001070 jeton%I1070%X%Ys%Z par tour.\nEssayerⓡ\n@c0@"
+      }
+    ],
+    "native_bindings": {
+      "native_BB": 187
+    },
+    "sfc_context": [
+      {
+        "id": 72,
+        "text": "ここは　ポーカーテーブルです。[LINE]やりますか?[END STRING AC]"
+      },
+      {
+        "id": 73,
+        "text": "では　またどうぞ。[END STRING AC]"
+      },
+      {
+        "id": 74,
+        "text": "[CODE BB]ドル　スロットマシンが　あります。[WAIT][LINE]1かい　[CODE BB]まいの　コインで　あそべます。[LINE]やってみますか?[END STRING AC]"
+      },
+      {
+        "id": 75,
+        "text": "開けようとしたが　この門には[LINE]カギ穴が　みあたらない![END STRING AC]"
+      },
+      {
+        "id": 76,
+        "text": "自分たちの姿が　うつっている。[LINE]ただのカガミのようだ......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 1716,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "今　わしが　[CODE D3]から[LINE]あずかっているメダルは[LINE]ぜんぶで　X枚じゃ。[WAIT][LINE]つぎは　X枚に　なったときに[LINE][CODE B5]を　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]",
+    "sfc_vf_secondaire": "I'll take care of your [CODE BB] medals.[WAIT][LINE]I have a [CODE B5] for you if you can collect [CODE BB] medals.[END STRING AC]",
+    "native_plan": "Je garde actuellement un total de X médailles pour {D3}.{AF}Quand vous en aurez X, vous recevrez {B5} en récompense. Continuez à en chercher !",
+    "original_body": "Je garde actuellement un total de X médailles pour {D3}.{AF}Quand vous en aurez X, vous recevrez {B5} en récompense. Continuez à en chercher !",
+    "adaptation_body": "Je garde actuellement un total de X médailles pour {D3}.{AF}Quand vous en aurez X, vous recevrez {B5} en récompense. Continuez à en chercher !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Deux X sont littéraux dans le japonais SFC, sans BB. D3 puis B5 conservés. Ancien IPS reprend une autre variante à BB : rejeté. Texte probablement technique, ne pas prétendre valider un compteur réel.",
+    "review": "Deux X sont littéraux dans le japonais SFC, sans BB. D3 puis B5 conservés. Ancien IPS reprend une autre variante à BB : rejeté. Texte probablement technique, ne pas prétendre valider un compteur réel.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_D3": 211,
+      "native_B5": 181
+    },
+    "sfc_context": [
+      {
+        "id": 1714,
+        "text": "よし!　これで　[CODE D3]は[LINE][CODE BB]枚以上　メダルを集めたので[LINE]これを　ほうびに　とらせよう![WAIT][END STRING AC]"
+      },
+      {
+        "id": 1715,
+        "text": "[CODE D3]は[CODE B5]を[LINE]うけとった![END STRING AC]"
+      },
+      {
+        "id": 1716,
+        "text": "今　わしが　[CODE D3]から[LINE]あずかっているメダルは[LINE]ぜんぶで　X枚じゃ。[WAIT][LINE]つぎは　X枚に　なったときに[LINE][CODE B5]を　あたえよう。[LINE]がんばって　集めるのじゃぞ![END STRING AC]"
+      },
+      {
+        "id": 1717,
+        "text": "いや　ゆかい　ゆかい![LINE]じつに　たくさんのメダルが[LINE]集まったものじゃ![WAIT][LINE]これも　[CODE D3]。[LINE]そなたたちの　おかげじゃて。[WAIT][LINE]これから先　このメダルは[LINE]わが王家の宝として　代々[LINE]伝わっていくであろう。[WAIT][LINE]ごくろうであったな　[CODE D3]よ![LINE]そなたたちの　この先の道中[LINE]気をつけていくがよい![END STRING AC]"
+      },
+      {
+        "id": 1718,
+        "text": "ここは　メダル王の宝物の倉庫です。[LINE]なん枚あつめると　なにが[LINE]もらえるか　ごらんになりますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2664,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "おや　あんた[CODE C4]は　[CODE C9]の[LINE]仲間かい?　だったら　[CODE C9]にも[LINE]帰るよう　つたえておくれ。[END STRING AC]",
+    "sfc_vf_secondaire": "2664<0559>[CODE C9][LINE][CODE C9][END STRING AC]",
+    "native_plan": "Ah, vous{C4} voyagez avec {C9} ? Dans ce cas, dites à {C9} de rentrer.",
+    "original_body": "Ah, vous{C4} voyagez avec {C9} ? Dans ce cas, dites à {C9} de rentrer.",
+    "adaptation_body": "Ah, vous{C4} voyagez avec {C9} ? Dans ce cas, dites à {C9} de rentrer.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et voisins relus directement. C4 natif conditionnel conservé après vous : accord compatible avec une personne vouvoyée ou un groupe, sans figer les compagnons. C9 et D4 gardés dans leur ordre. Aucun équivalent DS complet établi ; IPS secondaire lacunaire ou décalé non admis comme validation. Deux branches C4 à tester en diagnostic, scène naturelle encore ouverte.",
+    "review": "Japonais SFC et voisins relus directement. C4 natif conditionnel conservé après vous : accord compatible avec une personne vouvoyée ou un groupe, sans figer les compagnons. C9 et D4 gardés dans leur ordre. Aucun équivalent DS complet établi ; IPS secondaire lacunaire ou décalé non admis comme validation. Deux branches C4 à tester en diagnostic, scène naturelle encore ouverte.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_C4": 196,
+      "native_C9": 201
+    },
+    "sfc_context": [
+      {
+        "id": 2662,
+        "text": "[CODE D4]ターニア「それじゃ　おやすみなさい。[END STRING AC]"
+      },
+      {
+        "id": 2663,
+        "text": "[CODE D4]ターニア「[CODE C9]にいちゃんは[LINE]あいかわらず　元気よね。[WAIT][LINE][CODE D4]ターニア「元気すぎて　そのうち[LINE]私の前から　いなくなっちゃう[LINE]なんて思うことも　あるけど[WAIT][LINE][CODE D4]ターニア「もし　そうなっても[LINE]私は　大丈夫だからね。[WAIT][LINE][CODE D4]ターニア「ときどき　思うの。[LINE]これは夢で　私には　本当は[LINE]お兄ちゃんは　いないんじゃって。[WAIT][LINE][CODE D4]ターニア「あれ　なに　いってんだろ。[LINE]私　どうかしてるよね。[LINE]ごめんね。気にしないで。[END STRING AC]"
+      },
+      {
+        "id": 2664,
+        "text": "おや　あんた[CODE C4]は　[CODE C9]の[LINE]仲間かい?　だったら　[CODE C9]にも[LINE]帰るよう　つたえておくれ。[END STRING AC]"
+      },
+      {
+        "id": 2665,
+        "text": "おや　[CODE C9]...?　なんだか[LINE]しばらく見ないうちに　ふんい気が[LINE]変わったようだけど...[END STRING AC]"
+      },
+      {
+        "id": 2666,
+        "text": "おや　[CODE C9]!　すっかり[LINE]たくましく...　というか[LINE]かんろくが　ついちゃって![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2683,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]村長「おお!　キミ[CODE C4]は[LINE][CODE C9]の仲間だね。[WAIT][LINE][CODE D4]村長「[CODE C9]に　つたえてくれんか。[LINE]村長が　会いたがっていたと。[END STRING AC]",
+    "sfc_vf_secondaire": "2683<0559>[CODE D4][LINE][CODE C9][WAIT][LINE][CODE D4][CODE C9][END STRING AC]",
+    "native_plan": "{D4}Maire. Oh ! Vous{C4} voyagez avec {C9}.{AF}{D4}Maire. Dites à {C9} que le maire souhaite le voir.",
+    "original_body": "{D4}Maire. Oh ! Vous{C4} voyagez avec {C9}.{AF}{D4}Maire. Dites à {C9} que le maire souhaite le voir.",
+    "adaptation_body": "{D4}Maire. Oh ! Vous{C4} voyagez avec {C9}.{AF}{D4}Maire. Dites à {C9} que le maire souhaite le voir.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et voisins relus directement. C4 natif conditionnel conservé après vous : accord compatible avec une personne vouvoyée ou un groupe, sans figer les compagnons. C9 et D4 gardés dans leur ordre. Aucun équivalent DS complet établi ; IPS secondaire lacunaire ou décalé non admis comme validation. Deux branches C4 à tester en diagnostic, scène naturelle encore ouverte.",
+    "review": "Japonais SFC et voisins relus directement. C4 natif conditionnel conservé après vous : accord compatible avec une personne vouvoyée ou un groupe, sans figer les compagnons. C9 et D4 gardés dans leur ordre. Aucun équivalent DS complet établi ; IPS secondaire lacunaire ou décalé non admis comme validation. Deux branches C4 à tester en diagnostic, scène naturelle encore ouverte.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_D4": 212,
+      "native_C4": 196,
+      "native_C9": 201
+    },
+    "sfc_context": [
+      {
+        "id": 2681,
+        "text": "[CODE D4]ランド「ところで　[CODE C9][LINE]あんた　本当に　ターニアちゃんの[LINE]アニキなのか......。[WAIT][LINE][CODE D4]ランド「あ　いや。なんでもないんだ。[LINE]ただ　ちょっと　そんなことが[LINE]頭に　うかんだもんだから...。[WAIT][LINE][CODE D4]ランド「ターニアちゃんのことは[LINE]まかしてもらって　気にせず[LINE]旅をつづけていいぜ。ア・ニ・キ![END STRING AC]"
+      },
+      {
+        "id": 2682,
+        "text": "私には　感じることが　できます。[LINE]大きな　とてつもなく[LINE]おそろしいチカラ...。[WAIT][LINE]あなたがたは　その　暗やみに[LINE]立ちむかおうと　しているのですね。[WAIT][LINE]ああ　山の精霊さまよ。[LINE]どうか　見守ってくださいまし...。[END STRING AC]"
+      },
+      {
+        "id": 2683,
+        "text": "[CODE D4]村長「おお!　キミ[CODE C4]は[LINE][CODE C9]の仲間だね。[WAIT][LINE][CODE D4]村長「[CODE C9]に　つたえてくれんか。[LINE]村長が　会いたがっていたと。[END STRING AC]"
+      },
+      {
+        "id": 2684,
+        "text": "[CODE D4]村長「おお!　キミ[CODE C4]は[LINE][CODE C9]の仲間だね。[WAIT][LINE][CODE D4]村長「キミたちに　負けないよう[LINE]わしも　がんばって　この村を[LINE]守るよ。[END STRING AC]"
+      },
+      {
+        "id": 2685,
+        "text": "[CODE D4]村長「おお　[CODE C9]か。[LINE]じつは　気になることがあって[LINE]もどるのを　まっておったのじゃ。[WAIT][LINE][CODE D4]村長「いや　おかしな話じゃが[LINE]このわしが　お前を　村から[LINE]おいだしたんじゃないかという...[WAIT][LINE][CODE D4]村長「近頃　そんな思いに[LINE]ふと　かられてしまってな。[WAIT][LINE][CODE D4]村長「だから　これだけは[LINE]いっておこうと　思ってな。[WAIT][LINE][CODE D4]村長「たしかに　わしは　お前に[LINE]旅の許可を　あたえたが　それは[LINE]出てゆけといったのじゃないぞ。[WAIT][LINE][CODE D4]村長「もどりたければ　いつでも[LINE]もどってきて　いいんじゃぞ。[LINE]これを　いいたかったんじゃ。[WAIT][LINE][CODE D4]村長「ふう......。これで　すっきりと[LINE]したわい。わしが　お前を[LINE]おいだすなど　ばかげたことじゃ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2684,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]村長「おお!　キミ[CODE C4]は[LINE][CODE C9]の仲間だね。[WAIT][LINE][CODE D4]村長「キミたちに　負けないよう[LINE]わしも　がんばって　この村を[LINE]守るよ。[END STRING AC]",
+    "sfc_vf_secondaire": "2684<0559>[CODE D4][LINE][CODE C9][WAIT][LINE][CODE D4][END STRING AC]",
+    "native_plan": "{D4}Maire. Oh ! Vous{C4} voyagez avec {C9}.{AF}{D4}Maire. Je ferai de mon mieux pour protéger ce village, afin de ne pas être en reste face à vous.",
+    "original_body": "{D4}Maire. Oh ! Vous{C4} voyagez avec {C9}.{AF}{D4}Maire. Je ferai de mon mieux pour protéger ce village, afin de ne pas être en reste face à vous.",
+    "adaptation_body": "{D4}Maire. Oh ! Vous{C4} voyagez avec {C9}.{AF}{D4}Maire. Je ferai de mon mieux pour protéger ce village, afin de ne pas être en reste face à vous.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et voisins relus directement. C4 natif conditionnel conservé après vous : accord compatible avec une personne vouvoyée ou un groupe, sans figer les compagnons. C9 et D4 gardés dans leur ordre. Aucun équivalent DS complet établi ; IPS secondaire lacunaire ou décalé non admis comme validation. Deux branches C4 à tester en diagnostic, scène naturelle encore ouverte.",
+    "review": "Japonais SFC et voisins relus directement. C4 natif conditionnel conservé après vous : accord compatible avec une personne vouvoyée ou un groupe, sans figer les compagnons. C9 et D4 gardés dans leur ordre. Aucun équivalent DS complet établi ; IPS secondaire lacunaire ou décalé non admis comme validation. Deux branches C4 à tester en diagnostic, scène naturelle encore ouverte.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_D4": 212,
+      "native_C4": 196,
+      "native_C9": 201
+    },
+    "sfc_context": [
+      {
+        "id": 2682,
+        "text": "私には　感じることが　できます。[LINE]大きな　とてつもなく[LINE]おそろしいチカラ...。[WAIT][LINE]あなたがたは　その　暗やみに[LINE]立ちむかおうと　しているのですね。[WAIT][LINE]ああ　山の精霊さまよ。[LINE]どうか　見守ってくださいまし...。[END STRING AC]"
+      },
+      {
+        "id": 2683,
+        "text": "[CODE D4]村長「おお!　キミ[CODE C4]は[LINE][CODE C9]の仲間だね。[WAIT][LINE][CODE D4]村長「[CODE C9]に　つたえてくれんか。[LINE]村長が　会いたがっていたと。[END STRING AC]"
+      },
+      {
+        "id": 2684,
+        "text": "[CODE D4]村長「おお!　キミ[CODE C4]は[LINE][CODE C9]の仲間だね。[WAIT][LINE][CODE D4]村長「キミたちに　負けないよう[LINE]わしも　がんばって　この村を[LINE]守るよ。[END STRING AC]"
+      },
+      {
+        "id": 2685,
+        "text": "[CODE D4]村長「おお　[CODE C9]か。[LINE]じつは　気になることがあって[LINE]もどるのを　まっておったのじゃ。[WAIT][LINE][CODE D4]村長「いや　おかしな話じゃが[LINE]このわしが　お前を　村から[LINE]おいだしたんじゃないかという...[WAIT][LINE][CODE D4]村長「近頃　そんな思いに[LINE]ふと　かられてしまってな。[WAIT][LINE][CODE D4]村長「だから　これだけは[LINE]いっておこうと　思ってな。[WAIT][LINE][CODE D4]村長「たしかに　わしは　お前に[LINE]旅の許可を　あたえたが　それは[LINE]出てゆけといったのじゃないぞ。[WAIT][LINE][CODE D4]村長「もどりたければ　いつでも[LINE]もどってきて　いいんじゃぞ。[LINE]これを　いいたかったんじゃ。[WAIT][LINE][CODE D4]村長「ふう......。これで　すっきりと[LINE]したわい。わしが　お前を[LINE]おいだすなど　ばかげたことじゃ。[END STRING AC]"
+      },
+      {
+        "id": 2686,
+        "text": "[CODE D4]村長「わしには　[CODE C9]を[LINE]手伝うことは　できんが　せめて[LINE]この村だけは　守ってみせるわい。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 3728,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "どちらにしても　あなた[CODE C4]には[LINE]お話　しておいたほうが[LINE]よいでしょう。[WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "3728<0559>[LINE][LINE][WAIT][END STRING AC]",
+    "native_plan": "Dans tous les cas, il est préférable que vous{C4} connaissiez cette histoire.{AF}",
+    "original_body": "Dans tous les cas, il est préférable que vous{C4} connaissiez cette histoire.{AF}",
+    "adaptation_body": "Dans tous les cas, il est préférable que vous{C4} connaissiez cette histoire.{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et voisins relus directement. C4 natif conditionnel conservé après vous : accord compatible avec une personne vouvoyée ou un groupe, sans figer les compagnons. C9 et D4 gardés dans leur ordre. Aucun équivalent DS complet établi ; IPS secondaire lacunaire ou décalé non admis comme validation. Deux branches C4 à tester en diagnostic, scène naturelle encore ouverte.",
+    "review": "Japonais SFC et voisins relus directement. C4 natif conditionnel conservé après vous : accord compatible avec une personne vouvoyée ou un groupe, sans figer les compagnons. C9 et D4 gardés dans leur ordre. Aucun équivalent DS complet établi ; IPS secondaire lacunaire ou décalé non admis comme validation. Deux branches C4 à tester en diagnostic, scène naturelle encore ouverte.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_C4": 196
+    },
+    "sfc_context": [
+      {
+        "id": 3726,
+        "text": "ムドーが　倒されて　ずいぶんたつが[LINE]世の中　ちっとも　平和にならない。[WAIT][LINE]オレが　思うに　ムドーよりすごい[LINE]大魔王みたいな　やつが　どこかに[LINE]いるからだ。そうに　ちがいないぜ![END STRING AC]"
+      },
+      {
+        "id": 3727,
+        "text": "おおっ　[CODE E0]は　あの時の。[LINE]元気にして　おられましたかな。[WAIT][LINE]こほっ!　そ...そういえば　今日は[LINE]ジーナさんたちに　会いに[LINE]いらしたのですかな?[END STRING AC]"
+      },
+      {
+        "id": 3728,
+        "text": "どちらにしても　あなた[CODE C4]には[LINE]お話　しておいたほうが[LINE]よいでしょう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 3729,
+        "text": "そう...　実は[LINE]ジーナさんと　イリアさんは[LINE]もう　ここには　いないのです。[WAIT][LINE]いえ。旅に出たのではなく[LINE]天に　めされたのです[LINE]おふたりとも......。[WAIT][LINE]ジーナさんも　イリアさんも[LINE]かなりの　お年でしたが[LINE]いざ　なくなってみると...[WAIT][LINE]心に　ぽっかりと　穴があいたようで[LINE]さびしい　気持ちは　かくせませんね。[WAIT][LINE]でも　あの人たちは　今でも[LINE]町の人たちの　胸の中で[LINE]生きているのです。[WAIT][LINE]2人と　親しかった　人たちに[LINE]会って　おゆきなさい。[WAIT][LINE]きっと　いろいろな　思い出や[LINE]なつかしい話が　聞けることでしょう。[END STRING AC]"
+      },
+      {
+        "id": 3730,
+        "text": "うんっ?　ジーナばあさんに[LINE]イリアじいさんだって?[WAIT][LINE]ああ。なんでも　オレが来る前に[LINE]ここで　はたらいてたらしいな。[WAIT][LINE]オレは　会ったことが　ないんだが[LINE]町の人の話だと　よく　はたらいて[LINE]みんなに　好かれていたようだぜ。[WAIT][LINE]オレも　年とったらよ[LINE]2人みたいに　なりたいもんさね![END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 4854,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "おお　これは　[CODE C9]王子の[LINE]おつれの方[CODE C4]　ですな。[LINE]よく　いらっしゃいました。[END STRING AC]",
+    "sfc_vf_secondaire": "Le roi et la reine sont toujours occupés…[WAIT][LINE]Mon mari a donc pris soin du jeune prince dans son enfance.[WAIT][LINE]Je sais qu'il a vieilli, mais je doute qu'il s'en souvienne.[END STRING AC]",
+    "native_plan": "Ah, l'escorte du prince {C9} ! Bienvenue à vous{C4}.",
+    "original_body": "Ah, l'escorte du prince {C9} ! Bienvenue à vous{C4}.",
+    "adaptation_body": "Ah, l'escorte du prince {C9} ! Bienvenue à vous{C4}.",
+    "adaptation_speaker": "",
+    "adaptation_review": "C9 qualifie le prince ; C4 qualifie son escorte/destinataire. Ne pas accoler et Cie au prince. Nom natif conservé ; forme vous compatible avec une personne vouvoyée ou le groupe.",
+    "review": "C9 qualifie le prince ; C4 qualifie son escorte/destinataire. Ne pas accoler et Cie au prince. Nom natif conservé ; forme vous compatible avec une personne vouvoyée ou le groupe.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_C9": 201,
+      "native_C4": 196
+    },
+    "sfc_context": [
+      {
+        "id": 4852,
+        "text": "すや　すや......。[END STRING AC]"
+      },
+      {
+        "id": 4853,
+        "text": "やや　[CODE C9]王子!　もう[LINE]お城づとめを　やめた　この　じいの[LINE]家を　たずねてくださるとは。[WAIT][LINE]王子は　あの頃と　変わらず[LINE]おやさしいですのう。[END STRING AC]"
+      },
+      {
+        "id": 4854,
+        "text": "おお　これは　[CODE C9]王子の[LINE]おつれの方[CODE C4]　ですな。[LINE]よく　いらっしゃいました。[END STRING AC]"
+      },
+      {
+        "id": 4855,
+        "text": "[CODE C9]さまが　ちいさかった頃も[LINE]王と王妃は　おいそがしくて　王子は[LINE]いつも　じいさまと　ふたりきり。[WAIT][LINE]じゃが　わがままひとつ　いわぬ[LINE]かしこい　ええ子じゃと　じいさまは[LINE]いつも　いっておりましたんじゃよ。[END STRING AC]"
+      },
+      {
+        "id": 4856,
+        "text": "ムドーが　ほろび　世界は　日に日に[LINE]平和を　とりもどすはずが　なぜか[LINE]魔物は　増える　いっぽう。[WAIT][LINE]私は　修業の身でありながら[LINE]心にうかぶ　不安を[LINE]おさえることが　できません。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5195,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "わしには　わかる......。[LINE]おまえさん[CODE C4]は[LINE]この世界の者では　なかろう。[WAIT][LINE]だが　ここでおきた　ことは[LINE]この世界だけに　とどまらぬ![WAIT][LINE]いずれや　すべての世界に[LINE]わざわいを　およぼすであろう。[WAIT][LINE]おろかなことよ......。[LINE]悪魔を　呼びだすとは。[LINE]神のいかりにふれて　とうぜんじゃ![WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Ce château est si contrôlé. Il y a tant d'endroits où on ne peut aller.[END STRING AC]",
+    "native_plan": "Je le sens... Vous{C4} n'êtes pas de ce monde.{AF}Mais les événements d'ici ne se limiteront pas à ce monde !{AF}Tôt ou tard, le malheur frappera tous les mondes.{AF}Quelle folie... Invoquer un démon ! Rien d'étonnant à subir la colère divine !{AF}",
+    "original_body": "Je le sens... Vous{C4} n'êtes pas de ce monde.{AF}Mais les événements d'ici ne se limiteront pas à ce monde !{AF}Tôt ou tard, le malheur frappera tous les mondes.{AF}Quelle folie... Invoquer un démon ! Rien d'étonnant à subir la colère divine !{AF}",
+    "adaptation_body": "Je le sens... Vous{C4} n'êtes pas de ce monde.{AF}Mais les événements d'ici ne se limiteront pas à ce monde !{AF}Tôt ou tard, le malheur frappera tous les mondes.{AF}Quelle folie... Invoquer un démon ! Rien d'étonnant à subir la colère divine !{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC et voisins relus directement. C4 natif conditionnel conservé après vous : accord compatible avec une personne vouvoyée ou un groupe, sans figer les compagnons. C9 et D4 gardés dans leur ordre. Aucun équivalent DS complet établi ; IPS secondaire lacunaire ou décalé non admis comme validation. Deux branches C4 à tester en diagnostic, scène naturelle encore ouverte.",
+    "review": "Japonais SFC et voisins relus directement. C4 natif conditionnel conservé après vous : accord compatible avec une personne vouvoyée ou un groupe, sans figer les compagnons. C9 et D4 gardés dans leur ordre. Aucun équivalent DS complet établi ; IPS secondaire lacunaire ou décalé non admis comme validation. Deux branches C4 à tester en diagnostic, scène naturelle encore ouverte.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_C4": 196
+    },
+    "sfc_context": [
+      {
+        "id": 5193,
+        "text": "こうしていると　どこからともなく[LINE]あびきょうかんが　聞こえてくる......。[END STRING AC]"
+      },
+      {
+        "id": 5194,
+        "text": "むかしここで　どんな儀式が[LINE]おこなわれたか　知っていなさるか?[END STRING AC]"
+      },
+      {
+        "id": 5195,
+        "text": "わしには　わかる......。[LINE]おまえさん[CODE C4]は[LINE]この世界の者では　なかろう。[WAIT][LINE]だが　ここでおきた　ことは[LINE]この世界だけに　とどまらぬ![WAIT][LINE]いずれや　すべての世界に[LINE]わざわいを　およぼすであろう。[WAIT][LINE]おろかなことよ......。[LINE]悪魔を　呼びだすとは。[LINE]神のいかりにふれて　とうぜんじゃ![WAIT][END STRING AC]"
+      },
+      {
+        "id": 5196,
+        "text": "無限じごくじゃ![LINE]この城の者たちは　みな[LINE]無限じごくを　さまよっておるのじゃ![END STRING AC]"
+      },
+      {
+        "id": 5197,
+        "text": "『知恵あらずして[LINE]　武に　あらん。[LINE]　　　　　　　一一一グレイス王』[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6169,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "⁾⁾人生五十年、[WAIT][LINE]　印税五十円。⁾⁾[END STRING AC]",
+    "sfc_vf_secondaire": "6169<0559>[WAIT][END STRING AC]",
+    "native_plan": "♪ Une vie de cinquante ans...{AF}Cinquante yens de droits d'auteur. ♪",
+    "original_body": "♪ Une vie de cinquante ans...{AF}Cinquante yens de droits d'auteur. ♪",
+    "adaptation_body": "♪ Une vie de cinquante ans...{AF}Cinquante yens de droits d'auteur. ♪",
+    "adaptation_speaker": "",
+    "adaptation_review": "Parodie japonaise : vie de cinquante ans / droits d’auteur de cinquante yens. Nombres, yen et AF conservés. Glyphes de chant rendus avec les notes déjà disponibles, sans modification de police.",
+    "review": "Parodie japonaise : vie de cinquante ans / droits d’auteur de cinquante yens. Nombres, yen et AF conservés. Glyphes de chant rendus avec les notes déjà disponibles, sans modification de police.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6167,
+        "text": "最強と　呼ばれたい?[END STRING AC]"
+      },
+      {
+        "id": 6168,
+        "text": "ノーメッセージ[END STRING AC]"
+      },
+      {
+        "id": 6169,
+        "text": "⁾⁾人生五十年、[WAIT][LINE]　印税五十円。⁾⁾[END STRING AC]"
+      },
+      {
+        "id": 6170,
+        "text": "＊「はにゃ?[END STRING AC]"
+      },
+      {
+        "id": 6171,
+        "text": "ダンチョネ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6171,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "ダンチョネ。[END STRING AC]",
+    "sfc_vf_secondaire": "6171<0559>[END STRING AC]",
+    "native_plan": "Danchoné.",
+    "original_body": "Danchoné.",
+    "adaptation_body": "Danchoné.",
+    "adaptation_speaker": "",
+    "adaptation_review": "ダンチョネ transcrit phonétiquement Danchoné. Aucun sens français, nom propre de personnage ou effet de jeu inventé.",
+    "review": "ダンチョネ transcrit phonétiquement Danchoné. Aucun sens français, nom propre de personnage ou effet de jeu inventé.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6169,
+        "text": "⁾⁾人生五十年、[WAIT][LINE]　印税五十円。⁾⁾[END STRING AC]"
+      },
+      {
+        "id": 6170,
+        "text": "＊「はにゃ?[END STRING AC]"
+      },
+      {
+        "id": 6171,
+        "text": "ダンチョネ。[END STRING AC]"
+      },
+      {
+        "id": 6172,
+        "text": "その方向には　誰もいなかったことに[LINE]　してください。[END STRING AC]"
+      },
+      {
+        "id": 6173,
+        "text": "[CODE D4]とくに　何も　みつからなかった。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6207,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "ハイローポーカーやらない?[END STRING AC]",
+    "sfc_vf_secondaire": "6207<0559>[END STRING AC]",
+    "native_plan": "Tu veux jouer au poker High-Low ?",
+    "original_body": "Tu veux jouer au poker High-Low ?",
+    "adaptation_body": "Tu veux jouer au poker High-Low ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "ハイロー est gardé comme titre High-Low ; question de poker traduite sans inventer de règles ni établir une identité avec le poker DS. Ancien blocage de terminologie résolu par conservation explicite du titre, pas par validation d’une partie.",
+    "review": "ハイロー est gardé comme titre High-Low ; question de poker traduite sans inventer de règles ni établir une identité avec le poker DS. Ancien blocage de terminologie résolu par conservation explicite du titre, pas par validation d’une partie.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6205,
+        "text": "HPを入力してください![END STRING AC]"
+      },
+      {
+        "id": 6206,
+        "text": "ノーマルポーカーやらない?[END STRING AC]"
+      },
+      {
+        "id": 6207,
+        "text": "ハイローポーカーやらない?[END STRING AC]"
+      },
+      {
+        "id": 6208,
+        "text": "[CODE D3]は　立て札を　読んだ。[END STRING AE]"
+      },
+      {
+        "id": 6209,
+        "text": "　　　　　　本日は　ドラゴンクエスト6を[LINE]　　　　　　　　　プレイしていただき[LINE]　　　　　　まことに　ありがとうございます。[END STRING AC]"
+      }
+    ]
+  }
+]
