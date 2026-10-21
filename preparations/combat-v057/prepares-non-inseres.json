@@ -1,0 +1,3972 @@
+[
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 51,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "6a28d7d185f22c8f09d1e88e41460a2e3530bf9136d556a8e895363d0e8a712d",
+    "source_message_sha256": "c0eee7dcc4cd64ead77a3a3eb69c10c388cc7b7222b63801e2168414f5c63970",
+    "french_plan": "{BC}Il n'y avait pas de monstres !{C2}{AC}",
+    "source_native_command_count": 3,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 311,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "efbcc273910fa36d067a4c75277d99da8397b6350178245bc122ea7fa0c6a1c5",
+    "source_message_sha256": "9c2daec234027974ca29e79e4a4713a0d2423486132f5bd530d939b6341a2494",
+    "french_plan": "{BC}{B7} charge à une vitesse folle !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      309,
+      310,
+      311,
+      312,
+      313
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 337,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "7cb63da4225fbfa82db1c5eb28a590f60a54a5e037f7875f5e1c24d235d255c0",
+    "source_message_sha256": "8588d0eac17a9a5d99c855ec321f1bd572527b69601398f78546a90d638c409f",
+    "french_plan": "{BC}{B7} lance {B2} !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      335,
+      336,
+      337,
+      338,
+      339
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 367,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "496366de21d0e4f38c272d2fd82c606989a721f630a110487f555e07b810fb5b",
+    "source_message_sha256": "4e2e1e33734bdc9b0288b9f82e7f1a3b405477312fb84e70fd7656532ad4f4ea",
+    "french_plan": "{BC}{B7} change d'arme pour {B5} !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      365,
+      366,
+      367,
+      368,
+      369
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 381,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "eea947527f96fa9343745c92730a1a44d29b3da968f372bf3f6a0dc64de76f63",
+    "source_message_sha256": "b9faec095828648003ef3c58356ddb73781fdae6245af052a0dac7604e9b780b",
+    "french_plan": "{BC}{B7} agite son arme dans tous les sens !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 42,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4f5d7aada510e87b38c2db77deee613e57a35fcab933f9b52e8ecd958f0fced1",
+        "fr_text_sha256": "649ebbecf1424dd4f9013fbfe9420743a56833ac30393a35b581bcb17c0a1674"
+      }
+    ],
+    "source_context_ids": [
+      379,
+      380,
+      381,
+      382,
+      383
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 382,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "0cd03bbf91ac778784aa7a99a8760dfa27c5df4dba2e30a20cce3cdd0ed44d41",
+    "source_message_sha256": "a421cd535d4cb0f27f70060b147d56e69d06c1bc77ff0c2cd6e8eabb1df6a6d1",
+    "french_plan": "Mais l'élan provoque une chute...{AD}et un coup avec sa propre arme !{B1}{AC}",
+    "source_native_command_count": 3,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 44,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "694440691928a2ca21992717d984ca66d2e23eea64e3e79de24271749a319199",
+        "fr_text_sha256": "f2797828928ef7678644058257d8d85c47076b30b7af3823475d5ca08a612c17"
+      }
+    ],
+    "source_context_ids": [
+      380,
+      381,
+      382,
+      383,
+      384
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 387,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "80c919a72c3051489dd2cd90c739511054254f3607e0f7db6918f5a72cca8f20",
+    "source_message_sha256": "e6f1d02f86a400cf57a04994b45e3ee712179d78dd2118834c62e79127acf889",
+    "french_plan": "{BC}{B7} se recroqueville de peur !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 82,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4d3d8c196072b3fafb3efbdd2fa170d8d07b2705e57fecf6ebf61635cada4e50",
+        "fr_text_sha256": "313d6706569f937f7de814ff4aec7cd235e5b41a0ff3fd22e9b57cc6b26938c9"
+      }
+    ],
+    "source_context_ids": [
+      385,
+      386,
+      387,
+      388,
+      389
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 389,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "66965391c7a71911d396fa0d532ddc6d99d763d93f7b0d6f06c548478ebeeab3",
+    "source_message_sha256": "2765bf5ce16a5aef8eb6cdacf6d768576414ab8bb07bd550f798be1de2a115ec",
+    "french_plan": "{BC}{B7} exécute une danse bizarre !{B1}{AD}Mais rien ne se passe !{B1}{AC}",
+    "source_native_command_count": 6,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      387,
+      388,
+      389,
+      390,
+      391
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 390,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "934ef07643f24ed015885bcb6d76d6424f0f7bb8ff898c08355e1d212a904e45",
+    "source_message_sha256": "1d51fdd0dbec0e7652c0e2dcdefd0f1374a4e1d3534773ff645b2f1fbeca6d6f",
+    "french_plan": "{BD}{B7} poursuit sa course...{AD}et disparaît au loin !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 69,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "02090fb912ceba5073f0608f40e07a9b46f3ba01b642859e6013975ede0900b6",
+        "fr_text_sha256": "fd0339c8a5a56158842aa71889da10b1e4920b1610ebe44791a1741f33b711fc"
+      }
+    ],
+    "source_context_ids": [
+      388,
+      389,
+      390,
+      391,
+      392
+    ],
+    "review": "La DS fait voler le personnage puis tomber. Le japonais SFC dit poursuivre sa course et disparaître : garder le SFC, sans chute ajoutée.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 395,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "abaff92d0a92cf43465550933eaa3622b2d8b5f9be638ca922ea11abaf290754",
+    "source_message_sha256": "17dcf111a5ff176ce49ed26e72aad6cabeab6b7844d72871e676965c60b797fe",
+    "french_plan": "{BD}{B8} n'arrive toujours pas à se relever !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 25,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "b1b93080e245af1d9261ebec7430c629b0426868edd3459ddfc68c17422f1f61",
+        "fr_text_sha256": "bbb5bfd5ef84f58a882d56bf2bea9fe99689b3269af6ec6197140bee08e2cf02"
+      }
+    ],
+    "source_context_ids": [
+      393,
+      394,
+      395,
+      396,
+      397
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 397,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "9e301e93c835b1f079f1a8c94a9c334064dc4661ee99c6b25a0a5a5e54e67696",
+    "source_message_sha256": "ca68dc3ffc83ecd9d087b918a46c0bda7d787f59ce9a441a536957adcee12674",
+    "french_plan": "{BC}Dans sa confusion, {B7} serre{AD}{B8} dans ses bras !{B1}{AC}",
+    "source_native_command_count": 6,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 59,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "eb4c19df07ff9b564c1402d2d1d095840b38d715c01fdf66eab5878e9053856a",
+        "fr_text_sha256": "8d2664536893fdb63bba0fa211867627c08c7c132811c65f8ca96c2bffd9d2bd"
+      }
+    ],
+    "source_context_ids": [
+      395,
+      396,
+      397,
+      398,
+      399
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 398,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "afd1aca662f8d5626fb8a893048300a231c2e3e1e04b7fc1f05f1c8671a0b81a",
+    "source_message_sha256": "d466f70a87adb5b0ae8a730d929d10ce00c68de62e3e063c05203fffee9b5a53",
+    "french_plan": "{BD}Mais {B8} repousse cette étreinte !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 61,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "b61bdc591c51edb46a9172be2a953a24a9e78fcc43496837ac4049c2c9b31d11",
+        "fr_text_sha256": "5870ea8198e94a9e024262bfc3f19547e0774d819b7b85aa86e3a53bd866c605"
+      }
+    ],
+    "source_context_ids": [
+      396,
+      397,
+      398,
+      399,
+      400
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 403,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "12b68feb7087d706f20d1ecb5f97dbd5e4222907483dc102de0de5060d1ec2a8",
+    "source_message_sha256": "86dffae2b2f9e3c8c6087d51ceac0471d449e9e2a3d9dceb1b5d22deab43cb7f",
+    "french_plan": "{B8} a l'esprit embrouillé !{B1}{AC}",
+    "source_native_command_count": 3,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 891,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9cdcd9f20bbad9b20fd1c194ab2bbdbc0fcab95c480f93abae82901ef1e5c610",
+        "fr_text_sha256": "ac528f8cc03416fb3b64896d9bdcea0da1b89c67c1573b3fffe90796150f1a93"
+      }
+    ],
+    "source_context_ids": [
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 404,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "6249a85d40bdd1eb56c02a210d90233070bdc88fa718fba768a678ba11003f1e",
+    "source_message_sha256": "74a60021020389298edc454e293701b32654bae5732fcb8a3b016d767879d49f",
+    "french_plan": "{BD}Une brume étrange jaillit du corps de {B7}{AD}et enveloppe les alentours !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      402,
+      403,
+      404,
+      405,
+      406
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 406,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "cadda71eb8a68b2f2d027810b92cdf63bb562960bc0462bafd41959261f979cd",
+    "source_message_sha256": "b6ec98251ad3e14825b5f2fdbfd275c310786342bca74413f5c7f0c09208a9b4",
+    "french_plan": "{BD}{B8} perd tous ses PM !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 98,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4fae0a130cee4638c8a2feea6a39cb7d5b939fa62ba3b8e644f9344b6c4c5e9c",
+        "fr_text_sha256": "a20f0b5a73c27521fa34ab7c9b9edfdb1d4e154a82cd8a2db8e6428f5a8efc48"
+      }
+    ],
+    "source_context_ids": [
+      404,
+      405,
+      406,
+      407,
+      408
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 407,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "f75fbb32a363d7010a7996676de9b9938816d704f1cd0c3b3c83fe58afda6c7b",
+    "source_message_sha256": "65d5f310bf1b9960fb9dfbe61f0dc610ec720ffba2906ffaaa6b28f508502558",
+    "french_plan": "{BD}Un génie aussi grand qu'une montagne arrive{AD}en poussant un rire terrifiant !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      405,
+      406,
+      407,
+      408,
+      409
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 408,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "dc144357d9e275c487cb23538413bc4d478d0010a5a15c4841935b82e3cdde77",
+    "source_message_sha256": "7aa9efb7f2fc4b10c7582125750bdb136317354c80cc5e37675589fb201f7be4",
+    "french_plan": "{BC}Le génie attaque !{B1}{AC}",
+    "source_native_command_count": 3,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 110,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9a4171d2ad090e8528eafedece53204361352cc6819fcd82230ad0803478e34b",
+        "fr_text_sha256": "8a662fb2bd01ac393cbfacdc87d4c51d91603345aa82ae91e03658b915a3df0b"
+      }
+    ],
+    "source_context_ids": [
+      406,
+      407,
+      408,
+      409,
+      410
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 409,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "006175e96c5a8f6b18d18ada2a4dee56ac5280ee9d980356ec380204e94c421c",
+    "source_message_sha256": "16228e01b6adc7a99b07ec4a2bfdf5b942be664332cf3f7406887d46d53ce1a6",
+    "french_plan": "{BC}Le génie s'en va, riant toujours.{B1}{AC}",
+    "source_native_command_count": 3,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 113,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "c8477621208bbc0617d3c51aa979b70aacc2a82a4d2ac1cf6553b53fa00f1894",
+        "fr_text_sha256": "8be2434d2f78020e4eadfcd0212424acae8823547d14b9aaab26e95c2ae932dd"
+      }
+    ],
+    "source_context_ids": [
+      407,
+      408,
+      409,
+      410,
+      411
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 410,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "a4e4255cebb48da4b6de7325502fdb6df28f41aecce9e412b57d5cb62f2c01d0",
+    "source_message_sha256": "9f217e32f04212c59628ba92da4a4fae2fa9fd9d1b40dc49c80eb853c2b2ff3e",
+    "french_plan": "{BC}Un vent glacial s'abat sur {B8} !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      408,
+      409,
+      410,
+      411,
+      412
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 411,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "acacf3777ae6bf236aee0507b3051315047d4adae6cbeaf1e0a661207b0b70e6",
+    "source_message_sha256": "38b4546f9984444794c1c429d0d1d55ccd1c2e7d8d7de89f821e25c3c9e4daa6",
+    "french_plan": "La glace emprisonne {B8} !{B1}{AC}",
+    "source_native_command_count": 3,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      409,
+      410,
+      411,
+      412,
+      413
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 412,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "be43ce809653a07a8ac63609bf16a8b72e00034e1fda4c9ede9388088ef234ec",
+    "source_message_sha256": "5a42e667787bf9bc9d16656111ba6b922945654cf0bb5c185a2013fd5e292d26",
+    "french_plan": "{BC}Le gel empêche {B7} de bouger !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      410,
+      411,
+      412,
+      413,
+      414
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 413,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "05c523e47015679f9fdd6ae4bc45764237ad202b8663a7e781ebdd037de8cf9e",
+    "source_message_sha256": "7b8af6db8a60e61634180b9be2b5f16a0eceb24b69735e2677e86983330a8ca4",
+    "french_plan": "{BD}Une pluie de météorites tombe du ciel{AD}et s'abat sur les alentours !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 117,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "eb1a8a8e7b5a309513023ddddff4083eb4d8198adb10b990232c55e25f35cc7b",
+        "fr_text_sha256": "be2e8c88379b72d26016c64a514804c8dd4f17f770fd2fc904d9a8fead5d04b0"
+      }
+    ],
+    "source_context_ids": [
+      411,
+      412,
+      413,
+      414,
+      415
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 414,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "a33504ac6d0757e9032c3423e277a8f1476170691e362e41fa0047d46c9cf975",
+    "source_message_sha256": "071cc6ab23896af3b72ee896a1bb648d600a3f232d0a09bfb98281dadd164848",
+    "french_plan": "{BD}{B8} récupère ses PM !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 115,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "cc97fcbcc6f52cbfd641e7d02d13b02ce10140cb5843daedb5af8d430e92dbca",
+        "fr_text_sha256": "a55e0d3462decf8ab00a82012a2f2cdaa84c22d880ea940cc302a18600603157"
+      }
+    ],
+    "source_context_ids": [
+      412,
+      413,
+      414,
+      415,
+      416
+    ],
+    "review": "DS FR dit tous les PM ; le SFC n’énonce pas la quantité. Préparation sans tous.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 415,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "55dbe7396355fda9aeac0a80eb6feaa8eebdb7ff0780d3d90c002696e4eb874b",
+    "source_message_sha256": "921af801943b0b1f21d6dcbed0fb4c2615166868a9bb26ac42d9c36d3908298e",
+    "french_plan": "{BD}{B8} récupère {BB} PM !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 800,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "632f6d78b7ef7e74d8d5647feef4d6a383271575b868c597da94f36de40f604c",
+        "fr_text_sha256": "2c0e9bdf7d429e7e10162f8529dc51c1a4e32360416f12cff67d5b79a75890cf"
+      }
+    ],
+    "source_context_ids": [
+      413,
+      414,
+      415,
+      416,
+      417
+    ],
+    "review": "B8 est la cible et BB le nombre SFC, malgré les rôles/indices de variables DS différents. PM doit encore être confronté aux glyphes byte0D/0E avant encodage.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 427,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "2443b2887b8fc46a9e58e3d324bf026e7b79175fe29fc1ac20f924d8647a8c8e",
+    "source_message_sha256": "2bb28360e2703966c5294461a8258347a6a0ff251d98509f837f4125be9b4d3f",
+    "french_plan": "{BC}Mais il n'y a plus de place dans le chariot{AD}ni chez Tulipe !{AF}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      425,
+      426,
+      427,
+      428,
+      429
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 428,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "6659bb83436d65f748e85b5333a04b5a27ca451d876aaefa3001c55591f7fff7",
+    "source_message_sha256": "53a2f858b08199e875ce2ad87bca3f63f95cdcf307535a94793945c8038d1b6d",
+    "french_plan": "{BC}{B4} s'en va d'un air triste !{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      426,
+      427,
+      428,
+      429,
+      430
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 429,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "dca54df63553f3bea433e756842ab3b65576da687b94dbe6f2d953c246fb7cb8",
+    "source_message_sha256": "5d3964b9a9a5f7fefaff6fcef3ad563f5ba7098b80c47f43a4c8210f677f9595",
+    "french_plan": "{BC}Mieux vaut ne pas renvoyer cette personne{AD}chez Tulipe pour le moment.{AF}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      427,
+      428,
+      429,
+      430,
+      431
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 432,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "13db93d52fbd8e0611258f94e1d14cc5b1edaa10e2f28018ec66dbe9151be9bd",
+    "source_message_sha256": "ce4e81048cacef59600157c5cd0d4aa753a158bdee6de68399a7bc80e400275f",
+    "french_plan": "{BC}{B7} exécute {B2} ???{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      430,
+      431,
+      432,
+      433,
+      434
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 433,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "6e602fa456b617ad1067c6b60b768974468618fb8ebd648c1bcf24172653c4e6",
+    "source_message_sha256": "769532ac228bda7452a80bdbc14dd984799e79cc853a873a68d20c48652c636d",
+    "french_plan": "{B7} ne peut pas s'équiper avec {B5}.{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 51,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "e62e23953ec247339c7bcbd2d9903a8b57c663cc18f96aa9d540b3a419dc4287",
+        "fr_text_sha256": "dc7440756f9cb9cd179a8b2361073bd77edde7b01c98ae1c9eff37b123580592"
+      }
+    ],
+    "source_context_ids": [
+      431,
+      432,
+      433,
+      434,
+      435
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 434,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "ad6668701c8f319f2c6fcd66dddf034b702a2bce2271acbddd98915bd6159aa5",
+    "source_message_sha256": "97ea801783f5b3ac14ed3ea398fad0486a27ce5cd4a4b7cb129ab4c44ab77d1a",
+    "french_plan": "Impossible de s'équiper avec {B5}.{AC}",
+    "source_native_command_count": 3,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      432,
+      433,
+      434,
+      435,
+      436
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 435,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "0876db6460e71cb1590f8b47c0405e428682a15d40130d044375a0fd792700ca",
+    "source_message_sha256": "87333cb191144a999fbd5d6de2c2ebad4a24c37e382ff6cee6a4e7cd66b41cb4",
+    "french_plan": "{B7} s'équipe avec {B5}.{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      433,
+      434,
+      435,
+      436,
+      437
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 436,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "ff8f3021b5d0504c3ea8fc64401f52fac8d75e2a950f2170e5c3575b4d4c312f",
+    "source_message_sha256": "edc917818f695e68dbbbc3fd9910a86625bcf2c3bc5466977fe2c0109ddd8cc9",
+    "french_plan": "{B7} ne possède aucun objet.{AC}",
+    "source_native_command_count": 2,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 53,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "365c2c53cbda353b65a3e10df83bd6d952222c0fcab1ecd1629fa6b00df22400",
+        "fr_text_sha256": "a001beced731400fab1089a832e1cb8df9547a7f158fa49fb459e3039f5bbd40"
+      }
+    ],
+    "source_context_ids": [
+      434,
+      435,
+      436,
+      437,
+      438
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 437,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "6b63c2c88bc2d69e80dbbff62c42b6ffb333044de249d1ca91823fa010737920",
+    "source_message_sha256": "a9b7a96bbe96a92cb7eea4e3d9276181846db97ab94b62699932379cfb5d400d",
+    "french_plan": "Aucun compagnon pour établir une tactique !{AC}",
+    "source_native_command_count": 1,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      435,
+      436,
+      437,
+      438,
+      439
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 452,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "9407dc40ce2c6ab083f43b979e7466a87fa11c082f15026328b60b5daaab48c4",
+    "source_message_sha256": "008e7dfc9ccc40cd495fc162264eeffaf479e8875623a8b7c869c7d7d7385573",
+    "french_plan": "{BD}{B8} écoute attentivement la chanson !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 153,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a2c71a88106c647334c96f4e3b7238ada2964c960f3976a215a28c133835d26d",
+        "fr_text_sha256": "904062ca3df97bc130bfd3cf8744f424a584037e2c26acba9c9ac373a55499cd"
+      }
+    ],
+    "source_context_ids": [
+      450,
+      451,
+      452,
+      453,
+      454
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 453,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "356fe3bdd5b04a970462344fbb4d243500a5e72c2477f2913af30c6faa498b47",
+    "source_message_sha256": "ff48a60635dfa6fcd8903dac0f9401dc2fc30934cf2a99ec6180da75169c6383",
+    "french_plan": "{BD}Mais {B8} refuse d'écouter !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 155,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4f14c9efe3c6d6d063afdd750771d591fb900f04f5af5acaa5486bec32bd85a8",
+        "fr_text_sha256": "45806360897922a169a6c113b3ab296f6ff9a7a9e0647aa8b143e957ceedf6c6"
+      }
+    ],
+    "source_context_ids": [
+      451,
+      452,
+      453,
+      454,
+      455
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 454,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "7b3fbeb990bdba6dfb48f8ce2313bda1702a1fb115223fbce8e24e45ebafe5fd",
+    "source_message_sha256": "ad0c76fdf5f66dec6a0fe28df4454ee0b0d1deeb3e7acf793767d2b3fd76e312",
+    "french_plan": "{BC}{B7} reste sous le charme{AD}de la voix de {B2}.{B1}{AC}",
+    "source_native_command_count": 6,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 17,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8ecf07b44c967783b43bb70d7ad131f1782c9435a376cbc5102b68a5a62449f5",
+        "fr_text_sha256": "168bf7240d0528a33291bfb78806d2666e336ada2d064ac05e05c5705760f78f"
+      }
+    ],
+    "source_context_ids": [
+      452,
+      453,
+      454,
+      455,
+      456
+    ],
+    "review": "B7 puis B2, source de la voix. Ne pas permuter les variables comme le français DS ; type de chaîne B2 à établir dans cet appel, pas forcément un sort.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 455,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "8f81d4d5c0f1183629195eb92c14558bd63d59992ade413b0ba8f33f16b8e303",
+    "source_message_sha256": "a80ec202c95e5431f6ce6b67de8a9f41c47c3a9ce854a3dd662bdc68166092c8",
+    "french_plan": "{BD}{B8} reste sous le charme{AD}de la voix de {B2}.{B1}{AC}",
+    "source_native_command_count": 6,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 17,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8ecf07b44c967783b43bb70d7ad131f1782c9435a376cbc5102b68a5a62449f5",
+        "fr_text_sha256": "168bf7240d0528a33291bfb78806d2666e336ada2d064ac05e05c5705760f78f"
+      }
+    ],
+    "source_context_ids": [
+      453,
+      454,
+      455,
+      456,
+      457
+    ],
+    "review": "B8 puis B2 conservés ; même réserve sur la voix et le type de chaîne B2.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 461,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "9ab44e2b8d819195a6d3d258637f9c51f9f0bf67e23411a26ac8a3c5fd94ad0c",
+    "source_message_sha256": "f8f460d5f807a4d7ee70bd1e1e4bf712f44455774ced5e09ec6b6a1d8a992e07",
+    "french_plan": "{BC}{B7} essaie de penser à un nouveau jeu.{AD}Mais impossible de s'amuser vraiment{AD}tant que la paix n'est pas revenue...{B1}{AC}",
+    "source_native_command_count": 6,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 174,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "302bbbd63206240e7bf06c7e4c99a711b65aca6ed3f0f73bf200b51bb26a87b1",
+        "fr_text_sha256": "2217f682abc5856be6bd2b736d66bf02dad2f314731a454692840a5e179413e0"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 175,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "aab1928cd45f8af602d13c44e3f2a086c555f2577d5d24893d3483307913cfb7",
+        "fr_text_sha256": "cf135e99b272da56e6b3c4ab4a767c18bea2ef810dccd67e875cab512db21439"
+      }
+    ],
+    "source_context_ids": [
+      459,
+      460,
+      461,
+      462,
+      463
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 464,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RESERVE_ADAPTATION",
+    "source_text_sha256": "021f5b8ba5585e092e5b1eec6539dd75fd71f3241f919ad136e4cb0e4b489e88",
+    "source_message_sha256": "5cca5402105342a510f51996cf0d44a80ec233f192a7cfa7b2f438526604eecb",
+    "french_plan": "{BC}{B7} commence soudain{AD}un jeu de mots enchaînés !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 181,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "58e9aae37474b99a3072cd3d01ef9c2c2bedf5c491d6d87d1f4051d5e089b355",
+        "fr_text_sha256": "99d68031681c6bd2568804086953edfaa20a2e6d046f8a4eafa943c1a0544775"
+      }
+    ],
+    "source_context_ids": [
+      462,
+      463,
+      464,
+      465,
+      466
+    ],
+    "review": "Le shiritori ne devient pas automatiquement le virelangue DS : réserve de cohérence avec465.",
+    "semantic_reserve": "Le shiritori devient des virelangues en DS ; la version SFC doit rester cohérente avec465 et son mot variable B2.",
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 465,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RESERVE_ADAPTATION",
+    "source_text_sha256": "c9bfeede200a653aad3cb3acdaacdc2a4b6bbfe06d3161304059263f32e3b722",
+    "source_message_sha256": "bdfc3901a9b7af9804145c2ba9ed0ad74da079d7d67bc9382f18c316a99ef785",
+    "french_plan": "{BC}{B7}. À moi de commencer ! {B2} !{AD}Ah ! ...{AD}{B7} a perdu !{B1}{AC}",
+    "source_native_command_count": 8,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 182,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "706f7eed1b6d88112d38b8843b313e12e0035e45a9a7520afbf6b6dc7162e45d",
+        "fr_text_sha256": "22a57198a042b76677d3d83122cc8bcb38514a4842df635af362070aa068c19d"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 183,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a060535208dbf406733962342bc559ed6d65e840fc89c4eff430bf90e72a3207",
+        "fr_text_sha256": "0af3a37941408d602cc9cf0eb5dbc5283003a4c8662e704f55358270c05f58fd"
+      }
+    ],
+    "source_context_ids": [
+      463,
+      464,
+      465,
+      466,
+      467
+    ],
+    "review": "La DS supprime le mot variable B2 dans son virelangue. Préparation littérale seulement, adaptation française non approuvée ; conserver B2 et deux B7.",
+    "semantic_reserve": "B2 et deux occurrences B7 à garder. La localisation DS remplace le mot variable par des virelangues et ne peut pas être copiée telle quelle. Définir le jeu français et sa raison de défaite avant validation.",
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 466,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "5862fd777ca9339825ddf0ac853cac26bc7ffd45721a8488872c29b73a2aebde",
+    "source_message_sha256": "46d0aabd1e09ec94cbe1aad50f309747e3a1ec7392632bdb8d759d86a6781b3b",
+    "french_plan": "{BC}{B7} sort un bout de ficelle et commence à jouer en solitaire !{B1}{AD}{B7} trouve ce jeu de ficelle bien triste en solitaire.{B1}{AD}{B7} soupire et range le bout de ficelle.{B1}{AC}",
+    "source_native_command_count": 10,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 185,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "83521bfaa63e163433094202c40500f44df4c2b7513e0998e80f63c9fb49d75c",
+        "fr_text_sha256": "f0235a89bf01a7587e4fd8700c454d6b591b0adbab7405823058c53dde391707"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 186,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "5848017006c555be872ec0f961c3aa2f473593df75172edca9443c0248c6d86a",
+        "fr_text_sha256": "89160230cd60260a916a88f061d666d70bc2bb97e30b7e2b9e08ce60a3cdda34"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 187,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "7a4381ede3a799cd85a506a68c1edc7ed37c914f7b2362b2e72b3ae3961b61b6",
+        "fr_text_sha256": "f622ebf2f4b80f0e31914477230c1b2d3cdb2e1b08eeee7a07ff57fa2086de64"
+      }
+    ],
+    "source_context_ids": [
+      464,
+      465,
+      466,
+      467,
+      468
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 467,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "0ba1246a7ac7436262509d404c5f41c019f1d887163c524e496f06eed529a264",
+    "source_message_sha256": "1659b0dfc456bdcd8e9a1858c545328398590c8e67dccc91ed54973127094c1c",
+    "french_plan": "{BC}{B7} pense à des choses coquines !{B1}{AD}{B7}. Hé hé hé...{B1}{AD}Le nez de {B7} n'arrête plus de saigner !{B1}{AC}",
+    "source_native_command_count": 10,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 189,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "658075b3b2707d5d1bcf7ba06c641961be933d6a75ecb4be7086f6ff92480d1d",
+        "fr_text_sha256": "2b7be96b07002317309951f561d48d024032f4fe66bec3e154a57a475c45de45"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 190,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "e86fcc2547c6a80c1e0a05ca35a1b02846fd2d83d2a98962a5ebbf56c0a5c818",
+        "fr_text_sha256": "ac3eaa0f8fc8840bbb9e85f88c0113c7f8a0bf1de84e86aa40698827f6cfa04b"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 191,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "7f7803db41f20d29ab916cfb1a7965a582b3613843919cfae70ea9ec56bdc47e",
+        "fr_text_sha256": "c4b6fcc786bdcd74ae883b6f2ae8e9112ae348adc96138eb2a02e8a1ce5fd6f2"
+      }
+    ],
+    "source_context_ids": [
+      465,
+      466,
+      467,
+      468,
+      469
+    ],
+    "review": "La DS remplace le gag coquin et le nez qui saigne par une blague. Le SFC conserve son gag allusif ; trois B7 et trois B1 conservés, pas d’acte explicite ajouté.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 468,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "c14103dbf96d928a315fd943ccd0f4602f72f6c973501b1f1e71b1ac9d96d6ad",
+    "source_message_sha256": "9d1466fe3889a4cb3ae8f59f75d7f33173a6329b7796fda7ddee6c7e71e12eb3",
+    "french_plan": "{BC}{B7} sculpte une poupée avec un couteau !{B1}{AD}On dirait que la poupée est vivante !{B1}{AD}{BC}La poupée attaque !{B1}{AC}",
+    "source_native_command_count": 10,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 193,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "5cf8d9cc4e044d19dfcb8ad9947e6ee84a351f0aac3e291a13c930e6acbb97f4",
+        "fr_text_sha256": "60d375cd7a24207ae5160e3ca7e4e9bf0a4e848d3742965eee07cddfbee62f0f"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 194,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "535c1c49bb81612b0fdfce0151df4070db4715b9585b54c506c7e7df7648f3ea",
+        "fr_text_sha256": "c01c916f62bebd9029e1bd43edee0410f45aeb0acba3b97cc16abed53aec054d"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 196,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "6c8d34021be330507a3ae1c656bb11227241d0dccea6740499eab648b15b948a",
+        "fr_text_sha256": "c8564811c7ebc32b0fc0ffa6deaad0eea99bca6ded5407a3033cf65c3a38360b"
+      }
+    ],
+    "source_context_ids": [
+      466,
+      467,
+      468,
+      469,
+      470
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 469,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "67b2db453dfc11905eec8b430d2405db12bde7cf78ee98967355b09af0948a51",
+    "source_message_sha256": "eae784bfc393c9c74241ca47bcd1e5a05c08d785732248261b0ba0a2e999be46",
+    "french_plan": "{BC}{B7} se met à boire de l'alcool gardé en réserve !{B1}{AD}{B7}. Comment résister à un petit verre !{B1}{AC}",
+    "source_native_command_count": 8,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 199,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "45a3ef9c9d640c73d60315073f93f8f9a12360b3a3e77efa7875e3b5bd2cb6d8",
+        "fr_text_sha256": "841195d75f5d28d81c363bed5667557103b4626eeee6824caf91ac30bb6e2953"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 200,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "7fb849bb7f390db826a7f3999982ab2dd84612fc4b9e8be6f3025b6a233e8912",
+        "fr_text_sha256": "4e4000d5921a2c6800d4f538be44169914ae346e3f4a495cd5113b21843fc08a"
+      }
+    ],
+    "source_context_ids": [
+      467,
+      468,
+      469,
+      470,
+      471
+    ],
+    "review": "La DS parle de mixture ; le SFC donne de l’alcool et une réplique différente. Le SFC est conservé, sans transformer la réplique en simples glouglous.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 470,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "f3ec6ac769999383f6c41907ac99f60041b3f16ffc060f5d477db301bf88f967",
+    "source_message_sha256": "a64c32d2c79f10e39262855ddfee27fb867687871d5aed1aff2253c8ea9c4c71",
+    "french_plan": "{BC}{B8} commence à sentir les effets de l'alcool !{B1}{AD}Et voilà que {B8} s'endort !{B1}{AC}",
+    "source_native_command_count": 7,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 201,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "685cc3d67483c06cb07f281a19a33380d11b8e2eab90d53e370d606daf8fa357",
+        "fr_text_sha256": "1c0688a16d89183077772ebd2439f24bcf8926d826fed8c17ad752e48bfaee83"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 203,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "fd2f7467c756967a2269a250384214a8ef6d9afbbe62950c02a933ad91972ea4",
+        "fr_text_sha256": "716234d894d28784ba8dd5cb2996292c4fb9d1e4a7f811bbb2e7aba4f9dd67ce"
+      }
+    ],
+    "source_context_ids": [
+      468,
+      469,
+      470,
+      471,
+      472
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 471,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "19a42a67f5606f9e9cbb9dffdf42d9e5f74012f180a4825bb3a6664765c92100",
+    "source_message_sha256": "e65805feb3dce0e6b25bc38224f017f5d3d0b24d34d09781d1ec75c23c2b356d",
+    "french_plan": "{BC}{B7} se met à chanter très fort !{AD}Et terriblement faux !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 205,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "30f377a8a4a541889d10e0cfaff525e310c9f3cf001ef7d97a2e6517e974ebb6",
+        "fr_text_sha256": "2c83c913fd4bdfc3002fb54caea045c233fe9b7d1473464377332a59af3e29dd"
+      }
+    ],
+    "source_context_ids": [
+      469,
+      470,
+      471,
+      472,
+      473
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 472,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "bb70671e4eb635e6f3c2c851d421b0c29fc39778213d3d16d5105192cd7418c0",
+    "source_message_sha256": "125e3b650d336d54574e3c08fdc8fe53523c340c326066e97821b338a1ad900d",
+    "french_plan": "{BD}{B8} s'enfuit !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 208,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "67db6c7072cf6835ece93ba40b49795cc3db006c90cb3f8878ea54fc0db829f1",
+        "fr_text_sha256": "6a6134699732d475aec9dbb89f0cf950bd36f5d70e676ab18273d9c09c66cbd9"
+      }
+    ],
+    "source_context_ids": [
+      470,
+      471,
+      472,
+      473,
+      474
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 473,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "5bafb2bb5b86a0a343776c750d770ad4952f34405f341a041883836a5e2593d2",
+    "source_message_sha256": "2eaaa3866f7ac11e8eba3a6c67565df1cda86fc0e476239deac6e529f32c6c71",
+    "french_plan": "{BC}{B7} prend en bouche de l'alcool très fort{AD}et en approche une flamme ! Pfff !{B1}{AD}{BC}Un souffle de feu jaillit de sa bouche !{B1}{AC}",
+    "source_native_command_count": 8,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 210,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "192f88f267eb2b00cd161725d1929f3ee059825a813c4080b464590b26150102",
+        "fr_text_sha256": "a82082548f10cedfae5ddc8bd7c98e8c8cb308c8fb39ee8740d1eaae6dcadf42"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 212,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9113b275a89489226750d533fb81c860621548e1e66a0c560cacb2fe2850bb81",
+        "fr_text_sha256": "63d5737639199993bf2a8914be8fd865bab72c20eeb2f73cd3a9bcac763ff8dd"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 213,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4d82f5a0e4fa482048b290bbd3eeecd0728224c4adb1875037576b95396047a4",
+        "fr_text_sha256": "2f49fdea7ed426243b03bded3eb7554cba1393ea6ff868b145e3fb1d752c79da"
+      }
+    ],
+    "source_context_ids": [
+      471,
+      472,
+      473,
+      474,
+      475
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 478,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "01782f08aba89e3e1f7626589d1e0a279dedec8f73d8787a8797a5005998f51f",
+    "source_message_sha256": "a53f1d95b99232538f9d318fd0d1704a561664edd848b3c6b830df5719893f32",
+    "french_plan": "{BC}{B7} baisse les yeux de honte !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 19,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "ad1f8797558436a96916bc212bd5a24d2ef8d47d2eead02ceaa466aba8fd0cc6",
+        "fr_text_sha256": "dac96cbe59b30ae502dae6368b4aa1ac54c77a919a5b596b1f7ec993f6007167"
+      }
+    ],
+    "source_context_ids": [
+      476,
+      477,
+      478,
+      479,
+      480
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 479,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "e702e49fb7871d2e151f0ba70e6f0ebd0e1170c76c18a040dad57a01a08b741e",
+    "source_message_sha256": "d065ad6d7abd0305e645ba01d92f4b9272dc7bd96247034cc21d8ed3e09143a5",
+    "french_plan": "{BD}{B8} baisse les yeux de honte !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 19,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "ad1f8797558436a96916bc212bd5a24d2ef8d47d2eead02ceaa466aba8fd0cc6",
+        "fr_text_sha256": "dac96cbe59b30ae502dae6368b4aa1ac54c77a919a5b596b1f7ec993f6007167"
+      }
+    ],
+    "source_context_ids": [
+      477,
+      478,
+      479,
+      480,
+      481
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 492,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "54e5690a59a546cf9a19fa5efc92c7351fb99b07ee884575d1a3efa1d35ead36",
+    "source_message_sha256": "665bc2e1ae211059ea9e4a1c9f96016b11076a7132abcecad4f62712e4e16854",
+    "french_plan": "{BC}{B7} joue dans la boue !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 266,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "e10c32eeb0769ac5a2307ecf93a088ed4e1b4ba5c081fbce6dc9c7f18f20b8b4",
+        "fr_text_sha256": "dd5dd77760439f7b89d60d7549ab7a5c13c23f1cf05736b473fd0ae554654439"
+      }
+    ],
+    "source_context_ids": [
+      490,
+      491,
+      492,
+      493,
+      494
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 493,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "091a682873623f64a462f4a4424fa47e542bf66d25cc1f9c0a41e90b1cbbb465",
+    "source_message_sha256": "90e76acade8f92ad6e965dcb38dfbc426d1057c909320ebfc93c729aec467bc7",
+    "french_plan": "{BC}{B7} se met soudain à chercher une fourmilière !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 268,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4d623edfd6994edc4d5fde4c66f830124741e53f003aa2251048f30a12c00ab5",
+        "fr_text_sha256": "0d2711d25f514d24f5eb8a6ab75674618a3a98084995aa3aef53621b19f61855"
+      }
+    ],
+    "source_context_ids": [
+      491,
+      492,
+      493,
+      494,
+      495
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 494,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "3ad0fc471bebb88c3bad6951e9c4343e7638a1189bf455f445cca90fdf31035d",
+    "source_message_sha256": "14292bda9193ab7fd42050d7317944fed8b58da494fbd94989e2d13e40a841eb",
+    "french_plan": "{BD}Mais impossible d'en trouver une !{B1}{AC}",
+    "source_native_command_count": 3,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 274,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "c635f54e2fcbdc8891a5a66e6c071f2fff1bde848fd8ea5caa7d423bae0dcbb5",
+        "fr_text_sha256": "df8c08611d0cbf7c2112f09429881c04ca3c5e70ade416e3ae0f48ace41fc6fc"
+      }
+    ],
+    "source_context_ids": [
+      492,
+      493,
+      494,
+      495,
+      496
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 495,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "7bd24d3236b3422512bfbed6b8a13be6eebdbc8c380113f2fd3a135c7891f17a",
+    "source_message_sha256": "f8e04cd8cd6dee28b75aa2d7b3e9c36e61c8912826c1364a6e926abca0aebd90",
+    "french_plan": "{BD}Quelle chance ! Une fourmilière !{AD}{B7} y donne des petits coups de bâton !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 271,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9046c65abd3314aedd0bd1256dcf8e37f650b916f0c335ce1f2605e9f8fab042",
+        "fr_text_sha256": "6ca892787c0391138d7b74ed86c3cef93b77f37633289fcd761c2b84656b658a"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 272,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "b95424bdd281d065ced15f3cd7e0b2dc173d3fa1423c0a4351da08c8b0ec634a",
+        "fr_text_sha256": "5d7021bd7a698dee3d9d9566c600e363bc0a7f543696d71c7e4913602f473fd2"
+      }
+    ],
+    "source_context_ids": [
+      493,
+      494,
+      495,
+      496,
+      497
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 498,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "c4db200ecf36cec79c0380f8f0ad329ac898f98b176dbeebeef37222644df863",
+    "source_message_sha256": "212bfda77f0d61b09a95bac5dadf0a36adad0e18fb56e8a3b06e25202763d3fd",
+    "french_plan": "{B2} !!{B1}{AD}Mais rien ne se passe !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      496,
+      497,
+      498,
+      499,
+      500
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 499,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "6904c35f83fa6435fe7cadac9ffefc6a1802a7691b85d8115d591f945c84669e",
+    "source_message_sha256": "7663d13f784c6ae6e8381d0c359ef6a5965014dc08dec5c4bfcf90e743fb14e7",
+    "french_plan": "{BC}{B7} imite la voix de {B3}{AD}pour essayer de changer les consignes !{B1}{AD}{B7}. Je m'en occupe !{B1}{AD}Mais l'imitation est complètement ratée !{B1}{AC}",
+    "source_native_command_count": 11,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 288,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "44829b1a4fac1dce9db4d9fa2c996fe8f1fe800df28ac0c7ff8febdfaf39fe0c",
+        "fr_text_sha256": "50bf4f927424cd28f17b74c13af252ae7200336cb6ae63e5d6356e4bf890923b"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 289,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "23521b27c1dcf2c20104d2cd6d39f2c8d33be7447571260e6cbcdfa4c599235b",
+        "fr_text_sha256": "23a86ee96fa73c3d83aa28168b9c0befcb3b1c72883fa2f927155c9ed2bf224b"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 290,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8bfce3d5e1556ac00cb1888edfd9958e62e8fbef96476fa60a1a1c2aaf9a0d94",
+        "fr_text_sha256": "a404092072fbdfd52a44992140f15678197f0650bb2c278b296d9dc1c5e0394e"
+      }
+    ],
+    "source_context_ids": [
+      497,
+      498,
+      499,
+      500,
+      501
+    ],
+    "review": "Le SFC imite précisément la voix B3. La DS FR omet ce nom : B3 et toutes les occurrences B7 restent présentes, pas de simple prise de commandement.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 500,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "b17a8f6edb24078e77c985741c6500b9fad0155c870ba186cc3263b4b4daf6e2",
+    "source_message_sha256": "8ea71f35e3fb8fe44b150558e93cb2ea6d08ab6bf1e3aabfe2d82cce0b8d23a7",
+    "french_plan": "{BC}{B7} se met soudain à danser dans tous les sens !{B1}{AD}Son arme tournoie dangereusement aux alentours !{B1}{AD}{BC}{B7} attaque !{B1}{AC}",
+    "source_native_command_count": 11,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      498,
+      499,
+      500,
+      501,
+      502
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 501,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "ba392c159eb314553b45851532c8a33f49044dca07f5d189bd1b79444dbcbffe",
+    "source_message_sha256": "1b636482edcf603603758750ab6273dffb1624da573b391d94ac0d4f560a1975",
+    "french_plan": "{BC}{B7} essaie un sort tout juste inventé !{AD}{B7}. Dingue-dong !!{B1}{AC}",
+    "source_native_command_count": 7,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 282,
+        "scope": "FRAGMENT_LEXICAL_EXPLICITE_ZAORIMA_DINGUE_DONG",
+        "ja_text_sha256": "0bd407cffbf90ec52f55970682cafcde6c3bf87d56370a972b2ad9d330e5d456",
+        "fr_text_sha256": "c761e0feee67733f6974f6b1318b0b4ea64d9b2c53c216a0b0f6eb4a1018f52f"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 285,
+        "scope": "FRAGMENT_LEXICAL_EXPLICITE_ZAORIMA_DINGUE_DONG",
+        "ja_text_sha256": "0bd407cffbf90ec52f55970682cafcde6c3bf87d56370a972b2ad9d330e5d456",
+        "fr_text_sha256": "c761e0feee67733f6974f6b1318b0b4ea64d9b2c53c216a0b0f6eb4a1018f52f"
+      }
+    ],
+    "source_context_ids": [
+      499,
+      500,
+      501,
+      502,
+      503
+    ],
+    "review": "ザオリーマ est rendu Dingue-dong dans DS0802:282/285. Choisir la réplique générique, sans importer les variantes vocales conditionnelles DS ; aucune nouvelle variable ajoutée.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 502,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "136d76adb36e96bca01ec822fd5bc6c78f88296c05b0ab3310556449bfee6324",
+    "source_message_sha256": "add5f467a8e970939b5c49d785967310f1b1240eb223d3077034fe19aca6c260",
+    "french_plan": "{BD}Incroyable ! {B8} revient à la vie !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      500,
+      501,
+      502,
+      503,
+      504
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 503,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "5e319b2fb6bf93c1b6f28a3b38001071d72d343544d0637f5a29bfb108f7998b",
+    "source_message_sha256": "93dfd1b63ab339df47e1230464d4b998663c328286c6f403a89125dabaec3013",
+    "french_plan": "{BC}{B7} se met soudain à jouer à la dînette !{B1}{AD}{B7}. À table, le repas est prêt !{B1}{AC}",
+    "source_native_command_count": 7,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 297,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "61cb5a1cee4d6220752e85d1ac9febce384d463127c655fc75aae901ddafc5ce",
+        "fr_text_sha256": "860ebb24ff605a59755610b86ebaee081e792d3e45eaa8c56b51ccc0c2378b87"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 298,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "6ee5f8c3e28901be4f42629fb79a4ed697c5f3c00fed5e030b8c9c7cb9d1e063",
+        "fr_text_sha256": "bc0171dfa3f25a05970c96b172a9c23efb6bfb62e60d6b95b2c4f8e9e764a3b8"
+      }
+    ],
+    "source_context_ids": [
+      501,
+      502,
+      503,
+      504,
+      505
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 504,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "90c2e41cd2d3b08c82e529eda5c4f85b493e3e8ecf6ec946a11604e1b11cfa92",
+    "source_message_sha256": "fe68c72af05fe1400ebeccac8b579fa390836f040ebf566d5e6c734a0eee7bb4",
+    "french_plan": "{B8} s'approche en titubant{AD}et commence à goûter la nourriture !{B1}{AD}{BC}C'est infâme !{B1}{AC}",
+    "source_native_command_count": 7,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 301,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "626523cc389aa21e5b72f8f16604efc8de868ac46cd237d58751306f8a0f2563",
+        "fr_text_sha256": "217994aa7888d0abd8df355ad6e3ae2940ec4196ff83e7e549ccf2d2d50461b8"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 302,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4e424e5c168d9e5f06bd592d3749b4a01f004011f27ad9b567fd67330942766b",
+        "fr_text_sha256": "b64fe5a68a849963383c27efdfb057e4f2ee99bedbef3e471bfffccac36d237e"
+      }
+    ],
+    "source_context_ids": [
+      502,
+      503,
+      504,
+      505,
+      506
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 505,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "d052e8a9ecb94bbabf4309c06bed2fc2ffafd50d13342c990799b0fdc93d420b",
+    "source_message_sha256": "c1dfba863aec35a7ee626ff2bb46d73265a081714d8e9fab396fe18358afdff3",
+    "french_plan": "Mais personne n'y prête attention !{B1}{AC}",
+    "source_native_command_count": 2,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 305,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a91bd24e6d1fa67070f24daf14f4366a6d2d7fd5e244f5f28393b01ab7374300",
+        "fr_text_sha256": "5d07ac3a2ad2c196184d2fcf8ed99654c1d4e1567e072ed6e6e5d1237b1f4c9a"
+      }
+    ],
+    "source_context_ids": [
+      503,
+      504,
+      505,
+      506,
+      507
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 506,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "f396309c68721ef5e550cb90d5a1ff101d4960be344edc32a61a65619d8171d8",
+    "source_message_sha256": "970f3200bfe79fa6b1c322bdaf16478d90aaded3b74e5a8e5efb910149b629ec",
+    "french_plan": "{BC}{B7} fait virevolter sa jupe{AD}pour attirer l'attention des monstres !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 307,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "fe5fdc221eb2f682644af3a96aab3e5800313fab7d9069c906e0c0166f1db352",
+        "fr_text_sha256": "88b02a99ca94ee6a3d78f2e62e03925c867f039e6d6530db1e419e99f1338e5c"
+      }
+    ],
+    "source_context_ids": [
+      504,
+      505,
+      506,
+      507,
+      508
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 507,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "1a459cb8ee666174a2dc1ce8339c12620d5bf990f2b55bec4138119524dbbce5",
+    "source_message_sha256": "01399cd3cfdd728596eddfa04f052402fa4843d3af57fb6c37237c35f99303a3",
+    "french_plan": "{BC}{B8} s'approche en titubant...{AD}{B7} frappe de toutes ses forces !{B1}{AC}",
+    "source_native_command_count": 6,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 310,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "396021bc3d24a34e977a920ffd0f25e8acde7df193738e3cd5f70a506cdcaf8c",
+        "fr_text_sha256": "22e96ec6ba355b8e2ccfc920dcea6f9afa084a6c3f08374de99cbb181fc506cc"
+      }
+    ],
+    "source_context_ids": [
+      505,
+      506,
+      507,
+      508,
+      509
+    ],
+    "review": "Ordre cible B8 puis acteur B7 maintenu, même si DS FR inverse les deux.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 508,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "24f621ef40f615605f5419edb35421e16dd45c20bdb996939636fbf946b129bd",
+    "source_message_sha256": "e4ec6b5cddc4ee76771029b774f3a985dadd3efabb62f4bc6869d067ddf5f38c",
+    "french_plan": "{BC}Mais le charme n'agit pas sur {B8} !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 313,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "1bc81d63adb0949e4d978b658cdb1f99cef6fe9d3ab65cd4960a07bd529ba1ce",
+        "fr_text_sha256": "0340e74e319062f7aea3a3c618527fb1f3e3e09cb57a8028b561649cef4452f6"
+      }
+    ],
+    "source_context_ids": [
+      506,
+      507,
+      508,
+      509,
+      510
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 509,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "707db3686973b68b1074bc6fdf9aeb97f74e397826dd6b371ed7b0d8fb3a2665",
+    "source_message_sha256": "bd8d8753898e20711457a405093d759ce8fd4df9421e51be7aa1f7d762e59fee",
+    "french_plan": "{BC}{B7} enfile soudain un maillot de bain{AD}et se met à danser !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 315,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8d3023d811b0e59d7040106bd49dd2037dda3a2d5d62f9e569eac3a0e249dc61",
+        "fr_text_sha256": "d3f676729d1ac54bd21d9ed966d2adaf40aaedd00654f2a8dcb30c77f3087271"
+      }
+    ],
+    "source_context_ids": [
+      507,
+      508,
+      509,
+      510,
+      511
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 510,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "2a2c00887c1b0592b5b1d72f33aa209f559da3a35359a08bf845a0abc1c323eb",
+    "source_message_sha256": "b05d92b9c4abd6c0b19e832bb21fcaeaa015ed22a82fb15d908815196cc53721",
+    "french_plan": "{BD}{B8} ne pense plus qu'à{AD}{B7} !{B1}{AC}",
+    "source_native_command_count": 6,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 320,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "65430f6bba9b8d62512c0de9810dac61cbaef6a094e06ac4ff9d07bc391ac7f7",
+        "fr_text_sha256": "0c4a469f155263d6a708e4633311db115ee2181e0a87e8f83cc1f3ff0e5caa3c"
+      }
+    ],
+    "source_context_ids": [
+      508,
+      509,
+      510,
+      511,
+      512
+    ],
+    "review": "La DS omet le nom de la personne admirée : B8 puis B7 restent tous deux dans la préparation SFC.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 511,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "2658978e9ad5fe40cc1ece2623233e43db0109f1891cf32d66c5ccaa93870ebc",
+    "source_message_sha256": "7a7e6170157d4e690d6bdd8232ec3f3470004c4c2e44d002e002e0a0d2a2e66a",
+    "french_plan": "{BD}Mais {B8} n'y prête aucune attention !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 322,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "0e9bc0d38e01ae57b7ef430470beff7d0a7734cd67dbc8c387d34c0d6872ca30",
+        "fr_text_sha256": "0340e74e319062f7aea3a3c618527fb1f3e3e09cb57a8028b561649cef4452f6"
+      }
+    ],
+    "source_context_ids": [
+      509,
+      510,
+      511,
+      512,
+      513
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 512,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "6be19d553c3d075842354d6250278e11179ccf8fbc086c9d117f8a5c1e4aaf9e",
+    "source_message_sha256": "5ea6498e8cd3a4c6ed382af438bb0a71113316ea0ab4b6ea804db2f6a8938a38",
+    "french_plan": "{BC}{B7} contemple le spectacle avec ravissement !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 318,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "815d549a733d4634d35b06cca05a632420608fcf20af4136f658ff26f9f10bb8",
+        "fr_text_sha256": "d4717f544902e824c3447f805e2daa481fd677806691686c683bf135cf703779"
+      }
+    ],
+    "source_context_ids": [
+      510,
+      511,
+      512,
+      513,
+      514
+    ],
+    "review": "DS utilise une variable cible ; ce message SFC utilise B7 acteur. Ne pas remplacer B7 par B8 à cause de la concordance lexicale.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 513,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "a167e19eb99d2f6c571ea86ec98d87d25fd94bf4569d6f097724066ea22a60d1",
+    "source_message_sha256": "6b2929cce9d46964037f0c5571a2cc33e0455ddf4c590a7d621df5cf2e32e7ae",
+    "french_plan": "{BD}{B8} contemple le spectacle avec ravissement !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 318,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "815d549a733d4634d35b06cca05a632420608fcf20af4136f658ff26f9f10bb8",
+        "fr_text_sha256": "d4717f544902e824c3447f805e2daa481fd677806691686c683bf135cf703779"
+      }
+    ],
+    "source_context_ids": [
+      511,
+      512,
+      513,
+      514,
+      515
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 514,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "678e378e80e7fc34a62d7cd643cadf5c64ae18c6be8487ac85734e278400a443",
+    "source_message_sha256": "8521f1a7a07d86fc78d518c6c9a6aeb12965e987ea09774a2efda11a9ddfcde9",
+    "french_plan": "{BC}{B7} commence à faire en cachette quelque chose de douteux !{AD}Quelque chose de vraiment douteux... !{B1}{AD}Tout le monde fait semblant de ne rien voir !{B1}{AC}",
+    "source_native_command_count": 7,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 324,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "835b8beaf28a8f57677e2a6f492d57b6135f85322cfbed7086f3ef7f693786b5",
+        "fr_text_sha256": "d02c56ed0989b5fc81be1f69446619e18414c85c8a41398eed3d9accfab0f25c"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 325,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "1cff8652e579a9c4a5df19740fb074b9f7e129c398b4d6bbdbb7f1f606f675d8",
+        "fr_text_sha256": "fa23af1b648ef4d73b355dd94ef0e3208f43735f855d437aaa3fa84b177df44f"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 326,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "885fb33a46a9d74d982c99c434ddd827d8c9f5314eb1f8c292ef2bd3064675cd",
+        "fr_text_sha256": "a9768804014deeec9c02883e8b5a048e25d5dc5ac24dab6d1af572899e1dd9b3"
+      }
+    ],
+    "source_context_ids": [
+      512,
+      513,
+      514,
+      515,
+      516
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 515,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "47c1520f9991881a9338e1bfc25adb534447ed293d80e8768257b20167c3c076",
+    "source_message_sha256": "a568d5c8abeb671c8036f82fe4ab5b2bbef962ae5c50bf1a774f9d13f7efb6a2",
+    "french_plan": "{BC}{B7} cherche à attirer la sympathie.{AD}Oh, pauvre de moi...{AD}Les larmes coulent des yeux de {B7} !{B1}{AD}{BC}{B7} n'arrête plus de pleurer !{AD}Les larmes forment un raz-de-marée qui s'abat sur les monstres !{B1}{AC}",
+    "source_native_command_count": 12,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 328,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "96e0367725086d3cc3a79d23ab9ddf002ec105196adb4a62e8922804df054f19",
+        "fr_text_sha256": "1cd9ab3669b2bd938dd0596d5b55c68eb7604b9c87e167c8ad5edae00b90f6f9"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 329,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "278827e1210dd2b1a656fac918154eb9e81581f9de9d2f0918c8054e656ac440",
+        "fr_text_sha256": "76682480267a1ec72ac795bfe800191551e18cadf1c99eec0361377b3702b21b"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 330,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "db9e55d6a573ce3302804616695096f666017a5371ed30d50e65217b460ff67f",
+        "fr_text_sha256": "4a571c777f1130539a61985d6963fb7ed075c7a9e77fe525635efadc590343f3"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 332,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9096f72fb1c95e32498eda1671ad4c24052b14cf98cafa2f794326ae089f0d8e",
+        "fr_text_sha256": "95d523731a54ec3d85ed48b0a872b356d6c3c3dda7266623e3ac8fba61e3eb00"
+      }
+    ],
+    "source_context_ids": [
+      513,
+      514,
+      515,
+      516,
+      517
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 516,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "5a9457ad394845b9063a98882e24188ff1b016ddfa115d49ee5943b5d4fcb819",
+    "source_message_sha256": "a503f7ca3b1ca89cb28c2bee7fb3e662451088139138ec3f82ad1d690248b0b4",
+    "french_plan": "{BC}{B7} remet ses cheveux en place !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 335,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "dbefb79e11ff63de17932fcda97f9fcb6643169d6134e12a4fbfac22151b4b68",
+        "fr_text_sha256": "b38a9f35afea681de4364b745a2d8a6e1dbd49c611b772620281e4058472448e"
+      }
+    ],
+    "source_context_ids": [
+      514,
+      515,
+      516,
+      517,
+      518
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 517,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "c952f0fc119a535201c3ee059546b9b4a687b02de51ddfe55bb713d7b683e71d",
+    "source_message_sha256": "00c3cfb93e8d3f606d366263a8f05a8af3ecb7d4d46839793859843b870ffc85",
+    "french_plan": "{BC}{B7} esquisse un sourire en coin...{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 337,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "0187f103dd9c2db9dd36daec6a9f75ba593fe0ba0b79edcbb4f919d4524fc153",
+        "fr_text_sha256": "a732d89cdeceedc9ea78fffa347208493b3de22c19ac446b2fd8380b9caae6dd"
+      }
+    ],
+    "source_context_ids": [
+      515,
+      516,
+      517,
+      518,
+      519
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 518,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "39df16f4771ae3f488a08afa6ffbbe7ef6980d1c1532144da3087b4d1c09451b",
+    "source_message_sha256": "5b0c9d3b14664c51d988a98158f541ab3e155ff18fd5ed57ad046141d3d280c9",
+    "french_plan": "{BC}{B7} lance une pièce très haut !{AD}La pièce retombe dans la paume de {B7} !{B1}{AC}",
+    "source_native_command_count": 6,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 339,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "e1aa47642f96efeae8486eea27c2c297ca1dee456fa9afba2a38a3787779e86f",
+        "fr_text_sha256": "3b2321f89f4ff91b132a2d08d10e7656d43c171e0286dbb22ca7e796629b1aa5"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 340,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "61f305f04dfdcf728e52b58a192b04e7c588d6e9fb5f00231253371e4d7de7bc",
+        "fr_text_sha256": "877bc504b1f9407423dea5c5b16234304d8c831e1fe2e007f56f4111e88e953c"
+      }
+    ],
+    "source_context_ids": [
+      516,
+      517,
+      518,
+      519,
+      520
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 519,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "b35176b3eafb5161ce966d0b3d49c022916a5b3488fba924a69665d4f2acfc0c",
+    "source_message_sha256": "3ca0d71b970931be1861297105e76c24104a553c6c5954ab0b4aa09e3eb2ff63",
+    "french_plan": "Pile !{B1}{AC}",
+    "source_native_command_count": 2,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 343,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "fd60b9b04a634718b6d001a0057f221b2f483b184aa6dac207e7081da3a25e43",
+        "fr_text_sha256": "6ca3138fd24e05a9e4ff23cd6ac5f9ddd15950004246d2950722c31fd926a5f1"
+      }
+    ],
+    "source_context_ids": [
+      517,
+      518,
+      519,
+      520,
+      521
+    ],
+    "review": "Pile selon DS0802:343, convention de localisation relue, pas une déduction omote/ura.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 520,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "6570c053ddbedb176e7377d94f56edb3f9d911b34870be36b11c89cbad6474b7",
+    "source_message_sha256": "d6dcc0029bdb944753770a83401928bf5503c3dd0ba8014ec6320e8fcda3e988",
+    "french_plan": "Face !{B1}{AC}",
+    "source_native_command_count": 2,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 346,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "0b1e40d1f1bba0625e59c91bdb2a2b7cc35c0d6b28576d4cca1977b30b453eee",
+        "fr_text_sha256": "5fe63dd59c5e373af63094873263fc4031719b0a7b982e3286f822aa1b59414f"
+      }
+    ],
+    "source_context_ids": [
+      518,
+      519,
+      520,
+      521,
+      522
+    ],
+    "review": "Face selon DS0802:346 ; cohérent avec519 et la convention officielle DS.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 521,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "53311c7ab3880ed3c9eeea93eaa39996441c451224f570bedb197bff3111aab3",
+    "source_message_sha256": "ec41cfca349508ef06bd761afcf04a84a682ec0c8ec4a2367b3c78e49a33d549",
+    "french_plan": "{B8} affiche un sourire malicieux !{B1}{AC}",
+    "source_native_command_count": 3,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 344,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "78471c76b149028060d0e75bbf1d8f74393137e11ae3877ddf21868507028d92",
+        "fr_text_sha256": "593c660da93236273bc1d1e3c20ff7b490f5b9221c2b299774a84c5efcf46e4a"
+      }
+    ],
+    "source_context_ids": [
+      519,
+      520,
+      521,
+      522,
+      523
+    ],
+    "review": "SFC B8 cible conservée malgré le rôle acteur de la variante DS.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 522,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "aa242935f817165e096f8f24c8799446fb342ecf73d8be9cdc455d6a09fe8691",
+    "source_message_sha256": "bddb94fe1b76590dba74f1592c62b7146156c5a8ef179d514057d8643de69179",
+    "french_plan": "{BC}{B7} regarde au loin{AD}avec un sourire prétentieux...{B1}{AD}Mais derrière cette attitude,{AD}une profonde mélancolie envahit {B7} !{B1}{AC}",
+    "source_native_command_count": 9,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 349,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "baef2b75c1c36003fca3cb2b32f6045ef4319511ced8442f7ce4b19ce0c436f6",
+        "fr_text_sha256": "e6079fe69d2f7dcc217112528e18fa7522173ea8892a128f543487a242d3a5f5"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 350,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a34b993c52aa877abdcb67298b2c4bd19ea49c5719e2cbd2b9e531f2daa70725",
+        "fr_text_sha256": "798c8774fc9f41bc2292725deea2a11f916ec54ac4035c95280fae25eda1c08a"
+      }
+    ],
+    "source_context_ids": [
+      520,
+      521,
+      522,
+      523,
+      524
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 523,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "c0b3a29fbf340045aa527cb4a690aa5d22b317732ca3869481ac129982973c3c",
+    "source_message_sha256": "5839315bb43476fd3e64d1fd724f883816aa2713bdf0f4a126f71aa95b60daf5",
+    "french_plan": "{BC}{B8}. M-mince alors !!{B1}{AD}La puissance d'attaque de {B8} augmente !{B1}{AC}",
+    "source_native_command_count": 7,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 351,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4790b4674abbee388863a383cae54160818381929cdda3c1954074a782ece018",
+        "fr_text_sha256": "7c1f62349c312e43412c70146314e7cd2cad4e4c35b91f7b1712535fa841944f"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 353,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "21852b631766d6d04b360b8401ea269efa9162f7bf3f9f2df86996b2a8a13bc2",
+        "fr_text_sha256": "6c3f34f063b40e6b634514db1f9693ea7edb50e2df8a845e80604a01bf1cdf39"
+      }
+    ],
+    "source_context_ids": [
+      521,
+      522,
+      523,
+      524,
+      525
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 524,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "5f0fc9ee30faca20b90467763c74f3fd26be5ce3ed1060bc2dde535dadcaaa06",
+    "source_message_sha256": "df0bf97c2a9b72cd00f7f0be995fe1ad4aa8383165f891c144ffb2dda4d9f1d0",
+    "french_plan": "{BC}{B7} essaie de se souvenir d'un jeu appris{AD}auprès de Dragore.{B1}{AD}Dragore. Tu dois gagner en force... Encore plus...{B1}{AD}{BC}Les mots de Dragore résonnent de nouveau !{AD}{B7}. Raaaah !!{B1}{AD}{BC}Des éclairs jaillissent autour de {B7} !{B1}{AC}",
+    "source_native_command_count": 16,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 355,
+        "scope": "SEQUENCE_RELUE_AVEC_VARIANTE_PARTICULE_JP",
+        "ja_text_sha256": "f490ba2f1652c9abb78c616e368adbd96a6829492bf56105dbfce167a00f2bf8",
+        "fr_text_sha256": "8bde3a7be8b702acbc627f7da9b3f8cb27b68d87b87c8a45e39d7513210eb943"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 356,
+        "scope": "SEQUENCE_RELUE_AVEC_VARIANTE_PARTICULE_JP",
+        "ja_text_sha256": "206777325249f84ad615c02b967b19eb0f0e9d2dff5d9ebe8b138a12c51904f1",
+        "fr_text_sha256": "ccd5efec170be698c0f54be844c231f1980f5924057701c3f3a7436bc9d9288d"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 357,
+        "scope": "SEQUENCE_RELUE_AVEC_VARIANTE_PARTICULE_JP",
+        "ja_text_sha256": "900b4c5a697bd80613245225d59678924b3101bd50e7489efee5fa4a4a6c9349",
+        "fr_text_sha256": "cb68c3eb92970c0bdab8a60c48cfdf6206fd340b1c17b273f093c8b30746d26e"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 358,
+        "scope": "SEQUENCE_RELUE_AVEC_VARIANTE_PARTICULE_JP",
+        "ja_text_sha256": "d74f6b8c6ee9c26dcbee2a7aab9266482943784196164307158158ffe7a3af46",
+        "fr_text_sha256": "a7bcce62f7ba02f1246ac91cec00a9802302dc24622e3cc5a7f5b0e851653876"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 360,
+        "scope": "SEQUENCE_RELUE_AVEC_VARIANTE_PARTICULE_JP",
+        "ja_text_sha256": "9f1e7f38a569b51b2384abad8da280fb87cd6276c0a35decea6187520bb3ba26",
+        "fr_text_sha256": "da177a003e7bb131ba3c65837bc577a248f67ab701795fbea09c3f1ae959c6c9"
+      }
+    ],
+    "source_context_ids": [
+      522,
+      523,
+      524,
+      525,
+      526
+    ],
+    "review": "デュラン est Dragore dans DS0802:355–360, pas une translittération supposée. Citation neutralisée gagner en force pour ne pas imposer un accord de genre ; trois B7 et quatre B1 conservés.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 525,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "93ab14a965809f939695d7708802372f7267a0d2f18ea7bd0b1bdf12d9399e7d",
+    "source_message_sha256": "4c3e2671390776a8f5280e690a10481c5b388a2c269f2e846a3aa71c7b25392e",
+    "french_plan": "{BC}{B7} saute et danse joyeusement !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 363,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "2a5eaef8c24ea72fc4529b9c0b97d5a0029bf2662c4af87bdbab83134324f52f",
+        "fr_text_sha256": "b290fca1219efa192b1e3ad642ecd7f04230a43d877ab306ce62e7b129841010"
+      }
+    ],
+    "source_context_ids": [
+      523,
+      524,
+      525,
+      526,
+      527
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 526,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "e1f770c7cc0be13996bb11cdc5940b732a818b540a117486a97a54630cea4ffc",
+    "source_message_sha256": "eb793dbfec8c616b7d4b7d20173dec889146fd961dc159db2dfa1755528697f8",
+    "french_plan": "{BC}{B7} joue joyeusement avec un gluant !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 365,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "3a82a5ede01f13ef2c967afcc6b3bf0de2c8b964e58c408a0ec86c3ce0e20b43",
+        "fr_text_sha256": "ff5935f3d4f3d69550ae4994c3932696f9962f8635d7b9e8e953d01000f8678a"
+      }
+    ],
+    "source_context_ids": [
+      524,
+      525,
+      526,
+      527,
+      528
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 527,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "ca8fbc0bb08bf739b823eb17fbc624715bcf3a639a50b84aca02816e41c835be",
+    "source_message_sha256": "ecc64bb4e414393cfe41d4f4f779fd0059c9ec2dd3661b83cdf5a0e0a196ca5f",
+    "french_plan": "{BC}{B7} fait tranquillement sa toilette.{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 367,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8262c2b072da3f134aa14a5bbde070758a1c40998f762ab32e24844d1d9f8fc3",
+        "fr_text_sha256": "ff9743a3149d89d879e4ff1dcdd55d2d03ac208daf56b5eb07435e5113efbde1"
+      }
+    ],
+    "source_context_ids": [
+      525,
+      526,
+      527,
+      528,
+      529
+    ],
+    "review": "Le SFC dit faire sa toilette ; ne pas imposer le s’épousseter DS à un acteur possiblement animal.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 528,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "5ac1ed741bb3014c9879545e54989d308268ad5afc1bed69fbc5102fed562e40",
+    "source_message_sha256": "5b03a2ce80fd0d2f27d834d66ca613596542037728c3949c3ea1266c9726d995",
+    "french_plan": "{BC}{B7} se demande à quel jeu jouer !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 369,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "17ee0b1658c38c9f37a6ac65a9216c810444febc5ead0a7ee933aec211a1d445",
+        "fr_text_sha256": "b0597d1201fbe844d0d018e9afb7d8f6e1f7a248a989f3dd0f63be6113f9730d"
+      }
+    ],
+    "source_context_ids": [
+      526,
+      527,
+      528,
+      529,
+      530
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 530,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "7b19a3add11586b4864547b69a96cada5363e76c985052c1255f2760d38da9fe",
+    "source_message_sha256": "78a8c59d1b6e06a4b9d796c0dff351cf52cd3c2c4297489746ea39aac5ed0311",
+    "french_plan": "{BC}{B7} se balance bizarrement sur un ballon !{AD}Oups ! Une perte d'équilibre provoque une collision !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 373,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "25238650033b55dda0a9e443e1cc0f62a1aa7f1a8d10aa6130bdeb350d22dc09",
+        "fr_text_sha256": "97174b11f8b0d673dd6e1eb905dc3ef0add1c3e28212f1ceca0de27337c3062f"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 375,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "5bb8bd8d90650d35f9996b269960cfb6f8bade4110270b7d433b3db1506244e2",
+        "fr_text_sha256": "d769f38a75e3818a1ace6e5867e1f8ad34c68e44334fa3becd17dcb5d957e9a0"
+      }
+    ],
+    "source_context_ids": [
+      528,
+      529,
+      530,
+      531,
+      532
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 531,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "f0a0dd5ad8659e96679e6c3db8aaa61e1fc66bea8610ee868f7ad46e8d42443a",
+    "source_message_sha256": "76b970bedb86f4aeaad7df532d71e65ac6bf652f4250f18087834f9b48518a80",
+    "french_plan": "{BC}{B7} court autour de l'ennemi{AD}à une vitesse fulgurante !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 378,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "3622ba65c47b000004d5dbc85edc29d1ce97261fd50211cdf3530f8629ced6b0",
+        "fr_text_sha256": "a84cc6d927ed9f9ad4fe903fea6bad36f0e8373f43f7fc330324aaeba636fb6f"
+      }
+    ],
+    "source_context_ids": [
+      529,
+      530,
+      531,
+      532,
+      533
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 532,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "cf37b5dbe8e61b7a36911e64e5aefb869b01a9352ad21f4cb64003c769974948",
+    "source_message_sha256": "0a0da4a0559ef0d1c358c0c2bcec6ac2bb3bb1d893dec2df8c61ba5cd7b4f364",
+    "french_plan": "{BD}{B8} a le tournis{AD}et sombre dans la confusion !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 381,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "44e43511b10716fbbba88697c20ed902713ee63650ca79c7d002d6e96033edcb",
+        "fr_text_sha256": "0b4a8177c07866a9f9eb70255454df41a113cceb08caa031e2dc434779e3e6a2"
+      }
+    ],
+    "source_context_ids": [
+      530,
+      531,
+      532,
+      533,
+      534
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 533,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "d7824030bf243c04021287394171ee77dfb33aa8f44b65d9ae94866efbb39194",
+    "source_message_sha256": "a7028c1ce203488601c243f128133b14ff4746fabbfdafb423f5d5df7c3dc310",
+    "french_plan": "{BC}{B7} tente de raconter une anecdote amusante à tout le monde !{B1}{AD}{BC}Mais le récit est maladroit et tombe à plat !{B1}{AC}",
+    "source_native_command_count": 8,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 383,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "773ae599b996b297cd6edf0ca068f704338197ca31fe884633b704d74a10c80c",
+        "fr_text_sha256": "831132af47c5d9750e5d38089e3010c36c58bb5c16ba57026a9992fe1710aad7"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 384,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a3d8bf4408798cb5aa95665ca9ef2164089a2035d0e3c254d965be32268eec41",
+        "fr_text_sha256": "3be7596d3f8b90df1b23057e120fc36bcca7de5fc0de9c84a1de7207770ed100"
+      }
+    ],
+    "source_context_ids": [
+      531,
+      532,
+      533,
+      534,
+      535
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 534,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "40e121b745c9ae81d27d2d9dcba93dc941c22ddde3bbfaa503b9395cb64d3e4b",
+    "source_message_sha256": "7a3548ed0f49dd3cfb4fe66d58d94db959c304367ef53996190877f2404eadbe",
+    "french_plan": "{BC}{B7} joue à rouler comme un ballon !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 386,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "bb6c5134b9a42071e574359f979cc52cee798b3d0de48ae41fc481bf1d0d746a",
+        "fr_text_sha256": "c1a44f6bbaf39b9d03a4b3fe12cee9eca02cdef7dc4a68bffa0ddbe77bc68bbc"
+      }
+    ],
+    "source_context_ids": [
+      532,
+      533,
+      534,
+      535,
+      536
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 535,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "7b1001e446c2ff2b10fbdb77aad1be258ec815be049e2addced8f282e4e2db62",
+    "source_message_sha256": "2b41fe0b0960150a5dbd10d13e67491401f6a1c0e46f2bb65d71c3a6b1167820",
+    "french_plan": "{BC}{B7} se met à jouer avec le feu !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 389,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "77a965a7b441f7b2c8ca00e7544e139f12de6f4bed7ea4b53d0e0d7ead6356b8",
+        "fr_text_sha256": "df631330fc5446bb7165b941f440aa4f3edf497be7e3ce2663494a272eb4a669"
+      }
+    ],
+    "source_context_ids": [
+      533,
+      534,
+      535,
+      536,
+      537
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 536,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "344b5497ab5ae3fc7a7669ef211a127cf12a48516bdfa1e8ae3e8d993cb193fe",
+    "source_message_sha256": "241d72f38fd20721e4d9f83439b5a3d96e68750f8363bab1b53b1c194f1f9b1b",
+    "french_plan": "Oh non ! Le feu se propage !{B1}{AD}{BC}Des colonnes de flammes envahissent les alentours !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 392,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "7fa111ee1ab53646f1a58e03de3515be0e30a9d6dc55a8dc023a54cdf5c2cea1",
+        "fr_text_sha256": "92096c69d8738937643db6553ceccd288d466e9b3ec5403ba6d60f1c546405a5"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 393,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "06d92e6f6029447d4c6ac401a07514fbf7827ebd4f5f9cd010d337db3986b164",
+        "fr_text_sha256": "891aab9ea5e19f9c20d7d4576ba0c078f0bac87b7537005f109f93875adc66df"
+      }
+    ],
+    "source_context_ids": [
+      534,
+      535,
+      536,
+      537,
+      538
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 537,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "73af3c34ea2b22d38356605046b6ca9b732ee615b8943b77fb12ebd87aa3f9d6",
+    "source_message_sha256": "7cf9a9e6717cdbb0fcf7512ac1d82ad111ff6100ec098fe798f5d1512bfc96f4",
+    "french_plan": "{BC}{B7} se met soudain à sauter à la corde !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 396,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "398aae2e7924615e5428586d377f127c3e71048243851a12e8f12e3a9c209d55",
+        "fr_text_sha256": "8765ab8aa89e0e6e6845ba162d26c85a7695a34d2b645d80ab96b4c19e33c901"
+      }
+    ],
+    "source_context_ids": [
+      535,
+      536,
+      537,
+      538,
+      539
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 538,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "8e8a73b002491cab3d6945ba7c6f7796d693d94d6a1b7484922deda4ae0c0cd0",
+    "source_message_sha256": "97c24053f86d5ace688bd6b4593ed7dc9226280192b07124bad63b2389c90956",
+    "french_plan": "De violentes secousses font trembler le sol !{B1}{AC}",
+    "source_native_command_count": 2,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 399,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "dfba90bdbb182b7ba3abf29a864a8dc33fb631714b0609a2b7ba19f80dc509a8",
+        "fr_text_sha256": "1a1cf4a4947fb571d7b73933c963528e9b640bf89987ab6b6bb7e3f5e5ee876b"
+      }
+    ],
+    "source_context_ids": [
+      536,
+      537,
+      538,
+      539,
+      540
+    ],
+    "review": "Le japonais SFC décrit des secousses, pas nécessairement les fissures ajoutées dans le français DS.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 543,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "e1d3e4c6b44277706eaff21c2f396f9fda5f39f9a038307749d8d3deeac58010",
+    "source_message_sha256": "8de6d3cf9390689d26d5c034d1e98a9e9c11309c1c6fa68edf801301c2921305",
+    "french_plan": "{BC}{B7} fait semblant d'exploser !{AD}L'ennemi se fige un instant...{B1}{AD}Mais rien ne se passe !{AD}{B7} sourit d'un air malicieux.{B1}{AC}",
+    "source_native_command_count": 9,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 411,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "1dd230d420b855b99eb30bce38f4d751019c77832d20d9653bbf084c46f61bcb",
+        "fr_text_sha256": "f31b8ce81af16d50adcc96ce06b65e0ba54b3618284b06fa46c4d1fdb8805671"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 412,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a9e484ecdcd841ce9cf6104ae7bb6272805ed2e5f9be56bbdd12aa0e58c0b1d7",
+        "fr_text_sha256": "608367d7c967dd0c05db277685c41f6202f296fe67f35bb8043ff4b6d9310db6"
+      }
+    ],
+    "source_context_ids": [
+      541,
+      542,
+      543,
+      544,
+      545
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 544,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "1736b0de4e36718591c503c98a6e834f23611e6f0cb3eb3fcaf24485e41b3a1a",
+    "source_message_sha256": "93f345de34d7983c0943012b44a345b4f59cf940843ac492b3cd4597aef88365",
+    "french_plan": "{BC}{BC}{B7} commence lentement une histoire effrayante.{AD}Il était une fois, dans un château...{B1}{AD}C'est une histoire vraiment terrifiante !{B1}{AC}",
+    "source_native_command_count": 8,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 414,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "46db7a802756f0172f21258fda25f8bb8cad5fdb1091506aa621edbea36346f9",
+        "fr_text_sha256": "e7b97a2e260d61e4b61a23cd809126ea56c1629418d276d92fefa4384efded9e"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 415,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "c07b0799d36ad372a09fe249cdc0a5b652e2b6ec24a31976e9dca8fe97d7320c",
+        "fr_text_sha256": "222f9a171a6dbe746ac47b6d453c19f5746a73b5fa7ccd3c432c389979b79245"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 416,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "68d18225ce2769f4a23f419da185f6eff64d2fc106fa277f74cf1036ae84f031",
+        "fr_text_sha256": "b9a49fa3d4722d9e8c85014606548e1853e325a90504b616dec9e93359d448d3"
+      }
+    ],
+    "source_context_ids": [
+      542,
+      543,
+      544,
+      545,
+      546
+    ],
+    "review": "Double BC natif conservé. L’histoire SFC commence dans un château ; ne pas importer la nuit d’orage de la localisation DS.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 545,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "4142dc6d58d344b53ae827cb29ef0b3f26b3d11480a54e19a918317dbb8f28cf",
+    "source_message_sha256": "fabac60a00fc95e033c128727099f491e4ec621cdebc760a40f8c4069397043d",
+    "french_plan": "{BC}{B8} a la chair de poule !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 342,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "215d405470784d81c3f866c1ff7c94f8d47c2608a8fecf6a17e0be6df4ee2f08",
+        "fr_text_sha256": "fde2695f871f9d375290aa8d23d25d5dfd39ead4e25e8fbd5af00dbf37aa7761"
+      }
+    ],
+    "source_context_ids": [
+      543,
+      544,
+      545,
+      546,
+      547
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 546,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "d215743fbb8662a74d41d143a68b37d03d15c7a307939cc8cf877064d92ac902",
+    "source_message_sha256": "12821806e18648c9e0ceecb3bc1190bff13d75474c73050c30f2c0fc5cbf8c1b",
+    "french_plan": "{BC}{B7} vient de trouver le jeu ultime !{AD}Devenir quelque chose de complètement différent !{AD}{B7} prend une apparence terrifiante !{B1}{AD}{BC}L'horrible créature crache un blizzard glacial !{B1}{AC}",
+    "source_native_command_count": 10,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 419,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "64748d3f16d699693b09b2ecd7d887234054091ad1767bf56cc6aa0bf8fc8509",
+        "fr_text_sha256": "c7f1a3a14a233f80703c6734d46698805c4195b0c2433acdd7ea5650581eef15"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 420,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "fcad9933b19a8e5ff8c3cd7aa7e822cec83c6bbbf78805e4c5dd2c0a5dfddad0",
+        "fr_text_sha256": "d12f74f3ed6d8fd117c26e7dfada7b3ad2de765edfd72e34cb7ea6a592b53f18"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 421,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9d4e5daa3fede029ae5446738a95dbac5372125412ef918b40fd1cf1e76ea8b7",
+        "fr_text_sha256": "22124e13bdc4ebaf73a13ff9bc5c999337324a1df707d10ccaa778842cacb131"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 423,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "5f7b9190ae65718f6b10efa0edfa9d908e23189981c34eed12266439d19ffc32",
+        "fr_text_sha256": "70c65d9e213da6359f273228ba51e8b6be648bb4b2fa00f7474af9a78f3dc712"
+      }
+    ],
+    "source_context_ids": [
+      544,
+      545,
+      546,
+      547,
+      548
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 547,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "9751a7dba23aa920816e4a15ff4e82e9c26538c3162b781aeb5a84d800ec355e",
+    "source_message_sha256": "2c635c1485b1bd5d7e42ce6badfa7fac1f8b1b451a750cb9a47daff74ecde079",
+    "french_plan": "{BC}{B7} reprend sa forme d'origine !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 426,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "3e43ce4ad88fb94604359d672bba332a4ec5ca0ff936b062056ae7a0441c2546",
+        "fr_text_sha256": "5b6b57476825024f811af2c612b778460cdcba0878d61f80bbbe3a5377bf8577"
+      }
+    ],
+    "source_context_ids": [
+      545,
+      546,
+      547,
+      548,
+      549
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 548,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "d497a2501222b9c8089d977cecf4eea9112df1e947a7cfd1cd1f5fa057070855",
+    "source_message_sha256": "1d0cae48a11bce4e53eccd149766641c7a4bb1dae0f795ff9a4cd86372defd40",
+    "french_plan": "{BC}{B7} invente soudain une nouvelle danse !{AD}{B7}. Da, da da da, da da da da da !{B1}{AC}",
+    "source_native_command_count": 7,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 428,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "7f5f054bdcea83668ad25798336f5aabd60b637b63ce9deae043e1fce9ade206",
+        "fr_text_sha256": "a80b5c5a4d2ae75f5644b950dca80d91ad6f89340f11362abb193c796ce021b1"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 429,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "400105a1c3b2682be9bdf0376f78ec4e71de6ee0271a588737eba39d2d71afe9",
+        "fr_text_sha256": "f139460172aa3ae35cd9f3dbe337586b08756ce37151f125b29ac6cabb65d34f"
+      }
+    ],
+    "source_context_ids": [
+      546,
+      547,
+      548,
+      549,
+      550
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 549,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "61881867bfc28b63fff17dc250a18aa9acbb82afa49f23238f7b443b0bb88dbb",
+    "source_message_sha256": "714b8d19f3675d5f61b9c2705414c6708a6c464d753e939536e65c4a02e2faa3",
+    "french_plan": "Une brume étrange apparaît !{B1}{AD}{BC}Tous les effets de la magie disparaissent !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      547,
+      548,
+      549,
+      550,
+      551
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 550,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "bbbccd60a654a2b3ebea245f5f95e7976dc08a84cf213c6f146b6c822984b97a",
+    "source_message_sha256": "40d2076d9189a30d146774a80716e74fc8fbf727c2bb97ad8e9a6d76f154fd85",
+    "french_plan": "{BC}{B7} se met à gonfler comme un ballon !{B1}{AD}{BC}Le corps grossit encore et encore !{AD}Paaaf !!!{B1}{AC}",
+    "source_native_command_count": 9,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 435,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9ef1812bdca739358dc905b04ec38c157abac103daa61e7058ea8b7a2da8fe1e",
+        "fr_text_sha256": "dcb7b8e967da033f15c4fa6e72f7958705f78ba2db20ca22ad04c3a37bc544c0"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 436,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "98ff8c1ba02590cb62851f96abd395f1a11bdff634622520d9332f7bcc3d9308",
+        "fr_text_sha256": "36144b79a0800cd5c24abfdafb20914b73117ee79c9a00c09a376e72a47029cd"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 438,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "f3ac3d77d3a5959dea0c8c60e7123d7289ac98a786f2cdee03178f837877394b",
+        "fr_text_sha256": "e87174dac1cb33b1badd10c2493272e038bc60cc90058f86d44ecdb90b22e447"
+      }
+    ],
+    "source_context_ids": [
+      548,
+      549,
+      550,
+      551,
+      552
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 551,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "afafa06fda8c99ac3738927cc1b3edc0eed388a7c9737bfda6bf8173036e0952",
+    "source_message_sha256": "ea141289f73d4577c7dd191654ccb7f359eeaac9030c978c566209c320e2320a",
+    "french_plan": "{BD}{B8} s'envole sous le choc !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 441,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "1156fa739266f7f1a25047a2a699341ee9da3ec12c0270d4395e0503c4bac1f7",
+        "fr_text_sha256": "a295ed9718de22e46fd6400b8c1158c6bfdae6ed1070791d2035b72c30c4715a"
+      }
+    ],
+    "source_context_ids": [
+      549,
+      550,
+      551,
+      552,
+      553
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 552,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "0e128c77f642f0cd93c33b6963108558c443c053cea1ffb71f4448c56b236dfa",
+    "source_message_sha256": "e800f832c0d6724ea3f8979dbcd7804f6b0794212cc1979f8896a10dad1044c1",
+    "french_plan": "{BD}{B8} tient bon !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 443,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8654446d622e7175a49d6d2b983e5d9dcc0fac9cf15dfd5d88d28c43cc0c06f0",
+        "fr_text_sha256": "1227be1cdcac7c5bf672667327e66609f4015a6ac60b870838b3df570975c0f1"
+      }
+    ],
+    "source_context_ids": [
+      550,
+      551,
+      552,
+      553,
+      554
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 553,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "ba1693993e958dbf63366998eb5cadd697348819bb2705a3e02d88f4952757e3",
+    "source_message_sha256": "666150954f26cf9bf12a9a40b28fb95d946cc6fda86e79ecc410000178abbde5",
+    "french_plan": "{BC}{B7} reprend sa forme d'origine en se dégonflant !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 445,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "adf79a364dff428c53a02b95f7525e716a855d6aa3c223ccf2fb4dab03c7b25b",
+        "fr_text_sha256": "5b6b57476825024f811af2c612b778460cdcba0878d61f80bbbe3a5377bf8577"
+      }
+    ],
+    "source_context_ids": [
+      551,
+      552,
+      553,
+      554,
+      555
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 562,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "c78a602482862dac26bcfe05bc48d558d5e848d994025605c08448cc4004fe87",
+    "source_message_sha256": "f89957b4a83849b75ae4330650aa5a1eeb4358f76797fb002247cd97c9591e99",
+    "french_plan": "{BC}{B7} ferme les yeux et commence à prier !{AD}Une puissance maléfique envahit les alentours !{B1}{AC}",
+    "source_native_command_count": 5,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [],
+    "source_context_ids": [
+      560,
+      561,
+      562,
+      563,
+      564
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 563,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "2fed22977c75c7c11054b832812639131c07167bde4ce5287483405e820c4794",
+    "source_message_sha256": "947b87043ddddf9904e8761faa4c4ad09d647bcd59a3c6d2b337014b356fe1fa",
+    "french_plan": "{BD}{B8} récupère rapidement sa puissance magique !{B1}{AC}",
+    "source_native_command_count": 4,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 521,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4379d01b11c77597e695d1120ea652733df10aa3ba727cd2378d6a0a8a1ca326",
+        "fr_text_sha256": "ea4ffce20463a57bd7835cad76fda3da1c9c404bbbf68ab27612e80e7fa44c29"
+      }
+    ],
+    "source_context_ids": [
+      561,
+      562,
+      563,
+      564,
+      565
+    ],
+    "review": "B8 SFC conservée, sans la convertir en acteur DS ni ajouter une quantité de PM.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  }
+]

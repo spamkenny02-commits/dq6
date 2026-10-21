@@ -1,3 +1,7 @@
+# Reprise combat-v057 — préparations non insérées
+
+Pool combat :107 propositions préparées non insérées,105 relues et2 réserves464/465. Établir codec/largeurs/commandes et essais natifs avant insertion ;497 textes hérités encore non relus. Puis autres tables, recherche exhaustive, relecture intégrale et audits naturels. Le script reste6957 sélections (6948 linguistiques et9 structures), patchv0.56 inchangé. Lire preparations/combat-v057/README.md et qa-preparation.json. Les105 relectures ne valident pas le codec ni le rendu. Ne pas rejouer ces préparations comme nouvelles traductions.
+
 # Reprise après inventaire du combat — v0.56
 
 Script principal terminé : ne pas rejouer le lot16. Priorité au pool séparé de combat608 entrées (107 identifiants sans texte,497 héritées non relues,4 structurelles), avec japonais/DS/contexte. Puis compléter noms/menus/objets/sorts/classes et recherche des autres ressources, relecture exhaustive et audits naturels. Zéro français validé pour le pool combat par ce seul inventaire. La preuve verification-v056-depuis-git.json vérifie une restauration neuve et les patchs du commit c04ad91728580dfda8feb5a055fb451c298dfb2b. Les rapports du lot attestent les anciens tests Snes9x ; ne pas les prendre pour des tests nouvellement exécutés dans le contrôle de restauration. L’audit de ressources reste incomplet hors des trois pools identifiés.

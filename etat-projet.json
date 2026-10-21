@@ -23,7 +23,8 @@
     "separate_places": 25,
     "reviewed_fragments": 0,
     "draft_main": 0,
-    "boundary_audit": 0
+    "boundary_audit": 0,
+    "separate_battle": 107
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
@@ -40,8 +41,8 @@
     "native_grammar_helpers_adapted": 4
   },
   "rom_bytes": 8388608,
-  "notes": "16 derniers textes intégrés. Script principal6957 sélections dont6948 entrées linguistiques et9 structurelles ; zéro texte principal en attente. Trois corrections isolées de disposition équipement et réparation de frontière6956 explicites. Tests diagnostiques réussis, scènes naturelles encore ouvertes.",
-  "next": "Script principal terminé : ne pas rejouer le lot16. Priorité au pool séparé de combat608 entrées (107 identifiants sans texte,497 héritées non relues,4 structurelles), avec japonais/DS/contexte. Puis compléter noms/menus/objets/sorts/classes et recherche des autres ressources, relecture exhaustive et audits naturels. Zéro français validé pour le pool combat par ce seul inventaire.",
+  "notes": "16 derniers textes intégrés. Script principal6957 sélections dont6948 entrées linguistiques et9 structurelles ; zéro texte principal en attente. Trois corrections isolées de disposition équipement et réparation de frontière6956 explicites. Tests diagnostiques réussis, scènes naturelles encore ouvertes. Point combat-v057 :107 préparés,0 intégrés ; aucune nouvelle version ROM ni test Snes9x dans ce point.",
+  "next": "Pool combat :107 propositions préparées non insérées,105 relues et2 réserves464/465. Établir codec/largeurs/commandes et essais natifs avant insertion ;497 textes hérités encore non relus. Puis autres tables, recherche exhaustive, relecture intégrale et audits naturels.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -73,7 +74,8 @@
   "proofreading": {
     "exhaustive_pass_completed": false,
     "reviewed_this_translation_pass": 16,
-    "translation_reviews_not_a_full_reread": true
+    "translation_reviews_not_a_full_reread": true,
+    "full_main_reread_recorded": 0
   },
   "separate_battle_pool": {
     "runtime_entries": 608,
@@ -85,6 +87,18 @@
     "project_french_context_reviewed": 0,
     "new_translations_this_audit": 0,
     "inventory": "audits/ressources-v056.json",
-    "not_in_main_6957": true
-  }
+    "not_in_main_6957": true,
+    "prepared_not_inserted": 107,
+    "semantic_reviewed_prepared": 105,
+    "semantic_reserve_ids": [
+      464,
+      465
+    ],
+    "with_explicit_DS_references": 85,
+    "direct_SFC_without_established_DS": 22,
+    "new_integrated_this_checkpoint": 0,
+    "preparation": "preparations/combat-v057/prepares-non-inseres.json",
+    "codec_approved": false
+  },
+  "checkpoint": "combat-v057"
 }
