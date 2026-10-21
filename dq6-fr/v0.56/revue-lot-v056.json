@@ -1,0 +1,795 @@
+[
+  {
+    "id": 5698,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": true,
+    "existing_revision": true,
+    "sfc_jp": "これを　装備できるのは[CODE D5][LINE][END STRING AE]",
+    "sfc_vf_secondaire": "[CODE C1] [CODE D5][END STRING AE]",
+    "native_plan": "Compatible avec{D5}{AD}",
+    "original_body": "Compatible avec{D5}{AD}",
+    "adaptation_body": "Compatible avec{D5}{AD}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Révision isolée : ancien texte Par contre, il faut qu’ils soient utilisés par... remplacé par le titre neutre Compatible avec. Le vrai appel C3C5BE imprime ce préfixe avant la liste. Sens équipement conservé, pas de pluriel imposé aux personnages.",
+    "review": "Révision isolée : ancien texte Par contre, il faut qu’ils soient utilisés par... remplacé par le titre neutre Compatible avec. Le vrai appel C3C5BE imprime ce préfixe avant la liste. Sens équipement conservé, pas de pluriel imposé aux personnages.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_D5": 213
+    },
+    "sfc_context": [
+      {
+        "id": 5696,
+        "text": "しかも　なんかい使っても[LINE]なくならないぞ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5697,
+        "text": "しかし　使ったあと[LINE]こわれてしまうことが　あるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5698,
+        "text": "これを　装備できるのは[CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5699,
+        "text": "[CODE C1]　[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5700,
+        "text": "[CODE C1][CODE D5][LINE][END STRING AE]"
+      }
+    ]
+  },
+  {
+    "id": 5699,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": true,
+    "existing_revision": true,
+    "sfc_jp": "[CODE C1]　[CODE D5][END STRING AE]",
+    "sfc_vf_secondaire": "[CODE C1][CODE D5][LINE][END STRING AE]",
+    "native_plan": "{C1} {D5}{AF}{AD}",
+    "original_body": "{C1} {D5}{AF}{AD}",
+    "adaptation_body": "{C1} {D5}{AF}{AD}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Révision structurelle de disposition : C1 espace D5 gardés dans le même ordre ; AF puis AD ajoutés après chaque nom pour permettre des pauses et maîtriser les lignes avant débordement. L’ancienne source voulait trois noms sur une ligne. Aucun nom figé.",
+    "review": "Révision structurelle de disposition : C1 espace D5 gardés dans le même ordre ; AF puis AD ajoutés après chaque nom pour permettre des pauses et maîtriser les lignes avant débordement. L’ancienne source voulait trois noms sur une ligne. Aucun nom figé.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_C1": 193,
+      "native_D5": 213
+    },
+    "sfc_context": [
+      {
+        "id": 5697,
+        "text": "しかし　使ったあと[LINE]こわれてしまうことが　あるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5698,
+        "text": "これを　装備できるのは[CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5699,
+        "text": "[CODE C1]　[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5700,
+        "text": "[CODE C1][CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5701,
+        "text": "そして......[CODE D5][WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5700,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": true,
+    "existing_revision": true,
+    "sfc_jp": "[CODE C1][CODE D5][LINE][END STRING AE]",
+    "sfc_vf_secondaire": "et…[CODE D5][WAIT][END STRING AC]",
+    "native_plan": "{C1}{D5}{AF}{AD}",
+    "original_body": "{C1}{D5}{AF}{AD}",
+    "adaptation_body": "{C1}{D5}{AF}{AD}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Même correction de disposition que5699, à la branche CPY2 de la liste native ; C1/D5/AD/AE gardés, AF ajouté. Ne compte pas comme traduction nouvelle.",
+    "review": "Même correction de disposition que5699, à la branche CPY2 de la liste native ; C1/D5/AD/AE gardés, AF ajouté. Ne compte pas comme traduction nouvelle.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_C1": 193,
+      "native_D5": 213
+    },
+    "sfc_context": [
+      {
+        "id": 5698,
+        "text": "これを　装備できるのは[CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5699,
+        "text": "[CODE C1]　[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5700,
+        "text": "[CODE C1][CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5701,
+        "text": "そして......[CODE D5][WAIT][END STRING AC]"
+      },
+      {
+        "id": 5702,
+        "text": "が[LINE]装備できるようだ。[LINE][WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5701,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": true,
+    "existing_revision": false,
+    "sfc_jp": "そして......[CODE D5][WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "peut l'équiper.[LINE][WAIT][END STRING AC]",
+    "native_plan": "et...{D5}{AF}{AD}",
+    "original_body": "et...{D5}{AF}{AD}",
+    "adaptation_body": "et...{D5}{AF}{AD}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Conjonction et suspension conservées. La boucle native C3C608 pour6–8 porteurs appelle5701 après le cinquième nom. AF source conservé, AD après la pause pour isoler le nom suivant. IPS secondaire décalé ne servait pas de validation.",
+    "review": "Conjonction et suspension conservées. La boucle native C3C608 pour6–8 porteurs appelle5701 après le cinquième nom. AF source conservé, AD après la pause pour isoler le nom suivant. IPS secondaire décalé ne servait pas de validation.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_D5": 213
+    },
+    "sfc_context": [
+      {
+        "id": 5699,
+        "text": "[CODE C1]　[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5700,
+        "text": "[CODE C1][CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5701,
+        "text": "そして......[CODE D5][WAIT][END STRING AC]"
+      },
+      {
+        "id": 5702,
+        "text": "が[LINE]装備できるようだ。[LINE][WAIT][END STRING AC]"
+      },
+      {
+        "id": 5703,
+        "text": "の　ようだ。[CODE D5][LINE][WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5702,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": true,
+    "existing_revision": false,
+    "sfc_jp": "が[LINE]装備できるようだ。[LINE][WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "peut l'utiliser.[CODE D5][LINE][WAIT][END STRING AC]",
+    "native_plan": "semble-t-il.{AD}{AF}",
+    "original_body": "semble-t-il.{AD}{AF}",
+    "adaptation_body": "semble-t-il.{AD}{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Conclusion japonaise semble pouvoir équiper : le sens compatibilité figure dans le préfixe5698 ; semble-t-il garde la modalisation sans genre ni nombre. Appel après la boucle6–8, contrairement au suffixe5703 de la boucle1–5. Disposition typographique adaptée, AF conservé.",
+    "review": "Conclusion japonaise semble pouvoir équiper : le sens compatibilité figure dans le préfixe5698 ; semble-t-il garde la modalisation sans genre ni nombre. Appel après la boucle6–8, contrairement au suffixe5703 de la boucle1–5. Disposition typographique adaptée, AF conservé.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 5700,
+        "text": "[CODE C1][CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5701,
+        "text": "そして......[CODE D5][WAIT][END STRING AC]"
+      },
+      {
+        "id": 5702,
+        "text": "が[LINE]装備できるようだ。[LINE][WAIT][END STRING AC]"
+      },
+      {
+        "id": 5703,
+        "text": "の　ようだ。[CODE D5][LINE][WAIT][END STRING AC]"
+      },
+      {
+        "id": 5704,
+        "text": "今の　[CODE C9]と　仲間には[LINE]これを　装備できる者は[LINE]ひとりも　いないようだ。[WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5703,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": true,
+    "existing_revision": false,
+    "sfc_jp": "の　ようだ。[CODE D5][LINE][WAIT][END STRING AC]",
+    "sfc_vf_secondaire": "Aucun membre de l'équipe de [CODE C9] ne peut équiper ceci.[WAIT][END STRING AC]",
+    "native_plan": "semble-t-il.{D5}{AD}{AF}",
+    "original_body": "semble-t-il.{D5}{AD}{AF}",
+    "adaptation_body": "semble-t-il.{D5}{AD}{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Suffixe japonais de modalisation semble ; après le préfixe Compatible avec et les noms natifs, semble-t-il conserve la conclusion sans imposer singulier/pluriel. D5/AF/AC gardés. Appel C3C5FE après boucle1–5.",
+    "review": "Suffixe japonais de modalisation semble ; après le préfixe Compatible avec et les noms natifs, semble-t-il conserve la conclusion sans imposer singulier/pluriel. D5/AF/AC gardés. Appel C3C5FE après boucle1–5.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_D5": 213
+    },
+    "sfc_context": [
+      {
+        "id": 5701,
+        "text": "そして......[CODE D5][WAIT][END STRING AC]"
+      },
+      {
+        "id": 5702,
+        "text": "が[LINE]装備できるようだ。[LINE][WAIT][END STRING AC]"
+      },
+      {
+        "id": 5703,
+        "text": "の　ようだ。[CODE D5][LINE][WAIT][END STRING AC]"
+      },
+      {
+        "id": 5704,
+        "text": "今の　[CODE C9]と　仲間には[LINE]これを　装備できる者は[LINE]ひとりも　いないようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5705,
+        "text": "もし　店屋に　売れば[LINE][CODE BB]ゴールドに　なるだろう。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6040,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "キャンセル歩行を　できる様にしますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6040<0559>[END STRING AC]",
+    "native_plan": "Autoriser la marche avec Annuler ?",
+    "original_body": "Autoriser la marche avec Annuler ?",
+    "adaptation_body": "Autoriser la marche avec Annuler ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "C90910 appelle ce texte puis le choix, et positionne/efface le bit0002 à7E3D00 via C92E50/C92E93. C5907D lit ce bit et l’entrée5840 masque0020 pour alimenter6E51. Annuler est la fonction donnée par le japonais, aucune touche physique B/L inventée.",
+    "review": "C90910 appelle ce texte puis le choix, et positionne/efface le bit0002 à7E3D00 via C92E50/C92E93. C5907D lit ce bit et l’entrée5840 masque0020 pour alimenter6E51. Annuler est la fonction donnée par le japonais, aucune touche physique B/L inventée.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6038,
+        "text": "ふくろを　持っていれば[LINE]装備品以外を　ふくろに　いれます。[END STRING AC]"
+      },
+      {
+        "id": 6039,
+        "text": "ただいま　作成中です![END STRING AC]"
+      },
+      {
+        "id": 6040,
+        "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+      },
+      {
+        "id": 6041,
+        "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6042,
+        "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6041,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "キャンセル歩行を　できる様にしました。[END STRING AC]",
+    "sfc_vf_secondaire": "6041<0559>[END STRING AC]",
+    "native_plan": "Marche avec Annuler autorisée.",
+    "original_body": "Marche avec Annuler autorisée.",
+    "adaptation_body": "Marche avec Annuler autorisée.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Branche oui de6040 : C9091B affiche6041 puis C92E50 argument7E3D00 masque0002 ; marche avec Annuler autorisée, pas marche à travers les murs.",
+    "review": "Branche oui de6040 : C9091B affiche6041 puis C92E50 argument7E3D00 masque0002 ; marche avec Annuler autorisée, pas marche à travers les murs.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6039,
+        "text": "ただいま　作成中です![END STRING AC]"
+      },
+      {
+        "id": 6040,
+        "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+      },
+      {
+        "id": 6041,
+        "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6042,
+        "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6043,
+        "text": "ランダムエンカウントを　行ないますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6042,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "キャンセル歩行を　できない様にしました。[END STRING AC]",
+    "sfc_vf_secondaire": "6042<0559>[END STRING AC]",
+    "native_plan": "Marche avec Annuler désactivée.",
+    "original_body": "Marche avec Annuler désactivée.",
+    "adaptation_body": "Marche avec Annuler désactivée.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Branche non de6040 : C9092C affiche6042 puis C92E93 argument7E3D00 masque0002. Pas d’effet non démontré ajouté.",
+    "review": "Branche non de6040 : C9092C affiche6042 puis C92E93 argument7E3D00 masque0002. Pas d’effet non démontré ajouté.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6040,
+        "text": "キャンセル歩行を　できる様にしますか?[END STRING AC]"
+      },
+      {
+        "id": 6041,
+        "text": "キャンセル歩行を　できる様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6042,
+        "text": "キャンセル歩行を　できない様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6043,
+        "text": "ランダムエンカウントを　行ないますか?[END STRING AC]"
+      },
+      {
+        "id": 6044,
+        "text": "ランダムエンカウントが[LINE]起こる様にしました。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6046,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "開始フロアを　インチキフロアとしますか?[END STRING AC]",
+    "sfc_vf_secondaire": "6046<0559>[END STRING AC]",
+    "native_plan": "Utiliser l'étage truqué comme étage de départ ?",
+    "original_body": "Utiliser l'étage truqué comme étage de départ ?",
+    "adaptation_body": "Utiliser l'étage truqué comme étage de départ ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "C9096A propose le changement puis les branches6047/6048 positionnent/effacent7E3D00 masque0004. C00254B lit ce bit au démarrage et la branche dédiée charge la valeur1. Étage truqué traduit le label interne インチキフロア ; aucune zone nommée inventée.",
+    "review": "C9096A propose le changement puis les branches6047/6048 positionnent/effacent7E3D00 masque0004. C00254B lit ce bit au démarrage et la branche dédiée charge la valeur1. Étage truqué traduit le label interne インチキフロア ; aucune zone nommée inventée.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6044,
+        "text": "ランダムエンカウントが[LINE]起こる様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6045,
+        "text": "ランダムエンカウントが[LINE]起こらない様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6046,
+        "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+      },
+      {
+        "id": 6047,
+        "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6048,
+        "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6047,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "開始フロアを　インチキフロアとします。[END STRING AC]",
+    "sfc_vf_secondaire": "6047<0559>[END STRING AC]",
+    "native_plan": "L'étage truqué sera l'étage de départ.",
+    "original_body": "L'étage truqué sera l'étage de départ.",
+    "adaptation_body": "L'étage truqué sera l'étage de départ.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Branche oui de6046, C90975 puis C92E50, bit0004. Étape de départ technique, pas un nom de lieu DS.",
+    "review": "Branche oui de6046, C90975 puis C92E50, bit0004. Étape de départ technique, pas un nom de lieu DS.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6045,
+        "text": "ランダムエンカウントが[LINE]起こらない様にしました。[END STRING AC]"
+      },
+      {
+        "id": 6046,
+        "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+      },
+      {
+        "id": 6047,
+        "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6048,
+        "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6049,
+        "text": "座標ウインドウを　使いますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6048,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "開始フロアを　標準フロアとします。[END STRING AC]",
+    "sfc_vf_secondaire": "6048<0559>[END STRING AC]",
+    "native_plan": "L'étage standard sera l'étage de départ.",
+    "original_body": "L'étage standard sera l'étage de départ.",
+    "adaptation_body": "L'étage standard sera l'étage de départ.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Branche non de6046, C90986 puis C92E93, bit0004 ; opposition étage standard/étage truqué conservée.",
+    "review": "Branche non de6046, C90986 puis C92E93, bit0004 ; opposition étage standard/étage truqué conservée.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6046,
+        "text": "開始フロアを　インチキフロアとしますか?[END STRING AC]"
+      },
+      {
+        "id": 6047,
+        "text": "開始フロアを　インチキフロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6048,
+        "text": "開始フロアを　標準フロアとします。[END STRING AC]"
+      },
+      {
+        "id": 6049,
+        "text": "座標ウインドウを　使いますか?[END STRING AC]"
+      },
+      {
+        "id": 6050,
+        "text": "座標ウインドウを　使用できます。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6184,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]",
+    "sfc_vf_secondaire": "6184<0559>[LINE][LINE][WAIT][END STRING AC]",
+    "native_plan": "Si tu te sens seul, tu peux pleurer sur mon sein.{AF}Et si ton drapeau te démange, tu peux le dresser avec ce doigt.",
+    "original_body": "Si tu te sens seul, tu peux pleurer sur mon sein.{AF}Et si ton drapeau te démange, tu peux le dresser avec ce doigt.",
+    "adaptation_body": "Si tu te sens seul, tu peux pleurer sur mon sein.{AF}Et si ton drapeau te démange, tu peux le dresser avec ce doigt.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Le passage CFDAE1–CFDB25 présente ce poème puis un choix. Oui appelle CE7444 (qui appelle C7B648), change de carte vers01A9 et poursuit6185 ; non poursuit6186. Drapeau/sein/doigt et la double lecture volontaire sont conservés. Pas de traduction sémantique non prouvée en objet ou flag précis.",
+    "review": "Le passage CFDAE1–CFDB25 présente ce poème puis un choix. Oui appelle CE7444 (qui appelle C7B648), change de carte vers01A9 et poursuit6185 ; non poursuit6186. Drapeau/sein/doigt et la double lecture volontaire sont conservés. Pas de traduction sémantique non prouvée en objet ou flag précis.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6182,
+        "text": "経験値　ほしい?[END STRING AC]"
+      },
+      {
+        "id": 6183,
+        "text": "呪文　おぼえる?[END STRING AC]"
+      },
+      {
+        "id": 6184,
+        "text": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]"
+      },
+      {
+        "id": 6185,
+        "text": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]"
+      },
+      {
+        "id": 6186,
+        "text": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6185,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]",
+    "sfc_vf_secondaire": "6185<0559>[END STRING AC]",
+    "native_plan": "Et si des gouttes débordent, tu peux les laisser couler par là.",
+    "original_body": "Et si des gouttes débordent, tu peux les laisser couler par là.",
+    "adaptation_body": "Et si des gouttes débordent, tu peux les laisser couler par là.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Suite oui du poème6184 au point CFDB1C. しずく reste des gouttes, sans inventer Rosée des rêves ou une commande précise. Sous-entendu et ambiguïté du texte volontairement conservés ; ce n’est plus un libellé pris hors de son appel.",
+    "review": "Suite oui du poème6184 au point CFDB1C. しずく reste des gouttes, sans inventer Rosée des rêves ou une commande précise. Sous-entendu et ambiguïté du texte volontairement conservés ; ce n’est plus un libellé pris hors de son appel.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6183,
+        "text": "呪文　おぼえる?[END STRING AC]"
+      },
+      {
+        "id": 6184,
+        "text": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]"
+      },
+      {
+        "id": 6185,
+        "text": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]"
+      },
+      {
+        "id": 6186,
+        "text": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]"
+      },
+      {
+        "id": 6187,
+        "text": "マップチェックのための[LINE]設定を　行ないますか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6186,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]",
+    "sfc_vf_secondaire": "6186<0559>[END STRING AC]",
+    "native_plan": "Si tu n'en as vraiment pas envie, tu n'as qu'à jeter ça.",
+    "original_body": "Si tu n'en as vraiment pas envie, tu n'as qu'à jeter ça.",
+    "adaptation_body": "Si tu n'en as vraiment pas envie, tu n'as qu'à jeter ça.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Suite non du même choix au point CFDB22 ; refus et jeter ça conservés, pas affirmation de destruction d’un objet réel.",
+    "review": "Suite non du même choix au point CFDB22 ; refus et jeter ça conservés, pas affirmation de destruction d’un objet réel.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6184,
+        "text": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]"
+      },
+      {
+        "id": 6185,
+        "text": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]"
+      },
+      {
+        "id": 6186,
+        "text": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]"
+      },
+      {
+        "id": 6187,
+        "text": "マップチェックのための[LINE]設定を　行ないますか?[END STRING AC]"
+      },
+      {
+        "id": 6188,
+        "text": "シナリオチェックは　出来ませんが[LINE]よろしいですか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6193,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "合体しちゃってもいい?[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Voudriez vous vous joindre à moi?[END STRING AC]",
+    "native_plan": "On peut fusionner ?",
+    "original_body": "On peut fusionner ?",
+    "adaptation_body": "On peut fusionner ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Choix au point CFDB93, branche oui C7B648 puis TSB3D5E masque0008 et changement de carte00A0. Fusionner conserve le mot source ; pas se joindre au groupe comme l’IPS. Pas de fusion naturelle complète revendiquée.",
+    "review": "Choix au point CFDB93, branche oui C7B648 puis TSB3D5E masque0008 et changement de carte00A0. Fusionner conserve le mot source ; pas se joindre au groupe comme l’IPS. Pas de fusion naturelle complète revendiquée.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6191,
+        "text": "マップチェックモードです。[WAIT][LINE]シナリオデバッグは　ダメよ。[END STRING AC]"
+      },
+      {
+        "id": 6192,
+        "text": "もう　どうなってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6193,
+        "text": "合体しちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6194,
+        "text": "しずくを　たらしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6195,
+        "text": "せめて　まわしちゃってもいい?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6194,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "しずくを　たらしちゃってもいい?[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Seriez-vous en train d'essayer de me séduire?[END STRING AC]",
+    "native_plan": "Je peux laisser couler une goutte ?",
+    "original_body": "Je peux laisser couler une goutte ?",
+    "adaptation_body": "Je peux laisser couler une goutte ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Choix au point CFDBBB : oui TSB3D72 masque0010 et départ vers carte0214, coordonnées0190/0179. Le japonais omet l’objet précis : une goutte conserve cette omission, ne pas nommer un objet DS sans preuve.",
+    "review": "Choix au point CFDBBB : oui TSB3D72 masque0010 et départ vers carte0214, coordonnées0190/0179. Le japonais omet l’objet précis : une goutte conserve cette omission, ne pas nommer un objet DS sans preuve.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6192,
+        "text": "もう　どうなってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6193,
+        "text": "合体しちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6194,
+        "text": "しずくを　たらしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6195,
+        "text": "せめて　まわしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6196,
+        "text": "いくぢなし......。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6195,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "せめて　まわしちゃってもいい?[END STRING AC]",
+    "sfc_vf_secondaire": "6195<0559>[END STRING AC]",
+    "native_plan": "Je peux au moins faire tourner ça ?",
+    "original_body": "Je peux au moins faire tourner ça ?",
+    "adaptation_body": "Je peux au moins faire tourner ça ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Choix au point CFDC06 : oui départ carte012B, coordonnées0039/0028. Faire tourner ça garde le verbe et l’objet indéterminé ; ni séduction IPS ni mécanisme de quête ajouté.",
+    "review": "Choix au point CFDC06 : oui départ carte012B, coordonnées0039/0028. Faire tourner ça garde le verbe et l’objet indéterminé ; ni séduction IPS ni mécanisme de quête ajouté.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6193,
+        "text": "合体しちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6194,
+        "text": "しずくを　たらしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6195,
+        "text": "せめて　まわしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6196,
+        "text": "いくぢなし......。[END STRING AC]"
+      },
+      {
+        "id": 6197,
+        "text": "あなた　ふくろ　ほしいか?[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 6956,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "fixed_layout": false,
+    "existing_revision": false,
+    "sfc_jp": "ルイーダ「[CODE C9]さんは　まだ[LINE]　　やらなくては　いけないことが[LINE]　　あるんじゃないかしら。[WAIT]子ホのれなのれま　れレおえ...士...が[LINE]...[LINE][LINE]のせにおな[LINE]...[WAIT][LINE]...すうらレゃ強[LINE]なの!ま　!レせか...　[LINE]のどか...か[LINE]...[END STRING AC]",
+    "sfc_vf_secondaire": "6956<0559>Luisa[CODE C9][LINE][LINE][WAIT][LINE][LINE][LINE][LINE][WAIT][END STRING AC]",
+    "native_plan": "Tulipe. {C9} a encore quelque chose à accomplir, non ?{AF}",
+    "original_body": "Tulipe. {C9} a encore quelque chose à accomplir, non ?{AF}",
+    "adaptation_body": "Tulipe. {C9} a encore quelque chose à accomplir, non ?{AF}",
+    "adaptation_speaker": "",
+    "adaptation_review": "Réparation de frontière isolée : l’extraction JP dépasse0x3B8703 dans la table des noms. Seuls les44 premiers tokens, jusqu’à AF inclus, sont linguistiquement et physiquement fiables. La traduction garde C9 SFC (pas CC DS), Tulipe et l’obligation à accomplir. Ajout explicite d’un AC sûr après le AF, absent du préfixe source borné ; aucun AC original ni scène naturelle prétendu. Le redécodage et les tests vérifient cette terminaison ajoutée, sans traduire les octets de noms en faux dialogue.",
+    "review": "Réparation de frontière isolée : l’extraction JP dépasse0x3B8703 dans la table des noms. Seuls les44 premiers tokens, jusqu’à AF inclus, sont linguistiquement et physiquement fiables. La traduction garde C9 SFC (pas CC DS), Tulipe et l’obligation à accomplir. Ajout explicite d’un AC sûr après le AF, absent du préfixe source borné ; aucun AC original ni scène naturelle prétendu. Le redécodage et les tests vérifient cette terminaison ajoutée, sans traduire les octets de noms en faux dialogue.",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0816.p",
+        "id": 12,
+        "ja": "@a@bルイーダ「うーん……でも　%a002020さんは\n\tまだ　やりたいことが\n\tあるんじゃないかしら。\n@c0@",
+        "fr": "@aTulipe@bJe ne sais pas... %0%a002020 semble avoir encore des choses à régler.\n@c0@",
+        "scope": "DS_ADAPTE_A_LA_VARIABLE_C9_ET_OBLIGATION_SFC"
+      }
+    ],
+    "native_bindings": {
+      "native_C9": 201
+    },
+    "sfc_context": [
+      {
+        "id": 6954,
+        "text": "ルイーダ「[CODE C0]さんの[LINE]　　もっていた道具は[LINE]　　預り所に　送っておくわね。[WAIT][END STRING AE]"
+      },
+      {
+        "id": 6955,
+        "text": "ルイーダ「[CODE C0]さんは[LINE]　　馬車に　いるのね。[WAIT][LINE]ルイーダ「こちらへ　もどるように[LINE]　　伝えておきますわ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6956,
+        "text": "ルイーダ「[CODE C9]さんは　まだ[LINE]　　やらなくては　いけないことが[LINE]　　あるんじゃないかしら。[WAIT]子ホのれなのれま　れレおえ...士...が[LINE]...[LINE][LINE]のせにおな[LINE]...[WAIT][LINE]...すうらレゃ強[LINE]なの!ま　!レせか...　[LINE]のどか...か[LINE]...[END STRING AC]"
+      }
+    ]
+  }
+]

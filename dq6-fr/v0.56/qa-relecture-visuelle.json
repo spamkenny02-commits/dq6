@@ -1,0 +1,41 @@
+{
+  "result_sha256": "e14ebc5611642b229edd3e7becae27813c823ef8182e2d06058953d593f2375d",
+  "new_texts": 16,
+  "existing_revisions": [
+    5698,
+    5699,
+    5700
+  ],
+  "standalone_pages_reviewed": 14,
+  "equipment_pages_reviewed": 47,
+  "forced_14_cell_equipment_pages_reviewed": 47,
+  "terminal_6956_stages_reviewed": 3,
+  "all_final_text_captures_reviewed": true,
+  "reviewed_ids": [
+    5698,
+    5699,
+    5700,
+    5701,
+    5702,
+    5703,
+    5704,
+    6040,
+    6041,
+    6042,
+    6046,
+    6047,
+    6048,
+    6184,
+    6185,
+    6186,
+    6193,
+    6194,
+    6195,
+    6956
+  ],
+  "boot_menu_reviewed": true,
+  "debug_native_helper_units": 6,
+  "review_method": "14 standalone pages on2 sheets;47 real-name equipment captures on4 final sheets;47 forced14-cell name captures on4 sheets;6956 final3 stages read side by side, and boot Journal menu full-frame. Each final report capture hash retained. Prior attempted WRAM14 test rejected because C1 still printed Olivier; not counted as a max-name validation.",
+  "natural_scenes_verified": false,
+  "limits": "Actual C1 resolver in normal probes, forced SID in stress probes. Flattened lists follow caller count order but are not the complete native inventory operation. Four three-fragment AE callback probes in each set. Helper unit effects checked by RAM assertions; full debug scenario transitions and natural Tulipe scene remain unverified."
+}

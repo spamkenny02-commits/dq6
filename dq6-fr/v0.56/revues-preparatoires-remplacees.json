@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5699,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "structural_only": true,
+    "fixed_layout": false,
+    "sfc_jp": "[CODE C1]　[CODE D5][END STRING AE]",
+    "sfc_vf_secondaire": "[CODE C1][CODE D5][LINE][END STRING AE]",
+    "native_plan": "",
+    "original_body": "",
+    "adaptation_body": "",
+    "adaptation_speaker": "",
+    "adaptation_review": "STRUCTURE SANS TEXTE À TRADUIRE : restauration exacte de tous les tokens japonais, y compris espaces, nom C1 et terminator. Comparaison VF explicite ;5700/5775 sont décalés dans IPS. Ne compte pas comme nouvelle traduction française.",
+    "review": "STRUCTURE SANS TEXTE À TRADUIRE : restauration exacte de tous les tokens japonais, y compris espaces, nom C1 et terminator. Comparaison VF explicite ;5700/5775 sont décalés dans IPS. Ne compte pas comme nouvelle traduction française.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_C1": 193,
+      "native_D5": 213
+    },
+    "sfc_context": [
+      {
+        "id": 5697,
+        "text": "しかし　使ったあと[LINE]こわれてしまうことが　あるようだ。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 5698,
+        "text": "これを　装備できるのは[CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5699,
+        "text": "[CODE C1]　[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5700,
+        "text": "[CODE C1][CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5701,
+        "text": "そして......[CODE D5][WAIT][END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5700,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "structural_only": true,
+    "fixed_layout": false,
+    "sfc_jp": "[CODE C1][CODE D5][LINE][END STRING AE]",
+    "sfc_vf_secondaire": "et…[CODE D5][WAIT][END STRING AC]",
+    "native_plan": "",
+    "original_body": "",
+    "adaptation_body": "",
+    "adaptation_speaker": "",
+    "adaptation_review": "STRUCTURE SANS TEXTE À TRADUIRE : restauration exacte de tous les tokens japonais, y compris espaces, nom C1 et terminator. Comparaison VF explicite ;5700/5775 sont décalés dans IPS. Ne compte pas comme nouvelle traduction française.",
+    "review": "STRUCTURE SANS TEXTE À TRADUIRE : restauration exacte de tous les tokens japonais, y compris espaces, nom C1 et terminator. Comparaison VF explicite ;5700/5775 sont décalés dans IPS. Ne compte pas comme nouvelle traduction française.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_C1": 193,
+      "native_D5": 213
+    },
+    "sfc_context": [
+      {
+        "id": 5698,
+        "text": "これを　装備できるのは[CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5699,
+        "text": "[CODE C1]　[CODE D5][END STRING AE]"
+      },
+      {
+        "id": 5700,
+        "text": "[CODE C1][CODE D5][LINE][END STRING AE]"
+      },
+      {
+        "id": 5701,
+        "text": "そして......[CODE D5][WAIT][END STRING AC]"
+      },
+      {
+        "id": 5702,
+        "text": "が[LINE]装備できるようだ。[LINE][WAIT][END STRING AC]"
+      }
+    ]
+  }
+]

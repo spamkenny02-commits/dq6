@@ -1,0 +1,78 @@
+{
+  "release": "v0.56",
+  "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
+  "main_script": {
+    "validated": 6957,
+    "visible_total": 6957,
+    "new_this_pass": 16,
+    "new_linguistic_translations": 16,
+    "new_structural_restorations": 0,
+    "linguistic_selected": 6948,
+    "structural_selected": 9,
+    "remaining": 0,
+    "remaining_linguistic": 0,
+    "isolated_existing_revisions": [
+      5698,
+      5699,
+      5700
+    ]
+  },
+  "baseline": "v0.55",
+  "prepared_not_inserted": {
+    "main": 0,
+    "separate_places": 25,
+    "reviewed_fragments": 0,
+    "draft_main": 0,
+    "boundary_audit": 0
+  },
+  "deferred_examined_in_v034": 26,
+  "separate_tables": {
+    "inventory_version": "v0.56",
+    "runtime_sids": 2512,
+    "unique_entries": 2048,
+    "aliases": 464,
+    "inserted_place_total": 8,
+    "additional_character_names_inserted": 1,
+    "spell_action_labels_inserted": 20,
+    "new_this_pass": 0,
+    "prepared_places": 25,
+    "confirmed_french_entries": 37,
+    "native_grammar_helpers_adapted": 4
+  },
+  "rom_bytes": 8388608,
+  "notes": "16 derniers textes intégrés. Script principal6957 sélections dont6948 entrées linguistiques et9 structurelles ; zéro texte principal en attente. Trois corrections isolées de disposition équipement et réparation de frontière6956 explicites. Tests diagnostiques réussis, scènes naturelles encore ouvertes.",
+  "next": "Passer à la recherche exhaustive des ressources oubliées et aux tables séparées, puis relecture intégrale suivie par IDs. Terminer les audits naturels ; ne pas déclarer le projet finalisé. Ne pas recycler la revue v0.56.",
+  "deferred_remaining_from_v034": 1,
+  "resolved_from_v034_ids": [
+    1135,
+    1356,
+    1478,
+    2368,
+    2404,
+    4866,
+    4880,
+    5159,
+    5341,
+    5748,
+    5761,
+    5778,
+    5816,
+    5818,
+    5844,
+    5851,
+    6117,
+    6172,
+    6209,
+    6265,
+    6338,
+    6465,
+    6937,
+    6944,
+    6949
+  ],
+  "proofreading": {
+    "exhaustive_pass_completed": false,
+    "reviewed_this_translation_pass": 16,
+    "translation_reviews_not_a_full_reread": true
+  }
+}

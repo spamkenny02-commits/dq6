@@ -1,0 +1,103 @@
+[
+  {
+    "id": 5698,
+    "old_tokens_sha256": "ef033bc3acd10dc0e51ab58b5752cc657d2b6c48a427f8eb60b08b63104f31e0",
+    "old_text": "Par contre, il faut qu'ils soient utilisés par...",
+    "reason": "Révision isolée : ancien texte Par contre, il faut qu’ils soient utilisés par... remplacé par le titre neutre Compatible avec. Le vrai appel C3C5BE imprime ce préfixe avant la liste. Sens équipement conservé, pas de pluriel imposé aux personnages.",
+    "new_selection": {
+      "id": 5698,
+      "tokens": [
+        515,
+        543,
+        569,
+        544,
+        534,
+        564,
+        574,
+        535,
+        575,
+        538,
+        512,
+        534,
+        549,
+        538,
+        536,
+        213,
+        173,
+        174
+      ],
+      "text": "Compatible avec",
+      "lines": [
+        "Compatible avec",
+        ""
+      ],
+      "method": "native_fixed_layout_reviewed",
+      "source_terminator": 174,
+      "original_af_count": 0,
+      "ds_file": null,
+      "ds_id": [],
+      "source_japanese": "これを　装備できるのは[CODE D5][LINE][END STRING AE]",
+      "sfc_previous": "[CODE C1] [CODE D5][END STRING AE]",
+      "ds_references": []
+    }
+  },
+  {
+    "id": 5699,
+    "old_tokens_sha256": "54ca41666b0d5ee7fac2452aa630ee5c41a9911a58fc9d043c6bcaedd0f14d28",
+    "old_text": "",
+    "reason": "Révision structurelle de disposition : C1 espace D5 gardés dans le même ordre ; AF puis AD ajoutés après chaque nom pour permettre des pauses et maîtriser les lignes avant débordement. L’ancienne source voulait trois noms sur une ligne. Aucun nom figé.",
+    "new_selection": {
+      "id": 5699,
+      "tokens": [
+        193,
+        512,
+        213,
+        175,
+        173,
+        174
+      ],
+      "text": " ",
+      "lines": [
+        " ",
+        ""
+      ],
+      "method": "native_fixed_layout_reviewed",
+      "source_terminator": 174,
+      "original_af_count": 0,
+      "ds_file": null,
+      "ds_id": [],
+      "source_japanese": "[CODE C1]　[CODE D5][END STRING AE]",
+      "sfc_previous": "[CODE C1][CODE D5][LINE][END STRING AE]",
+      "ds_references": []
+    }
+  },
+  {
+    "id": 5700,
+    "old_tokens_sha256": "b4f852b3c8af2a652c58ce0cf637dc5f92a304f87bb82df09b1c55aff4b15150",
+    "old_text": "",
+    "reason": "Même correction de disposition que5699, à la branche CPY2 de la liste native ; C1/D5/AD/AE gardés, AF ajouté. Ne compte pas comme traduction nouvelle.",
+    "new_selection": {
+      "id": 5700,
+      "tokens": [
+        193,
+        213,
+        175,
+        173,
+        174
+      ],
+      "text": "",
+      "lines": [
+        "",
+        ""
+      ],
+      "method": "native_fixed_layout_reviewed",
+      "source_terminator": 174,
+      "original_af_count": 0,
+      "ds_file": null,
+      "ds_id": [],
+      "source_japanese": "[CODE C1][CODE D5][LINE][END STRING AE]",
+      "sfc_previous": "et…[CODE D5][WAIT][END STRING AC]",
+      "ds_references": []
+    }
+  }
+]

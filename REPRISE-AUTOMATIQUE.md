@@ -1,3 +1,7 @@
+# Reprise v0.56 — passer aux tables et à la relecture
+
+16 derniers textes intégrés. Script principal6957 sélections dont6948 entrées linguistiques et9 structurelles ; zéro texte principal en attente. Trois corrections isolées de disposition équipement et réparation de frontière6956 explicites. Tests diagnostiques réussis, scènes naturelles encore ouvertes. Passer à la recherche exhaustive des ressources oubliées et aux tables séparées, puis relecture intégrale suivie par IDs. Terminer les audits naturels ; ne pas déclarer le projet finalisé. Ne pas recycler la revue v0.56. Restaurer toutes les versions, y compris replacements_file v0.56. Garder la distinction entre traduction complète du script et finalisation du projet.
+
 # Reprise v0.55
 
 29 traductions et9 restaurations exactes de structure. Toutes les6903 anciennes sélections inchangées. Tests de composition AE, énigme et directions ; audits naturels ouverts. 16 textes restants :12 debug ambigus et6956 préparés non insérés,3 fragments équipement différés. Tables, recherche exhaustive des oublis, relecture intégrale et audits naturels à poursuivre. Ne pas recycler cette revue. Ne pas prendre les9 structures pour9 traductions.

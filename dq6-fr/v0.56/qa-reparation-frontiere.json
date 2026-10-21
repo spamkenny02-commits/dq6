@@ -1,0 +1,12 @@
+{
+  "id": 6956,
+  "source_trace_reference": "v0.55/qa-frontiere-6956.json",
+  "retained_source_prefix_tokens": 44,
+  "original_final_AF_preserved": true,
+  "source_end_exclusive": "0x3B8703",
+  "added_terminator": "AC",
+  "original_AC_not_claimed": true,
+  "source_garbage_beyond_boundary_not_translated": true,
+  "source_extractor_unchanged": true,
+  "limits": "Explicit safe terminator repair tested by full redecoding and dialogue capture, not proof of original native last-scene termination."
+}

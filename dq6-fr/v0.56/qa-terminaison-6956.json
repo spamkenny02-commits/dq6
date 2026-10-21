@@ -1,0 +1,30 @@
+{
+  "result_sha256": "e14ebc5611642b229edd3e7becae27813c823ef8182e2d06058953d593f2375d",
+  "rows": [
+    {
+      "stage": "6956_AF_with_long_C9",
+      "message_id": 100,
+      "screenshot": "screenshots/v056-terminal-1.png",
+      "sha256": "732ef8136dfffc4815d103141966ee45144dbc09e7c39e1330b9861ba72b46ed",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v056-terminal-1\", \"message_id\": 100, \"frame_mean\": 47.33704775855655}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "stage": "added_AC_returned_to_host_choice",
+      "message_id": 100,
+      "screenshot": "screenshots/v056-terminal-2.png",
+      "sha256": "061c358af40c17411aba1cdd4a3a7b6c40b64c254b8cf92c681f0d8c4ab47220",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v056-terminal-2\", \"message_id\": 100, \"frame_mean\": 52.828369140625}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "stage": "host_yes_continues101",
+      "message_id": 101,
+      "screenshot": "screenshots/v056-terminal-3.png",
+      "sha256": "ba17adae5cfa7e2c5dcda143b8ad5b4b53b4519edfa794342e9547b4e894d753",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v056-terminal-3\", \"message_id\": 101, \"frame_mean\": 47.87969680059524}\nMap_ExtendedHiROMMap\n"
+    }
+  ],
+  "private_C9_forced_SID2352": true,
+  "name_length": 14,
+  "added_AC_executed": true,
+  "limits": "Repaired6956 redirected into camp100. Long-name resolver forced in private ROM. Return afterAF reaches host101. No natural Tulipe event, original source AC, or actual hero renaming validated."
+}

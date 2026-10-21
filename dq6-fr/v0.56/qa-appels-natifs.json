@@ -1,0 +1,161 @@
+{
+  "source_sha256": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e",
+  "checks": [
+    {
+      "file_offset": 592144,
+      "cpu_address": 13175056,
+      "bytes": "22c22dc09817200c0a9011",
+      "meaning": "Show6040; JSR090A0C choice branch."
+    },
+    {
+      "file_offset": 592155,
+      "cpu_address": 13175067,
+      "bytes": "22c22dc0991722502ec9003d7e02000060",
+      "meaning": "Show6041; native setbits helper at7E3D00 mask0002; RTS."
+    },
+    {
+      "file_offset": 592172,
+      "cpu_address": 13175084,
+      "bytes": "22c22dc09a1722932ec9003d7e02000060",
+      "meaning": "Show6042; native clearbits helper at7E3D00 mask0002; RTS."
+    },
+    {
+      "file_offset": 364669,
+      "cpu_address": 12947581,
+      "bytes": "088bf47e7eabab9c516eaf003d7e290200f00bad4058292000f003ee516eab286b",
+      "meaning": "Read3D00 bit2 plus5840 bit20; reset/set6E51, preserving DB/status. Input bit physical button deliberately unnamed."
+    },
+    {
+      "file_offset": 592234,
+      "cpu_address": 13175146,
+      "bytes": "22c22dc09e17200c0a9011",
+      "meaning": "Show6046 and choice."
+    },
+    {
+      "file_offset": 592245,
+      "cpu_address": 13175157,
+      "bytes": "22c22dc09f1722502ec9003d7e04000060",
+      "meaning": "Show6047 then set3D00 bit4."
+    },
+    {
+      "file_offset": 592262,
+      "cpu_address": 13175174,
+      "bytes": "22c22dc0a01722932ec9003d7e04000060",
+      "meaning": "Show6048 then clear3D00 bit4."
+    },
+    {
+      "file_offset": 9547,
+      "cpu_address": 12592459,
+      "bytes": "af003d7e290400f017affeffc1101122932ec9013d7e010000a901005ce08cc0",
+      "meaning": "Start-floor conditional bit4; conditional clear3D01 bit1, literal floor1 to C08CE0. No named debug location inferred."
+    },
+    {
+      "file_offset": 916210,
+      "cpu_address": 13499122,
+      "bytes": "00281822cc99c5b0034c22fb",
+      "meaning": "Text6184 followed by native choice; no jumps to invented DS object meanings."
+    },
+    {
+      "file_offset": 916252,
+      "cpu_address": 13499164,
+      "bytes": "0029184c25fb002a186b",
+      "meaning": "Yes continuation6185 and no continuation6186."
+    },
+    {
+      "file_offset": 947268,
+      "cpu_address": 13530180,
+      "bytes": "2248b6c7223c74ce6b",
+      "meaning": "Yes-poem path calls same C7B648 as fusion prompt, then CE743C."
+    },
+    {
+      "file_offset": 916371,
+      "cpu_address": 13499283,
+      "bytes": "00311822cc99c5b0034cbbfb2248b6c722076dcfa908000c5e3d22a05ec9a9a00022ee8cc0",
+      "meaning": "6193 yes invokes C7B648, sets3D5E bit8, calls map00A0; no equating with simple party join."
+    },
+    {
+      "file_offset": 916411,
+      "cpu_address": 13499323,
+      "bytes": "00321822cc99c5b0034c06fc22076dcfa910000c723d",
+      "meaning": "6194 yes sets3D72 bit10."
+    },
+    {
+      "file_offset": 916433,
+      "cpu_address": 13499345,
+      "bytes": "a914028d8e5e",
+      "meaning": "6194 destination map0214."
+    },
+    {
+      "file_offset": 916486,
+      "cpu_address": 13499398,
+      "bytes": "00331822cc99c5b0034c4bfc22076dcfa92b018d8e5e",
+      "meaning": "6195 yes destination map012B."
+    },
+    {
+      "file_offset": 247230,
+      "cpu_address": 12830142,
+      "bytes": "227799c54216c006009003823c00",
+      "meaning": "Show5698 then choose short list when count<6."
+    },
+    {
+      "file_offset": 247268,
+      "cpu_address": 12830180,
+      "bytes": "c00200f008227799c543168006227799c54416",
+      "meaning": "Short-list third-name layout uses5700; other names5699."
+    },
+    {
+      "file_offset": 247295,
+      "cpu_address": 12830207,
+      "bytes": "227799c54716",
+      "meaning": "Short-list suffix5703."
+    },
+    {
+      "file_offset": 247328,
+      "cpu_address": 12830240,
+      "bytes": "c00200f00dc00400f010227799c543168014227799c54416800c227799c54316227799c54516",
+      "meaning": "Long-list special branches for third/fifth name; after fifth show5701."
+    },
+    {
+      "file_offset": 247374,
+      "cpu_address": 12830286,
+      "bytes": "227799c54616",
+      "meaning": "Long-list suffix5702."
+    }
+  ],
+  "verified_caller_bytes": true,
+  "debug_context": {
+    "walking_cancel_bit": "7E3D00:0002",
+    "debug_start_floor_bit": "7E3D00:0004",
+    "poem_yes_continuation": 6185,
+    "poem_no_continuation": 6186,
+    "fusion_prompt_map": "00A0",
+    "drop_prompt_map": "0214",
+    "turn_prompt_map": "012B"
+  },
+  "equipment_logic": {
+    "no_users": 5704,
+    "prefix": 5698,
+    "short_list_counts": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "short_name_break_after": [
+      3
+    ],
+    "short_suffix": 5703,
+    "long_list_counts": [
+      6,
+      7,
+      8
+    ],
+    "long_name_break_after": [
+      3
+    ],
+    "conjunction_after": 5,
+    "long_suffix": 5702
+  },
+  "limits": "Static exact bytes checked against intact source; native inputs/helpers separately tested in private fixtures. Does not prove natural movement, full debug transition, equipment shop/inventory operation or Tulipe scene. Opaque/punning words deliberately remain opaque in French."
+}

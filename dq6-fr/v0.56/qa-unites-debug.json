@@ -1,0 +1,85 @@
+{
+  "result_sha256": "e14ebc5611642b229edd3e7becae27813c823ef8182e2d06058953d593f2375d",
+  "units": [
+    {
+      "mask": 2,
+      "enable": true,
+      "initial_flags": 16,
+      "input_mask_forced": 32,
+      "observed_flags": 18,
+      "walk_indicator": 1,
+      "other_bits_preserved": true,
+      "screenshot": "screenshots/v056-debug-unit-0.png",
+      "sha256": "51b2fb8262426828a7d0168f2de7a31bbc19ad98bfc50cacc13bd073fc3ad42e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v056-debug-unit-0\", \"message_id\": 100, \"frame_mean\": 46.77647181919643}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "mask": 2,
+      "enable": true,
+      "initial_flags": 16,
+      "input_mask_forced": 0,
+      "observed_flags": 18,
+      "walk_indicator": 0,
+      "other_bits_preserved": true,
+      "screenshot": "screenshots/v056-debug-unit-1.png",
+      "sha256": "51b2fb8262426828a7d0168f2de7a31bbc19ad98bfc50cacc13bd073fc3ad42e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v056-debug-unit-1\", \"message_id\": 100, \"frame_mean\": 46.77647181919643}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "mask": 2,
+      "enable": false,
+      "initial_flags": 18,
+      "input_mask_forced": 32,
+      "observed_flags": 16,
+      "walk_indicator": 0,
+      "other_bits_preserved": true,
+      "screenshot": "screenshots/v056-debug-unit-2.png",
+      "sha256": "51b2fb8262426828a7d0168f2de7a31bbc19ad98bfc50cacc13bd073fc3ad42e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v056-debug-unit-2\", \"message_id\": 100, \"frame_mean\": 46.77647181919643}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "mask": 2,
+      "enable": false,
+      "initial_flags": 18,
+      "input_mask_forced": 0,
+      "observed_flags": 16,
+      "walk_indicator": 0,
+      "other_bits_preserved": true,
+      "screenshot": "screenshots/v056-debug-unit-3.png",
+      "sha256": "51b2fb8262426828a7d0168f2de7a31bbc19ad98bfc50cacc13bd073fc3ad42e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v056-debug-unit-3\", \"message_id\": 100, \"frame_mean\": 46.77647181919643}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "mask": 4,
+      "enable": true,
+      "initial_flags": 16,
+      "input_mask_forced": 32,
+      "observed_flags": 20,
+      "walk_indicator": 0,
+      "other_bits_preserved": true,
+      "screenshot": "screenshots/v056-debug-unit-4.png",
+      "sha256": "51b2fb8262426828a7d0168f2de7a31bbc19ad98bfc50cacc13bd073fc3ad42e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v056-debug-unit-4\", \"message_id\": 100, \"frame_mean\": 46.77647181919643}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "mask": 4,
+      "enable": false,
+      "initial_flags": 20,
+      "input_mask_forced": 32,
+      "observed_flags": 16,
+      "walk_indicator": 0,
+      "other_bits_preserved": true,
+      "screenshot": "screenshots/v056-debug-unit-5.png",
+      "sha256": "51b2fb8262426828a7d0168f2de7a31bbc19ad98bfc50cacc13bd073fc3ad42e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v056-debug-unit-5\", \"message_id\": 100, \"frame_mean\": 46.77647181919643}\nMap_ExtendedHiROMMap\n"
+    }
+  ],
+  "source_helpers_executed": [
+    "C92E50",
+    "C92E93",
+    "C5907D"
+  ],
+  "private_E1_hook": true,
+  "private_input_write_immediately_before_native_reader": true,
+  "limits": "Masks and reader tested. No actual cancel-button movement, complete native menu choice, start-floor transition, fusion, drop or turn event executed."
+}
