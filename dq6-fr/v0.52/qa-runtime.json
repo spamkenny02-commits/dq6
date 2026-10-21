@@ -1,0 +1,12 @@
+{
+  "result_sha256": "fa58a86afb7fcb09d5b244dd82bdf2d9a17a1e394ee829b0eb840e1ac407edd1",
+  "boot_output": "{\"groups_checked\": 880, \"bytes_checked\": 528272, \"upper_groups\": 379, \"all_rom_bus_reads_match\": true}\n{\"pixel_format\": 2, \"screenshot\": \"v052-boot\", \"message_id\": 55768, \"frame_mean\": 15.146670386904763}\nMap_ExtendedHiROMMap\n",
+  "boot_screenshot": "screenshots/v052-boot.png",
+  "boot_sha256": "52fb1b4bfe419aad24adc931cece2186eb22549243ee19e124c35ff4ad373432",
+  "inherited_variable_diagnostic_ids": [
+    784,
+    6939,
+    752
+  ],
+  "limits": "All new vocation texts lack dynamic names and numbers. Inherited diagnostics exercise unchanged B2/B5/D3/BB/DF rendering with the documented camp values; no new maximum-width probe, natural transaction, party effect or SRAM validation claimed."
+}

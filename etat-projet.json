@@ -1,13 +1,13 @@
 {
-  "release": "v0.51",
+  "release": "v0.52",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 6880,
+    "validated": 6883,
     "visible_total": 6957,
-    "new_this_pass": 16,
-    "remaining": 77
+    "new_this_pass": 3,
+    "remaining": 74
   },
-  "baseline": "v0.50",
+  "baseline": "v0.51",
   "prepared_not_inserted": {
     "main": 26,
     "separate_places": 25,
@@ -16,7 +16,7 @@
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.51",
+    "inventory_version": "v0.52",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -29,16 +29,19 @@
     "native_grammar_helpers_adapted": 4
   },
   "rom_bytes": 8388608,
-  "notes": "16 descriptions de vocations SFC relues avec lexique DS explicite. Techniques, prérequis et mécaniques SFC conservés ; ancien IPS secondaire corrigé sans servir de validation.",
-  "next": "Continuer les77 entrées, dont26 préparées non insérées, les tables et audits. Après traduction, recherche exhaustive des oublis et relecture de tous les textes par lots suivis.",
-  "deferred_remaining_from_v034": 4,
+  "notes": "Trois indices relus : orbe1135, salle à répétition2404, bouclier5341. Écarts SFC/DS explicitement conservés ; parcours naturels encore ouverts.",
+  "next": "Continuer les74 entrées, dont26 préparées non insérées, puis les tables, recherche des oublis et relecture complète.",
+  "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
+    1135,
     1356,
     1478,
     2368,
+    2404,
     4866,
     4880,
     5159,
+    5341,
     5748,
     5761,
     5778,

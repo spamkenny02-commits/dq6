@@ -1,3 +1,7 @@
+# Reprise v0.52
+
+Trois indices relus : orbe1135, salle à répétition2404, bouclier5341. Écarts SFC/DS explicitement conservés ; parcours naturels encore ouverts. Continuer les74 entrées, dont26 préparées non insérées, puis les tables, recherche des oublis et relecture complète. Ne pas recycler la revue de ce lot.
+
 # Reprise v0.51
 
 16 descriptions de vocations SFC relues avec lexique DS explicite. Techniques, prérequis et mécaniques SFC conservés ; ancien IPS secondaire corrigé sans servir de validation. Continuer les77 entrées, dont26 préparées non insérées, les tables et audits. Après traduction, recherche exhaustive des oublis et relecture de tous les textes par lots suivis. Ne pas recycler la revue de ce lot.

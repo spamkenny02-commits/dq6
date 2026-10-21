@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1135,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE D4]クリムト「それは　真実のオーブ。[LINE]暗黒の岬から　無の海へ　はなてば[LINE]この世界の　真の姿が見えるだろう。[WAIT][LINE][CODE D4]クリムト「そなたたちなら...[LINE]かならず......[END STRING AC]",
+    "sfc_vf_secondaire": "[CODE D4]Krimut.That is the Orb of Truth.[WAIT][LINE][CODE D4]Krimut.Use it at the sea of nothingness to reveal the way.[WAIT][LINE][CODE D4]Krimut.You guys… surely…[END STRING AC]",
+    "native_plan": "{D4}Blaise. C'est l'orbe de vérité. Lancez-le depuis le cap de la Mort dans la mer du Néant. Vous verrez la vraie forme de ce monde.{AF}{D4}Blaise. Vous y arriverez... J'en suis sûr...",
+    "original_body": "{D4}Blaise. C'est l'orbe de vérité. Lancez-le depuis le cap de la Mort dans la mer du Néant. Vous verrez la vraie forme de ce monde.{AF}{D4}Blaise. Vous y arriverez... J'en suis sûr...",
+    "adaptation_body": "{D4}Blaise. C'est l'orbe de vérité. Lancez-le depuis le cap de la Mort dans la mer du Néant. Vous verrez la vraie forme de ce monde.{AF}{D4}Blaise. Vous y arriverez... J'en suis sûr...",
+    "adaptation_speaker": "",
+    "adaptation_review": "SFC はなてば : lancer/relâcher. DS かざせば : lever ; conserver l’action SFC, ne pas importer la DS. Aucun point cardinal dans cette phrase SFC. DS FR nord-est contredit DS JP nord-ouest : aucun ajouté. Blaise/orbe/cap/mer attestés dans les références. Texte relu, usage naturel de l’objet toujours non vérifié.",
+    "review": "SFC はなてば : lancer/relâcher. DS かざせば : lever ; conserver l’action SFC, ne pas importer la DS. Aucun point cardinal dans cette phrase SFC. DS FR nord-est contredit DS JP nord-ouest : aucun ajouté. Blaise/orbe/cap/mer attestés dans les références. Texte relu, usage naturel de l’objet toujours non vérifié.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0089.p",
+        "id": 634,
+        "ja": "@a@bクリムト「それは　真実のオーブ。\n@c0@",
+        "fr": "@aBlaise@bVous tenez dans vos mains l'orbe de vérité.\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0089.p",
+        "id": 635,
+        "ja": "@a@bクリムト「この町より　北西にある\n\t暗黒の岬から　無の海に　かざせば\n\tこの世界の　真の姿が見えるだろう。\n@c0@",
+        "fr": "@aBlaise@bAllez vers le cap de la Mort au nord-est d'ici et levez-le au-dessus de l'océan du Néant. Vous verrez alors la véritable forme de cet univers.\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0089.p",
+        "id": 636,
+        "ja": "@a@bクリムト「そなたたちなら……㈢㈢\n\tかならず……\n@c0@",
+        "fr": "@aBlaise@bV-vous pouvez...㈢㈢ V-vous devez...\n@c0@"
+      }
+    ],
+    "native_bindings": {
+      "native_D4": 212
+    },
+    "sfc_context": [
+      {
+        "id": 1133,
+        "text": "[CODE D4]クリムト「これを　そなたたちに[LINE]さずけよう。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 1134,
+        "text": "[CODE D3]は　キラキラと　輝く[LINE]ちいさな　光の玉を　うけとった![END STRING AE]"
+      },
+      {
+        "id": 1135,
+        "text": "[CODE D4]クリムト「それは　真実のオーブ。[LINE]暗黒の岬から　無の海へ　はなてば[LINE]この世界の　真の姿が見えるだろう。[WAIT][LINE][CODE D4]クリムト「そなたたちなら...[LINE]かならず......[END STRING AC]"
+      },
+      {
+        "id": 1136,
+        "text": "[CODE D4]ソルディ「ク　クリムトどの![END STRING AC]"
+      },
+      {
+        "id": 1137,
+        "text": "[CODE D4]ソルディ「どうやら　ねむってしまった[LINE]ようだ。　無理もない。　長い間[LINE]とじこめられていたのだから...。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 2404,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "よくぞ　来た![LINE]わしは　海の王　ポセイドンじゃ。[WAIT][LINE]そなたたちじゃな[LINE]あのグラコスを　たおしてくれたのは。[LINE]ゆかいじゃ　まことに　ゆかいじゃ。[WAIT][LINE]その礼といっては　なんだが[LINE]そなたたちに　いいことを[LINE]おしえようぞ。[WAIT][LINE]これは　伝説の盾についての[LINE]いいつたえの　ひとつじゃ。[WAIT][LINE]まよいの小部屋は　下に3階[LINE]上に2階。[LINE]さすれば　道が　ひらけよう。[WAIT][LINE]どうじゃ?　役にたちそうか?[LINE]わしの知るかぎり　いいつたえは[LINE]全部で　3つある。[WAIT][LINE]わしは　1つしか知らぬが[LINE]そなたたちなら　かならずや[LINE]なぞを　ときあかせるであろう。[WAIT][LINE]かつやくを　きたいしておるぞ![END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Bienvenue![LINE]Je suis le roi des mers, Poseidon.[WAIT][LINE]Merci d'avoir vaincu Glacos.[WAIT][LINE]Laissez-moi vous aider à trouver le bouclier de Sufida.[WAIT][LINE]Descendez trois étages, et montez-en deux, alors la route sera libre.[WAIT][LINE]Qu'est-ce que ça veut dire?[WAIT][LINE]Trois énigmes protêgent le bouclier. C'est la solution d'une d'entre elles.[WAIT][LINE]Malheureusement, Je ne connais pas les deux autres.[END STRING AC]",
+    "native_plan": "Bienvenue ! Je suis Poséidon, le roi des océans.{AF}C'est donc vous qui avez vaincu Gracos. Voilà qui me réjouit, vraiment !{AF}Pour vous remercier, je vais vous confier un renseignement précieux.{AF}C'est un des indices concernant le bouclier légendaire.{AF}Dans la petite salle à répétition, descendez de trois étages, puis remontez de deux. Le chemin s'ouvrira.{AF}Alors ? Cela vous sera-t-il utile ? À ma connaissance, il existe trois indices en tout.{AF}Je n'en connais qu'un, mais je suis sûr que vous résoudrez cette énigme.{AF}J'attends beaucoup de vous !",
+    "original_body": "Bienvenue ! Je suis Poséidon, le roi des océans.{AF}C'est donc vous qui avez vaincu Gracos. Voilà qui me réjouit, vraiment !{AF}Pour vous remercier, je vais vous confier un renseignement précieux.{AF}C'est un des indices concernant le bouclier légendaire.{AF}Dans la petite salle à répétition, descendez de trois étages, puis remontez de deux. Le chemin s'ouvrira.{AF}Alors ? Cela vous sera-t-il utile ? À ma connaissance, il existe trois indices en tout.{AF}Je n'en connais qu'un, mais je suis sûr que vous résoudrez cette énigme.{AF}J'attends beaucoup de vous !",
+    "adaptation_body": "Bienvenue ! Je suis Poséidon, le roi des océans.{AF}C'est donc vous qui avez vaincu Gracos. Voilà qui me réjouit, vraiment !{AF}Pour vous remercier, je vais vous confier un renseignement précieux.{AF}C'est un des indices concernant le bouclier légendaire.{AF}Dans la petite salle à répétition, descendez de trois étages, puis remontez de deux. Le chemin s'ouvrira.{AF}Alors ? Cela vous sera-t-il utile ? À ma connaissance, il existe trois indices en tout.{AF}Je n'en connais qu'un, mais je suis sûr que vous résoudrez cette énigme.{AF}J'attends beaucoup de vous !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Huit paragraphes SFC conservés. DS0056:4 confirme trois niveaux vers le bas puis deux vers le haut. Pas d’inversion. Trois indices au total et un seul connu de Poséidon. Noms Poséidon/Gracos confirmés DS0056:0/1. Parcours naturel de la salle non vérifié.",
+    "review": "Huit paragraphes SFC conservés. DS0056:4 confirme trois niveaux vers le bas puis deux vers le haut. Pas d’inversion. Trois indices au total et un seul connu de Poséidon. Noms Poséidon/Gracos confirmés DS0056:0/1. Parcours naturel de la salle non vérifié.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0056.p",
+        "id": 0,
+        "ja": "@a@b＊「よくぞ　来た！\n\tわしは　海の王　ポセイドンじゃ。\n@c0@",
+        "fr": "@aRoi Poséidon@bEnchantéⓠ Bienvenue à la cour de Poséidon, le roi des océans.\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0056.p",
+        "id": 1,
+        "ja": "@a@b＊「そなたたちが　グラコスを\n\t倒してくれたおかげで　海の中も\n\tだいぶ　落ち着いてきたわい。\n@c0@",
+        "fr": "@aRoi Poséidon@bMaintenant que nous sommes débarrassés de ce mécréant de Gracos, l'océan a retrouvé son calme et sa beauté.\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0056.p",
+        "id": 2,
+        "ja": "@a@b＊「その礼といっては　なんだが\n\tいいことを　教えようぞ。\n@c0@",
+        "fr": "@aRoi Poséidon@bJe vous remercie pour votre aide. Comme promis, je vais maintenant vous confier un secret...\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0056.p",
+        "id": 3,
+        "ja": "@a@b＊「これは　伝説の盾にまつわる\n\t言い伝えの　ひとつじゃ。\n@c0@",
+        "fr": "@aRoi Poséidon@bCe secret concerne un bouclier légendaire...\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0056.p",
+        "id": 4,
+        "ja": "@a@b＊「まよいの小部屋は\n\t下に３階　上に２階。\n\tさすれば　道が　ひらけよう。\n@c0@",
+        "fr": "@aRoi Poséidon@bⓥDans la petite salle à répétition, le vrai chemin conduit trois niveaux en bas et deux niveaux en haut.ⓦ\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0056.p",
+        "id": 5,
+        "ja": "@a@b＊「どうじゃ？　役に立ちそうか？\n\tわしの知るかぎり　言い伝えは\n\t全部で　３つある。\n@c0@",
+        "fr": "@aRoi Poséidon@bMmmⓡ Ça vous dit quelque choseⓡ J'ai entendu dire qu'il existait en tout trois de ces secrets.\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0056.p",
+        "id": 6,
+        "ja": "@a@b＊「わしは　この１つしか知らんが\n\t世界中を　くまなく　まわれば\n\t全ての言い伝えが　集まるはずじゃ。\n@c0@",
+        "fr": "@aRoi Poséidon@bJ'ai bien peur de n'en connaître qu'un seul, mais je suis sûr que vous découvrirez les autres au gré de vos voyages.\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0056.p",
+        "id": 7,
+        "ja": "@a@b＊「そなたたちの　これからの\n\t活躍に　期待しておるぞ。\n@c0@",
+        "fr": "@aRoi Poséidon@bJe vous souhaite bonne chance, %H0860%X%A0110%Xbrave aventurier%Z%B0110%Xbrave aventurière%Z%Y%R0000%Xbraves aventurières%Ybraves aventuriers%Z%Zⓠ\n@c0@"
+      }
+    ],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 2402,
+        "text": "ここは　ポセイドン王の[LINE]宝物庫です。[WAIT][LINE]みだりに　お近付きに[LINE]なりませぬように。[END STRING AC]"
+      },
+      {
+        "id": 2403,
+        "text": "ここは　ポセイドン王の[LINE]宝物庫でした。[WAIT][LINE]しかし　宝が　もし　世界の[LINE]平和のために　つかわれるのなら[LINE]王も　なにも　いいますまい。[WAIT][LINE]ごかつやくを　きたいしています。[END STRING AC]"
+      },
+      {
+        "id": 2404,
+        "text": "よくぞ　来た![LINE]わしは　海の王　ポセイドンじゃ。[WAIT][LINE]そなたたちじゃな[LINE]あのグラコスを　たおしてくれたのは。[LINE]ゆかいじゃ　まことに　ゆかいじゃ。[WAIT][LINE]その礼といっては　なんだが[LINE]そなたたちに　いいことを[LINE]おしえようぞ。[WAIT][LINE]これは　伝説の盾についての[LINE]いいつたえの　ひとつじゃ。[WAIT][LINE]まよいの小部屋は　下に3階[LINE]上に2階。[LINE]さすれば　道が　ひらけよう。[WAIT][LINE]どうじゃ?　役にたちそうか?[LINE]わしの知るかぎり　いいつたえは[LINE]全部で　3つある。[WAIT][LINE]わしは　1つしか知らぬが[LINE]そなたたちなら　かならずや[LINE]なぞを　ときあかせるであろう。[WAIT][LINE]かつやくを　きたいしておるぞ![END STRING AC]"
+      },
+      {
+        "id": 2405,
+        "text": "おお!　どうやら　伝説に語られる[LINE]スフィーダの盾を[LINE]手にいれたようじゃなっ![WAIT][LINE]そなたたちであれば[LINE]神の城に　まねかれるのも[LINE]夢では　あるまい。[END STRING AC]"
+      },
+      {
+        "id": 2406,
+        "text": "ここから　南にぬけると外海だよ。[WAIT][LINE]どんなキケンが　まっているかも[LINE]知れないから　うちの宿屋で[LINE]ゆっくり　休んでゆきなさいよ。[END STRING AC]"
+      }
+    ]
+  },
+  {
+    "id": 5341,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "RELU",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "伝説の盾の　いいつたえなら[LINE]私も　聞いたことが　ある。[WAIT][LINE]海から川をのぼり　その洞くつの[LINE]奥深くに　ねむる　という話だ。[WAIT][LINE]まちがっても　ギンドロ組の[LINE]ヤツらが　カンタンに手に入れられる[LINE]ような物では　ないはずだな。[END STRING AC]",
+    "sfc_vf_secondaire": "Je fesais de grands plats au château à partir des récoltes locales.[WAIT][LINE]Mais un jour, j'ai cuisiné de mauvais légumes.[WAIT][LINE]Malheureusement, beaucoup sont devenu malades.[END STRING AC]",
+    "native_plan": "J'ai moi aussi entendu parler de la légende du bouclier.{AF}Pour atteindre la grotte au fond de laquelle il repose, il faut remonter la rivière depuis la mer.{AF}Ce n'est certainement pas le genre de trésor que le gang de Brigandia pourrait obtenir facilement.",
+    "original_body": "J'ai moi aussi entendu parler de la légende du bouclier.{AF}Pour atteindre la grotte au fond de laquelle il repose, il faut remonter la rivière depuis la mer.{AF}Ce n'est certainement pas le genre de trésor que le gang de Brigandia pourrait obtenir facilement.",
+    "adaptation_body": "J'ai moi aussi entendu parler de la légende du bouclier.{AF}Pour atteindre la grotte au fond de laquelle il repose, il faut remonter la rivière depuis la mer.{AF}Ce n'est certainement pas le genre de trésor que le gang de Brigandia pourrait obtenir facilement.",
+    "adaptation_speaker": "",
+    "adaptation_review": "SFC : depuis la mer remonter la rivière, puis grotte profonde. DS ajoute est, absent du SFC, donc non importé. Brigandia confirmé DS0060:679. IPS parle d’un cuisinier sans rapport : décalage rejeté. Route naturelle non vérifiée.",
+    "review": "SFC : depuis la mer remonter la rivière, puis grotte profonde. DS ajoute est, absent du SFC, donc non importé. Brigandia confirmé DS0060:679. IPS parle d’un cuisinier sans rapport : décalage rejeté. Route naturelle non vérifiée.",
+    "ds_references": [
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0060.p",
+        "id": 677,
+        "ja": "@a@b＊「伝説の盾の　言い伝えなら\n\t私も　聞いたことがある。\n@c0@",
+        "fr": "@a@b*ⓢ J'ai entendu parler du bouclier légendaire.\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0060.p",
+        "id": 678,
+        "ja": "@a@b＊「はるか東の海より　川をのぼり\n\tその先にある　世にも不思議な洞くつの\n\t奥深くに　ねむる　という話だ。\n@c0@",
+        "fr": "@a@b*ⓢ Depuis la mer à l'est, il faut remonter la rivière. Le bouclier se trouve dans une grotte très mystérieuse... Enfin, il paraît.\n@c0@"
+      },
+      {
+        "scope": "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC",
+        "file": "data/MESS6/JA/0060.p",
+        "id": 679,
+        "ja": "@a@b＊「まちがっても　ギンドロ組のような\n\tヤツらが　カンタンに手に入れられる\n\tモノでは　ないはずだな。\n@c0@",
+        "fr": "@a@b*ⓢ En tout cas, c'est pas le gang de Brigandia qui pourrait mettre ses sales pattes dessus.\n@c0@"
+      }
+    ],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 5339,
+        "text": "だったら　いいけどね。[END STRING AC]"
+      },
+      {
+        "id": 5340,
+        "text": "昔　ギンドロ組の　親分が[LINE]先代の王に　伝説の盾を[LINE]けんじょうしたって話だがな。[WAIT][LINE]ありゃ　まっかな　ニセ物[LINE]だったんだとよ。[END STRING AC]"
+      },
+      {
+        "id": 5341,
+        "text": "伝説の盾の　いいつたえなら[LINE]私も　聞いたことが　ある。[WAIT][LINE]海から川をのぼり　その洞くつの[LINE]奥深くに　ねむる　という話だ。[WAIT][LINE]まちがっても　ギンドロ組の[LINE]ヤツらが　カンタンに手に入れられる[LINE]ような物では　ないはずだな。[END STRING AC]"
+      },
+      {
+        "id": 5342,
+        "text": "昔は　この城に　たくさんの[LINE]ドレイたちが　いてね　わたしゃ[LINE]そのぶんの食事まで　作っていたよ。[WAIT][LINE]といっても　そりゃあ[LINE]ひどい食事だったけどね。[WAIT][LINE]だから　病気になっても[LINE]なかなか　なおらなくてねえ。[END STRING AC]"
+      },
+      {
+        "id": 5343,
+        "text": "ここは　われわれ　兵士たちの[LINE]たいき所だ。[END STRING AC]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,883 @@
+{
+  "version": "v0.52",
+  "integrated": 6883,
+  "remaining": 74,
+  "prepared_main": 26,
+  "prepared_main_reviewed_fragments": 12,
+  "prepared_main_drafts": 14,
+  "method": "Japanese words normalized; variables genericized only for discovery, speaker labels and layout ignored.",
+  "warning": "PROPOSITIONS_NON_VALIDEES. Same words do not prove roles, scene, spelling, timing or French meaning. No entry in this report may be auto-inserted.",
+  "rows_with_word_only_proposals": 5,
+  "native_code_message_counts": {
+    "AC": 58,
+    "AD": 34,
+    "AE": 16,
+    "AF": 20,
+    "B0": 1,
+    "B5": 3,
+    "BB": 6,
+    "C1": 2,
+    "C4": 6,
+    "C7": 2,
+    "C9": 5,
+    "CC": 2,
+    "D3": 1,
+    "D4": 11,
+    "D5": 20,
+    "DC": 4,
+    "DE": 6,
+    "E0": 1,
+    "E1": 1
+  },
+  "open_inherited_audits": [
+    {
+      "ids": [
+        322,
+        323,
+        1836,
+        4095
+      ],
+      "status": "INTEGRES_MAIS_SCENES_NATURELLES_NON_VERIFIEES"
+    },
+    {
+      "ids": [
+        610,
+        1135,
+        2404,
+        5341,
+        5351
+      ],
+      "status": "1135/2404/5341_TEXTES_RELUS_INSERES_MAIS_PARCOURS_NATURELS_OUVERTS;610/5351_DIFFERES"
+    },
+    {
+      "source": "v0.34/nouveaux-cas-differes.json",
+      "status": "CONSERVER_LES_CAS_NON_RESOLUS, voir historical_v034"
+    },
+    {
+      "scope": "tables",
+      "status": "ALPHABET_ACCENTUE_ET_FENETRES_NATIVES_OUVERTS"
+    }
+  ],
+  "rows": [
+    {
+      "id": 0,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D5",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 74,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "BB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 610,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1312,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1313,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1314,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1315,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1317,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1318,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1319,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1320,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1322,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1323,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1324,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1325,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 1716,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B5",
+        "D3"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2358,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2664,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C4",
+        "C9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2683,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C4",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 2684,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C4",
+        "C9",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3727,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "E0"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 3728,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4854,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "C4",
+        "C9"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 4952,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5195,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5351,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5699,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "C1",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5700,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AD",
+        "AE",
+        "C1",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5701,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5702,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5703,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5775,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5820,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "BB",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5821,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "BB",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5822,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "BB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5823,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "BB"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5832,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5833,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5834,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5835,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5836,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5837,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5838,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 5839,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6019,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "DE"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6040,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6041,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6042,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6046,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6047,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6048,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6157,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6169,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6171,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6184,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6185,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6186,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6193,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6194,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6195,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6207,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6213,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AE",
+        "AF",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6214,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AF",
+        "D5"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6548,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "BB",
+        "D4",
+        "D5",
+        "DE",
+        "E1"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6716,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B5",
+        "C7",
+        "D4"
+      ],
+      "word_only_proposals": []
+    },
+    {
+      "id": 6718,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "B5",
+        "C7",
+        "D4"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0074.p",
+          "ids": [
+            318
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6922,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "CC",
+        "D4",
+        "DC"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0098.p",
+          "ids": [
+            19,
+            29
+          ]
+        },
+        {
+          "file": "data/MESS6/FR/0098.p",
+          "ids": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6923,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "D4",
+        "DC"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0098.p",
+          "ids": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6924,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "D4",
+        "DC"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0098.p",
+          "ids": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6925,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "B0",
+        "CC",
+        "D4",
+        "DC"
+      ],
+      "word_only_proposals": [
+        {
+          "file": "data/MESS6/FR/0098.p",
+          "ids": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6956,
+      "status": "A_TRADUIRE_NON_VALIDE",
+      "native_codes": [
+        "AC",
+        "AD",
+        "AF",
+        "C9"
+      ],
+      "word_only_proposals": []
+    }
+  ],
+  "historical_v034": {
+    "examined_then": 26,
+    "resolved_ids": [
+      1135,
+      1356,
+      1478,
+      2368,
+      2404,
+      4866,
+      4880,
+      5159,
+      5341,
+      5748,
+      5761,
+      5778,
+      5816,
+      5818,
+      5844,
+      5851,
+      6117,
+      6172,
+      6209,
+      6265,
+      6338,
+      6465,
+      6937,
+      6944,
+      6949
+    ],
+    "remaining_ids": [
+      610
+    ],
+    "remaining_count": 1,
+    "resolution_references": {
+      "2368": "v0.41/revue-lot-v041.json: inscription relue contre les deux japonais",
+      "6265": "v0.41/revue-lot-v041.json: remerciement relu, pas le poème ajouté en DS FR",
+      "5761": "v0.45/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "5778": "v0.45/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "5816": "v0.45/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "5818": "v0.45/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "5844": "v0.45/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "5851": "v0.45/revue-lot-v045.json: sens SFC et différences DS/VF relus.",
+      "6338": "v0.46/revue-lot-v046.json: question sur l’objet ou contexte funéraire SFC, pas proposition DS erronée.",
+      "6465": "v0.46/revue-lot-v046.json: question sur l’objet ou contexte funéraire SFC, pas proposition DS erronée.",
+      "6117": "v0.47/revue-lot-v047.json: libellé japonais SFC relu directement, lexique DS explicite lorsque disponible.",
+      "6172": "v0.47/revue-lot-v047.json: libellé japonais SFC relu directement, lexique DS explicite lorsque disponible.",
+      "6209": "v0.47/revue-lot-v047.json: libellé japonais SFC relu directement, lexique DS explicite lorsque disponible.",
+      "1478": "v0.48/revue-lot-v048.json: sens SFC et différences DS/VF explicitement relus.",
+      "4866": "v0.48/revue-lot-v048.json: sens SFC et différences DS/VF explicitement relus.",
+      "4880": "v0.48/revue-lot-v048.json: sens SFC et différences DS/VF explicitement relus.",
+      "5159": "v0.48/revue-lot-v048.json: sens SFC et différences DS/VF explicitement relus.",
+      "5748": "v0.48/revue-lot-v048.json: sens SFC et différences DS/VF explicitement relus.",
+      "6937": "v0.48/revue-lot-v048.json: sens SFC et différences DS/VF explicitement relus.",
+      "6944": "v0.48/revue-lot-v048.json: sens SFC et différences DS/VF explicitement relus.",
+      "6949": "v0.48/revue-lot-v048.json: sens SFC et différences DS/VF explicitement relus.",
+      "1356": "v0.49/revue-lot-v049.json : texte épreuve/sang royal relu directement contre le japonais SFC ; DB interne et AF conservés, trois pages diagnostiques.",
+      "1135": "v0.52/revue-lot-v052.json : texte SFC relu et inséré ; parcours naturel encore ouvert.",
+      "2404": "v0.52/revue-lot-v052.json : texte SFC relu et inséré ; parcours naturel encore ouvert.",
+      "5341": "v0.52/revue-lot-v052.json : texte SFC relu et inséré ; parcours naturel encore ouvert."
+    }
+  }
+}
