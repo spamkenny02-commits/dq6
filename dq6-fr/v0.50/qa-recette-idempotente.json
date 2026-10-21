@@ -1,0 +1,27 @@
+{
+  "two_reapplications_same_generated_inputs": true,
+  "generated_inputs_sha256": {
+    "correspondances-revues.json": "516d4aac7691cf1157b3b2e4a7b7349ae0112eae3f5863de8e28b2c18363fbcb",
+    "adaptations-francaises.json": "f730c92c58f5968977b9afb855e77f654ea50aeaadfe72312978ad762e6a1555",
+    "liaisons-variables-natives.json": "e7883e4d602cca6011a93c4f50e63ab9b4613446adc69cfc3989fe74e6e323df",
+    "revues-preparatoires-remplacees.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "prepares-non-inseres.json": "65c692f9a7109611ac0068c4cd0fba1f4ab4113eafe4ddd157d1e4006db2ac1f"
+  },
+  "negative_native_plan_tests": [
+    {
+      "id": 6850,
+      "mutation": "{C9}, {CB} -> {CB}, {C9}",
+      "rejected_reason": "(6850, 'native sequence changed')"
+    },
+    {
+      "id": 784,
+      "mutation": "{B5} -> ",
+      "rejected_reason": "(784, 'native sequence changed')"
+    },
+    {
+      "id": 300,
+      "mutation": "{AF} -> ",
+      "rejected_reason": "(300, 'original pause missing')"
+    }
+  ]
+}

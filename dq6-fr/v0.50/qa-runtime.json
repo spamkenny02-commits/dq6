@@ -1,0 +1,134 @@
+{
+  "result_sha256": "0fdea8ea8817989fc4b085010ecbee9890106009669329f2ae6c931b4e2b6974",
+  "boot_output": "{\"groups_checked\": 880, \"bytes_checked\": 527346, \"upper_groups\": 379, \"all_rom_bus_reads_match\": true}\n{\"pixel_format\": 2, \"screenshot\": \"v050-boot\", \"message_id\": 55768, \"frame_mean\": 15.146670386904763}\nMap_ExtendedHiROMMap\n",
+  "boot_screenshot": "screenshots/v050-boot.png",
+  "boot_screenshot_sha256": "52fb1b4bfe419aad24adc931cece2186eb22549243ee19e124c35ff4ad373432",
+  "probes": [
+    {
+      "id": 4745,
+      "kind": "C4-plural",
+      "page": 1,
+      "screenshot": "screenshots/v050-C4-plural-4745-page1.png",
+      "sha256": "f67022efcdcb977116c3c9a4fc79090678afde6897498af4532f5e562a1a5866",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-C4-plural-4745-page1\", \"message_id\": 100, \"frame_mean\": 45.16907900855655}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 4745,
+      "kind": "C4-plural",
+      "page": 2,
+      "screenshot": "screenshots/v050-C4-plural-4745-page2.png",
+      "sha256": "adfda0605e56bdd74fb0cc42ee80fb8789399637d40ae28d252384a8b79f8bb3",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-C4-plural-4745-page2\", \"message_id\": 100, \"frame_mean\": 49.500709170386905}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 6576,
+      "kind": "C4-plural",
+      "page": 1,
+      "screenshot": "screenshots/v050-C4-plural-6576-page1.png",
+      "sha256": "3b6ba1b3444fd8408b3ff0e066e8f9be74eb5eb2c303f046e17537514dec542c",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-C4-plural-6576-page1\", \"message_id\": 100, \"frame_mean\": 46.693882533482146}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 784,
+      "kind": "B5-maxitem",
+      "page": 1,
+      "screenshot": "screenshots/v050-B5-maxitem-784-page1.png",
+      "sha256": "fd660d0815a0dd711c6872cb666701b2466c3fef0e5bf73a0e1a4db6f531722b",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-B5-maxitem-784-page1\", \"message_id\": 100, \"frame_mean\": 44.38792201450893}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 784,
+      "kind": "B5-maxitem",
+      "page": 2,
+      "screenshot": "screenshots/v050-B5-maxitem-784-page2.png",
+      "sha256": "6c3035ffab8aa38af2dc0850dbf36abad2145606ef39c021d95cf62b2c3945ab",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-B5-maxitem-784-page2\", \"message_id\": 100, \"frame_mean\": 50.40216355096726}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 784,
+      "kind": "B5-maxitem",
+      "page": 3,
+      "screenshot": "screenshots/v050-B5-maxitem-784-page3.png",
+      "sha256": "4e06de1e20aea33ea1d15981f39c1b3f889ead4dcf5fce2262954c28855eaa40",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-B5-maxitem-784-page3\", \"message_id\": 100, \"frame_mean\": 46.262410481770836}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 784,
+      "kind": "B5-maxitem",
+      "page": 4,
+      "screenshot": "screenshots/v050-B5-maxitem-784-page4.png",
+      "sha256": "e40acc6697de1d8c57b07966391807b17f9613df992f9ae9854c520b85b60139",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-B5-maxitem-784-page4\", \"message_id\": 100, \"frame_mean\": 49.468587239583336}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 5688,
+      "kind": "B5-maxitem",
+      "page": 1,
+      "screenshot": "screenshots/v050-B5-maxitem-5688-page1.png",
+      "sha256": "8262bed21fc318e7a16496e5c3d150092ae7437c3d7eeb4b758e2c9d05dffa15",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-B5-maxitem-5688-page1\", \"message_id\": 100, \"frame_mean\": 46.545567103794646}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 5688,
+      "kind": "B5-maxitem",
+      "page": 2,
+      "screenshot": "screenshots/v050-B5-maxitem-5688-page2.png",
+      "sha256": "01acf3dd7f90112b2c0b2f735843af70a08d537cdb10f6d0cc31de37385fd4ff",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-B5-maxitem-5688-page2\", \"message_id\": 100, \"frame_mean\": 46.77511742001488}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 6939,
+      "kind": "BB-max",
+      "page": 1,
+      "screenshot": "screenshots/v050-BB-max-6939-page1.png",
+      "sha256": "25decda93fbf64c0f56519e0f73ecd1c8a06a4e767c8dd0484ab98bdd6d0512e",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-BB-max-6939-page1\", \"message_id\": 100, \"frame_mean\": 46.27371070498512}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 6939,
+      "kind": "BB-max",
+      "page": 2,
+      "screenshot": "screenshots/v050-BB-max-6939-page2.png",
+      "sha256": "3c34b24bf2a5f786b0130357574acc2711c571e91a3efb205e0c5a7d3a18fcf3",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-BB-max-6939-page2\", \"message_id\": 100, \"frame_mean\": 49.18067568824405}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 6372,
+      "kind": "B2-vocation",
+      "page": 1,
+      "screenshot": "screenshots/v050-B2-vocation-6372-page1.png",
+      "sha256": "7296518cd33a2682cabf2e81d37ccd7686181ea2bdd2d616936048026ea8bc42",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-B2-vocation-6372-page1\", \"message_id\": 100, \"frame_mean\": 48.555582682291664}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 752,
+      "kind": "DF-count1",
+      "page": 1,
+      "screenshot": "screenshots/v050-DF-count1-752-page1.png",
+      "sha256": "97597ca8141ef473af95fde27109106c1f43ee74da851b646fc2f848a8fd9ae6",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-DF-count1-752-page1\", \"message_id\": 100, \"frame_mean\": 43.328026181175595}\nMap_ExtendedHiROMMap\n"
+    },
+    {
+      "id": 752,
+      "kind": "DF-count2",
+      "page": 1,
+      "screenshot": "screenshots/v050-DF-count2-752-page1.png",
+      "sha256": "97597ca8141ef473af95fde27109106c1f43ee74da851b646fc2f848a8fd9ae6",
+      "output": "{\"pixel_format\": 2, \"screenshot\": \"v050-DF-count2-752-page1\", \"message_id\": 100, \"frame_mean\": 43.328026181175595}\nMap_ExtendedHiROMMap\n"
+    }
+  ],
+  "diagnostic_forced_C4_return_count": 2,
+  "diagnostic_DF_return_counts": [
+    1,
+    2
+  ],
+  "DF_native_semantics": "DF prints helper011C only for a plural count. The French helper011C is empty; French Vous remains literal in752. E0, not DF, emits vous/vous tous.",
+  "diagnostic_item_name": "Iron Ball of Destruction",
+  "diagnostic_item_physical_entries": [
+    1604,
+    1638
+  ],
+  "BB_decimal": 16777215,
+  "B2_vocation_sid": 2297,
+  "limits": "Camp message100 redirections. Forced C4 count is a display branch probe, not a natural party-count test. No natural transactions, naming writes, real item acquisition or SRAM effects validated."
+}

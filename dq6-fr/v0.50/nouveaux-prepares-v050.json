@@ -1,0 +1,354 @@
+[
+  {
+    "id": 6019,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "PREPARE_NON_INSERE",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "[CODE DE]ですね!。[END STRING AC]",
+    "sfc_vf_secondaire": "6019<0559>[END STRING AC]",
+    "native_plan": "{DE}N'est-ce pas !",
+    "original_body": "{DE}N'est-ce pas !",
+    "adaptation_body": "{DE}N'est-ce pas !",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "ds_references": [],
+    "native_bindings": {
+      "native_DE": 222
+    },
+    "sfc_context": [
+      {
+        "id": 6017,
+        "text": "これは　???　のようだ![END STRING AC]"
+      },
+      {
+        "id": 6018,
+        "text": "これは　さびている　つるぎのようだ![END STRING AC]"
+      },
+      {
+        "id": 6019,
+        "text": "[CODE DE]ですね!。[END STRING AC]"
+      },
+      {
+        "id": 6020,
+        "text": "[CODE DE]剣を使った戦いのプロです。[LINE]修行をつむと　はやぶさぎり[LINE]まじんぎり　などを　おぼえます。[WAIT][END STRING AC]"
+      },
+      {
+        "id": 6021,
+        "text": "[CODE DE]剣などに　たよらず[LINE]自分の　身体を　武器として[LINE]戦います。[WAIT][LINE]修行をつむと　まわしげり[LINE]ばくれつけん　などを[LINE]おぼえてゆきます。[WAIT][END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 6017,
+        "text": "Cela ressemble à ??? !"
+      },
+      {
+        "id": 6018,
+        "text": "Cela ressemble à une épée rouillée !"
+      }
+    ],
+    "blocker": "Fragment de confirmation DE à raccorder à son appel natif avant insertion."
+  },
+  {
+    "id": 6184,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "PREPARE_NON_INSERE",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]",
+    "sfc_vf_secondaire": "6184<0559>[LINE][LINE][WAIT][END STRING AC]",
+    "native_plan": "Si tu te sens seul, tu peux pleurer contre mon coeur.{AF}Et si ton drapeau te démange, tu peux le dresser sur ce doigt.",
+    "original_body": "Si tu te sens seul, tu peux pleurer contre mon coeur.{AF}Et si ton drapeau te démange, tu peux le dresser sur ce doigt.",
+    "adaptation_body": "Si tu te sens seul, tu peux pleurer contre mon coeur.{AF}Et si ton drapeau te démange, tu peux le dresser sur ce doigt.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6182,
+        "text": "経験値　ほしい?[END STRING AC]"
+      },
+      {
+        "id": 6183,
+        "text": "呪文　おぼえる?[END STRING AC]"
+      },
+      {
+        "id": 6184,
+        "text": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]"
+      },
+      {
+        "id": 6185,
+        "text": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]"
+      },
+      {
+        "id": 6186,
+        "text": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 6182,
+        "text": "Voulez-vous de l'expérience ?"
+      },
+      {
+        "id": 6183,
+        "text": "Apprendre des sorts ?"
+      }
+    ],
+    "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise."
+  },
+  {
+    "id": 6185,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "PREPARE_NON_INSERE",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]",
+    "sfc_vf_secondaire": "6185<0559>[END STRING AC]",
+    "native_plan": "Et si la rosée déborde, tu peux la laisser couler par là.",
+    "original_body": "Et si la rosée déborde, tu peux la laisser couler par là.",
+    "adaptation_body": "Et si la rosée déborde, tu peux la laisser couler par là.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6183,
+        "text": "呪文　おぼえる?[END STRING AC]"
+      },
+      {
+        "id": 6184,
+        "text": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]"
+      },
+      {
+        "id": 6185,
+        "text": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]"
+      },
+      {
+        "id": 6186,
+        "text": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]"
+      },
+      {
+        "id": 6187,
+        "text": "マップチェックのための[LINE]設定を　行ないますか?[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 6183,
+        "text": "Apprendre des sorts ?"
+      },
+      {
+        "id": 6187,
+        "text": "Effectuer les réglages pour vérifier les cartes ?"
+      }
+    ],
+    "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise."
+  },
+  {
+    "id": 6186,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "PREPARE_NON_INSERE",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]",
+    "sfc_vf_secondaire": "6186<0559>[END STRING AC]",
+    "native_plan": "Si tu n'en as plus envie, tu peux toujours jeter tout ça.",
+    "original_body": "Si tu n'en as plus envie, tu peux toujours jeter tout ça.",
+    "adaptation_body": "Si tu n'en as plus envie, tu peux toujours jeter tout ça.",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6184,
+        "text": "もしも　ひとりが　さみしいのなら[LINE]泣いてもいいのよ　この胸で。[WAIT][LINE]そして　フラグが　うずくのならば[LINE]起ててもいいのよ　この指で。[END STRING AC]"
+      },
+      {
+        "id": 6185,
+        "text": "ついでに　しずくが　あふれるのなら[LINE]出してもいいのよ　その辺に。[END STRING AC]"
+      },
+      {
+        "id": 6186,
+        "text": "どうせ　その気が　おきないのなら[LINE]捨てればいいのよ　そんなもの。[END STRING AC]"
+      },
+      {
+        "id": 6187,
+        "text": "マップチェックのための[LINE]設定を　行ないますか?[END STRING AC]"
+      },
+      {
+        "id": 6188,
+        "text": "シナリオチェックは　出来ませんが[LINE]よろしいですか?[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 6187,
+        "text": "Effectuer les réglages pour vérifier les cartes ?"
+      },
+      {
+        "id": 6188,
+        "text": "Le scénario ne pourra pas être vérifié. Cela vous convient-il ?"
+      }
+    ],
+    "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise."
+  },
+  {
+    "id": 6193,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "PREPARE_NON_INSERE",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "合体しちゃってもいい?[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Voudriez vous vous joindre à moi?[END STRING AC]",
+    "native_plan": "On peut fusionner ?",
+    "original_body": "On peut fusionner ?",
+    "adaptation_body": "On peut fusionner ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6191,
+        "text": "マップチェックモードです。[WAIT][LINE]シナリオデバッグは　ダメよ。[END STRING AC]"
+      },
+      {
+        "id": 6192,
+        "text": "もう　どうなってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6193,
+        "text": "合体しちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6194,
+        "text": "しずくを　たらしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6195,
+        "text": "せめて　まわしちゃってもいい?[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 6191,
+        "text": "Mode de vérification des cartes. Pas de débogage du scénario."
+      },
+      {
+        "id": 6192,
+        "text": "Alors, tu penses avoir le cran de tout risquer?"
+      }
+    ],
+    "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise."
+  },
+  {
+    "id": 6194,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "PREPARE_NON_INSERE",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "しずくを　たらしちゃってもいい?[END STRING AC]",
+    "sfc_vf_secondaire": "<0559>Seriez-vous en train d'essayer de me séduire?[END STRING AC]",
+    "native_plan": "Je peux verser la rosée ?",
+    "original_body": "Je peux verser la rosée ?",
+    "adaptation_body": "Je peux verser la rosée ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6192,
+        "text": "もう　どうなってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6193,
+        "text": "合体しちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6194,
+        "text": "しずくを　たらしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6195,
+        "text": "せめて　まわしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6196,
+        "text": "いくぢなし......。[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 6192,
+        "text": "Alors, tu penses avoir le cran de tout risquer?"
+      },
+      {
+        "id": 6196,
+        "text": "Quel manque de courage..."
+      }
+    ],
+    "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise."
+  },
+  {
+    "id": 6195,
+    "file": "SFC_NATIVE_REVIEW",
+    "ids": [],
+    "status": "PREPARE_NON_INSERE",
+    "compile_mode": "NATIVE_PLAN_REVIEWED",
+    "sfc_jp": "せめて　まわしちゃってもいい?[END STRING AC]",
+    "sfc_vf_secondaire": "6195<0559>[END STRING AC]",
+    "native_plan": "Je peux au moins faire tourner ?",
+    "original_body": "Je peux au moins faire tourner ?",
+    "adaptation_body": "Je peux au moins faire tourner ?",
+    "adaptation_speaker": "",
+    "adaptation_review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "review": "Japonais SFC, variables et tours relus directement avec leur contexte. Lexique DS explicite lorsqu’il est établi ; pas d’équivalent DS complet déclaré. IPS secondaire relu sans reprendre ses lacunes ou décalages.",
+    "ds_references": [],
+    "native_bindings": {},
+    "sfc_context": [
+      {
+        "id": 6193,
+        "text": "合体しちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6194,
+        "text": "しずくを　たらしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6195,
+        "text": "せめて　まわしちゃってもいい?[END STRING AC]"
+      },
+      {
+        "id": 6196,
+        "text": "いくぢなし......。[END STRING AC]"
+      },
+      {
+        "id": 6197,
+        "text": "あなた　ふくろ　ほしいか?[END STRING AC]"
+      }
+    ],
+    "prior_integrated_context": [
+      {
+        "id": 6196,
+        "text": "Quel manque de courage..."
+      },
+      {
+        "id": 6197,
+        "text": "Vous voulez un sac ?"
+      }
+    ],
+    "blocker": "Imagerie de débogage, drapeau/rosée/fusion : relire l’événement et sa fonction avant validation contextuelle. Traduction littérale seule non admise."
+  }
+]

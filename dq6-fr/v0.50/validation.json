@@ -1,0 +1,51 @@
+{
+  "status": "PARTIEL_A_TESTER",
+  "visible_messages": 6957,
+  "reviewed_integrated": 6864,
+  "reviewed_replacements": 6859,
+  "already_identical_ids": [
+    35,
+    36,
+    39,
+    58,
+    3228
+  ],
+  "new_replacements": 135,
+  "remaining_visible_messages": 93,
+  "script_entries_verified": 6960,
+  "all_tokens_verified": true,
+  "mapper": "ExHiROM",
+  "new_font_glyph_ranges": [
+    [
+      71270,
+      71288
+    ],
+    [
+      71287,
+      71305
+    ]
+  ],
+  "rom_bytes": 8388608,
+  "payload_bytes": 485084,
+  "script_capacity_bytes": 581456,
+  "upper_copy_groups": 374,
+  "huffman_tree_unchanged": false,
+  "native_huffman_commands_restored": [
+    196,
+    223
+  ],
+  "native_helper_entries_changed": 4,
+  "default_name_entries_changed": 6,
+  "name_entries_verified": 2048,
+  "other_name_strings_unchanged_except_reviewed_names_places_credit_and_menu_labels": true,
+  "additional_character_names_changed": 1,
+  "spell_action_entries_changed": 20,
+  "place_entries_changed": 8,
+  "removed_credit_sid": 156,
+  "shortened_slot_label_sid": 231,
+  "shortened_settings_label_sid": 233,
+  "source_sha256": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e",
+  "result_sha256": "0fdea8ea8817989fc4b085010ecbee9890106009669329f2ae6c931b4e2b6974",
+  "checksum": "7A31",
+  "emulator_tested": false
+}

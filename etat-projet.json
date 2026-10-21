@@ -1,22 +1,22 @@
 {
-  "release": "v0.49",
+  "release": "v0.50",
   "status": "PARTIEL",
   "main_script": {
-    "validated": 6729,
+    "validated": 6864,
     "visible_total": 6957,
-    "new_this_pass": 57,
-    "remaining": 228
+    "new_this_pass": 135,
+    "remaining": 93
   },
-  "baseline": "v0.48",
+  "baseline": "v0.49",
   "prepared_not_inserted": {
-    "main": 19,
+    "main": 26,
     "separate_places": 25,
-    "reviewed_fragments": 11,
-    "draft_main": 8
+    "reviewed_fragments": 12,
+    "draft_main": 14
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.49",
+    "inventory_version": "v0.50",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -29,8 +29,8 @@
     "native_grammar_helpers_adapted": 4
   },
   "rom_bytes": 8388608,
-  "notes": "57 dialogues, narrations et répliques à commandes natives relus. Plans explicites : ordre de tous les contrôles hors mise en lignes conservé, pauses sources gardées, locuteurs et noms non consolidés. DS prioritaire pour les références explicites, écarts SFC conservés ; IPS secondaire non admis comme validation de ses décalages.",
-  "next": "Continuer les 228 messages, dont19 préparés non insérés, les tables et les audits naturels. Les commandes rares C7/DC/E0/E1, les fragments assemblés et les choix couplés exigent encore une revue spécifique.",
+  "notes": "135 dialogues, récits, retrouvailles et conversations finales relus. Plans explicites : ordre de tous les contrôles hors mise en lignes conservé, pauses sources gardées, locuteurs et noms non consolidés. DS prioritaire pour les références explicites, écarts SFC conservés ; IPS secondaire non admis comme validation de ses décalages.",
+  "next": "Continuer les 93 messages, dont26 préparés non insérés, les tables et les audits naturels. Les commandes rares C7/DC/E0/E1, les fragments assemblés et les choix couplés exigent encore une revue spécifique.",
   "deferred_remaining_from_v034": 4,
   "resolved_from_v034_ids": [
     1356,
