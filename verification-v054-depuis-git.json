@@ -1,0 +1,78 @@
+{
+  "translation_commit": "bb2908f14f04452a91ecdea37aed67de8e730bce",
+  "public_tree_sha": "7f4e2c02e0f30875298fd9a211605a06944ac4b7",
+  "verification_method": "Actual origin/main fetched after connector publication; fresh archive of fetched commit. All45 lot files byte-identical to tested files. restore_sources.py reproduced all6903 selections and generated inputs. Public BPS reapplied to intact Japanese source.",
+  "public_files_byte_identical": 45,
+  "public_bps_git_blob_sha": "4ceeb2e1979b2a048d9a8d4f1ab87d7fbd694853",
+  "restore_sources_passed": true,
+  "restored_6903_selection_and_inputs_identical": true,
+  "public_tree_bps_reapplied_to_intact_japanese_source": true,
+  "result_sha256": "26893e6fd8332685f16e920f45e4020e34025218d15ff366a6374f881e294ee3",
+  "prepublication_fresh_init_prepare_build_verify_passed": true,
+  "rom_published": false,
+  "remaining_classification": {
+    "total_uninserted_entries": 54,
+    "linguistic_entries": 47,
+    "controls_or_spaces_only_entries": [
+      {
+        "id": 1,
+        "tokens": [
+          213,
+          222,
+          175,
+          172
+        ]
+      },
+      {
+        "id": 2,
+        "tokens": [
+          222,
+          173,
+          174
+        ]
+      },
+      {
+        "id": 3,
+        "tokens": [
+          222,
+          172
+        ]
+      },
+      {
+        "id": 2358,
+        "tokens": [
+          172
+        ]
+      },
+      {
+        "id": 5775,
+        "tokens": [
+          172
+        ]
+      },
+      {
+        "id": 6213,
+        "tokens": [
+          512,
+          512,
+          512,
+          512,
+          512,
+          512,
+          213,
+          175,
+          174
+        ]
+      },
+      {
+        "id": 6214,
+        "tokens": [
+          213,
+          175,
+          172
+        ]
+      }
+    ],
+    "method": "Source token audit: only native controls AC/AD/AE/AF/D5/DE and space0200. Already conserved by original-script fallback, not counted as newly translated or integrated. Native caller behavior still needs audit."
+  }
+}
