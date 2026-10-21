@@ -1,0 +1,21 @@
+{
+  "checked_commit": "d3a86d07964309eb7285b3f6e01acc7e5beef641",
+  "fresh_git_archive": true,
+  "restore_sources_exit_code": 0,
+  "preparation_verify_exit_code": 0,
+  "manifest_hashes_match": true,
+  "prepared": 107,
+  "semantic_reviewed": 105,
+  "semantic_reserve_ids": [
+    464,
+    465
+  ],
+  "new_integrated": 0,
+  "release_unchanged": "v0.56",
+  "main_selected": 6957,
+  "baseline_BPS_reapplication_verified": true,
+  "baseline_result_sha256": "e14ebc5611642b229edd3e7becae27813c823ef8182e2d06058953d593f2375d",
+  "Snes9x_executed": false,
+  "full_main_reread_progress": 0,
+  "limits": "Combat byte encoding, variable bindings, layout and natural scenes remain unvalidated; not a new ROM release."
+}
