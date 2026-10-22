@@ -1,0 +1,578 @@
+{
+  "checkpoint": "combat-v066",
+  "release_unchanged": "v0.58",
+  "new_main_integrated": 0,
+  "new_battle_integrated": 0,
+  "new_native_name_SIDs_integrated": 0,
+  "prepared_complete_name_combinations": 16,
+  "exact_JA_correspondences": 12,
+  "reserved_spelling_variant_correspondences": 4,
+  "not_in_main_6957": true,
+  "source_battle_sequence": [
+    496,
+    497,
+    498
+  ],
+  "prefix_fragments": [
+    {
+      "SID": "061F",
+      "source_JA": "メラ",
+      "source_name_sha256": "343677762813eaeb65704cc8d9e96f7a444ba0cca92ff861af7f68648b3e6ef1",
+      "current_project_label": "Blaze",
+      "current_name_sha256": "212ce42424c2375eb52ab6d5088aa790909084da76b66d54fd8b3ebf068ad1b0",
+      "runtime_SID_aliases": [
+        "061F"
+      ],
+      "current_name_file_offset": "3BA47D",
+      "French_fragment_translation_approved": false
+    },
+    {
+      "SID": "036B",
+      "source_JA": "ベホ",
+      "source_name_sha256": "b806e6164d75537f206b5719b21438d2dcd97962a01379f1a11912d6c1e11751",
+      "current_project_label": "M36B",
+      "current_name_sha256": "c3539250d40366c8af27d1299333fcedbf4b88dc13885492e7e250ecae003825",
+      "runtime_SID_aliases": [
+        "036B"
+      ],
+      "current_name_file_offset": "3B9DC7",
+      "French_fragment_translation_approved": false
+    },
+    {
+      "SID": "036C",
+      "source_JA": "バキ",
+      "source_name_sha256": "ffbfd6faaf27b74a60a5fa8e1b969642703585bec5066162c34e6641632a8f67",
+      "current_project_label": "M36C",
+      "current_name_sha256": "3fad95b376748241de5ad2bc789b2cd1f5f5cd16e2587efc58b3fc5205b4dfe9",
+      "runtime_SID_aliases": [
+        "036C"
+      ],
+      "current_name_file_offset": "3B9DCC",
+      "French_fragment_translation_approved": false
+    },
+    {
+      "SID": "036D",
+      "source_JA": "マホ",
+      "source_name_sha256": "b752814d71c68c6b29fb25a52522e4e4c1243bf106b58a23a8bbc0cac7f6e576",
+      "current_project_label": "M36D",
+      "current_name_sha256": "bda7131b2fd0af7c8b71ad1e482a5bf443c9bafc307aceff9c5745698ecee1ac",
+      "runtime_SID_aliases": [
+        "036D"
+      ],
+      "current_name_file_offset": "3B9DD1",
+      "French_fragment_translation_approved": false
+    }
+  ],
+  "suffix_fragments": [
+    {
+      "SID": "036E",
+      "source_JA": "トテカ",
+      "source_name_sha256": "2e38d61b3a55798de863e6ca0b3156a3174f0d7f2eb25c8e49f0f4d94fdf2683",
+      "current_project_label": "M36E",
+      "current_name_sha256": "5316e3a6ccbd1fc1deab8d95f0fc115695db7c52667bc1e7e83532e3ae22dd73",
+      "runtime_SID_aliases": [
+        "036E"
+      ],
+      "current_name_file_offset": "3B9DD6",
+      "French_fragment_translation_approved": false
+    },
+    {
+      "SID": "036F",
+      "source_JA": "チーマ",
+      "source_name_sha256": "434c6b189f6867d391eb182b221ddf310f6c5a87700f3910bf9334bae3aedaf6",
+      "current_project_label": "M36F",
+      "current_name_sha256": "9b1fe2c3963c38ae8d9241e3168e135ddb0aeb86baf2aff5cc9c612b77235222",
+      "runtime_SID_aliases": [
+        "036F"
+      ],
+      "current_name_file_offset": "3B9DDB",
+      "French_fragment_translation_approved": false
+    },
+    {
+      "SID": "0370",
+      "source_JA": "ソニア",
+      "source_name_sha256": "f060da20a978e476ed818cbf9c0413cd696e935dc5eadd0cd2c258dc856c299d",
+      "current_project_label": "M370",
+      "current_name_sha256": "6a328289484c5c52ff644fa6e2510a1241d24ca07e2a8e7e8d3206a89d76af57",
+      "runtime_SID_aliases": [
+        "0370"
+      ],
+      "current_name_file_offset": "3B9DE0",
+      "French_fragment_translation_approved": false
+    },
+    {
+      "SID": "0371",
+      "source_JA": "ペッチ",
+      "source_name_sha256": "af8938fe7b5fdc9e51377386f7932db37a1fe567e6a9f53641707c94c16198f3",
+      "current_project_label": "M371",
+      "current_name_sha256": "912f59a23fc42c838750315038ac10788e6733208fb7db314c0a6384a6fd966f",
+      "runtime_SID_aliases": [
+        "0371"
+      ],
+      "current_name_file_offset": "3B9DE5",
+      "French_fragment_translation_approved": false
+    }
+  ],
+  "combinations": [
+    {
+      "prefix_choice": 0,
+      "suffix_choice": 0,
+      "prefix_SID": "061F",
+      "suffix_SID": "036E",
+      "SFC_composed_JA": "メラトテカ",
+      "DS_complete_JA": "メラトテカ",
+      "French_complete_name": "Kavlan",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 352,
+        "JA_text_sha256": "7a59ec1c41450a6e615737d423b21797b48155320284fcf65d1955c2c34df872",
+        "FR_text_sha256": "2184554162681c4970b60406ed976035802ec114a15f4fe1adf04240a8630599"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 0,
+      "suffix_choice": 1,
+      "prefix_SID": "061F",
+      "suffix_SID": "036F",
+      "SFC_composed_JA": "メラチーマ",
+      "DS_complete_JA": "メラチーマ",
+      "French_complete_name": "Kapoum",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 353,
+        "JA_text_sha256": "e95cb526ac1f7fc10ff0aed38efdfdfddb953212b1be971e386874ea4d30a612",
+        "FR_text_sha256": "d80a11493dfe6cc8da83e52544603a2669287c32752110d1fab28797ac4de9ab"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 0,
+      "suffix_choice": 2,
+      "prefix_SID": "061F",
+      "suffix_SID": "0370",
+      "SFC_composed_JA": "メラソニア",
+      "DS_complete_JA": "メラソニア",
+      "French_complete_name": "Kabing",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 354,
+        "JA_text_sha256": "7babd310fa42803257289ae1d5143e56dee6179d0b59b1a5100099f17fec87e0",
+        "FR_text_sha256": "874412e0d3933eaa17fc65cc5d9fbe4ace8cbef6fbe096fc5b3965eb29c6711e"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 0,
+      "suffix_choice": 3,
+      "prefix_SID": "061F",
+      "suffix_SID": "0371",
+      "SFC_composed_JA": "メラペッチ",
+      "DS_complete_JA": "メラペッチ",
+      "French_complete_name": "Kabang",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 355,
+        "JA_text_sha256": "21418c330a504491fb2920db3bbefebd3f8c7869660043d4051c58c84278e8b1",
+        "FR_text_sha256": "581f244acbb2a630e9d7a69273f3cddc3e0ce1a2541559c630e8239ea016b8df"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 1,
+      "suffix_choice": 0,
+      "prefix_SID": "036B",
+      "suffix_SID": "036E",
+      "SFC_composed_JA": "ベホトテカ",
+      "DS_complete_JA": "ベホトテカ",
+      "French_complete_name": "Supersoins",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 356,
+        "JA_text_sha256": "1d038626c78fbca02057de60faf1fdda39cc81ab15cdfecbdd393804c8aa232a",
+        "FR_text_sha256": "e039fb3ea07dd5fdafd915b8a01d8df472d0b1aede9cdcdae9a2bb5039c6a7a5"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 1,
+      "suffix_choice": 1,
+      "prefix_SID": "036B",
+      "suffix_SID": "036F",
+      "SFC_composed_JA": "ベホチーマ",
+      "DS_complete_JA": "ベホチーマ",
+      "French_complete_name": "Ultrasoins",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 357,
+        "JA_text_sha256": "4f0e06a741054c44c8fe8d0a40e679616fd45200d1aa1de55b27c000dfe30392",
+        "FR_text_sha256": "241ca195180ed32f88b6dfea2720804318d8b7332c7edfa22e0eddbddcc4d7e1"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 1,
+      "suffix_choice": 2,
+      "prefix_SID": "036B",
+      "suffix_SID": "0370",
+      "SFC_composed_JA": "ベホソニア",
+      "DS_complete_JA": "ベホソニア",
+      "French_complete_name": "Insomnisoins",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 358,
+        "JA_text_sha256": "dfc49ae16a3519c7112ce843cc8c3c32729b10092dc8e4c58ea836f5d5bd511a",
+        "FR_text_sha256": "eb11cd88383618d11873341a3f27c675923c8ed035276eb42c5613fed893567a"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 1,
+      "suffix_choice": 3,
+      "prefix_SID": "036B",
+      "suffix_SID": "0371",
+      "SFC_composed_JA": "ベホペッチ",
+      "DS_complete_JA": "ベホペッチ",
+      "French_complete_name": "Dépann-soins",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 359,
+        "JA_text_sha256": "15a3f8ba40614b3b91e7c5b03e49203ab3b2f146201fd556ccfed74f173850c9",
+        "FR_text_sha256": "74cfada9b8041ee77db21a6dd64dcf43090bef795732d215b98d19a6c5f49ca8"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": false,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 2,
+      "suffix_choice": 0,
+      "prefix_SID": "036C",
+      "suffix_SID": "036E",
+      "SFC_composed_JA": "バキトテカ",
+      "DS_complete_JA": "バギトテカ",
+      "French_complete_name": "Fournaise",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 360,
+        "JA_text_sha256": "86cf7d773bf4fb4f6c80dfcd7ad4bcc2d305188827817ac4535a63a7ecd073af",
+        "FR_text_sha256": "50a873711c30ddd43adf1e17c373e725df5f262607b97b8b091ce69081c34003"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "RESERVE_VARIANTE_SFC_BAKI_DS_BAGI",
+      "spelling_difference": {
+        "SFC_prefix": "バキ",
+        "DS_prefix": "バギ",
+        "reason": "Structural row correspondence and four exact suffixes; do not silently normalize the source."
+      },
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 2,
+      "suffix_choice": 1,
+      "prefix_SID": "036C",
+      "suffix_SID": "036F",
+      "SFC_composed_JA": "バキチーマ",
+      "DS_complete_JA": "バギチーマ",
+      "French_complete_name": "Explotron",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 361,
+        "JA_text_sha256": "9dbb454ef34d0090a9d8c136cb1b659c1f87efb15a063c3071f22bf050c17644",
+        "FR_text_sha256": "135502eb7381c0546ccab1f6fbda2632f96625f1303fac5879254d2a244989bf"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "RESERVE_VARIANTE_SFC_BAKI_DS_BAGI",
+      "spelling_difference": {
+        "SFC_prefix": "バキ",
+        "DS_prefix": "バギ",
+        "reason": "Structural row correspondence and four exact suffixes; do not silently normalize the source."
+      },
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 2,
+      "suffix_choice": 2,
+      "prefix_SID": "036C",
+      "suffix_SID": "0370",
+      "SFC_composed_JA": "バキソニア",
+      "DS_complete_JA": "バギソニア",
+      "French_complete_name": "Survoltage",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 362,
+        "JA_text_sha256": "36fcaf57dd60860842fe3e0c2f30bef1eec0ef9cdb6b7b5bd9d757984ab549c6",
+        "FR_text_sha256": "80b322ff5aceccce2572362c39c76f56b8423950c8f88828e99afbf14f3a1603"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "RESERVE_VARIANTE_SFC_BAKI_DS_BAGI",
+      "spelling_difference": {
+        "SFC_prefix": "バキ",
+        "DS_prefix": "バギ",
+        "reason": "Structural row correspondence and four exact suffixes; do not silently normalize the source."
+      },
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 2,
+      "suffix_choice": 3,
+      "prefix_SID": "036C",
+      "suffix_SID": "0371",
+      "SFC_composed_JA": "バキペッチ",
+      "DS_complete_JA": "バギペッチ",
+      "French_complete_name": "Foudrintense",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 363,
+        "JA_text_sha256": "0c7c2ff8b6449bf7732dd3ebd039fc0dcc8162ec2907f0a291726b86a32458ec",
+        "FR_text_sha256": "da1a0c5df0f8ccedcf8ff2cb3551ce55fe63bcc781ee2ad7199098ea0eb58424"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "RESERVE_VARIANTE_SFC_BAKI_DS_BAGI",
+      "spelling_difference": {
+        "SFC_prefix": "バキ",
+        "DS_prefix": "バギ",
+        "reason": "Structural row correspondence and four exact suffixes; do not silently normalize the source."
+      },
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 3,
+      "suffix_choice": 0,
+      "prefix_SID": "036D",
+      "suffix_SID": "036E",
+      "SFC_composed_JA": "マホトテカ",
+      "DS_complete_JA": "マホトテカ",
+      "French_complete_name": "Katastrof",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 364,
+        "JA_text_sha256": "0aa2223e03f7a68219db0ba62088555f074dce4b2df8e6178c560d969cfc2607",
+        "FR_text_sha256": "d9e6855213f50bfc4145c394281c077168c64591eac2ffef9932f479ee73b842"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 3,
+      "suffix_choice": 1,
+      "prefix_SID": "036D",
+      "suffix_SID": "036F",
+      "SFC_composed_JA": "マホチーマ",
+      "DS_complete_JA": "マホチーマ",
+      "French_complete_name": "Ténébror",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 365,
+        "JA_text_sha256": "68f5762940d8fe2c0203f8b5dad7bb8f5f477aec0596806cacc963fe96983135",
+        "FR_text_sha256": "8413288c5e3f11f302817776fdf2cad289657eff6928516fedb413f06fd95b7c"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": false,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 3,
+      "suffix_choice": 2,
+      "prefix_SID": "036D",
+      "suffix_SID": "0370",
+      "SFC_composed_JA": "マホソニア",
+      "DS_complete_JA": "マホソニア",
+      "French_complete_name": "Kaboum",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 366,
+        "JA_text_sha256": "2951689fa031a3ae0cbd8917af49cba384370e2c936244e79cac0d669664d653",
+        "FR_text_sha256": "b2b4113d0de094ba61572eb358f4fe3d9cf71f5dd62052f4a8f4c5f7b20d6783"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    },
+    {
+      "prefix_choice": 3,
+      "suffix_choice": 3,
+      "prefix_SID": "036D",
+      "suffix_SID": "0371",
+      "SFC_composed_JA": "マホペッチ",
+      "DS_complete_JA": "マホペッチ",
+      "French_complete_name": "Flatutranse",
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 367,
+        "JA_text_sha256": "84b22395b454c6633a5def5f4cdf305c1ec0bec012267580a8500df2b287106a",
+        "FR_text_sha256": "5b34675e6bae0a155ec7d6fe6c3ba2f874caf215b9b939e4694b88ba1912af95"
+      },
+      "status": "PREPARE_NON_INSERE",
+      "semantic_status": "CORRESPONDANCE_JA_EXACTE_RELUE",
+      "spelling_difference": null,
+      "strict_existing_ASCII_roundtrip": true,
+      "native_render_approved": false
+    }
+  ],
+  "DS_context_references": [
+    {
+      "JA_file": "data/MESS6/JA/0802.p",
+      "FR_file": "data/MESS6/FR/0802.p",
+      "id": 276,
+      "JA_text_sha256": "3f91d5bc1a8ec4f2b85f3e6da6b1eef98d5564bb980a056ddb51e2dbc1e95204",
+      "FR_text_sha256": "af210400801d7fb3dbfc98d035f64daa84d67ca4f265901b9d2d0e55ad263256"
+    },
+    {
+      "JA_file": "data/MESS6/JA/0802.p",
+      "FR_file": "data/MESS6/FR/0802.p",
+      "id": 279,
+      "JA_text_sha256": "f278d3cdc7f0beeff94103149d1ec3b38b9038609aae9d9112bf5191a7488b79",
+      "FR_text_sha256": "f8126bcf785c2be2e0c34082b44ceb8b54422f800d7e20f6f6d00ecbe0a3d180"
+    },
+    {
+      "JA_file": "data/MESS6/JA/0802.p",
+      "FR_file": "data/MESS6/FR/0802.p",
+      "id": 280,
+      "JA_text_sha256": "009428665c724b912a5600af5b85e2818544c3f4aaa98c67429af7d8d7607654",
+      "FR_text_sha256": "4f13dd0c79fc74730033b3d66560bfb3dca32a07f550099714df77a9f4731123"
+    }
+  ],
+  "shared_ordinary_spell_reference": {
+    "JA_file": "data/MENULIST6/JA/b1003000.mpt",
+    "FR_file": "data/MENULIST6/FR/b1003000.mpt",
+    "id": 0,
+    "JA_text_sha256": "e15a8ef7521009ef680aae8db51fa10bf5defb49e3ef9c2b9122f89ed6e5d0b9",
+    "FR_text_sha256": "1d279baddc511741c7bceef453f15574028c0ed401e4ba3eec193f78cf7777a1"
+  },
+  "shared_SID_warning": "061F is the ordinary メラ/Blaze label,DS Flamme; do not globally rewrite it to a fake-spell prefix.",
+  "source_messages": [
+    {
+      "id": 496,
+      "source_message_sha256": "eac5fbb379f680e3039ec788494062d5897440ef08de4d9ad8178b7b6672da5e",
+      "native_commands": [
+        "BC",
+        "B7",
+        "AD",
+        "B1",
+        "AC"
+      ]
+    },
+    {
+      "id": 497,
+      "source_message_sha256": "910cd43caf19caf7506e4f0d289bc5dad82f44010b07494f4a218ad4827e4e30",
+      "native_commands": [
+        "B7",
+        "B2",
+        "AE"
+      ]
+    },
+    {
+      "id": 498,
+      "source_message_sha256": "212bfda77f0d61b09a95bac5dadf0a36adad0e18fb56e8a3b06e25202763d3fd",
+      "native_commands": [
+        "B2",
+        "B1",
+        "AD",
+        "B1",
+        "AC"
+      ]
+    }
+  ],
+  "caller": {
+    "first_B2_call": "C26769 -> C02A16 /497",
+    "second_B2_call": "C2677F -> C02A16 /498",
+    "B2_SID_WRAM": "5A28",
+    "prefix_table": "C26786",
+    "suffix_table": "C2678E",
+    "caller_range_file_offset": "026759",
+    "caller_range_bytes": 61,
+    "caller_sha256": "0de6d0ca4fc37db7bc2f451e9b786c0c9bdc6da0d9f8daced48f17c87ae6a773",
+    "prefix_table_sha256": "e1da82c90e6f3835a5fb197857dd120ee8de6f1989360881f2afe5ca6435569c",
+    "suffix_table_sha256": "5e2af92202f47a5f2847c7b1268ce3dc1aea4cc240e78d3f3a34dada429cc26a",
+    "native_497_ends_with_AE": true,
+    "native_498_starts_with_B2": true
+  },
+  "plain_four_prefix_four_suffix_factorization": false,
+  "factorization_proof": {
+    "first_French_row_common_prefix": "Ka",
+    "possible_first_prefix_lengths_checked": 3,
+    "solutions": [],
+    "scope": "Plain concatenation of four fixed prefix strings and four fixed suffix strings; exact equality only."
+  },
+  "inventory": {
+    "name_pool_runtime_SIDs": 2512,
+    "name_pool_physical_entries": 2048,
+    "name_pool_aliases": 464,
+    "source_fragment_runtime_SIDs": 8,
+    "source_fragment_physical_entries": 8,
+    "prepared_virtual_combinations": 16,
+    "native_complete_name_SIDs_created": 0,
+    "existing_ASCII_name_roundtrips": 14,
+    "unsupported_accent_DS_ids": [
+      359,
+      365
+    ]
+  },
+  "insertion_blockers": [
+    "Whole-name pair-aware rendering or another reviewed representation needed; four suffix translations alone cannot reproduce the DS matrix.",
+    "Preserve B2/B2,AE and other native commands; both fragment choices must be available without rewriting shared061F.",
+    "Audit all aliases/callers of the eight existing SIDs before any global name edit.",
+    "Four BAKI/BAGI spelling variants remain reserved.",
+    "é in Dépann-soins and Ténébror is outside the approved native ASCII codec.",
+    "No French full-chain native rendering,natural battle or joint RNG reachability of all16 pairs tested.",
+    "The earlier v0.59 single-message diagnostics do not validate497+498 composition."
+  ]
+}

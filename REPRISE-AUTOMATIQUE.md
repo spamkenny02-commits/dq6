@@ -1,3 +1,7 @@
+# Point de reprise combat-v066 — 16 noms DS préparés
+
+Lire preparations/combat-v066/README.md et qa-preparation.json. Douze correspondances japonaises exactes, quatre réserves バキ/バギ. Aucune insertion : la composition native497+498 exige les deux choix, les noms DS ne sont pas factorisables par simple concaténation. Préserver061F partagé avec le vrai sort Flamme. Deux noms nécessitent é. Aucun nouveau test Snes9x. Version et patch restentv0.58 ;principal6957 sélections,combat36 intégrés/71 préparés inchangés. Les16 combinaisons sont un inventaire distinct et non additionnel. Relecture exhaustive et audits ouverts.
+
 # Reprise v0.58 — 28 textes natifs de combat à noms variables intégrés
 
 Reprendre v0.58, pas la base v0.56 seule.36 français intégrés dans le pool combat ;71 préparés non insérés (69 relus sémantiquement,2 réserves464/465),497 hérités non qualifiés,4 structures. Principal6957 sélections inchangé (6948 linguistiques,9 structures) ; noms et autres tables inchangés. Lire dq6-fr/v0.58/README.md, inventaire-combat-v058.json et les rapports. La recette applique le BPS v0.57 vérifié à la JP intacte, conserve ses huit traductions et insère les28 IDs explicites. Le BPS v0.58 est autonome sur JP intacte.

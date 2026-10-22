@@ -1,3 +1,7 @@
+# Point de reprise combat-v066 — 16 noms DS préparés
+
+Lire preparations/combat-v066/README.md et qa-preparation.json. Douze correspondances japonaises exactes, quatre réserves バキ/バギ. Aucune insertion : la composition native497+498 exige les deux choix, les noms DS ne sont pas factorisables par simple concaténation. Préserver061F partagé avec le vrai sort Flamme. Deux noms nécessitent é. Aucun nouveau test Snes9x. Version et patch restentv0.58 ;principal6957 sélections,combat36 intégrés/71 préparés inchangés. Les16 combinaisons sont un inventaire distinct et non additionnel. Relecture exhaustive et audits ouverts.
+
 # Dragon Quest VI — traduction française Super Famicom
 
 **v0.58 : 28 textes de combat à noms variables ajoutés, 36 intégrés au total.** Rendus diagnostiques Snes9x avec acteurs/cibles distincts et homonymes A/B.71 préparations restent en attente ;497 textes hérités restent à qualifier et relire,4 entrées sont structurelles. Aucun combat naturel complet déclaré.
