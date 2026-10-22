@@ -1,0 +1,1185 @@
+{
+  "release": "v0.62",
+  "ROM_sha256": "c7872378e875d2c4aaeebf6771e9ef93140d7193ddca0a2d0f1334e338cafb16",
+  "diagnostic_main_redirect": true,
+  "legacy_state_VRAM_font_refreshed_from_ROM": true,
+  "diagnostic_native_mode2_override": false,
+  "natural_battle": false,
+  "production_engine_unchanged": true,
+  "results": [
+    {
+      "id": 24,
+      "fixture_sha256": "5d0f958bf671114d057200ff305163230936ead4df7e45656b2a71a66f71518d",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-24-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-24-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-24-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "9f516ac075a8a986f632721535d1af7aeb8500ffdf45de4661303f846545db0b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 28,
+      "fixture_sha256": "2ea8e63409a5b3a5106e16a7f0ff9186b132f9cdde4144aab87467fc58d96dfd",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-28-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-28-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-28-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "81f7b291bc1435028ffd44f73c9443ff5794ed161e8e8c5152428dc6f81534ea"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 29,
+      "fixture_sha256": "9f3267f5c6e063b0669cdbb88da90b44f6face85585b9d2932890d590c655060",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-29-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-29-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-29-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "f6384b8ba444cb154869e62d0655be23ef71115e97c12ca753a69d6c256a72aa"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 33,
+      "fixture_sha256": "85e6d061cd376fd9cef474849b71ff6cf23cfa6b0ad24904b4cb475e7b02cc78",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-33-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-33-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-33-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "553a527a8be61ec928ef10ce16cc81708a94b3b07d67841195ccba1911d9e5b2"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 34,
+      "fixture_sha256": "97c48a81ab24663c29c4a850e36fd3f1ddeea469f5d71733722335aab3da9cfe",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-34-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-34-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-34-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "dd2c8da232c3241ea8db6b2605c69a883d44a537a5776992e1c6c2ec41448c9e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 56,
+      "fixture_sha256": "5b81abe183ea9f6427cae20bf72efff60a4645f5216776d8c4d9126f74d1a841",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-56-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-56-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-56-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 343,
+          "sha256": "ea43110e9490ed7a583e41d80b6e2d1fd1e296cb87f1585a434e73387f257344"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 65,
+      "fixture_sha256": "1a1eaa9bc32e548699efb0b9cc7cb022a68d54b0514de5b0e96d12c2899f6ab5",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-65-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-65-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-65-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "97ef09e4fca45a23ed33d383646e1f5222cbf01445beef56bc1dd3dbc706acf3"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 66,
+      "fixture_sha256": "3f1dbe03532e8667a7057aa76d83c9fa8d9234f6cf20267065fd3d4c238dcfe4",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-66-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-66-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-66-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "314e5a50205c5975cc07c5c4a45fc1d651c29266a0df877696bcc3988f875355"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 67,
+      "fixture_sha256": "db3c60a0afd71e2f60d7535369f3665c9596accf08f2e9c1522a966b31c27425",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-67-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-67-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-67-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "4e327b83c59f045235eacbf338169cb7d99f89393f6264f71f5243a4ac81eccc"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 68,
+      "fixture_sha256": "d2a27fe25962cc71ff1cff2f6302827d5d6c7209c04de1b1fd104bff9e21383f",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-68-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-68-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-68-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "69416dbe9afd39dc320fce5ece5544ce5e64947cae9032d7ffdf5607ae3b43d4"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "33a05e944de70eda727f1ea6784ecf05b046f1d2f8b4ac8ed0e3ba1caaf4a936",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-70-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-70-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-70-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "067f23849503d6f11265f031e94146b7b7ef3304157caacc267f16a7d004af17"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 71,
+      "fixture_sha256": "96560db46b47e755dc982f91019e71d6db0de80a73a6fdac844661795d9cd5e9",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-71-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-71-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-71-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "6838a8a2c7139ede75415a2ba58867df2496dab0bac1adee488652497280a37e"
+        },
+        {
+          "capture": "v062-71-b3-2-b5-2-distinct-page3.png",
+          "returned": true,
+          "frame": 379,
+          "sha256": "322698d73db1b25255d6f8c477ce756fe16e1e26027b403e94b8b0c8c60b1aa5"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 72,
+      "fixture_sha256": "d35c0c3dcd1c16bdef98e9382af67159a76732bec47a97536c08b8c98b6949cb",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-72-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-72-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-72-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "379c26d4974324c9abfb3f3b9683fd0af51b6e32f652208e646a9256e203d018"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 75,
+      "fixture_sha256": "3cb31d3667610cc8590c58bc8d7a461e234b7ae02d6f85c2dbc12d373b6eac6a",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-75-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-75-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-75-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 343,
+          "sha256": "5dc3e4f08521f5d46a1db7a2d1802b294010014c87e5edeaa900b172796ecea3"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 91,
+      "fixture_sha256": "b5eac254277cb943a90d7b97f742f2edd8b472762e030bb3851f684b2ff9eb0c",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-91-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-91-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-91-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "bfd4e8b76097da6786384095652767188263c4e0d3aa1cf9a3ceb711c8159f9c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 94,
+      "fixture_sha256": "15c802b72ab95d6e75366a1ecc16216270a7d9d142ae6bc1a8a283d710f2f5ac",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-94-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-94-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-94-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "45073d8136782835d5e9abb1004a2194b8631ffda9fb909597149175e3244cda"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 98,
+      "fixture_sha256": "95703087cd204bfeef4de1b16a191ad10ee5f65a6146c95b11a9ca1f9f5dbf76",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-98-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-98-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-98-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 343,
+          "sha256": "1e528c7f5d5d46a3dfe794f0ddaf8728e0d5a94a7a5dae6ac2fe3d2b6df15ee9"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 99,
+      "fixture_sha256": "d74508ddd2909f531efa7fd11adff5e990f956e4ebb76eb83b992fdda73666e3",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-99-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-99-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-99-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "4b94ccda9c52553541734d950104feed2d491696657498945185b7c6d0bc1e68"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 122,
+      "fixture_sha256": "5baa8cbcd60d52a86bd595d836315c02bc1535e44e7611e15b85fed42dc36e19",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-122-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-122-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-122-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "82642c9de39077f4bf65788fe49691cdf48723815934698a6caa7b1ac157f775"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 156,
+      "fixture_sha256": "8b7f3ba86765515d36aa3435f8934b683a88c62d24c6188cbf4552aae70ce0c5",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-156-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-156-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-156-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "a90e3a301ce92c3459f4f5b161d9a11a8e1959c6e79e10e66a699150912992b4"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 157,
+      "fixture_sha256": "ec044ccd861bcb7afdf6e874b32971cb7e4141d79c913e4fb7118a02dfccf6a3",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-157-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-157-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-157-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "1ab5084457ec827c990d2a6a1ec46cc2ba21467757dd5ca2a044ddb578aba6a2"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 162,
+      "fixture_sha256": "eb85ca8b0646b16764b9e1c0798ed8e01868152e2ab8705504225e6263875da5",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-162-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-162-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-162-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "82642c9de39077f4bf65788fe49691cdf48723815934698a6caa7b1ac157f775"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 193,
+      "fixture_sha256": "d8cd2ca2418d4726c9367f5138927f8d3dcb655af5d73d897ffb0287f87f6132",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-193-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-193-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-193-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "f2aef4749d02600d59e13dfbf019b730f36c3a54c0196202331162b22c9fa8a6"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 202,
+      "fixture_sha256": "c40064040572eba84a1626153779a82232c5c56e9b7f7ab4ec318dc5643e5bdd",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-202-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-202-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-202-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "dd4905a476212c9da44920948fdf82055295707daf4105b4e412cd10f882f8c7"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 210,
+      "fixture_sha256": "b23e60d366c5eed52c7602f63c6743fccea45c9377921242e1fc979704a1887a",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-210-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-210-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-210-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "6231c85ef34ad487e79dc36c4afc0014465e795662b16c65a8660fc848a05a16"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 234,
+      "fixture_sha256": "9a399ee90efafb2a22ca4a7a8cc9c783e44b71aa780b2e8e279a950396ec1855",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-234-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-234-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-234-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "7ca57214aca4ce0dbba2ba189b97061553d291ca6ca0364c9865e01edd4c21fe"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 253,
+      "fixture_sha256": "a00170ca9db72681a1821384605b5fe4b4f531fc473155ba5ae35a21f62fbd55",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-253-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-253-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-253-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "67a38aa840f668fcb1a6f449222b8aee244a6a5ea2d5d3b3948fb2c8c1d73f1f"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 258,
+      "fixture_sha256": "15cb69011fc7bfed5d7d2229f33b07e493e3579b0f5c82b7a743e85432713a36",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-258-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-258-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-258-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "cee52f3310dbaa344bc919218487f7718c128d3d90218537ca79e1c596cce62d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 259,
+      "fixture_sha256": "ff98c07b959412cf628134c4e988f7833b4f423a4a20945cdb0929cd8f1bf3e0",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-259-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-259-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-259-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "4e6357562e09c37021c514127bfd6e860be0fc17500bda8cfced2343f3d95fa0"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 260,
+      "fixture_sha256": "d5230d31decf55db7a838e6dbf6407566ad5479e445a1e10d9205c0f4d7bd17b",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-260-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-260-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-260-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "4039dfba90328e024d7a8bdcd3b9f5d1c3957ae38050daa0298bf7a9566fa646"
+        },
+        {
+          "capture": "v062-260-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "16fbd2fae538aa95beb1d15d1e89690ce3f323242ae6aeb84363285ddea7a0b4"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 267,
+      "fixture_sha256": "5828abde065494f9e262a7da8c0fa4cbfc60cbdeb3a6c80dc01678d666ba9b7c",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-267-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-267-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-267-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "1d608e4139565125a0bf071599758c32be529199e53b121c1cd3bb6061687a3b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 284,
+      "fixture_sha256": "6bd7e45c77ded9b3be34ef5dd7b888cac2f51fa9517f14a6ab97b0aa15b4e120",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-284-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-284-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-284-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 343,
+          "sha256": "67c0168e8fe9629d334957d4e255c75dc96d3f292defd477a47e8ddad185e230"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 293,
+      "fixture_sha256": "0bcd64a90f0f500722aa39f45925191eed8909e77f0baf8beaf63f8d4c7f287d",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-293-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-293-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-293-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 343,
+          "sha256": "8bcf7738f3606614e47cdb54c5f621f92f22f575ebe6d9b2c47340154f81ee2e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    },
+    {
+      "id": 297,
+      "fixture_sha256": "441c90ec6cc959e1339deb998329026cbdad5846287e371c39d1f4997d825d96",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v062-297-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v062-297-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v062-297-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "89b32d84a0b0c123a9b756d31f40eca4d6f427926c65af45571fadc5843080b4"
+        },
+        {
+          "capture": "v062-297-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "33275b0d11aaf457070c7b5a4a2efcc9b4004be3557cd680d1bd8bac4becec1a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "visual_review_scope": "Final populated frame of each scenario; both clauses of71/260/297 visible. Intermediate blank frames are not separate text validations."
+    }
+  ]
+}

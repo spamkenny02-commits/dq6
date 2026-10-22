@@ -1,0 +1,27 @@
+{
+  "release": "v0.62",
+  "ROM_sha256": "c7872378e875d2c4aaeebf6771e9ef93140d7193ddca0a2d0f1334e338cafb16",
+  "render_scenarios": 322,
+  "unique_new_IDs_visually_reviewed": 288,
+  "stable_frame_captures": 969,
+  "all_API_calls_returned": true,
+  "all21_command_corrections_retested_distinct": true,
+  "native_reader_IDs_verified": 608,
+  "negative_pointer_mutation_detected_ID": 8,
+  "profiles": [
+    "288 homonyms A/B,AM,Cypress Stick,Blaze,999",
+    "34 distinct names,Olivier,Bamboo Spear,Lightning,999"
+  ],
+  "large_window_API": "C02A29",
+  "diagnostic_camp_redirect": true,
+  "legacy_state_VRAM_font_refreshed": true,
+  "engine_unchanged": true,
+  "natural_battle": false,
+  "compact_window_validated": false,
+  "player_name_path_exhaustively_validated": false,
+  "rejected_fixture_scenarios_not_counted": 34,
+  "limits": [
+    "Other contexts and live battle callers are not all tested",
+    "Other tables,names,full reread and inherited audits remain open"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "release": "v0.62",
+  "files": [
+    {
+      "path": "REPRISE-AUTOMATIQUE.md",
+      "bytes": 46442,
+      "sha256": "b099760f18e662513ddb92196ce2071eb59e58f506982204d62e59029a70dace"
+    },
+    {
+      "path": "dq6-fr/v0.62/README.md",
+      "bytes": 6055,
+      "sha256": "13adc8d0ae9f53a280c33dff348e3c50553ad9ab3af5c235dde8adf9947f9bf1"
+    },
+    {
+      "path": "dq6-fr/v0.62/blocages-restants.json",
+      "bytes": 3605,
+      "sha256": "27d68251759112f09ce42833f3acb78a322fad10810241c0877b549ad69e0e2f"
+    },
+    {
+      "path": "dq6-fr/v0.62/build-report.json",
+      "bytes": 5703,
+      "sha256": "e5700611a7bc3f8a53f674b70bfb8e57428f638fc4190cfd7dc8780093e0a85f"
+    },
+    {
+      "path": "dq6-fr/v0.62/build.py",
+      "bytes": 1046,
+      "sha256": "56ee99fcfa2d47bef2effaea64b901977b2f0f8db877e28758f5b4ffd9908b91"
+    },
+    {
+      "path": "dq6-fr/v0.62/bus_layout.py",
+      "bytes": 910,
+      "sha256": "6eca49444498a93d04750a1fe15a41c8654a4543fb0a9fc5a23ef7264627ee06"
+    },
+    {
+      "path": "dq6-fr/v0.62/common.py",
+      "bytes": 5110,
+      "sha256": "8825fc06147f9013572ccf591ad46c53f89df4551a4d312e242405320592644a"
+    },
+    {
+      "path": "dq6-fr/v0.62/contact_sheets.py",
+      "bytes": 893,
+      "sha256": "b6ae9022cc4d93ac0aff248e06c94d374c256708fad2aad4f2408bcfe955a0e9"
+    },
+    {
+      "path": "dq6-fr/v0.62/delta-combat-v062.json",
+      "bytes": 99645,
+      "sha256": "97866447853d9bda677d9ff1e08f1778520a82935a6a5d3416a61e03d01ed4fd"
+    },
+    {
+      "path": "dq6-fr/v0.62/diagnostics-rejetes/B3-SID-au-lieu-selecteur.json",
+      "bytes": 37844,
+      "sha256": "a0b009ab8b69a4f0deb64233e416991fb3d9c97b17b8f695dac8c05e04a7b0f4"
+    },
+    {
+      "path": "dq6-fr/v0.62/emulator_pages.py",
+      "bytes": 5744,
+      "sha256": "6bff23bb31b349300c7d000effa5d0311581ae5862a09a3527f25d69c7189e40"
+    },
+    {
+      "path": "dq6-fr/v0.62/emulator_probe.py",
+      "bytes": 5593,
+      "sha256": "fb51a3e5183916fd346afe890de5f5a0011b190ccf9448ef4a028725bb3a9d1c"
+    },
+    {
+      "path": "dq6-fr/v0.62/insertion-combat.json",
+      "bytes": 511932,
+      "sha256": "892a96d285873eebb231c1783835a8283f08fc4a519ed5d95318ce8ddd498ce1"
+    },
+    {
+      "path": "dq6-fr/v0.62/inventaire-combat-v062.json",
+      "bytes": 9265,
+      "sha256": "a21d5327409fa892e135a57c8dcdbe494e812b6307d82d0eec381ce4858850ee"
+    },
+    {
+      "path": "dq6-fr/v0.62/inventory.py",
+      "bytes": 1189,
+      "sha256": "853d76fb94b1337f227bcf6b2432d6fc044d3950e929179071decebec783d06e"
+    },
+    {
+      "path": "dq6-fr/v0.62/plans.py",
+      "bytes": 14946,
+      "sha256": "0b18c8a6013a7b747a7b9f041ac1f6340353120e2dd7aa3129928e6596dff85e"
+    },
+    {
+      "path": "dq6-fr/v0.62/prepare.py",
+      "bytes": 464,
+      "sha256": "ffd9216ef7cf7e52c542e5582bd3bd3b641162c29a2e8b2175566b8ceabdaf30"
+    },
+    {
+      "path": "dq6-fr/v0.62/qa-bus-boot.json",
+      "bytes": 285,
+      "sha256": "9a51fe4f57c80e41b9be44c0419b2dc607e80f81915865c41fb22c8b590d491c"
+    },
+    {
+      "path": "dq6-fr/v0.62/qa-emulator.json",
+      "bytes": 972,
+      "sha256": "060f7637534174fb5a156b0d52802f3c71c3edda3e1f90718dd64eeda921d33f"
+    },
+    {
+      "path": "dq6-fr/v0.62/qa-native-pointer-negative.json",
+      "bytes": 304,
+      "sha256": "90ee0c28b20763b1041f54cd9eb7afe29bfabae608d15513cbefe83de06c7c06"
+    },
+    {
+      "path": "dq6-fr/v0.62/qa-native-reader.json",
+      "bytes": 296,
+      "sha256": "d2a5eb05fa98b3ddfcb0b6a4e445692e017764735105038c8eac6d5f6c305a29"
+    },
+    {
+      "path": "dq6-fr/v0.62/qa-pages-b3-1-b5-1-duplicate.json",
+      "bytes": 356806,
+      "sha256": "9cd27e36569289afefc6421f0fbad676e3e8258b3f7506c6123c7df26774dc36"
+    },
+    {
+      "path": "dq6-fr/v0.62/qa-pages-b3-2-b5-2-distinct.json",
+      "bytes": 42837,
+      "sha256": "2dbe6ec24dc03ffab7335142081d8e5860b618dc25e2384d92bb1521fadf2c73"
+    },
+    {
+      "path": "dq6-fr/v0.62/verification.json",
+      "bytes": 3512,
+      "sha256": "aa184c6b24a36f892260f8bb419770ed8a4dded43fbc486bda598fb8c3d54371"
+    },
+    {
+      "path": "dq6-fr/v0.62/verify.py",
+      "bytes": 3166,
+      "sha256": "8d9225310790418eda0b9c72bb051a46bc69fd96e52110a3f2ace86f7a5477e0"
+    },
+    {
+      "path": "etat-projet.json",
+      "bytes": 10130,
+      "sha256": "41a851a7b79eb2bcc8344bad60c37c5b2d59989ac48b143a17b4cf333fcdb1b6"
+    },
+    {
+      "path": "patches/DQVI-FR-DS-v0.62-BASE-JP-PARTIEL.bps",
+      "bytes": 677577,
+      "sha256": "c6511e514fa904234a9856d7aa58096193f14c19c09bbe8e4da41560d0bdaa19"
+    }
+  ]
+}

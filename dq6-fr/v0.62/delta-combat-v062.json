@@ -1,0 +1,2467 @@
+{
+  "release": "v0.62",
+  "baseline": "v0.61",
+  "ids": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    52,
+    53,
+    56,
+    57,
+    58,
+    59,
+    65,
+    66,
+    67,
+    68,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310
+  ],
+  "english_translated": 190,
+  "inherited_french_corrected": 98,
+  "plans": [
+    {
+      "id": 6,
+      "french_plan": "{BC}{B7} attaque avant que l'équipe puisse se préparer !{B1}{AC}",
+      "previous_message_sha256": "0f6e0a96e5a74013a6c9699faea20254d762db1a05db0feca02eed10938d9f2f",
+      "source_message_sha256": "fa6d02a727e40d534289a031f49ddfd412522326db2d2d2fe634c5f5371ed7f5"
+    },
+    {
+      "id": 7,
+      "french_plan": "{BC}{B7} attaque soudain !{B1}{AC}",
+      "previous_message_sha256": "22d4955319b53f37d02c7aeb1c7ab7b6f6fcb02997b20cb929aa548b213e0f38",
+      "source_message_sha256": "d20110f111a1ea88940a8f096a5417a3237ca272c10e419e9458a5b58e410ddf"
+    },
+    {
+      "id": 8,
+      "french_plan": "{BC}Mais {B7} ne remarque pas encore notre présence !{B1}{AC}",
+      "previous_message_sha256": "2edf6e1d3efc00331dba42965a7e10520608133f3a7eda608ddaf72eb4c2352e",
+      "source_message_sha256": "bf078284f778b7a4e814351e30b8edf830f7e65967ca1512a2cc5f33edc3f255"
+    },
+    {
+      "id": 9,
+      "french_plan": "{BC}Mais {B7} reste sans réaction, sous le choc !{B1}{AC}",
+      "previous_message_sha256": "b465de1ec0fd159969775b456776c0b331496f1036fec69033e7efed915af6e7",
+      "source_message_sha256": "c9555024ef7e8d3b827ec34891da4360e5a53a356af10e37ad9c03590111e42d"
+    },
+    {
+      "id": 10,
+      "french_plan": "Mais {B8} dort !{B1}{AC}",
+      "previous_message_sha256": "d012852ffd7985247cf09556b3a26872a84e574eb784d8603eb09ab36b1b6a55",
+      "source_message_sha256": "745cc4a1f789308fd7fb2eb12cd8c1efa7cc2706ca0904938cc58799d8d25212"
+    },
+    {
+      "id": 11,
+      "french_plan": "{BC}{B7} attaque !{B1}{AC}",
+      "previous_message_sha256": "0d9ac8e78bbfdc67a6cbecf58777858ead1bc413ac0487cf1019c9c17a8b955c",
+      "source_message_sha256": "bfb2a43fe6d006453e92e375d57be953a8ef566f290deff33d67f61c5acd1e02"
+    },
+    {
+      "id": 12,
+      "french_plan": "{BD}Raté ! Aucun dégât pour {B8} !{B1}{AC}",
+      "previous_message_sha256": "ff8fce5ca6d6364a71f8177f6a9d33fb4bb2aacf8d5471ebbdf536bd1726ceda",
+      "source_message_sha256": "9948dc5e852725f75fd45a38153b6347e612dc7858c7e6e72f291029f98da1ef"
+    },
+    {
+      "id": 13,
+      "french_plan": "{BD}Raté ! {B8} ne subit aucun dégât !{B1}{AC}",
+      "previous_message_sha256": "ff8fce5ca6d6364a71f8177f6a9d33fb4bb2aacf8d5471ebbdf536bd1726ceda",
+      "source_message_sha256": "a108f52d10b847b0d210be2421c9cfb2f01822b9ea828ab206daea30c36c417b"
+    },
+    {
+      "id": 14,
+      "french_plan": "{BD}{B8} esquive souplement l'attaque !{B1}{AC}",
+      "previous_message_sha256": "9672b5f3f63565cb69e790a73594240c9fb5ba0ca9d1f70f1512df2b6267b2c6",
+      "source_message_sha256": "a299b1f0b80afd8ac2fe8909a87a1e62039df3d1a7bdcf7db17714030739419d"
+    },
+    {
+      "id": 15,
+      "french_plan": "{BD}Coup critique !{B1}{AC}",
+      "previous_message_sha256": "9864a60cdc6686fab5042e8f7837efd8ad7cd8cca81ab83760df2c6f74a3795b",
+      "source_message_sha256": "2cdb6bc08ba7f9ec1180eed195b6ce9e12a3a780f8d85b17cf6f0bb60bfdfdf2"
+    },
+    {
+      "id": 16,
+      "french_plan": "{BD}Une attaque désespérée !{B1}{AC}",
+      "previous_message_sha256": "9864a60cdc6686fab5042e8f7837efd8ad7cd8cca81ab83760df2c6f74a3795b",
+      "source_message_sha256": "24573c3b537fefb96d8764aac87b27e12184dee02f59076481e2ad666ccde675"
+    },
+    {
+      "id": 17,
+      "french_plan": "{BD}Mais {B8} repousse l'attaque !{B1}{AC}",
+      "previous_message_sha256": "9015e1a569c5658fbf685582a49854759918925f85a1be3a356ed2109d76f1d2",
+      "source_message_sha256": "7eb65e1016b6d7da88a56f566f5d13658f1526a90b1612191168dbd547ee1972"
+    },
+    {
+      "id": 18,
+      "french_plan": "{BC}{B7} bondit avec un sourire inquiétant !{B1}{AC}",
+      "previous_message_sha256": "2e71477c53cbf95a2727d5630853f9d97cf06fa57c43857e261d5230a6fc3393",
+      "source_message_sha256": "260bf59633ec2d7f87aefdfd81f715335fc738ad92d4694487a893f9af24c364"
+    },
+    {
+      "id": 19,
+      "french_plan": "{BC}{B7} se gonfle et se laisse tomber sur {B8} !{B1}{AC}",
+      "previous_message_sha256": "fa83f6e7221186c0b5ca05dcbeb81de8c62b5b2bf7bbe9aaa3a899f93a8c7493",
+      "source_message_sha256": "bfb6eb39e064cc0b1ab59a2b3e345f164713ca6e9063438fbe24e5f4ad0eb8db"
+    },
+    {
+      "id": 20,
+      "french_plan": "{BC}{B7} saisit soudain {B8} à pleine main !{B1}{AC}",
+      "previous_message_sha256": "c6d61d72cf9c8a897c5a8224c1fc62e753af48761b9ae3a297c9e3928c1cb7c6",
+      "source_message_sha256": "3fecb8b92348ee41e35960bf13098418b75e8bc9951d31f814d26062a1d4ab77"
+    },
+    {
+      "id": 21,
+      "french_plan": "{BC}{B7} agite son arme avec violence !{B1}{AC}",
+      "previous_message_sha256": "978c972c14ad93f551b77129c9c1428ef4aed48218bf56f0b25a20e430caea9c",
+      "source_message_sha256": "cbf7f91fd1ef263d8802dc80a7c93c5709d6ce9cbc86bbc6e83655b34d22dc19"
+    },
+    {
+      "id": 22,
+      "french_plan": "{BC}{B7} bande son arc et décoche une flèche !{B1}{AC}",
+      "previous_message_sha256": "a7c00e010abe4db671b100172b81d73cb2e7bfba58d59bbcec2d48c47e217377",
+      "source_message_sha256": "d8b05a9f601b794b1c6cdf0232d628d7c5fa26ce2f2e617fdbee467921b40c46"
+    },
+    {
+      "id": 23,
+      "french_plan": "{BC}{B7} s'envole et fond sur {B8} !{B1}{AC}",
+      "previous_message_sha256": "963cdfc650633b99f00ccc5c681b503bbca69691ffdb7e4eb0111f5bc78ecaed",
+      "source_message_sha256": "d8848a874097854427429963a798e781d7138e07081b77e587c46774d2ff9593"
+    },
+    {
+      "id": 24,
+      "french_plan": "{BC}{B7} lève le bras et frappe de ses griffes acérées !{B1}{AC}",
+      "previous_message_sha256": "57a772dba3e23fbbfaa1c4dd620006182bb23b093a722be4c785b7b5bf573976",
+      "source_message_sha256": "c2b8f854b9e1e33fad5599f766578e60489ed467a935be42164fb0a66953c1d0"
+    },
+    {
+      "id": 25,
+      "french_plan": "{BC}{B7} ouvre grand la gueule et mord de ses crocs acérés !{B1}{AC}",
+      "previous_message_sha256": "c3f4b1c679876ccaa73a84a7b2943e99aaf7fc66846e4b61c634d4e34086f0b6",
+      "source_message_sha256": "16b6113a1631db52fa59fd60e1dec544834f39e29fdd15e49737254c07a74d90"
+    },
+    {
+      "id": 26,
+      "french_plan": "{BC}{B7} porte une violente attaque tranchante !{B1}{AC}",
+      "previous_message_sha256": "09299efcc5793722c2e3eb44c21ff041093308c211107e12410a92ad604344eb",
+      "source_message_sha256": "1459814545e9110cff70d34130a24c54ea5b1d52c347647449525085ddede8e8"
+    },
+    {
+      "id": 28,
+      "french_plan": "{BC}{B7} donne un coup de queue !{B1}{AC}",
+      "previous_message_sha256": "d3f8a216598dfd343210700967b9a32f923c948f6dab5877e1838752b33219d9",
+      "source_message_sha256": "25533ed8f19f61c0029f3ba0959c0d7bb3c3f9e35b6d2f7523a2dafa3d9f8d0f"
+    },
+    {
+      "id": 29,
+      "french_plan": "{BC}{B7} baisse la tête et pointe sa corne acérée !{B1}{AC}",
+      "previous_message_sha256": "16e2a9704fc1769ff54642d3b6720e4a23a35096eaadba910d020e2d099e4b49",
+      "source_message_sha256": "970321981ad44a56fd0def21b1c66720e92064bc72daf83c28c6838300fcfee1"
+    },
+    {
+      "id": 30,
+      "french_plan": "{BC}{B7} frappe de son énorme pied !{B1}{AC}",
+      "previous_message_sha256": "524f4e6ab9507ef411b3e0facc2d3ca83e1bb287d3ccbc1765cb3eb1e392fb81",
+      "source_message_sha256": "18167b2f87bed75a21a106238fdc1880de5de260f32942da42fdecbf6aa46e3f"
+    },
+    {
+      "id": 31,
+      "french_plan": "{BC}{B7} écrase {B8} !{B1}{AC}",
+      "previous_message_sha256": "c36b259ed8a0c7c88440455cca266d61b536d8ab3e95cdaa2346b82ab8341eff",
+      "source_message_sha256": "281e8e2ed00faabb9dc5036866bf76ab4898fcae294a9fd2a371f430b6067b28"
+    },
+    {
+      "id": 32,
+      "french_plan": "{BC}{B7} agit à une vitesse fulgurante !{B1}{AC}",
+      "previous_message_sha256": "52e55cb403fe277f5b11a1a9023c01126a66d742b5a37b82b6097e657188554b",
+      "source_message_sha256": "56eea0449c3903dfa64e0cdb952850eada5f1d49b06dcf7d9cc5e52bce9b3034"
+    },
+    {
+      "id": 33,
+      "french_plan": "{BC}{B7} balaie {B8} en ricanant !{B1}{AC}",
+      "previous_message_sha256": "4e6b605ba34e917f3b264e936a00b50e0148c9c517fa1c94cafba1ed53664c9b",
+      "source_message_sha256": "941b8ecfd66d859fd0c9480e508996fcb701e9f0c1304058679cf0ec0b3545fa"
+    },
+    {
+      "id": 34,
+      "french_plan": "{BC}{B7} se défend.{B1}{AC}",
+      "previous_message_sha256": "6a86a3afbf3e0430029b2bb1d39a4c7238f23d235aed89021fe76da80e0fd190",
+      "source_message_sha256": "acc07d297cc862bc4ee0426f7d77f63104a0233d950953e1cd8460718bf661a4"
+    },
+    {
+      "id": 37,
+      "french_plan": "{BD}Aucun effet sur {B8} !{B1}{AC}",
+      "previous_message_sha256": "d36d8e9693017c4df7a8c1e3833e937e419fd383013911e75d9aaa6e399dbfd1",
+      "source_message_sha256": "7bce76bb8aa955445bd3dce12499a1ce1a958505da04567c3baef7f52c627f90"
+    },
+    {
+      "id": 38,
+      "french_plan": "{BD}Mais aucun effet sur {B8} !{B1}{AC}",
+      "previous_message_sha256": "9c9e4e58dde307bd0aebce8ff080a566dd145d8204767e493fa0767398f44f46",
+      "source_message_sha256": "0650089132109f949ad01a9485f6395bff787d89016edd5b3e3fb8e0c617e445"
+    },
+    {
+      "id": 39,
+      "french_plan": "{BC}{B7} s'enfuit !{B1}{AC}",
+      "previous_message_sha256": "309bb722594e7e87bff296b4b0986ab1d42bf6530902082f876cdc56779f00c8",
+      "source_message_sha256": "e5da319bb2d9cb15007ca13e243286352472a678bb0535985badc001dac71ed6"
+    },
+    {
+      "id": 40,
+      "french_plan": "{BC}{B7} s'enfuit !{AC}",
+      "previous_message_sha256": "cbfd536c27af468ef88be3cdf1250a926f6d46e86d7a8a12b435a3d911174aea",
+      "source_message_sha256": "4429a2c93c24603b255530a49f1d8e76ac151d9f338285748fb57439909f7b28"
+    },
+    {
+      "id": 41,
+      "french_plan": "Mais l'ennemi bloque le passage !{B1}{AC}",
+      "previous_message_sha256": "0e312a2afeff7a3bae973a88f520ca939a751a8e124d363c197e067188b17077",
+      "source_message_sha256": "d3cfb4d7f9f2da2e70789023489be91665146dc6b1d725d0115d6dc1a5c0126d"
+    },
+    {
+      "id": 42,
+      "french_plan": "{B8} meurt !{B1}{AC}",
+      "previous_message_sha256": "00c6bf5c6f05d1c218636b9df6c866f1f1efcc048c442f93190c3291d68ed38c",
+      "source_message_sha256": "1298bfe0d7a13fcf0760184886734701ee87162a1ebecb9ee245946e6ad51f90"
+    },
+    {
+      "id": 43,
+      "french_plan": "{B8} perd le combat !{B1}{AC}",
+      "previous_message_sha256": "de4ce53fdea41a3b3ca93407282d1d5a3d7e65d0a4ed6461990e0488a7cb9dff",
+      "source_message_sha256": "cd62be6d349c74af4e1e2727110d92899d3e37dfbb625e604355e6bdc6a8531e"
+    },
+    {
+      "id": 44,
+      "french_plan": "{B8} disparaît !{B1}{AC}",
+      "previous_message_sha256": "ad9c0f80507c1dc569d3f58c756dbc8d7a2aa9a46d596c3c7d061c2717f04886",
+      "source_message_sha256": "0fad6d263374106ed67f1cbb6f4d3105e5733e84739c79d4e227f88a91251991"
+    },
+    {
+      "id": 45,
+      "french_plan": "{B8} s'évanouit !{B1}{AC}",
+      "previous_message_sha256": "b21adf53277e67273091a31def446392796886ae4c8c1a71b4776a6b9b8d7c8d",
+      "source_message_sha256": "cc5da7fb950c739ff72c21e2d12ef5b4a0d1b2c98fef3b991f57ebd899348dca"
+    },
+    {
+      "id": 46,
+      "french_plan": "{B8} perd conscience !{B1}{AC}",
+      "previous_message_sha256": "b21adf53277e67273091a31def446392796886ae4c8c1a71b4776a6b9b8d7c8d",
+      "source_message_sha256": "7fb3b31b173a07c03a1181bb65b1612035f8a34623f94f2b6a7b187201760f07"
+    },
+    {
+      "id": 47,
+      "french_plan": "{B8} s'écroule à bout de forces !{B1}{AC}",
+      "previous_message_sha256": "b2f4dcb4d995c6eca3b8012638a9b4dcd311643f9af091f9d89e25567e93ce0d",
+      "source_message_sha256": "77c5b3dc6807894892b2aac2f2c043fb7a56ec4c2c59bc140fe125db6c31c86c"
+    },
+    {
+      "id": 48,
+      "french_plan": "{BC}{B7} subit une défaite totale !{C2}{AC}",
+      "previous_message_sha256": "12a8b9695e2cfd8e26a48fffb7e9ce6a42a081861088e2efee17052e00f4de3a",
+      "source_message_sha256": "8e82ace54d2bae02e6f56f5678d2e03e417b39ae646f5eca20913ca4893c9dcb"
+    },
+    {
+      "id": 49,
+      "french_plan": "{BC}{B7} perd le combat !{AC}",
+      "previous_message_sha256": "b9a78bc7b3ec5cbdcd53a954d2ac1592db73a6202f8dbee73c12bdb5b751b644",
+      "source_message_sha256": "125ba51d21e8c8c74428f46639aa521e8f31c9ecb7718ab8b92f582d2ec2fe7f"
+    },
+    {
+      "id": 50,
+      "french_plan": "{BC}{B7} disparaît.{AC}",
+      "previous_message_sha256": "3125387cd96f5f52a42cfdf1bb042b55cddd2951444adb4c677e9b78b9749352",
+      "source_message_sha256": "5d8bf0ed18b95c5138e13ef883e6460141b329a3bdc45153391ddd29727d9b0f"
+    },
+    {
+      "id": 52,
+      "french_plan": "{BC}{B7} n'a plus aucune force !{C2}{AC}",
+      "previous_message_sha256": "c0e66ad95a6dbd544857f201827a3f787e603af5f0d5c72dec8bdab8d3d9a075",
+      "source_message_sha256": "89fb7d97ad6013ff7740211665c44fe01707927fd4b34be7e85e5e5ef6b2d7cc"
+    },
+    {
+      "id": 53,
+      "french_plan": "{BC}{B7} succombe !{C2}{AC}",
+      "previous_message_sha256": "16f6f5546af92b4d52d262d71625b444be1cbd9571580f2ee007d27457d35248",
+      "source_message_sha256": "6cde41b8755331e8f850a7b0d2047f9d6c3cb2a82974fc597425236baf51233f"
+    },
+    {
+      "id": 56,
+      "french_plan": "{BC}{B3} passe au niveau {BB} !{AC}",
+      "previous_message_sha256": "cc4c1c9c3251f0383355d96e62952b43a82cc5f2fde5883e399e56a2cfe89a25",
+      "source_message_sha256": "7942fbe1b6c7d64ca5d00687928b294ecf319483e60663fd815f846155d186b4"
+    },
+    {
+      "id": 57,
+      "french_plan": "Le maximum de PV augmente de {BB} !{AC}",
+      "previous_message_sha256": "ff9f774c774c9164a11d21964bdfcb2833b811ab3702698eb3c4ec94a384277c",
+      "source_message_sha256": "2f28ec663582d23f6dfa02613f7d257191ed9861cbca794ba909b73d1628ed57"
+    },
+    {
+      "id": 58,
+      "french_plan": "Le maximum de PM augmente de {BB} !{AC}",
+      "previous_message_sha256": "737977673ce8249eed73e2f897103e0657200b2b4468d4c90ae5cd8f9b3b99f3",
+      "source_message_sha256": "85d986ecdd20d70d3659d763619d4813212212dc61d6f34f977b5f1ee8e91247"
+    },
+    {
+      "id": 59,
+      "french_plan": "{BC}Les caractéristiques de {B3} augmentent !{AC}",
+      "previous_message_sha256": "54434073969d4e3e03e819f01d2b98d05b79d500f4c5e096404b8492a9d70c53",
+      "source_message_sha256": "f802a30b2566ab183380b03ecfe09f2d7d791470f00e4eee8b3841fd789be773"
+    },
+    {
+      "id": 65,
+      "french_plan": "{B3} apprend le sort {B2} !{AC}",
+      "previous_message_sha256": "837d1cd903b3d00a23ce59d1805f3460a22845149c2377b8c5f1f130933f3215",
+      "source_message_sha256": "17d4458e1bcc5fb6b597bdd9d70f9ea96c125afe3bf030d188db555a9be47be3"
+    },
+    {
+      "id": 66,
+      "french_plan": "{B3} apprend l'aptitude {B2} !{AC}",
+      "previous_message_sha256": "837d1cd903b3d00a23ce59d1805f3460a22845149c2377b8c5f1f130933f3215",
+      "source_message_sha256": "9af337a4239565517170c0a36301523bb8718e180b858ca4aa00f2dfe89c6a7a"
+    },
+    {
+      "id": 67,
+      "french_plan": "{B3} réapprend le sort {B2} !{AC}",
+      "previous_message_sha256": "61f9c188c7cbbcc216e135b5b2fb3d43a9b37ffffa48bb63352317f865940acf",
+      "source_message_sha256": "7aaf4007a26f6747b10673d94718496ad920fe09263913f0a40e4391f3cd0085"
+    },
+    {
+      "id": 68,
+      "french_plan": "{B3} réapprend l'aptitude {B2} !{AC}",
+      "previous_message_sha256": "e7d396f4bc7798f4863777bec15a42a6d286088bd04102c2b21de18391f6fc05",
+      "source_message_sha256": "18ad0fb5c1fa57017d8ce76fd0411c04c3f3697727925aaa38e9e9bc57cdbef6"
+    },
+    {
+      "id": 70,
+      "french_plan": "{BC}{B3} vole l'objet {B5} !{AC}",
+      "previous_message_sha256": "a8e0f82249517c35f38faa2d0b550eedd0f4804a185fcda2364e014826e0bfd7",
+      "source_message_sha256": "3937a9d699003f96b46862b3ada21ff7d8baa714439989f2f833f7bd8e6e4a33"
+    },
+    {
+      "id": 71,
+      "french_plan": "{B7} ouvre le coffre au trésor !{B1} Il contient {B5} !{AC}",
+      "previous_message_sha256": "cab2a862cc4fb4dde2ece422cc3a0a04ffd3653466af18b36e51cca050c9b883",
+      "source_message_sha256": "98d10c3606af7abba96888f608303185ea93a14ee4fe1cc549d835d47ab49807"
+    },
+    {
+      "id": 72,
+      "french_plan": "{B2} obtient {B5} !{AC}",
+      "previous_message_sha256": "ab20a818ca21c6f6291a9e88fc7f312dfb070488f4f7be5dc8f001a5801d75a8",
+      "source_message_sha256": "0738e5c76ea42afbf6fe5872ae53e9cda4450123520690042c6e87d3d6d28308"
+    },
+    {
+      "id": 73,
+      "french_plan": "{B5} rejoint le sac !{AC}",
+      "previous_message_sha256": "a352e00f26fbeefed68cbf94af9784bc14cad9d7471e4491247e027f496d0318",
+      "source_message_sha256": "81b353c294977f29e3099159a7695fb65d67c637c01c286f389487000077fc3a"
+    },
+    {
+      "id": 74,
+      "french_plan": "Gain d'or de {BB} !{AC}",
+      "previous_message_sha256": "f9b4f2d1bdb2ebd32282a921dd5510550fc8bdedf772d35f1f5ce4df1f09c5b9",
+      "source_message_sha256": "c796981dfc0952a6cbecd3c8d44e1b5041f8eaf17a1ac4605cbaddd7a84145cf"
+    },
+    {
+      "id": 75,
+      "french_plan": "{BC}{B3} découvre encore {BB} en or !{AC}",
+      "previous_message_sha256": "3a234972c8f262eb95425ed3ad8bb94b4e04c76efb151361747a1cadb43ebe57",
+      "source_message_sha256": "36d7ce10809c6462cb706275379ead326e038b96491675ec5ac025e618e0c59a"
+    },
+    {
+      "id": 78,
+      "french_plan": "Une nouvelle distraction est découverte !{AC}",
+      "previous_message_sha256": "70791c5c4ca57c331cda73616e49bd30f56635365165f1a8706a2771353d1040",
+      "source_message_sha256": "497a603a19686f51d0f5150e04476d12f8e63809a3511ca4c9cf3c7c9c5f75d9"
+    },
+    {
+      "id": 79,
+      "french_plan": "{BC}{B7} dort !{B1}{AC}",
+      "previous_message_sha256": "1111d523af486f224cccd9958aa3591d63f8c4912d0b3ab847cfbe898f7ed6bb",
+      "source_message_sha256": "9c89be74ec667cc5b23ee8757210089d8607fc051552c067059480cbdd3c0d09"
+    },
+    {
+      "id": 80,
+      "french_plan": "{BD}{B8} dort !{B1}{AC}",
+      "previous_message_sha256": "1db079fda58b9ee7c80ad10214af2305838ec469663ff8a16ead65e6e4e9099d",
+      "source_message_sha256": "5c86cdaa193e23717bdf57a8f8f8dda32092a0a908f0869e1a1465d11ee1fb40"
+    },
+    {
+      "id": 81,
+      "french_plan": "{BC}{B7} se réveille !{B1}{AC}",
+      "previous_message_sha256": "5fc3f30bed8faddce920054232005488d96298403dad5f9e5e5bd59bd443b02b",
+      "source_message_sha256": "2a75373ac20cea65c969425fbd2bacea78a2ebc999ca1681dfab4418df6ea466"
+    },
+    {
+      "id": 82,
+      "french_plan": "{BD}{B8} se réveille !{B1}{AC}",
+      "previous_message_sha256": "9367cd89e57efbd14daf0cff5f05e4200ec418066794a414c863cbd5627ab60c",
+      "source_message_sha256": "0d4b49db6d79ac1b23138170da741f7d2f98d93a9ea19f64fee7d96cbcf6892f"
+    },
+    {
+      "id": 83,
+      "french_plan": "{BC}{B7} a l'esprit confus !{B1}{AC}",
+      "previous_message_sha256": "aaf388230780e7e8010f7b7a62045c43ce853ed5bca86b90d0697404e8998551",
+      "source_message_sha256": "9d9edff4806d98c4fb5cf2d80db97cb770e3decd10c40c8035f7a43d43df0c1b"
+    },
+    {
+      "id": 84,
+      "french_plan": "{BD}{B8} retrouve ses esprits !{B1}{AC}",
+      "previous_message_sha256": "1c1ecfaa3c216e29818f9ca7251900b93e6b45b2d361198de5f7d9e4d0309260",
+      "source_message_sha256": "957afc6b4d273f2ce7898ce2758f39fc9be0442eb30f9eae118a321e752d53c7"
+    },
+    {
+      "id": 85,
+      "french_plan": "{BC}{B7} ne peut plus bouger !{B1}{AC}",
+      "previous_message_sha256": "023126c74b7105ebeb3c10c2dc9a8f7016d3b0d2127fcc803f7303036897cc14",
+      "source_message_sha256": "ddae1809b4745548c9eba1af312d9663a389355d2ee3824eeefcfc09ee225864"
+    },
+    {
+      "id": 86,
+      "french_plan": "{BC}{B7} ne peut plus bouger de peur !{B1}{AC}",
+      "previous_message_sha256": "1e6b80eac3fe5b96116d4e4a60e06b145b6da6e9e363bdc58d494dd5c3606c18",
+      "source_message_sha256": "8a1a2f802a3e7e6a6db256ccb3cf10c728184540deda75f675a39f023cb58d43"
+    },
+    {
+      "id": 87,
+      "french_plan": "{BD}{B8} ne peut plus bouger de peur !{B1}{AC}",
+      "previous_message_sha256": "7d44c468cfa0866a54d092e0690772b5882e8ccf3d9b6e8cfb3a3f320e68e34e",
+      "source_message_sha256": "cf91fc849ef5ef7587e3bc7c28c9a0e6991303f83e12d875fbedce7531afe624"
+    },
+    {
+      "id": 88,
+      "french_plan": "{BC}{B7} frissonne !{B1}{AC}",
+      "previous_message_sha256": "205d2438cedb096864bb125ce698ebf2b5112c260ce4044fa1d82d2c8f82bb3e",
+      "source_message_sha256": "f5c1c14331ad2e3e8c07f381ddebaa64fd3d64df6c025c6fd1ccda594ef30925"
+    },
+    {
+      "id": 89,
+      "french_plan": "{BD}{B8} frissonne !{B1}{AC}",
+      "previous_message_sha256": "5c1b117c5e5f778cc242370c25d4d9e73c72c5277ed22a0fc49095f578926c4f",
+      "source_message_sha256": "48d15ab44ed79fa11abfe479b37db2ac8632797d28e5f7323cab2d5fe67fbe09"
+    },
+    {
+      "id": 90,
+      "french_plan": "{BC}Un poison violent ronge le corps de {B8} !{B1}{AC}",
+      "previous_message_sha256": "f64a701770243de81e0cf3b77e3e8661cddf8d9334ae6886948450a3c992a28e",
+      "source_message_sha256": "f9ad88f8f3d0a64552b44c4e641eb03bb90c7e868470b838e96f18c21373a09d"
+    },
+    {
+      "id": 91,
+      "french_plan": "{BD}Un poison violent ronge le corps de {B8} !{B1}{AC}",
+      "previous_message_sha256": "b80f1b3d230d0e2e219c2c005ce7973549c0d3081a9fbdcc8ee768a3fccd26fc",
+      "source_message_sha256": "d5b0950a7b0ab84f67ea8ff97ebc94370bfb309522c6134fd2a5d25527376d57"
+    },
+    {
+      "id": 92,
+      "french_plan": "{BC}{B7} admire l'apparence de {B8} !{B1}{AC}",
+      "previous_message_sha256": "cc1af5cbbee4177a8561b03ab2c1fba01d2230f145b024f300a8132cc0649723",
+      "source_message_sha256": "ea72e1611f889849e2f61676029d20394ac766e8d4ad124d6251871c02086b85"
+    },
+    {
+      "id": 93,
+      "french_plan": "{BC}{B7} ne peut plus bouger à cause de la malédiction !{B1}{AC}",
+      "previous_message_sha256": "f8d6172bfd562522d3a69b36b470266cfad7bf85afecb5a4ea8c40c440105d92",
+      "source_message_sha256": "64470f6427e3c234b6deb7ffc58b053b953f8af1006617cc9a3240364554acba"
+    },
+    {
+      "id": 94,
+      "french_plan": "{BC}{B7} lance le sort {B2} !{B1}{AC}",
+      "previous_message_sha256": "696231e062d762b001944a93edf26650da4929967f2859308496b6cd98ef33a1",
+      "source_message_sha256": "9d9ff3edeceeb574914b632981b04d17c1378da9a216b4d44a219f6642789509"
+    },
+    {
+      "id": 95,
+      "french_plan": "Mais il n'y a pas assez de PM !{B1}{AC}",
+      "previous_message_sha256": "820236ae96503cab8851afeaa0ed290245dbd3739904691188c9d61a77af12a4",
+      "source_message_sha256": "6a8243547976bdfcc327fec51a2dfe53d0524a0a9dd8a5d07393da3fba859962"
+    },
+    {
+      "id": 96,
+      "french_plan": "Pas assez de PM !{AC}",
+      "previous_message_sha256": "350adb4eaf3c7ce4abf062cc97378c607a9a81b3bc674bf8c9c830968cc6f6f1",
+      "source_message_sha256": "3a207b1f3530b04c838cec467054b7ab3f621f86045c3a112b5d787c42c604a8"
+    },
+    {
+      "id": 97,
+      "french_plan": "{BD}Mais le sort est neutralisé !{B1}{AC}",
+      "previous_message_sha256": "154316a95a82f99189c3f36b3e4428f78d0c0ac0087851a0419ca6f48d4d2c41",
+      "source_message_sha256": "72a5e9c2b284489b4ab70dc80a57ede5cb562d3f740675a51d764a11c889198f"
+    },
+    {
+      "id": 98,
+      "french_plan": "{BD}Mais les sorts sont bloqués !{B1}{AC}",
+      "previous_message_sha256": "56c07a35e9af037acb1bd5e0dd1c2ed5d658300d53bcbcc58f6f491a66e83f91",
+      "source_message_sha256": "98ddb18b1cbf72d854a680e34afaaebddedf8c6c936260baf3caa1e5b60a7cb0"
+    },
+    {
+      "id": 99,
+      "french_plan": "{BD}{B7} se cogne la tête au plafond !{B1}{AC}",
+      "previous_message_sha256": "e3e6312e66a0b8d448f1e45f1b6c0b17abec265f381deba78ef580720ccec4bb",
+      "source_message_sha256": "0a670e5d4a4c79bede7a79a7e0ab9006ce89c822b8bc7a9410550a3d172c9421"
+    },
+    {
+      "id": 100,
+      "french_plan": "{BD}Mais une force mystérieuse annule le sort !{B1}{AC}",
+      "previous_message_sha256": "2f2848ac3eded9ace18366a9cd47afafd2a551701f9223b0cf6ce14f653549a3",
+      "source_message_sha256": "96e6dc19a4a54a8cd378c67a7a4a30170061ce7388b03215c36349b193db50ed"
+    },
+    {
+      "id": 101,
+      "french_plan": "{BD}Les blessures de {B8} guérissent !{B1}{AC}",
+      "previous_message_sha256": "b9c212a03d1fb723cdb97cf2b4aa5c813ce659fc4238daabe00c5c6f8d7e1eba",
+      "source_message_sha256": "216d341d4885305c3aafe24f326aa6146c3bc5787d0e904252e86f2f5eae2af5"
+    },
+    {
+      "id": 102,
+      "french_plan": "{BD}Le poison quitte le corps de {B8} !{B1}{AC}",
+      "previous_message_sha256": "d6245ed1ad1359eb6219c08f84d7c35e7244d722813a4543931b0d510ea3a544",
+      "source_message_sha256": "7f9f94efaa2ac2633b50a4d8dcc1c33851874f3e2db8dcf1b75010ad574e7089"
+    },
+    {
+      "id": 103,
+      "french_plan": "{BD}{B8} peut de nouveau bouger !{B1}{AC}",
+      "previous_message_sha256": "b7870cd3e00405196eb79776a48b5d940f8220e1a886add0492590ac6c845714",
+      "source_message_sha256": "1c2f55ddb9a1e3f1db854af28b4fb9df28b070fee1a233a3ee1811ed162fe737"
+    },
+    {
+      "id": 104,
+      "french_plan": "{BD}{B8} revient à la vie !{B1}{AC}",
+      "previous_message_sha256": "b2fd7b84ba7e32c2887629abc36e7a405c35dcdb2c6542cb5141cb552fcc0d89",
+      "source_message_sha256": "045ccfadb50f0abb2f4522514f69f7c2c65dda0498f3554b29e6c9b928db6baf"
+    },
+    {
+      "id": 105,
+      "french_plan": "{BD}{B8} reste sans vie !{B1}{AC}",
+      "previous_message_sha256": "6e8e4fe0e00d103e2b342f86148a44a2c4902737bc9e362075cde63332f0051b",
+      "source_message_sha256": "d6a6b2d8a711b146e51aadadc08dab670298517ca1dadae3417c5f489c34ee73"
+    },
+    {
+      "id": 106,
+      "french_plan": "{BD}La malédiction qui affectait {B8} disparaît !{B1}{AC}",
+      "previous_message_sha256": "c9280cab4a4f35ba4d253cdec42340d7d675873250696bdec5b10659e02b4e61",
+      "source_message_sha256": "4a4261eec9d3185752159ad66c73df85af4649cf60dae3d0f54540d7a21f0f45"
+    },
+    {
+      "id": 107,
+      "french_plan": "{BD}{B8} ne peut plus lancer de sorts !{B1}{AC}",
+      "previous_message_sha256": "0e4f6c563f22dc1ea449f8e2b11795725587dedd49b5a64f605706a461c1541b",
+      "source_message_sha256": "b3dcca6a278e99bd1eb27e27d9938ea6455560e5a0b730ca755d798cc045af77"
+    },
+    {
+      "id": 108,
+      "french_plan": "{BD}{B8} ne peut plus lancer de sorts !{B1}{AC}",
+      "previous_message_sha256": "33c23de52b0b673cbaa65de968b05a74bedb4368019f78ba7e0119933ba7b81d",
+      "source_message_sha256": "b2568fd777800e8c930d019e2e2221defb2d88ebb33fa3e6bcdec7061ea5a765"
+    },
+    {
+      "id": 109,
+      "french_plan": "{BD}Un mur de lumière apparaît devant {B8} !{B1}{AC}",
+      "previous_message_sha256": "701a596adb08b0a54dfe27f86bc0aba01c20175665553395e57d30eff43048f1",
+      "source_message_sha256": "6cfc9576d49cc3acfd056967748a680229da3d37195e985184c85c2d8a215e23"
+    },
+    {
+      "id": 110,
+      "french_plan": "{BD}Le sort est dévié par le mur de lumière !{B1}{AC}",
+      "previous_message_sha256": "1016f56624341b555f09f1c77fc06f5006b4102eb69f8e274a9f27a5b13d09cc",
+      "source_message_sha256": "8fbdec0cb0d87c478645dc46e6bca9e7ad47586874b411c76e47c6849f8c8670"
+    },
+    {
+      "id": 111,
+      "french_plan": "{BD}Le mur de lumière dévie le sort !{B1}{AC}",
+      "previous_message_sha256": "1016f56624341b555f09f1c77fc06f5006b4102eb69f8e274a9f27a5b13d09cc",
+      "source_message_sha256": "0fbc2021d777098d8922bf7de21052892ae31dd33b02cdad186d439a112dc3a3"
+    },
+    {
+      "id": 112,
+      "french_plan": "{BD}{B8} meurt !{B1}{AC}",
+      "previous_message_sha256": "03af8549f6cb64badfb1b67ab7e66d722991f91f4b0a7122ff5a4b3973243fad",
+      "source_message_sha256": "356165109b3c59559bda2595a32c48a08fbce2532e639b68d7a3af40c3058b0b"
+    },
+    {
+      "id": 113,
+      "french_plan": "{BD}{B8} meurt !{B1}{AC}",
+      "previous_message_sha256": "3515f5ef26e339543044441219f2e650fbeb13b01220c2b642546d278961c474",
+      "source_message_sha256": "d91799c1406dda7d7d47c31eb4d8265dab68fd50dd0985e438428c4213d27b34"
+    },
+    {
+      "id": 114,
+      "french_plan": "{BD}{B8} vole en éclats !{B1}{AC}",
+      "previous_message_sha256": "aa1da7381fa58a0e41db845199c5d07cbc2433152f6cac78976737175b29d010",
+      "source_message_sha256": "b831ae0729447fe4174bf72ac7523655e7bc732cefdb07b9a029f71c33ce8868"
+    },
+    {
+      "id": 115,
+      "french_plan": "{BC}{B7} meurt à bout de forces.{B1}{AC}",
+      "previous_message_sha256": "51004fa5787e72e3f81b8b62c097f47b6390376b09090c150b7cb25953d6f61b",
+      "source_message_sha256": "29c198ceb58a4bd605a48fe7cef25399be30470b60b9b400897692767d98eaa2"
+    },
+    {
+      "id": 116,
+      "french_plan": "{BD}{B8} disparaît dans un éclair de lumière !{B1}{AC}",
+      "previous_message_sha256": "0dde385b0ea58e5648a6a844fb27f09030f61fd2703369240b64ca382c332b62",
+      "source_message_sha256": "7b250ce16d6393aff0478289dc55674091fab126a7a126bb7471d18be59df3b0"
+    },
+    {
+      "id": 117,
+      "french_plan": "{BD}{B8} sombre dans le sommeil !{B1}{AC}",
+      "previous_message_sha256": "3b24a816d2bebbfdbaca2222bcd49b6dd9f7e3eea44711696b523aaa3c2dbb9e",
+      "source_message_sha256": "6e1e08eb964ac417219a36d12ad0b35d6a541f4f4113d9f599d73b8010be71cb"
+    },
+    {
+      "id": 118,
+      "french_plan": "{BD}{B8} a l'esprit embrouillé !{B1}{AC}",
+      "previous_message_sha256": "93dcae6c2f21c12bd831b2f182cf0bdb7d17842e50edc33cb00ed73f7561142b",
+      "source_message_sha256": "b75e2941b176aeae465370f619680ae71f47d23eb09e690c56eb0a8caf7a4342"
+    },
+    {
+      "id": 119,
+      "french_plan": "{BD}{B8} a l'esprit encore plus confus !{B1}{AC}",
+      "previous_message_sha256": "39a239f4b428813e93fe79c5fdfbad2eaeb39c44d31a0d74671a908c3dc255d0",
+      "source_message_sha256": "d500ca9f2ca78f20f920356479f182c93aa42350bb7111243d0f1f443e1cec4f"
+    },
+    {
+      "id": 120,
+      "french_plan": "{BD}{B8} a l'esprit confus !{B1}{AC}",
+      "previous_message_sha256": "93dcae6c2f21c12bd831b2f182cf0bdb7d17842e50edc33cb00ed73f7561142b",
+      "source_message_sha256": "f4d0a0f964a935ab3090cf3487f15de104b85e9e6a25c3fb4b4aad6d4fd0bdf2"
+    },
+    {
+      "id": 121,
+      "french_plan": "{BD}{B8} commence à avoir des hallucinations !{B1}{AC}",
+      "previous_message_sha256": "452446f58746c51547cb25342ab5fd9e376f6e07d180abbc26fc65bc2f507406",
+      "source_message_sha256": "e78168d7ae8483096d9ae0c2e6f844786a50a06948076eda6b5065178d74fbd1"
+    },
+    {
+      "id": 122,
+      "french_plan": "{BD}Les PM de {B8} diminuent de {BB} !{B1}{AC}",
+      "previous_message_sha256": "60a182d94b59b8254ace9188d08ca1af881c3db521a14eee9bf2410e6b10250f",
+      "source_message_sha256": "1b2f651c7b5dd8c913a47165275ca97a83942d722d57248e7b61096cd83e5dcb"
+    },
+    {
+      "id": 123,
+      "french_plan": "{BD}Les PM de {B8} diminuent de {BB} !{B1}{AC}",
+      "previous_message_sha256": "f3fc54db914c44c9e03d2732e191c63a86ad69bd225c1b9c988fc022eea6ef76",
+      "source_message_sha256": "9c832bf2f41816493d9bf6ef79ed0438659451611dccec639c28d217a229cf37"
+    },
+    {
+      "id": 124,
+      "french_plan": "{BD}La défense de {B8} diminue de {BB} !{B1}{AC}",
+      "previous_message_sha256": "e775d40e96bf668250455cd15c5e8eecb57eac4c9e95d377f286c2da2d72f5b3",
+      "source_message_sha256": "33e2fe40709992533b399040bd9b8352eab7baf19dd78855bf6f4453def1ef84"
+    },
+    {
+      "id": 125,
+      "french_plan": "{BD}La défense de {B8} diminue de {BB} !{B1}{AC}",
+      "previous_message_sha256": "e775d40e96bf668250455cd15c5e8eecb57eac4c9e95d377f286c2da2d72f5b3",
+      "source_message_sha256": "17cc6f693260d1309956333bbd8b3f0fd4ac77b3441184e9f4afd6971d618d79"
+    },
+    {
+      "id": 126,
+      "french_plan": "{BD}La puissance d'attaque de {B8} double !{B1}{AC}",
+      "previous_message_sha256": "d15a960fda28b376c3caa76c20b1943a16f41b3b9dd7453d3c4ccba7b0471fc1",
+      "source_message_sha256": "97599d0a82b92763b7e105bc61f4af33c280d102a182f6397631ac00b0335192"
+    },
+    {
+      "id": 127,
+      "french_plan": "{BD}La défense de {B8} augmente de {BB} !{B1}{AC}",
+      "previous_message_sha256": "e1e0c0ba1f8af58534da13ab3cd71d46cc1bfb6a364f56ee1ecdda710aff21e0",
+      "source_message_sha256": "975a23857f2ada5c7f2e2e3156bfec7638dda85cc6b56224881646461c538657"
+    },
+    {
+      "id": 128,
+      "french_plan": "{BD}Une douce lumière enveloppe {B8} !{B1}{AC}",
+      "previous_message_sha256": "a297b07ae4437adca5bcda1e90548b98d392d061ef943e488f66ec8432083910",
+      "source_message_sha256": "3d575f631167dc0d611d7f716d957d986cac4e2aecda62701bdb075c34e9df2b"
+    },
+    {
+      "id": 129,
+      "french_plan": "{BD}Une brume violette enveloppe le corps de {B8} !{B1}{AC}",
+      "previous_message_sha256": "ca6bb95c25e2192c221d9302e80938a784e2aae8d0e0beca0c8f7bfb9e948f95",
+      "source_message_sha256": "511958f8ed43dcba4830e2b379be56f7cd7e107538e405992f116e143f6fd7f9"
+    },
+    {
+      "id": 130,
+      "french_plan": "{BD}Le corps de {B8} commence à luire doucement !{B1}{AC}",
+      "previous_message_sha256": "64af2b1814313f5007b5fd4312120cb8144bc81f65e84d6a289e5a98d19217bf",
+      "source_message_sha256": "5950caea584c4508875ff55e652d1261df6ea1b389f6fd22485ae4cba03004fc"
+    },
+    {
+      "id": 131,
+      "french_plan": "{BD}{B8} absorbe {BB} PM !{B1}{AC}",
+      "previous_message_sha256": "73122d6c4211a2c5535637a6f3f133b1f54d7e7cb8998dde2eac17644d6c5b92",
+      "source_message_sha256": "c3c97e9e1a356cfbb971847d458d6102f00fddbb179385dd9e03e1c617709cef"
+    },
+    {
+      "id": 132,
+      "french_plan": "{BD}Le corps de {B8} se change en un bloc d'acier !{B1}{AC}",
+      "previous_message_sha256": "d2a9f81e7daa57a962d221e913af34756a8e9827e9e9ab374546da12f2f926cf",
+      "source_message_sha256": "80728f575974d414b1b26b67f6ae432faf4ee483f6f6af38669644e2e17f0c06"
+    },
+    {
+      "id": 133,
+      "french_plan": "{BD}Le corps d'acier de {B8} résiste à tout !{B1}{AC}",
+      "previous_message_sha256": "03fb64548365068e57f5592b170e45c956f56c62c8b7f75f35561c750ca1d6b2",
+      "source_message_sha256": "a121aaeeb2428bb568709ba6e90f64da80a74166e52cdfd4711976dbbb77ab1c"
+    },
+    {
+      "id": 134,
+      "french_plan": "{BC}Le corps de {B7} n'est plus en acier !{B1}{AC}",
+      "previous_message_sha256": "55650c7e5ddb6b6354d4bc24f5f93567b5aaa2f3528af08544091afc6fe01fbb",
+      "source_message_sha256": "c7d983474ac9768e709232b6c09048ba73ce64f810426cbf31c684a32386178a"
+    },
+    {
+      "id": 135,
+      "french_plan": "{BC}{B7} est un bloc d'acier !{B1}{AC}",
+      "previous_message_sha256": "3eae15d8da3dac6bf77502a2503c9a92870847c3e4b802d93cc75f755e203b40",
+      "source_message_sha256": "dc68601c4244ff61304a79cf40f471f29b8dbe4c75d029a7d931e993f26f06b1"
+    },
+    {
+      "id": 136,
+      "french_plan": "{BC}{B7} et son équipe unissent leurs forces. Foudre ciblée !{B1}{AC}",
+      "previous_message_sha256": "426cdf6054008e425936bd4d9cb733c202f6d8cadad7c875a43a1d1b53c37184",
+      "source_message_sha256": "9b01f6714ea1435862e2f94196615e678a445d2c5411d45ac2a5aa343e013824"
+    },
+    {
+      "id": 137,
+      "french_plan": "{BC}Impossible de lancer ce sort maintenant !{AC}",
+      "previous_message_sha256": "3f064eb66afd7a5069f396a9ebbe75ef39c003f23c89c45ab8edbd5fdcb243f0",
+      "source_message_sha256": "5d860862506a48e672f4ee9478879b4716e01059d69e6cb00de3d25532937e41"
+    },
+    {
+      "id": 138,
+      "french_plan": "{BD}{B8} se transforme en un énorme dragon !{B1}{AC}",
+      "previous_message_sha256": "b52b331bb6b760250e5e205ddce55fa28687cac12bfd575bcf166e0d83fa4081",
+      "source_message_sha256": "2f74fadd30ca841234d7689d822d2ae44bbda2bc97e8cf865c582f33d9109ee8"
+    },
+    {
+      "id": 139,
+      "french_plan": "{B7} prend l'apparence exacte de {B8} !{B1}{AC}",
+      "previous_message_sha256": "4cec0f4f4536afc9b2c927fa13001c1158dcf69d623a91bd7c0a0789bcce82fc",
+      "source_message_sha256": "be532f3a0f9b3dedbbe26c320ee77dc97d88d198cbc0d4abe4541237bc90220a"
+    },
+    {
+      "id": 140,
+      "french_plan": "{BC}{B7} fait tomber de violents éclairs !{B1}{AC}",
+      "previous_message_sha256": "070caf6f0cf02589f204394f3db45c70bda5d343617f4aa0296cf7904fccf252",
+      "source_message_sha256": "a5c3d5d790c71a688233a74e2cbf7790d3ff6542a12aad1d5c3c9cceda41b009"
+    },
+    {
+      "id": 141,
+      "french_plan": "Des éclairs illuminent les alentours !{B1}{AC}",
+      "previous_message_sha256": "06ff473d57229b07e05ba0f397ee275750087c4512f1405c042d6236efe7ba07",
+      "source_message_sha256": "0d3ea917e0ef4a1c406c5dec7516f1c3b2b69ac0d83638b0770c852d0ac11290"
+    },
+    {
+      "id": 142,
+      "french_plan": "{BC}{B7} crache un souffle de feu !{B1}{AC}",
+      "previous_message_sha256": "cf3af2bbe16a9f76a8da50227ccc85679be5390b330fcb7ffadb2eea0d732822",
+      "source_message_sha256": "64adf07b383b25ce8de699661660666d0248e9d8880d69f1c114d67bc385ebf9"
+    },
+    {
+      "id": 143,
+      "french_plan": "{BC}{B7} crache des flammes ardentes !{B1}{AC}",
+      "previous_message_sha256": "b29d124b1eec4fc5a1bf64862cc30d8608cd440a7daff45b8c652c59de0fb95c",
+      "source_message_sha256": "734fd1f587a6f0dee496f821a2f74fa6fe7ce3b55b4ff464b87b70a0fbc628a3"
+    },
+    {
+      "id": 144,
+      "french_plan": "{BC}{B7} crache des flammes intenses !{B1}{AC}",
+      "previous_message_sha256": "c6e97c0f546cfcf2e25609ad0323a874686f549d2220d7be6727ee5e9e3c759d",
+      "source_message_sha256": "e9c2c52681623e1e27e8dcc2aee23d1e043ed100dd8edbd378101abb967ab83f"
+    },
+    {
+      "id": 145,
+      "french_plan": "{BC}{B7} crache des flammes infernales !{B1}{AC}",
+      "previous_message_sha256": "15497a9ff885bd6ec3259943f58bcc8cd6d791e855accabb6515c22440211455",
+      "source_message_sha256": "a0ce31a1673257284e9d5aa0d766c509ce4ed811a738bbf49f78a3e5c78a0ea3"
+    },
+    {
+      "id": 146,
+      "french_plan": "{BC}{B7} crache un souffle froid !{B1}{AC}",
+      "previous_message_sha256": "54f7a182986b5b350846298b2fa8bce82a44d59387a119c699e252083a730b05",
+      "source_message_sha256": "f3c6c1ec4f5af399dab31d49441071bc4ae2f9e159b76d514f98fcca91f785f5"
+    },
+    {
+      "id": 147,
+      "french_plan": "{BC}{B7} crache un souffle glacial !{B1}{AC}",
+      "previous_message_sha256": "24ae7f44e068fd6c93a3a2c46442346779244dbaad4a69586560b29d0965fec6",
+      "source_message_sha256": "d2c18838cf7ad3bb4b5c748ca5157851233b019c13751efcb55cad8ba5877546"
+    },
+    {
+      "id": 148,
+      "french_plan": "{BC}{B7} crache un blizzard glacial !{B1}{AC}",
+      "previous_message_sha256": "4526acea9bb8574331debbd880ec7459aa79663542aed0993420e0a6adc26f6b",
+      "source_message_sha256": "4f8b9448ee117cf621ba4306df283e436dd51b9fa3dfafe15aeb73f6130980c5"
+    },
+    {
+      "id": 149,
+      "french_plan": "{BC}{B7} frémit et crache un souffle froid et scintillant !{B1}{AC}",
+      "previous_message_sha256": "4b8c6aca0d4bd3d05a33132c35503471ce4a78c271ae43c0e65102fae4284125",
+      "source_message_sha256": "a668f47b1abd32f76da9fdfaf4694e7b90979d4bb4515854b6dbfeefb8297bc5"
+    },
+    {
+      "id": 150,
+      "french_plan": "{BC}{B7} génère un tourbillon !{B1}{AC}",
+      "previous_message_sha256": "47724d4bde29ee9c18b2b6ae420ff47e21f635090b723c9b06ea8dc03c8c0a06",
+      "source_message_sha256": "0817dddc67d5a313bd152bcb2347ee111d76ad6cac834b7b9c4e974f23368166"
+    },
+    {
+      "id": 151,
+      "french_plan": "{BC}{B7} se jette avec rage sur {B8} !{B1}{AC}",
+      "previous_message_sha256": "719181bfa2c89fe80fa4d5413e3acf3766bf902c477614a7fb0dfa4a27b7a43a",
+      "source_message_sha256": "eda92dcaf9a9037b702df299c17b287aa834f021f9a162dff71d71f989d3732d"
+    },
+    {
+      "id": 152,
+      "french_plan": "{BC}{B7} concentre sa force.{B1}{AC}",
+      "previous_message_sha256": "79bbab5e09fc2b510f29652c32d8f3ce2e6e15281745ff9458fdb88633daf86c",
+      "source_message_sha256": "a80bdff2d35d154ff825d2c6fcd67f5d441c049c8a3ce16401aa00deb3635885"
+    },
+    {
+      "id": 153,
+      "french_plan": "{BC}{B7} prend une profonde inspiration.{B1}{AC}",
+      "previous_message_sha256": "422f777ab03b6ada9a93b548c0363d67c3966f5fdb1f59e2f717f23a5bf6964f",
+      "source_message_sha256": "a206a0eb885aeda1ba7a6f23869ba0e2ac747c3496d6928314172e9ec76ebd05"
+    },
+    {
+      "id": 154,
+      "french_plan": "{BC}{B7} charge !{B1}{AC}",
+      "previous_message_sha256": "71fa0e01910416278a6cd6d2374e9594aeb8526b02199b0d7de522a62b40ee07",
+      "source_message_sha256": "583e5dda6cde8fbc10e3a4c74d665b908f70108ae7dd38d75f5a5319b9b7ac11"
+    },
+    {
+      "id": 155,
+      "french_plan": "{BC}{B7} se jette sur l'adversaire !{B1}{AC}",
+      "previous_message_sha256": "768dfe35ad014a1aac6eadd88ad7ab254bc6d468513b05babeb16446b3da9912",
+      "source_message_sha256": "960b7fdc5d2963cda4c751a79aa3561139882a39f856aff5877a90f24abc678f"
+    },
+    {
+      "id": 156,
+      "french_plan": "{BC}{B7} exécute la danse {B2} !{B1}{AC}",
+      "previous_message_sha256": "263e80e1e82e9468f25ac1b3e9242848c16fa15b61885de6e656c423d00682a7",
+      "source_message_sha256": "c5b811ad4345f68f465a6da80cde4bb34f12e19394f7950932394f6f0a1d6c98"
+    },
+    {
+      "id": 157,
+      "french_plan": "{BC}{B7} fait la danse des soins ! {B7}. C'est parti pour la danse des soins !{B1}{AC}",
+      "previous_message_sha256": "c53c7107c9004c0dc8b44f8e050d54f5ec730c705cb29f4f6ce4c562203a10c5",
+      "source_message_sha256": "7efbe36f1fcfbf80f177101550794bd893a8487f28d573b6655a0ff42b57ef3b"
+    },
+    {
+      "id": 158,
+      "french_plan": "{BD}{B8} se laisse entraîner dans la danse !{B1}{AC}",
+      "previous_message_sha256": "70b04ce9cf23072191e88ad84243500c1f9ec000e29e8b03f5f14fa71f0fd8e5",
+      "source_message_sha256": "3dc7cc8e34d69353a4bd3431710c9161de75df116352e974b4eaa0581e486e78"
+    },
+    {
+      "id": 159,
+      "french_plan": "{BD}{B8} ne rentre pas dans la danse !{B1}{AC}",
+      "previous_message_sha256": "d36d8e9693017c4df7a8c1e3833e937e419fd383013911e75d9aaa6e399dbfd1",
+      "source_message_sha256": "6849f14461513e224b513ca8b59bee5b2d56d96483e0534ad92ecc977f8a3df2"
+    },
+    {
+      "id": 160,
+      "french_plan": "{BC}{B7} ne peut s'empêcher de danser !{B1}{AC}",
+      "previous_message_sha256": "499523e8ff9c4f49aa0aa503f2d273f15cd7f3110aab5755d1af3b8c81e9e19c",
+      "source_message_sha256": "bfe377cd54d710d3e451ebd9d209d1c4ab23ca73f4411d08d1188cbdc3bed0d8"
+    },
+    {
+      "id": 161,
+      "french_plan": "{BD}{B8} ne peut s'empêcher de danser !{B1}{AC}",
+      "previous_message_sha256": "667428e1403827feab077a66a9612512dc6864564ecf73360841d0603403ceda",
+      "source_message_sha256": "4c7668dc28e40ed1405fb575eac57cb34c8ff1db10a101acf00e7a715d16dce7"
+    },
+    {
+      "id": 162,
+      "french_plan": "{BD}Les PM de {B8} diminuent de {BB} !{B1}{AC}",
+      "previous_message_sha256": "94b6bbf7963032d7a1dbf8396fd65619ed3de93ea75511f2fff39538365e1059",
+      "source_message_sha256": "181b0ecceee8335891b83d12498073359149375bf1ae9e21356b61072f0173fb"
+    },
+    {
+      "id": 163,
+      "french_plan": "Mais la danse est bloquée !{B1}{AC}",
+      "previous_message_sha256": "8aab4ab7a69747d99c397f64b86fa9357a98724abf24637f25834e85f9a77e5e",
+      "source_message_sha256": "e9d894dea4aa949747edbdf88595b6ea253a1d23512b40d74d3952c311acbbae"
+    },
+    {
+      "id": 164,
+      "french_plan": "{BC}{B7} meurt d'épuisement après cette danse !{B1}{AC}",
+      "previous_message_sha256": "4a656bd4369d586fd9ad9adf9404deca9558c95642cd93d1044fd976cb715182",
+      "source_message_sha256": "7c4b03a73380b9ee69791a1d327aaec98d086726b6a5fe8f9db5387d0214a277"
+    },
+    {
+      "id": 165,
+      "french_plan": "{BC}{B7} fait une dernière danse !{B1}{AC}",
+      "previous_message_sha256": "afdb87e249842fc9aa764caaa5854d8e532a858ad8fb82617a18d26742d70075",
+      "source_message_sha256": "ce115d35f9d5e808a897c002ea08774d1b37449461a2174d9fd70b7529a06630"
+    },
+    {
+      "id": 166,
+      "french_plan": "{BD}{B8} ne peut plus danser !{B1}{AC}",
+      "previous_message_sha256": "286866f045bcd88a5a33d4a73269e0fe04046cf17401fcef5cbdb25b1851a377",
+      "source_message_sha256": "fedaddf888f6585bd4f99b709f873ac2f77ea33f9686f8c7ddf80228676df838"
+    },
+    {
+      "id": 167,
+      "french_plan": "{BC}{B7} crache un nuage de poussière !{B1}{AC}",
+      "previous_message_sha256": "9202fce5ba0836d292f401995e4e8947dfa30f2dd6a25e76b7dd93e963072607",
+      "source_message_sha256": "79768f8425ebba6eee10af806b1ec882c01f28814a1e2afd6d83c64c5e790533"
+    },
+    {
+      "id": 168,
+      "french_plan": "{BD}Du sable entre dans les yeux de {B8} !{B1}{AC}",
+      "previous_message_sha256": "72e49a6af86a515505418b0d36c9c86b418870ca2e037dde5a987ce651247f97",
+      "source_message_sha256": "ae698e1b7af116137806dd4b79bcd6ef063123f421a9d4f8307a35cfb28e013a"
+    },
+    {
+      "id": 169,
+      "french_plan": "{BD}{B8} se débarrasse rapidement du sable !{B1}{AC}",
+      "previous_message_sha256": "0b5738e1847d94462b6736540880d53ac9a1cb5d02720ea435ef32e59700d812",
+      "source_message_sha256": "f5f20b0b665bb78296d131bb74b9f0f3122a869ef2320963287ba3ee91016f60"
+    },
+    {
+      "id": 170,
+      "french_plan": "{BD}Une tempête de sable entoure {B8} !{B1}{AC}",
+      "previous_message_sha256": "86920acedf33289f969b43a21ec3e7e8e4211442e1a4a63ff9369f75b91bfd96",
+      "source_message_sha256": "ebef8b15740d47a197c0d1bb579cc6adc8ed942928c42ea1056105339c9ab773"
+    },
+    {
+      "id": 171,
+      "french_plan": "{BC}{B7} crache un souffle empoisonné !{B1}{AC}",
+      "previous_message_sha256": "41864e0cb0eb04a3f3b83a82a6141bbee7476d348e67aacba2e52c491422c84c",
+      "source_message_sha256": "19c54207417c46ffa611b91c424cd13ac867b0b7adc4f670cccfdd74a2e2a4dd"
+    },
+    {
+      "id": 172,
+      "french_plan": "{BD}{B8} subit un empoisonnement !{B1}{AC}",
+      "previous_message_sha256": "18852404c9f75c7ff476ee1a62a48d0507ec432b53365a2ea157b16e1ffa591a",
+      "source_message_sha256": "773f11a2d2bee0b0df2684267eb1136d47c5dc840adef91ba3ef45b28211e4c8"
+    },
+    {
+      "id": 173,
+      "french_plan": "{BD}{B8} esquive le souffle !{B1}{AC}",
+      "previous_message_sha256": "29a6bc980ee95d0592caa3448c1c3b0ce53b823f0d0615271c964edd7e2147f9",
+      "source_message_sha256": "9e278f5f5e7c6955188e47159d7b952a363c7dd722fe4932a6cbe0dadf8e1db2"
+    },
+    {
+      "id": 174,
+      "french_plan": "{BC}{B7} crache une brume venimeuse !{B1}{AC}",
+      "previous_message_sha256": "6cd0a2a3692f5e83ac8c7131da1dab2bf255f62cb1d837a4b0e1a60fbbe119bb",
+      "source_message_sha256": "724561ccbcc5294a7ffe3bda42d1b58a0bc51887b57a149bcfc2a28b7ae1e466"
+    },
+    {
+      "id": 175,
+      "french_plan": "{BD}{B8} subit une forte intoxication !{B1}{AC}",
+      "previous_message_sha256": "18852404c9f75c7ff476ee1a62a48d0507ec432b53365a2ea157b16e1ffa591a",
+      "source_message_sha256": "c97c9a6300967449fcc347585e86c7321b03444384174a04110dc3e4e82f201d"
+    },
+    {
+      "id": 176,
+      "french_plan": "{BD}Mais {B8} évite la brume !{B1}{AC}",
+      "previous_message_sha256": "7a6f0c8d9cf741d3c3533bdfa5d8d5b7762c21a19a41e50d293fb321032a3143",
+      "source_message_sha256": "8d78fcef003dfe2dc8ca36df1429658a2aa7d69e7a27d9b4f90f337d2298d0a1"
+    },
+    {
+      "id": 177,
+      "french_plan": "{BC}{B7} crache de la salive acide !{B1}{AC}",
+      "previous_message_sha256": "b3b140f0f507ff7a46ca82a035c8b64354c367594efbc25867ca1fa43e0034b9",
+      "source_message_sha256": "801f41685c95154c9e301d24d3079a2232402f56f2b89885e07788613f260c26"
+    },
+    {
+      "id": 178,
+      "french_plan": "{BC}{B7} crache un souffle soporifique !{B1}{AC}",
+      "previous_message_sha256": "db7545df3b24c1f8b999a40a481df46bc3d755617f3786acb8065ca325b4dd1c",
+      "source_message_sha256": "d850e56d520b7151ffd0f0fca2ddc8ec366c949cf7b291e0496f10faa05b74b0"
+    },
+    {
+      "id": 179,
+      "french_plan": "{BD}{B8} s'endort !{B1}{AC}",
+      "previous_message_sha256": "2bf17e4160435708a174a45bbdca79989cb9e2de6eba5503b3f34fba93e4018d",
+      "source_message_sha256": "da1db935edaddb696f9b142f6d72d0f3e9e5a43605fd131204c139e2586a3fb3"
+    },
+    {
+      "id": 180,
+      "french_plan": "{BD}{B8} ne s'endort pas !{B1}{AC}",
+      "previous_message_sha256": "509561c9ef5677c75204b0ce1dd23f1497e3a927767601907864bb85766bfd46",
+      "source_message_sha256": "d914e0df45168cc984e7856f52904c3055809ac110ddbacf29c01c83aa32533c"
+    },
+    {
+      "id": 181,
+      "french_plan": "{BC}{B7} crache un souffle paralysant !{B1}{AC}",
+      "previous_message_sha256": "7c63da30275542f211d6a6852cc57cd98aa235316419e8913aff0dba00f1cbb4",
+      "source_message_sha256": "d3279efaa2371f8c78cf2697695bf84af64e4d51de8a1699c0645422bd364bbd"
+    },
+    {
+      "id": 182,
+      "french_plan": "{BD}{B8} ne peut plus bouger à cause des engourdissements !{B1}{AC}",
+      "previous_message_sha256": "eee9d15d457cd43af268786ec3acdf9a972ed870207a9cf121ccd3eff4c92601",
+      "source_message_sha256": "ab6074f8c201f79c212b489996ab6c5104811e6311da3d421d2fc610bc0b8a6b"
+    },
+    {
+      "id": 183,
+      "french_plan": "{BC}{B7} ouvre grand ses yeux violets et fixe {B8} !{B1}{AC}",
+      "previous_message_sha256": "1f16eabbed89e9742a6ca24560068183fe70e79c8689ab134291676a1ec8c7ad",
+      "source_message_sha256": "e0249a58ce9446a6a513ff6af2e849732dd8907ff71b889df10cad2833ac2f34"
+    },
+    {
+      "id": 184,
+      "french_plan": "{BD}Quel regard hypnotique ! Le corps de {B8} s'engourdit !{B1}{AC}",
+      "previous_message_sha256": "72c74acd2d6a60167286e3e7b6434804ab71f252e86f6bdd2c02a299a39eaf02",
+      "source_message_sha256": "990c1acdfa63a4760866367ef72adab6de1e010e4cddcd84b12a36b7ff53d620"
+    },
+    {
+      "id": 185,
+      "french_plan": "{BD}{B8} ne peut plus bouger à cause de la paralysie !{B1}{AC}",
+      "previous_message_sha256": "576fda2e882c49cb43cdbb1930088105b0622d6b1b56c3c030a70d3e058f99a7",
+      "source_message_sha256": "b6c252d99d2b4b08a7b4df4b69a880e8fd30ff004651a1c3239b39d761b01baf"
+    },
+    {
+      "id": 186,
+      "french_plan": "{BC}{B7} pousse un hurlement !{B1}{AC}",
+      "previous_message_sha256": "cc769154ddc4b0d4c285b525051abe3eaabb982524ac2d9e8a1c047d92b16736",
+      "source_message_sha256": "783d294d1f0c95295daf01d8c5d2f27825c77ff6a7a65be0343a8edeb6382470"
+    },
+    {
+      "id": 187,
+      "french_plan": "{BD}{B8} subit un choc !{B1}{AC}",
+      "previous_message_sha256": "d6c9dcf2f415db4302f8ba5cd484b2d8a1bb3272778ed74044c7d95b30b4321d",
+      "source_message_sha256": "abb8c2fc47f204d6eebf84c4b502e321afc314704c05712178372efad2458b39"
+    },
+    {
+      "id": 188,
+      "french_plan": "{BD}Aucun effet sur {B8} !{B1}{AC}",
+      "previous_message_sha256": "4bac20d1a4a1eed9c8c7ddc36dbea356dc35ffd2461c953f3d45796d62771588",
+      "source_message_sha256": "c9c98d98de78ee4bf9a1377ad1877274bc4a5e87d2ef71a4fde6e6e95c0a852a"
+    },
+    {
+      "id": 189,
+      "french_plan": "{BC}{B7} lèche tout le visage de {B8} !{B1}{AC}",
+      "previous_message_sha256": "1ffa9fc646bae07d500a464b3b8ab1a2abdc276a451ac3a934358ff970e2c39a",
+      "source_message_sha256": "c3e4d58d7f5757e037dee09bc03e98a3a61e0a6909493810b8bd35a22a41aa24"
+    },
+    {
+      "id": 190,
+      "french_plan": "{BD}{B8} a la chair de poule !{B1}{AC}",
+      "previous_message_sha256": "200fd40adb85a7e67bb8118efb028d3cde03aebdebb0b1047623c8a4686ab662",
+      "source_message_sha256": "5b673e42fcc7d04815e043abfd1f5e6fd5dcd887a6f6e55765bea9117a283bbf"
+    },
+    {
+      "id": 191,
+      "french_plan": "{BC}{B7} couvre {B8} de coups de langue !{B1}{AC}",
+      "previous_message_sha256": "d5c25735291aa63de98b7ccbc17ffe27fa3c4e74f69c8ba3e2ba0ea41f5067f6",
+      "source_message_sha256": "d31bdf19cb99454ed125a088cd8b39df3fb283a37b9b4cb81b22fa78f6355a7b"
+    },
+    {
+      "id": 192,
+      "french_plan": "La défense de {B8} tombe à zéro !{B1}{AC}",
+      "previous_message_sha256": "8ac65ab0459bce163422b4f173c5990a40c815f3ba6bb2a7366ad2e9c121bc32",
+      "source_message_sha256": "bb9d803aff068033aed88f02e526621beffd19bc33dcbb870f0b96202c4d4345"
+    },
+    {
+      "id": 193,
+      "french_plan": "{BC}{B7} utilise {B2} !{B1}{AC}",
+      "previous_message_sha256": "2a79df2c236bfb0cb62a1309782cf8d439ac35200f1100b4f5fc390d90367f7f",
+      "source_message_sha256": "6c7e61d058eb4795d8859010c47935c6b99e2412f7563e328d76c8c1c271abce"
+    },
+    {
+      "id": 194,
+      "french_plan": "{BC}{B7} se déplace à petits pas de danse.{B1}{AC}",
+      "previous_message_sha256": "29c482dc3c5842477548cef6919355127bb4bf8e1ba1a06291c5689f17446fb0",
+      "source_message_sha256": "6831741bd01f171b18a4d9b65e1157a5817586d6d3b191bd7e597a5fb3468efb"
+    },
+    {
+      "id": 195,
+      "french_plan": "{BC}{B7} entonne un chant rédempteur.{B1}{AC}",
+      "previous_message_sha256": "4e398227c0fe236b0931c1ceefde2fe2b448e73688a925a6602a1e1a2ea6992c",
+      "source_message_sha256": "84e51f4531f92f1e344d70de64d58cf67730e67a158de7f3d80499330305bfad"
+    },
+    {
+      "id": 196,
+      "french_plan": "{BC}{B7} termine son chant.{B1}{AC}",
+      "previous_message_sha256": "3f9d1834bfdd9329c1528a91783691d982cdb1852a87dd0f60f0559585e653f2",
+      "source_message_sha256": "6045108550a328925e602fb2da6470cd4dfa1bfac01cef80daf51cf92d289aa5"
+    },
+    {
+      "id": 197,
+      "french_plan": "Mais la prière reste sans réponse.{B1}{AC}",
+      "previous_message_sha256": "d9b1b161ea23d126e56fce7abeab5fcfe912b06234eeabd54e6d30f4b83d4c88",
+      "source_message_sha256": "ac1b15337db1a245e3e7b58ef2fe9596de7cd7189612e3d66f326f5e07ba7ffb"
+    },
+    {
+      "id": 198,
+      "french_plan": "Mais personne n'entend le chant !{B1}{AC}",
+      "previous_message_sha256": "ebe58dd36728283aaa9d85888496b220b027b6a3750a22157250321eb478ad21",
+      "source_message_sha256": "58eb280e32b204c5c26bf860b70c4c77a8e88c10f6911ac4a5f835d19c17c464"
+    },
+    {
+      "id": 199,
+      "french_plan": "{BC}{B7} se prépare.{B1}{AC}",
+      "previous_message_sha256": "d2b556a44b84a3aafee64deda5a35cafd4aab7ef6d5e5ba6ba01443347e6f0ee",
+      "source_message_sha256": "05deeb9efea265553a51a9c58d05be5cd95a6e436ff0a19b9566d1de3d90e873"
+    },
+    {
+      "id": 200,
+      "french_plan": "{BC}{B8} riposte.{B1}{AC}",
+      "previous_message_sha256": "6ab651c49742ac695ff3451e233cfcb4465d1c0bdc18f16f1d962ebd919946c4",
+      "source_message_sha256": "80bff35e6a071c4c11ecb04d8ba5ad640aed2ea9e70d69a88d81841adefcf243"
+    },
+    {
+      "id": 201,
+      "french_plan": "{BC}{B7} ne peut pas riposter.{B1}{AC}",
+      "previous_message_sha256": "592d716704b2a4c6b06b0dc341030936c6dd38070928be2f862717f8ef87fb7d",
+      "source_message_sha256": "ab4096ba1101fbf0eef8990a21540b888b3e897aeb3eaa011e697bce68011057"
+    },
+    {
+      "id": 202,
+      "french_plan": "{BC}{B7} se prépare à se défiler.{B1}{AC}",
+      "previous_message_sha256": "ab330aa6ee1dde9b893894b1f2f73ef135aea0d5d39acb2254bcc724cc5dad7b",
+      "source_message_sha256": "18cc7c92241992d5df4cc2ab1eff4c924ea99ec37b322a0db8ae5e127998b7c1"
+    },
+    {
+      "id": 203,
+      "french_plan": "{BD}{B8} se défile.{B1}{AC}",
+      "previous_message_sha256": "4615f8bf766eaa467f8de696dd1866348b8d57bf789ba393b491183e419edbf6",
+      "source_message_sha256": "df1e65ad084a131005fb4980475071fd48f293281074d07485f5a8ee3ad5e83c"
+    },
+    {
+      "id": 204,
+      "french_plan": "{BD}{B8} ne parvient pas à se défiler.{B1}{AC}",
+      "previous_message_sha256": "4ed6f50d47ab4b84ac6c8cd621d20a8d5e804ce4d30e1a56d42d8f439abe47e9",
+      "source_message_sha256": "72a9fba19b8e16b4f1cf373a0e568e07b5a2381cf4e19184740a33445698ba7d"
+    },
+    {
+      "id": 205,
+      "french_plan": "{BC}{B7} repousse {B8} !{B1}{AC}",
+      "previous_message_sha256": "a5c3c102ca056b5359620e9671b125c8a3a8216dabc1b939c0aa173ea2a28f1a",
+      "source_message_sha256": "f7bfdac5b80630cfa8212c01f3ed71ec1da533538e5a8dfa25450704d37559d3"
+    },
+    {
+      "id": 206,
+      "french_plan": "{BD}{B8} vole au loin !{B1}{AC}",
+      "previous_message_sha256": "04a6f553d197f5ae9d691e2181988ee10b02784ca2216a147b8bee30ee864eb5",
+      "source_message_sha256": "73ba9458f0177c1feec6ecd8db964a51fcd1e3f7f75f8a1c684d034d0cd943f6"
+    },
+    {
+      "id": 207,
+      "french_plan": "{BD}Mais {B8} tient bon !{B1}{AC}",
+      "previous_message_sha256": "14e918922319966baa2478eba3c69d0c9e0b2e613716162c80f993a24efee2de",
+      "source_message_sha256": "61259463e3fb15ddc3fb5a1b1e4012add67090663ffe8e441c178456f1ab859d"
+    },
+    {
+      "id": 208,
+      "french_plan": "{BC}{B7} tente un balayage sur {B8} !{B1}{AC}",
+      "previous_message_sha256": "62561d4f285e673129a151f10c06a51231c42ecdcfcd7902d1f6fb6a5a68700f",
+      "source_message_sha256": "789662ecfa0bf21b87a90b19077aadaa179bd4baa743805c9a7d092d3e445a33"
+    },
+    {
+      "id": 209,
+      "french_plan": "{BD}{B8} tombe à terre !{B1}{AC}",
+      "previous_message_sha256": "f7c6e0a17d8e581741cb72e54587d79d8ca9a935208ac75189083f1026b483fc",
+      "source_message_sha256": "c9a63b84ae0a2338158df97e0372d4d776e08ee437062388de81e3ce3f2ba63f"
+    },
+    {
+      "id": 210,
+      "french_plan": "{BD}Mais {B8} esquive avec aisance !{B1}{AC}",
+      "previous_message_sha256": "b38a5936d4be479a3378bc7cd5f18495c83f049dbd23000cb28b3982e4f38a13",
+      "source_message_sha256": "9a51df9d3938b38a22e6678bdfd5b7a9667ec96e5813ee97308120a77cab059e"
+    },
+    {
+      "id": 211,
+      "french_plan": "{BC}{B7} se débat à terre !{B1}{AC}",
+      "previous_message_sha256": "63d7656f2889fbe0beb76f7947b004c910db13748ab15440aeed399fa7393514",
+      "source_message_sha256": "2b73694cd22d00bba43c6c6044d7f0f4c6705af2db33eb88f66cfb14a84b65a1"
+    },
+    {
+      "id": 212,
+      "french_plan": "{BD}{B8} se débat à terre !{B1}{AC}",
+      "previous_message_sha256": "0592b1827e7ffc7689cc13d02f14e36cb06787d113f7968764abd0eb149ac565",
+      "source_message_sha256": "4e46f471396a1c5056278f2bcc1dea29828a317506685c3d2ac733883ec8ccf5"
+    },
+    {
+      "id": 213,
+      "french_plan": "{BC}{B7} provoque un raz-de-marée.{B1}{AC}",
+      "previous_message_sha256": "edb61987cf6250ff74cc0ee7004b166d7523b634094fdd5f8fcead1ee212821e",
+      "source_message_sha256": "1d24bceaf2aa11e5b7572e43168ba3193be1b8b061a8a6f615609385494efd1d"
+    },
+    {
+      "id": 214,
+      "french_plan": "{BD}Un énorme raz-de-marée déferle !{B1}{AC}",
+      "previous_message_sha256": "a3e4b005083b6d94c593577c9e7584118a636c352693c547328caed9d3670515",
+      "source_message_sha256": "0cbe2a00cd61eff74606f8fb21412a02af2be765fc365936c74ac15a1fdfdaf0"
+    },
+    {
+      "id": 215,
+      "french_plan": "{BD}Mais {B8} esquive le raz-de-marée !{B1}{AC}",
+      "previous_message_sha256": "2b161acb29acd2960ff6dd0ca2c072c31f1d48d7f3c1dd78c41a68469052e232",
+      "source_message_sha256": "27e3ef99c12f0679a91a2329fd617141c76ef79781ed192d7ba7b63a22e9550e"
+    },
+    {
+      "id": 216,
+      "french_plan": "{BC}{B7} attaque sans se protéger !{B1}{AC}",
+      "previous_message_sha256": "c224f17b4c1dc577fc950db76648888311cd2871c1d7f6f9f0122ee00b0032fd",
+      "source_message_sha256": "e62decf00b3cc9ac1d7bd0da5448fbabd7cb7bf80a1ff31c551e22b7ea5c67fa"
+    },
+    {
+      "id": 217,
+      "french_plan": "{BC}{B7} vise un point vital de {B8} !{B1}{AC}",
+      "previous_message_sha256": "802d6152fd241eebe40f98f491b28139961d6133bfcfd4af02c8b74e0218352e",
+      "source_message_sha256": "dfc32275176ca686a6de7e74319156e4c7c0538396bf6f3d3e1f59d88b9227ff"
+    },
+    {
+      "id": 218,
+      "french_plan": "{BD}Un point vital de {B8} est touché !{B1}{AC}",
+      "previous_message_sha256": "b3548d36fc5e9be4b0739be07c22ef19da92cfa25192e369308079f9f582dbf3",
+      "source_message_sha256": "c3814f7453ef7a0080aa5e835ce0e5d81c061b870d43c0120b35a882ebb5ba5b"
+    },
+    {
+      "id": 219,
+      "french_plan": "{BD}Mais l'attaque manque sa cible !{B1}{AC}",
+      "previous_message_sha256": "da9212b5568f7bb098126a7a4b6a24f360666ef13e3935190609dd7ed7016da2",
+      "source_message_sha256": "1c2b430ceb14454efdf5d0281dd99c76cd21d584fb4504bc51ca053682568583"
+    },
+    {
+      "id": 220,
+      "french_plan": "Raté ! Aucun dégât infligé !{B1}{AC}",
+      "previous_message_sha256": "6089c8206fd489077d3f4d793fee4c8c0c75298c5751e5135190f72bfdae2d13",
+      "source_message_sha256": "61a4a9b4689bb99b9b575081ebdb73e11f07a4b5ca7f3ee8f5e846ec4c19c2bf"
+    },
+    {
+      "id": 221,
+      "french_plan": "{BC}{B7} frappe avec la force d'un démon !{B1}{AC}",
+      "previous_message_sha256": "67a038259d446c655ed8c47fc6ddcd37a2656b4b879ddd9e347188cb86ba6aab",
+      "source_message_sha256": "1c8c677b6262067ee295fa7ced7535794f780dfa2e1129445a8ffe2bb91f2e07"
+    },
+    {
+      "id": 223,
+      "french_plan": "{BC}{B7} frappe à la vitesse du vent !{B1}{AC}",
+      "previous_message_sha256": "75e5ac7d1de6cf060d5f8d881a14ba01a54f6ca13db75ed011559e0e820c96ae",
+      "source_message_sha256": "a99018f77544d2c2ece4f946960ab2dad17a224411b2dcee6ea8b74b9935e651"
+    },
+    {
+      "id": 224,
+      "french_plan": "{BC}{B7} fléchit les jambes et porte une estocade !{B1}{AC}",
+      "previous_message_sha256": "1d412ff1af695596abb89ee17dcc5e43affe9d37585f20a5b58d47ce0161fa06",
+      "source_message_sha256": "0e4cf9e4a0c4ecbf5f76e652cfd18d78f2c401734fbd839978778c38a44eaa4a"
+    },
+    {
+      "id": 225,
+      "french_plan": "{BD}Raté ! {B8} esquive !{B1}{AC}",
+      "previous_message_sha256": "2b161acb29acd2960ff6dd0ca2c072c31f1d48d7f3c1dd78c41a68469052e232",
+      "source_message_sha256": "cd89d79080d919203c73ace5d425dd5dd18e8e468a60f5034d2eba08cf2fa8c2"
+    },
+    {
+      "id": 226,
+      "french_plan": "{BC}{B7} tente une projection sur {B8} !{B1}{AC}",
+      "previous_message_sha256": "f94d3a7efe4bb881be7772fd79594f6a4080224355b8626010cc857dc1f1d51b",
+      "source_message_sha256": "7462d6b09d24e087dda2bca3644dde7bdf42c3ac3dc651a138f235860ac3f06a"
+    },
+    {
+      "id": 227,
+      "french_plan": "{BD}{B8} vole au loin !{B1}{AC}",
+      "previous_message_sha256": "eb262e984b6bd507af180965a0ffa450ae98bd4f623c9bd773236da8afbaf21b",
+      "source_message_sha256": "df357174750a740ef7cc0139d131079f54c8ac09c74281b5f2b961598dbad6b5"
+    },
+    {
+      "id": 228,
+      "french_plan": "{BD}Raté ! Impossible de projeter {B8} !{B1}{AC}",
+      "previous_message_sha256": "e8b5cc74783163dc721c9ca945685baaefd98f97ae09502c00bf68cbb57903ad",
+      "source_message_sha256": "3a0d73410d27e191c8c5dd3dcf3569741c6034454ddd16f49444e311acedcb89"
+    },
+    {
+      "id": 229,
+      "french_plan": "{BD}{B8} vole au loin !{B1}{AC}",
+      "previous_message_sha256": "2992cb0ee3652053f924b5cc51c527f194794e07205eeef962dcedc9c86db5d2",
+      "source_message_sha256": "88ecbe1fa160952d63972ca48e537f2aafee90997dc4052ed61a840e7b970419"
+    },
+    {
+      "id": 230,
+      "french_plan": "{BC}{B7} se prépare à toute attaque !{B1}{AC}",
+      "previous_message_sha256": "e0403fd87fadd3f3926b6dfae03ec34dc4327f0a5cf5c36762e3ab6dfff7c69a",
+      "source_message_sha256": "98d52d683d05352c7d323fb403ed1e6401755a1ca2b2ce33d869e2e2d4b8e08a"
+    },
+    {
+      "id": 231,
+      "french_plan": "{BD}Un fin mur de lumière apparaît devant {B7} !{B1}{AC}",
+      "previous_message_sha256": "97a9c98b31bc38fe24c86227141fb563fde9458be3e7ce54d72429439e35e87f",
+      "source_message_sha256": "63be51ad00580bb40b5bbe7b0455fd21f46023df6f492bd7d76f2a7e563b3bf1"
+    },
+    {
+      "id": 232,
+      "french_plan": "{BD}Le mur de lumière disparaît !{B1}{AC}",
+      "previous_message_sha256": "107b4acf031c1443ff181452b3c1e3e2cfa0bd9af773666fb7dbe6882bbcc874",
+      "source_message_sha256": "1434bc0a6e632e83ec8dd4e826b4f3b26616d53ff3c69474cb075a9f4ccf27d4"
+    },
+    {
+      "id": 233,
+      "french_plan": "{BC}{B7} déclenche une riposte !{B1}{AC}",
+      "previous_message_sha256": "bf2d030f8a85c48e559dc687d44d37915845badb3cd85b28442a80e32660a59f",
+      "source_message_sha256": "d52db61836fa45c92dacdbc8d1a38db35de567135feebbf94256618465bc4ec4"
+    },
+    {
+      "id": 234,
+      "french_plan": "{BD}La riposte entourant {B8} dévie {B2} !{B1}{AC}",
+      "previous_message_sha256": "92ed71dfb64a6d0c8e71173d8d7fc748257490b3b4ab8f1909833ec89b70d6f1",
+      "source_message_sha256": "c91ed9caebb927efb2ad29bdc20e32ee6b992029e57da49e5adac85e44f681d8"
+    },
+    {
+      "id": 235,
+      "french_plan": "{BD}La riposte retombe !{B1}{AC}",
+      "previous_message_sha256": "5c8ba696a9fd503730ebfab35fd07b8f756f5a9807baf2c1583a5125ccaee7cd",
+      "source_message_sha256": "715a33d7c559408aac8f2b3dd844dc383e092bbf7efd3b4a33d9120b857f8573"
+    },
+    {
+      "id": 236,
+      "french_plan": "{BC}{B7} crache une boule de feu !{B1}{AC}",
+      "previous_message_sha256": "ecdf6423d06eaf1d2ee955862edb3a4370b7a520b643b0087fafa4d31bbc256a",
+      "source_message_sha256": "f7a0739d0895e6267cf22082a6525366094799b91123d2acc82c840f658ac7ad"
+    },
+    {
+      "id": 237,
+      "french_plan": "{BD}Les flammes forment une colonne ardente !{B1}{AC}",
+      "previous_message_sha256": "9683c38d0697257590edafaff6d26aed3488715322194ba8eace0b14ef27d866",
+      "source_message_sha256": "5171d8187227fe5c7b55604197b1d6c28e932ab12a7f52e89935486ab69d6ddc"
+    },
+    {
+      "id": 238,
+      "french_plan": "{BC}{B7} fait jaillir du magma des profondeurs !{B1}{AC}",
+      "previous_message_sha256": "575431a787ee2a62c35667917fda81e0d2440e7e3fc2999f32af80a3d869a3e0",
+      "source_message_sha256": "d8c702f5b6e7be9932764c62f5e09a47ab259a7280f57d14d2100a63b04dd14c"
+    },
+    {
+      "id": 239,
+      "french_plan": "{BD}Une mer de magma entoure {B8} !{B1}{AC}",
+      "previous_message_sha256": "2622e71b9860e1749c8d1086dc5a5512944bc6599c7877dc39e7c1878e2636f8",
+      "source_message_sha256": "d9796159a2ddf5ab83c5cfda39a744097dff08e20b0848138bef6b001d751b8d"
+    },
+    {
+      "id": 240,
+      "french_plan": "{BC}{B7} frappe le sol !{B1}{AC}",
+      "previous_message_sha256": "70d9fb4f08f0b08e98738a0d76694655696f68fbb5c2fbcc60411a8d7471c544",
+      "source_message_sha256": "792afc5b25b159eda0adffc40076e4ed796daea93149caf473b9bef7f7067256"
+    },
+    {
+      "id": 241,
+      "french_plan": "{BD}La terre tremble et le sol se fend !{B1}{AC}",
+      "previous_message_sha256": "eaac432efbf3232ddce6d4fb2451b27d3669f96880a31a28759da6c3a673a0b3",
+      "source_message_sha256": "66402792b541c71b2fa0eef245f3461a20f28aaf910116acd41200273074f697"
+    },
+    {
+      "id": 242,
+      "french_plan": "{BD}{B8} disparaît dans une faille !{B1}{AC}",
+      "previous_message_sha256": "7c29f126a92d89040ce975e3260e326964f542bcfdea5f1eef64eea52070e062",
+      "source_message_sha256": "e508de7c1dd5bcec1f83ddb30792285b9e653fc9191e5f76f3515f2b2ac754f4"
+    },
+    {
+      "id": 243,
+      "french_plan": "{BD}{B8} saute pour éviter la faille !{B1}{AC}",
+      "previous_message_sha256": "0144f30fb540668c02186638783f10a2b594eafed7eacf39fe1d8cae0a98335a",
+      "source_message_sha256": "c59712f1fedf6d0f9df38c7da350a2571b362982e4b859e1be057f4cf784394a"
+    },
+    {
+      "id": 244,
+      "french_plan": "{BC}{B7} frappe violemment du pied !{B1}{AC}",
+      "previous_message_sha256": "602ee436a2ac9669c54507967d02c668aa1ca76bfabb2bfdd56d7bf218434abb",
+      "source_message_sha256": "40c1400f238745dad8b37052d13002a8f25a549c24aa3f1756dd2215f93907dd"
+    },
+    {
+      "id": 245,
+      "french_plan": "{BD}La terre tremble violemment !{B1}{AC}",
+      "previous_message_sha256": "8cf52089bf929a284cf2802409d7e0ded722393a48500213ed952cfa7024d9d7",
+      "source_message_sha256": "bd164597a3b6dedc8c8caffa82af42d1aa48b4131b8464baf0c815180c59a7c5"
+    },
+    {
+      "id": 246,
+      "french_plan": "{BD}Mais {B8} tient bon !{B1}{AC}",
+      "previous_message_sha256": "896a45838921fa291bb410b7549a17af50c2b3612ac0139d31f741ef51ecefc8",
+      "source_message_sha256": "77d105087edef2a72b2170b08ae174f7333fc631719c8774483cd16c16f88b08"
+    },
+    {
+      "id": 247,
+      "french_plan": "{BC}{B7} déclenche Mégabanga !{B1}{AC}",
+      "previous_message_sha256": "e75c4576921a4de5001c9d3d967c71994225bf93501ef831be6846c22d73da64",
+      "source_message_sha256": "d547e774de99886028873335347a46e48d6ec5d06ab3689f385d83f8e0288d0c"
+    },
+    {
+      "id": 248,
+      "french_plan": "{BC}{B7} ramasse une pierre et la lance !{B1}{AC}",
+      "previous_message_sha256": "fac2ed539065ba271e6651227dc415999c83e68e685ca35b9360f6e6231f04de",
+      "source_message_sha256": "2d679be90423e8ddc7b2989317f1d3c1ae212014d54969fe0c0b9148ddc07b1c"
+    },
+    {
+      "id": 249,
+      "french_plan": "{BD}Mais {B8} esquive les pierres !{B1}{AC}",
+      "previous_message_sha256": "e160b9ee89b40372241a700f0f426c9241b3f29bea2e20d6d8427dff063602aa",
+      "source_message_sha256": "d0b10d041da8a2f74e3fc8f9e826a75efcabf48f31ccfbc6f67868650b40d92c"
+    },
+    {
+      "id": 250,
+      "french_plan": "{BC}{B7} lance des rochers !{B1}{AC}",
+      "previous_message_sha256": "63b1edc392863e892c05c1d5e5b31edcd228f55e7e5e6d94064e3e965d117970",
+      "source_message_sha256": "ba7a90dc78a11e32762c69ee424cc2bb071b490527e0031b6fae5f98a64fe774"
+    },
+    {
+      "id": 251,
+      "french_plan": "{BC}{B7} prie et fait le signe de croix !{B1}{AC}",
+      "previous_message_sha256": "2806261ed21dd9d70c6b06c87817d7751b9d7a3a2e14db7eefe962c62a801abe",
+      "source_message_sha256": "6f5ef65848b1bbb979c4870d2e2134f297f537e26bd631697362c179fe009d40"
+    },
+    {
+      "id": 252,
+      "french_plan": "{BC}Une croix géante de lames de vide frappe {B8} !{B1}{AC}",
+      "previous_message_sha256": "873a6463dc094994ffcdf63c028f6137d2fde1ace8de37c5ff61483ec05cf697",
+      "source_message_sha256": "b5fa94860553a54cd6439aa4599e6eafd666116cad69736b17f0f0e903d15ec4"
+    },
+    {
+      "id": 253,
+      "french_plan": "{BC}{B7} libère toute sa puissance magique !{B1}{AC}",
+      "previous_message_sha256": "b0b72de03a52f927f6db2a51bbf7511d9c46df04fbb081c707a836a06c732b7e",
+      "source_message_sha256": "015a31c649383a88604ae3ee5f0858faa6702fa628a3691554adfa81ee9bc69c"
+    },
+    {
+      "id": 254,
+      "french_plan": "{BC}La magie déchaînée provoque une explosion !{B1}{AC}",
+      "previous_message_sha256": "1509318343ceea90d46f3bd3153ad075799ed690766f92d825a15858a441ab4f",
+      "source_message_sha256": "c842f3c124841b8b620da726770c403ef84edcf4a15adf87314b881815ee7774"
+    },
+    {
+      "id": 255,
+      "french_plan": "{BC}{B7} invoque la foudre des enfers !{B1}{AC}",
+      "previous_message_sha256": "47766fa7276062c9021c9a572ee8017374c3fb064d8f8c6861f5f31b5ea6b01d",
+      "source_message_sha256": "8e2c5010cba87de7ed376e7535b34f363e45723172dd5360e540f3100193c4af"
+    },
+    {
+      "id": 256,
+      "french_plan": "{BC}La foudre des enfers balaie les alentours !{B1}{AC}",
+      "previous_message_sha256": "5933dcb7ada4525041d83341a5494c58f0df4bd8d3ff0c439e16bc6a33033e2d",
+      "source_message_sha256": "85bb4822c23b31fe4831a96e7d03f8e6aca0ded1008808e4a2ba4413846bab85"
+    },
+    {
+      "id": 257,
+      "french_plan": "{BC}{B7} saute très haut dans le ciel !{B1}{AC}",
+      "previous_message_sha256": "a5f84eac41603ed949a684882008927431005fcfa6dd3e83e761561964a27a88",
+      "source_message_sha256": "e68bcc842f65ebf15af4ec5f87079575416546606b10fc5acf8cf662a0703c20"
+    },
+    {
+      "id": 258,
+      "french_plan": "Une attaque tournoyante s'abat sur l'adversaire !{B1}{AC}",
+      "previous_message_sha256": "1646c9e7ba8be04d5502a8270abbc2c01d5d8cca3570244ce9fd6ee5e3830153",
+      "source_message_sha256": "48fd460bbae6a354054783dc6c4f33155cb624e8f145f582316aec4dbf02d251"
+    },
+    {
+      "id": 259,
+      "french_plan": "{BC}{B7} fonce sur {B8} sans se soucier du danger !{B1}{AC}",
+      "previous_message_sha256": "063ea2db6406b71633372a291e64ee2b132560f83abf38dd4809a9389d0053ee",
+      "source_message_sha256": "b5cc82845f45cd9db3ea25f8bacd7688db0ff3713663405e2a4aef711db9de1b"
+    },
+    {
+      "id": 260,
+      "french_plan": "{BC}{B7} lance un appel aux armes !{B1} Une armée mystérieuse surgit de nulle part !{B1}{AC}",
+      "previous_message_sha256": "7f02563e6096693411fa84f679c5fe24269038ccf829a6ae9aad992246a1671e",
+      "source_message_sha256": "ac65c647dc6e0231d0fd35a2267aa37c99d59ac62d761329ca8dc47ab8de7bf0"
+    },
+    {
+      "id": 261,
+      "french_plan": "{BC}Mais l'argent manque ! L'armée repart !{B1}{AC}",
+      "previous_message_sha256": "39e350e1ab633118545a50fbdd41f1da1615e518353758bf18b9aacd4e3c9fc7",
+      "source_message_sha256": "f5629fb598bc9b0a4c7ab24996dc8d6a0e5fce8df479abb78457623beb38b93c"
+    },
+    {
+      "id": 262,
+      "french_plan": "{BC}{B7} adresse une prière aux esprits de la terre !{B1}{AC}",
+      "previous_message_sha256": "5f7b91b69b8cfb7cce04240e0d5b3796b46f41908248b14ceca260fe63a346bb",
+      "source_message_sha256": "63802b764d5a43c127e4574dd043fb18eb699b5202962a41346472459b201343"
+    },
+    {
+      "id": 263,
+      "french_plan": "{BD}Mais rien ne se passe ici !{B1}{AC}",
+      "previous_message_sha256": "72bdccc39386661d8ec52726ef140ece0e031bb2e72df52f46856fde6301ea89",
+      "source_message_sha256": "d1b6a1cf613438d44114e492028a9dbb0f5ed35c2787e7f882d9414377cfc9ce"
+    },
+    {
+      "id": 264,
+      "french_plan": "{BD}Mais c'est un échec !{B1}{AC}",
+      "previous_message_sha256": "81574c28b0cf6fb79d0c43e29cf80ee786ba9d8c0fa26b5d1c6ca1cc3ac4d42c",
+      "source_message_sha256": "4a7f1b269ed6a29e395765308a1da92a3a297f6261f19ea5e0989d8c6978adac"
+    },
+    {
+      "id": 266,
+      "french_plan": "{BD}{B8} semble apprécier !{B1}{AC}",
+      "previous_message_sha256": "40d21b658e90ef05de148293abcfc30bdc3b40275e2f622a837d4abb72ac8e1a",
+      "source_message_sha256": "c5d5859a1269c5ae2aac1f7b9b78bb1959d105dbe15532e3fc7739e5333c0332"
+    },
+    {
+      "id": 267,
+      "french_plan": "{BD}Mais {B8} repousse la tentative !{B1}{AC}",
+      "previous_message_sha256": "a2afbc9455e9c9956b6b6eb57adf4e1bcc477d6827b7b292242403392ba47328",
+      "source_message_sha256": "279c045c2ee871ec4a22eeff3ef9bee3c363a94fe634597635c067ca45f7fb81"
+    },
+    {
+      "id": 268,
+      "french_plan": "{BC}{B7} semble sous le charme...{B1}{AC}",
+      "previous_message_sha256": "fcca6fc863d5de4d14cf2f2f6f55dcd9ae2d47b717a51be2fb8493855b6d6d5a",
+      "source_message_sha256": "b94819775d54f60368e72fed3a7808cd103741ece4d44749343633a0af27c0a6"
+    },
+    {
+      "id": 269,
+      "french_plan": "{BD}{B8} semble sous le charme.{B1}{AC}",
+      "previous_message_sha256": "d0c8b6e199a396be3931f5ce5a03f35d0e982e312909214560c2fcea41512df1",
+      "source_message_sha256": "62731ea57305c4aaa616a6af993e37288abbabcc051ba544cd170baef133c4aa"
+    },
+    {
+      "id": 270,
+      "french_plan": "{BD}Mais c'est désagréable !{B1}{AC}",
+      "previous_message_sha256": "4dff83d6c189b78a5e19d13f5748ac0864dafdf39e3334c3454dd144db10df3e",
+      "source_message_sha256": "fba13142610bfbe103588c592be187bc3cbe0e793088f44d513855ded1d8925c"
+    },
+    {
+      "id": 271,
+      "french_plan": "{BC}{B7} se transforme en un monstre géant !{B1}{AC}",
+      "previous_message_sha256": "3ae3661bb71902b15e802cc18a5a4c140ce4af40376add5720dbf3c60e7e1568",
+      "source_message_sha256": "9bfedc4178e78962b2cfeafd53ba745e4186d90a08ea516b62d3576f76a5aab7"
+    },
+    {
+      "id": 272,
+      "french_plan": "{BC}{B7} observe la situation.{B1}{AC}",
+      "previous_message_sha256": "466edaeb725b5d5259a215e1ef9ccafac20247fb0d3fd646d573751a160668d6",
+      "source_message_sha256": "de2590439c532281ce850bfdfb7ba505aae7fd15f15619a8bda143a319e87693"
+    },
+    {
+      "id": 273,
+      "french_plan": "{BC}{B7} regarde dans le vide.{B1}{AC}",
+      "previous_message_sha256": "5ed7a0f1f9157970b9ab1f278c539cae70b61e3115aa3e43977d2710f7ce91bd",
+      "source_message_sha256": "bdb932c27f5757076f4ee8a7d1ad5634318e7e8a3342ad9598814988770bb643"
+    },
+    {
+      "id": 274,
+      "french_plan": "{BC}{B7} ne sait pas quoi faire.{B1}{AC}",
+      "previous_message_sha256": "83814a8aad89a3bd94dc03f9740480b86a629a066780ba7eb92330871abcc958",
+      "source_message_sha256": "9e0d5b06bef8f95df09ea351f7aec341f1566f992e17d52dfd75236b7f368fbb"
+    },
+    {
+      "id": 275,
+      "french_plan": "{BC}{B7} sourit de manière inquiétante.{B1}{AC}",
+      "previous_message_sha256": "03077fe6f3d32209e63f7630458a018037853427761b59c5a99adbd2a9adbcb3",
+      "source_message_sha256": "dad285e553ae21c49c87b7789f626d29c0e2ae841a96e5be845b5af80a6bcdf9"
+    },
+    {
+      "id": 276,
+      "french_plan": "{BC}{B7} ricane.{B1}{AC}",
+      "previous_message_sha256": "af68ba2b8605ad6ef73d55612c1959a2fec18699364f092a46d998212759d93c",
+      "source_message_sha256": "4d1d1b0e8a062ec52ab2e9aec7cd3e82f888202558397c5142eb6d6154dae445"
+    },
+    {
+      "id": 278,
+      "french_plan": "{BC}{B7} vole en éclats !{B1}{AC}",
+      "previous_message_sha256": "fc2f463291c0b6af0988a78535348b8278ccae2adde4a71b2b2151350b78341c",
+      "source_message_sha256": "b6125446f3d8b780bb026e523d77de44464b2679e7daa5f0406c173ff98fe837"
+    },
+    {
+      "id": 279,
+      "french_plan": "{BC}{B7} protège {B8}.{B1}{AC}",
+      "previous_message_sha256": "8d82d5eca440354b625475ca3af505fba16abb674d54577395016a5915a621d0",
+      "source_message_sha256": "ab63014c85a0e01ed5209c62b187b3a9df8f49aedab2dc374b3389ef0ec2c7e9"
+    },
+    {
+      "id": 280,
+      "french_plan": "{BD}{B7} protège {B8} !{B1}{AC}",
+      "previous_message_sha256": "068bdd3fd8086550360c2159481abd70151d903413358326d653b1c2b3634907",
+      "source_message_sha256": "25cea7af58bc36f917b54b473f3f3b48ac3e76e172e40786596010038e0479f0"
+    },
+    {
+      "id": 281,
+      "french_plan": "{BC}{B7} se place devant l'équipe et encaisse les attaques ennemies.{B1}{AC}",
+      "previous_message_sha256": "6f2e94a8082a11e6ebb2d4de7fd6b29dfe99f0b9271560e34ebc7ae9bd66426b",
+      "source_message_sha256": "fcfc322c407f0fa0fa05c99aef06b7d70a3ccb895f9989be3854cc17060daee1"
+    },
+    {
+      "id": 282,
+      "french_plan": "{BC}{B7} demande du renfort !{B1}{AC}",
+      "previous_message_sha256": "7cc34ab03b86ceebf1cb716fa2206ffb598c77a78f3aab9fb3fb369392eb6454",
+      "source_message_sha256": "fbcab4427980eab177c4787916c4b9c9e9b9c81ed07e2893016dec057d5190c8"
+    },
+    {
+      "id": 283,
+      "french_plan": "{BC}{B7} appelle à l'aide !{B1}{AC}",
+      "previous_message_sha256": "3dbb844a65415fdb08b6bec56e973524961063075bfb948726948addd501e0f0",
+      "source_message_sha256": "17284a0b5e4f9aae97fee8836bc67e7beab316c8ac8693cb10dfcdba487033bf"
+    },
+    {
+      "id": 284,
+      "french_plan": "{BD}Mais personne ne vient !{B1}{AC}",
+      "previous_message_sha256": "d6b7778ac2f106a163eb6d2fbf6118035e7073d89ac02aaf507dacb4be10bb1b",
+      "source_message_sha256": "45ee030ef487d3457699f04cd2ba3e864ba09f5bccb7cd90151204987b7f536b"
+    },
+    {
+      "id": 285,
+      "french_plan": "{BD}{B8} apparaît !{B1}{AC}",
+      "previous_message_sha256": "a3a8807ef8ed4ecc3bddd8b60cbdd8b1c5e8bc02324c754c22511cac3c00132b",
+      "source_message_sha256": "20b8a2d9a8d951ec11738399b303e7ea3a689877b8672db3a3cee2bc28be133a"
+    },
+    {
+      "id": 286,
+      "french_plan": "{BC}Une voix venue de nulle part appelle {B7}...{B1}{AC}",
+      "previous_message_sha256": "8bdd32c5a442971a92dbd2758b8b888713017a72f754425359f4aaa8aa8d5e07",
+      "source_message_sha256": "cef1674210f36687e51f191f00761e32980cf118a5d41c82ba1e4689d58457c1"
+    },
+    {
+      "id": 287,
+      "french_plan": "{BD}{B8} part au loin.{B1}{AC}",
+      "previous_message_sha256": "9ac7f44b9c5921976ef68dac71818f94f58f6c6824bf616e84b3165cffa8482b",
+      "source_message_sha256": "37e22b04fb7ab94a532375386d1c4df66b7c965eeee3bc0e8edab149e26a2823"
+    },
+    {
+      "id": 288,
+      "french_plan": "{BD}Mais personne ne vient !{B1}{AC}",
+      "previous_message_sha256": "b5a36d877e5a06e2a6f202d45446c21f793dc36cf3de7fa2a5bbec04797586fc",
+      "source_message_sha256": "f3f3b9a0d36153285df3ac2980c8ba357a2509b055928a97d19153a56cca76d5"
+    },
+    {
+      "id": 289,
+      "french_plan": "{BC}{B8} apparaît !{B1}{AC}",
+      "previous_message_sha256": "dde043e6d7dc69df828b080c9656b0b72414aef37ba322c7f60f0a17e8312618",
+      "source_message_sha256": "492f0304565ee9863cb15630b2f781364ea8e8a56726569be030375b592dfa6c"
+    },
+    {
+      "id": 290,
+      "french_plan": "{BC}Mais personne ne vient !{B1}{AC}",
+      "previous_message_sha256": "af4228cf4a3ef2db196ea2e753f1aba3db18ac4f7cf7dc86d25abd8b0127c8eb",
+      "source_message_sha256": "c4b51829686910b27b2428dca6b5c660fb24cc128c565194dc5e8b0af3ba985b"
+    },
+    {
+      "id": 291,
+      "french_plan": "{BC}{B7} appelle ses sbires !{B1}{AC}",
+      "previous_message_sha256": "7cc34ab03b86ceebf1cb716fa2206ffb598c77a78f3aab9fb3fb369392eb6454",
+      "source_message_sha256": "9b917fcd0dedfb237f74b575d96ad073c1206342f450322b4975413e8b778e9b"
+    },
+    {
+      "id": 292,
+      "french_plan": "{BD}Voici que {B8} apparaît !{B1}{AC}",
+      "previous_message_sha256": "3a66e97b024dda6b2a123cfaa9e3bf8488a377661ed2c8c1901dcff62a674403",
+      "source_message_sha256": "906d7f02fd31e3cc7bfd92145723ac478ea9a5c76d1289fd0774207666da9130"
+    },
+    {
+      "id": 293,
+      "french_plan": "{BD}Mais la prière reste sans réponse !{B1}{AC}",
+      "previous_message_sha256": "53e57a2c8ce15a39104cb4282398d506eeccfc973923d34d7eb6c1aa0fdabdff",
+      "source_message_sha256": "834414fce54a979551cea0bcdbf085594084712fa8b6f12af6ba89cdadcce59b"
+    },
+    {
+      "id": 294,
+      "french_plan": "{BD}{B8} apparaît et rejoint le combat !{B1}{AC}",
+      "previous_message_sha256": "0533824217ae4628c571780c67c5b2f9c965e596a9767d7e7a7150146ec2704e",
+      "source_message_sha256": "a715af2f46937763d44c1298367bd0b5dce8868c6c4e74e59f5803f9f3f67c57"
+    },
+    {
+      "id": 295,
+      "french_plan": "{BC}{B7} appelle ses sbires à grands cris !{B1}{AC}",
+      "previous_message_sha256": "7cc34ab03b86ceebf1cb716fa2206ffb598c77a78f3aab9fb3fb369392eb6454",
+      "source_message_sha256": "d43884a5b6e00699d5976e39a03c510beed0328565a224cd1436490776424fe5"
+    },
+    {
+      "id": 296,
+      "french_plan": "{BC}Le corps de {B7} émet une lumière étrange !{B1}{AC}",
+      "previous_message_sha256": "fb57dafbf9ebc7887fdf3945bb77b32211c93f0c93d54ed1b8af83b09aacce8d",
+      "source_message_sha256": "e9fd3c7b91814ecb5424d8d0f7304bf88e0f44fe93c065fbbee784fe340d16b4"
+    },
+    {
+      "id": 297,
+      "french_plan": "{BD}Une lumière étrange enveloppe {B8} !{B1} La résistance magique de {B8} baisse !{B1}{AC}",
+      "previous_message_sha256": "92dc6ce7ba3425f5958ce040159a28a22736c805708f1bd3d1f6c0c76007fd40",
+      "source_message_sha256": "6e7a109670956f4883e8f32e5a7219db4b1ceff694641ec62435e5f8f40dcdf6"
+    },
+    {
+      "id": 298,
+      "french_plan": "{BC}Le corps de {B7} émet une lumière aveuglante !{B1}{AC}",
+      "previous_message_sha256": "3bae00b9d14bbbea2fe2fe6fc0422e476dd2cfc95dcda928466b723dd55a660c",
+      "source_message_sha256": "61e3b49d63a19dd5ad78b21e858a29a45b20742728a740b3b89ce2a44d47d680"
+    },
+    {
+      "id": 299,
+      "french_plan": "{BD}{B8} ne voit plus rien !{B1}{AC}",
+      "previous_message_sha256": "4f12279c390fab3d1c6544e083da81ee3753600756e4f7eda7420239ab802268",
+      "source_message_sha256": "868ed41d3976c0bb5bd6189b82e6d197b3f8b6bb891c976a4cc025c808fa35f3"
+    },
+    {
+      "id": 300,
+      "french_plan": "{BD}{B8} ferme les yeux pour esquiver !{B1}{AC}",
+      "previous_message_sha256": "4bac20d1a4a1eed9c8c7ddc36dbea356dc35ffd2461c953f3d45796d62771588",
+      "source_message_sha256": "a34f0f26f3dc71752c4a8408837cb72a4639ee8b25b6afad532f226df369f4e5"
+    },
+    {
+      "id": 301,
+      "french_plan": "{BC}{B7} émet un éclair inquiétant !{B1}{AC}",
+      "previous_message_sha256": "dece3554a4262c8cadaf7dde6d55d2285086bad469806c94a810da10228ca7ad",
+      "source_message_sha256": "f6f33a09efde855fdf290fa51f83ffc0c0535a5b218508568f2cae790ddcbcdc"
+    },
+    {
+      "id": 302,
+      "french_plan": "{BD}{B8} esquive rapidement !{B1}{AC}",
+      "previous_message_sha256": "b620684a45dc67b25f82d061c60221ea4e71a70d159b1e774448eb2e9348387a",
+      "source_message_sha256": "3309a05a4d1674391254cefac5635d3e7d6163c7f89ab5d17bf66100b4a85b28"
+    },
+    {
+      "id": 303,
+      "french_plan": "{BC}{B7} se met à méditer en silence...{B1}{AC}",
+      "previous_message_sha256": "2843983646a2d6d9ac367d534ee149844d06a5ac1a898e4af2b36d71b2ed6708",
+      "source_message_sha256": "8080336246a087b67ebdaf286ddcd2aafc7856b1138c4a27426f16b41c6de70c"
+    },
+    {
+      "id": 304,
+      "french_plan": "{BD}Les blessures de {B8} se referment rapidement !{B1}{AC}",
+      "previous_message_sha256": "b9c212a03d1fb723cdb97cf2b4aa5c813ce659fc4238daabe00c5c6f8d7e1eba",
+      "source_message_sha256": "4334de2a0fd73acf524de5873a124fe729697aa8986bd4c5fe1ab14238910479"
+    },
+    {
+      "id": 305,
+      "french_plan": "{BC}Une brume noire sort du corps de {B7} et envahit les alentours !{B1}{AC}",
+      "previous_message_sha256": "2069d56325ab93d8bebbf8b1e577e5bd65012dd67cafdc914ebe015e37fa67d2",
+      "source_message_sha256": "186aae585f5a908f90b982f6e81b1bcb8b89fd54af81b3705df73da18e2002e4"
+    },
+    {
+      "id": 306,
+      "french_plan": "{BC}Une vague glaciale jaillit des doigts de {B7} !{B1}{AC}",
+      "previous_message_sha256": "9c6f4e0d1f9e3951cc8f1f69083d8e0514e344a7776583b0d8d479d60b0c69ad",
+      "source_message_sha256": "70cac8d8b3293be19b8f167cf0e602d2c48d8f17b36d753ad3f7e06bdb90f8c9"
+    },
+    {
+      "id": 307,
+      "french_plan": "{BD}Les effets magiques qui affectaient {B8} se dissipent !{B1}{AC}",
+      "previous_message_sha256": "a5870a5089d78354b55472a32c4261ac5743d5fc9374b3f5075154a57d95f274",
+      "source_message_sha256": "178f4876c6c8fd8b89ad2ddfe69045f85c48416df9a4bd4725f5ee2f518df44e"
+    },
+    {
+      "id": 308,
+      "french_plan": "{BD}{B8} reprend sa forme initiale !{B1}{AC}",
+      "previous_message_sha256": "02d47a0a5949fafee1c72b8cb993e565e3eb34a0ae5a7a0fb9f5872a020891a3",
+      "source_message_sha256": "25e198a7e040c910ffef8c734c034f8c457f2603bcc22a2488020831b2639206"
+    },
+    {
+      "id": 309,
+      "french_plan": "{BC}{B8} fait le tour du chariot et en ferme la porte !{B1}{AC}",
+      "previous_message_sha256": "751c82ec2e4feb95140fd16bc352f0683c28be12d4524e6405362b20ac9cb435",
+      "source_message_sha256": "6a58980c2200c59c018aa56ff34362f8d23d61474c685da221f05f0ab0e010b6"
+    },
+    {
+      "id": 310,
+      "french_plan": "{BC}{B7} tient la porte du chariot fermée !{B1}{AC}",
+      "previous_message_sha256": "79a57017d116d215298b1ebbcf2666c9bc7bd43f0c5c0146e1a96a7af41a0ea2",
+      "source_message_sha256": "4dcc123bea7add19592bf59f3354b3f8e4e9c6f494217bd31a3a94cae759fe49"
+    }
+  ],
+  "legacy_command_corrections": [
+    {
+      "id": 24,
+      "audit": {
+        "previous": [
+          "BC",
+          "B7",
+          "BA",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BC",
+          "B7",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 28,
+      "audit": {
+        "previous": [
+          "BC",
+          "B7",
+          "BA",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BC",
+          "B7",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 29,
+      "audit": {
+        "previous": [
+          "BC",
+          "B7",
+          "BA",
+          "BA",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BC",
+          "B7",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 33,
+      "audit": {
+        "previous": [
+          "BC",
+          "B7",
+          "BA",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BC",
+          "B7",
+          "B8",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 34,
+      "audit": {
+        "previous": [
+          "BC",
+          "B7",
+          "B9",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BC",
+          "B7",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 71,
+      "audit": {
+        "previous": [
+          "B7",
+          "B1",
+          "BC",
+          "B5",
+          "AC"
+        ],
+        "source_and_new": [
+          "B7",
+          "B1",
+          "B5",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 91,
+      "audit": {
+        "previous": [
+          "BD",
+          "B8",
+          "B8",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BD",
+          "B8",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 98,
+      "audit": {
+        "previous": [
+          "BD",
+          "BA",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BD",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 99,
+      "audit": {
+        "previous": [
+          "BD",
+          "B7",
+          "BA",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BD",
+          "B7",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 122,
+      "audit": {
+        "previous": [
+          "BD",
+          "BB",
+          "B8",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BD",
+          "B8",
+          "BB",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "B8 cible avant BB quantité rétablis selon JP, sans bénéficiaire inventé."
+    },
+    {
+      "id": 157,
+      "audit": {
+        "previous": [
+          "BC",
+          "B7",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BC",
+          "B7",
+          "B7",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Danse des soins selon DS0801:269/271 ; deux B7 rétablis, sans voix DS ajoutées."
+    },
+    {
+      "id": 162,
+      "audit": {
+        "previous": [
+          "BD",
+          "BB",
+          "B8",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BD",
+          "B8",
+          "BB",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 202,
+      "audit": {
+        "previous": [
+          "BC",
+          "B7",
+          "BA",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BC",
+          "B7",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 210,
+      "audit": {
+        "previous": [
+          "BD",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BD",
+          "B8",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 234,
+      "audit": {
+        "previous": [
+          "BD",
+          "B2",
+          "B8",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BD",
+          "B8",
+          "B2",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "B8 protégé avant B2 attaque reflétée, ordre JP rétabli."
+    },
+    {
+      "id": 253,
+      "audit": {
+        "previous": [
+          "BC",
+          "B7",
+          "BA",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BC",
+          "B7",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 258,
+      "audit": {
+        "previous": [
+          "B7",
+          "B9",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "B7/B9 absents de JP, retirés explicitement."
+    },
+    {
+      "id": 259,
+      "audit": {
+        "previous": [
+          "BC",
+          "B7",
+          "B9",
+          "B8",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BC",
+          "B7",
+          "B8",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 267,
+      "audit": {
+        "previous": [
+          "BD",
+          "B8",
+          "B9",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BD",
+          "B8",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 284,
+      "audit": {
+        "previous": [
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BD",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    },
+    {
+      "id": 293,
+      "audit": {
+        "previous": [
+          "BD",
+          "BA",
+          "B1",
+          "AC"
+        ],
+        "source_and_new": [
+          "BD",
+          "B1",
+          "AC"
+        ],
+        "changed": true,
+        "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+      },
+      "specific_review": "Sens japonais et français DS disponibles relus ; contrôles et rôles SFC maintenus."
+    }
+  ],
+  "all_other320_native_messages_unchanged": true,
+  "previous107_translations_unchanged": true,
+  "main_unchanged": 6957,
+  "names_and_engine_unchanged": true
+}
