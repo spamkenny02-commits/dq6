@@ -1,0 +1,513 @@
+[
+  {
+    "id": 381,
+    "french_plan": "{BC}{B7} agite son arme dans tous les sens !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} agite son arme dans tous les sens !{B1}{AC}",
+    "source_message_sha256": "b9faec095828648003ef3c58356ddb73781fdae6245af052a0dac7604e9b780b",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 42,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4f5d7aada510e87b38c2db77deee613e57a35fcab933f9b52e8ecd958f0fced1",
+        "fr_text_sha256": "649ebbecf1424dd4f9013fbfe9420743a56833ac30393a35b581bcb17c0a1674"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 387,
+    "french_plan": "{BC}{B7} se recroqueville de peur !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} se recroqueville de peur !{B1}{AC}",
+    "source_message_sha256": "e6f1d02f86a400cf57a04994b45e3ee712179d78dd2118834c62e79127acf889",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 82,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4d3d8c196072b3fafb3efbdd2fa170d8d07b2705e57fecf6ebf61635cada4e50",
+        "fr_text_sha256": "313d6706569f937f7de814ff4aec7cd235e5b41a0ff3fd22e9b57cc6b26938c9"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 406,
+    "french_plan": "{BD}{B8} perd tous ses PM !{B1}{AC}",
+    "preparation_plan": "{BD}{B8} perd tous ses PM !{B1}{AC}",
+    "source_message_sha256": "b6ec98251ad3e14825b5f2fdbfd275c310786342bca74413f5c7f0c09208a9b4",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 98,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4fae0a130cee4638c8a2feea6a39cb7d5b939fa62ba3b8e644f9344b6c4c5e9c",
+        "fr_text_sha256": "a20f0b5a73c27521fa34ab7c9b9edfdb1d4e154a82cd8a2db8e6428f5a8efc48"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 410,
+    "french_plan": "{BC}Un vent glacial s'abat sur {B8} !{B1}{AC}",
+    "preparation_plan": "{BC}Un vent glacial s'abat sur {B8} !{B1}{AC}",
+    "source_message_sha256": "9f217e32f04212c59628ba92da4a4fae2fa9fd9d1b40dc49c80eb853c2b2ff3e",
+    "ds_references": [],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 411,
+    "french_plan": "La glace emprisonne {B8} !{B1}{AC}",
+    "preparation_plan": "La glace emprisonne {B8} !{B1}{AC}",
+    "source_message_sha256": "38b4546f9984444794c1c429d0d1d55ccd1c2e7d8d7de89f821e25c3c9e4daa6",
+    "ds_references": [],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 472,
+    "french_plan": "{BD}{B8} s'enfuit !{B1}{AC}",
+    "preparation_plan": "{BD}{B8} s'enfuit !{B1}{AC}",
+    "source_message_sha256": "125e3b650d336d54574e3c08fdc8fe53523c340c326066e97821b338a1ad900d",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 208,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "67db6c7072cf6835ece93ba40b49795cc3db006c90cb3f8878ea54fc0db829f1",
+        "fr_text_sha256": "6a6134699732d475aec9dbb89f0cf950bd36f5d70e676ab18273d9c09c66cbd9"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 478,
+    "french_plan": "{BC}{B7} baisse les yeux de honte !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} baisse les yeux de honte !{B1}{AC}",
+    "source_message_sha256": "a53f1d95b99232538f9d318fd0d1704a561664edd848b3c6b830df5719893f32",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 19,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "ad1f8797558436a96916bc212bd5a24d2ef8d47d2eead02ceaa466aba8fd0cc6",
+        "fr_text_sha256": "dac96cbe59b30ae502dae6368b4aa1ac54c77a919a5b596b1f7ec993f6007167"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 479,
+    "french_plan": "{BD}{B8} baisse les yeux de honte !{B1}{AC}",
+    "preparation_plan": "{BD}{B8} baisse les yeux de honte !{B1}{AC}",
+    "source_message_sha256": "d065ad6d7abd0305e645ba01d92f4b9272dc7bd96247034cc21d8ed3e09143a5",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 19,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "ad1f8797558436a96916bc212bd5a24d2ef8d47d2eead02ceaa466aba8fd0cc6",
+        "fr_text_sha256": "dac96cbe59b30ae502dae6368b4aa1ac54c77a919a5b596b1f7ec993f6007167"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 492,
+    "french_plan": "{BC}{B7} joue dans la boue !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} joue dans la boue !{B1}{AC}",
+    "source_message_sha256": "665bc2e1ae211059ea9e4a1c9f96016b11076a7132abcecad4f62712e4e16854",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 266,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "e10c32eeb0769ac5a2307ecf93a088ed4e1b4ba5c081fbce6dc9c7f18f20b8b4",
+        "fr_text_sha256": "dd5dd77760439f7b89d60d7549ab7a5c13c23f1cf05736b473fd0ae554654439"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 506,
+    "french_plan": "{BC}{B7} fait virevolter sa jupe{AD}pour attirer l'attention des monstres !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} fait virevolter sa jupe{AD}pour attirer l'attention des monstres !{B1}{AC}",
+    "source_message_sha256": "970f3200bfe79fa6b1c322bdaf16478d90aaded3b74e5a8e5efb910149b629ec",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 307,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "fe5fdc221eb2f682644af3a96aab3e5800313fab7d9069c906e0c0166f1db352",
+        "fr_text_sha256": "88b02a99ca94ee6a3d78f2e62e03925c867f039e6d6530db1e419e99f1338e5c"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 507,
+    "french_plan": "{BC}{B8} s'approche en titubant...{AD}{B7} frappe de toutes ses forces !{B1}{AC}",
+    "preparation_plan": "{BC}{B8} s'approche en titubant...{AD}{B7} frappe de toutes ses forces !{B1}{AC}",
+    "source_message_sha256": "01399cd3cfdd728596eddfa04f052402fa4843d3af57fb6c37237c35f99303a3",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 310,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "396021bc3d24a34e977a920ffd0f25e8acde7df193738e3cd5f70a506cdcaf8c",
+        "fr_text_sha256": "22e96ec6ba355b8e2ccfc920dcea6f9afa084a6c3f08374de99cbb181fc506cc"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 508,
+    "french_plan": "{BC}Mais le charme n'agit pas sur {B8} !{B1}{AC}",
+    "preparation_plan": "{BC}Mais le charme n'agit pas sur {B8} !{B1}{AC}",
+    "source_message_sha256": "e4ec6b5cddc4ee76771029b774f3a985dadd3efabb62f4bc6869d067ddf5f38c",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 313,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "1bc81d63adb0949e4d978b658cdb1f99cef6fe9d3ab65cd4960a07bd529ba1ce",
+        "fr_text_sha256": "0340e74e319062f7aea3a3c618527fb1f3e3e09cb57a8028b561649cef4452f6"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 512,
+    "french_plan": "{BC}{B7} contemple le spectacle avec ravissement !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} contemple le spectacle avec ravissement !{B1}{AC}",
+    "source_message_sha256": "5ea6498e8cd3a4c6ed382af438bb0a71113316ea0ab4b6ea804db2f6a8938a38",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 318,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "815d549a733d4634d35b06cca05a632420608fcf20af4136f658ff26f9f10bb8",
+        "fr_text_sha256": "d4717f544902e824c3447f805e2daa481fd677806691686c683bf135cf703779"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 513,
+    "french_plan": "{BD}{B8} contemple le spectacle avec ravissement !{B1}{AC}",
+    "preparation_plan": "{BD}{B8} contemple le spectacle avec ravissement !{B1}{AC}",
+    "source_message_sha256": "6b2929cce9d46964037f0c5571a2cc33e0455ddf4c590a7d621df5cf2e32e7ae",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 318,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "815d549a733d4634d35b06cca05a632420608fcf20af4136f658ff26f9f10bb8",
+        "fr_text_sha256": "d4717f544902e824c3447f805e2daa481fd677806691686c683bf135cf703779"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 516,
+    "french_plan": "{BC}{B7} remet ses cheveux en place !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} remet ses cheveux en place !{B1}{AC}",
+    "source_message_sha256": "a503f7ca3b1ca89cb28c2bee7fb3e662451088139138ec3f82ad1d690248b0b4",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 335,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "dbefb79e11ff63de17932fcda97f9fcb6643169d6134e12a4fbfac22151b4b68",
+        "fr_text_sha256": "b38a9f35afea681de4364b745a2d8a6e1dbd49c611b772620281e4058472448e"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 517,
+    "french_plan": "{BC}{B7} esquisse un sourire en coin...{B1}{AC}",
+    "preparation_plan": "{BC}{B7} esquisse un sourire en coin...{B1}{AC}",
+    "source_message_sha256": "00c3cfb93e8d3f606d366263a8f05a8af3ecb7d4d46839793859843b870ffc85",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 337,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "0187f103dd9c2db9dd36daec6a9f75ba593fe0ba0b79edcbb4f919d4524fc153",
+        "fr_text_sha256": "a732d89cdeceedc9ea78fffa347208493b3de22c19ac446b2fd8380b9caae6dd"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 521,
+    "french_plan": "{B8} affiche un sourire malicieux !{B1}{AC}",
+    "preparation_plan": "{B8} affiche un sourire malicieux !{B1}{AC}",
+    "source_message_sha256": "ec41cfca349508ef06bd761afcf04a84a682ec0c8ec4a2367b3c78e49a33d549",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 344,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "78471c76b149028060d0e75bbf1d8f74393137e11ae3877ddf21868507028d92",
+        "fr_text_sha256": "593c660da93236273bc1d1e3c20ff7b490f5b9221c2b299774a84c5efcf46e4a"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 523,
+    "french_plan": "{BC}{B8}. M-mince alors !!{B1}{AD}La puissance d'attaque de {B8} augmente !{B1}{AC}",
+    "preparation_plan": "{BC}{B8}. M-mince alors !!{B1}{AD}La puissance d'attaque de {B8} augmente !{B1}{AC}",
+    "source_message_sha256": "5839315bb43476fd3e64d1fd724f883816aa2713bdf0f4a126f71aa95b60daf5",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 351,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4790b4674abbee388863a383cae54160818381929cdda3c1954074a782ece018",
+        "fr_text_sha256": "7c1f62349c312e43412c70146314e7cd2cad4e4c35b91f7b1712535fa841944f"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 353,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "21852b631766d6d04b360b8401ea269efa9162f7bf3f9f2df86996b2a8a13bc2",
+        "fr_text_sha256": "6c3f34f063b40e6b634514db1f9693ea7edb50e2df8a845e80604a01bf1cdf39"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 525,
+    "french_plan": "{BC}{B7} saute et danse joyeusement !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} saute et danse joyeusement !{B1}{AC}",
+    "source_message_sha256": "4c3e2671390776a8f5280e690a10481c5b388a2c269f2e846a3aa71c7b25392e",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 363,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "2a5eaef8c24ea72fc4529b9c0b97d5a0029bf2662c4af87bdbab83134324f52f",
+        "fr_text_sha256": "b290fca1219efa192b1e3ad642ecd7f04230a43d877ab306ce62e7b129841010"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 526,
+    "french_plan": "{BC}{B7} joue joyeusement avec un gluant !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} joue joyeusement avec un gluant !{B1}{AC}",
+    "source_message_sha256": "eb793dbfec8c616b7d4b7d20173dec889146fd961dc159db2dfa1755528697f8",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 365,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "3a82a5ede01f13ef2c967afcc6b3bf0de2c8b964e58c408a0ec86c3ce0e20b43",
+        "fr_text_sha256": "ff5935f3d4f3d69550ae4994c3932696f9962f8635d7b9e8e953d01000f8678a"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 527,
+    "french_plan": "{BC}{B7} fait tranquillement sa toilette.{B1}{AC}",
+    "preparation_plan": "{BC}{B7} fait tranquillement sa toilette.{B1}{AC}",
+    "source_message_sha256": "ecc64bb4e414393cfe41d4f4f779fd0059c9ec2dd3661b83cdf5a0e0a196ca5f",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 367,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8262c2b072da3f134aa14a5bbde070758a1c40998f762ab32e24844d1d9f8fc3",
+        "fr_text_sha256": "ff9743a3149d89d879e4ff1dcdd55d2d03ac208daf56b5eb07435e5113efbde1"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 532,
+    "french_plan": "{BD}{B8} a le tournis{AD}et sombre dans la confusion !{B1}{AC}",
+    "preparation_plan": "{BD}{B8} a le tournis{AD}et sombre dans la confusion !{B1}{AC}",
+    "source_message_sha256": "0a0da4a0559ef0d1c358c0c2bcec6ac2bb3bb1d893dec2df8c61ba5cd7b4f364",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 381,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "44e43511b10716fbbba88697c20ed902713ee63650ca79c7d002d6e96033edcb",
+        "fr_text_sha256": "0b4a8177c07866a9f9eb70255454df41a113cceb08caa031e2dc434779e3e6a2"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 543,
+    "french_plan": "{BC}{B7} fait semblant d'exploser ! L'ennemi se fige un instant...{B1} Mais rien ne se passe ! {B7} sourit d'un air malicieux.{B1}{AC}",
+    "preparation_plan": "{BC}{B7} fait semblant d'exploser !{AD}L'ennemi se fige un instant...{B1}{AD}Mais rien ne se passe !{AD}{B7} sourit d'un air malicieux.{B1}{AC}",
+    "source_message_sha256": "8de6d3cf9390689d26d5c034d1e98a9e9c11309c1c6fa68edf801301c2921305",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 411,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "1dd230d420b855b99eb30bce38f4d751019c77832d20d9653bbf084c46f61bcb",
+        "fr_text_sha256": "f31b8ce81af16d50adcc96ce06b65e0ba54b3618284b06fa46c4d1fdb8805671"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 412,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a9e484ecdcd841ce9cf6104ae7bb6272805ed2e5f9be56bbdd12aa0e58c0b1d7",
+        "fr_text_sha256": "608367d7c967dd0c05db277685c41f6202f296fe67f35bb8043ff4b6d9310db6"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": [
+      "Trois AD remplacés par des espaces : débordement observé avec noms de13/15 caractères. Mots et autres commandes inchangés."
+    ]
+  },
+  {
+    "id": 545,
+    "french_plan": "{BC}{B8} a la chair de poule !{B1}{AC}",
+    "preparation_plan": "{BC}{B8} a la chair de poule !{B1}{AC}",
+    "source_message_sha256": "fabac60a00fc95e033c128727099f491e4ec621cdebc760a40f8c4069397043d",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 342,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "215d405470784d81c3f866c1ff7c94f8d47c2608a8fecf6a17e0be6df4ee2f08",
+        "fr_text_sha256": "fde2695f871f9d375290aa8d23d25d5dfd39ead4e25e8fbd5af00dbf37aa7761"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 547,
+    "french_plan": "{BC}{B7} reprend sa forme d'origine !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} reprend sa forme d'origine !{B1}{AC}",
+    "source_message_sha256": "2c635c1485b1bd5d7e42ce6badfa7fac1f8b1b451a750cb9a47daff74ecde079",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 426,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "3e43ce4ad88fb94604359d672bba332a4ec5ca0ff936b062056ae7a0441c2546",
+        "fr_text_sha256": "5b6b57476825024f811af2c612b778460cdcba0878d61f80bbbe3a5377bf8577"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 548,
+    "french_plan": "{BC}{B7} invente soudain une nouvelle danse !{AD}{B7}. Da, da da da, da da da da da !{B1}{AC}",
+    "preparation_plan": "{BC}{B7} invente soudain une nouvelle danse !{AD}{B7}. Da, da da da, da da da da da !{B1}{AC}",
+    "source_message_sha256": "1d0cae48a11bce4e53eccd149766641c7a4bb1dae0f795ff9a4cd86372defd40",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 428,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "7f5f054bdcea83668ad25798336f5aabd60b637b63ce9deae043e1fce9ade206",
+        "fr_text_sha256": "a80b5c5a4d2ae75f5644b950dca80d91ad6f89340f11362abb193c796ce021b1"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 429,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "400105a1c3b2682be9bdf0376f78ec4e71de6ee0271a588737eba39d2d71afe9",
+        "fr_text_sha256": "f139460172aa3ae35cd9f3dbe337586b08756ce37151f125b29ac6cabb65d34f"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 551,
+    "french_plan": "{BD}{B8} s'envole sous le choc !{B1}{AC}",
+    "preparation_plan": "{BD}{B8} s'envole sous le choc !{B1}{AC}",
+    "source_message_sha256": "ea141289f73d4577c7dd191654ccb7f359eeaac9030c978c566209c320e2320a",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 441,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "1156fa739266f7f1a25047a2a699341ee9da3ec12c0270d4395e0503c4bac1f7",
+        "fr_text_sha256": "a295ed9718de22e46fd6400b8c1158c6bfdae6ed1070791d2035b72c30c4715a"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  },
+  {
+    "id": 552,
+    "french_plan": "{BD}{B8} tient bon !{B1}{AC}",
+    "preparation_plan": "{BD}{B8} tient bon !{B1}{AC}",
+    "source_message_sha256": "e800f832c0d6724ea3f8979dbcd7804f6b0794212cc1979f8896a10dad1044c1",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 443,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8654446d622e7175a49d6d2b983e5d9dcc0fac9cf15dfd5d88d28c43cc0c06f0",
+        "fr_text_sha256": "1227be1cdcac7c5bf672667327e66609f4015a6ac60b870838b3df570975c0f1"
+      }
+    ],
+    "review": "Japonais SFC, français et références DS relus ; rôles B7/B8 et autres commandes conservés. Ancien IPS secondaire non admis comme validation de ses décalages.",
+    "status": "RELU_INTEGRE_RENDU_DIAGNOSTIC_V058",
+    "layout_adjustments": []
+  }
+]

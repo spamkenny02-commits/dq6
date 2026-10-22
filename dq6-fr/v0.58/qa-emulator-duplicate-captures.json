@@ -1,0 +1,378 @@
+{
+  "release": "v0.58",
+  "production_ROM_sha256": "ce2a8d5a657bb304a2ed6bc2313d96b0179b5b32aad6410f016cb61b443e1d60",
+  "native_API": "C02A29",
+  "native_loader_unmodified": true,
+  "diagnostic_main_entry_redirect": true,
+  "natural_battle": false,
+  "entity_profile": "duplicate",
+  "actor_name_SID": "02F1",
+  "target_name_SID": "02F1",
+  "player_name_path_validated": false,
+  "results": [
+    {
+      "id": 381,
+      "fixture_sha256": "e1751cb9ca52e80145c5ad3d669bb4e275ae17469c81e37213433b7d143fcfb9",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "2b0fbcd2fa8aa7bc32b5b0ff8e2f9506c16dddfae106be5b1dfc0f9be1951f77",
+          "message_id": 381,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 387,
+      "fixture_sha256": "bd7c321d7a0ab02cbb6d2a67cd2cae5e5ff4e66f6b6c151431ce35829778d05c",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "3bc8b90ba0486bc18073b487162ad58a43b740b9dd786ddf4830c649acff9d74",
+          "message_id": 387,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 406,
+      "fixture_sha256": "ee8e45653dd25a548918f89bd115e2023e139338ba4ece27bc9a6303fde72b03",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "3d1ebd63249f067c375fcc1fd26751a5a1a5908577c9c464c0817fc8bb833875",
+          "message_id": 406,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 410,
+      "fixture_sha256": "47ca81e3086c05db5992ec11c03e49a6187b9fdc8758ad4bf0b08bdb5c03bf6f",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "629d1d188b2b95729b0ad16836061e2417d946dd9e627cec2fdac02e632da265",
+          "message_id": 410,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 411,
+      "fixture_sha256": "215217889a6d717e706eb3e9c2ba1f46f7a8f2d2ca351808287198c295a226f3",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "6f8773a5dbbfb43b5a81cc89fb151695eebac0bcb38d4a1637ee07a7cf7f9780",
+          "message_id": 411,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 472,
+      "fixture_sha256": "588672769df1405d37e7a7dd9b3fed4a3ca795c644d3d2fa237a5ca79a8bba4d",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "b24e22fdb4ca3e2424fae48c4886f406bd449a16dd5638f9430608a25d643a65",
+          "message_id": 472,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 478,
+      "fixture_sha256": "db5c8d3f1f5b1c3c6920eff4c98935ef9a4832070d611faaafc666be590a067e",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "79d5a0e749a93f95c4419a52eee5d8518f875b07f45863ed5b3fa2e486edda81",
+          "message_id": 478,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 479,
+      "fixture_sha256": "288c540d93cf2d40685e62d37c10888f61cdae1887c4ea1ac3771bde8178ccad",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "ad4c12a07bba12f8f26aa0c98cf2c3ae5ae5cb6953ed8e1991e271742fe375be",
+          "message_id": 479,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 492,
+      "fixture_sha256": "0984280d8b4e77138c50b2d94bfd9beab6427167522d0ee60a28d11cf4e99232",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "42236e53de379ec0052f7be4b6a9f483f19adc37151e0b39d3d1bcc398898621",
+          "message_id": 492,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 506,
+      "fixture_sha256": "163b0668b8f09c1260d50d3a5af3a296e911b7168ec3b4d1c8139c77da041e8e",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "9f0cc2d0d8dcde03cb7fad2fda00c6550935db9b3e7c106ec8ffba0d08bbebba",
+          "message_id": 506,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 507,
+      "fixture_sha256": "b5a738ce0daf16ee08480767ec421b892717032a4c75c79fe3c4bc196d92fcf2",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "8b160db4a2e3049d7fb6cebbf28948615121fb0e9bd60f47d082fb37e9994fac",
+          "message_id": 507,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 508,
+      "fixture_sha256": "2958d8d52e7d3492297319047c6df5c121bbf2a8c25381148b0f2ee0372e84a5",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "3e23e268ab7794f7a64479ac63b4dc4be314a64c2f3d79da54e490b05b15c482",
+          "message_id": 508,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 512,
+      "fixture_sha256": "bf7ea35dcb4e8d449abea8a3fc149d2b71ec1950663984f80738cab3ffe3489b",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "81310062db3f9cf1776d44be8d92a225a3ad3969973ef0cf07cf82586a36b3c7",
+          "message_id": 512,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 513,
+      "fixture_sha256": "93ef29a4a49de9bbf08362bf33f28874333c1f1eccd3e97867c6b0991e81153b",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "353324e30907c7af1e0c560ce6d3139223abd52f5e48c7f560bb690d73282200",
+          "message_id": 513,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 516,
+      "fixture_sha256": "a5816913219132025bf331f62693f4c2f938fa0faf5afb798050eef8dfbc544b",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "d641e9a6508771586d61ece563aea07f2615ad6630f90b6f55c654fbde7656f2",
+          "message_id": 516,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 517,
+      "fixture_sha256": "09df7e1641af17e015cc137aaa2d25392eb03bbd1ac525aed83d18a2413c18cc",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "9c1e855583a54fe5fa5722a438e560284468371935f764cce25e84f950080582",
+          "message_id": 517,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 521,
+      "fixture_sha256": "3c59f933f4fed531ab8b3d3ce6b4b75d8d48c68dcf0fe8fe5bec46cb09f29839",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "dfb4246b3f58ee016283f04033b5249198ff1e9d5dd97e5ce884f8444def84cb",
+          "message_id": 521,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 523,
+      "fixture_sha256": "f6dfa32010c2ce81c03947652893dfe3e83b6f18936a46af9ad1acf8ff3bbc8e",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "fc12a29df96ab292d1b0c0a1c69269e2935c9df0fa08c534598c9d466e1b1b8d",
+          "message_id": 523,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 525,
+      "fixture_sha256": "0588839dad68ead97c2275cc074862ea3598b0ec36f43a9d7f1159b71b7a849e",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "5fb3a5122085baf09437f327fafdc5b3e1f3bcb5037275784c5633594a2bc56c",
+          "message_id": 525,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 526,
+      "fixture_sha256": "9f59208cfff54d1504b0f573597818c08537c86d69d61b5150129f49d9435fce",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "824c86b493543d21e03ca8c3da0882e4f7c7aec3c97edc30f88c302239ced4cc",
+          "message_id": 526,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 527,
+      "fixture_sha256": "f96db98c2e6249d0737ba3ab18b367c7cea45ed43a189b67429e6b24c17d2c5a",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "cc7359c3f089aca20d92c66863842770a7fd3103a8fb4785ecb4991e4b9f53a5",
+          "message_id": 527,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 532,
+      "fixture_sha256": "741a330dff4df3996d11dbe62a7116a5fa3b083f9422bcd2cef1dbc0db80c94e",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "7274c581d0e9967b8d2756e95f9a90d02a35dc3474d8fce5236f98158a4ab967",
+          "message_id": 532,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 543,
+      "fixture_sha256": "170c4257e5fa377713e63515f62e18923520e6174a18e4f8a02ce7904b387d3b",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "fb0b34543bc4079271abad4b727aa0e3cdf4ee961bfde9cdd2e24372fd5d13fe",
+          "message_id": 543,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 545,
+      "fixture_sha256": "c979fd6825de6c8cb040efe1d343f700233e4c7ead59c398057a8d36b9587f30",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "887b1eca5f6896b30e3dfef8c3483ce31588c2d89b5bc1813dc022c276ba8c89",
+          "message_id": 545,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 547,
+      "fixture_sha256": "36ad745acf45b0ec3859c9ae649edf9e6e23252d1c5f9c6fdb9b660f56aaee26",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "115b53ed182618937775e4b195731548245424b85a1524e233d938afeb9beb0c",
+          "message_id": 547,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 548,
+      "fixture_sha256": "226cbd0dc11fb8f61198c9231b863c9073cf6cd21337f07f7412fe3cecfd3243",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "2aa91d0e11cf62ca45f78f900cda789f46aee953c829cfb0453d1e103167a194",
+          "message_id": 548,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 551,
+      "fixture_sha256": "14e1c8fcd4eaac5d57baeef344fe826924cceb7f76572fca52902e5ce81d96af",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "635e0fb27ae57a6e272723ec6d06348c5c055fa53cea2f79c99798c6ee910e92",
+          "message_id": 551,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    },
+    {
+      "id": 552,
+      "fixture_sha256": "f822fe75740dc2e18a5aec8e1883bb4ba724a8a414b947dd4acc71a34e343358",
+      "captures": [
+        {
+          "step": "final_after_two_acknowledgements",
+          "screenshot_sha256": "7157dd177cb2ad7a0486b4f9c601ebe7b37c05706b96f1d20f56158badabe4ea",
+          "message_id": 552,
+          "API_returned": true
+        }
+      ],
+      "manual_visual_review": false
+    }
+  ]
+}

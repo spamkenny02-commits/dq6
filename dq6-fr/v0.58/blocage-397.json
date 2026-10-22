@@ -1,0 +1,42 @@
+{
+  "id": 397,
+  "status": "PREPARE_NON_INSERE",
+  "preparation": {
+    "system": "BATTLE_BYTE_POOL",
+    "id": 397,
+    "status": "PREPARE_NON_INSERE",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_text_sha256": "9e301e93c835b1f079f1a8c94a9c334064dc4661ee99c6b25a0a5a5e54e67696",
+    "source_message_sha256": "ca68dc3ffc83ecd9d087b918a46c0bda7d787f59ce9a441a536957adcee12674",
+    "french_plan": "{BC}Dans sa confusion, {B7} serre{AD}{B8} dans ses bras !{B1}{AC}",
+    "source_native_command_count": 6,
+    "native_commands_preserved_except_AD_layout": true,
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 59,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "eb4c19df07ff9b564c1402d2d1d095840b38d715c01fdf66eab5878e9053856a",
+        "fr_text_sha256": "8d2664536893fdb63bba0fa211867627c08c7c132811c65f8ca96c2bffd9d2bd"
+      }
+    ],
+    "source_context_ids": [
+      395,
+      396,
+      397,
+      398,
+      399
+    ],
+    "review": "Japonais SFC et français relus ; référence DS explicite lorsqu’établie. Variables et ordre SFC conservés, genre non imposé aux noms. Les formulations DS sont adaptées, pas copiées avec leurs macros.",
+    "semantic_reserve": null,
+    "insertion_blockers": [
+      "Encodeur byte et accents à établir sans emprunter celui du script Huffman.",
+      "Largeurs des variables/noms, pagination, B1/BC/BD/C2 et fenêtres de combat à tester.",
+      "Aucun rapprochement lexical seul ne vaut validation de l’appel natif."
+    ],
+    "inserted": false,
+    "emulator_tested": false
+  },
+  "reason": "Essai à deux homonymes : A puis A au lieu de A puis B ; rôles distincts corrects. Cause native/contexte à tracer avant insertion. Aucun changement du moteur pour masquer ce cas.",
+  "next": "Tracer B8/C69315, C2B8D5, suffixes et file après AD ; comparer un combat naturel."
+}

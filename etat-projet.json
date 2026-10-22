@@ -1,5 +1,5 @@
 {
-  "release": "v0.57",
+  "release": "v0.58",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
@@ -18,14 +18,14 @@
     ],
     "release_lot_additions": 0
   },
-  "baseline": "v0.56",
+  "baseline": "v0.57",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 25,
     "reviewed_fragments": 0,
     "draft_main": 0,
     "boundary_audit": 0,
-    "separate_battle": 99,
+    "separate_battle": 71,
     "separate_names": 1
   },
   "deferred_examined_in_v034": 26,
@@ -45,8 +45,8 @@
     "new_prepared_this_checkpoint": 1
   },
   "rom_bytes": 8388608,
-  "notes": "Huit textes statiques du pool natif de combat intégrés depuis les préparationsv057 ; zéro ajout au principal.107 préparations historiques,8 intégrées et99 encore non insérées. Le moteur, les600 autres messages du pool, les tables de noms et les6957 sélections principales restent inchangés. Le pool natif complet est relogé en ExHiROM et ses76 pointeurs sont mis à jour dans les deux copies.8 rendus diagnostiques grande fenêtre vérifiés ; pas de combat naturel déclaré.",
-  "next": "Reprendre la releasev0.57, pas la basev0.56 seule. Les huit IDs intégrés sont consignés dans dq6-fr/v0.57/revue-combat-v057.json ; ne pas les recompter.99 préparations restent en attente, dont2 réserves464/465. Traiter les accents et les variables natives, puis les497 messages hérités et les autres tables ; relecture exhaustive et audits naturels toujours ouverts. La police ASCII a été relue en terrain et les huit textes statiques ont été rendus via la véritable API native C02A29 dans un banc de camp. La boucle C02671 seule n’est pas un protocole valide.427/429 utilisent de façon attestée la grande API C02A16 ; la petite fenêtre de diagnostic ne les valide pas. Réserver aussi le pool natif déplacé lors de toute future allocation du script.",
+  "notes": "28 textes natifs de combat B7/B8 intégrés ;36 au total,71 préparés non insérés,497 hérités non qualifiés et4 structures. Principal et noms inchangés.543 : trois AD supprimés explicitement, mots et autres commandes inchangés.397 reste préparé après échec du suffixe homonyme. Rendus diagnostiques seulement, pas de combat naturel validé.",
+  "next": "Reprendre v0.58 avec36 traductions natives déjà intégrées.71 préparations restantes :64 cas avec accents,6 substitutions complexes et397 réservé après essai homonyme. Puis qualifier497 hérités, autres tables, recherche des oublis, relecture exhaustive et audits naturels hérités. Réserver le pool natif déplacé dans toute allocation future.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -77,35 +77,39 @@
   ],
   "proofreading": {
     "exhaustive_pass_completed": false,
-    "reviewed_this_translation_pass": 16,
+    "reviewed_this_translation_pass": 29,
     "translation_reviews_not_a_full_reread": true,
-    "full_main_reread_recorded": 0
+    "full_main_reread_recorded": 0,
+    "new_battle_integrated_from_review": 28,
+    "battle_review_deferred_ids": [
+      397
+    ]
   },
   "separate_battle_pool": {
     "runtime_entries": 608,
     "physical_entries": 608,
     "aliases": 0,
     "structural_or_control_only": 4,
-    "own_identifier_placeholders": 99,
+    "own_identifier_placeholders": 71,
     "inherited_texts_not_context_reviewed": 497,
-    "project_french_context_reviewed": 8,
+    "project_french_context_reviewed": 36,
     "new_translations_this_audit": 0,
-    "inventory": "dq6-fr/v0.57/inventaire-combat-v057.json",
+    "inventory": "dq6-fr/v0.58/inventaire-combat-v058.json",
     "not_in_main_6957": true,
-    "prepared_not_inserted": 99,
-    "semantic_reviewed_prepared": 97,
+    "prepared_not_inserted": 71,
+    "semantic_reviewed_prepared": 69,
     "semantic_reserve_ids": [
       464,
       465
     ],
-    "with_explicit_DS_references": 80,
-    "direct_SFC_without_established_DS": 19,
-    "new_integrated_this_checkpoint": 8,
-    "preparation": "dq6-fr/v0.57/inventaire-combat-v057.json",
+    "with_explicit_DS_references": 54,
+    "direct_SFC_without_established_DS": 17,
+    "new_integrated_this_checkpoint": 28,
+    "preparation": "dq6-fr/v0.58/inventaire-combat-v058.json",
     "codec_approved": false,
-    "strict_candidate_roundtrip": 35,
+    "strict_candidate_roundtrip": 7,
     "codec_report": "tools/combat-v058/qa-codec.json",
-    "native_render_accepted": 8,
+    "native_render_accepted": 36,
     "native_reader_IDs_verified": 608,
     "native_reader_pointer_mutation_detected": true,
     "native_font_validated_prepared_count": 0,
@@ -118,13 +122,41 @@
     "field_font_glyph_review": "tools/combat-v060/qa-resident-font.json",
     "integrated_ids": [
       51,
+      381,
+      387,
+      406,
+      410,
+      411,
       427,
       429,
+      472,
+      478,
+      479,
+      492,
       494,
+      506,
+      507,
+      508,
+      512,
+      513,
+      516,
+      517,
       519,
       520,
+      521,
+      523,
+      525,
+      526,
+      527,
+      532,
       536,
-      538
+      538,
+      543,
+      545,
+      547,
+      548,
+      551,
+      552
     ],
     "historical_preparation": "preparations/combat-v057/prepares-non-inseres.json",
     "native_static_ascii_integrated_ids": [
@@ -137,13 +169,47 @@
       536,
       538
     ],
-    "native_render_report": "dq6-fr/v0.57/qa-emulator.json",
+    "native_render_report": "dq6-fr/v0.58/qa-emulator.json",
     "reserved_ROM_range": {
       "offset": 8001024,
-      "size": 12022,
+      "size": 12894,
       "groups": 76,
       "messages": 608
-    }
+    },
+    "native_actor_target_diagnostic_tested_ids": [
+      381,
+      387,
+      406,
+      410,
+      411,
+      472,
+      478,
+      479,
+      492,
+      506,
+      507,
+      508,
+      512,
+      513,
+      516,
+      517,
+      521,
+      523,
+      525,
+      526,
+      527,
+      532,
+      543,
+      545,
+      547,
+      548,
+      551,
+      552
+    ],
+    "native_player_names_validated": false,
+    "pending_actor_target_homonym_context": [
+      397
+    ]
   },
-  "checkpoint": "combat-v061-insertion-v057"
+  "checkpoint": "combat-v063-insertion-v058"
 }

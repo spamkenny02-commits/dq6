@@ -1,0 +1,132 @@
+{
+  "release": "v0.58",
+  "baseline_commit": "330d81d23cd92ad87021daee43156e2935893651",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 839,
+      "sha256": "833d53646b6497ff4db234e267bdfc081e0a8b1e3714b23715c5d23d3034898e"
+    },
+    {
+      "path": "LISEZ-MOI.md",
+      "bytes": 6403,
+      "sha256": "d77a3bf3e667e2f4111888d68b668cf7790118fcd29e9c5ead75c6efaf00f4f2"
+    },
+    {
+      "path": "REPRISE-AUTOMATIQUE.md",
+      "bytes": 42221,
+      "sha256": "9339c529bae62e27fe64ef3b27cc48f4b81875a1f91f7fb1b65c45f5fdf59555"
+    },
+    {
+      "path": "etat-projet.json",
+      "bytes": 5351,
+      "sha256": "97c34080b14bab73c9420aab2d0411980ca86e06f14df742175fe7e0c5d85887"
+    },
+    {
+      "path": "patches/DQVI-FR-DS-v0.58-BASE-JP-PARTIEL.bps",
+      "bytes": 677414,
+      "sha256": "5befcf673b17641193065f8b42413faa844401f39fce61be43648b1da4122439"
+    },
+    {
+      "path": "dq6-fr/v0.58/README.md",
+      "bytes": 6627,
+      "sha256": "3e014f012df954a6d4a592918e89758f206798a638f45eec8a3d56dfebe98fdd"
+    },
+    {
+      "path": "dq6-fr/v0.58/blocage-397.json",
+      "bytes": 1929,
+      "sha256": "4e00d2876fde96662f5a232a80c8cedba118b26dae17120bfff43ebab38fe3c3"
+    },
+    {
+      "path": "dq6-fr/v0.58/build-report.json",
+      "bytes": 871,
+      "sha256": "7ebd8a1cf3add6e28535103c84604954efb128c668ef71c7ee8962244b9d52c2"
+    },
+    {
+      "path": "dq6-fr/v0.58/build.py",
+      "bytes": 1060,
+      "sha256": "43ea1eefa70fd566d07812dae0d1d0c6b7834ad930a86b789aa2d1b5a262604c"
+    },
+    {
+      "path": "dq6-fr/v0.58/common.py",
+      "bytes": 5771,
+      "sha256": "ceb951e0a712e28f1dfc1d34af66de45948d3e2cf3fa33dc08ac271b82554bcf"
+    },
+    {
+      "path": "dq6-fr/v0.58/delta-combat-v058.json",
+      "bytes": 9327,
+      "sha256": "3d142edcb85cdc1111bed25259b29c35d20064de35c4e57620368cdccc03a199"
+    },
+    {
+      "path": "dq6-fr/v0.58/emulator_probe.py",
+      "bytes": 5523,
+      "sha256": "ccb41dc24a7d316c334f6cff6f90f9e4e37f47d607fb6ea2d9b31f8e7a065850"
+    },
+    {
+      "path": "dq6-fr/v0.58/insertion-combat.json",
+      "bytes": 11074,
+      "sha256": "7e1f2ca7192993cb6d84b08c798dacd64b5d19bc289dcda8f340b09e97fde44d"
+    },
+    {
+      "path": "dq6-fr/v0.58/inventaire-combat-v058.json",
+      "bytes": 2486,
+      "sha256": "be4a9fdc7efa206cb9632507fa9c34a1b755865e82794deb4cdc35368c20f86b"
+    },
+    {
+      "path": "dq6-fr/v0.58/inventory.py",
+      "bytes": 1596,
+      "sha256": "edf5e41c3192f8fb999402d722a8cc76c5af1a45b8650e27d6f09cb8d2659e79"
+    },
+    {
+      "path": "dq6-fr/v0.58/prepare.py",
+      "bytes": 366,
+      "sha256": "68fa82b911fdc91301ac1853924d5df26d4078aff77cda737c6db056183a13ec"
+    },
+    {
+      "path": "dq6-fr/v0.58/qa-emulator-distinct-captures.json",
+      "bytes": 12158,
+      "sha256": "cf35f04012efc8d5754b76be900c591203663e73a7f08f88b6b737c2ce15a6df"
+    },
+    {
+      "path": "dq6-fr/v0.58/qa-emulator-duplicate-captures.json",
+      "bytes": 12159,
+      "sha256": "666a5019f07febaeae40ddc435d8474ce233ce533e14274167144f449d5e2c35"
+    },
+    {
+      "path": "dq6-fr/v0.58/qa-emulator.json",
+      "bytes": 3050,
+      "sha256": "be3a3efc2b4686bacd5a399affa4f967f6000ba846e86f000e15b77f173370c1"
+    },
+    {
+      "path": "dq6-fr/v0.58/qa-native-pointer-negative.json",
+      "bytes": 304,
+      "sha256": "183f21570dacf45a3a7a34658f5eb9195c4599a84b487481732908cdf07d5ed3"
+    },
+    {
+      "path": "dq6-fr/v0.58/qa-native-reader.json",
+      "bytes": 296,
+      "sha256": "170c417a3a5bacd8e0feae782e76fa65eff05ee2c1df89fb74ab6e9691ffe62f"
+    },
+    {
+      "path": "dq6-fr/v0.58/qa-sources-locales.json",
+      "bytes": 664,
+      "sha256": "20cefe3873d0514e361b5ee3845b1cf5a45f90e6504c38db75acae0cf0ea36dd"
+    },
+    {
+      "path": "dq6-fr/v0.58/revue-combat-v058.json",
+      "bytes": 25532,
+      "sha256": "32a4be9a3481fe1da7afb590351f49be2b492dde84f7cbf2ec42b36ced5ef3e0"
+    },
+    {
+      "path": "dq6-fr/v0.58/verification.json",
+      "bytes": 865,
+      "sha256": "dc3643ebb82117c3aad106251159e01a98368cced2445abbb175aaff6621c0ac"
+    },
+    {
+      "path": "dq6-fr/v0.58/verify.py",
+      "bytes": 3018,
+      "sha256": "b05f1b91258a73960955734996c6bb660609d58599f7ff0a6042a983d1b9583c"
+    }
+  ],
+  "private_files_included": false
+}

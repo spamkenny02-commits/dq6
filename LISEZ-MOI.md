@@ -1,3 +1,9 @@
+# Version actuelle : v0.58
+
+28 textes natifs de combat ajoutés ;36 intégrés,71 préparés encore non insérés. Script principal6957 sélections inchangé. Voir [la recette v0.58](dq6-fr/v0.58/README.md). Le BPS v0.58 s’applique à la JP intacte vérifiée. Projet non finalisé : autres tables, relecture exhaustive et audits naturels ouverts.
+
+Les versions ci-dessous sont historiques.
+
 # Mise à jour v0.57
 
 Le patch courant est patches/DQVI-FR-DS-v0.57-BASE-JP-PARTIEL.bps, pour la JP intacte SHA25690ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e.8 textes statiques de combat sont intégrés et testés en diagnostic ;99 préparés restent en attente. Principal6957 sélections inchangé. Lire dq6-fr/v0.57/README.md pour les tests, limites et reconstruction. Le projet reste partiel. Les indications de versions antérieures ci-dessous sont historiques.
