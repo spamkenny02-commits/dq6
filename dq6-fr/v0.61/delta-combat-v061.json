@@ -1,0 +1,148 @@
+{
+  "base_release": "v0.60",
+  "release": "v0.61",
+  "new_battle_messages": [
+    {
+      "id": 464,
+      "french_plan": "{BC}{B7} se lance soudain dans un jeu de rimes !{B1}{AC}",
+      "encoded_hex": "bcb7015446014d424f44460154505645424a4f0145424f5401564f014b465601454601534a4e4654017ab1ac",
+      "source_message_sha256": "5cca5402105342a510f51996cf0d44a80ec233f192a7cfa7b2f438526604eecb",
+      "previous_sha256": "4601a03f8b45961e1ada7a9e1a853dcf978450062760afcc926cb54264b34ddd"
+    },
+    {
+      "id": 465,
+      "french_plan": "{BC}{B7}. Je commence ! {B2} ! Euh... je ne trouve pas de rime ! {B7} a perdu !{B1}{AC}",
+      "encoded_hex": "bcb77f0119460144504e4e464f4446017a01b2017a011456497f7f7f014b46014f46015553505657460151425401454601534a4e46017a01b70142015146534556017ab1ac",
+      "source_message_sha256": "bdfc3901a9b7af9804145c2ba9ed0ad74da079d7d67bc9382f18c316a99ef785",
+      "previous_sha256": "7b5cba8aa74d7b7e35f3e0fa70308f07d5080d6990745f1d3d0aa42a61a2aa4f"
+    },
+    {
+      "id": 498,
+      "french_plan": "{B2} !!{B1} Mais rien ne se passe !{B1}{AC}",
+      "encoded_hex": "b2017a7ab1011c424a5401534a464f014f46015446015142545446017ab1ac",
+      "source_message_sha256": "212bfda77f0d61b09a95bac5dadf0a36adad0e18fb56e8a3b06e25202763d3fd",
+      "previous_sha256": "46a9438ac05229377e723efc9613de6aca55847de642712c22d09b2ef70678a9"
+    }
+  ],
+  "new_native_names": {
+    "pool_offset": 3901187,
+    "pool_size": 14356,
+    "changed_SIDs": {
+      "0369": "Céleste",
+      "036A": "Braséria"
+    },
+    "runtime_SIDs": 2512,
+    "physical_names": 2048,
+    "aliases": 464
+  },
+  "engine": {
+    "allocation": {
+      "offset": 8017920,
+      "size": 1024
+    },
+    "segments": [
+      {
+        "offset": 8017920,
+        "size": 59,
+        "hex": "08ad285ac900ff902ac911ffb0252829ff000aaabf80597a1869b05985bae220a97a85bcc2209cb459a00000a2ba005c02fec628ad285a5c0c92c6"
+      },
+      {
+        "offset": 8018176,
+        "size": 82,
+        "hex": "22970ec02903000aaadaa910ff8d285a22162ac0f101a301aabf8667c28d285a22970ec0290300485aa3050a1863030900ff8d285aa3030aaaad285a22162ac0f2017a68fa0aaabf8e67c28d285a5c8567c2"
+      },
+      {
+        "offset": 8018304,
+        "size": 34,
+        "hex": "000007000e0015001c00270032003f004c00560060006b00780082008b0092009e00"
+      },
+      {
+        "offset": 8018352,
+        "size": 159,
+        "hex": "1a42574d424fac1a425150564eac1a42434a4f48ac1a4243424f48ac225651465354504a4f54ac244d55534254504a4f54ac184f54504e4f4a54504a4f54ac132d51424f4f7854504a4f54ac155056534f424a5446ac1459514d505553504fac22565357504d55424846ac15505645534a4f55464f5446ac1a4255425455535047ac232d4f2d43535053ac1a424350564eac154d4255565553424f5446acac"
+      },
+      {
+        "offset": 430601,
+        "size": 3,
+        "hex": "4cf0fe"
+      },
+      {
+        "offset": 4624905,
+        "size": 3,
+        "hex": "4cf0fe"
+      },
+      {
+        "offset": 458480,
+        "size": 4,
+        "hex": "5c00587a"
+      },
+      {
+        "offset": 4652784,
+        "size": 4,
+        "hex": "5c00587a"
+      },
+      {
+        "offset": 157529,
+        "size": 4,
+        "hex": "5c00597a"
+      },
+      {
+        "offset": 4351833,
+        "size": 4,
+        "hex": "5c00597a"
+      }
+    ],
+    "RNG_call_offsets": [
+      8018176,
+      8018208
+    ],
+    "handler": 8017920,
+    "generation": 8018176,
+    "table": 8018304,
+    "strings": 8018352,
+    "virtual_SIDs": [
+      "FF00",
+      "FF01",
+      "FF02",
+      "FF03",
+      "FF04",
+      "FF05",
+      "FF06",
+      "FF07",
+      "FF08",
+      "FF09",
+      "FF0A",
+      "FF0B",
+      "FF0C",
+      "FF0D",
+      "FF0E",
+      "FF0F",
+      "FF10"
+    ],
+    "names": [
+      "Kavlan",
+      "Kapoum",
+      "Kabing",
+      "Kabang",
+      "Supersoins",
+      "Ultrasoins",
+      "Insomnisoins",
+      "Dépann-soins",
+      "Fournaise",
+      "Explotron",
+      "Survoltage",
+      "Foudrintense",
+      "Katastrof",
+      "Ténébror",
+      "Kaboum",
+      "Flatutranse"
+    ],
+    "normal_B2_entry_unchanged": "C6920C",
+    "original_RTS_unchanged": "C26785",
+    "new_WRAM_scratch": false
+  },
+  "source_review": "revue-combat-v061.json",
+  "main_changes": 0,
+  "other_battle_changes": 0,
+  "natural_validation": false
+}

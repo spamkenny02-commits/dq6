@@ -1,5 +1,5 @@
 {
-  "release": "v0.60",
+  "release": "v0.61",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
@@ -18,36 +18,36 @@
     ],
     "release_lot_additions": 0
   },
-  "baseline": "v0.59",
+  "baseline": "v0.60",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 25,
     "reviewed_fragments": 0,
     "draft_main": 0,
     "boundary_audit": 0,
-    "separate_battle": 3,
-    "separate_names": 1,
-    "separate_battle_spell_combinations": 16
+    "separate_battle": 0,
+    "separate_names": 0,
+    "separate_battle_spell_combinations": 0
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.56",
+    "inventory_version": "v0.61",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
     "inserted_place_total": 8,
-    "additional_character_names_inserted": 1,
+    "additional_character_names_inserted": 3,
     "spell_action_labels_inserted": 20,
-    "new_this_pass": 0,
+    "new_this_pass": 2,
     "prepared_places": 25,
-    "confirmed_french_entries": 37,
+    "confirmed_french_entries": 39,
     "native_grammar_helpers_adapted": 4,
-    "prepared_character_names": 1,
+    "prepared_character_names": 0,
     "new_prepared_this_checkpoint": 0
   },
   "rom_bytes": 8388608,
-  "notes": "v0.60 :64 messages natifs ajoutés ;104 intégrés,3 préparés restants464/465/498. Sept accents8x8 ajoutés après audit des consommateurs connus.68 scénarios et236 captures, démarrage neuf et608 pointeurs testés.544 autres messages natifs etprincipal6957 sélections inchangés.397 corrigé en diagnostic par disposition, scène naturelle ouverte.",
-  "next": "Reprendrev0.60. Résoudre464/465 (jeu verbal et mots variables),498 (composition497+498 et16 noms DS) ; puis497 hérités, autres tables, oublis, relecture exhaustive et audits naturels. Police accentuée validée sur sept slots pour les textes du lot, pas audit exhaustif de tout le jeu.",
+  "notes": "v0.61 :3 messages464/465/498 intégrés,107 au total ;16 noms composés DS et2 noms contextuels. Moteur localisé documenté ; diagnostics séquentiels, pas combat naturel.",
+  "next": "Les107 anciens manquants combat sont intégrés. Continuer497 textes hérités non qualifiés, autres tables, recherche exhaustive, relecture complète et audits naturels. Ne pas rejouer le lot v0.61.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -78,40 +78,35 @@
   ],
   "proofreading": {
     "exhaustive_pass_completed": false,
-    "reviewed_this_translation_pass": 64,
+    "reviewed_this_translation_pass": 3,
     "translation_reviews_not_a_full_reread": true,
     "full_main_reread_recorded": 0,
-    "new_battle_integrated_from_review": 64,
-    "battle_review_deferred_ids": [
-      397
-    ],
-    "compound_spell_labels_reviewed_this_checkpoint": 0
+    "new_battle_integrated_from_review": 3,
+    "battle_review_deferred_ids": [],
+    "compound_spell_labels_reviewed_this_checkpoint": 16
   },
   "separate_battle_pool": {
     "runtime_entries": 608,
     "physical_entries": 608,
     "aliases": 0,
     "structural_or_control_only": 4,
-    "own_identifier_placeholders": 3,
+    "own_identifier_placeholders": 0,
     "inherited_texts_not_context_reviewed": 497,
-    "project_french_context_reviewed": 104,
+    "project_french_context_reviewed": 107,
     "new_translations_this_audit": 0,
-    "inventory": "dq6-fr/v0.60/inventaire-combat-v060.json",
+    "inventory": "dq6-fr/v0.61/inventaire-combat-v061.json",
     "not_in_main_6957": true,
-    "prepared_not_inserted": 3,
-    "semantic_reviewed_prepared": 1,
-    "semantic_reserve_ids": [
-      464,
-      465
-    ],
-    "with_explicit_DS_references": 2,
-    "direct_SFC_without_established_DS": 1,
-    "new_integrated_this_checkpoint": 64,
-    "preparation": "dq6-fr/v0.60/inventaire-combat-v060.json",
+    "prepared_not_inserted": 0,
+    "semantic_reviewed_prepared": 0,
+    "semantic_reserve_ids": [],
+    "with_explicit_DS_references": 0,
+    "direct_SFC_without_established_DS": 0,
+    "new_integrated_this_checkpoint": 3,
+    "preparation": "dq6-fr/v0.61/inventaire-combat-v061.json",
     "codec_approved": false,
     "strict_candidate_roundtrip": 64,
     "codec_report": "tools/combat-v058/qa-codec.json",
-    "native_render_accepted": 104,
+    "native_render_accepted": 107,
     "native_reader_IDs_verified": 608,
     "native_reader_pointer_mutation_detected": true,
     "native_font_validated_prepared_count": 0,
@@ -161,6 +156,8 @@
       454,
       455,
       461,
+      464,
+      465,
       466,
       467,
       468,
@@ -175,6 +172,7 @@
       493,
       494,
       495,
+      498,
       499,
       500,
       501,
@@ -239,10 +237,10 @@
       536,
       538
     ],
-    "native_render_report": "dq6-fr/v0.60/qa-emulator.json",
+    "native_render_report": "dq6-fr/v0.61/qa-emulator.json",
     "reserved_ROM_range": {
       "offset": 8001024,
-      "size": 16559,
+      "size": 16675,
       "groups": 76,
       "messages": 608
     },
@@ -279,17 +277,18 @@
     "native_player_names_validated": false,
     "pending_actor_target_homonym_context": [],
     "compound_spell_generation": {
-      "prepared_complete_names": 16,
+      "prepared_complete_names": 0,
       "exact_JA_matches": 12,
-      "reserved_spelling_matches": 4,
-      "new_inserted": 0,
+      "reserved_spelling_matches": 0,
+      "new_inserted": 16,
       "preparation": "preparations/combat-v066/noms-composes-prepares.json",
       "counts_additive_to_main_or_battle_pool": false,
-      "full_chain_rendered": false
+      "full_chain_rendered": true,
+      "contextual_spelling_adaptations": 4,
+      "insertion": "dq6-fr/v0.61/revue-combat-v061.json",
+      "natural_joint_RNG_reachability_all16_verified": false
     },
-    "pending_complex_ASCII_substitutions": [
-      498
-    ],
+    "pending_complex_ASCII_substitutions": [],
     "native_font_extension_report": "dq6-fr/v0.60/qa-font-extension.json",
     "native_font_extended_accents": [
       "à",
@@ -305,5 +304,5 @@
       397
     ]
   },
-  "checkpoint": "combat-v068-insertion-v060"
+  "checkpoint": "combat-v069-insertion-v061"
 }

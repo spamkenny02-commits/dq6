@@ -1,0 +1,26 @@
+{
+  "release": "v0.61",
+  "ROM_sha256": "506b023d229904dff1779f4a9d2a06647716537e71d4607b6fa26d38b51e8a4b",
+  "render_scenarios": 29,
+  "stable_frame_captures": 139,
+  "all_API_calls_returned": true,
+  "all16_combinations_final_render_visually_reviewed": true,
+  "four_native_word_choices_visually_reviewed": true,
+  "ordinary_B2_regression_SIDs": [
+    "061F",
+    "0369",
+    "036A"
+  ],
+  "five_homonym_long_name_scenarios": true,
+  "all_pair_return_A_X_Y_B2_checked": true,
+  "diagnostic_camp_redirect": true,
+  "legacy_state_font_refresh": true,
+  "natural_battle": false,
+  "production_engine_modified": true,
+  "compact_window_validated": false,
+  "joint_natural_RNG_all16_reachability_verified": false,
+  "new_main_translation": 0,
+  "new_battle_translation": 3,
+  "new_contextual_native_names": 2,
+  "new_complete_compound_names": 16
+}

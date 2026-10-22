@@ -1,0 +1,50 @@
+{
+  "case": "word1",
+  "duplicate": true,
+  "API_returned": true,
+  "returned_A_X_Y_B2": [
+    873,
+    2,
+    1,
+    873
+  ],
+  "fixture_sha256": "a3ac5508d3ae6bc5f0fd0ddd965dfe2ae8e3a7869270aa81bca54c66b82f3565",
+  "private_changes": [
+    "Caller RTS becomes RTL for private JSL harness",
+    "RNG forced to one of all four native word choices"
+  ],
+  "pages": [
+    {
+      "capture": "v061-word1-duplicate-page0.png",
+      "returned": false,
+      "frame": 334,
+      "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+    },
+    {
+      "capture": "v061-word1-duplicate-page1.png",
+      "returned": false,
+      "frame": 338,
+      "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+    },
+    {
+      "capture": "v061-word1-duplicate-page2.png",
+      "returned": false,
+      "frame": 343,
+      "sha256": "aa8336f9909dcb44c479e54b3df23d7066981f38066859836612f6f236fa96b1"
+    },
+    {
+      "capture": "v061-word1-duplicate-page3.png",
+      "returned": false,
+      "frame": 382,
+      "sha256": "d3f1f8ed5f4fed9381554ce9d4c88d5521b4644cd65ac3e1b3bdaaeec0a7a79f"
+    },
+    {
+      "capture": "v061-word1-duplicate-page4.png",
+      "returned": false,
+      "frame": 386,
+      "sha256": "75d671053ca5e3f4d5f98c08c7c3d4921d34be2797cac687ac5229a8d424919d"
+    }
+  ],
+  "manual_visual_review": true,
+  "visual_review_scope": "Final populated frame; introduction464 also reviewed in word1 sequence. Intermediate blank/stable frames not counted as separate text reviews."
+}

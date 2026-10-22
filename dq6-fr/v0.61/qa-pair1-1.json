@@ -1,0 +1,49 @@
+{
+  "case": "pair1-1",
+  "API_returned": true,
+  "returned_A_X_Y_B2": [
+    879,
+    2,
+    4660,
+    879
+  ],
+  "fixture_sha256": "64258288a00af7ce6c33063ac9cea4b38421a00c7ce4da66d165cf458089a5c4",
+  "private_changes": [
+    "Caller RTS becomes RTL for the private JSL harness",
+    "Both RNG calls replaced by deterministic LDA/RTL stubs"
+  ],
+  "pages": [
+    {
+      "capture": "v061-pair1-1-page0.png",
+      "returned": false,
+      "frame": 334,
+      "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+    },
+    {
+      "capture": "v061-pair1-1-page1.png",
+      "returned": false,
+      "frame": 338,
+      "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+    },
+    {
+      "capture": "v061-pair1-1-page2.png",
+      "returned": false,
+      "frame": 343,
+      "sha256": "233b4ff46256d36717ce2a451f9f3c6c77c64efea9bfa6ebaf80aa5d5164c95a"
+    },
+    {
+      "capture": "v061-pair1-1-page3.png",
+      "returned": false,
+      "frame": 384,
+      "sha256": "655eb735c5394051d3101daf66febe66f65bdaa15785ee796a0a43789b377bfc"
+    },
+    {
+      "capture": "v061-pair1-1-page4.png",
+      "returned": false,
+      "frame": 421,
+      "sha256": "3d9d9b92c61d5674a0bb0355eaec5cd365d2062596d3c0042af7cdf70b602452"
+    }
+  ],
+  "manual_visual_review": true,
+  "visual_review_scope": "Final populated frame; introduction464 also reviewed in word1 sequence. Intermediate blank/stable frames not counted as separate text reviews."
+}

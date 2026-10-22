@@ -1,0 +1,34 @@
+{
+  "case": "normal0369",
+  "API_returned": true,
+  "returned_A_X_Y_B2": [
+    432,
+    65534,
+    1,
+    873
+  ],
+  "fixture_sha256": "40ec74375305813f4a8a51cd32338ee23dbf30a836eddf4d9716755c17115ab3",
+  "private_changes": [],
+  "pages": [
+    {
+      "capture": "v061-normal0369-page0.png",
+      "returned": false,
+      "frame": 334,
+      "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+    },
+    {
+      "capture": "v061-normal0369-page1.png",
+      "returned": false,
+      "frame": 338,
+      "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+    },
+    {
+      "capture": "v061-normal0369-page2.png",
+      "returned": false,
+      "frame": 343,
+      "sha256": "eda63e8ff5cd6bc750f9efc543d23fb9b02e5f67bc4542d7ded710645fc357d6"
+    }
+  ],
+  "manual_visual_review": true,
+  "visual_review_scope": "Final populated frame; introduction464 also reviewed in word1 sequence. Intermediate blank/stable frames not counted as separate text reviews."
+}

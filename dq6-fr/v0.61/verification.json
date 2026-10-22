@@ -1,0 +1,38 @@
+{
+  "release": "v0.61",
+  "ROM_sha256": "506b023d229904dff1779f4a9d2a06647716537e71d4607b6fa26d38b51e8a4b",
+  "changed_battle_ids": [
+    464,
+    465,
+    498
+  ],
+  "unchanged_battle_messages": 605,
+  "main_groups_byte_identical": 870,
+  "main_selections_unchanged": 6957,
+  "native_name_SIDs_checked": 2512,
+  "unchanged_native_names": 2510,
+  "changed_name_SIDs": [
+    873,
+    874
+  ],
+  "aliases_preserved": 464,
+  "compound_names_redecoded": 16,
+  "shared_061F_unchanged": true,
+  "shared_B2_tail_unchanged": true,
+  "original_RTS_and_source_tables_unchanged": true,
+  "native_font_bytes_unchanged": true,
+  "BPS_reapplied": true,
+  "IPS_reapplied": true,
+  "wrong_sources_rejected": [
+    "modified_JP",
+    "copier_header"
+  ],
+  "guard_mutations_rejected": [
+    "026759",
+    "069209",
+    "06FEF0"
+  ],
+  "protected_bytes_unchanged": true,
+  "recipe_idempotent": true,
+  "natural_battle_validated": false
+}
