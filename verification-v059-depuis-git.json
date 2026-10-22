@@ -1,0 +1,32 @@
+{
+  "release": "v0.59",
+  "verified_commit": "57881590877ac7488a66c792a07649d5087d6feb",
+  "fresh_git_archive": true,
+  "restore_sources_exit_code": 0,
+  "prepare_build_verify_inventory_exit_codes": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "published_file_hashes_verified_before_and_after": 26,
+  "ROM_sha256": "1b974538502319d1ba9d5020dd43708361d98b7bf985f66aab7c242a58aecceb",
+  "BPS_sha256": "070792b62c89780c84741ee2e9643a51bc77a5e1b71e441f9dde45194b991b67",
+  "IPS_sha256": "44ec459feca92355d9aa477b806043d186a13a7eff38f5d8ccd01133a3cbf5b3",
+  "changed_battle_ids": [
+    337,
+    428,
+    454,
+    455
+  ],
+  "battle_integrated": 40,
+  "battle_prepared_not_inserted": 67,
+  "main_selected": 6957,
+  "main_linguistic": 6948,
+  "main_structural": 9,
+  "new_emulator_tests_during_original_checkpoint": true,
+  "emulator_tests_repeated_in_fresh_restore": false,
+  "emulator_report": "dq6-fr/v0.59/qa-emulator.json",
+  "natural_battle_validated": false,
+  "final_project": false
+}
