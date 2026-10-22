@@ -1,0 +1,1301 @@
+[
+  {
+    "id": 311,
+    "preparation_plan": "{BC}{B7} charge à une vitesse folle !{B1}{AC}",
+    "french_plan": "{BC}{B7} charge à une vitesse folle !{B1}{AC}",
+    "source_message_sha256": "9c2daec234027974ca29e79e4a4713a0d2423486132f5bd530d939b6341a2494",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 367,
+    "preparation_plan": "{BC}{B7} change d'arme pour {B5} !{B1}{AC}",
+    "french_plan": "{BC}{B7} change d'arme pour {B5} !{B1}{AC}",
+    "source_message_sha256": "4e2e1e33734bdc9b0288b9f82e7f1a3b405477312fb84e70fd7656532ad4f4ea",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/variables v0.60 ; B5 item testé par le résolveur natif,397 audité séparément sur noms distincts et homonymes.",
+    "isolated_revision": null,
+    "layout_revision": "AD de disposition seulement ; autres commandes conservées."
+  },
+  {
+    "id": 382,
+    "preparation_plan": "Mais l'élan provoque une chute...{AD}et un coup avec sa propre arme !{B1}{AC}",
+    "french_plan": "Mais l'élan provoque une chute... et un coup avec sa propre arme !{B1}{AC}",
+    "source_message_sha256": "a421cd535d4cb0f27f70060b147d56e69d06c1bc77ff0c2cd6e8eabb1df6a6d1",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 44,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "694440691928a2ca21992717d984ca66d2e23eea64e3e79de24271749a319199",
+        "fr_text_sha256": "f2797828928ef7678644058257d8d85c47076b30b7af3823475d5ca08a612c17"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 389,
+    "preparation_plan": "{BC}{B7} exécute une danse bizarre !{B1}{AD}Mais rien ne se passe !{B1}{AC}",
+    "french_plan": "{BC}{B7} exécute une danse bizarre !{B1} Mais rien ne se passe !{B1}{AC}",
+    "source_message_sha256": "2765bf5ce16a5aef8eb6cdacf6d768576414ab8bb07bd550f798be1de2a115ec",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 390,
+    "preparation_plan": "{BD}{B7} poursuit sa course...{AD}et disparaît au loin !{B1}{AC}",
+    "french_plan": "{BD}{B7} poursuit sa course... et disparaît au loin !{B1}{AC}",
+    "source_message_sha256": "1d51fdd0dbec0e7652c0e2dcdefd0f1374a4e1d3534773ff645b2f1fbeca6d6f",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 69,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "02090fb912ceba5073f0608f40e07a9b46f3ba01b642859e6013975ede0900b6",
+        "fr_text_sha256": "fd0339c8a5a56158842aa71889da10b1e4920b1610ebe44791a1741f33b711fc"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 395,
+    "preparation_plan": "{BD}{B8} n'arrive toujours pas à se relever !{B1}{AC}",
+    "french_plan": "{BD}{B8} n'arrive toujours pas à se relever !{B1}{AC}",
+    "source_message_sha256": "17dcf111a5ff176ce49ed26e72aad6cabeab6b7844d72871e676965c60b797fe",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 25,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "b1b93080e245af1d9261ebec7430c629b0426868edd3459ddfc68c17422f1f61",
+        "fr_text_sha256": "bbb5bfd5ef84f58a882d56bf2bea9fe99689b3269af6ec6197140bee08e2cf02"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 397,
+    "preparation_plan": "{BC}Dans sa confusion, {B7} serre{AD}{B8} dans ses bras !{B1}{AC}",
+    "french_plan": "{BC}Dans sa confusion, {B7} serre {B8} dans ses bras !{B1}{AC}",
+    "source_message_sha256": "ca68dc3ffc83ecd9d087b918a46c0bda7d787f59ce9a441a536957adcee12674",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 59,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "eb4c19df07ff9b564c1402d2d1d095840b38d715c01fdf66eab5878e9053856a",
+        "fr_text_sha256": "8d2664536893fdb63bba0fa211867627c08c7c132811c65f8ca96c2bffd9d2bd"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/variables v0.60 ; B5 item testé par le résolveur natif,397 audité séparément sur noms distincts et homonymes.",
+    "isolated_revision": "397 : AD remplacé explicitement par un espace, test du suffixe homonyme obligatoire avant acceptation.",
+    "layout_revision": "AD de disposition seulement ; autres commandes conservées."
+  },
+  {
+    "id": 398,
+    "preparation_plan": "{BD}Mais {B8} repousse cette étreinte !{B1}{AC}",
+    "french_plan": "{BD}Mais {B8} repousse cette étreinte !{B1}{AC}",
+    "source_message_sha256": "d466f70a87adb5b0ae8a730d929d10ce00c68de62e3e063c05203fffee9b5a53",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 61,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "b61bdc591c51edb46a9172be2a953a24a9e78fcc43496837ac4049c2c9b31d11",
+        "fr_text_sha256": "5870ea8198e94a9e024262bfc3f19547e0774d819b7b85aa86e3a53bd866c605"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 403,
+    "preparation_plan": "{B8} a l'esprit embrouillé !{B1}{AC}",
+    "french_plan": "{B8} a l'esprit embrouillé !{B1}{AC}",
+    "source_message_sha256": "86dffae2b2f9e3c8c6087d51ceac0471d449e9e2a3d9dceb1b5d22deab43cb7f",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 891,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9cdcd9f20bbad9b20fd1c194ab2bbdbc0fcab95c480f93abae82901ef1e5c610",
+        "fr_text_sha256": "ac528f8cc03416fb3b64896d9bdcea0da1b89c67c1573b3fffe90796150f1a93"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 404,
+    "preparation_plan": "{BD}Une brume étrange jaillit du corps de {B7}{AD}et enveloppe les alentours !{B1}{AC}",
+    "french_plan": "{BD}Une brume étrange jaillit du corps de {B7} et enveloppe les alentours !{B1}{AC}",
+    "source_message_sha256": "74a60021020389298edc454e293701b32654bae5732fcb8a3b016d767879d49f",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 407,
+    "preparation_plan": "{BD}Un génie aussi grand qu'une montagne arrive{AD}en poussant un rire terrifiant !{B1}{AC}",
+    "french_plan": "{BD}Un génie aussi grand qu'une montagne arrive en poussant un rire terrifiant !{B1}{AC}",
+    "source_message_sha256": "65d5f310bf1b9960fb9dfbe61f0dc610ec720ffba2906ffaaa6b28f508502558",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 408,
+    "preparation_plan": "{BC}Le génie attaque !{B1}{AC}",
+    "french_plan": "{BC}Le génie attaque !{B1}{AC}",
+    "source_message_sha256": "7aa9efb7f2fc4b10c7582125750bdb136317354c80cc5e37675589fb201f7be4",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 110,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9a4171d2ad090e8528eafedece53204361352cc6819fcd82230ad0803478e34b",
+        "fr_text_sha256": "8a662fb2bd01ac393cbfacdc87d4c51d91603345aa82ae91e03658b915a3df0b"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 409,
+    "preparation_plan": "{BC}Le génie s'en va, riant toujours.{B1}{AC}",
+    "french_plan": "{BC}Le génie s'en va, riant toujours.{B1}{AC}",
+    "source_message_sha256": "16228e01b6adc7a99b07ec4a2bfdf5b942be664332cf3f7406887d46d53ce1a6",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 113,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "c8477621208bbc0617d3c51aa979b70aacc2a82a4d2ac1cf6553b53fa00f1894",
+        "fr_text_sha256": "8be2434d2f78020e4eadfcd0212424acae8823547d14b9aaab26e95c2ae932dd"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 412,
+    "preparation_plan": "{BC}Le gel empêche {B7} de bouger !{B1}{AC}",
+    "french_plan": "{BC}Le gel empêche {B7} de bouger !{B1}{AC}",
+    "source_message_sha256": "5a42e667787bf9bc9d16656111ba6b922945654cf0bb5c185a2013fd5e292d26",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 413,
+    "preparation_plan": "{BD}Une pluie de météorites tombe du ciel{AD}et s'abat sur les alentours !{B1}{AC}",
+    "french_plan": "{BD}Une pluie de météorites tombe du ciel et s'abat sur les alentours !{B1}{AC}",
+    "source_message_sha256": "7b8af6db8a60e61634180b9be2b5f16a0eceb24b69735e2677e86983330a8ca4",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 117,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "eb1a8a8e7b5a309513023ddddff4083eb4d8198adb10b990232c55e25f35cc7b",
+        "fr_text_sha256": "be2e8c88379b72d26016c64a514804c8dd4f17f770fd2fc904d9a8fead5d04b0"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 414,
+    "preparation_plan": "{BD}{B8} récupère ses PM !{B1}{AC}",
+    "french_plan": "{BD}{B8} récupère ses PM !{B1}{AC}",
+    "source_message_sha256": "071cc6ab23896af3b72ee896a1bb648d600a3f232d0a09bfb98281dadd164848",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 115,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "cc97fcbcc6f52cbfd641e7d02d13b02ce10140cb5843daedb5af8d430e92dbca",
+        "fr_text_sha256": "a55e0d3462decf8ab00a82012a2f2cdaa84c22d880ea940cc302a18600603157"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 415,
+    "preparation_plan": "{BD}{B8} récupère {BB} PM !{B1}{AC}",
+    "french_plan": "{BD}{B8} récupère {BB} PM !{B1}{AC}",
+    "source_message_sha256": "921af801943b0b1f21d6dcbed0fb4c2615166868a9bb26ac42d9c36d3908298e",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 800,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "632f6d78b7ef7e74d8d5647feef4d6a383271575b868c597da94f36de40f604c",
+        "fr_text_sha256": "2c0e9bdf7d429e7e10162f8529dc51c1a4e32360416f12cff67d5b79a75890cf"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 432,
+    "preparation_plan": "{BC}{B7} exécute {B2} ???{B1}{AC}",
+    "french_plan": "{BC}{B7} exécute {B2} ???{B1}{AC}",
+    "source_message_sha256": "ce4e81048cacef59600157c5cd0d4aa753a158bdee6de68399a7bc80e400275f",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 433,
+    "preparation_plan": "{B7} ne peut pas s'équiper avec {B5}.{AC}",
+    "french_plan": "{B7} ne peut pas s'équiper avec {B5}.{AC}",
+    "source_message_sha256": "769532ac228bda7452a80bdbc14dd984799e79cc853a873a68d20c48652c636d",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 51,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "e62e23953ec247339c7bcbd2d9903a8b57c663cc18f96aa9d540b3a419dc4287",
+        "fr_text_sha256": "dc7440756f9cb9cd179a8b2361073bd77edde7b01c98ae1c9eff37b123580592"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 434,
+    "preparation_plan": "Impossible de s'équiper avec {B5}.{AC}",
+    "french_plan": "Impossible de s'équiper avec {B5}.{AC}",
+    "source_message_sha256": "97ea801783f5b3ac14ed3ea398fad0486a27ce5cd4a4b7cb129ab4c44ab77d1a",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 435,
+    "preparation_plan": "{B7} s'équipe avec {B5}.{AC}",
+    "french_plan": "{B7} s'équipe avec {B5}.{AC}",
+    "source_message_sha256": "87333cb191144a999fbd5d6de2c2ebad4a24c37e382ff6cee6a4e7cd66b41cb4",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 436,
+    "preparation_plan": "{B7} ne possède aucun objet.{AC}",
+    "french_plan": "{B7} ne possède aucun objet.{AC}",
+    "source_message_sha256": "edc917818f695e68dbbbc3fd9910a86625bcf2c3bc5466977fe2c0109ddd8cc9",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 53,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "365c2c53cbda353b65a3e10df83bd6d952222c0fcab1ecd1629fa6b00df22400",
+        "fr_text_sha256": "a001beced731400fab1089a832e1cb8df9547a7f158fa49fb459e3039f5bbd40"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 437,
+    "preparation_plan": "Aucun compagnon pour établir une tactique !{AC}",
+    "french_plan": "Aucun compagnon pour établir une tactique !{AC}",
+    "source_message_sha256": "a9b7a96bbe96a92cb7eea4e3d9276181846db97ab94b62699932379cfb5d400d",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 452,
+    "preparation_plan": "{BD}{B8} écoute attentivement la chanson !{B1}{AC}",
+    "french_plan": "{BD}{B8} écoute attentivement la chanson !{B1}{AC}",
+    "source_message_sha256": "008e7dfc9ccc40cd495fc162264eeffaf479e8875623a8b7c869c7d7d7385573",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 153,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a2c71a88106c647334c96f4e3b7238ada2964c960f3976a215a28c133835d26d",
+        "fr_text_sha256": "904062ca3df97bc130bfd3cf8744f424a584037e2c26acba9c9ac373a55499cd"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 453,
+    "preparation_plan": "{BD}Mais {B8} refuse d'écouter !{B1}{AC}",
+    "french_plan": "{BD}Mais {B8} refuse d'écouter !{B1}{AC}",
+    "source_message_sha256": "ff48a60635dfa6fcd8903dac0f9401dc2fc30934cf2a99ec6180da75169c6383",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 155,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4f14c9efe3c6d6d063afdd750771d591fb900f04f5af5acaa5486bec32bd85a8",
+        "fr_text_sha256": "45806360897922a169a6c113b3ab296f6ff9a7a9e0647aa8b143e957ceedf6c6"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 461,
+    "preparation_plan": "{BC}{B7} essaie de penser à un nouveau jeu.{AD}Mais impossible de s'amuser vraiment{AD}tant que la paix n'est pas revenue...{B1}{AC}",
+    "french_plan": "{BC}{B7} essaie de penser à un nouveau jeu. Mais impossible de s'amuser vraiment tant que la paix n'est pas revenue...{B1}{AC}",
+    "source_message_sha256": "f8f460d5f807a4d7ee70bd1e1e4bf712f44455774ced5e09ec6b6a1d8a992e07",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 174,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "302bbbd63206240e7bf06c7e4c99a711b65aca6ed3f0f73bf200b51bb26a87b1",
+        "fr_text_sha256": "2217f682abc5856be6bd2b736d66bf02dad2f314731a454692840a5e179413e0"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 175,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "aab1928cd45f8af602d13c44e3f2a086c555f2577d5d24893d3483307913cfb7",
+        "fr_text_sha256": "cf135e99b272da56e6b3c4ab4a767c18bea2ef810dccd67e875cab512db21439"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 466,
+    "preparation_plan": "{BC}{B7} sort un bout de ficelle et commence à jouer en solitaire !{B1}{AD}{B7} trouve ce jeu de ficelle bien triste en solitaire.{B1}{AD}{B7} soupire et range le bout de ficelle.{B1}{AC}",
+    "french_plan": "{BC}{B7} joue à la ficelle en solo.{B1} {B7} trouve ce jeu triste.{B1} {B7} range la ficelle en soupirant.{B1}{AC}",
+    "source_message_sha256": "46d0aabd1e09ec94cbe1aad50f309747e3a1ec7392632bdb8d759d86a6781b3b",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 185,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "83521bfaa63e163433094202c40500f44df4c2b7513e0998e80f63c9fb49d75c",
+        "fr_text_sha256": "f0235a89bf01a7587e4fd8700c454d6b591b0adbab7405823058c53dde391707"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 186,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "5848017006c555be872ec0f961c3aa2f473593df75172edca9443c0248c6d86a",
+        "fr_text_sha256": "89160230cd60260a916a88f061d666d70bc2bb97e30b7e2b9e08ce60a3cdda34"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 187,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "7a4381ede3a799cd85a506a68c1edc7ed37c914f7b2362b2e72b3ae3961b61b6",
+        "fr_text_sha256": "f622ebf2f4b80f0e31914477230c1b2d3cdb2e1b08eeee7a07ff57fa2086de64"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": "Réécriture française concise relue contre le japonais pour tenir avec les noms longs ; sens et contrôles natifs conservés. Voir revisions.py et delta. Formulation en solo sans accord de genre imposé.",
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 467,
+    "preparation_plan": "{BC}{B7} pense à des choses coquines !{B1}{AD}{B7}. Hé hé hé...{B1}{AD}Le nez de {B7} n'arrête plus de saigner !{B1}{AC}",
+    "french_plan": "{BC}{B7} pense à des choses coquines !{B1} {B7}. Hé hé hé...{B1} Le nez de {B7} n'arrête plus de saigner !{B1}{AC}",
+    "source_message_sha256": "1659b0dfc456bdcd8e9a1858c545328398590c8e67dccc91ed54973127094c1c",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 189,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "658075b3b2707d5d1bcf7ba06c641961be933d6a75ecb4be7086f6ff92480d1d",
+        "fr_text_sha256": "2b7be96b07002317309951f561d48d024032f4fe66bec3e154a57a475c45de45"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 190,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "e86fcc2547c6a80c1e0a05ca35a1b02846fd2d83d2a98962a5ebbf56c0a5c818",
+        "fr_text_sha256": "ac3eaa0f8fc8840bbb9e85f88c0113c7f8a0bf1de84e86aa40698827f6cfa04b"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 191,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "7f7803db41f20d29ab916cfb1a7965a582b3613843919cfae70ea9ec56bdc47e",
+        "fr_text_sha256": "c4b6fcc786bdcd74ae883b6f2ae8e9112ae348adc96138eb2a02e8a1ce5fd6f2"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 468,
+    "preparation_plan": "{BC}{B7} sculpte une poupée avec un couteau !{B1}{AD}On dirait que la poupée est vivante !{B1}{AD}{BC}La poupée attaque !{B1}{AC}",
+    "french_plan": "{BC}{B7} sculpte une poupée avec un couteau !{B1} On dirait que la poupée est vivante !{B1} {BC}La poupée attaque !{B1}{AC}",
+    "source_message_sha256": "9d1466fe3889a4cb3ae8f59f75d7f33173a6329b7796fda7ddee6c7e71e12eb3",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 193,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "5cf8d9cc4e044d19dfcb8ad9947e6ee84a351f0aac3e291a13c930e6acbb97f4",
+        "fr_text_sha256": "60d375cd7a24207ae5160e3ca7e4e9bf0a4e848d3742965eee07cddfbee62f0f"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 194,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "535c1c49bb81612b0fdfce0151df4070db4715b9585b54c506c7e7df7648f3ea",
+        "fr_text_sha256": "c01c916f62bebd9029e1bd43edee0410f45aeb0acba3b97cc16abed53aec054d"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 196,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "6c8d34021be330507a3ae1c656bb11227241d0dccea6740499eab648b15b948a",
+        "fr_text_sha256": "c8564811c7ebc32b0fc0ffa6deaad0eea99bca6ded5407a3033cf65c3a38360b"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 469,
+    "preparation_plan": "{BC}{B7} se met à boire de l'alcool gardé en réserve !{B1}{AD}{B7}. Comment résister à un petit verre !{B1}{AC}",
+    "french_plan": "{BC}{B7} se met à boire de l'alcool gardé en réserve !{B1} {B7}. Comment résister à un petit verre !{B1}{AC}",
+    "source_message_sha256": "eae784bfc393c9c74241ca47bcd1e5a05c08d785732248261b0ba0a2e999be46",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 199,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "45a3ef9c9d640c73d60315073f93f8f9a12360b3a3e77efa7875e3b5bd2cb6d8",
+        "fr_text_sha256": "841195d75f5d28d81c363bed5667557103b4626eeee6824caf91ac30bb6e2953"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 200,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "7fb849bb7f390db826a7f3999982ab2dd84612fc4b9e8be6f3025b6a233e8912",
+        "fr_text_sha256": "4e4000d5921a2c6800d4f538be44169914ae346e3f4a495cd5113b21843fc08a"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 470,
+    "preparation_plan": "{BC}{B8} commence à sentir les effets de l'alcool !{B1}{AD}Et voilà que {B8} s'endort !{B1}{AC}",
+    "french_plan": "{BC}{B8} commence à sentir les effets de l'alcool !{B1} Et voilà que {B8} s'endort !{B1}{AC}",
+    "source_message_sha256": "a64c32d2c79f10e39262855ddfee27fb867687871d5aed1aff2253c8ea9c4c71",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 201,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "685cc3d67483c06cb07f281a19a33380d11b8e2eab90d53e370d606daf8fa357",
+        "fr_text_sha256": "1c0688a16d89183077772ebd2439f24bcf8926d826fed8c17ad752e48bfaee83"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 203,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "fd2f7467c756967a2269a250384214a8ef6d9afbbe62950c02a933ad91972ea4",
+        "fr_text_sha256": "716234d894d28784ba8dd5cb2996292c4fb9d1e4a7f811bbb2e7aba4f9dd67ce"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 471,
+    "preparation_plan": "{BC}{B7} se met à chanter très fort !{AD}Et terriblement faux !{B1}{AC}",
+    "french_plan": "{BC}{B7} se met à chanter très fort ! Et terriblement faux !{B1}{AC}",
+    "source_message_sha256": "e65805feb3dce0e6b25bc38224f017f5d3d0b24d34d09781d1ec75c23c2b356d",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 205,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "30f377a8a4a541889d10e0cfaff525e310c9f3cf001ef7d97a2e6517e974ebb6",
+        "fr_text_sha256": "2c83c913fd4bdfc3002fb54caea045c233fe9b7d1473464377332a59af3e29dd"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 473,
+    "preparation_plan": "{BC}{B7} prend en bouche de l'alcool très fort{AD}et en approche une flamme ! Pfff !{B1}{AD}{BC}Un souffle de feu jaillit de sa bouche !{B1}{AC}",
+    "french_plan": "{BC}{B7} prend en bouche de l'alcool très fort et en approche une flamme ! Pfff !{B1} {BC}Un souffle de feu jaillit de sa bouche !{B1}{AC}",
+    "source_message_sha256": "2eaaa3866f7ac11e8eba3a6c67565df1cda86fc0e476239deac6e529f32c6c71",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 210,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "192f88f267eb2b00cd161725d1929f3ee059825a813c4080b464590b26150102",
+        "fr_text_sha256": "a82082548f10cedfae5ddc8bd7c98e8c8cb308c8fb39ee8740d1eaae6dcadf42"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 212,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9113b275a89489226750d533fb81c860621548e1e66a0c560cacb2fe2850bb81",
+        "fr_text_sha256": "63d5737639199993bf2a8914be8fd865bab72c20eeb2f73cd3a9bcac763ff8dd"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 213,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4d82f5a0e4fa482048b290bbd3eeecd0728224c4adb1875037576b95396047a4",
+        "fr_text_sha256": "2f49fdea7ed426243b03bded3eb7554cba1393ea6ff868b145e3fb1d752c79da"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 493,
+    "preparation_plan": "{BC}{B7} se met soudain à chercher une fourmilière !{B1}{AC}",
+    "french_plan": "{BC}{B7} se met soudain à chercher une fourmilière !{B1}{AC}",
+    "source_message_sha256": "90e76acade8f92ad6e965dcb38dfbc426d1057c909320ebfc93c729aec467bc7",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 268,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4d623edfd6994edc4d5fde4c66f830124741e53f003aa2251048f30a12c00ab5",
+        "fr_text_sha256": "0d2711d25f514d24f5eb8a6ab75674618a3a98084995aa3aef53621b19f61855"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 495,
+    "preparation_plan": "{BD}Quelle chance ! Une fourmilière !{AD}{B7} y donne des petits coups de bâton !{B1}{AC}",
+    "french_plan": "{BD}Quelle chance ! Une fourmilière ! {B7} y donne des petits coups de bâton !{B1}{AC}",
+    "source_message_sha256": "f8e04cd8cd6dee28b75aa2d7b3e9c36e61c8912826c1364a6e926abca0aebd90",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 271,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9046c65abd3314aedd0bd1256dcf8e37f650b916f0c335ce1f2605e9f8fab042",
+        "fr_text_sha256": "6ca892787c0391138d7b74ed86c3cef93b77f37633289fcd761c2b84656b658a"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 272,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "b95424bdd281d065ced15f3cd7e0b2dc173d3fa1423c0a4351da08c8b0ec634a",
+        "fr_text_sha256": "5d7021bd7a698dee3d9d9566c600e363bc0a7f543696d71c7e4913602f473fd2"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 499,
+    "preparation_plan": "{BC}{B7} imite la voix de {B3}{AD}pour essayer de changer les consignes !{B1}{AD}{B7}. Je m'en occupe !{B1}{AD}Mais l'imitation est complètement ratée !{B1}{AC}",
+    "french_plan": "{BC}{B7} imite la voix de {B3} pour changer les consignes !{B1} {B7}. Je m'en occupe !{B1} Mais la voix est mal imitée !{B1}{AC}",
+    "source_message_sha256": "7663d13f784c6ae6e8381d0c359ef6a5965014dc08dec5c4bfcf90e743fb14e7",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 288,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "44829b1a4fac1dce9db4d9fa2c996fe8f1fe800df28ac0c7ff8febdfaf39fe0c",
+        "fr_text_sha256": "50bf4f927424cd28f17b74c13af252ae7200336cb6ae63e5d6356e4bf890923b"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 289,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "23521b27c1dcf2c20104d2cd6d39f2c8d33be7447571260e6cbcdfa4c599235b",
+        "fr_text_sha256": "23a86ee96fa73c3d83aa28168b9c0befcb3b1c72883fa2f927155c9ed2bf224b"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 290,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8bfce3d5e1556ac00cb1888edfd9958e62e8fbef96476fa60a1a1c2aaf9a0d94",
+        "fr_text_sha256": "a404092072fbdfd52a44992140f15678197f0650bb2c278b296d9dc1c5e0394e"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": "Réécriture française concise relue contre le japonais pour tenir avec les noms longs ; sens et contrôles natifs conservés. Voir revisions.py et delta.",
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 500,
+    "preparation_plan": "{BC}{B7} se met soudain à danser dans tous les sens !{B1}{AD}Son arme tournoie dangereusement aux alentours !{B1}{AD}{BC}{B7} attaque !{B1}{AC}",
+    "french_plan": "{BC}{B7} se met soudain à danser dans tous les sens !{B1} Son arme tournoie dangereusement aux alentours !{B1} {BC}{B7} attaque !{B1}{AC}",
+    "source_message_sha256": "8ea71f35e3fb8fe44b150558e93cb2ea6d08ab6bf1e3aabfe2d82cce0b8d23a7",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 501,
+    "preparation_plan": "{BC}{B7} essaie un sort tout juste inventé !{AD}{B7}. Dingue-dong !!{B1}{AC}",
+    "french_plan": "{BC}{B7} essaie un sort tout juste inventé ! {B7}. Dingue-dong !!{B1}{AC}",
+    "source_message_sha256": "1b636482edcf603603758750ab6273dffb1624da573b391d94ac0d4f560a1975",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 282,
+        "scope": "FRAGMENT_LEXICAL_EXPLICITE_ZAORIMA_DINGUE_DONG",
+        "ja_text_sha256": "0bd407cffbf90ec52f55970682cafcde6c3bf87d56370a972b2ad9d330e5d456",
+        "fr_text_sha256": "c761e0feee67733f6974f6b1318b0b4ea64d9b2c53c216a0b0f6eb4a1018f52f"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 285,
+        "scope": "FRAGMENT_LEXICAL_EXPLICITE_ZAORIMA_DINGUE_DONG",
+        "ja_text_sha256": "0bd407cffbf90ec52f55970682cafcde6c3bf87d56370a972b2ad9d330e5d456",
+        "fr_text_sha256": "c761e0feee67733f6974f6b1318b0b4ea64d9b2c53c216a0b0f6eb4a1018f52f"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 502,
+    "preparation_plan": "{BD}Incroyable ! {B8} revient à la vie !{B1}{AC}",
+    "french_plan": "{BD}Incroyable ! {B8} revient à la vie !{B1}{AC}",
+    "source_message_sha256": "add5f467a8e970939b5c49d785967310f1b1240eb223d3077034fe19aca6c260",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 503,
+    "preparation_plan": "{BC}{B7} se met soudain à jouer à la dînette !{B1}{AD}{B7}. À table, le repas est prêt !{B1}{AC}",
+    "french_plan": "{BC}{B7} se met soudain à jouer à la dînette !{B1} {B7}. Le repas est prêt, à table !{B1}{AC}",
+    "source_message_sha256": "93dfd1b63ab339df47e1230464d4b998663c328286c6f403a89125dabaec3013",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 297,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "61cb5a1cee4d6220752e85d1ac9febce384d463127c655fc75aae901ddafc5ce",
+        "fr_text_sha256": "860ebb24ff605a59755610b86ebaee081e792d3e45eaa8c56b51ccc0c2378b87"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 298,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "6ee5f8c3e28901be4f42629fb79a4ed697c5f3c00fed5e030b8c9c7cb9d1e063",
+        "fr_text_sha256": "bc0171dfa3f25a05970c96b172a9c23efb6bfb62e60d6b95b2c4f8e9e764a3b8"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": "Réécriture française concise relue contre le japonais pour tenir avec les noms longs ; sens et contrôles natifs conservés. Voir revisions.py et delta.",
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 504,
+    "preparation_plan": "{B8} s'approche en titubant{AD}et commence à goûter la nourriture !{B1}{AD}{BC}C'est infâme !{B1}{AC}",
+    "french_plan": "{B8} s'approche en titubant et commence à goûter la nourriture !{B1} {BC}C'est infâme !{B1}{AC}",
+    "source_message_sha256": "fe68c72af05fe1400ebeccac8b579fa390836f040ebf566d5e6c734a0eee7bb4",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 301,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "626523cc389aa21e5b72f8f16604efc8de868ac46cd237d58751306f8a0f2563",
+        "fr_text_sha256": "217994aa7888d0abd8df355ad6e3ae2940ec4196ff83e7e549ccf2d2d50461b8"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 302,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4e424e5c168d9e5f06bd592d3749b4a01f004011f27ad9b567fd67330942766b",
+        "fr_text_sha256": "b64fe5a68a849963383c27efdfb057e4f2ee99bedbef3e471bfffccac36d237e"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 505,
+    "preparation_plan": "Mais personne n'y prête attention !{B1}{AC}",
+    "french_plan": "Mais personne n'y prête attention !{B1}{AC}",
+    "source_message_sha256": "c1dfba863aec35a7ee626ff2bb46d73265a081714d8e9fab396fe18358afdff3",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 305,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a91bd24e6d1fa67070f24daf14f4366a6d2d7fd5e244f5f28393b01ab7374300",
+        "fr_text_sha256": "5d07ac3a2ad2c196184d2fcf8ed99654c1d4e1567e072ed6e6e5d1237b1f4c9a"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 509,
+    "preparation_plan": "{BC}{B7} enfile soudain un maillot de bain{AD}et se met à danser !{B1}{AC}",
+    "french_plan": "{BC}{B7} enfile soudain un maillot de bain et se met à danser !{B1}{AC}",
+    "source_message_sha256": "bd8d8753898e20711457a405093d759ce8fd4df9421e51be7aa1f7d762e59fee",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 315,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8d3023d811b0e59d7040106bd49dd2037dda3a2d5d62f9e569eac3a0e249dc61",
+        "fr_text_sha256": "d3f676729d1ac54bd21d9ed966d2adaf40aaedd00654f2a8dcb30c77f3087271"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 510,
+    "preparation_plan": "{BD}{B8} ne pense plus qu'à{AD}{B7} !{B1}{AC}",
+    "french_plan": "{BD}{B8} ne pense plus qu'à {B7} !{B1}{AC}",
+    "source_message_sha256": "b05d92b9c4abd6c0b19e832bb21fcaeaa015ed22a82fb15d908815196cc53721",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 320,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "65430f6bba9b8d62512c0de9810dac61cbaef6a094e06ac4ff9d07bc391ac7f7",
+        "fr_text_sha256": "0c4a469f155263d6a708e4633311db115ee2181e0a87e8f83cc1f3ff0e5caa3c"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 511,
+    "preparation_plan": "{BD}Mais {B8} n'y prête aucune attention !{B1}{AC}",
+    "french_plan": "{BD}Mais {B8} n'y prête aucune attention !{B1}{AC}",
+    "source_message_sha256": "7a7e6170157d4e690d6bdd8232ec3f3470004c4c2e44d002e002e0a0d2a2e66a",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 322,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "0e9bc0d38e01ae57b7ef430470beff7d0a7734cd67dbc8c387d34c0d6872ca30",
+        "fr_text_sha256": "0340e74e319062f7aea3a3c618527fb1f3e3e09cb57a8028b561649cef4452f6"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 514,
+    "preparation_plan": "{BC}{B7} commence à faire en cachette quelque chose de douteux !{AD}Quelque chose de vraiment douteux... !{B1}{AD}Tout le monde fait semblant de ne rien voir !{B1}{AC}",
+    "french_plan": "{BC}{B7} joue en cachette à un jeu douteux ! Vraiment douteux... !{B1} Tout le monde fait semblant de ne rien voir !{B1}{AC}",
+    "source_message_sha256": "8521f1a7a07d86fc78d518c6c9a6aeb12965e987ea09774a2efda11a9ddfcde9",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 324,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "835b8beaf28a8f57677e2a6f492d57b6135f85322cfbed7086f3ef7f693786b5",
+        "fr_text_sha256": "d02c56ed0989b5fc81be1f69446619e18414c85c8a41398eed3d9accfab0f25c"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 325,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "1cff8652e579a9c4a5df19740fb074b9f7e129c398b4d6bbdbb7f1f606f675d8",
+        "fr_text_sha256": "fa23af1b648ef4d73b355dd94ef0e3208f43735f855d437aaa3fa84b177df44f"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 326,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "885fb33a46a9d74d982c99c434ddd827d8c9f5314eb1f8c292ef2bd3064675cd",
+        "fr_text_sha256": "a9768804014deeec9c02883e8b5a048e25d5dc5ac24dab6d1af572899e1dd9b3"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": "Réécriture française concise relue contre le japonais pour tenir avec les noms longs ; sens et contrôles natifs conservés. Voir revisions.py et delta.",
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 515,
+    "preparation_plan": "{BC}{B7} cherche à attirer la sympathie.{AD}Oh, pauvre de moi...{AD}Les larmes coulent des yeux de {B7} !{B1}{AD}{BC}{B7} n'arrête plus de pleurer !{AD}Les larmes forment un raz-de-marée qui s'abat sur les monstres !{B1}{AC}",
+    "french_plan": "{BC}{B7} cherche à attirer la sympathie. Oh, pauvre de moi... Les larmes coulent des yeux de {B7} !{B1} {BC}{B7} n'arrête plus de pleurer ! Les larmes forment un raz-de-marée qui s'abat sur les monstres !{B1}{AC}",
+    "source_message_sha256": "a568d5c8abeb671c8036f82fe4ab5b2bbef962ae5c50bf1a774f9d13f7efb6a2",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 328,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "96e0367725086d3cc3a79d23ab9ddf002ec105196adb4a62e8922804df054f19",
+        "fr_text_sha256": "1cd9ab3669b2bd938dd0596d5b55c68eb7604b9c87e167c8ad5edae00b90f6f9"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 329,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "278827e1210dd2b1a656fac918154eb9e81581f9de9d2f0918c8054e656ac440",
+        "fr_text_sha256": "76682480267a1ec72ac795bfe800191551e18cadf1c99eec0361377b3702b21b"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 330,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "db9e55d6a573ce3302804616695096f666017a5371ed30d50e65217b460ff67f",
+        "fr_text_sha256": "4a571c777f1130539a61985d6963fb7ed075c7a9e77fe525635efadc590343f3"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 332,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9096f72fb1c95e32498eda1671ad4c24052b14cf98cafa2f794326ae089f0d8e",
+        "fr_text_sha256": "95d523731a54ec3d85ed48b0a872b356d6c3c3dda7266623e3ac8fba61e3eb00"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 518,
+    "preparation_plan": "{BC}{B7} lance une pièce très haut !{AD}La pièce retombe dans la paume de {B7} !{B1}{AC}",
+    "french_plan": "{BC}{B7} lance une pièce très haut ! La pièce retombe dans la paume de {B7} !{B1}{AC}",
+    "source_message_sha256": "5b0c9d3b14664c51d988a98158f541ab3e155ff18fd5ed57ad046141d3d280c9",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 339,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "e1aa47642f96efeae8486eea27c2c297ca1dee456fa9afba2a38a3787779e86f",
+        "fr_text_sha256": "3b2321f89f4ff91b132a2d08d10e7656d43c171e0286dbb22ca7e796629b1aa5"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 340,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "61f305f04dfdcf728e52b58a192b04e7c588d6e9fb5f00231253371e4d7de7bc",
+        "fr_text_sha256": "877bc504b1f9407423dea5c5b16234304d8c831e1fe2e007f56f4111e88e953c"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 522,
+    "preparation_plan": "{BC}{B7} regarde au loin{AD}avec un sourire prétentieux...{B1}{AD}Mais derrière cette attitude,{AD}une profonde mélancolie envahit {B7} !{B1}{AC}",
+    "french_plan": "{BC}{B7} fixe le lointain avec un sourire prétentieux...{B1} Mais une profonde mélancolie envahit {B7} !{B1}{AC}",
+    "source_message_sha256": "bddb94fe1b76590dba74f1592c62b7146156c5a8ef179d514057d8643de69179",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 349,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "baef2b75c1c36003fca3cb2b32f6045ef4319511ced8442f7ce4b19ce0c436f6",
+        "fr_text_sha256": "e6079fe69d2f7dcc217112528e18fa7522173ea8892a128f543487a242d3a5f5"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 350,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a34b993c52aa877abdcb67298b2c4bd19ea49c5719e2cbd2b9e531f2daa70725",
+        "fr_text_sha256": "798c8774fc9f41bc2292725deea2a11f916ec54ac4035c95280fae25eda1c08a"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": "Réécriture française concise relue contre le japonais pour tenir avec les noms longs ; sens et contrôles natifs conservés. Voir revisions.py et delta.",
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 524,
+    "preparation_plan": "{BC}{B7} essaie de se souvenir d'un jeu appris{AD}auprès de Dragore.{B1}{AD}Dragore. Tu dois gagner en force... Encore plus...{B1}{AD}{BC}Les mots de Dragore résonnent de nouveau !{AD}{B7}. Raaaah !!{B1}{AD}{BC}Des éclairs jaillissent autour de {B7} !{B1}{AC}",
+    "french_plan": "{BC}{B7} essaie de se souvenir d'un jeu appris auprès de Dragore.{B1} Dragore. Tu dois gagner en force... Encore plus...{B1} {BC}Les mots de Dragore résonnent de nouveau ! {B7}. Raaaah !!{B1} {BC}Des éclairs jaillissent autour de {B7} !{B1}{AC}",
+    "source_message_sha256": "df0bf97c2a9b72cd00f7f0be995fe1ad4aa8383165f891c144ffb2dda4d9f1d0",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 355,
+        "scope": "SEQUENCE_RELUE_AVEC_VARIANTE_PARTICULE_JP",
+        "ja_text_sha256": "f490ba2f1652c9abb78c616e368adbd96a6829492bf56105dbfce167a00f2bf8",
+        "fr_text_sha256": "8bde3a7be8b702acbc627f7da9b3f8cb27b68d87b87c8a45e39d7513210eb943"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 356,
+        "scope": "SEQUENCE_RELUE_AVEC_VARIANTE_PARTICULE_JP",
+        "ja_text_sha256": "206777325249f84ad615c02b967b19eb0f0e9d2dff5d9ebe8b138a12c51904f1",
+        "fr_text_sha256": "ccd5efec170be698c0f54be844c231f1980f5924057701c3f3a7436bc9d9288d"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 357,
+        "scope": "SEQUENCE_RELUE_AVEC_VARIANTE_PARTICULE_JP",
+        "ja_text_sha256": "900b4c5a697bd80613245225d59678924b3101bd50e7489efee5fa4a4a6c9349",
+        "fr_text_sha256": "cb68c3eb92970c0bdab8a60c48cfdf6206fd340b1c17b273f093c8b30746d26e"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 358,
+        "scope": "SEQUENCE_RELUE_AVEC_VARIANTE_PARTICULE_JP",
+        "ja_text_sha256": "d74f6b8c6ee9c26dcbee2a7aab9266482943784196164307158158ffe7a3af46",
+        "fr_text_sha256": "a7bcce62f7ba02f1246ac91cec00a9802302dc24622e3cc5a7f5b0e851653876"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 360,
+        "scope": "SEQUENCE_RELUE_AVEC_VARIANTE_PARTICULE_JP",
+        "ja_text_sha256": "9f1e7f38a569b51b2384abad8da280fb87cd6276c0a35decea6187520bb3ba26",
+        "fr_text_sha256": "da177a003e7bb131ba3c65837bc577a248f67ab701795fbea09c3f1ae959c6c9"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 528,
+    "preparation_plan": "{BC}{B7} se demande à quel jeu jouer !{B1}{AC}",
+    "french_plan": "{BC}{B7} se demande à quel jeu jouer !{B1}{AC}",
+    "source_message_sha256": "5b03a2ce80fd0d2f27d834d66ca613596542037728c3949c3ea1266c9726d995",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 369,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "17ee0b1658c38c9f37a6ac65a9216c810444febc5ead0a7ee933aec211a1d445",
+        "fr_text_sha256": "b0597d1201fbe844d0d018e9afb7d8f6e1f7a248a989f3dd0f63be6113f9730d"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 530,
+    "preparation_plan": "{BC}{B7} se balance bizarrement sur un ballon !{AD}Oups ! Une perte d'équilibre provoque une collision !{B1}{AC}",
+    "french_plan": "{BC}{B7} se balance bizarrement sur un ballon ! Oups ! Une perte d'équilibre provoque une collision !{B1}{AC}",
+    "source_message_sha256": "78a8c59d1b6e06a4b9d796c0dff351cf52cd3c2c4297489746ea39aac5ed0311",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 373,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "25238650033b55dda0a9e443e1cc0f62a1aa7f1a8d10aa6130bdeb350d22dc09",
+        "fr_text_sha256": "97174b11f8b0d673dd6e1eb905dc3ef0add1c3e28212f1ceca0de27337c3062f"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 375,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "5bb8bd8d90650d35f9996b269960cfb6f8bade4110270b7d433b3db1506244e2",
+        "fr_text_sha256": "d769f38a75e3818a1ace6e5867e1f8ad34c68e44334fa3becd17dcb5d957e9a0"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 531,
+    "preparation_plan": "{BC}{B7} court autour de l'ennemi{AD}à une vitesse fulgurante !{B1}{AC}",
+    "french_plan": "{BC}{B7} court autour de l'ennemi à une vitesse fulgurante !{B1}{AC}",
+    "source_message_sha256": "76b970bedb86f4aeaad7df532d71e65ac6bf652f4250f18087834f9b48518a80",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 378,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "3622ba65c47b000004d5dbc85edc29d1ce97261fd50211cdf3530f8629ced6b0",
+        "fr_text_sha256": "a84cc6d927ed9f9ad4fe903fea6bad36f0e8373f43f7fc330324aaeba636fb6f"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 533,
+    "preparation_plan": "{BC}{B7} tente de raconter une anecdote amusante à tout le monde !{B1}{AD}{BC}Mais le récit est maladroit et tombe à plat !{B1}{AC}",
+    "french_plan": "{BC}{B7} tente de raconter une anecdote amusante à tout le monde !{B1} {BC}Mais le récit est maladroit et tombe à plat !{B1}{AC}",
+    "source_message_sha256": "a7028c1ce203488601c243f128133b14ff4746fabbfdafb423f5d5df7c3dc310",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 383,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "773ae599b996b297cd6edf0ca068f704338197ca31fe884633b704d74a10c80c",
+        "fr_text_sha256": "831132af47c5d9750e5d38089e3010c36c58bb5c16ba57026a9992fe1710aad7"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 384,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "a3d8bf4408798cb5aa95665ca9ef2164089a2035d0e3c254d965be32268eec41",
+        "fr_text_sha256": "3be7596d3f8b90df1b23057e120fc36bcca7de5fc0de9c84a1de7207770ed100"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 534,
+    "preparation_plan": "{BC}{B7} joue à rouler comme un ballon !{B1}{AC}",
+    "french_plan": "{BC}{B7} joue à rouler comme un ballon !{B1}{AC}",
+    "source_message_sha256": "7a3548ed0f49dd3cfb4fe66d58d94db959c304367ef53996190877f2404eadbe",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 386,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "bb6c5134b9a42071e574359f979cc52cee798b3d0de48ae41fc481bf1d0d746a",
+        "fr_text_sha256": "c1a44f6bbaf39b9d03a4b3fe12cee9eca02cdef7dc4a68bffa0ddbe77bc68bbc"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 535,
+    "preparation_plan": "{BC}{B7} se met à jouer avec le feu !{B1}{AC}",
+    "french_plan": "{BC}{B7} se met à jouer avec le feu !{B1}{AC}",
+    "source_message_sha256": "2b41fe0b0960150a5dbd10d13e67491401f6a1c0e46f2bb65d71c3a6b1167820",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 389,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "77a965a7b441f7b2c8ca00e7544e139f12de6f4bed7ea4b53d0e0d7ead6356b8",
+        "fr_text_sha256": "df631330fc5446bb7165b941f440aa4f3edf497be7e3ce2663494a272eb4a669"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 537,
+    "preparation_plan": "{BC}{B7} se met soudain à sauter à la corde !{B1}{AC}",
+    "french_plan": "{BC}{B7} se met soudain à sauter à la corde !{B1}{AC}",
+    "source_message_sha256": "7cf9a9e6717cdbb0fcf7512ac1d82ad111ff6100ec098fe798f5d1512bfc96f4",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 396,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "398aae2e7924615e5428586d377f127c3e71048243851a12e8f12e3a9c209d55",
+        "fr_text_sha256": "8765ab8aa89e0e6e6845ba162d26c85a7695a34d2b645d80ab96b4c19e33c901"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 544,
+    "preparation_plan": "{BC}{BC}{B7} commence lentement une histoire effrayante.{AD}Il était une fois, dans un château...{B1}{AD}C'est une histoire vraiment terrifiante !{B1}{AC}",
+    "french_plan": "{BC}{BC}{B7} commence lentement une histoire effrayante. Il était une fois, dans un château...{B1} C'est une histoire vraiment terrifiante !{B1}{AC}",
+    "source_message_sha256": "93f345de34d7983c0943012b44a345b4f59cf940843ac492b3cd4597aef88365",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 414,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "46db7a802756f0172f21258fda25f8bb8cad5fdb1091506aa621edbea36346f9",
+        "fr_text_sha256": "e7b97a2e260d61e4b61a23cd809126ea56c1629418d276d92fefa4384efded9e"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 415,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "c07b0799d36ad372a09fe249cdc0a5b652e2b6ec24a31976e9dca8fe97d7320c",
+        "fr_text_sha256": "222f9a171a6dbe746ac47b6d453c19f5746a73b5fa7ccd3c432c389979b79245"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 416,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "68d18225ce2769f4a23f419da185f6eff64d2fc106fa277f74cf1036ae84f031",
+        "fr_text_sha256": "b9a49fa3d4722d9e8c85014606548e1853e325a90504b616dec9e93359d448d3"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 546,
+    "preparation_plan": "{BC}{B7} vient de trouver le jeu ultime !{AD}Devenir quelque chose de complètement différent !{AD}{B7} prend une apparence terrifiante !{B1}{AD}{BC}L'horrible créature crache un blizzard glacial !{B1}{AC}",
+    "french_plan": "{BC}{B7} trouve le jeu ultime ! Devenir autre chose ! {B7} prend une forme terrifiante !{B1} {BC}La créature crache un blizzard glacial !{B1}{AC}",
+    "source_message_sha256": "12821806e18648c9e0ceecb3bc1190bff13d75474c73050c30f2c0fc5cbf8c1b",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 419,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "64748d3f16d699693b09b2ecd7d887234054091ad1767bf56cc6aa0bf8fc8509",
+        "fr_text_sha256": "c7f1a3a14a233f80703c6734d46698805c4195b0c2433acdd7ea5650581eef15"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 420,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "fcad9933b19a8e5ff8c3cd7aa7e822cec83c6bbbf78805e4c5dd2c0a5dfddad0",
+        "fr_text_sha256": "d12f74f3ed6d8fd117c26e7dfada7b3ad2de765edfd72e34cb7ea6a592b53f18"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 421,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9d4e5daa3fede029ae5446738a95dbac5372125412ef918b40fd1cf1e76ea8b7",
+        "fr_text_sha256": "22124e13bdc4ebaf73a13ff9bc5c999337324a1df707d10ccaa778842cacb131"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 423,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "5f7b9190ae65718f6b10efa0edfa9d908e23189981c34eed12266439d19ffc32",
+        "fr_text_sha256": "70c65d9e213da6359f273228ba51e8b6be648bb4b2fa00f7474af9a78f3dc712"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": "Réécriture française concise relue contre le japonais pour tenir avec les noms longs ; sens et contrôles natifs conservés. Voir revisions.py et delta.",
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 549,
+    "preparation_plan": "Une brume étrange apparaît !{B1}{AD}{BC}Tous les effets de la magie disparaissent !{B1}{AC}",
+    "french_plan": "Une brume étrange apparaît !{B1} {BC}Tous les effets de la magie disparaissent !{B1}{AC}",
+    "source_message_sha256": "714b8d19f3675d5f61b9c2705414c6708a6c464d753e939536e65c4a02e2faa3",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 550,
+    "preparation_plan": "{BC}{B7} se met à gonfler comme un ballon !{B1}{AD}{BC}Le corps grossit encore et encore !{AD}Paaaf !!!{B1}{AC}",
+    "french_plan": "{BC}{B7} se met à gonfler comme un ballon !{B1} {BC}Le corps grossit encore et encore ! Paaaf !!!{B1}{AC}",
+    "source_message_sha256": "40d2076d9189a30d146774a80716e74fc8fbf727c2bb97ad8e9a6d76f154fd85",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 435,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "9ef1812bdca739358dc905b04ec38c157abac103daa61e7058ea8b7a2da8fe1e",
+        "fr_text_sha256": "dcb7b8e967da033f15c4fa6e72f7958705f78ba2db20ca22ad04c3a37bc544c0"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 436,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "98ff8c1ba02590cb62851f96abd395f1a11bdff634622520d9332f7bcc3d9308",
+        "fr_text_sha256": "36144b79a0800cd5c24abfdafb20914b73117ee79c9a00c09a376e72a47029cd"
+      },
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 438,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "f3ac3d77d3a5959dea0c8c60e7123d7289ac98a786f2cdee03178f837877394b",
+        "fr_text_sha256": "e87174dac1cb33b1badd10c2493272e038bc60cc90058f86d44ecdb90b22e447"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 553,
+    "preparation_plan": "{BC}{B7} reprend sa forme d'origine en se dégonflant !{B1}{AC}",
+    "french_plan": "{BC}{B7} reprend sa forme d'origine en se dégonflant !{B1}{AC}",
+    "source_message_sha256": "666150954f26cf9bf12a9a40b28fb95d946cc6fda86e79ecc410000178abbde5",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 445,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "adf79a364dff428c53a02b95f7525e716a855d6aa3c223ccf2fb4dab03c7b25b",
+        "fr_text_sha256": "5b6b57476825024f811af2c612b778460cdcba0878d61f80bbbe3a5377bf8577"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 562,
+    "preparation_plan": "{BC}{B7} ferme les yeux et commence à prier !{AD}Une puissance maléfique envahit les alentours !{B1}{AC}",
+    "french_plan": "{BC}{B7} ferme les yeux et commence à prier ! Une puissance maléfique envahit les alentours !{B1}{AC}",
+    "source_message_sha256": "f89957b4a83849b75ae4330650aa5a1eeb4358f76797fb002247cd97c9591e99",
+    "ds_references": [],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  },
+  {
+    "id": 563,
+    "preparation_plan": "{BD}{B8} récupère rapidement sa puissance magique !{B1}{AC}",
+    "french_plan": "{BD}{B8} récupère rapidement sa puissance magique !{B1}{AC}",
+    "source_message_sha256": "947b87043ddddf9904e8761faa4c4ad09d647bcd59a3c6d2b337014b356fe1fa",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 521,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "4379d01b11c77597e695d1120ea652733df10aa3ba727cd2378d6a0a8a1ca326",
+        "fr_text_sha256": "ea4ffce20463a57bd7835cad76fda3da1c9c404bbbf68ab27612e80e7fa44c29"
+      }
+    ],
+    "review": "Nouvelle revue JP/FR/contexte v0.60 ; accents conservés, rôles et ordre des commandes SFC conservés. Tests de police et rendus requis.",
+    "isolated_revision": null,
+    "layout_revision": "AD remplacés explicitement par des espaces ; commandes hors disposition, variables et B1 conservés."
+  }
+]

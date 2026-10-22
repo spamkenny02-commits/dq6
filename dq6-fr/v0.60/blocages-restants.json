@@ -1,0 +1,54 @@
+{
+  "status": "PREPARE_NON_INSERE",
+  "ids": [
+    464,
+    465,
+    498
+  ],
+  "word_game": {
+    "ids": [
+      464,
+      465
+    ],
+    "source_words_binding": "tools/combat-v059/binding-465.json",
+    "DS_references": {
+      "464": [
+        {
+          "file": "data/MESS6/JA/0802.p",
+          "id": 181,
+          "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+          "ja_text_sha256": "58e9aae37474b99a3072cd3d01ef9c2c2bedf5c491d6d87d1f4051d5e089b355",
+          "fr_text_sha256": "99d68031681c6bd2568804086953edfaa20a2e6d046f8a4eafa943c1a0544775"
+        }
+      ],
+      "465": [
+        {
+          "file": "data/MESS6/JA/0802.p",
+          "id": 182,
+          "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+          "ja_text_sha256": "706f7eed1b6d88112d38b8843b313e12e0035e45a9a7520afbf6b6dc7162e45d",
+          "fr_text_sha256": "22a57198a042b76677d3d83122cc8bcb38514a4842df635af362070aa068c19d"
+        },
+        {
+          "file": "data/MESS6/JA/0802.p",
+          "id": 183,
+          "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+          "ja_text_sha256": "a060535208dbf406733962342bc559ed6d65e840fc89c4eff430bf90e72a3207",
+          "fr_text_sha256": "0af3a37941408d602cc9cf0eb5dbc5283003a4c8662e704f55358270c05f58fd"
+        }
+      ]
+    },
+    "blockers": [
+      "Règle japonaise du shiritori incompatible avec les mots français choisis ; adaptation explicite à relire.",
+      "SIDs0369 et036A encore provisoires dans le patch ; Céleste préparée, Dragon à relier et tester."
+    ]
+  },
+  "invented_spells": {
+    "id": 498,
+    "references": "preparations/combat-v066/noms-composes-prepares.json",
+    "blockers": [
+      "Assemblage497+498 de deux fragments natifs ; les16 noms DS ne se factorisent pas simplement.",
+      "Quatre variantesバキ/バギ restent réservées ; nouveaux noms et rendu complet à traiter."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "NOT_ACCEPTED_AS_INSERTION_VALIDATION",
+  "initial_fixture": "diagnostics-rejetes/initial-fixture.json",
+  "intermediate_reports": [
+    {
+      "name": "qa-pages-b3-1-b5-1.json",
+      "sha256": "7db34c63965dbe82c0c2d2d483cec7475c68d361d6b00fbac236715418a20b45",
+      "status": "INTERMEDIAIRE_REMPLACE_NON_COMPTE"
+    },
+    {
+      "name": "qa-pages-b3-2-b5-1.json",
+      "sha256": "6b9be4921cf234134fbf0a9444d45cc1b48bb8ec892c81c6e79a25a210a6810a",
+      "status": "INTERMEDIAIRE_REMPLACE_NON_COMPTE"
+    }
+  ],
+  "rejected_trials": [
+    "Modifier seulement la table de glyphes ne change pas les bitmaps natifs8x8.",
+    "Un ancien état conserve sa police VRAM ; font refresh diagnostique distingué du démarrage neuf sans injection.",
+    "Override privé mode2 : API non revenue ; aucun rendu accepté, aucun changement de production.",
+    "AD trop nombreux : chevauchements ; six réécritures françaises concises et disposition corrigée, puis nouveau test de chaque ID.",
+    "Initialisation globale de variables non utilisées : suffixes homonymes erronés ; fixture finale ne prépare que les variables utilisées."
+  ]
+}

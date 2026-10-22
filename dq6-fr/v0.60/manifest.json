@@ -1,0 +1,176 @@
+{
+  "release": "v0.60",
+  "baseline_commit": "8e9d9e009bceb230af8479f9f47398045a0e80f6",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3129,
+      "sha256": "7254bec9be1771ed5908733ee4c8b5d3dc267bcfea3692c99921b6171fae8b13"
+    },
+    {
+      "path": "LISEZ-MOI.md",
+      "bytes": 8047,
+      "sha256": "2337d140645614a92dbe63e82b3dca7e04e34fc1287bc96415f499dc13a3f884"
+    },
+    {
+      "path": "REPRISE-AUTOMATIQUE.md",
+      "bytes": 44511,
+      "sha256": "c2040c1b2af3b0ca91e8664742633a99d2d15c6c793f2f117ffd8e1b5c953d4e"
+    },
+    {
+      "path": "etat-projet.json",
+      "bytes": 6821,
+      "sha256": "516cba9448cf5c809bcbd3839869a6576df514d39c7bbb98f5047dc5bbabaa4d"
+    },
+    {
+      "path": "patches/DQVI-FR-DS-v0.60-BASE-JP-PARTIEL.bps",
+      "bytes": 677463,
+      "sha256": "edd1d03c6adc2d32dd62d35310251e628786ea717a4ae1080dc8c0764a412b5d"
+    },
+    {
+      "path": "dq6-fr/v0.60/README.md",
+      "bytes": 6857,
+      "sha256": "9fda149aa7fe7fe6d7cd6c03816bb269254bfd549623d75d4dbf51d7cdf0da65"
+    },
+    {
+      "path": "dq6-fr/v0.60/blocages-restants.json",
+      "bytes": 1899,
+      "sha256": "1ac17a5f201999f1aa3e9bdd8144e316a4b1dcc357982b6b0027697a93c6585a"
+    },
+    {
+      "path": "dq6-fr/v0.60/build-report.json",
+      "bytes": 1228,
+      "sha256": "11c40a1369365b62289853f7c5974d0d1e04f82b69e35097bb1fbd3b708d1797"
+    },
+    {
+      "path": "dq6-fr/v0.60/build.py",
+      "bytes": 1087,
+      "sha256": "c051304b77825e8a601dd5593559eca5ae7d39a7fd38f6cab58318ed6d138634"
+    },
+    {
+      "path": "dq6-fr/v0.60/bus_layout.py",
+      "bytes": 636,
+      "sha256": "7a127e802da14650693c78c21102b2e57c4dd8d1a6f4cc429abf176ceaf24cbc"
+    },
+    {
+      "path": "dq6-fr/v0.60/common.py",
+      "bytes": 6297,
+      "sha256": "0508f4ee99e139a491e57be754e1e7d67ec53034669c4ec2019dda96e6987669"
+    },
+    {
+      "path": "dq6-fr/v0.60/delta-combat-v060.json",
+      "bytes": 76471,
+      "sha256": "a992488aa8470de9a947e83e43c36807bf13231e7c25f21609f0270a1b6a9bab"
+    },
+    {
+      "path": "dq6-fr/v0.60/diagnostics-rejetes/initial-fixture.json",
+      "bytes": 70599,
+      "sha256": "3f3d1d4dc1b87aab8c89f11524d3fb85a572266a0a55d3ec2aa0cf1460bb8ea8"
+    },
+    {
+      "path": "dq6-fr/v0.60/diagnostics-rejetes.json",
+      "bytes": 1153,
+      "sha256": "71dcbb6f4de791b44861c6ddb6ae58ec519ec9a53e436cff1c63097fd612533f"
+    },
+    {
+      "path": "dq6-fr/v0.60/emulator_pages.py",
+      "bytes": 5532,
+      "sha256": "9907cf080fbb38d672cabd5f3b19554aeaa0932cffcae47d98757d2d48acf2ff"
+    },
+    {
+      "path": "dq6-fr/v0.60/emulator_probe.py",
+      "bytes": 5523,
+      "sha256": "48bcbcd0063b6b5e0fc0c8fb2bb32cecad0f41220e46bac53501ba15444bfa7f"
+    },
+    {
+      "path": "dq6-fr/v0.60/insertion-combat.json",
+      "bytes": 30175,
+      "sha256": "15f6d428382519b6069b3e8b06a96ebd9188eef098b0dd895d34f1186352f539"
+    },
+    {
+      "path": "dq6-fr/v0.60/inventaire-combat-v060.json",
+      "bytes": 2750,
+      "sha256": "ee7d1f3f4afbf5f3b2585f50722e895397d4365650177c3b699b75524ed8ccb4"
+    },
+    {
+      "path": "dq6-fr/v0.60/inventory.py",
+      "bytes": 1593,
+      "sha256": "3213a72ad885bcb3c71b78c378f66411de1e44f1a42f4f998a4ba7d13788853d"
+    },
+    {
+      "path": "dq6-fr/v0.60/native_font.py",
+      "bytes": 2662,
+      "sha256": "11c8be83d71eb019572dafd2df1466e81b1cca7c9e36dde93bc9e1f323fe8d49"
+    },
+    {
+      "path": "dq6-fr/v0.60/prepare.py",
+      "bytes": 366,
+      "sha256": "68fa82b911fdc91301ac1853924d5df26d4078aff77cda737c6db056183a13ec"
+    },
+    {
+      "path": "dq6-fr/v0.60/qa-emulator.json",
+      "bytes": 1470,
+      "sha256": "38547fe8d1ce237c4eee7c1b5ca560c1f27838d8a1653e856cac7a163698e286"
+    },
+    {
+      "path": "dq6-fr/v0.60/qa-font-extension.json",
+      "bytes": 2434,
+      "sha256": "99d3a0296c04d055479e33e853ca596ff8f1d41d19a671e2c220cfd9e8a1485b"
+    },
+    {
+      "path": "dq6-fr/v0.60/qa-fresh-boot-font.json",
+      "bytes": 589,
+      "sha256": "5217b0a9d251ab59ecb33ba5282c11e2f83228c581562dfb51649ea0c9e5b4a4"
+    },
+    {
+      "path": "dq6-fr/v0.60/qa-native-pointer-negative.json",
+      "bytes": 304,
+      "sha256": "e64d54790440f9dbf40d255aad4c2331d60f8e8e45e84dacac40b156c19ec6f4"
+    },
+    {
+      "path": "dq6-fr/v0.60/qa-native-reader.json",
+      "bytes": 296,
+      "sha256": "e7a902d38c6d6cca72baaae7e3b1d6c636c2103920c1c220b9a68eb07de5136f"
+    },
+    {
+      "path": "dq6-fr/v0.60/qa-pages-b3-1-b5-1-duplicate.json",
+      "bytes": 81235,
+      "sha256": "58c18f4c1eab64379e1e8f6d42e7e87c5fcb6933da38e1fe861c6744fe23f02c"
+    },
+    {
+      "path": "dq6-fr/v0.60/qa-pages-b3-2-b5-2-distinct.json",
+      "bytes": 5406,
+      "sha256": "b66cd0c808189b5d8a91b27948e1ea74821376d76dc3d25270f32e404211b8c1"
+    },
+    {
+      "path": "dq6-fr/v0.60/qa-sources-locales.json",
+      "bytes": 394,
+      "sha256": "b968c2459a0c81c6f55b2b96211dbe58dd5377027d9c7ec910dcfda8cfb5ffdd"
+    },
+    {
+      "path": "dq6-fr/v0.60/revisions.py",
+      "bytes": 1004,
+      "sha256": "addaf8159f94eca6077b907b05050e87d8a359479bd4f9ce556f1faca533c921"
+    },
+    {
+      "path": "dq6-fr/v0.60/revue-combat-v060.json",
+      "bytes": 72820,
+      "sha256": "1efe19d7256837c1e0a572cbb7a1fc04d5c5d87bd965ab955d6bb0a5e0731a47"
+    },
+    {
+      "path": "dq6-fr/v0.60/verification.json",
+      "bytes": 1189,
+      "sha256": "aad57016a087126eddc4b80db31463e04fedefcfd4cc8f092509356e0ed15eea"
+    },
+    {
+      "path": "dq6-fr/v0.60/verify.py",
+      "bytes": 3288,
+      "sha256": "758ad92f8b3fe11006550289dc9318e9e19e95fbf28650c5810ce2b284261e9a"
+    },
+    {
+      "path": "dq6-fr/v0.60/verify_font.py",
+      "bytes": 1779,
+      "sha256": "ab94a38176beed72e8892673e6a1ea4919abe82ab0ddf5da7addb375e554f0fb"
+    }
+  ]
+}

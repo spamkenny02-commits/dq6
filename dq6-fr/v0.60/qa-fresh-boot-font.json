@@ -1,0 +1,18 @@
+{
+  "release": "v0.60",
+  "ROM_sha256": "4b8d7f5f484300402022e4563ed4d989c6ef30ac57a1b878cb1b58a6183f621c",
+  "fresh_reset": true,
+  "savestate_loaded": false,
+  "VRAM_modified": false,
+  "all256_native_font_foregrounds_loaded_from_ROM": true,
+  "bus": {
+    "groups_checked": 1478,
+    "bytes_checked": 503352,
+    "upper_groups": 982,
+    "all_rom_bus_reads_match": true
+  },
+  "private_boot_capture_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "native_font_ROM_source_offset": "056B5C",
+  "VRAM_byte_offset": "6000",
+  "menu_visually_reviewed": true
+}

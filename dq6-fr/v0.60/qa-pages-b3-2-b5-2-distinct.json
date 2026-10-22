@@ -1,0 +1,159 @@
+{
+  "release": "v0.60",
+  "ROM_sha256": "4b8d7f5f484300402022e4563ed4d989c6ef30ac57a1b878cb1b58a6183f621c",
+  "diagnostic_main_redirect": true,
+  "legacy_state_VRAM_font_refreshed_from_ROM": true,
+  "diagnostic_native_mode2_override": false,
+  "natural_battle": false,
+  "production_engine_unchanged": true,
+  "results": [
+    {
+      "id": 367,
+      "fixture_sha256": "7d1134ac0d26912376bb7bdf41fb24db5d5222802cae30f8a29804b7b13d5636",
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v06068-367-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-367-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-367-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "e20cacf166c23e389a2cdc070c944f732473f47af78bd96fd00fdb47785d307d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "full_French_text_reviewed_across_captures": true,
+      "native_variable_roles_and_fit_checked": true
+    },
+    {
+      "id": 397,
+      "fixture_sha256": "6f645d26d236b9bae5d738c211f09c45123f0988878a39544fad052ab26a2403",
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v06068-397-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-397-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-397-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "d6d5e17deb146e12bcbfa711b14f356d6a4690e4c34b26474b79f326499dd0ec"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "full_French_text_reviewed_across_captures": true,
+      "native_variable_roles_and_fit_checked": true
+    },
+    {
+      "id": 499,
+      "fixture_sha256": "767cc636853d7b0089791a30d9c9490e21752edbdfca3281e1dac67dcbc16064",
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v06068-499-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-499-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-499-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "f81615a7568e2a7dfc9fae440f7abd1d6fa15501a48763e74750153301250edb"
+        },
+        {
+          "capture": "v06068-499-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "4744bcf7c2fd9a3280aff07e3c920173638cd3e8b1bd887de38aa2675423fa69"
+        },
+        {
+          "capture": "v06068-499-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 419,
+          "sha256": "c381c02b0f6d56cbb0c1bc4db4f9329c17cbcb8ba23aca94eb4dc0d5dd4984a5"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "full_French_text_reviewed_across_captures": true,
+      "native_variable_roles_and_fit_checked": true
+    },
+    {
+      "id": 510,
+      "fixture_sha256": "1b4ede6a9d4dc9c0ede71729648d1f92985eb70dbb486a71a0af013f12bfe68e",
+      "B3_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v06068-510-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-510-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-510-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "a2bf9b615ba08755e639bb80928dde11ed68c96100fa1114c5a42475065ce6c6"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "full_French_text_reviewed_across_captures": true,
+      "native_variable_roles_and_fit_checked": true
+    }
+  ]
+}

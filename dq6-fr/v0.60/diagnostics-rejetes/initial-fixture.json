@@ -1,0 +1,2301 @@
+{
+  "release": "v0.60",
+  "ROM_sha256": "c4e2ce747767579699291070e28da338b127dcba4a6b5219b07868c9476d3d59",
+  "diagnostic_main_redirect": true,
+  "legacy_state_VRAM_font_refreshed_from_ROM": true,
+  "diagnostic_native_mode2_override": false,
+  "natural_battle": false,
+  "production_engine_unchanged": true,
+  "results": [
+    {
+      "id": 311,
+      "fixture_sha256": "60bed30f8404489d2717f105dd6d347d6e332ef80fc67bffe4d2fa1facfca419",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-311-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-311-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-311-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "ad6abe658f3a66d50ef0ada13f684af06553c43185d93e3ae9aee42ee00dbd80"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 382,
+      "fixture_sha256": "9ce747b7b0e6d6fbeafce2652f45663d9d140a15f33002fef9e97c881c214c3d",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-382-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-382-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-382-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "c0ee94866595f02433dc9d9c6fee230570741e9413d0f6f6b38700060ca02071"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 389,
+      "fixture_sha256": "9ba64c662f8ef8a48a315dc95f592ae2e7541629ab28215cae6a1544c7849dad",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-389-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-389-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-389-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "db7f1e6e076d3e7e3b30167dcbfb79b7cf4089e374c0b6f610c371b4e371e70c"
+        },
+        {
+          "capture": "v06068-389-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "27cbf102c8b99f8c711c3aa36a1489bad2fd3b2f35c59656305bba2af3ea1d11"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 390,
+      "fixture_sha256": "6820b7a25da306a3e98486085a13fd4413039fabc674f208151440ae5c29157d",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-390-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-390-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-390-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "161fb479bce39ff8e8e6402b86eda8298cde3739e0f3c2926834d336d719a688"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 395,
+      "fixture_sha256": "3c3613eea67a6d0c4a48183004a2f3c005dceecd48717108d8ac7c1f8a82ba55",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-395-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-395-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-395-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "58dfecf0cf93ec28ac30b10c61549e68850fea2a19771606d5356bf491fe79e8"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 398,
+      "fixture_sha256": "54a94b49477959530f7a0eed41d5d25938f70c1937190dbc9c451845afe30049",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-398-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-398-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-398-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "6e400650772e438a931ea34bbac4f35cc83c05fb8703c60d0ceb2320129e25bd"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 403,
+      "fixture_sha256": "5fecf2249e70eeeac89ff2f7efa273896d26c85f04708515702d89819d8fce37",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-403-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-403-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-403-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "6a5cc126cbd07aae097a343daaf22f56cccc356b9d4dfb9c323fd388f85a5d43"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 404,
+      "fixture_sha256": "4b6999320a494394df813a17e71ab3e254d5aba7dac278a67a095c037557402a",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-404-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-404-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-404-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "b767f012c5b91da0c68a81e48396ee206505177589e1229f88e361acd3c94065"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 407,
+      "fixture_sha256": "4e399d6abfdee8c0c43ba5778ce117c2a41fc00cce38ffa6753efa9d5d4e984f",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-407-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-407-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-407-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "7d217b48acf60cf06c47fe7a80776c122cd0bebbd3fb6ae9287c2a493f269261"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 408,
+      "fixture_sha256": "9d9a40e9c6fe503b59389c0129fcf0c268a44fccfddf2ed18a817da8222e63b2",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-408-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-408-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-408-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 343,
+          "sha256": "05c71ab5a60d72d10cb3efe2a1d623cf5878c6003eb88841e1fef7683d7096fa"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 409,
+      "fixture_sha256": "e6d536f3b2fac0d8dd6cd5a7bd064dff6d9f8195bfeb8b5bff68f2f2e48aee6a",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-409-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-409-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-409-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 343,
+          "sha256": "e1a987d2c3e74578ac7eba28f9f64cd786fb7fc46fc79785ca146e3f39704282"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 412,
+      "fixture_sha256": "a4d4eb8e4cc41f6162ecd826f271a4ca9dd0fa7f1215cdaf1e19e351396b9747",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-412-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-412-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-412-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "af804fa3074c25a4e7c5144d137058dd85c7fde95a719361cbe9491fae51816e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 413,
+      "fixture_sha256": "70866d560d734069f567348e0c8120bdc169e40bf2de0899fe639baa6c2c6a16",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-413-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-413-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-413-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "97a889c0f8fa74c1df273cd7dd8e4dddbb947ec98a148f6006918d32e801637a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 414,
+      "fixture_sha256": "55240697b4d9a3d1aa65e9ecafb08086b88826cc1908d146790749c0a078c027",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-414-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-414-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-414-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "18e78183b031cf7762b80f68b180d14ba6039d4f762ae6cc25c1d4cf5c078c8d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 415,
+      "fixture_sha256": "ada7d4abb38e16b375d89cf7b975e8fedff311513b52a51c4b8c78c422c2f625",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-415-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-415-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-415-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "829a95456c570f627de4d55328787d2b9b101f001fce17cc152d57a4bc9cc2bf"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 432,
+      "fixture_sha256": "122ebf461e93af61e1407d05f3e1ff8b0b71fb1dbf68d9e99a88c4a40a826583",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-432-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-432-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-432-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "58205019ef3cd17dc40f9e763fcf63a5eea9ac17c948e102694d530b87f503d8"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 433,
+      "fixture_sha256": "74e4832123553f090c272f8f5165aff273fef468a57672dd2db8f47deb950fa6",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-433-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-433-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-433-b3-1-b5-1-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "ecd86d81875bae1993c8c2c83b6433cec6ed5542a144b99763ff3ca9a646e44c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 434,
+      "fixture_sha256": "51688a6c5387e4015d112a0b66d1ceb9339079f008b1481b25f2705e1d88c3df",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-434-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-434-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-434-b3-1-b5-1-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "6484aca90bc937a0b48db79597e466874ce90cb5a6fd9029023fc74817d43726"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 435,
+      "fixture_sha256": "9032e8e16219353651f8acdac3b351a8ebce1f0fc821fa4c6685396af4a869bb",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-435-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-435-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-435-b3-1-b5-1-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "a8cc5fcd352af946c1a832aad859aaf58006f00886266ce4e0d45cec88bc9925"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 436,
+      "fixture_sha256": "43c5bae79bef8cab610005e561c101721b2312bc50a2ad7179a1148eed274312",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-436-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-436-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-436-b3-1-b5-1-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "9f78cf152c2ab18b1b03148f79d91b4d85bf27df1f9c0fc37b1e760a21fc3e86"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 437,
+      "fixture_sha256": "20d0386db98a630624245c8cc4c2ac164d082cc4d4a86ff7f9b075ec05a1e53e",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-437-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-437-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-437-b3-1-b5-1-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "41c43a1a034591c6948a368da43f536b4335ceb0daa004e16160a4a248ba1167"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 452,
+      "fixture_sha256": "cc089e2727ce2df93c00cfc26bff9d0d1003376ef93227ffc710878b4824eaa5",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-452-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-452-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-452-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "3dfdc8a6ad0df6cf40c34b24f1f3bd66a9876e54e17bce0a079badcc07be5c73"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 453,
+      "fixture_sha256": "565930211ccfc8ce50e2e381913b7b82fe743706703c30db68e82e5362182d4a",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-453-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-453-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-453-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "f030c5ee60ebd59221a5d3ebc43da05a0f5ddf39138ba01bf720b605ae8672cf"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 461,
+      "fixture_sha256": "bfa7b07872640d7de6ea03ea2acd432711398c40933cfe484695ded4b993a4f3",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-461-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-461-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-461-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "ed0c52d9ac75c0d1fa3f6b3be60a45c87a157d03726a64f83f6902d3a8a491a8"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 466,
+      "fixture_sha256": "4bf035fbef181f7f4c0cd8654380347eb66f56c11ba6b31787bd31b6dbabcd39",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-466-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-466-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-466-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "b33fc238aa5d62453985827fcf3beca79194207556f23dd8139f735406bd47ec"
+        },
+        {
+          "capture": "v06068-466-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "2f00cb842f24010792dfa7f3263d290de551f5bafb020d70c42df273fcd92460"
+        },
+        {
+          "capture": "v06068-466-b3-1-b5-1-page4.png",
+          "returned": false,
+          "frame": 420,
+          "sha256": "282095758f94c262ca8a652e52a28776ed58150b12aa4b85d1d83bc831e00b26"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 467,
+      "fixture_sha256": "67a71b06ef37a53e46761dd82e2a9981034c71185c008e15b79ed1d6a9b84183",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-467-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-467-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-467-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "03dc5d7d74ff37ebf41b83f5af4c88ba367d3cfde34bf9a09412cf11689334ed"
+        },
+        {
+          "capture": "v06068-467-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "37e5eadc78c80f93051621ed099f9a36702999d8e002d2efa7bf0729bb6855ea"
+        },
+        {
+          "capture": "v06068-467-b3-1-b5-1-page4.png",
+          "returned": false,
+          "frame": 419,
+          "sha256": "886c32f21515263dada3e7b0332f1a7a9223df34ab8b87a03f39a7d588a2e27f"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 468,
+      "fixture_sha256": "264bd10a6488b159b378caedf2a0b2b3b78bab935a9e95c1d39ff37aa070c5fb",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-468-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-468-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-468-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "53954af92ce7507a22ff160bed079fa38b337022a807951316e44009915bafb2"
+        },
+        {
+          "capture": "v06068-468-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "fb1403adc8697c33c57277584f8e64342f9a1dccc1818a90e5fa1da407b68341"
+        },
+        {
+          "capture": "v06068-468-b3-1-b5-1-page4.png",
+          "returned": false,
+          "frame": 421,
+          "sha256": "b939b9f9256d01e5d612b1fe09c70b37c57081ca169c13a820ff4bfa4bfc399a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 469,
+      "fixture_sha256": "7b0e122f7c1f6407f20527407b505c196cbb6bee372ce1d703d3d3b879e2df0d",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-469-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-469-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-469-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "e0ebcab19068058256f07fd3a3e159d6fea17c6c23418a86fa3a37c8e8362e4a"
+        },
+        {
+          "capture": "v06068-469-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 383,
+          "sha256": "4ff356725f093ac18a2eb4007d07621169b15e35f8fd8dfbbde85a688033717f"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 470,
+      "fixture_sha256": "890ffa80d7cea7d062d0a17204f694e86a5caa97feb512d8dcb7fe0b785f69ff",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-470-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-470-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-470-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "7d1941aa8f39a818417b0f77c8d4a8641aa88251fbc08aed49e39f1fa33c9196"
+        },
+        {
+          "capture": "v06068-470-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 383,
+          "sha256": "cf3b871624416db118ccc32068ff412ebef7a374dae4dc09d7b4dd6bfbd8dd2e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 471,
+      "fixture_sha256": "25337e8276535e1015bfc070cfb3d5df532f69923272de5f275b8ca37869d083",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-471-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-471-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-471-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "15372cd5d2970d22459ecca024fe6fce049eec31c5afb5ee63f9b656ed7c6d12"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 473,
+      "fixture_sha256": "073a1c1fb8e261bb5d4e98ee43fea70decf35cdc1a73ac5c4ce03bb54363b68c",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-473-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-473-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-473-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "5c496eed98ae123736d84cfcea50a183de07768e2d16fa8a01c834e7199df2c4"
+        },
+        {
+          "capture": "v06068-473-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 383,
+          "sha256": "766eb9111f2682138dafd5d66803c9a38f42d6b7fd0a03a9936bb13145aeac44"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 493,
+      "fixture_sha256": "7712859ce419445e7fede0083b2e1ba17a602028727495995ec65ec8e4a4ecd2",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-493-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-493-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-493-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "81e899561fc68be8635766b6f0929382ab558a0ea15198082d83a5d4d4c18df3"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 495,
+      "fixture_sha256": "13ebd23e2466fb8915af490727ea9c290b2323807c8cdc59ae77ea62c81ec488",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-495-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-495-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-495-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "966f611b0eb877c101cec82472b001023c03af7998a12ffc4ea19628ec2f8167"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 499,
+      "fixture_sha256": "2ca001c44618861d0d6b0a1df11973f5cf0b75de72edfc6fd5a9d294abf9bac1",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-499-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-499-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-499-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "0e328d2ace20642955eab2f9559d22f0f943878f366124a186a9d7eb038cd0e3"
+        },
+        {
+          "capture": "v06068-499-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "c4839988337c8950c628d2bb49a909c8847edc9474acd627b9d646f8df604bc6"
+        },
+        {
+          "capture": "v06068-499-b3-1-b5-1-page4.png",
+          "returned": false,
+          "frame": 419,
+          "sha256": "f8e2bc9d9429f09addd1822e7a1c213eaa84dd05e744331a2708a374b59f55a3"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 500,
+      "fixture_sha256": "0bd79ebd4c696710ece44cb04d906b0bd18c306a81d019653a7c90e6879c1a3e",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-500-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-500-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-500-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "3afd51cc5f2f709fef5a6298cf8911fbc526ff9fb53cb4681613b826be5314b9"
+        },
+        {
+          "capture": "v06068-500-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "715a0d860c42776b8e4835838d5da611129da0e4fb7d07afb2f3fab07f67d4e4"
+        },
+        {
+          "capture": "v06068-500-b3-1-b5-1-page4.png",
+          "returned": false,
+          "frame": 420,
+          "sha256": "db932f288be7db736546b3020b4e2163076aa26a6bfbbd80a46a416bac1496cf"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 501,
+      "fixture_sha256": "c2ceacf147bcad2d05c7065544dc6fd4d0dd751c4759c0cfa0bb103f3acdc5f2",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-501-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-501-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-501-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "8589b776477a76491eea2362849f7c060a0eab6df47935c3fab14e95f0b9ebf0"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 502,
+      "fixture_sha256": "c7823d681f10d28659b575a146c263e33a2e4e768f155114df482529093a4d61",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-502-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-502-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-502-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "318034469d31c284b205165087f71393e13bf684061cd1430e00d20caf0c0f20"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 503,
+      "fixture_sha256": "0a7d7138697c802c18ec7cc7d5d0ffe3e946333f52596ef872c45eb9b8f79c8c",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-503-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-503-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-503-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "ce976425aa72210e02d8affeda4b62783c6b623e7a0c2a304c2f3789265bf372"
+        },
+        {
+          "capture": "v06068-503-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 383,
+          "sha256": "298b4559847a1813fa2f561e7d5f67590f594a3dac90ef3ace5a0d40317e55d4"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 504,
+      "fixture_sha256": "ee7b5a92f8e6bc90287cb8e254401d0ec480f52710c1673e935e9ca3eafe7a70",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-504-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-504-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-504-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "d1da7a509db3cb576cb6b6f1d680ef55d1d09ba30ffbe7a5a84250c9333f8dc1"
+        },
+        {
+          "capture": "v06068-504-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "9ea265a6052953d36936593183c710c69e60d62664c9d3e16813682132f30915"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 505,
+      "fixture_sha256": "aeb0a66727c0276301aae61f04fb41fff186992bbed06de2951a10038725b586",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-505-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-505-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-505-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "3401c6d7dfcd803c1ede598b00971dd5540698d8bcd2ebfff4d2f9f0c594cd20"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 509,
+      "fixture_sha256": "31ec468da4b687edf2650ca42f4b779c5b3027abe117febb59b6b744cd22879d",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-509-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-509-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-509-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "a822b8452c4ec7a28024bc117a6337b6b148459525409db03d1e7dcb970f297c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 510,
+      "fixture_sha256": "0325308813eaffc5df79e686222f580fa649a2d6daeceb8526f3bb9490848409",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-510-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-510-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-510-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "3b2c54cf4a67f9285e42dd09c0928125a01ce1c4d5f8a9d049f749d350866c66"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 511,
+      "fixture_sha256": "225bacb13f55df7440a0e5f2ede9736ea5f1f5a6d7ca06eab8c98612e4686067",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-511-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-511-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-511-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "2966acf6a91d37fcc6e9caafc3b3f9bc95796a58b315790412f2d1fffe8e3713"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 514,
+      "fixture_sha256": "fd48d1ab56c3ed6b412fbfe82d2ba80c7d95af405a089fd754e7b9e732138fdf",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-514-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-514-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-514-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "1c24cf7733a45b65c59b8627d091ee0ecc441af70136d79f3db53a57aaf21b5f"
+        },
+        {
+          "capture": "v06068-514-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "0e37daa3739395b523477d67131fefa143f4bc26e9ac1d5a511984ad8e7ff79c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 515,
+      "fixture_sha256": "8bd2525c4151fb4b63bc29d47fc1b320e1f1130f290371d42e833f8d1f912458",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-515-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-515-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-515-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "2efb93080552ed03e86385a77bcfe1b660303fe65686cee9949c56d2b32ef880"
+        },
+        {
+          "capture": "v06068-515-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "d3f1f8ed5f4fed9381554ce9d4c88d5521b4644cd65ac3e1b3bdaaeec0a7a79f"
+        },
+        {
+          "capture": "v06068-515-b3-1-b5-1-page4.png",
+          "returned": false,
+          "frame": 385,
+          "sha256": "c199e82d3a4103b657b2561e915019631cf780d943414e359e9dbf3f0e209a9b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 518,
+      "fixture_sha256": "163360d3f648e50cc187be580277da54914d97c337a1412cf9f3d12d6982db61",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-518-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-518-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-518-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "378e45b2316ce77b44157618da62ad14619e882c914016bb545e605b2e5ffdf9"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 522,
+      "fixture_sha256": "687a9e31ce8cae6c1cb84e63853533de8e9d2403ac18f811bf4672bac5238850",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-522-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-522-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-522-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "d719079dc9037d1c80acf8a082d7bb3aa9267d6c1838b80b8fe75d6917cedca6"
+        },
+        {
+          "capture": "v06068-522-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "3029e18cd9b65388137ee5f8e65ada68f64cefbaf7829a29f815e61e6617c847"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 524,
+      "fixture_sha256": "821bb845f1c00914b9fce174cf2302f226181910433685bbcfddcd6bdfa4ade5",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-524-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-524-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-524-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "c5b222f0486f4260f3f5f9a345b861e4bf70f1723e573f0f139958f6c3d4bfa9"
+        },
+        {
+          "capture": "v06068-524-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "f600405ec12caaeb3a268b23db4f3f716f3e0aa2f126374b48cdb991b877548e"
+        },
+        {
+          "capture": "v06068-524-b3-1-b5-1-page4.png",
+          "returned": false,
+          "frame": 419,
+          "sha256": "0e87054e2926c3c67b8aa507a05b12c4fceaa15b60c2d96d2fe5fe786d0a5c84"
+        },
+        {
+          "capture": "v06068-524-b3-1-b5-1-page5.png",
+          "returned": false,
+          "frame": 422,
+          "sha256": "6f80c2d6391e42e9e76ec50720082fc42c4af958990dac05df9c90df8f623e3e"
+        },
+        {
+          "capture": "v06068-524-b3-1-b5-1-page6.png",
+          "returned": false,
+          "frame": 459,
+          "sha256": "37dbc315a0935404049e85b10bf8c7ce356da9ad7d83aa3e555e96bd1e1643d5"
+        },
+        {
+          "capture": "v06068-524-b3-1-b5-1-page7.png",
+          "returned": false,
+          "frame": 462,
+          "sha256": "ae71dd9a9f5138ea84ab2a363dcd26cf8a8d7a6ccdcaa364587d1615cbb71b7a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 528,
+      "fixture_sha256": "4f00a89fc0a689b60e03100e65cd2691ef0292ce315925b705b24bdd88c85dd1",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-528-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-528-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-528-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "07b14fdc05bdca403e68b50ebf20f84890e02c1d269a435fa581723517ceb1b9"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 530,
+      "fixture_sha256": "987c88f1f30040f4897d1a71d8b990fab06f274349225007e1362ef7370df3f2",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-530-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-530-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-530-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "5e10f4a8d85458381e1847e332b02809be792bbbaa7edfe8deda0a5bfe468815"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 531,
+      "fixture_sha256": "2db1988ef6e7cbecce2bba74acf092b4619529dad73883400e694f072540a761",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-531-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-531-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-531-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "515940ddb0986cb5351046d7599d1d5950fee86020ff21f363eeb46bc39eccda"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 533,
+      "fixture_sha256": "dc09322c081cd13cbe9483b51ba8dcb9644add421398a4b8cf6e61144372fa84",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-533-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-533-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-533-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "faa6f92155f2a74d94f3a22f44b9c2e8f36da6cba50a4e5bfd6bf8cb812efa6b"
+        },
+        {
+          "capture": "v06068-533-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 384,
+          "sha256": "58c702c35f9598a21de28d10892c7b5a2f8e350190c871a7acb30971018514e0"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 534,
+      "fixture_sha256": "916643776b118deb61a46ca8fb760539e8d5bf2c04522efbf9c03c383c10e22c",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-534-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-534-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-534-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "031b9456e8e7ad2cc0ac5c1825c5160700d6b83addf126bca34cef4c680ba4c4"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 535,
+      "fixture_sha256": "1eeebc74cab54a2e9236a74d904e6f11cc5df0ddf391a1bcf246bf9ac291cf0d",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-535-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-535-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-535-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "26355585823971f83cd5e0b449b6c948a829482b521a2ca7bac8b8343bd9db0e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 537,
+      "fixture_sha256": "f9602bf293b81eede65b5981a25644e9bde1d5892a9301f58c64850013a28f12",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-537-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-537-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-537-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "6e1c420b779a5620eeae0fed77daf2f9a7a3399d28f21888df10fdee2c74e075"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 544,
+      "fixture_sha256": "44bb87d72d9b3bb3417b12b50625c079c73782b458057595af5eb95d0b8337e9",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-544-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-544-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-544-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 346,
+          "sha256": "e20c6028e37d7262999af621931bb3738a7af5b3893013543ac04cf40008e47c"
+        },
+        {
+          "capture": "v06068-544-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 383,
+          "sha256": "6b6761cc578c52fc6856f660d4584da4e4b3842d2db180ade43082c567585b87"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 546,
+      "fixture_sha256": "a0588db8fbd8b709a121dafb87669c1613cf3944c5205fdd31e51ce789d48470",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-546-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-546-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-546-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "c835b64831d62f20ecd5a0bb156ced13462748e61179cb9eeea7e7c627c79535"
+        },
+        {
+          "capture": "v06068-546-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 384,
+          "sha256": "6a35bf39697a108670ee4d8c9b09c12881add859d833ea31ebacf568d60271aa"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 549,
+      "fixture_sha256": "db1e8a9a5fe7c5742b93bc52a43ef6c856263a63c26bd933d04b4d8ad4aec0d6",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-549-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-549-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-549-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "4e92f411163f15b878de85895f91bfedfc7b067ba6dc0352ad8439c839623936"
+        },
+        {
+          "capture": "v06068-549-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "ebfbea63ac642ac53cd89690c76d30925d7cdb499f556a528dfb742a4490166e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 550,
+      "fixture_sha256": "827d9619df553e75081c3cc0b03f791f835b09088e041aa3e51cc04a4c50757c",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-550-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-550-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-550-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "1ba5fcd66ad3ef1972671bf683b89bcdf73c61317c4159cdc540727f6febb6aa"
+        },
+        {
+          "capture": "v06068-550-b3-1-b5-1-page3.png",
+          "returned": false,
+          "frame": 384,
+          "sha256": "0c9a1f69e816b0c30468299d47a19c57eb72295ac560d4eb90d3becc22e0f2a6"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 553,
+      "fixture_sha256": "0824da9df99e2f0dd7995c49bfae52a915c51e318302c26e9756581697101ea0",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-553-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-553-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-553-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "256228a6f86db29ea7b6629c27541b0a91791cb7fa6d6aad05a7bd67d370b23b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 562,
+      "fixture_sha256": "7795e68f2c5a0e0296d5303b784a5b9bb4f29459d2675f59f1d70c259ef87dd8",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-562-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-562-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-562-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "06ec4f1d3853603ab9dd9d1d5fd8929c88dcf9cb521ffa43c816cd9aea8a1ca5"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 563,
+      "fixture_sha256": "e5f156615016bf69b3372308bc90b75000ba679bc0009aaa972e56de7dfe78eb",
+      "B3_value": 1,
+      "B5_value": 1,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v06068-563-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v06068-563-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v06068-563-b3-1-b5-1-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "7e450b461688f372c6c044c00690faf51d3920ba77439def4fc54eeaf93ecb2b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    }
+  ],
+  "status": "REJETE_COMME_PREUVE_FINALE_DES_SUFFIXES",
+  "reason": "Initialisation globale superflue de B3/B5/BB dans des messages ne les utilisant pas ; mauvais suffixes homonymes observés. La fixture finale ne prépare que les variables réellement utilisées. Aucun changement du moteur de production."
+}

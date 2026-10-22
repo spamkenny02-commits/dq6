@@ -1,0 +1,450 @@
+[
+  {
+    "id": 311,
+    "french_plan": "{BC}{B7} charge à une vitesse folle !{B1}{AC}",
+    "encoded_hex": "bcb701444942534846012c01564f4601574a55465454460147504d4d46017ab1ac",
+    "previous_v059_sha256": "ae7782dc4e7ddfa0759b054b128a6de1ff5286f2e163156c2b02e1b65a6a936f",
+    "source_message_sha256": "9c2daec234027974ca29e79e4a4713a0d2423486132f5bd530d939b6341a2494"
+  },
+  {
+    "id": 367,
+    "french_plan": "{BC}{B7} change d'arme pour {B5} !{B1}{AC}",
+    "encoded_hex": "bcb7014449424f484601457742534e46015150565301b5017ab1ac",
+    "previous_v059_sha256": "67f10e6e9f6cae48b66c8506ab79b7c96cb1dbf4390fd29c0fc8da184894a360",
+    "source_message_sha256": "4e2e1e33734bdc9b0288b9f82e7f1a3b405477312fb84e70fd7656532ad4f4ea"
+  },
+  {
+    "id": 382,
+    "french_plan": "Mais l'élan provoque une chute... et un coup avec sa propre arme !{B1}{AC}",
+    "encoded_hex": "1c424a54014d772d4d424f01515350575052564601564f460144495655467f7f7f01465501564f01445056510142574644015442015153505153460142534e46017ab1ac",
+    "previous_v059_sha256": "6d41f8bb9b6e111776f744ebec3cd5d38b6337296c7dc310c11f0968ca4918dc",
+    "source_message_sha256": "a421cd535d4cb0f27f70060b147d56e69d06c1bc77ff0c2cd6e8eabb1df6a6d1"
+  },
+  {
+    "id": 389,
+    "french_plan": "{BC}{B7} exécute une danse bizarre !{B1} Mais rien ne se passe !{B1}{AC}",
+    "encoded_hex": "bcb70146592d4456554601564f460145424f544601434a5b42535346017ab1011c424a5401534a464f014f46015446015142545446017ab1ac",
+    "previous_v059_sha256": "c3b9837aaaae10bb084a9929698f15efd4c84f4b9fc76092ebf14852aaebcf91",
+    "source_message_sha256": "2765bf5ce16a5aef8eb6cdacf6d768576414ab8bb07bd550f798be1de2a115ec"
+  },
+  {
+    "id": 390,
+    "french_plan": "{BD}{B7} poursuit sa course... et disparaît au loin !{B1}{AC}",
+    "encoded_hex": "bdb7015150565354564a55015442014450565354467f7f7f01465501454a54514253423455014256014d504a4f017ab1ac",
+    "previous_v059_sha256": "625e670cc1bf022a436a3808b59d978e48b4a8dbce7c0965c7c51b823993f273",
+    "source_message_sha256": "1d51fdd0dbec0e7652c0e2dcdefd0f1374a4e1d3534773ff645b2f1fbeca6d6f"
+  },
+  {
+    "id": 395,
+    "french_plan": "{BD}{B8} n'arrive toujours pas à se relever !{B1}{AC}",
+    "encoded_hex": "bdb8014f774253534a5746015550564b5056535401514254012c0154460153464d46574653017ab1ac",
+    "previous_v059_sha256": "87400786d9995d31bf3b536b8284b1e65f849918f2f8aac798f795de21fe6d49",
+    "source_message_sha256": "17dcf111a5ff176ce49ed26e72aad6cabeab6b7844d72871e676965c60b797fe"
+  },
+  {
+    "id": 397,
+    "french_plan": "{BC}Dans sa confusion, {B7} serre {B8} dans ses bras !{B1}{AC}",
+    "encoded_hex": "bc13424f540154420144504f4756544a504f8b01b701544653534601b80145424f54015446540143534254017ab1ac",
+    "previous_v059_sha256": "99fe4428b659827c4d8f359da616ac2fd5e86f3fa67e6f0eed7018fe17be8a26",
+    "source_message_sha256": "ca68dc3ffc83ecd9d087b918a46c0bda7d787f59ce9a441a536957adcee12674"
+  },
+  {
+    "id": 398,
+    "french_plan": "{BD}Mais {B8} repousse cette étreinte !{B1}{AC}",
+    "encoded_hex": "bd1c424a5401b8015346515056545446014446555546012d5553464a4f5546017ab1ac",
+    "previous_v059_sha256": "bf8e03d7ebbdc2bd41fe13a7af9ee5d9677082d077de52ab56227f2a4f68578b",
+    "source_message_sha256": "d466f70a87adb5b0ae8a730d929d10ce00c68de62e3e063c05203fffee9b5a53"
+  },
+  {
+    "id": 403,
+    "french_plan": "{B8} a l'esprit embrouillé !{B1}{AC}",
+    "encoded_hex": "b80142014d77465451534a5501464e435350564a4d4d2d017ab1ac",
+    "previous_v059_sha256": "5d67f57d82f91b35a36602a422b7aa961edd62392c9d8287e2dec155228675d9",
+    "source_message_sha256": "86dffae2b2f9e3c8c6087d51ceac0471d449e9e2a3d9dceb1b5d22deab43cb7f"
+  },
+  {
+    "id": 404,
+    "french_plan": "{BD}Une brume étrange jaillit du corps de {B7} et enveloppe les alentours !{B1}{AC}",
+    "encoded_hex": "bd244f46014353564e46012d5553424f4846014b424a4d4d4a5501455601445053515401454601b701465501464f57464d50515146014d465401424d464f5550565354017ab1ac",
+    "previous_v059_sha256": "ca54e1ddc0208a5f0da2c371461224580be298c65c90e3fcc1517685e20bb037",
+    "source_message_sha256": "74a60021020389298edc454e293701b32654bae5732fcb8a3b016d767879d49f"
+  },
+  {
+    "id": 407,
+    "french_plan": "{BD}Un génie aussi grand qu'une montagne arrive en poussant un rire terrifiant !{B1}{AC}",
+    "encoded_hex": "bd244f01482d4f4a4601425654544a014853424f4501525677564f46014e504f5542484f46014253534a574601464f015150565454424f5501564f01534a534601554653534a474a424f55017ab1ac",
+    "previous_v059_sha256": "885e45a832b5ee2f3d55ab9727ba4529f1259f734e7ac3ea0445b9f753cc23fc",
+    "source_message_sha256": "65d5f310bf1b9960fb9dfbe61f0dc610ec720ffba2906ffaaa6b28f508502558"
+  },
+  {
+    "id": 408,
+    "french_plan": "{BC}Le génie attaque !{B1}{AC}",
+    "encoded_hex": "bc1b4601482d4f4a460142555542525646017ab1ac",
+    "previous_v059_sha256": "6bbe6d8ac7aef0eaea95dec667e4f7bdcd01919416d6d9b108445bef5f4ba2b7",
+    "source_message_sha256": "7aa9efb7f2fc4b10c7582125750bdb136317354c80cc5e37675589fb201f7be4"
+  },
+  {
+    "id": 409,
+    "french_plan": "{BC}Le génie s'en va, riant toujours.{B1}{AC}",
+    "encoded_hex": "bc1b4601482d4f4a46015477464f0157428b01534a424f55015550564b505653547fb1ac",
+    "previous_v059_sha256": "ac873d315e34136b1e0e4622176337551c634f717f50076a2b40b03d417611df",
+    "source_message_sha256": "16228e01b6adc7a99b07ec4a2bfdf5b942be664332cf3f7406887d46d53ce1a6"
+  },
+  {
+    "id": 412,
+    "french_plan": "{BC}Le gel empêche {B7} de bouger !{B1}{AC}",
+    "encoded_hex": "bc1b460148464d01464e513344494601b701454601435056484653017ab1ac",
+    "previous_v059_sha256": "a9235b11c0ce7271f85991f7cf8b0c2abd9174d973c5fa93d95addd646edd4bf",
+    "source_message_sha256": "5a42e667787bf9bc9d16656111ba6b922945654cf0bb5c185a2013fd5e292d26"
+  },
+  {
+    "id": 413,
+    "french_plan": "{BD}Une pluie de météorites tombe du ciel et s'abat sur les alentours !{B1}{AC}",
+    "encoded_hex": "bd244f4601514d564a46014546014e2d552d50534a5546540155504e434601455601444a464d0146550154774243425501545653014d465401424d464f5550565354017ab1ac",
+    "previous_v059_sha256": "9e21a865a819b10f9ac5030e6a27e9f93d87cd0761f83d027a08479415fd5b6b",
+    "source_message_sha256": "7b8af6db8a60e61634180b9be2b5f16a0eceb24b69735e2677e86983330a8ca4"
+  },
+  {
+    "id": 414,
+    "french_plan": "{BD}{B8} récupère ses PM !{B1}{AC}",
+    "encoded_hex": "bdb801532d44565130534601544654011f1c017ab1ac",
+    "previous_v059_sha256": "44a10bf34e783aadd5c2da9d2b1b7834044d1984bf5f1447b628a9e8518dcbc6",
+    "source_message_sha256": "071cc6ab23896af3b72ee896a1bb648d600a3f232d0a09bfb98281dadd164848"
+  },
+  {
+    "id": 415,
+    "french_plan": "{BD}{B8} récupère {BB} PM !{B1}{AC}",
+    "encoded_hex": "bdb801532d44565130534601bb011f1c017ab1ac",
+    "previous_v059_sha256": "ecfd58136069ca444666af8646215bae4bb1c25b28a9494db62e16b0543981e1",
+    "source_message_sha256": "921af801943b0b1f21d6dcbed0fb4c2615166868a9bb26ac42d9c36d3908298e"
+  },
+  {
+    "id": 432,
+    "french_plan": "{BC}{B7} exécute {B2} ???{B1}{AC}",
+    "encoded_hex": "bcb70146592d4456554601b201797979b1ac",
+    "previous_v059_sha256": "30928c5899567657d53a902a8cd526199d0528493be08904b92eb130a5ceada9",
+    "source_message_sha256": "ce4e81048cacef59600157c5cd0d4aa753a158bdee6de68399a7bc80e400275f"
+  },
+  {
+    "id": 433,
+    "french_plan": "{B7} ne peut pas s'équiper avec {B5}.{AC}",
+    "encoded_hex": "b7014f460151465655015142540154772d52564a514653014257464401b57fac",
+    "previous_v059_sha256": "fcef3c6ac65e6237d9acbd1925dcef02aab3dd0775f4239a46c912bcbe58bae0",
+    "source_message_sha256": "769532ac228bda7452a80bdbc14dd984799e79cc853a873a68d20c48652c636d"
+  },
+  {
+    "id": 434,
+    "french_plan": "Impossible de s'équiper avec {B5}.{AC}",
+    "encoded_hex": "184e515054544a434d460145460154772d52564a514653014257464401b57fac",
+    "previous_v059_sha256": "ff5f821ad10be83364bfa8de5f9b85fa42e65532c02699a3d1f906e21833d725",
+    "source_message_sha256": "97ea801783f5b3ac14ed3ea398fad0486a27ce5cd4a4b7cb129ab4c44ab77d1a"
+  },
+  {
+    "id": 435,
+    "french_plan": "{B7} s'équipe avec {B5}.{AC}",
+    "encoded_hex": "b70154772d52564a5146014257464401b57fac",
+    "previous_v059_sha256": "9e7249d108ea00aca65e6ef6f55c087e3ed6233a8c70731dfae5ed0ab74d41b7",
+    "source_message_sha256": "87333cb191144a999fbd5d6de2c2ebad4a24c37e382ff6cee6a4e7cd66b41cb4"
+  },
+  {
+    "id": 436,
+    "french_plan": "{B7} ne possède aucun objet.{AC}",
+    "encoded_hex": "b7014f46015150545430454601425644564f0150434b46557fac",
+    "previous_v059_sha256": "a5a69d4d9fb1055a2b18a036cd63b9bf4073e4d038503355e6ceff80b6327bdb",
+    "source_message_sha256": "edc917818f695e68dbbbc3fd9910a86625bcf2c3bc5466977fe2c0109ddd8cc9"
+  },
+  {
+    "id": 437,
+    "french_plan": "Aucun compagnon pour établir une tactique !{AC}",
+    "encoded_hex": "105644564f0144504e5142484f504f0151505653012d5542434d4a5301564f4601554244554a525646017aac",
+    "previous_v059_sha256": "fdb918108d5ef2bfab5c8d41f72a69e45a0903fe2695c6879612d2f3682abc16",
+    "source_message_sha256": "a9b7a96bbe96a92cb7eea4e3d9276181846db97ab94b62699932379cfb5d400d"
+  },
+  {
+    "id": 452,
+    "french_plan": "{BD}{B8} écoute attentivement la chanson !{B1}{AC}",
+    "encoded_hex": "bdb8012d445056554601425555464f554a57464e464f55014d42014449424f54504f017ab1ac",
+    "previous_v059_sha256": "c6f31a86a12eca8ecbb6fcbbcc4e56e48cc19d44c2f7af137eafcbfa4d17dbd1",
+    "source_message_sha256": "008e7dfc9ccc40cd495fc162264eeffaf479e8875623a8b7c869c7d7d7385573"
+  },
+  {
+    "id": 453,
+    "french_plan": "{BD}Mais {B8} refuse d'écouter !{B1}{AC}",
+    "encoded_hex": "bd1c424a5401b8015346475654460145772d445056554653017ab1ac",
+    "previous_v059_sha256": "6c6beb168a77799119571f2bf28d0d2e9b063298cd74bb4cf3dd59d62c9f5ee9",
+    "source_message_sha256": "ff48a60635dfa6fcd8903dac0f9401dc2fc30934cf2a99ec6180da75169c6383"
+  },
+  {
+    "id": 461,
+    "french_plan": "{BC}{B7} essaie de penser à un nouveau jeu. Mais impossible de s'amuser vraiment tant que la paix n'est pas revenue...{B1}{AC}",
+    "encoded_hex": "bcb701465454424a460145460151464f544653012c01564f014f505657464256014b46567f011c424a54014a4e515054544a434d46014546015477424e56544653015753424a4e464f550155424f5501525646014d420151424a59014f774654550151425401534657464f56467f7f7fb1ac",
+    "previous_v059_sha256": "c3750a0ccb5f0b6688d07b90e2707cbc96d59144b1f29430be40e112d4bb8af5",
+    "source_message_sha256": "f8f460d5f807a4d7ee70bd1e1e4bf712f44455774ced5e09ec6b6a1d8a992e07"
+  },
+  {
+    "id": 466,
+    "french_plan": "{BC}{B7} joue à la ficelle en solo.{B1} {B7} trouve ce jeu triste.{B1} {B7} range la ficelle en soupirant.{B1}{AC}",
+    "encoded_hex": "bcb7014b505646012c014d4201474a44464d4d4601464f0154504d507fb101b701555350565746014446014b46560155534a5455467fb101b70153424f4846014d4201474a44464d4d4601464f01545056514a53424f557fb1ac",
+    "previous_v059_sha256": "ca10d660fa5584c59457936f75b9561c18344400f190ab9449ddbf1e4f41dc26",
+    "source_message_sha256": "46d0aabd1e09ec94cbe1aad50f309747e3a1ec7392632bdb8d759d86a6781b3b"
+  },
+  {
+    "id": 467,
+    "french_plan": "{BC}{B7} pense à des choses coquines !{B1} {B7}. Hé hé hé...{B1} Le nez de {B7} n'arrête plus de saigner !{B1}{AC}",
+    "encoded_hex": "bcb70151464f5446012c014546540144495054465401445052564a4f4654017ab101b77f01172d01492d01492d7f7f7fb1011b46014f465b01454601b7014f7742535333554601514d56540145460154424a484f4653017ab1ac",
+    "previous_v059_sha256": "1d205e4d43c1e7ce6983910b221a12bb9cad172acb885a6cf2c6fd9c57dc8ad0",
+    "source_message_sha256": "1659b0dfc456bdcd8e9a1858c545328398590c8e67dccc91ed54973127094c1c"
+  },
+  {
+    "id": 468,
+    "french_plan": "{BC}{B7} sculpte une poupée avec un couteau !{B1} On dirait que la poupée est vivante !{B1} {BC}La poupée attaque !{B1}{AC}",
+    "encoded_hex": "bcb7015444564d51554601564f4601515056512d46014257464401564f0144505655464256017ab1011e4f01454a53424a5501525646014d4201515056512d460146545501574a57424f5546017ab101bc1b4201515056512d460142555542525646017ab1ac",
+    "previous_v059_sha256": "22e30fe840a1825a8cf5da54b813b69394911dae92f680a8d5c824799893bf11",
+    "source_message_sha256": "9d1466fe3889a4cb3ae8f59f75d7f33173a6329b7796fda7ddee6c7e71e12eb3"
+  },
+  {
+    "id": 469,
+    "french_plan": "{BC}{B7} se met à boire de l'alcool gardé en réserve !{B1} {B7}. Comment résister à un petit verre !{B1}{AC}",
+    "encoded_hex": "bcb7015446014e4655012c0143504a5346014546014d77424d4450504d01484253452d01464f01532d5446535746017ab101b77f0112504e4e464f5501532d544a54554653012c01564f015146554a55015746535346017ab1ac",
+    "previous_v059_sha256": "f7a5d198131baded73ca9f1ebb152cea2c6a62e1f1e9e50f3ccb832bdd21ed1c",
+    "source_message_sha256": "eae784bfc393c9c74241ca47bcd1e5a05c08d785732248261b0ba0a2e999be46"
+  },
+  {
+    "id": 470,
+    "french_plan": "{BC}{B8} commence à sentir les effets de l'alcool !{B1} Et voilà que {B8} s'endort !{B1}{AC}",
+    "encoded_hex": "bcb80144504e4e464f4446012c0154464f554a53014d465401464747465554014546014d77424d4450504d017ab10114550157504a4d2c0152564601b8015477464f45505355017ab1ac",
+    "previous_v059_sha256": "729d88ba363df8055ad34194a685d59bdddf723594258fe5c1edfa8004553f24",
+    "source_message_sha256": "a64c32d2c79f10e39262855ddfee27fb867687871d5aed1aff2253c8ea9c4c71"
+  },
+  {
+    "id": 471,
+    "french_plan": "{BC}{B7} se met à chanter très fort ! Et terriblement faux !{B1}{AC}",
+    "encoded_hex": "bcb7015446014e4655012c014449424f55465301555330540147505355017a01145501554653534a434d464e464f550147425659017ab1ac",
+    "previous_v059_sha256": "8bb7899868bf8d9ab959f39f6808bf7aab9ce8b9cb91de2748559d8063d502fa",
+    "source_message_sha256": "e65805feb3dce0e6b25bc38224f017f5d3d0b24d34d09781d1ec75c23c2b356d"
+  },
+  {
+    "id": 473,
+    "french_plan": "{BC}{B7} prend en bouche de l'alcool très fort et en approche une flamme ! Pfff !{B1} {BC}Un souffle de feu jaillit de sa bouche !{B1}{AC}",
+    "encoded_hex": "bcb7015153464f4501464f01435056444946014546014d77424d4450504d0155533054014750535501465501464f01425151535044494601564f4601474d424e4e46017a011f474747017ab101bc244f0154505647474d4601454601474656014b424a4d4d4a5501454601544201435056444946017ab1ac",
+    "previous_v059_sha256": "15be7298e2ed44a343c0234ffb07c3a378339978ff95bcffb0ed0509661bd0c8",
+    "source_message_sha256": "2eaaa3866f7ac11e8eba3a6c67565df1cda86fc0e476239deac6e529f32c6c71"
+  },
+  {
+    "id": 493,
+    "french_plan": "{BC}{B7} se met soudain à chercher une fourmilière !{B1}{AC}",
+    "encoded_hex": "bcb7015446014e46550154505645424a4f012c01444946534449465301564f4601475056534e4a4d4a305346017ab1ac",
+    "previous_v059_sha256": "208b69bea4084d2357d47327569a76ec22451c1c4a0ae948abfbcce1a4946892",
+    "source_message_sha256": "90e76acade8f92ad6e965dcb38dfbc426d1057c909320ebfc93c729aec467bc7"
+  },
+  {
+    "id": 495,
+    "french_plan": "{BD}Quelle chance ! Une fourmilière ! {B7} y donne des petits coups de bâton !{B1}{AC}",
+    "encoded_hex": "bd2056464d4d46014449424f4446017a01244f4601475056534e4a4d4a305346017a01b7015a0145504f4f4601454654015146554a555401445056515401454601433555504f017ab1ac",
+    "previous_v059_sha256": "bdcfecadc5497c116e76d906838bf49dbba150f418e093b253f5153dc42272b9",
+    "source_message_sha256": "f8e04cd8cd6dee28b75aa2d7b3e9c36e61c8912826c1364a6e926abca0aebd90"
+  },
+  {
+    "id": 499,
+    "french_plan": "{BC}{B7} imite la voix de {B3} pour changer les consignes !{B1} {B7}. Je m'en occupe !{B1} Mais la voix est mal imitée !{B1}{AC}",
+    "encoded_hex": "bcb7014a4e4a5546014d420157504a5901454601b30151505653014449424f484653014d46540144504f544a484f4654017ab101b77f011946014e77464f01504444565146017ab1011c424a54014d420157504a5901465455014e424d014a4e4a552d46017ab1ac",
+    "previous_v059_sha256": "d1c8b2777ec22233fd3f2e40d421531b69d85366f8d8c635efff76e9388932ff",
+    "source_message_sha256": "7663d13f784c6ae6e8381d0c359ef6a5965014dc08dec5c4bfcf90e743fb14e7"
+  },
+  {
+    "id": 500,
+    "french_plan": "{BC}{B7} se met soudain à danser dans tous les sens !{B1} Son arme tournoie dangereusement aux alentours !{B1} {BC}{B7} attaque !{B1}{AC}",
+    "encoded_hex": "bcb7015446014e46550154505645424a4f012c0145424f5446530145424f540155505654014d46540154464f54017ab10122504f0142534e4601555056534f504a460145424f484653465654464e464f550142565901424d464f5550565354017ab101bcb70142555542525646017ab1ac",
+    "previous_v059_sha256": "37907e14532db34e758fbf2b3e9b5185f4256d725f37ff35100171d4209f81ef",
+    "source_message_sha256": "8ea71f35e3fb8fe44b150558e93cb2ea6d08ab6bf1e3aabfe2d82cce0b8d23a7"
+  },
+  {
+    "id": 501,
+    "french_plan": "{BC}{B7} essaie un sort tout juste inventé ! {B7}. Dingue-dong !!{B1}{AC}",
+    "encoded_hex": "bcb701465454424a4601564f01545053550155505655014b56545546014a4f57464f552d017a01b77f01134a4f4856467845504f48017a7ab1ac",
+    "previous_v059_sha256": "1dc64e7f5c3e1e1ba8d201944d5fc2d075643e0008f114e1e613ba358a0f7318",
+    "source_message_sha256": "1b636482edcf603603758750ab6273dffb1624da573b391d94ac0d4f560a1975"
+  },
+  {
+    "id": 502,
+    "french_plan": "{BD}Incroyable ! {B8} revient à la vie !{B1}{AC}",
+    "encoded_hex": "bd184f4453505a42434d46017a01b8015346574a464f55012c014d4201574a46017ab1ac",
+    "previous_v059_sha256": "3ccb2c3b5849ae271fd69129288ffe22055f9fd4bfd9a72ec9df98e44f6d1387",
+    "source_message_sha256": "add5f467a8e970939b5c49d785967310f1b1240eb223d3077034fe19aca6c260"
+  },
+  {
+    "id": 503,
+    "french_plan": "{BC}{B7} se met soudain à jouer à la dînette !{B1} {B7}. Le repas est prêt, à table !{B1}{AC}",
+    "encoded_hex": "bcb7015446014e46550154505645424a4f012c014b50564653012c014d420145344f46555546017ab101b77f011b460153465142540146545501515333558b012c015542434d46017ab1ac",
+    "previous_v059_sha256": "00ccbbf22bf72f51bb9986019772c3f18d60ac48b304933abc2eb9f1e1376908",
+    "source_message_sha256": "93dfd1b63ab339df47e1230464d4b998663c328286c6f403a89125dabaec3013"
+  },
+  {
+    "id": 504,
+    "french_plan": "{B8} s'approche en titubant et commence à goûter la nourriture !{B1} {BC}C'est infâme !{B1}{AC}",
+    "encoded_hex": "b8015477425151535044494601464f01554a555643424f550146550144504e4e464f4446012c0148503a554653014d42014f505653534a55565346017ab101bc1277465455014a4f47354e46017ab1ac",
+    "previous_v059_sha256": "935e9e83652b54364245b12814fbf4286de62f0df49f0f2ca093477b04f87e54",
+    "source_message_sha256": "fe68c72af05fe1400ebeccac8b579fa390836f040ebf566d5e6c734a0eee7bb4"
+  },
+  {
+    "id": 505,
+    "french_plan": "Mais personne n'y prête attention !{B1}{AC}",
+    "encoded_hex": "1c424a540151465354504f4f46014f775a01515333554601425555464f554a504f017ab1ac",
+    "previous_v059_sha256": "2a453d0a584afd551696571994cd608187ca8273373a8db91a2f83a575b4bcd6",
+    "source_message_sha256": "c1dfba863aec35a7ee626ff2bb46d73265a081714d8e9fab396fe18358afdff3"
+  },
+  {
+    "id": 509,
+    "french_plan": "{BC}{B7} enfile soudain un maillot de bain et se met à danser !{B1}{AC}",
+    "encoded_hex": "bcb701464f474a4d460154505645424a4f01564f014e424a4d4d50550145460143424a4f014655015446014e4655012c0145424f544653017ab1ac",
+    "previous_v059_sha256": "96c3ee01dac58654ce79bebcb2a7cb796f36d84a0620522110476c7434bc2354",
+    "source_message_sha256": "bd8d8753898e20711457a405093d759ce8fd4df9421e51be7aa1f7d762e59fee"
+  },
+  {
+    "id": 510,
+    "french_plan": "{BD}{B8} ne pense plus qu'à {B7} !{B1}{AC}",
+    "encoded_hex": "bdb8014f460151464f544601514d5654015256772c01b7017ab1ac",
+    "previous_v059_sha256": "c1f21579c4ee7a822a6dd9af3ecdb01ba8b695d2a07c1bb771567a1a50f2aa39",
+    "source_message_sha256": "b05d92b9c4abd6c0b19e832bb21fcaeaa015ed22a82fb15d908815196cc53721"
+  },
+  {
+    "id": 511,
+    "french_plan": "{BD}Mais {B8} n'y prête aucune attention !{B1}{AC}",
+    "encoded_hex": "bd1c424a5401b8014f775a01515333554601425644564f4601425555464f554a504f017ab1ac",
+    "previous_v059_sha256": "585dbe1dc475d5835c84d81b106c1c5f3e99fa6822e1b117687c21c322435cf4",
+    "source_message_sha256": "7a7e6170157d4e690d6bdd8232ec3f3470004c4c2e44d002e002e0a0d2a2e66a"
+  },
+  {
+    "id": 514,
+    "french_plan": "{BC}{B7} joue en cachette à un jeu douteux ! Vraiment douteux... !{B1} Tout le monde fait semblant de ne rien voir !{B1}{AC}",
+    "encoded_hex": "bcb7014b50564601464f014442444946555546012c01564f014b46560145505655465659017a012553424a4e464f5501455056554656597f7f7f017ab10123505655014d46014e504f45460147424a550154464e434d424f55014546014f4601534a464f0157504a53017ab1ac",
+    "previous_v059_sha256": "5641e4e01c1bb9546b52d88a58802486dff2253832f7ad439c3fa0f4b1f99516",
+    "source_message_sha256": "8521f1a7a07d86fc78d518c6c9a6aeb12965e987ea09774a2efda11a9ddfcde9"
+  },
+  {
+    "id": 515,
+    "french_plan": "{BC}{B7} cherche à attirer la sympathie. Oh, pauvre de moi... Les larmes coulent des yeux de {B7} !{B1} {BC}{B7} n'arrête plus de pleurer ! Les larmes forment un raz-de-marée qui s'abat sur les monstres !{B1}{AC}",
+    "encoded_hex": "bcb70144494653444946012c014255554a534653014d4201545a4e514255494a467f011e498b01514256575346014546014e504a7f7f7f011b4654014d42534e4654014450564d464f5501454654015a46565901454601b7017ab101bcb7014f7742535333554601514d565401454601514d4656534653017a011b4654014d42534e4654014750534e464f5501564f0153425b784546784e42532d460152564a0154774243425501545653014d4654014e504f5455534654017ab1ac",
+    "previous_v059_sha256": "4249eeadf4ce9441d97a16d423bb087244540fcaae6455f780098d33f796308d",
+    "source_message_sha256": "a568d5c8abeb671c8036f82fe4ab5b2bbef962ae5c50bf1a774f9d13f7efb6a2"
+  },
+  {
+    "id": 518,
+    "french_plan": "{BC}{B7} lance une pièce très haut ! La pièce retombe dans la paume de {B7} !{B1}{AC}",
+    "encoded_hex": "bcb7014d424f444601564f4601514a30444601555330540149425655017a011b4201514a30444601534655504e43460145424f54014d42015142564e4601454601b7017ab1ac",
+    "previous_v059_sha256": "028ad340578e43fa6e8401ef55106945c7d17e53916b8dfc10626210302d135f",
+    "source_message_sha256": "5b0c9d3b14664c51d988a98158f541ab3e155ff18fd5ed57ad046141d3d280c9"
+  },
+  {
+    "id": 522,
+    "french_plan": "{BC}{B7} fixe le lointain avec un sourire prétentieux...{B1} Mais une profonde mélancolie envahit {B7} !{B1}{AC}",
+    "encoded_hex": "bcb701474a5946014d46014d504a4f55424a4f014257464401564f01545056534a53460151532d55464f554a4656597f7f7fb1011c424a5401564f460151535047504f4546014e2d4d424f44504d4a4601464f5742494a5501b7017ab1ac",
+    "previous_v059_sha256": "3af76caa6150ffe358116fb047a7cb2e69ff3c808bd1f4f92cbd85c7cafcc1a6",
+    "source_message_sha256": "bddb94fe1b76590dba74f1592c62b7146156c5a8ef179d514057d8643de69179"
+  },
+  {
+    "id": 524,
+    "french_plan": "{BC}{B7} essaie de se souvenir d'un jeu appris auprès de Dragore.{B1} Dragore. Tu dois gagner en force... Encore plus...{B1} {BC}Les mots de Dragore résonnent de nouveau ! {B7}. Raaaah !!{B1} {BC}Des éclairs jaillissent autour de {B7} !{B1}{AC}",
+    "encoded_hex": "bcb701465454424a460145460154460154505657464f4a53014577564f014b465601425151534a540142565153305401454601135342485053467fb101135342485053467f0123560145504a54014842484f465301464f0147505344467f7f7f01144f4450534601514d56547f7f7fb101bc1b4654014e505554014546011353424850534601532d54504f4f464f55014546014f505657464256017a01b77f01214242424249017a7ab101bc134654012d444d424a5354014b424a4d4d4a5454464f550142565550565301454601b7017ab1ac",
+    "previous_v059_sha256": "e7014c47f1a8c85289cd31ab92c1563efe1549b88f230547bf191f8e2763fb14",
+    "source_message_sha256": "df0bf97c2a9b72cd00f7f0be995fe1ad4aa8383165f891c144ffb2dda4d9f1d0"
+  },
+  {
+    "id": 528,
+    "french_plan": "{BC}{B7} se demande à quel jeu jouer !{B1}{AC}",
+    "encoded_hex": "bcb70154460145464e424f4546012c015256464d014b4656014b50564653017ab1ac",
+    "previous_v059_sha256": "352e4499c278031c3e3357a4e690442d699b8f3d5d17bc8b43036d9c524c0e4a",
+    "source_message_sha256": "5b03a2ce80fd0d2f27d834d66ca613596542037728c3949c3ea1266c9726d995"
+  },
+  {
+    "id": 530,
+    "french_plan": "{BC}{B7} se balance bizarrement sur un ballon ! Oups ! Une perte d'équilibre provoque une collision !{B1}{AC}",
+    "encoded_hex": "bcb70154460143424d424f444601434a5b425353464e464f550154565301564f0143424d4d504f017a011e565154017a01244f460151465355460145772d52564a4d4a43534601515350575052564601564f460144504d4d4a544a504f017ab1ac",
+    "previous_v059_sha256": "63bd1c560922307b857376e0906689d4876fab0deb8e46d2fa0baea3cbbbab83",
+    "source_message_sha256": "78a8c59d1b6e06a4b9d796c0dff351cf52cd3c2c4297489746ea39aac5ed0311"
+  },
+  {
+    "id": 531,
+    "french_plan": "{BC}{B7} court autour de l'ennemi à une vitesse fulgurante !{B1}{AC}",
+    "encoded_hex": "bcb701445056535501425655505653014546014d77464f4f464e4a012c01564f4601574a55465454460147564d485653424f5546017ab1ac",
+    "previous_v059_sha256": "f8a1d4078ec1ac1c03654e916ece1a2676646845c206ee5b159794090e25d360",
+    "source_message_sha256": "76b970bedb86f4aeaad7df532d71e65ac6bf652f4250f18087834f9b48518a80"
+  },
+  {
+    "id": 533,
+    "french_plan": "{BC}{B7} tente de raconter une anecdote amusante à tout le monde !{B1} {BC}Mais le récit est maladroit et tombe à plat !{B1}{AC}",
+    "encoded_hex": "bcb70155464f554601454601534244504f55465301564f4601424f46444550554601424e5654424f5546012c0155505655014d46014e504f4546017ab101bc1c424a54014d4601532d444a5501465455014e424d424553504a550146550155504e4346012c01514d4255017ab1ac",
+    "previous_v059_sha256": "0f232c807c0f37ed9c19221679669ff1ae6de43073eaeba49744e4a64803ac05",
+    "source_message_sha256": "a7028c1ce203488601c243f128133b14ff4746fabbfdafb423f5d5df7c3dc310"
+  },
+  {
+    "id": 534,
+    "french_plan": "{BC}{B7} joue à rouler comme un ballon !{B1}{AC}",
+    "encoded_hex": "bcb7014b505646012c015350564d46530144504e4e4601564f0143424d4d504f017ab1ac",
+    "previous_v059_sha256": "fc13b83d07e027b8bee70eee7096f0c02a93edc8f30afa47cfbe0f19eff16752",
+    "source_message_sha256": "7a3548ed0f49dd3cfb4fe66d58d94db959c304367ef53996190877f2404eadbe"
+  },
+  {
+    "id": 535,
+    "french_plan": "{BC}{B7} se met à jouer avec le feu !{B1}{AC}",
+    "encoded_hex": "bcb7015446014e4655012c014b505646530142574644014d4601474656017ab1ac",
+    "previous_v059_sha256": "075119906bbdc3f675896d07023ba62aa9e1a6d9ae632ee01d887e0dba81ff30",
+    "source_message_sha256": "2b41fe0b0960150a5dbd10d13e67491401f6a1c0e46f2bb65d71c3a6b1167820"
+  },
+  {
+    "id": 537,
+    "french_plan": "{BC}{B7} se met soudain à sauter à la corde !{B1}{AC}",
+    "encoded_hex": "bcb7015446014e46550154505645424a4f012c01544256554653012c014d42014450534546017ab1ac",
+    "previous_v059_sha256": "a29d47ae26c455d0fa047aea355653257c856313197b1beef03e5e6f308eb385",
+    "source_message_sha256": "7cf9a9e6717cdbb0fcf7512ac1d82ad111ff6100ec098fe798f5d1512bfc96f4"
+  },
+  {
+    "id": 544,
+    "french_plan": "{BC}{BC}{B7} commence lentement une histoire effrayante. Il était une fois, dans un château...{B1} C'est une histoire vraiment terrifiante !{B1}{AC}",
+    "encoded_hex": "bcbcb70144504e4e464f4446014d464f55464e464f5501564f4601494a5455504a53460146474753425a424f55467f01184d012d55424a5501564f460147504a548b0145424f5401564f01444935554642567f7f7fb101127746545501564f4601494a5455504a5346015753424a4e464f5501554653534a474a424f5546017ab1ac",
+    "previous_v059_sha256": "f53725f9860d3b5e640849e69ce8377a84e28cf5f71c745202a8b222d853a3ad",
+    "source_message_sha256": "93f345de34d7983c0943012b44a345b4f59cf940843ac492b3cd4597aef88365"
+  },
+  {
+    "id": 546,
+    "french_plan": "{BC}{B7} trouve le jeu ultime ! Devenir autre chose ! {B7} prend une forme terrifiante !{B1} {BC}La créature crache un blizzard glacial !{B1}{AC}",
+    "encoded_hex": "bcb701555350565746014d46014b465601564d554a4e46017a01134657464f4a53014256555346014449505446017a01b7015153464f4501564f46014750534e4601554653534a474a424f5546017ab101bc1b420144532d42555653460144534244494601564f01434d4a5b5b42534501484d42444a424d017ab1ac",
+    "previous_v059_sha256": "975f82448708a46167dbacbc2fd2cdad28a9db58128e2f19115f54d2d59435a4",
+    "source_message_sha256": "12821806e18648c9e0ceecb3bc1190bff13d75474c73050c30f2c0fc5cbf8c1b"
+  },
+  {
+    "id": 549,
+    "french_plan": "Une brume étrange apparaît !{B1} {BC}Tous les effets de la magie disparaissent !{B1}{AC}",
+    "encoded_hex": "244f46014353564e46012d5553424f4846014251514253423455017ab101bc23505654014d465401464747465554014546014d42014e42484a4601454a54514253424a5454464f55017ab1ac",
+    "previous_v059_sha256": "301861e5037155ec53e6e75fef9f3b53936c7464f16bf059fbd37c0cb152955d",
+    "source_message_sha256": "714b8d19f3675d5f61b9c2705414c6708a6c464d753e939536e65c4a02e2faa3"
+  },
+  {
+    "id": 550,
+    "french_plan": "{BC}{B7} se met à gonfler comme un ballon !{B1} {BC}Le corps grossit encore et encore ! Paaaf !!!{B1}{AC}",
+    "encoded_hex": "bcb7015446014e4655012c0148504f474d46530144504e4e4601564f0143424d4d504f017ab101bc1b460144505351540148535054544a5501464f4450534601465501464f44505346017a011f42424247017a7a7ab1ac",
+    "previous_v059_sha256": "5297361ee44e9956b17e73622f68229cb0fbec4df660b6c697ca3ca5c03e52ef",
+    "source_message_sha256": "40d2076d9189a30d146774a80716e74fc8fbf727c2bb97ad8e9a6d76f154fd85"
+  },
+  {
+    "id": 553,
+    "french_plan": "{BC}{B7} reprend sa forme d'origine en se dégonflant !{B1}{AC}",
+    "encoded_hex": "bcb70153465153464f45015442014750534e4601457750534a484a4f4601464f01544601452d48504f474d424f55017ab1ac",
+    "previous_v059_sha256": "0f4cb85add61b4021f78b06e47bd9ff851a041a146b1314801c6a53df23ac57f",
+    "source_message_sha256": "666150954f26cf9bf12a9a40b28fb95d946cc6fda86e79ecc410000178abbde5"
+  },
+  {
+    "id": 562,
+    "french_plan": "{BC}{B7} ferme les yeux et commence à prier ! Une puissance maléfique envahit les alentours !{B1}{AC}",
+    "encoded_hex": "bcb7014746534e46014d4654015a4656590146550144504e4e464f4446012c0151534a4653017a01244f460151564a5454424f4446014e424d2d474a52564601464f5742494a55014d465401424d464f5550565354017ab1ac",
+    "previous_v059_sha256": "997e6fc3fed6fed43c35a66e2fd3c7325cab37f4d4ed3e3483d8127f8285d667",
+    "source_message_sha256": "f89957b4a83849b75ae4330650aa5a1eeb4358f76797fb002247cd97c9591e99"
+  },
+  {
+    "id": 563,
+    "french_plan": "{BD}{B8} récupère rapidement sa puissance magique !{B1}{AC}",
+    "encoded_hex": "bdb801532d445651305346015342514a45464e464f550154420151564a5454424f4446014e42484a525646017ab1ac",
+    "previous_v059_sha256": "a4a679b9421f483a40a0f938ce40d93a62a7e5043a1251efcd980a8476a45b42",
+    "source_message_sha256": "947b87043ddddf9904e8761faa4c4ad09d647bcd59a3c6d2b337014b356fe1fa"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "release": "v0.60",
+  "ROM_sha256": "4b8d7f5f484300402022e4563ed4d989c6ef30ac57a1b878cb1b58a6183f621c",
+  "diagnostic_only": true,
+  "natural_battle": false,
+  "production_engine_unchanged": true,
+  "native_font_extended": true,
+  "all64_new_IDs_visually_reviewed": true,
+  "render_scenarios": 68,
+  "stable_frame_captures": 236,
+  "all_API_calls_returned": true,
+  "variable_profiles": [
+    "64 homonym fixtures",
+    "4 distinct-name/item/voice fixtures"
+  ],
+  "actor_target_homonyms_397_correct_in_diagnostic": true,
+  "B3_examples": [
+    "AM",
+    "Olivier"
+  ],
+  "B5_examples": [
+    "Cypress Stick",
+    "Bamboo Spear"
+  ],
+  "BB_example": 999,
+  "all_seven_accents_visually_reviewed": [
+    "à",
+    "é",
+    "è",
+    "ê",
+    "î",
+    "â",
+    "û"
+  ],
+  "font_fresh_boot_report": "qa-fresh-boot-font.json",
+  "font_in_old_camp_state_refreshed_from_ROM_in_diagnostic": true,
+  "fonts_loaded_without_injection_after_fresh_reset": true,
+  "native_reader_IDs_verified": 608,
+  "negative_pointer_mutation_detected_ID": 8,
+  "names_are_inherited_test_labels_not_new_translations": true,
+  "player_name_path_exhaustively_validated": false,
+  "compact_window_validated": false,
+  "large_window_API": "C02A29",
+  "limits": [
+    "No natural battle scene validated",
+    "397 natural scene remains open",
+    "Unknown hardcoded byte consumers not exhaustively audited",
+    "Other tables, inherited resources and exhaustive proofreading remain open"
+  ]
+}

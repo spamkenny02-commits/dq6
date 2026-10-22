@@ -1,0 +1,130 @@
+{
+  "slots": {
+    "à": {
+      "byte": "2C",
+      "main_glyph": "0251",
+      "native_rows": [
+        48,
+        24,
+        120,
+        12,
+        124,
+        204,
+        204,
+        126
+      ]
+    },
+    "é": {
+      "byte": "2D",
+      "main_glyph": "0254",
+      "native_rows": [
+        12,
+        24,
+        124,
+        198,
+        198,
+        252,
+        192,
+        126
+      ]
+    },
+    "è": {
+      "byte": "30",
+      "main_glyph": "0256",
+      "native_rows": [
+        48,
+        24,
+        124,
+        198,
+        198,
+        252,
+        192,
+        126
+      ]
+    },
+    "ê": {
+      "byte": "33",
+      "main_glyph": "0255",
+      "native_rows": [
+        24,
+        36,
+        124,
+        198,
+        198,
+        252,
+        192,
+        126
+      ]
+    },
+    "î": {
+      "byte": "34",
+      "main_glyph": "0259",
+      "native_rows": [
+        24,
+        36,
+        0,
+        56,
+        24,
+        24,
+        24,
+        60
+      ]
+    },
+    "â": {
+      "byte": "35",
+      "main_glyph": "0252",
+      "native_rows": [
+        24,
+        36,
+        120,
+        12,
+        124,
+        204,
+        204,
+        126
+      ]
+    },
+    "û": {
+      "byte": "3A",
+      "main_glyph": "025C",
+      "native_rows": [
+        24,
+        36,
+        102,
+        102,
+        102,
+        102,
+        102,
+        60
+      ]
+    }
+  },
+  "known_consumers_checked": {
+    "battle_messages": 608,
+    "runtime_name_SIDs": 2512,
+    "physical_names": 2048,
+    "aliases": 464,
+    "dictionary_pairs": 50
+  },
+  "all_allocated_slots_previously_unused": true,
+  "all_other_native_tiles_unchanged": true,
+  "engine_modified": false,
+  "scope_limit": "Every known string pool checked; unknown hardcoded consumers remain in the final resource audit.",
+  "release": "v0.60",
+  "baseline": "v0.59",
+  "ROM_sha256": "4b8d7f5f484300402022e4563ed4d989c6ef30ac57a1b878cb1b58a6183f621c",
+  "unallocated_native_tiles_and_mapping_words_identical": 249,
+  "all_old_name_pool_bytes_identical": true,
+  "all_dictionary_bytes_identical": true,
+  "seven_occupied_slot_mutations_rejected": [
+    "occupied-battle-2C",
+    "occupied-battle-2D",
+    "occupied-battle-30",
+    "occupied-battle-33",
+    "occupied-battle-34",
+    "occupied-battle-35",
+    "occupied-battle-3A"
+  ],
+  "native_font_visual_review_report": "qa-emulator.json",
+  "unknown_hardcoded_consumers_fully_audited": false
+}
