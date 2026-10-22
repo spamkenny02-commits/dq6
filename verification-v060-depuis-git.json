@@ -1,0 +1,31 @@
+{
+  "release": "v0.60",
+  "verified_commit": "578981a4b819e0d06d4a8bffd0a9c4ed0adaaea1",
+  "fresh_git_archive": true,
+  "restore_sources_exit_code": 0,
+  "prepare_build_verify_font_inventory_exit_codes": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "published_hashes_identical_before_and_after": 34,
+  "ROM_sha256": "4b8d7f5f484300402022e4563ed4d989c6ef30ac57a1b878cb1b58a6183f621c",
+  "BPS_sha256": "edd1d03c6adc2d32dd62d35310251e628786ea717a4ae1080dc8c0764a412b5d",
+  "IPS_sha256": "9fedc71831c95ef326082767b15bda3224570d896b0e0754e83a3022a43b2317",
+  "new_battle_integrated": 64,
+  "battle_integrated_total": 104,
+  "battle_prepared_remaining": [
+    464,
+    465,
+    498
+  ],
+  "main_selected": 6957,
+  "main_linguistic": 6948,
+  "main_structural": 9,
+  "emulator_tests_executed_in_original_checkpoint": true,
+  "emulator_tests_repeated_in_fresh_restore": false,
+  "natural_battle_validated": false,
+  "final_project": false
+}
