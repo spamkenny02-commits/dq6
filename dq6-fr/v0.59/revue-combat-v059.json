@@ -1,0 +1,54 @@
+[
+  {
+    "id": 337,
+    "preparation_plan": "{BC}{B7} lance {B2} !{B1}{AC}",
+    "french_plan": "{BC}{B7} lance {B2} !{B1}{AC}",
+    "source_message_sha256": "8588d0eac17a9a5d99c855ec321f1bd572527b69601398f78546a90d638c409f",
+    "ds_references": [],
+    "review": "Nouvelle revue v0.59 : japonais, français, contexte et ordre des variables relus ; tests diagnostiques requis avant publication.",
+    "scope": "DIAGNOSTIC_NATIVE_VARIABLES_NOT_NATURAL_BATTLE"
+  },
+  {
+    "id": 428,
+    "preparation_plan": "{BC}{B4} s'en va d'un air triste !{AC}",
+    "french_plan": "{BC}{B4} s'en va d'un air triste !{AC}",
+    "source_message_sha256": "53a2f858b08199e875ce2ad87bca3f63f95cdcf307535a94793945c8038d1b6d",
+    "ds_references": [],
+    "review": "Nouvelle revue v0.59 : japonais, français, contexte et ordre des variables relus ; tests diagnostiques requis avant publication.",
+    "scope": "DIAGNOSTIC_NATIVE_VARIABLES_NOT_NATURAL_BATTLE"
+  },
+  {
+    "id": 454,
+    "preparation_plan": "{BC}{B7} reste sous le charme{AD}de la voix de {B2}.{B1}{AC}",
+    "french_plan": "{BC}{B7} reste sous le charme{AD}de la voix de {B2}.{B1}{AC}",
+    "source_message_sha256": "ad0c76fdf5f66dec6a0fe28df4454ee0b0d1deeb3e7acf793767d2b3fd76e312",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 17,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8ecf07b44c967783b43bb70d7ad131f1782c9435a376cbc5102b68a5a62449f5",
+        "fr_text_sha256": "168bf7240d0528a33291bfb78806d2666e336ada2d064ac05e05c5705760f78f"
+      }
+    ],
+    "review": "Nouvelle revue v0.59 : japonais, français, contexte et ordre des variables relus ; tests diagnostiques requis avant publication.",
+    "scope": "DIAGNOSTIC_NATIVE_VARIABLES_NOT_NATURAL_BATTLE"
+  },
+  {
+    "id": 455,
+    "preparation_plan": "{BD}{B8} reste sous le charme{AD}de la voix de {B2}.{B1}{AC}",
+    "french_plan": "{BD}{B8} reste sous le charme{AD}de la voix de {B2}.{B1}{AC}",
+    "source_message_sha256": "a80ec202c95e5431f6ce6b67de8a9f41c47c3a9ce854a3dd662bdc68166092c8",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0802.p",
+        "id": 17,
+        "scope": "CONCORDANCE_JA_RELUE_ROLES_SFC_A_CONSERVER",
+        "ja_text_sha256": "8ecf07b44c967783b43bb70d7ad131f1782c9435a376cbc5102b68a5a62449f5",
+        "fr_text_sha256": "168bf7240d0528a33291bfb78806d2666e336ada2d064ac05e05c5705760f78f"
+      }
+    ],
+    "review": "Nouvelle revue v0.59 : japonais, français, contexte et ordre des variables relus ; tests diagnostiques requis avant publication.",
+    "scope": "DIAGNOSTIC_NATIVE_VARIABLES_NOT_NATURAL_BATTLE"
+  }
+]

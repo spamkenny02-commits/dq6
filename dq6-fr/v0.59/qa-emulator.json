@@ -1,0 +1,54 @@
+{
+  "release": "v0.59",
+  "ROM_sha256": "1b974538502319d1ba9d5020dd43708361d98b7bf985f66aab7c242a58aecceb",
+  "diagnostic_only": true,
+  "natural_battle": false,
+  "native_API": "C02A29",
+  "production_engine_unchanged": true,
+  "renderer_and_name_resolver_unmodified": true,
+  "variable_render_scenarios": 10,
+  "accepted_scenarios": 9,
+  "negative_uninitialized_B4_cases": 1,
+  "negative_B4_not_counted_as_translation_validation": true,
+  "all_four_messages_visually_reviewed": true,
+  "native_B2_Wram": "5A28",
+  "native_B4_Wram": "5A22",
+  "native_B4_lookup": "C2F119",
+  "B4_indices_observed": {
+    "1": "Spotted Slime",
+    "2": "Furrat"
+  },
+  "B2_supplied_SIDs": [
+    "061F",
+    "02F1",
+    "024F"
+  ],
+  "native_actor_target_homonyms": true,
+  "names_are_inherited_test_labels_not_new_French_translations": true,
+  "player_name_path_validated": false,
+  "reader_IDs_verified": 608,
+  "negative_pointer_mutation_detected_ID": 8,
+  "pagination_acknowledgements_and_API_return_checked": true,
+  "bus": {
+    "groups_checked": 1478,
+    "bytes_checked": 499773,
+    "upper_groups": 982,
+    "all_rom_bus_reads_match": true
+  },
+  "boot_to_Journal_new_game_menu_visually_reviewed": true,
+  "boot_capture_sha256": "942a7de7d7ba512581879a15242b2663ab5d56b2f3a377205a2ab5c12bb748d5",
+  "source_handler_hashes": {
+    "000015-00001E": "6d178a09c63037dedc12da3c19f2c3e75e9229d76de5a539619adb7e49be32c0",
+    "069206-06920C": "b32ab9745ca20c43bf0a0368e2a8e1a572c886c664f075c93fa49458dc8cf3ff",
+    "0692D7-0692E6": "9f9e3358e5d96f8518da9a2b928cf5a5bb53383227b0736e08e9a76e7ca1c76a"
+  },
+  "remaining_reserves": [
+    "No natural battle path validated",
+    "Names tables remain incomplete; inherited English names used only for variable width and role tests",
+    "367 item/weapon substitution remains pending",
+    "397 homonym suffix after AD remains pending",
+    "498 depends on full invented-spell497+498 composition",
+    "64 accent codec cases remain pending",
+    "Inherited audits and exhaustive proofreading remain open"
+  ]
+}

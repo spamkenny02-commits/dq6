@@ -1,3 +1,7 @@
+# Reprise v0.59 — quatre messages de combat intégrés
+
+IDs337,428,454,455 intégrés :40 au total,67 préparés (dont2 réserves),497 hérités non qualifiés,4 structures. Principal6957 sélections et noms inchangés. Lire dq6-fr/v0.59/README.md et rapports ; restaurer toutes les versions puis exécuterprepare/build/verify etinventory. Ne pas recycler cette revue. B2/B4 testés en diagnostic,608 pointeurs contrôlés, neuf rendus acceptés et unB4 nul exclu ; menuJournal au démarrage vérifié. Aucun combat naturel, nom joueur ou fenêtre compacte validé.498 exclu : composition497+498 et16 noms DS toujours en préparation.64 accents,367,397, autres tables, relecture exhaustive et audits ouverts. Réserver le pool à8001024 sur12980 octets. Garder8Mio.
+
 # Version actuelle : v0.58
 
 28 textes natifs de combat ajoutés ;36 intégrés,71 préparés encore non insérés. Script principal6957 sélections inchangé. Voir [la recette v0.58](dq6-fr/v0.58/README.md). Le BPS v0.58 s’applique à la JP intacte vérifiée. Projet non finalisé : autres tables, relecture exhaustive et audits naturels ouverts.
