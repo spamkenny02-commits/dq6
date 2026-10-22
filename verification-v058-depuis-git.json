@@ -1,0 +1,47 @@
+{
+  "checked_commit": "90048074d1c5dff3b54a08a2385f8f67b5508aab",
+  "release": "v0.58",
+  "fresh_git_archive": true,
+  "restore_sources_exit_code": 0,
+  "prepare_build_verify_inventory_exit_codes": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "manifest_hashes_match_before_and_after_restore_and_build": true,
+  "manifest_files_checked": 25,
+  "ROM_bytes": 8388608,
+  "ROM_sha256": "ce2a8d5a657bb304a2ed6bc2313d96b0179b5b32aad6410f016cb61b443e1d60",
+  "BPS_sha256": "5befcf673b17641193065f8b42413faa844401f39fce61be43648b1da4122439",
+  "IPS_sha256": "ce5adee3cbb2df7f96e96e61f81a0f4f889269cb5869282c1ec11b0c04820c0e",
+  "fresh_ROM_byte_identical_to_tested_ROM": true,
+  "patches_reapplied_to_intact_JP": true,
+  "wrong_BPS_sources_rejected": [
+    "modified_JP",
+    "copier_header"
+  ],
+  "new_battle_integrated": 28,
+  "total_battle_integrated": 36,
+  "battle_prepared_not_inserted": 71,
+  "battle_inherited_unreviewed": 497,
+  "battle_structural": 4,
+  "main_selected": 6957,
+  "main_linguistic": 6948,
+  "main_structural": 9,
+  "Snes9x_executed_in_this_restore_check": true,
+  "fresh_native_reader_IDs_checked": 608,
+  "fresh_deliberate_pointer_error_detected_id": 8,
+  "render_tests_not_repeated_in_restore_check": true,
+  "render_report": "dq6-fr/v0.58/qa-emulator.json",
+  "names_confirmed_FR_unchanged": 37,
+  "native_grammar_helpers_unchanged": 4,
+  "full_main_reread_progress": 0,
+  "natural_battle_validated": false,
+  "limits": [
+    "56 name-profile renders belong to the translation lot, not a new visual pass during this restoration check.",
+    "397 held;64 accent cases and6 complex substitutions still prepared.",
+    "Other tables,497 inherited battle entries,full proofreading and natural-scene audits remain open."
+  ],
+  "no_ROM_SRAM_or_state_published": true
+}
