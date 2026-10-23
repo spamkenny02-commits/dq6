@@ -1,0 +1,32 @@
+{
+  "release": "v0.78",
+  "published_integration_commit": "36b98e3681aedfe3b8f231900743e57f40d5d749",
+  "published_tree": "a3a48860830e5d749570aefb8da170c15ca5ae28",
+  "fresh_clone": true,
+  "restore_sources_and_all_lots_executed": true,
+  "build_verify_executed": true,
+  "prepare_and_inventory_prepublication_and_prior_published_clone_verified": true,
+  "manifest_artifacts_verified": 54,
+  "all_manifest_artifacts_byte_identical": true,
+  "ROM_sha256": "0a69826c5139f75e8f78db7bdfa6ab5867180c866d09f26a548fdd2050c71a97",
+  "ROM_bytes": 8388608,
+  "BPS_sha256": "1407863ca0e7c53d9a9e4b4fe65d38b3ad7a845eaef919fe35ef6ce5752e0b14",
+  "IPS_sha256": "7285f3a7fccc264c15639ece610a24516212493e505ccf5a4da0af1b324b59d2",
+  "emulator_reports_reexecuted_after_clone": false,
+  "compact_C02A4F_accepted": false,
+  "all_project_complete": false,
+  "additional_audit_files": {
+    "dq6-fr/v0.78/audit_native_callers.py": {
+      "sha256": "cef2fd9fca708bdc8ef912838dcf6499868940029df6158b9f6b03653feeb2e0",
+      "size": 2517
+    },
+    "dq6-fr/v0.78/audit-native-callers.json": {
+      "sha256": "58c862b95b3423cb4bb55ec3da83b181ce2472b3380b34b4d1c7510df9de5811",
+      "size": 3424
+    },
+    "dq6-fr/v0.78/POINT-DE-REPRISE.md": {
+      "sha256": "2317d79e606afd7d71629163b0dce8adc69dd1ccdf54e46b3efc3deb3373af13",
+      "size": 1708
+    }
+  }
+}

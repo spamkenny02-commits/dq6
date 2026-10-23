@@ -1,0 +1,102 @@
+{
+  "release": "v0.78",
+  "ROM_sha256": "0a69826c5139f75e8f78db7bdfa6ab5867180c866d09f26a548fdd2050c71a97",
+  "source_JP_sha256": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e",
+  "checks": [
+    {
+      "cpu_address": "C02A16",
+      "file_offset": 10774,
+      "bytes_hex": "08c23048da5a8b78f47e7eabab20c52a4c622a",
+      "role": "Native API prologue: large setup2A62 or compact setup2A92",
+      "JP_and_both_ROM_copies_identical": true
+    },
+    {
+      "cpu_address": "C02A29",
+      "file_offset": 10793,
+      "bytes_hex": "08c23048da5a8b78f47e7eabab8d98594c622a",
+      "role": "Native API prologue: large setup2A62 or compact setup2A92",
+      "JP_and_both_ROM_copies_identical": true
+    },
+    {
+      "cpu_address": "C02A3C",
+      "file_offset": 10812,
+      "bytes_hex": "08c23048da5a8b78f47e7eabab20c52a4c922a",
+      "role": "Native API prologue: large setup2A62 or compact setup2A92",
+      "JP_and_both_ROM_copies_identical": true
+    },
+    {
+      "cpu_address": "C02A4F",
+      "file_offset": 10831,
+      "bytes_hex": "08c23048da5a8b78f47e7eabab8d98594c922a",
+      "role": "Native API prologue: large setup2A62 or compact setup2A92",
+      "JP_and_both_ROM_copies_identical": true
+    },
+    {
+      "cpu_address": "C2B130",
+      "file_offset": 176432,
+      "bytes_hex": "22162ac04600",
+      "role": "Inline message 70 calls C02A16 (large)",
+      "JP_and_both_ROM_copies_identical": true
+    },
+    {
+      "cpu_address": "C2B186",
+      "file_offset": 176518,
+      "bytes_hex": "22162ac04700",
+      "role": "Inline message 71 calls C02A16 (large)",
+      "JP_and_both_ROM_copies_identical": true
+    },
+    {
+      "cpu_address": "C27262",
+      "file_offset": 160354,
+      "bytes_hex": "22162ac06e01",
+      "role": "Inline message 366 calls C02A16 (large)",
+      "JP_and_both_ROM_copies_identical": true
+    },
+    {
+      "cpu_address": "C5F481",
+      "file_offset": 390273,
+      "bytes_hex": "22162ac0b101",
+      "role": "Inline message 433 calls C02A16 (large)",
+      "JP_and_both_ROM_copies_identical": true
+    },
+    {
+      "cpu_address": "C5F489",
+      "file_offset": 390281,
+      "bytes_hex": "22162ac0b201",
+      "role": "Inline message 434 calls C02A16 (large)",
+      "JP_and_both_ROM_copies_identical": true
+    },
+    {
+      "cpu_address": "C5F452",
+      "file_offset": 390226,
+      "bytes_hex": "22162ac0b301",
+      "role": "Inline message 435 calls C02A16 (large)",
+      "JP_and_both_ROM_copies_identical": true
+    },
+    {
+      "cpu_address": "C2B18C",
+      "file_offset": 176524,
+      "bytes_hex": "a949008d9325ad2a5a221dedc38d285ab012c9c809f006a948008d9325ad932522292ac060",
+      "role": "Messages73/72 selected into2593 and loaded immediately before C02A29",
+      "JP_and_both_ROM_copies_identical": true
+    }
+  ],
+  "large_window_caller_found_ids": [
+    70,
+    71,
+    72,
+    73,
+    366,
+    433,
+    434,
+    435
+  ],
+  "remaining_caller_binding_ids": [
+    331,
+    367
+  ],
+  "all_callers_exhaustively_identified": false,
+  "natural_scenes_played": false,
+  "compact_negative_diagnostic_retained": true,
+  "interpretation": "Eight affected IDs have proven native large-window call sites. The forced compact diagnostic is not evidence of failure at those particular call sites. Other callers and dynamic paths are not exhaustively proven;331/367 remain unresolved. No ROM change, no new translation or completed reread."
+}
