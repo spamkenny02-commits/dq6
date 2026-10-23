@@ -1,0 +1,41 @@
+{
+  "release": "v0.77",
+  "ROM_sha256": "082c5fd88ae4be5284ed1ef9ca21d46f9e5b8e538b09793e7dd6ff844871934e",
+  "fresh_boot": true,
+  "reset": true,
+  "load_state": false,
+  "VRAM_modified": false,
+  "all256_native_font_foregrounds_loaded_from_ROM": true,
+  "native_font_ROM_offset": 355164,
+  "VRAM_font_offset": 24576,
+  "VRAM_sha256": "43a5c7105ac02d7e627cd883e3c04aa8f9d9f96a99db17910093ca01c2ade265",
+  "bus": {
+    "groups_checked": 4014,
+    "bytes_checked": 573647,
+    "upper_groups": 3507,
+    "all_rom_bus_reads_match": true
+  },
+  "screenshot_sha256": "52fb1b4bfe419aad24adc931cece2186eb22549243ee19e124c35ff4ad373432",
+  "sequence": [
+    {
+      "frames": 360
+    },
+    {
+      "button": "a",
+      "frames": 1,
+      "press": 1
+    },
+    {
+      "frames": 120
+    },
+    {
+      "button": "a",
+      "frames": 1,
+      "press": 1
+    },
+    {
+      "frames": 120
+    }
+  ],
+  "natural_battle_or_travel": false
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "position": 625,
+    "sids": [
+      625
+    ],
+    "sfc_jp": "エビルワンド",
+    "current": "Evil Wand",
+    "proposal": "fantôkane",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 140,
+        "JA_text": "@1エビル;ワンド@",
+        "FR_text": "@0M@2le @3un @4fantôkane@5les @6des @7fantôkanes@8N@9N@",
+        "JA_sha256": "843d3ffcaa1b805c814a2b5162005c0016572851cddc4ff52325f743c104cb11",
+        "FR_sha256": "22b55606a0920666b384b630ca4f0afac953a27968afd04b4720131fe430299d"
+      }
+    ],
+    "decision": "DIFFERE_INSERTION_NOM_MONSTRE",
+    "review_note": "JP SFC et champs JA/FR DS exacts relus. Nom DS complet, sans troncature, sans ajout de rupture, largeur non augmentée. Extension de glyphe isolée v077 ; accords/pluriels et fenêtres naturelles non validés globalement.",
+    "technical_flags": [
+      "GLYPH_OR_DS_FORMATTING_NOT_APPROVED"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "new_position_examined": false,
+    "proposal_semantically_reread": true,
+    "insertion_approved": false,
+    "natural_context_validated": false,
+    "source_audit": "audit-560-propositions.json",
+    "current_message_sha256": "b032ccfa83ca81fe42296ca6ebaebdc3550c42bb4b320c347ac99b878d7ca99b",
+    "JP_message_sha256": "4526b4d38949557951d2a9e17f2be6a2a5e5ecb8704c6a7edcae8bed80329c9c",
+    "layout": "fantôkane"
+  },
+  {
+    "position": 673,
+    "sids": [
+      673
+    ],
+    "sfc_jp": "ろうごくへい",
+    "current": "Prison Guard",
+    "proposal": "geôlier",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 230,
+        "JA_text": "@1ろうごく;へい@",
+        "FR_text": "@0M@2le @3un @4geôlier@5les @6des @7geôliers@8N@9N@",
+        "JA_sha256": "19e0957cdde949929035e8a8676621d0850b8f1e760d43dd125fcb2b11ff6b8c",
+        "FR_sha256": "d15d26be4e609f887891d7a7c733eb63575ea040c819eaabc6266be06441f92a"
+      }
+    ],
+    "decision": "DIFFERE_INSERTION_NOM_MONSTRE",
+    "review_note": "JP SFC et champs JA/FR DS exacts relus. Nom DS complet, sans troncature, sans ajout de rupture, largeur non augmentée. Extension de glyphe isolée v077 ; accords/pluriels et fenêtres naturelles non validés globalement.",
+    "technical_flags": [
+      "GLYPH_OR_DS_FORMATTING_NOT_APPROVED"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "new_position_examined": false,
+    "proposal_semantically_reread": true,
+    "insertion_approved": false,
+    "natural_context_validated": false,
+    "source_audit": "audit-560-propositions.json",
+    "current_message_sha256": "ce019ed6c83b922b11570813dbbbe4aef7351834a495972972f3c49d51f3d156",
+    "JP_message_sha256": "1c74ba19f79571b9ceea240b37cc2f67075d95dddfd7925c923fa99ad9a74a0c",
+    "layout": "geôlier"
+  },
+  {
+    "position": 1016,
+    "sids": [
+      1016
+    ],
+    "sfc_jp": "ハイウォーロック",
+    "current": "High Warlock",
+    "proposal": "Érudit",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 121,
+        "JA_text": "@1ハイウォーロック@",
+        "FR_text": "@1Érudit@",
+        "JA_sha256": "3c3f0685b5b9f4d5f0bf15a0a57e6605ce902d945698060faae74b80fc3f1c00",
+        "FR_sha256": "2ea995cbf40c61ab34a3564869c23fd690c506638cee1551d11b3d393abbbfd9"
+      }
+    ],
+    "decision": "DIFFERE_RANG_VOCATION",
+    "review_note": "JP SFC et champs JA/FR DS exacts relus. Nom DS complet, sans troncature, sans ajout de rupture, largeur non augmentée. Extension de glyphe isolée v077 ; accords/pluriels et fenêtres naturelles non validés globalement.",
+    "technical_flags": [
+      "GLYPH_OR_DS_FORMATTING_NOT_APPROVED"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "new_position_examined": false,
+    "proposal_semantically_reread": true,
+    "insertion_approved": false,
+    "natural_context_validated": false,
+    "source_audit": "audit-560-propositions.json",
+    "current_message_sha256": "373d8bc7995220f232f1e8177f95122477f2db983b0660917397bba87abae82f",
+    "JP_message_sha256": "d0629e822b391fc8b381f1531818ce0fdf26f57f533cb359e0fc1217709fdd59",
+    "layout": "Érudit"
+  },
+  {
+    "position": 1242,
+    "sids": [
+      1706
+    ],
+    "sfc_jp": "リレミト",
+    "current": "Outside",
+    "proposal": "Évac'",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1003000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 179,
+        "JA_text": "@1リレミト@",
+        "FR_text": "@2l'@3une @4Évac'@",
+        "JA_sha256": "9bebc5c85587386459f51f9e42d7517127940bbab9b717f904d3068bf90602b4",
+        "FR_sha256": "90a868cd6118dfa5a11a7de52b497b69e5991d53eba7be329b9df35ff3fb4057"
+      }
+    ],
+    "decision": "DIFFERE_LIBELLE_ACTION",
+    "review_note": "JP SFC et champs JA/FR DS exacts relus. Nom DS complet, sans troncature, sans ajout de rupture, largeur non augmentée. Extension de glyphe isolée v077 ; accords/pluriels et fenêtres naturelles non validés globalement.",
+    "technical_flags": [
+      "GLYPH_OR_DS_FORMATTING_NOT_APPROVED"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "new_position_examined": false,
+    "proposal_semantically_reread": true,
+    "insertion_approved": false,
+    "natural_context_validated": false,
+    "source_audit": "audit-560-propositions.json",
+    "current_message_sha256": "da09baf04fe2c099ddd4471a1d038f76592c1286d3c2c1a76daa773ca50dbc20",
+    "JP_message_sha256": "b08ae69ba50a8489864b0ea88f7fd207f07ebf153513771552604c1d001b2c34",
+    "layout": "Évac'"
+  },
+  {
+    "position": 1694,
+    "sids": [
+      2158
+    ],
+    "sfc_jp": "ステテコパンツ",
+    "current": "Boxer Shorts",
+    "proposal": "caleçon",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 108,
+        "JA_text": "@1ステテコ;パンツ@",
+        "FR_text": "@0M@2le @3un @4caleçon@5les @6des @7caleçons@8N@9N@",
+        "JA_sha256": "95823ff27deeb156e38b6beac41a48c9c368e3d6528bbde68da1d1414caedb60",
+        "FR_sha256": "67a69baf9db9e2754cd17e33712a6701f0ce7193cb29b203e8fe2ede30093049"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "JP SFC et champs JA/FR DS exacts relus. Nom DS complet, sans troncature, sans ajout de rupture, largeur non augmentée. Extension de glyphe isolée v077 ; accords/pluriels et fenêtres naturelles non validés globalement.",
+    "technical_flags": [
+      "GLYPH_OR_DS_FORMATTING_NOT_APPROVED"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "new_position_examined": false,
+    "proposal_semantically_reread": true,
+    "insertion_approved": false,
+    "natural_context_validated": false,
+    "source_audit": "audit-560-propositions.json",
+    "current_message_sha256": "e36964ce336f088d5604a4d11883b3b24cd499e952a5c6c43a0eb37ffe62af21",
+    "JP_message_sha256": "8065c6301beae233fddc91bb112e408ef40dab5234ffff312c3199fdde9e0da0",
+    "layout": "caleçon"
+  }
+]

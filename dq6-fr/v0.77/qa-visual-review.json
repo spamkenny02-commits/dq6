@@ -1,0 +1,28 @@
+{
+  "release": "v0.77",
+  "ROM_sha256": "082c5fd88ae4be5284ed1ef9ca21d46f9e5b8e538b09793e7dd6ff844871934e",
+  "reviewed_after_SIDs": [
+    625,
+    673,
+    1016,
+    1706,
+    2158
+  ],
+  "B2_diagnostic_names_read": [
+    "fantôkane",
+    "geôlier",
+    "Érudit",
+    "Évac'",
+    "caleçon"
+  ],
+  "readability": true,
+  "accents_read": [
+    "ô",
+    "ç",
+    "É"
+  ],
+  "native_font_review": "Plane0 atlas read from cold-loaded VRAM: ô,ç,É visually inspected; no native menu scene inferred.",
+  "cold_Journal_menu_read": true,
+  "natural_inventory_vocation_or_battle": false,
+  "full_texts_tested": false
+}

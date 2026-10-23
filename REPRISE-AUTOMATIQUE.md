@@ -1,3 +1,11 @@
+# Reprise v0.77 — trois glyphes natifs et cinq noms intégrés
+
+Lire dq6-fr/v0.77/README.md,selection,delta,qa-font-extension etQA. Positions625/673/1016/1242/1694 :fantôkane,geôlier,Érudit,Évac',caleçon.5anciennes propositions intégrées,aucune nouvelle préparation ni nouvelle passe des2048positions ;280FRqualifiés,491propositions noms noninsérées. Principal6957sélections etcombat inchangés ;relecture exhaustive principale0.
+
+Extension isolée native8x8 :ô=3F→025A,ç=40→025F,É=41→0260. Ces glyphes principaux existaient déjà ;aucun code moteur nipolice principale modifié. Trois octets absents des pools connus etdu dictionnaire,12mutations de collision rejetées,253autres tuiles/mappings inchangés dans lesdeux copies. Codec v077 requis pour ces nouveaux octets. Vérifier les consommateurs hardcodés encore inconnus ;ne pas annoncer unaudit alphabet final.
+
+Grilles terrain complètes etbuffersB2 avant/après,10dialogues diagnostiques,5rendus après relus ;2477SIDs statiques etmutation pointeur,chargement naturel des256glyphes8x8 enVRAM àfroid,bus etJournal contrôlés. Pas de scène naturelle inventaire/vocation/combat validée. Les noms ne sont pas allongés ;limite desfenêtres toujours àmesurer. Table active7AF000 de14124octets ;réserver jusqu’à7B8703,ancienpool/tail,moteur etcombat protégés.8Mio. Audits hérités,recherche d’oublis,relecture exhaustive ettests finaux ouverts,projet nonfinalisé.
+
 # Reprise v0.76 — fin des110relectures,14libellés intégrés
 
 Lire dq6-fr/v0.76/README.md,revue-110-propositions.json,selection/revue/delta,audit-metadonnees-rupture.json etQA. Positions 805,1215,1612,1618,1637,1638,1667,1707,1725,1731,1758,1764,1766,1811 : Rang bleu, Porte et pique, pieu d'os, épée du Rêve, épée du Massacre, fléau du Carnage, épée de Ramias, body d'ange, bouclier d'argent, bouclier royal, brassard kamikaze, bas résille, pierre brute, offrande rituelle. 14traductions ;7résolutions des110nouvellement relues et7des400v075,sans recompter ces400. Cycle510propositions entièrement relu ;496encore noninsérées,275FRqualifiés/2048positions déjà examinées. Aucune nouvelle préparation ni relecture principale exhaustive.

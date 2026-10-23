@@ -1,0 +1,51 @@
+{
+  "release": "v0.77",
+  "ROM_sha256": "082c5fd88ae4be5284ed1ef9ca21d46f9e5b8e538b09793e7dd6ff844871934e",
+  "diagnostic_dialogues": 10,
+  "new_labels_checked": 5,
+  "B2_lookups_per_dialogue": 3,
+  "rows": [
+    {
+      "sid": 625,
+      "previous_screenshot_sha256": "cb60e32ca74d2fe9ebec03491645acdc61ba7d1fd0a4e86e222f05bae0979686",
+      "screenshot_sha256": "67afa97296ac7a4cb4d5bd25d53bda945cb731f8bfeacb4de7e4169865bd86ca",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 673,
+      "previous_screenshot_sha256": "f75de82037f0cdf5856740ae2213e66eb185118721439fcb8532875a758b9cf9",
+      "screenshot_sha256": "a3beb042db35a2f1ade6bc917d91f48375639f11c797840b8a3f30463137d797",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1016,
+      "previous_screenshot_sha256": "41b9feacc8a52350e24c5229e4b5ca71197bec61a005d9c35386db3bf7b33357",
+      "screenshot_sha256": "41d5099625ed36b129306e48a72b4968d8329151d92e88349f006282c0fc5f6f",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1706,
+      "previous_screenshot_sha256": "24187cab62955b19fc3113664188e759c838b1d7a5a6ebdd88a9d499c83c464e",
+      "screenshot_sha256": "f11b3d74373538b222ead1b0300f9c62547eb620992dc7c99df103a82bbb1eab",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2158,
+      "previous_screenshot_sha256": "f5857f9a1c2e500d0578a4928662c78f10ff2d42c1a4104dd9f67b0bd8810d14",
+      "screenshot_sha256": "f103baf766f9f6ec50a5fc66c56df3af345d2f33139a9bf1786f213c3741192a",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    }
+  ],
+  "natural_validation": false,
+  "limits": "Three repeated main-dialogue B2 lookups per name at camp. No party recruitment, natural battle or native compact menu coverage. Visual review is recorded separately."
+}

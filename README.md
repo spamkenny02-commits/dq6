@@ -1,3 +1,7 @@
+## v0.77 — trois caractères natifs et cinq noms supplémentaires
+
+La police native prend désormais en charge **ô, ç et É**. Cinq propositions DS sont intégrées : fantôkane, geôlier, Érudit, Évac’ et caleçon. La table compte **280 positions françaises qualifiées sur 2048** ; **491 propositions restent non insérées**. Ce lot ne termine pas la traduction des ressources ni la relecture exhaustive. Voir [la recette et ses limites](dq6-fr/v0.77/README.md).
+
 # Dragon Quest VI Super Famicom — état actuel v0.76
 
 [Patch BPS v0.76](patches/DQVI-FR-DS-v0.76-BASE-JP-PARTIEL.bps) · [Recette et limites](dq6-fr/v0.76/README.md) · [Reprise](REPRISE-AUTOMATIQUE.md)

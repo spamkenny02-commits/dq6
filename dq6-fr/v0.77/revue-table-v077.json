@@ -1,0 +1,142 @@
+[
+  {
+    "sid": 625,
+    "position": 625,
+    "french": "fantôkane",
+    "layout": "fantôkane",
+    "previous": "Evil Wand",
+    "sfc_jp": "エビルワンド",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 140,
+        "JA_text": "@1エビル;ワンド@",
+        "FR_text": "@0M@2le @3un @4fantôkane@5les @6des @7fantôkanes@8N@9N@",
+        "JA_sha256": "843d3ffcaa1b805c814a2b5162005c0016572851cddc4ff52325f743c104cb11",
+        "FR_sha256": "22b55606a0920666b384b630ca4f0afac953a27968afd04b4720131fe430299d"
+      }
+    ],
+    "review": "JP SFC et champs JA/FR DS exacts relus. Nom DS complet, sans troncature, sans ajout de rupture, largeur non augmentée. Extension de glyphe isolée v077 ; accords/pluriels et fenêtres naturelles non validés globalement.",
+    "old_encoded_hex": "14574a4d0126cf45ac",
+    "encoded_hex": "47cf553f4ccf46ac",
+    "old_sha256": "b032ccfa83ca81fe42296ca6ebaebdc3550c42bb4b320c347ac99b878d7ca99b",
+    "new_sha256": "d84821dc9ab46f6dcd146cdfcc90ece16f7c65f1295cf7b88df4303c686c2a24",
+    "old_columns": 9,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 673,
+    "position": 673,
+    "french": "geôlier",
+    "layout": "geôlier",
+    "previous": "Prison Guard",
+    "sfc_jp": "ろうごくへい",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 230,
+        "JA_text": "@1ろうごく;へい@",
+        "FR_text": "@0M@2le @3un @4geôlier@5les @6des @7geôliers@8N@9N@",
+        "JA_sha256": "19e0957cdde949929035e8a8676621d0850b8f1e760d43dd125fcb2b11ff6b8c",
+        "FR_sha256": "d15d26be4e609f887891d7a7c733eb63575ea040c819eaabc6266be06441f92a"
+      }
+    ],
+    "review": "JP SFC et champs JA/FR DS exacts relus. Nom DS complet, sans troncature, sans ajout de rupture, largeur non augmentée. Extension de glyphe isolée v077 ; accords/pluriels et fenêtres naturelles non validés globalement.",
+    "old_encoded_hex": "1f53e0ea011656d045ac",
+    "encoded_hex": "48463f4d4adaac",
+    "old_sha256": "ce019ed6c83b922b11570813dbbbe4aef7351834a495972972f3c49d51f3d156",
+    "new_sha256": "43385cc0425614fcadc69510e2f800aa95208efadac9174b8f63c94645365eab",
+    "old_columns": 12,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 1016,
+    "position": 1016,
+    "french": "Érudit",
+    "layout": "Érudit",
+    "previous": "High Warlock",
+    "sfc_jp": "ハイウォーロック",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 121,
+        "JA_text": "@1ハイウォーロック@",
+        "FR_text": "@1Érudit@",
+        "JA_sha256": "3c3f0685b5b9f4d5f0bf15a0a57e6605ce902d945698060faae74b80fc3f1c00",
+        "FR_sha256": "2ea995cbf40c61ab34a3564869c23fd690c506638cee1551d11b3d393abbbfd9"
+      }
+    ],
+    "review": "JP SFC et champs JA/FR DS exacts relus. Nom DS complet, sans troncature, sans ajout de rupture, largeur non augmentée. Extension de glyphe isolée v077 ; accords/pluriels et fenêtres naturelles non validés globalement.",
+    "old_encoded_hex": "174adc0126d04d50d5ac",
+    "encoded_hex": "41535645e1ac",
+    "old_sha256": "373d8bc7995220f232f1e8177f95122477f2db983b0660917397bba87abae82f",
+    "new_sha256": "2f054a77405d239385819ab0f6e0e09108667f01a92d5d3dc249d8f12a95d13c",
+    "old_columns": 12,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 1706,
+    "position": 1242,
+    "french": "Évac'",
+    "layout": "Évac'",
+    "previous": "Outside",
+    "sfc_jp": "リレミト",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1003000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 179,
+        "JA_text": "@1リレミト@",
+        "FR_text": "@2l'@3une @4Évac'@",
+        "JA_sha256": "9bebc5c85587386459f51f9e42d7517127940bbab9b717f904d3068bf90602b4",
+        "FR_sha256": "90a868cd6118dfa5a11a7de52b497b69e5991d53eba7be329b9df35ff3fb4057"
+      }
+    ],
+    "review": "JP SFC et champs JA/FR DS exacts relus. Nom DS complet, sans troncature, sans ajout de rupture, largeur non augmentée. Extension de glyphe isolée v077 ; accords/pluriels et fenêtres naturelles non validés globalement.",
+    "old_encoded_hex": "1e5655544a4546ac",
+    "encoded_hex": "4157cd77ac",
+    "old_sha256": "da09baf04fe2c099ddd4471a1d038f76592c1286d3c2c1a76daa773ca50dbc20",
+    "new_sha256": "8de68be2d58dce0b6a5d220283336f9d45037e98b2e880f260a9bc78f009ae8c",
+    "old_columns": 7,
+    "new_columns": 5,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2158,
+    "position": 1694,
+    "french": "caleçon",
+    "layout": "caleçon",
+    "previous": "Boxer Shorts",
+    "sfc_jp": "ステテコパンツ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 108,
+        "JA_text": "@1ステテコ;パンツ@",
+        "FR_text": "@0M@2le @3un @4caleçon@5les @6des @7caleçons@8N@9N@",
+        "JA_sha256": "95823ff27deeb156e38b6beac41a48c9c368e3d6528bbde68da1d1414caedb60",
+        "FR_sha256": "67a69baf9db9e2754cd17e33712a6701f0ce7193cb29b203e8fe2ede30093049"
+      }
+    ],
+    "review": "JP SFC et champs JA/FR DS exacts relus. Nom DS complet, sans troncature, sans ajout de rupture, largeur non augmentée. Extension de glyphe isolée v077 ; accords/pluriels et fenêtres naturelles non validés globalement.",
+    "old_encoded_hex": "115059da012249ec5554ac",
+    "encoded_hex": "4442e240eaac",
+    "old_sha256": "e36964ce336f088d5604a4d11883b3b24cd499e952a5c6c43a0eb37ffe62af21",
+    "new_sha256": "4f40838fe771a2617652deec97f2d7d17a82220790a78aca637d855ae5f5c3ed",
+    "old_columns": 12,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  }
+]

@@ -1,0 +1,138 @@
+{
+  "release": "v0.77",
+  "baseline_commit": "403f5b5e0df6748f55a58a8853338299fdbeec67",
+  "files": {
+    "README.md": {
+      "size": 5589,
+      "sha256": "afacf6d8cdd977bb74035055bf0dc649fa873fa1cc20872a359fae08dda21ff6"
+    },
+    "REPRISE-AUTOMATIQUE.md": {
+      "size": 67131,
+      "sha256": "4aa1f7ca4856afcd79a98dedb907d067a0026bf98ed875ce6d5c7b499c07c822"
+    },
+    "etat-projet.json": {
+      "size": 13598,
+      "sha256": "c714ea86969a0083005ba639ecd78bded19d238bf08227ac2fa05a9d403e757c"
+    },
+    "patches/DQVI-FR-DS-v0.77-BASE-JP-PARTIEL.bps": {
+      "size": 677228,
+      "sha256": "27744d807306da20f90fac5763c4e02cea7a6ac60692677c1a48c859e6b3f7dd"
+    },
+    "dq6-fr/v0.77/README.md": {
+      "size": 3031,
+      "sha256": "11abf2984e5d4753f0c80319d34c6e3f7cfc18c942e98aec109a2d5789db8696"
+    },
+    "dq6-fr/v0.77/build-report.json": {
+      "size": 3431,
+      "sha256": "2f7271d73614b86dd13e1a7dccf9bcd83b0c09f821e0b82d9089cc5d19c70fab"
+    },
+    "dq6-fr/v0.77/build.py": {
+      "size": 1201,
+      "sha256": "3da1f007352bab2fe5cd51ce725401881b16abe73b099340b137e17f7a18bff4"
+    },
+    "dq6-fr/v0.77/bus_layout.py": {
+      "size": 1492,
+      "sha256": "021d2c328ad1b946dbd1aa5b69c6f0f101bf343f07e82afd8aa295609f829d8c"
+    },
+    "dq6-fr/v0.77/common.py": {
+      "size": 4321,
+      "sha256": "621db08a62b538bce1f4815b750d69da33358a14e79dc1ec5b038b120d70997b"
+    },
+    "dq6-fr/v0.77/delta-noms-v077.json": {
+      "size": 910,
+      "sha256": "2ac24a365b1227c790996cbb5804d173806c6a73b0587f104ff764c59bd74ea1"
+    },
+    "dq6-fr/v0.77/emulator_boot.py": {
+      "size": 2106,
+      "sha256": "958521ea400880cb2dceaeaec3dcdf5cb387eb37ad7dad3be9bc8017efec63ab"
+    },
+    "dq6-fr/v0.77/emulator_consumers.py": {
+      "size": 5245,
+      "sha256": "dc09a6d63b7a0fb26c77c24cad3c94a651cd8bb9006f38482964e915fe6e1814"
+    },
+    "dq6-fr/v0.77/emulator_names_probe.py": {
+      "size": 4325,
+      "sha256": "e0fe58fb2e615ad8f5e4cce16e2e35b9562cbcf079671eff8da76e7b506ab747"
+    },
+    "dq6-fr/v0.77/emulator_render_names.py": {
+      "size": 3764,
+      "sha256": "8488d9fb244b68ad114dc44f337e72c1f2adc60d32815388a04e331b76a7ca17"
+    },
+    "dq6-fr/v0.77/inventaire-noms-v077.json": {
+      "size": 8635,
+      "sha256": "8f46b0dba9207fc331356cbe31a3ea430ab6acb45f3e0ded054fc4c3b76b757d"
+    },
+    "dq6-fr/v0.77/inventory_names.py": {
+      "size": 6798,
+      "sha256": "f257867a466a99a2593ff384bcee37dcf0ef63ff9ece57acacd0f88d99856a39"
+    },
+    "dq6-fr/v0.77/native_font.py": {
+      "size": 1365,
+      "sha256": "b9674f58f5a5100df84620fd97c684221e003d777b0c042ccec013e3400baa66"
+    },
+    "dq6-fr/v0.77/preparations-resolues.json": {
+      "size": 7835,
+      "sha256": "c67b745658a096f7043dd15a7ce3352a0f5b94dddc662be846d18635131f727b"
+    },
+    "dq6-fr/v0.77/prepare.py": {
+      "size": 2559,
+      "sha256": "e0e6256887796740cebd1a7b7a47b5ec7b7b96200ed29df068c188cde0f47d02"
+    },
+    "dq6-fr/v0.77/qa-bus-boot.json": {
+      "size": 927,
+      "sha256": "b067af40c7f8f622dcc725c07a739f087dd20ed511def19f4535f518cde27066"
+    },
+    "dq6-fr/v0.77/qa-font-extension.json": {
+      "size": 1716,
+      "sha256": "21b9b6b15a9a359b8bd238a74d6128978579079da1b74d4d2ef87f2a944d263d"
+    },
+    "dq6-fr/v0.77/qa-lot.json": {
+      "size": 347,
+      "sha256": "361e6863813a5fec62e5b9d0a0c0214d22d3560cb05bb4f44d65c1c259ab4db2"
+    },
+    "dq6-fr/v0.77/qa-name-consumers.json": {
+      "size": 5538,
+      "sha256": "0f9c939ba66187f3f273c7bbdd97246775bb9d3d04f24139ce07f7c88d61d9f4"
+    },
+    "dq6-fr/v0.77/qa-name-render.json": {
+      "size": 2164,
+      "sha256": "3e6109ab881a2f32fa052e55bfd431e1ed05c54abf82717eb7bdbc64c36e4dd1"
+    },
+    "dq6-fr/v0.77/qa-names-native-negative.json": {
+      "size": 1155,
+      "sha256": "a49becf72bb6788bc8d6ecc34e6f5db2f207a63d95d88129277f4e0a843ddc96"
+    },
+    "dq6-fr/v0.77/qa-names-native-reader.json": {
+      "size": 1146,
+      "sha256": "e63efbd8b09544f296d79232628a83d6dd500c6fc191790173b4981caeeb2ff5"
+    },
+    "dq6-fr/v0.77/qa-sources.json": {
+      "size": 491,
+      "sha256": "077a9c99a2f86ee8c45a68afbe831e884e49d9634d7e4226251be383d1ff53ba"
+    },
+    "dq6-fr/v0.77/qa-visual-review.json": {
+      "size": 621,
+      "sha256": "ba8b4cd807fb91c667db0f96ce3dcb3274e202eda481e8c7f0fce825ec251f52"
+    },
+    "dq6-fr/v0.77/revue-table-v077.json": {
+      "size": 6138,
+      "sha256": "f270bfe7c195c2ed5fa48a1728d0eebb1007781e355c253b872b15e484b42cb9"
+    },
+    "dq6-fr/v0.77/selection.json": {
+      "size": 7143,
+      "sha256": "046f2b15d3ac91db93fa834825f121a906afea9dfc9f97028efe0d79c93ae9cf"
+    },
+    "dq6-fr/v0.77/verification.json": {
+      "size": 1186,
+      "sha256": "c2a958d76112807b1831ce19a032b451103152b8bd8f014e0f3dc11d4b37da6a"
+    },
+    "dq6-fr/v0.77/verify.py": {
+      "size": 3976,
+      "sha256": "4a75e781f51afc5d85a913971d77f5cb1556ab9c70904929bf5301deed8a7a9c"
+    },
+    "dq6-fr/v0.77/verify_font.py": {
+      "size": 2258,
+      "sha256": "2429322b9bbf97fcfec1cb0d24cb692f0060926657ea90f0e50096b6237831eb"
+    }
+  }
+}

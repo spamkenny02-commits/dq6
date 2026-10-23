@@ -1,0 +1,137 @@
+{
+  "release": "v0.77",
+  "ROM_sha256": "082c5fd88ae4be5284ed1ef9ca21d46f9e5b8e538b09793e7dd6ff844871934e",
+  "field_consumer": "C3763A, actual JSL including C0315E/C031DB and C376F2",
+  "B2_consumer": "C6FDF0, actual JSL including C0315E/C031DB and existing DTE dictionary",
+  "rows": [
+    {
+      "stage": "before",
+      "sid": 625,
+      "native_field_glyphs_checked": 9,
+      "native_break_codes": [],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "d9ca99119588c2649a0c75b4b7363274bcfbd862544e3f7a26063b799b08cb7c",
+      "B2_buffer_sha256": "6370509e5064a0e32e865a1307e903528abebb1cca6f2a8190341f37b4027717",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 673,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [],
+      "native_field_final_cursor": 12,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "0daa219ed27c9e931d848034433ca3e9fcc06969e4b940adccdcd5595a93ec72",
+      "B2_buffer_sha256": "eb1f872ae7b4f8c59a7cb1685cf48f0744b51c0f195a223f031d48b9f580387f",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 1016,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [],
+      "native_field_final_cursor": 12,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "ab8ebe208a0426d1a6aae717e59c12eb3eac55a641980fb4a29b78106fe478f4",
+      "B2_buffer_sha256": "dad4c4a6ab05204282246bc814444929a02f842a9c914ac2e83b3142798fce6b",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 1706,
+      "native_field_glyphs_checked": 7,
+      "native_break_codes": [],
+      "native_field_final_cursor": 7,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 7,
+      "field_tilemap_sha256": "39310239b4d4532d226b0072f9247cf66d693537e94148e4722c9d5d68f3a24f",
+      "B2_buffer_sha256": "142872b67cc135b0563056dc1ef07194f069951fdd9dbce88e43ccd80df02141",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2158,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [],
+      "native_field_final_cursor": 12,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "3e85556a18449863b1d3c4a7b95bbc0da1cc9188cf730ce7e711738cd89fbe7f",
+      "B2_buffer_sha256": "30d2edbf2eb80e0a81b3fa27dc18f604a18c494d997cace85086715bf6db0267",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 625,
+      "native_field_glyphs_checked": 9,
+      "native_break_codes": [],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "cf5537905b44c6108d19e84d15dd13bf2d6f35ea60b80afc31077f3d83cad6eb",
+      "B2_buffer_sha256": "433be36f6c743740675dfd37c7414a3287193b132710a11e07470321340f7a53",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 673,
+      "native_field_glyphs_checked": 7,
+      "native_break_codes": [],
+      "native_field_final_cursor": 7,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 7,
+      "field_tilemap_sha256": "fd2484eab880152e027b5d99d1925b769acf5d7f818054f87b2df2e42983346f",
+      "B2_buffer_sha256": "6eed304912f91cecde4621958f0b5aca753794121a86ca857cbb9aa8277d03db",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 1016,
+      "native_field_glyphs_checked": 6,
+      "native_break_codes": [],
+      "native_field_final_cursor": 6,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 6,
+      "field_tilemap_sha256": "e0a849857fefd1f825bc690cef48c3db491f4cb6aa2f02f967d52dc977bf750f",
+      "B2_buffer_sha256": "df120b25622e754f2918c956c582ddf54075ed012163141b6100d1ea242e9fe2",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 1706,
+      "native_field_glyphs_checked": 5,
+      "native_break_codes": [],
+      "native_field_final_cursor": 5,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 5,
+      "field_tilemap_sha256": "9f178fa7b72bf6a61a818e78eac6c31cc3a126ac4c2bb02b33a04ab3aaabd93f",
+      "B2_buffer_sha256": "be0ac016be0d47406978ce4511d51e41a67eca1b1ad4399cc6570b3bbf50794e",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2158,
+      "native_field_glyphs_checked": 7,
+      "native_break_codes": [],
+      "native_field_final_cursor": 7,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 7,
+      "field_tilemap_sha256": "d68f223d44bec28289cd1e50fab178ee05eeadd69c965ebc3aba143fbaae9ba4",
+      "B2_buffer_sha256": "dcdea9ef4a3390708525d58336ca6beeb4952dba6ac003c16232a2f3a910a054",
+      "matches_expected_glyphs": true
+    }
+  ],
+  "checked_SIDs": [
+    625,
+    673,
+    1016,
+    1706,
+    2158
+  ],
+  "natural_validation": false,
+  "limits": "Private CPU redirection from camp. Dynamic SID branch09A7..09C9 and other natural menu paths not validated; no renderer code modified. Five single-line names, no break metadata introduced. Complete field grid and B2 buffer checked before/after. New native accents are separately audited, including cold VRAM loading."
+}

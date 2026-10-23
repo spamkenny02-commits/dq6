@@ -1,0 +1,112 @@
+{
+  "release": "v0.77",
+  "ROM_sha256": "082c5fd88ae4be5284ed1ef9ca21d46f9e5b8e538b09793e7dd6ff844871934e",
+  "slots": {
+    "ô": {
+      "byte": 63,
+      "main_glyph": 602,
+      "native_rows": [
+        24,
+        36,
+        124,
+        198,
+        198,
+        198,
+        198,
+        124
+      ]
+    },
+    "ç": {
+      "byte": 64,
+      "main_glyph": 607,
+      "native_rows": [
+        0,
+        124,
+        198,
+        192,
+        192,
+        126,
+        24,
+        48
+      ]
+    },
+    "É": {
+      "byte": 65,
+      "main_glyph": 608,
+      "native_rows": [
+        12,
+        24,
+        254,
+        192,
+        252,
+        192,
+        192,
+        254
+      ]
+    }
+  },
+  "known_pools_checked": {
+    "battle": 608,
+    "name_SIDs": 2512,
+    "physical_names": 2048,
+    "aliases": 464,
+    "dictionary_pairs": 50
+  },
+  "occupied_or_nonblank_mutations_rejected": [
+    [
+      "battle",
+      64
+    ],
+    [
+      "names",
+      64
+    ],
+    [
+      "dictionary",
+      64
+    ],
+    [
+      "mapping",
+      64
+    ],
+    [
+      "battle",
+      65
+    ],
+    [
+      "names",
+      65
+    ],
+    [
+      "dictionary",
+      65
+    ],
+    [
+      "mapping",
+      65
+    ],
+    [
+      "battle",
+      63
+    ],
+    [
+      "names",
+      63
+    ],
+    [
+      "dictionary",
+      63
+    ],
+    [
+      "mapping",
+      63
+    ]
+  ],
+  "unallocated_native_tiles_and_mapping_words_identical": 253,
+  "copies_checked": 2,
+  "main_glyphs_preexisting": true,
+  "main_font_modified": false,
+  "engine_modified": false,
+  "unknown_hardcoded_consumers_fully_audited": false,
+  "scope": "Allocation proof covers parsed pools and dictionary, not undiscovered hardcoded byte strings."
+}
