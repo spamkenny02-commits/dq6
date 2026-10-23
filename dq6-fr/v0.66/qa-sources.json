@@ -1,0 +1,25 @@
+{
+  "release": "v0.66",
+  "source_SHA256": {
+    "JP": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e",
+    "DS": "5667303e3c7ab518a1b6bb2119abdfcc17422b3387dc5083f67b8e2b54734fb5",
+    "IPS": "b34155f476d0bce3d2247c577417b3ade3ee071e7c9b8af634f8a7cb613cdd37"
+  },
+  "actual_DS_MPT_records_checked": 16,
+  "old_IPS_name_rows_checked": 8,
+  "selected_SIDs": [
+    417,
+    418,
+    423,
+    425,
+    426,
+    430,
+    443,
+    450
+  ],
+  "previous_prepared": 25,
+  "now_resolved_for_insertion": 8,
+  "prepared_remaining": 17,
+  "net_name_pool_growth": 0,
+  "preserved_tail_untouched": true
+}

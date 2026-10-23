@@ -1,0 +1,5 @@
+from common import *
+import argparse
+p=argparse.ArgumentParser();p.add_argument('--jp',type=Path,required=True);p.add_argument('--out',type=Path,required=True);a=p.parse_args();jp=a.jp.read_bytes();base,m=prepare(jp);assert read(O/'revue-lieux-v066.json')==m['rows'];rom=assemble(base,m);bps,ips=patches(jp,rom);a.out.mkdir(exist_ok=True,parents=True);(a.out/'result.sfc').write_bytes(rom);(a.out/'DQVI-FR-DS-v0.66-BASE-JP-PARTIEL.ips').write_bytes(ips);(R/'patches/DQVI-FR-DS-v0.66-BASE-JP-PARTIEL.bps').write_bytes(bps)
+q=dict(release='v0.66',baseline='v0.65',ROM_bytes=len(rom),ROM_sha256=sha(rom),BPS_sha256=sha(bps),IPS_sha256=sha(ips),placement=BASE['placement'],engine=BASE['engine'],name_pool_offset=POOL,name_reachable_bytes=TAIL-POOL,preserved_tail_offset=TAIL,preserved_tail_size=END-TAIL,tail_sha256=sha(rom[TAIL:END]),new_place_translations=8,prepared_places_remaining=17,battle_qualified=597,main_selections=6957,engine_modified=False,font_modified=False,natural_validation=False)
+(O/'build-report.json').write_text(json.dumps(q,ensure_ascii=False,indent=2)+'\n');print(q['ROM_sha256'])

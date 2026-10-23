@@ -1,0 +1,89 @@
+{
+  "release": "v0.66",
+  "baseline": "v0.65",
+  "new_place_names": 8,
+  "previous_prepared_resolved": [
+    417,
+    418,
+    423,
+    425,
+    426,
+    430,
+    443,
+    450
+  ],
+  "new_preparations": 0,
+  "remaining_prepared_places": 17,
+  "main_new": 0,
+  "battle_new": 0,
+  "name_pool_growth": 0,
+  "tail_bytes_unchanged_both_copies": 2050,
+  "changes": [
+    {
+      "sid": 417,
+      "previous": "Torukka",
+      "french": "Puidebourg",
+      "storage_delta": 3,
+      "old_hex": "23ec564c4c42ac",
+      "new_hex": "1f564a454643ed5348ac"
+    },
+    {
+      "sid": 418,
+      "previous": "Holcotta",
+      "french": "Pierrebrute",
+      "storage_delta": 0,
+      "old_hex": "17504d4450555542ac",
+      "new_hex": "1f4adaf0435356f8ac"
+    },
+    {
+      "sid": 423,
+      "previous": "Pescani",
+      "french": "Milmarin",
+      "storage_delta": 1,
+      "old_hex": "1fdb44cf4aac",
+      "new_hex": "1c4a4d4ed0dfac"
+    },
+    {
+      "sid": 425,
+      "previous": "Calberona",
+      "french": "Sorcéria",
+      "storage_delta": 0,
+      "old_hex": "12424d43daea42ac",
+      "new_hex": "22ec442d534a42ac"
+    },
+    {
+      "sid": 426,
+      "previous": "Calcado",
+      "french": "Aridéa",
+      "storage_delta": -1,
+      "old_hex": "12424d44424550ac",
+      "new_hex": "10534a452d42ac"
+    },
+    {
+      "sid": 430,
+      "previous": "Despair Town",
+      "french": "Mélankolia",
+      "storage_delta": -1,
+      "old_hex": "13db51424a530123ee4fac",
+      "new_hex": "1c2d4dcf4c504d4a42ac"
+    },
+    {
+      "sid": 443,
+      "previous": "Zenithia",
+      "french": "Zénithia",
+      "storage_delta": 0,
+      "old_hex": "29464fe1494a42ac",
+      "new_hex": "292d4fe1494a42ac"
+    },
+    {
+      "sid": 450,
+      "previous": "Ile des Cavernes",
+      "french": "Fort-Terreur",
+      "storage_delta": -2,
+      "old_hex": "18e2cadb01124257da4fdbac",
+      "new_hex": "15ec557823daf05653ac"
+    }
+  ],
+  "other2504_name_strings_unchanged": true,
+  "aliases_preserved": 464
+}

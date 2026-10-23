@@ -1,0 +1,258 @@
+[
+  {
+    "sid": 417,
+    "position": 417,
+    "sfc_jp": "トルッカ",
+    "previous": "Torukka",
+    "french": "Puidebourg",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 17,
+        "JA_text": "@1トルッカ@",
+        "FR_text": "@1Puidebourg@",
+        "JA_sha256": "98b5293109fb761635d65e41dae0079312042cd19971274ce14b739815f36e4a",
+        "FR_sha256": "df8e251cf5d19dfcaba3bf14ce330e2ab301c055221c688fe0c55445aedbe7af"
+      }
+    ],
+    "source_bytes_sha256": "1afe79f6d24f6cd366985bd045dcb430cfd802784596ca2c46991e7708ddb79f",
+    "previous_encoded_hex": "23ec564c4c42ac",
+    "encoded_hex": "1f564a454643ed5348ac",
+    "previous_sha256": "c999afc543a089c29962025d3f7ca322fd174f18420cfb60d1c90bfa3584aa3a",
+    "encoded_sha256": "4d89f1c393e10aaea7c49b282029e57826977a5d9a2e9a09b869851c21014f25",
+    "old_columns": 7,
+    "new_columns": 10,
+    "storage_delta": 3,
+    "runtime_sids": [
+      417
+    ],
+    "review": "トルッカ : même ville, français DS Puidebourg. Le nom propre remplace Torukka sans déterminant ajouté.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 418,
+    "position": 418,
+    "sfc_jp": "ホルコッタ",
+    "previous": "Holcotta",
+    "french": "Pierrebrute",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 43,
+        "JA_text": "@1ホルコッタ@",
+        "FR_text": "@1Pierrebrute@",
+        "JA_sha256": "6dea16a89a2813ed6c8196c365d185df7b2df02442bd1c0afb8385a61be5cc11",
+        "FR_sha256": "37f2d1677a7854e3821ec36a061f453eb38aede2948021a23d0a7151326fdc8f"
+      }
+    ],
+    "source_bytes_sha256": "ca431bf6465869c5bd6d7440d1a6bff6254fd7c4f8951a02d6a527b3b9660363",
+    "previous_encoded_hex": "17504d4450555542ac",
+    "encoded_hex": "1f4adaf0435356f8ac",
+    "previous_sha256": "9d939e3b39423bed0ac757eeebd58142af179c070030ce24b6bbfa4d2b0cf781",
+    "encoded_sha256": "0c0b65288eb9147f16b5c85d2ff0cd12f86e9b873be55c05eaaaf0210b334757",
+    "old_columns": 8,
+    "new_columns": 11,
+    "storage_delta": 0,
+    "runtime_sids": [
+      418
+    ],
+    "review": "ホルコッタ : même village, Pierrebrute DS. Onze glyphes, pas de saut ou abréviation.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 423,
+    "position": 423,
+    "sfc_jp": "ペスカニ",
+    "previous": "Pescani",
+    "french": "Milmarin",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 28,
+        "JA_text": "@1ペスカニ@",
+        "FR_text": "@1Milmarin@",
+        "JA_sha256": "7273543220319ce5136f5826657a5725e97f1327515dd4971c1e3ca1306ec287",
+        "FR_sha256": "6a23c023877570c702bb712474a1974d3a06f0c37a8e5cd172a59661e648653b"
+      }
+    ],
+    "source_bytes_sha256": "81cfd5ceb030387777f0b53d8892a3aa5eb04e92f1e085a6d6a0072a5ea13e09",
+    "previous_encoded_hex": "1fdb44cf4aac",
+    "encoded_hex": "1c4a4d4ed0dfac",
+    "previous_sha256": "eb6cb814c1c019a66ef714e36cddfd77903dccc7cfe936daa4499f8b383f74a2",
+    "encoded_sha256": "3b288e7d523cc7bd4a372b2267f940eaede28b5b3c7d6a9468e0ce4a99e64ba4",
+    "old_columns": 7,
+    "new_columns": 8,
+    "storage_delta": 1,
+    "runtime_sids": [
+      423
+    ],
+    "review": "ペスカニ : même village de pêcheurs, Milmarin DS. Nom distinct de Militia/アークボルト, aucun rapprochement de sonorité.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 425,
+    "position": 425,
+    "sfc_jp": "カルベローナ",
+    "previous": "Calberona",
+    "french": "Sorcéria",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 11,
+        "JA_text": "@1カルベローナ@",
+        "FR_text": "@1Sorcéria@",
+        "JA_sha256": "f51b8b5c4fb83b1a80fdca2d11c94119d60b6a94a33fcf1d94d4994484deca4a",
+        "FR_sha256": "e22765ba5ff412538420722631bf309eeb306cebadf594ec6c449dcb56a8b491"
+      }
+    ],
+    "source_bytes_sha256": "5c5548c094f8d2c5af8bfc8169afd2acdd2ad30677a7889e6840b8803709651d",
+    "previous_encoded_hex": "12424d43daea42ac",
+    "encoded_hex": "22ec442d534a42ac",
+    "previous_sha256": "55140891eb835a3614155d6888655f23864beffc69fcca6ef0ab3ecbed5b0eab",
+    "encoded_sha256": "8f940fe144318a4309e4af55f60552af6137fd4bdb79422026f85d421db62b46",
+    "old_columns": 9,
+    "new_columns": 8,
+    "storage_delta": 0,
+    "runtime_sids": [
+      425
+    ],
+    "review": "カルベローナ : Sorcéria DS, cohérent avec la cité des mages. Accent é complet conservé.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 426,
+    "position": 426,
+    "sfc_jp": "カルカド",
+    "previous": "Calcado",
+    "french": "Aridéa",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 5,
+        "JA_text": "@1カルカド@",
+        "FR_text": "@1Aridéa@",
+        "JA_sha256": "33bac3a1d90b09a68d12be80cb844083d94a7bb595583123cb9edc7989d45ccc",
+        "FR_sha256": "67c87267e622c769c28a40a67cbf003c8885e885ffecde85d3af869bfa72705e"
+      }
+    ],
+    "source_bytes_sha256": "fb7d669b064f2a5709614c97e84e0607735dcc4679d9125e304d83b982483395",
+    "previous_encoded_hex": "12424d44424550ac",
+    "encoded_hex": "10534a452d42ac",
+    "previous_sha256": "309a127a84543a6730a8e8b2a98951c2d641e244065241dc6ddf0c11fc98fcb4",
+    "encoded_sha256": "1f6640e8bb41518dec15ff91c17d50d46d97a19609a69aff1fcd5582099bbdee",
+    "old_columns": 7,
+    "new_columns": 6,
+    "storage_delta": -1,
+    "runtime_sids": [
+      426
+    ],
+    "review": "カルカド : Aridéa DS, même ville. Ne pas conserver la translittération Calcado déjà remplacée dans le principal.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 430,
+    "position": 430,
+    "sfc_jp": "ぜつぼうのまち",
+    "previous": "Despair Town",
+    "french": "Mélankolia",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 33,
+        "JA_text": "@1ぜつぼうのまち@",
+        "FR_text": "@1Mélankolia@",
+        "JA_sha256": "ba33fc3419de2dfd4ef984b2ff738c78e4438572dd4d1c31e5dc47d2a4412266",
+        "FR_sha256": "f3e30c8f59c5a90dd486e13e5033cdb5017f06fa54cfcbd1d9830eddd14d8dd0"
+      }
+    ],
+    "source_bytes_sha256": "29a4f94c2070bc1aa6760e9838edcc21a3a237c33dbac0cc8ecd07e1b1818439",
+    "previous_encoded_hex": "13db51424a530123ee4fac",
+    "encoded_hex": "1c2d4dcf4c504d4a42ac",
+    "previous_sha256": "b7e7eaeee3763b728322ad7b1297f89f7e23ef46aa3dbe22fde832967fa48577",
+    "encoded_sha256": "6d4702f42c5873755f6fe605a6d10784eef047184ede2b124f05d287700be5b0",
+    "old_columns": 12,
+    "new_columns": 10,
+    "storage_delta": -1,
+    "runtime_sids": [
+      430
+    ],
+    "review": "ぜつぼうのまち : Mélankolia DS, la ville du désespoir. Distinct deよくぼうのまち/Kupidia. Accent é conservé.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 443,
+    "position": 443,
+    "sfc_jp": "ゼニスのしろ",
+    "previous": "Zenithia",
+    "french": "Zénithia",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 12,
+        "JA_text": "@1ゼニスのしろ@",
+        "FR_text": "@1Zénithia@",
+        "JA_sha256": "54351d07da88363f32bc92e1065f5a1d01f55369f9492a81bca61c8d65c6e08b",
+        "FR_sha256": "6f015783ca3f8585b6787c79d4b3cb9333d0c4fd7e67b571fd98789a288d55f0"
+      }
+    ],
+    "source_bytes_sha256": "56fbfc39faab71cae0b5154a2d937677401bcb73305e619f32a53a1b3797c476",
+    "previous_encoded_hex": "29464fe1494a42ac",
+    "encoded_hex": "292d4fe1494a42ac",
+    "previous_sha256": "fd9491c0cd6caca9b43d4665cea3dd60c80c321e6b1be2cb0f1f5326d0a422a4",
+    "encoded_sha256": "d75d28355f8972494f81e3c30d318b148cd9d6a2f512b1f4ce4eb79008e8f025",
+    "old_columns": 8,
+    "new_columns": 8,
+    "storage_delta": 0,
+    "runtime_sids": [
+      443
+    ],
+    "review": "ゼニスのしろ : Zénithia DS, château de Zénith. Le libellé DS est un nom propre complet, sans ajouter Château de dans la table.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 450,
+    "position": 450,
+    "sfc_jp": "ちていまじょう",
+    "previous": "Ile des Cavernes",
+    "french": "Fort-Terreur",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 3,
+        "JA_text": "@1ちていまじょう@",
+        "FR_text": "@1Fort-Terreur@",
+        "JA_sha256": "cca02c79cc5874ed8e5748693d3e179603688ebac9dfc22363c3ecb17061041d",
+        "FR_sha256": "9105dae8071fabaee388b69f5063cd813138a638601ae0026772a83a857fb865"
+      }
+    ],
+    "source_bytes_sha256": "08061d1f6c90fba0d600c8ffcf83252b2f95cfec5b9c29ec6cc20a6bb22a2b2d",
+    "previous_encoded_hex": "18e2cadb01124257da4fdbac",
+    "encoded_hex": "15ec557823daf05653ac",
+    "previous_sha256": "a1b3eb52cb55069f6fa1c534fb451bc75659eac508c5b535af137f621450cea4",
+    "encoded_sha256": "913f0cff419fe9a0997d6175b9e89707d5590c9d052eae56ed8f23061f39eefd",
+    "old_columns": 16,
+    "new_columns": 12,
+    "storage_delta": -2,
+    "runtime_sids": [
+      450
+    ],
+    "review": "ちていまじょう : Fort-Terreur DS, fort souterrain. Remplace Ile des Cavernes hérité, qui ne décrit pas ce nom JP. Tiret officiel conservé.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "release": "v0.66",
+  "ROM_sha256": "324fd260bc8e1d06bc40b3f6ace31e1535bdd6319ee813b4692a8ee5a1f64bb2",
+  "diagnostic_dialogues": 16,
+  "place_names_checked": 8,
+  "B2_lookups_per_dialogue": 3,
+  "rows": [
+    {
+      "sid": 417,
+      "previous_screenshot_sha256": "b9f5f849905f1f992538c169d26e2fabe5a932b44498bcd8d26143e09b7e1638",
+      "screenshot_sha256": "fc882f446741e521264bc4d3703bc8b14cfabd9257b9ea1212192049fae065f4",
+      "before_after_pixels_changed_as_expected": true
+    },
+    {
+      "sid": 418,
+      "previous_screenshot_sha256": "bd8c540a4e6016d55c2714a7c1674436915111c32b54984e9dee7df260474edb",
+      "screenshot_sha256": "e399ff8e7b0335dea89546af5e4a41b14195d2387227f6e7d7ad9c69aefca387",
+      "before_after_pixels_changed_as_expected": true
+    },
+    {
+      "sid": 423,
+      "previous_screenshot_sha256": "cf191c16bc03a80216c135f5c8d953e46c535e49a049a5fa192b576f6ab66773",
+      "screenshot_sha256": "a12e38ad9190a43cbd01a12028fffe6b051ea56d611bea4bafb85f432fbc4eac",
+      "before_after_pixels_changed_as_expected": true
+    },
+    {
+      "sid": 425,
+      "previous_screenshot_sha256": "fec5b4a49a399d723b03e4e30c5a9c83d06f81abd91c2a1abc57c95b7de2e042",
+      "screenshot_sha256": "c219e66006eaff012bfeca1739aba8208d276415ddc184b6ebad9ede401aaa4e",
+      "before_after_pixels_changed_as_expected": true
+    },
+    {
+      "sid": 426,
+      "previous_screenshot_sha256": "4112eb30c550bff0cb7f87e331207bcd52b2cf9ae9fd7fc6a3206ca8814f6e20",
+      "screenshot_sha256": "59fdd6762aef5fff02abd06500fea6cc9b9131645398fea646d38c77a1f70c1d",
+      "before_after_pixels_changed_as_expected": true
+    },
+    {
+      "sid": 430,
+      "previous_screenshot_sha256": "668135490f10680a1a922cf006d811b6298600313a1e1564ac1fdb2b1c0ac886",
+      "screenshot_sha256": "1df2b22b5939362528d17e19f16d7b6ff9a7d9a4a147d2334a3862db0acc1a83",
+      "before_after_pixels_changed_as_expected": true
+    },
+    {
+      "sid": 443,
+      "previous_screenshot_sha256": "bd8310f34261c3063f3e0eac14b1c508c6e909ddee8afc8fa7f9d320e5027fa8",
+      "screenshot_sha256": "aa905e52e749a419bc44969b4f1c4917ca1d870ab039d7e1fbc4c27a615bd995",
+      "before_after_pixels_changed_as_expected": true
+    },
+    {
+      "sid": 450,
+      "previous_screenshot_sha256": "6e7f8953c4ca71a1234d9e082560c776a363a876eaf00864b8924e263f82d71f",
+      "screenshot_sha256": "166180539b97c581d13053f5bf5497fbb104d3e3b7b59164aba2114954fc0330",
+      "before_after_pixels_changed_as_expected": true
+    }
+  ],
+  "natural_validation": false,
+  "limits": "Three repeated main-dialogue B2 lookups per name at camp. No party recruitment, natural battle or native compact menu coverage. Visual review is recorded separately.",
+  "visual_review": {
+    "reviewed_SIDs": [
+      417,
+      418,
+      423,
+      425,
+      426,
+      430,
+      443,
+      450
+    ],
+    "observed_complete_names": [
+      "Puidebourg",
+      "Pierrebrute",
+      "Milmarin",
+      "Sorcéria",
+      "Aridéa",
+      "Mélankolia",
+      "Zénithia",
+      "Fort-Terreur"
+    ],
+    "all8_visible_without_truncation_in_diagnostic": true,
+    "accents_and_hyphen_preserved": true,
+    "natural_travel_menu_validated": false
+  }
+}

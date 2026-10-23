@@ -1,3 +1,11 @@
+# Reprise v0.66 — huit noms de lieux intégrés
+
+Lire dq6-fr/v0.66/README.md,revue-lieux-v066.json,delta,inventaire etQA. Reprendre le BPSv066 surJP intacte. SIDs417/418/423/425/426/430/443/450 :Puidebourg,Pierrebrute,Milmarin,Sorcéria,Aridéa,Mélankolia,Zénithia,Fort-Terreur. Références japonaises SFC etDS exactes,FRDS extrait directement de la ROM,ancienIPS secondaire.8préparations résolues ;17restent,aucune nouvelle préparation. Ne pas recycler ces8noms.
+
+Stockage net0 :2048entrées physiques/464alias,2504autres chaînes identiques,157groupes de pointeurs actualisés en deux copies. Aucun octet du tail0x3BBF10..0x3BC712 touché. Principal6957sélections (6948textes/9structures) etcombat597qualifiés/2préparés/5opaques/4structures inchangés. Noms47confirmés/2048 ;344identifiants,1548autres,25candidatsFR,83videsàqualifier et1créditretiré restent distincts.4aides et16compositions inchangées. Relecture exhaustive0.
+
+Snes9x :2477SIDs statiques entièrement lus,35dynamiques09A7..09C9 exclus ;mutationSID16 détectée. TerrainC3763A etB2C6FDF0 des8noms,16dialogues avant/après et8libellés relus visuellement,bus6513plages,Journal à froid. Diagnostics privés,pas de fenêtre de voyage naturelle validée. Reprendre17lieux/stockage,autres tables,ambiguïtés combat,relecture etaudits hérités. Préserver le tail,moteurv061 etpoolcombat.8Mio.
+
 # Reprise v0.65 — chevauchement des noms corrigé, zéro nouvelle traduction
 
 Lire dq6-fr/v0.65/README.md,qa-storage.json,delta et rapports. Reprendre le BPSv065 sur JP intacte. Cinq noms existants sont recomprimés avec le dictionnaire existant :7octets récupérés et fin de table2050octets restaurée à l’identique depuisv060 dans les deux copies.2048physiques/464alias,2512flux développés identiques ; principal et608emplacements combat inchangés. Ne pas recompter ces cinq noms comme traductions ou relecture exhaustive.
