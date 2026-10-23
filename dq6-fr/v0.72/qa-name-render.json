@@ -1,0 +1,179 @@
+{
+  "release": "v0.72",
+  "ROM_sha256": "2e0bb8d179b74c8d397a8f29bb2ecfd2787efedee7ea2fc35e09ccfc23916a44",
+  "diagnostic_dialogues": 42,
+  "new_labels_checked": 21,
+  "B2_lookups_per_dialogue": 3,
+  "rows": [
+    {
+      "sid": 1666,
+      "previous_screenshot_sha256": "7471111f863e27127da861c1d8dbd7fb5b507d00dcfb888d55071c61efd88100",
+      "screenshot_sha256": "e3277bf0394e4aa8185b6be0d0e4058d0f60f95918f491bbd15b745e35f4d544",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1676,
+      "previous_screenshot_sha256": "bf1ff6152757c44b794e5711b47f3c435665e79647ed5880f53013d8b342dcfc",
+      "screenshot_sha256": "e58a1de3909b90daf5f5d824bd98ae43ef8295148c3fcad230d65c2397b672b7",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1698,
+      "previous_screenshot_sha256": "f8d71dfeb7a6c9867f81dc7d3b60141eb52f324601dcb0bba59d27b1b5524d5c",
+      "screenshot_sha256": "4b531e45064bd33c4140c429d05fe12b6f67c8463a205391b7a8da2635733e55",
+      "new_translation": false,
+      "existing_french_revision": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2090,
+      "previous_screenshot_sha256": "b6f1544090810fb64fd6f428786bc869d9b2c6c2b81be46a29bbc702bd098bdd",
+      "screenshot_sha256": "c4a56fbb710787624f80c5e6f38affa1c1f28d7227cdfdc25443815711434953",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2099,
+      "previous_screenshot_sha256": "f25b8772be36b494e27f0ab00790b45eacf3739f727af69fa273806689ca710a",
+      "screenshot_sha256": "f57160815ce8e7a50aabd08747519eaa2d8cb7a9fac2ce4222969ab211bd8b87",
+      "new_translation": false,
+      "existing_french_revision": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2136,
+      "previous_screenshot_sha256": "f4b2c176d1e45d7290d01b39072954604714c257866944ceedf57a5c519266df",
+      "screenshot_sha256": "783a49610b8fda66fed05f26c7eeb784bb6faad46c4b9b68f1a39f93169cc422",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2155,
+      "previous_screenshot_sha256": "ab791472ef4e67445252410581044f659ce7751e2aae5652f09b21798c9ef0f6",
+      "screenshot_sha256": "40e97c5b77a86acc714b39c665f75c1fa7517aa3f4e08f29deffbe190eb9ef1b",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2173,
+      "previous_screenshot_sha256": "110a2875372d8c15a281124f1cc45897967e1a4e9692bd6d0b60588ac05dbfcc",
+      "screenshot_sha256": "3cb2892d283f0535342b7c844597cd1a42c3f69498aa9610e888d7664efa2101",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2205,
+      "previous_screenshot_sha256": "4faa61e92863926ec2262c04807fc9597151132433665b07ad4a5e7ad5aa945b",
+      "screenshot_sha256": "3f4b9464a635701a432b829cba85ce5e9543a88fdc8568a2584ad5f56aaedac4",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2212,
+      "previous_screenshot_sha256": "0c26b6731c7a9e3db1624c3bea40da599c99b0b4e9db28d9ce24ce5dacd9edcd",
+      "screenshot_sha256": "73097f61c68907a0899c5f60c52f93187e8f02cbb170f0214d6a1be54225c811",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2227,
+      "previous_screenshot_sha256": "f570008b87fe5cafde8980418b90edc8e5929abb6a3b28eb01cd22735bb2b91e",
+      "screenshot_sha256": "aab5c4679e32be283092318d8b1a1d57eb3a8a3acfd4a4e62363aa809f836cf9",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2255,
+      "previous_screenshot_sha256": "01e0a63e8e740dcaaee21e46067da4c60151d73171414ff6ed44d6f73e6e1288",
+      "screenshot_sha256": "f01a8e8cea2abba62f069475a005b3bfe8be289a616735468ddd2329c3e854b0",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2268,
+      "previous_screenshot_sha256": "72f22f771fe5e5f360aa2620afe093a51f71c152e182429d8cc78c8363584391",
+      "screenshot_sha256": "73aa05783cefb1aaea3884ed30f181a13f6aa3079eb89179d84b470e826ee136",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2290,
+      "previous_screenshot_sha256": "6a253107daac876d67ff418d74980075235a3aefb8462cb8ffb66e0d302dae26",
+      "screenshot_sha256": "9025f5d1271389e28cf5bf86d896f5260f5943debb0933c64bad5499e819f414",
+      "new_translation": false,
+      "existing_french_revision": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2297,
+      "previous_screenshot_sha256": "30a3ed3c847b3d157f234d48aa3d20beb23979aaf351c83e11089f3576d77684",
+      "screenshot_sha256": "a91514bfda0acb12ea50773dd2d74ad3e4bd975cba90298b169c0131a4e2c670",
+      "new_translation": false,
+      "existing_french_revision": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2299,
+      "previous_screenshot_sha256": "9af212aa4142fd1e164601c0e1dc46ecbf648671d9d3e7a11b280760dc18e878",
+      "screenshot_sha256": "e25bbbfbdd0bf5b4ae6593a246dee1636d9d1f03e772e97e45019dd045a2f020",
+      "new_translation": false,
+      "existing_french_revision": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2302,
+      "previous_screenshot_sha256": "4da35481478b3b89451dab4f0f2b41e07f60b88575a376c4e0ffff66da594b44",
+      "screenshot_sha256": "a91801a3466ec5c12503344e6ac3729638edeaabe7313107f28bd11f46d36338",
+      "new_translation": false,
+      "existing_french_revision": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2357,
+      "previous_screenshot_sha256": "5203e65c6691334ef09816812eb071140d818073e7cb5232b823d27e2f722c56",
+      "screenshot_sha256": "69d3b997ac8795127824d4b034fe2651d348e71f61fad8cf2830c371b29e7a02",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2389,
+      "previous_screenshot_sha256": "05ca1e04ea79e541fa428f5babde71bf931599954649d09e29b0b66ec849df79",
+      "screenshot_sha256": "ce45b36e4a83dad64e427d3ff37e861a107a73338e9996ee0fdb940687fb39ad",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2391,
+      "previous_screenshot_sha256": "76d125f38dfce38a779aace78522c03499b1f640baec474639fd677a2054c0a2",
+      "screenshot_sha256": "e949c0babe41e102f9784b3bfb9ffe81cb4d99cd68ca0a879a7ec6a213df04cc",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2392,
+      "previous_screenshot_sha256": "9b3419d6776c95de21973f4a40fbdec6864822166616a6d730c2d73895a4f008",
+      "screenshot_sha256": "d31f47a9a5632b8638fca849251801848d07bde93fc872e235eed531a86ddc17",
+      "new_translation": false,
+      "existing_french_revision": true,
+      "before_after_comparison_passed": true
+    }
+  ],
+  "natural_validation": false,
+  "limits": "Three repeated main-dialogue B2 lookups per name at camp. No party recruitment, natural battle or native compact menu coverage. Visual review is recorded separately."
+}

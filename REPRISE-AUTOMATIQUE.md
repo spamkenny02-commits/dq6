@@ -1,3 +1,9 @@
+# Reprise v0.72 — toutes les2048positions consignées,table encore partielle
+
+Lire dq6-fr/v0.72/README.md,les trois registres400/400/48,revue,blocages,audit-derniers-48 etQA.21libellés intégrés (14traductions,7révisions),3FRinchangés relus,255propositions nouvelles.185FRqualifiés/2048,586propositions cumulées ;pas2048traductions. Ne pas recommencer ces positions comme nouvelle revue :passer aux réserves,fragments,noms longs,glyphes,genres etautres ressources.
+
+Derniers48 :6nomsréservés,1vide,35dynamiques,6sourcesJPopaques ;ne pas traduire des données ni compter des vides. Tableactive7AF000 de14260octets,capacitéprotégéejusqu’à7B8703,combat etmoteur. Lecteurv068+obligatoire. Principal/combat inchangés,relectureexhaustive0,audits etnaturels ouverts. Générateurpréparatoire verrouillé contre écrasement ;recettefinale dansv0.72. La tâche n’est pas finalisée.
+
 # Préparation de fin de table — non insérée
 
 Voir preparations/table-finale-v072/intentions.json :21libellés proposés et trois plages1200–1599,1600–1999,2000–2047. Aucun compteur intégré augmenté,aucun nouveau test revendiqué. Reprendre v0.71 et contrôler les sources,le verrou et les réserves avant insertion.

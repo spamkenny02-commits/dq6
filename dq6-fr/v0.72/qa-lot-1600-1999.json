@@ -1,0 +1,23 @@
+{
+  "release": "v0.72",
+  "positions": [
+    1600,
+    1999
+  ],
+  "physical_positions_examined": 400,
+  "status_counts": {
+    "DIFFERE_COMPOSITION_NATIVE": 3,
+    "DIFFERE_TEXTE_CONTEXTE": 9,
+    "PREPARE_NON_INSERE": 210,
+    "TRADUCTION_SELECTIONNEE": 12,
+    "REVISION_FR_EXISTANT": 6,
+    "DIFFERE_VOCATION_GENRE": 15,
+    "FR_EXISTANT_RELU_SOURCE": 3,
+    "FR_CONFIRME_ANTERIEUR": 6,
+    "DIFFERE_NOM_RECRUTABLE": 67,
+    "DIFFERE_LISTE_NOMS_A_TRACER": 69
+  },
+  "next_position": 2000,
+  "all_positions_semantically_validated": false,
+  "natural_validation": false
+}

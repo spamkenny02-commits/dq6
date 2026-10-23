@@ -1,5 +1,5 @@
 {
-  "release": "v0.71",
+  "release": "v0.72",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
@@ -18,7 +18,7 @@
     ],
     "release_lot_additions": 0
   },
-  "baseline": "v0.70",
+  "baseline": "v0.71",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 2,
@@ -26,38 +26,38 @@
     "draft_main": 0,
     "boundary_audit": 0,
     "separate_battle": 2,
-    "separate_names": 331,
+    "separate_names": 586,
     "separate_battle_spell_combinations": 0
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.71",
+    "inventory_version": "v0.72",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
     "inserted_place_total": 31,
     "additional_character_names_inserted": 3,
     "spell_action_labels_inserted": 20,
-    "new_this_pass": 32,
+    "new_this_pass": 21,
     "prepared_places": 2,
-    "confirmed_french_entries": 161,
+    "confirmed_french_entries": 185,
     "native_grammar_helpers_adapted": 4,
     "prepared_character_names": 0,
-    "new_prepared_this_checkpoint": 80,
-    "inventory": "dq6-fr/v0.71/inventaire-noms-v071.json",
+    "new_prepared_this_checkpoint": 255,
+    "inventory": "dq6-fr/v0.72/inventaire-noms-v072.json",
     "explicit_identifier_placeholders": 344,
-    "physical_other_texts_unqualified": 1448,
-    "empty_entries_to_qualify": 83,
-    "DS_exact_French_candidates_not_qualified": 11,
+    "physical_other_texts_unqualified": 1427,
+    "empty_entries_to_qualify": 41,
+    "DS_exact_French_candidates_not_qualified": 8,
     "inherited_tail_consumed_bytes_to_audit": 0,
     "storage_adaptations_this_pass": 0,
     "restored_preserved_tail_bytes": 2050,
     "active_name_pool_offset": 8056832,
-    "active_name_pool_bytes": 14282,
+    "active_name_pool_bytes": 14260,
     "name_allocation_limit": 8095491,
-    "name_reader": "dq6-fr/v0.71/common.py::names",
+    "name_reader": "dq6-fr/v0.72/common.py::names",
     "table_batches": {
-      "physical_positions_examined": 1200,
+      "physical_positions_examined": 2048,
       "total": 2048,
       "completed_ranges": [
         [
@@ -71,25 +71,50 @@
         [
           800,
           1199
+        ],
+        [
+          1200,
+          1599
+        ],
+        [
+          1600,
+          1999
+        ],
+        [
+          2000,
+          2047
         ]
       ],
-      "next_position": 1200,
-      "ledger": "dq6-fr/v0.71/registre-positions-0800-1199.json",
+      "next_position": 2048,
+      "ledger": "dq6-fr/v0.72/registre-positions-1200-2047.json",
       "all400_semantically_validated": false,
       "prior_ledger": "dq6-fr/v0.69/registre-positions-0000-0399.json",
       "all800_semantically_validated": false,
       "prior_ledgers": [
         "dq6-fr/v0.69/registre-positions-0000-0399.json",
-        "dq6-fr/v0.70/registre-positions-0400-0799.json"
+        "dq6-fr/v0.70/registre-positions-0400-0799.json",
+        "dq6-fr/v0.71/registre-positions-0800-1199.json"
       ],
-      "all1200_semantically_validated": false
+      "all1200_semantically_validated": false,
+      "split_ledgers": [
+        "dq6-fr/v0.72/registre-positions-1200-1599.json",
+        "dq6-fr/v0.72/registre-positions-1600-1999.json",
+        "dq6-fr/v0.72/registre-positions-2000-2047.json"
+      ],
+      "all_positions_examined": true,
+      "all_positions_semantically_validated": false
     },
-    "new_linguistic_translations_this_pass": 17,
-    "existing_french_revisions_this_pass": 15
+    "new_linguistic_translations_this_pass": 14,
+    "existing_french_revisions_this_pass": 7,
+    "structural_dynamic_WRAM_slots": 35,
+    "static_empty_reserve": 1,
+    "opaque_JP_source_VF_empty_slots": 6,
+    "parsed_VF_SIDs": 2512,
+    "runtime_entry_count_proven": false
   },
   "rom_bytes": 8388608,
-  "notes": "Troisième lot400positions :32libellés modifiés (17traductions,15révisions françaises),1FR inchangé relu source,80propositions non insérées.161FRqualifiés/2048 ;1200positions consignées, pas1200traductions.",
-  "next": "Continuer1200–1599,puis1600–1999 et2000–2047,ensuite revenir aux blocages,oublis et relecture complète. Lecteur v068+,réserver7AF000..7B8703,combat et moteur.",
+  "notes": "Les2048positions sont consignées ;185FRqualifiés seulement. Lotfinal :21modifications (14traductions,7révisions),3FR inchangés relus,255propositions noninsérées. Registres séparés400/400/48,un patch commun vérifié. Traduction etfinalisation générales encore ouvertes.",
+  "next": "Résoudre les registres de blocages et586propositions de noms,tables de descriptions composées,glyphes/largeurs,commandes etressources restantes ;relecture principale exhaustive etparcours naturels. Ne pas recommencer le parcours des2048 comme nouvelle relecture. Aucun arrêt de finalisation.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -120,7 +145,7 @@
   ],
   "proofreading": {
     "exhaustive_pass_completed": false,
-    "reviewed_this_translation_pass": 33,
+    "reviewed_this_translation_pass": 24,
     "translation_reviews_not_a_full_reread": true,
     "full_main_reread_recorded": 0,
     "new_battle_integrated_from_review": 0,
@@ -142,10 +167,10 @@
     "new_prepared_technical_labels": 0,
     "storage_adaptations_checked_this_checkpoint": 0,
     "separate_place_names_reviewed_this_checkpoint": 0,
-    "table_positions_examined": 400,
-    "table_new_translations": 17,
-    "table_existing_french_source_reviewed": 1,
-    "table_existing_french_revisions": 15
+    "table_positions_examined": 848,
+    "table_new_translations": 14,
+    "table_existing_french_source_reviewed": 3,
+    "table_existing_french_revisions": 7
   },
   "separate_battle_pool": {
     "runtime_entries": 608,
@@ -663,7 +688,7 @@
     "source_JP_outside_pool_audit": 5,
     "source_boundary_report": "dq6-fr/v0.63/audit-frontiere-source.json"
   },
-  "checkpoint": "table-2048-lot-0800-1199-v071",
+  "checkpoint": "table-finale-1200-2047",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",

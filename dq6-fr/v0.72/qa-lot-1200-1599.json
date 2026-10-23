@@ -1,0 +1,20 @@
+{
+  "release": "v0.72",
+  "positions": [
+    1200,
+    1599
+  ],
+  "physical_positions_examined": 400,
+  "status_counts": {
+    "PREPARE_NON_INSERE": 45,
+    "TRADUCTION_SELECTIONNEE": 2,
+    "REVISION_FR_EXISTANT": 1,
+    "DIFFERE_TEXTE_CONTEXTE": 3,
+    "FR_CONFIRME_ANTERIEUR": 3,
+    "DIFFERE_ACTION_SPECIFIQUE": 72,
+    "DIFFERE_COMPOSITION_NATIVE": 274
+  },
+  "next_position": 1600,
+  "all_positions_semantically_validated": false,
+  "natural_validation": false
+}

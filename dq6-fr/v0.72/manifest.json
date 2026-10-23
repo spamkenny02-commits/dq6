@@ -1,0 +1,173 @@
+{
+  "release": "v0.72",
+  "source_revision": "335d05f5f9274a399de8638ab2b7631037b4279d",
+  "files": {
+    "REPRISE-AUTOMATIQUE.md": {
+      "size": 59185,
+      "sha256": "dd95941348956d69d7573e46ef5a552c16deccd5050309999372fba8fb6aefec"
+    },
+    "dq6-fr/v0.72/README.md": {
+      "size": 3927,
+      "sha256": "8db568d1decfb7bbd03d86c33c965053c0408365977a7da9971f6a27ff9600d8"
+    },
+    "dq6-fr/v0.72/audit-derniers-48.json": {
+      "size": 41447,
+      "sha256": "0655d7ff7bfcb42e0eb25a73e16bf92b7d4fbbe0ffb964b4363369acb2ed3256"
+    },
+    "dq6-fr/v0.72/audit_blockages.py": {
+      "size": 1442,
+      "sha256": "45699ccd532ca1a9c6cb7c6ba0e3d95fc843ea62c41d4aee54a5bb36a5918fef"
+    },
+    "dq6-fr/v0.72/blocages-v072.json": {
+      "size": 479040,
+      "sha256": "32e60c67f458e77263593e8147bd215b45722d537dca161eaa45d34a8517dd80"
+    },
+    "dq6-fr/v0.72/build-report.json": {
+      "size": 3436,
+      "sha256": "8fcbca12b8e83d77ebec18079f9b68870bb0c5d988d0fd92b2e0f45f59185eaa"
+    },
+    "dq6-fr/v0.72/build.py": {
+      "size": 1206,
+      "sha256": "64490a4bef797c06f1f148c336035de9cb67e0ca8175e28e6b93160c9240b975"
+    },
+    "dq6-fr/v0.72/bus_layout.py": {
+      "size": 1253,
+      "sha256": "d1bff759d06e62f32961731809f08a6fd673ab04169b1727c4a2f850fa05d804"
+    },
+    "dq6-fr/v0.72/common.py": {
+      "size": 10060,
+      "sha256": "0bb9af30cf9c2c37ae17aa8cef7efbd9070524498558430e37ba7f7c5b9bea22"
+    },
+    "dq6-fr/v0.72/delta-table-v072.json": {
+      "size": 23317,
+      "sha256": "ecf8057002853cc75e77ab304f406e1a0ee3fde85fcdb59bd07b304c97edfc18"
+    },
+    "dq6-fr/v0.72/emulator_consumers.py": {
+      "size": 4079,
+      "sha256": "c0ab4bfe03ac7ab2515a9a5e55d440684b12081cdca2391ebeba722ea5ad0af1"
+    },
+    "dq6-fr/v0.72/emulator_names_probe.py": {
+      "size": 4325,
+      "sha256": "14198e69221b4076e9439f9af71fb411a41da0e481be7ed39877800749c3914e"
+    },
+    "dq6-fr/v0.72/emulator_render_names.py": {
+      "size": 3766,
+      "sha256": "585297292083b5f186938436cfeac8f65635a358ecccc1faa8a47d638d1e4684"
+    },
+    "dq6-fr/v0.72/inventaire-noms-v072.json": {
+      "size": 8442,
+      "sha256": "c42e0e97a4ea3f89a603e704d829c337cca3d86a7cc11ffc4f18f18e4f736b12"
+    },
+    "dq6-fr/v0.72/inventory_names.py": {
+      "size": 6801,
+      "sha256": "901173c75a63c82651f4df9a844739a26e46d0923b420ff5f12d5d2752536768"
+    },
+    "dq6-fr/v0.72/plans.py": {
+      "size": 11046,
+      "sha256": "b95453e973339d1611b17128b295ab1197fd273e9fac9d7b13c86eb7ae9d49a6"
+    },
+    "dq6-fr/v0.72/prepare.py": {
+      "size": 3484,
+      "sha256": "e3ab02bd15d7014c51288cf7ac7c013518ec7331894cba9bc4a643cd6ca9c6b3"
+    },
+    "dq6-fr/v0.72/qa-bus-boot.json": {
+      "size": 511,
+      "sha256": "11356e302cd78068751cc382849f7d1a037f6ed9b6c38a74d2a0c4523099adc5"
+    },
+    "dq6-fr/v0.72/qa-lot-1200-1599.json": {
+      "size": 470,
+      "sha256": "e4f0e2a2b743a022ed584a9aa2ac8605fc62167c83c04f64bb205b01e93c5983"
+    },
+    "dq6-fr/v0.72/qa-lot-1600-1999.json": {
+      "size": 574,
+      "sha256": "f1504c6547d2ba3bca52ec7b7580143a4aec9c8a54cfd7f06b284e7cf53156ac"
+    },
+    "dq6-fr/v0.72/qa-lot-2000-2047.json": {
+      "size": 374,
+      "sha256": "cf8bae77d0c9513364722aa35dcc7d98b02a938c36287fc68198026e30842785"
+    },
+    "dq6-fr/v0.72/qa-lot400.json": {
+      "size": 1229,
+      "sha256": "2ee07a3bc0ff60b5888b02e370ed5907b40acde931f39693e574f1b3e6e39ab5"
+    },
+    "dq6-fr/v0.72/qa-lots-finaux.json": {
+      "size": 1229,
+      "sha256": "2ee07a3bc0ff60b5888b02e370ed5907b40acde931f39693e574f1b3e6e39ab5"
+    },
+    "dq6-fr/v0.72/qa-name-consumers.json": {
+      "size": 15832,
+      "sha256": "09020f70572ce1a73d34bf259c4e4d7e15213ef8e76d6a4293a474d733267c2a"
+    },
+    "dq6-fr/v0.72/qa-name-render.json": {
+      "size": 7735,
+      "sha256": "c2ed3b0644a878475c83798265b3c6e1eab33e895ff9e22e9685655aa627d5e6"
+    },
+    "dq6-fr/v0.72/qa-names-native-negative.json": {
+      "size": 1155,
+      "sha256": "08f960507eb7ab4c1077f4e9f3be13985d8fd44f376d36b4caed095d38382b69"
+    },
+    "dq6-fr/v0.72/qa-names-native-reader.json": {
+      "size": 1146,
+      "sha256": "df062044ef5f1d0971d922e550f893c776deeba79e2e02a76b6e5fbb1d97c657"
+    },
+    "dq6-fr/v0.72/qa-visual-review.json": {
+      "size": 3990,
+      "sha256": "f79adece7f5e1510c5aacef8b587f43805e9d4b63bdd2d35ad172263f1f1adc6"
+    },
+    "dq6-fr/v0.72/registre-positions-1200-1599.json": {
+      "size": 360837,
+      "sha256": "8ad41a3cd58940a4c3ac11dec79473205c033d2362f909dfae54075a2060f341"
+    },
+    "dq6-fr/v0.72/registre-positions-1200-2047.json": {
+      "size": 837278,
+      "sha256": "e4a8818d68352f0006d7da65f611d4ea3b22587826d021995a8c631ac19e09d8"
+    },
+    "dq6-fr/v0.72/registre-positions-1600-1999.json": {
+      "size": 437479,
+      "sha256": "88dbf83563632383c0520368cc07eb329b9ed9a0f2e93ba3fa3d3a9f9c8250ea"
+    },
+    "dq6-fr/v0.72/registre-positions-2000-2047.json": {
+      "size": 38968,
+      "sha256": "321f0f4736a012b981a1b2ebd6d69e180d463af70559fe1392e96f13c3e44a3b"
+    },
+    "dq6-fr/v0.72/revisions-heritees.json": {
+      "size": 8174,
+      "sha256": "5d64afc715ef0419f1f0a204d2d7adcaf7f8f03f849090615e6c8b4f2e584504"
+    },
+    "dq6-fr/v0.72/revue-table-v072.json": {
+      "size": 23317,
+      "sha256": "ecf8057002853cc75e77ab304f406e1a0ee3fde85fcdb59bd07b304c97edfc18"
+    },
+    "dq6-fr/v0.72/verification.json": {
+      "size": 1309,
+      "sha256": "fd1e14553f4b9822cc7c4f7bb7a1c970ebba69f3e2f12149611a85f21813e5c1"
+    },
+    "dq6-fr/v0.72/verify.py": {
+      "size": 3728,
+      "sha256": "ab5f95196544c00f12c3b2dfdca92f622c2b1083f13fc8c2524af75562a7c063"
+    },
+    "etat-projet.json": {
+      "size": 13251,
+      "sha256": "49d2c002d1f6afd75573ca30b018a46258757ed90c9a16f459f3ad55d3d3f5b5"
+    },
+    "patches/DQVI-FR-DS-v0.72-BASE-JP-PARTIEL.bps": {
+      "size": 677191,
+      "sha256": "58aa665b9d5718315819823b72c8780ebbba2887eac7303f48c3b8aaff95191e"
+    },
+    "preparations/table-finale-v072/generator.py": {
+      "size": 8983,
+      "sha256": "d03533ae4c2a10d432c75eee6a392f79df6399430428f5e7faf502a271a09ec2"
+    },
+    "preparations/table-finale-v072/intentions.json": {
+      "size": 4901,
+      "sha256": "d1272faed3b4c71ba9eeaad1754de907825bd29163e080d8d1e0f0b9ab38a863"
+    }
+  },
+  "private_excluded": [
+    "ROM",
+    "SRAM",
+    "states",
+    "source archives",
+    "screenshots"
+  ]
+}

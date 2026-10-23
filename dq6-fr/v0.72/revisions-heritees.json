@@ -1,0 +1,187 @@
+{
+  "rows": [
+    {
+      "sid": 1698,
+      "position": 1234,
+      "french": "Gigaslash",
+      "previous": "GigaSlash",
+      "sfc_jp": "ギガスラッシュ",
+      "review": "Capitalisation officielle DS. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1003000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1003000.mpt",
+          "id": 149,
+          "JA_text": "@1ギガ;スラッシュ@",
+          "FR_text": "@2le @3un @4Gigaslash@",
+          "JA_sha256": "04eef8a523a900fabe595b26b621de3f1965e664778e93a6cc29960fe7501e43",
+          "FR_sha256": "f72d39dd8c4c167a8848ca730fdf6ca269b7f7765bd4654332f16e6f897e6376"
+        }
+      ],
+      "old_encoded_hex": "164a4842224dd149ac",
+      "encoded_hex": "164a48d14dd149ac",
+      "old_sha256": "3166434585fbc9e10ba8cd1a345b53df84a0f1596dd716f0e72314d886be35e0",
+      "new_sha256": "96f5069ae42de5ca4d63678560a418c52a83c51f0dd5da88b7c21686149b92b4",
+      "old_columns": 9,
+      "new_columns": 9,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 2099,
+      "position": 1635,
+      "french": "boomerang",
+      "previous": "Boomerang",
+      "sfc_jp": "ブーメラン",
+      "review": "Nom commun, minuscule DS. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+          "id": 32,
+          "JA_text": "@1ブーメラン@",
+          "FR_text": "@0M@2le @3un @4boomerang@5les @6des @7boomerangs@8N@9N@",
+          "JA_sha256": "f6891f680b14705caafc9f274ee9286103b4e5f418b8301b521451225fb33f37",
+          "FR_sha256": "02efc06a47cd4fadab855502689a869c5b7493e70acbd7777800e8eec743c53a"
+        }
+      ],
+      "old_encoded_hex": "11eb4edacf48ac",
+      "encoded_hex": "43eb4edacf48ac",
+      "old_sha256": "45b3181c7504efc76fed5302c2dde22e1cf4ab80cbd9cd734aa2cb137778887d",
+      "new_sha256": "0653fb26dd0c211d171815503ec4b8caf62c149f67fc4ef70c6a9713b033fdbf",
+      "old_columns": 9,
+      "new_columns": 9,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 2290,
+      "position": 1826,
+      "french": "Mage",
+      "previous": "Sorcier",
+      "sfc_jp": "まほうつかい",
+      "review": "Vocation ; label DS identique pour les deux genres. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 2,
+          "JA_text": "@1まほうつかい@",
+          "FR_text": "@1Mage@",
+          "JA_sha256": "6d2371bae8e5e92cbad8d6329d8e87801fb31d3e49ee49bc7959b8ae22fce030",
+          "FR_sha256": "d3a874ef216ee72fdade7a66871917340b6839dec7493ac54da921736b30a9f0"
+        }
+      ],
+      "old_encoded_hex": "22ec444adaac",
+      "encoded_hex": "1c424846ac",
+      "old_sha256": "ded336d9409c8fb64115afee9ba5e4ffa30273d23757f96a5569372e34c140cc",
+      "new_sha256": "019d9e94986c07c9df3d23366b392e481a116cbb83f12c95617ccf6185acec35",
+      "old_columns": 7,
+      "new_columns": 4,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 2297,
+      "position": 1833,
+      "french": "Gladiateur",
+      "previous": "Maitre des Combats",
+      "sfc_jp": "バトルマスター",
+      "review": "Vocation ; label DS identique pour les deux genres. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 9,
+          "JA_text": "@1バトルマスター@",
+          "FR_text": "@1Gladiateur@",
+          "JA_sha256": "9d48136a3f591baaba52ec86fb0d5c0314ab687780e97565e8f57e0852095e26",
+          "FR_sha256": "cea320217c6b66577c8d601b00bb1d11e3a65b998e29f49edb8a9a1cc422ae33"
+        }
+      ],
+      "old_encoded_hex": "1c42e1f0cadb0112504e43d254ac",
+      "encoded_hex": "164d42454ad2465653ac",
+      "old_sha256": "562aa026913dd7554f3c5f542c4520297d26296bb6a4684d0bdb5587ba30933d",
+      "new_sha256": "3b6f228ebd43324afcd23b425721a1731199a5a8b91bdbd79abf77d86956fc16",
+      "old_columns": 18,
+      "new_columns": 10,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 2299,
+      "position": 1835,
+      "french": "Paladin",
+      "previous": "Palladin",
+      "sfc_jp": "パラディン",
+      "review": "Corrige le double l ; même label DS dans les deux genres. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 11,
+          "JA_text": "@1パラディン@",
+          "FR_text": "@1Paladin@",
+          "JA_sha256": "50b0880aa0b3de4248a95a4fdfc8974d8be9e2ddd7e50036650cab661384acc5",
+          "FR_sha256": "bb55b85b3cd0dc3874459dd6233a40fb81d53dd60f96b2e306a45f1dbe2e97e8"
+        }
+      ],
+      "old_encoded_hex": "1f42e34245dfac",
+      "encoded_hex": "1f424d4245dfac",
+      "old_sha256": "fedde057d12de46ea2768ec9e135f7638ac3922c8dfe0df768320858b44d3cb4",
+      "new_sha256": "a80dbfc3e046d1a63ef9588d4dfc821670e61a6252259b7f0d4800a07727f63e",
+      "old_columns": 8,
+      "new_columns": 7,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 2302,
+      "position": 1838,
+      "french": "Sommité",
+      "previous": "Super Star",
+      "sfc_jp": "スーパースター",
+      "review": "Vocation, distincte de ses rangs ; même label DS dans les deux genres. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 14,
+          "JA_text": "@1スーパースター@",
+          "FR_text": "@1Sommité@",
+          "JA_sha256": "b09c6417c8ca6cf77cb7cbe8e53202f417b07958c1a0eac64341af8c443e108b",
+          "FR_sha256": "100c05bb092fa2938a9cd96525f3e966ea54d20735e104138189442e0696cc26"
+        }
+      ],
+      "old_encoded_hex": "225651da012255d0ac",
+      "encoded_hex": "22504e4ee12dac",
+      "old_sha256": "3b06813c850104b4f319e323961d819ebe239b5a434e840ce5e0656ff0bf7b16",
+      "new_sha256": "7e7530f030ba3fefb203354a602d1a92a68d2f7c72037a8cbd8952fd1fe54915",
+      "old_columns": 10,
+      "new_columns": 7,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 2392,
+      "position": 1928,
+      "french": "Pas de magie",
+      "previous": "Pas de Magies",
+      "sfc_jp": "じゅもんつかうな",
+      "review": "Tactique sans sorts ; corrige pluriel hérité. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+          "id": 421,
+          "JA_text": "@1じゅもん;つかうな@",
+          "FR_text": "@4Pas de magie@",
+          "JA_sha256": "ef2ea183c6ad5479bc87c9cfa3e9632bc514e56e0fa4f5648822329e5bc27806",
+          "FR_sha256": "84ea523c49bad2f2d89b1b3d47d44e4e7f1b26646f5c6b19fcb9388ed4563c13"
+        }
+      ],
+      "old_encoded_hex": "1fd1cad61c42484adbac",
+      "encoded_hex": "1fd1cad64e42484a46ac",
+      "old_sha256": "c0a9be4541da642682489ff852fe9b88faf14706f619f948e8b6d1e6747eba1c",
+      "new_sha256": "a498a38f061b0712478a74da56d1007f66b358a590136de5c742b7e784aec62e",
+      "old_columns": 13,
+      "new_columns": 12,
+      "status": "RELU_POUR_INSERTION"
+    }
+  ],
+  "scope": "7révisions de texte,aucun audit du script principal clôturé,aucune commande/moteur modifiés."
+}

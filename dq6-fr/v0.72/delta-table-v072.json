@@ -1,0 +1,548 @@
+[
+  {
+    "sid": 1666,
+    "position": 1202,
+    "french": "Bûcher",
+    "previous": "FlameOrb",
+    "sfc_jp": "ひばしら",
+    "review": "Pilier de feu ; distinct des souffles. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1003000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 117,
+        "JA_text": "@1ひばしら@",
+        "FR_text": "@2le @3un @4Bûcher@",
+        "JA_sha256": "2298d951b3e998af808304b813edf21d771d9e434425e0c9d7f9b171ee57666f",
+        "FR_sha256": "51e8cf27d5bca233125fe557c46f34d2cc3acf34f9b8db80fbc1dd273e62930c"
+      }
+    ],
+    "old_encoded_hex": "154dce461e5343ac",
+    "encoded_hex": "113ad4daac",
+    "old_sha256": "cc936f55ae4b0e82028ecb4bca2f0067bedac3f0dd22741ec0689e134e9f9be3",
+    "new_sha256": "823883842bd20212a3ecf242a5876f369d7a5b2f583585de8770471efec8cd20",
+    "old_columns": 8,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 1676,
+    "position": 1212,
+    "french": "Frénésie",
+    "previous": "Slowness",
+    "sfc_jp": "みなごろし",
+    "review": "Attaque sans distinction des camps ; ancien Slowness faux. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1003000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 127,
+        "JA_text": "@1みなごろし@",
+        "FR_text": "@2la @3une @4Frénésie@",
+        "JA_sha256": "09fe41a0399433e45b93ce309ea8143b7745412e85bf2376802f0f4ffefa97b5",
+        "FR_sha256": "5bc3f80cb39e242625c75ac9692fbd8537518e3cc15aa737fbbff7cce90e7b5f"
+      }
+    ],
+    "old_encoded_hex": "224dee4fdb54ac",
+    "encoded_hex": "15532d4f2d544a46ac",
+    "old_sha256": "9e7e79825889796bd2e99066c4a1471ab3725ce9e81ba2d9b2c3b9a3e968eb36",
+    "new_sha256": "3692246c9e3d39ed8170e308b35e95d66c5df9bc602c12a14340abc6283cdfec",
+    "old_columns": 8,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 1698,
+    "position": 1234,
+    "french": "Gigaslash",
+    "previous": "GigaSlash",
+    "sfc_jp": "ギガスラッシュ",
+    "review": "Capitalisation officielle DS. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1003000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 149,
+        "JA_text": "@1ギガ;スラッシュ@",
+        "FR_text": "@2le @3un @4Gigaslash@",
+        "JA_sha256": "04eef8a523a900fabe595b26b621de3f1965e664778e93a6cc29960fe7501e43",
+        "FR_sha256": "f72d39dd8c4c167a8848ca730fdf6ca269b7f7765bd4654332f16e6f897e6376"
+      }
+    ],
+    "old_encoded_hex": "164a4842224dd149ac",
+    "encoded_hex": "164a48d14dd149ac",
+    "old_sha256": "3166434585fbc9e10ba8cd1a345b53df84a0f1596dd716f0e72314d886be35e0",
+    "new_sha256": "96f5069ae42de5ca4d63678560a418c52a83c51f0dd5da88b7c21686149b92b4",
+    "old_columns": 9,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2090,
+    "position": 1626,
+    "french": "lame de feu",
+    "previous": "Flame Sword",
+    "sfc_jp": "ほのおのつるぎ",
+    "review": "Arme, distincte de la compétence Lame de feu. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 23,
+        "JA_text": "@1ほのおの;つるぎ@",
+        "FR_text": "@0F@2la @3une @4lame de feu@5les @6des @7lames de feu@8N@9N@",
+        "JA_sha256": "81c05f1dded616d00e55d5d384621ddc7718f20e21439d35a4e7674afec9c1ae",
+        "FR_sha256": "501d20025f0a76f9ef486d76aa9039ca196014a67eb3e844eb754c5bb22252d3"
+      }
+    ],
+    "old_encoded_hex": "154dced62258ec45ac",
+    "encoded_hex": "4dced645d6474656ac",
+    "old_sha256": "c0d35233bf45313adf9580e056bfd1fc31b5b28867c494021ea647e9d6d164ff",
+    "new_sha256": "0017e141de1ff0567a3a84be5d304a6492c778d405e41483d17d8061ad9d5df2",
+    "old_columns": 11,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2099,
+    "position": 1635,
+    "french": "boomerang",
+    "previous": "Boomerang",
+    "sfc_jp": "ブーメラン",
+    "review": "Nom commun, minuscule DS. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 32,
+        "JA_text": "@1ブーメラン@",
+        "FR_text": "@0M@2le @3un @4boomerang@5les @6des @7boomerangs@8N@9N@",
+        "JA_sha256": "f6891f680b14705caafc9f274ee9286103b4e5f418b8301b521451225fb33f37",
+        "FR_sha256": "02efc06a47cd4fadab855502689a869c5b7493e70acbd7777800e8eec743c53a"
+      }
+    ],
+    "old_encoded_hex": "11eb4edacf48ac",
+    "encoded_hex": "43eb4edacf48ac",
+    "old_sha256": "45b3181c7504efc76fed5302c2dde22e1cf4ab80cbd9cd734aa2cb137778887d",
+    "new_sha256": "0653fb26dd0c211d171815503ec4b8caf62c149f67fc4ef70c6a9713b033fdbf",
+    "old_columns": 9,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2136,
+    "position": 1672,
+    "french": "kilt de cuir",
+    "previous": "Leather Suit",
+    "sfc_jp": "かわのこしまき",
+    "review": "Vêtement de taille, distinct d’armure de cuir. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 86,
+        "JA_text": "@1かわの;こしまき@",
+        "FR_text": "@0M@2le @3un @4kilt de cuir@5les @6des @7kilts de cuir@8N@9N@",
+        "JA_sha256": "3fd3b2048632454587489543501af182b6b6e6099b796972eb7d0b22204210d4",
+        "FR_sha256": "2b09d1f9d8f7384d0354ef8b9c82b8c9df0d522720f27e33f937ec9f8fe865fe"
+      }
+    ],
+    "old_encoded_hex": "1bd7f9da012256e1ac",
+    "encoded_hex": "4c4a4df745d644564a53ac",
+    "old_sha256": "d752ce36adce5275b1a671734746669b240f6dba958c6210668f810f0c2d6222",
+    "new_sha256": "08226a988c173f15e27e34a81b9a57c9af98744603449c0cc9ae9df08cdbdb7c",
+    "old_columns": 12,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2155,
+    "position": 1691,
+    "french": "armure miroir",
+    "previous": "Mirror Armor*",
+    "sfc_jp": "ミラーアーマー",
+    "review": "Armure, distincte du sort Réflexion. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 105,
+        "JA_text": "@1ミラー;アーマー@",
+        "FR_text": "@0F@2l'@3une @4armure miroir@5les @6des @7armures miroirs@8N@9Y@",
+        "JA_sha256": "2354d03afb3f99f47a10262dbcf20232869bf093ea27240b2e95b27ead57fdfd",
+        "FR_sha256": "ee5d322c3ea749b81fd41c65559760c1c58e3be5841032f8471fff9503055ac4"
+      }
+    ],
+    "old_encoded_hex": "1c4a53f1530110534eec89ac",
+    "encoded_hex": "d04e56f0014e4af14a53ac",
+    "old_sha256": "450b25fb6909b762c586da876e73f69aa392223956fc270352756979e95b9c20",
+    "new_sha256": "b7cd9cdf404131b234a39d1884215890db6503de1fe1ed94bc35082ed296d6ad",
+    "old_columns": 13,
+    "new_columns": 13,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2173,
+    "position": 1709,
+    "french": "pyromanteau",
+    "previous": "Sage's Robe",
+    "sfc_jp": "まどうしのローブ",
+    "review": "Robe de mage ; ancien Sage's Robe trompeur. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 123,
+        "JA_text": "@1まどうしの;ローブ@",
+        "FR_text": "@0M@2le @3un @4pyromanteau@5les @6des @7pyromanteaux@8N@9N@",
+        "JA_sha256": "d8ff303b1e3d751cd8c170ff43ed66cbab591f8d882b722596d62291cb69ed5f",
+        "FR_sha256": "6597122d77ed1ddec552e47cada5c7231892ea137d7312d54064829f5a84a151"
+      }
+    ],
+    "old_encoded_hex": "2242484677f221504346ac",
+    "encoded_hex": "515af14ecff84256ac",
+    "old_sha256": "3765f3d83b6074bc631d631c2e1977c9b094f38612a2a783dc2e43a72a2874fb",
+    "new_sha256": "e32f83db37a57aa89d922950a8c9f87ac05464caed2755e2165ee3b5775ad450",
+    "old_columns": 11,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2205,
+    "position": 1741,
+    "french": "diadème",
+    "previous": "Headband",
+    "sfc_jp": "ヘアバンド",
+    "review": "Distinct des tiares voisines. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 170,
+        "JA_text": "@1ヘアバンド@",
+        "FR_text": "@0M@2le @3un @4diadème@5les @6des @7diadèmes@8N@9N@",
+        "JA_sha256": "39c303e0691e580e24e56690d35ae18c33d1e7e7bf01e7fba5bf05cd04beeeb5",
+        "FR_sha256": "562586f5e565d30eaa256204cd88657cc570defe7e616e10c2dd752e244b1a11"
+      }
+    ],
+    "old_encoded_hex": "17d74543cf45ac",
+    "encoded_hex": "454a4245304e46ac",
+    "old_sha256": "7d0599875f7e96a32da8b60fa43ee1998a36ba7b534dc15fe98a9083b836247b",
+    "new_sha256": "ffb6f3a749d81c1003c847ac45cccffe0745e5646c980fafe93773d1e7d989c3",
+    "old_columns": 8,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2212,
+    "position": 1748,
+    "french": "tiare d'or",
+    "previous": "Golden Tiara",
+    "sfc_jp": "おうごんのティアラ",
+    "review": "Distincte de la tiare d’argent. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 177,
+        "JA_text": "@1おうごんの;ティアラ@",
+        "FR_text": "@0F@2la @3une @4tiare d'or@5les @6des @7tiares d'or@8N@9N@",
+        "JA_sha256": "90f55b8e8c58c4f34da898d2cf1104611607a33b702b1fbbf9374c8ad1ce91ef",
+        "FR_sha256": "d85f12812bfd5cb0fc02c434d953a7a17c7fd5a1013538dc15bfc0393c96bc46"
+      }
+    ],
+    "old_encoded_hex": "16504d45464f01234ad042ac",
+    "encoded_hex": "554ad0d64577ecac",
+    "old_sha256": "bab1189b487c9d13235373a72db6c8ebaee7e11810b3d3f82aa3f9c1d6b9ccaa",
+    "new_sha256": "f3ee0c7ab09c507afc7c970c78811b6cd8865de1239f263eda2db078ae7e877e",
+    "old_columns": 12,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2227,
+    "position": 1763,
+    "french": "perle rose",
+    "previous": "Pink Pearl",
+    "sfc_jp": "ピンクパール",
+    "review": "Accessoire. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 197,
+        "JA_text": "@1ピンクパール@",
+        "FR_text": "@0F@2la @3une @4perle rose@5les @6des @7perles roses@8N@9N@",
+        "JA_sha256": "9d0c50a7ae8bcb6557e3db22a2f21966efcb7c1d71b30d9103319f1b381f102f",
+        "FR_sha256": "ffa457a496fe0b2faf75ca08003baacace480b8d5c8bb52d7937fcff9d5606ca"
+      }
+    ],
+    "old_encoded_hex": "1fdf4c011fd7534dac",
+    "encoded_hex": "51dae201f15446ac",
+    "old_sha256": "655acc252bdaf201e7c402a464e70cb31a35ce3d346fed2715373b935e84c21f",
+    "new_sha256": "6ead3ca65cf4ac06cd5a057e9cab4943c54158bc2ce390941da9417aeb58beeb",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2255,
+    "position": 1791,
+    "french": "charmélia",
+    "previous": "Beauty Plant",
+    "sfc_jp": "うつくしそう",
+    "review": "Plante augmentant le style. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 225,
+        "JA_text": "@1うつくしそう@",
+        "FR_text": "@0F@2la @3une @4charmélia@5les @6des @7charmélias@8N@9N@",
+        "JA_sha256": "1b752747a04dec2e8ccbd0ff9066d068c6e3d1e4a9e2d7803168bed9aaade666",
+        "FR_sha256": "22aff8bb3e350e366b2ce1ed7def51433d45d802d348fc1edfddf78dec1853b5"
+      }
+    ],
+    "old_encoded_hex": "11d756555a011f4dcf55ac",
+    "encoded_hex": "d4d04e2d4d4a42ac",
+    "old_sha256": "1521bcf259c1846b5bc4a97e07ee34f6c5af385261db29310beda3c1ab40d131",
+    "new_sha256": "88d828090cf8a3861b564149863c110310c92a7d01d5f099bbddd13715df1d46",
+    "old_columns": 12,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2268,
+    "position": 1804,
+    "french": "tapis volant",
+    "previous": "Magic Carpet",
+    "sfc_jp": "まほうのじゅうたん",
+    "review": "Distinct du tapis pelucheux. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 238,
+        "JA_text": "@1まほうの;じゅうたん@",
+        "FR_text": "@0M@2le @3un @4tapis volant@5les @6des @7tapis volants@8N@9N@",
+        "JA_sha256": "32ce0265a4dfb1f2db0d81cdd32a1ca9e984c92709d8973a88960668f62bbe61",
+        "FR_sha256": "89a977a4bcb0fb1b31de95c5f3d16d49f204acaf19fda65b7880a11cb3db2792"
+      }
+    ],
+    "old_encoded_hex": "1c4248de0112d0514655ac",
+    "encoded_hex": "554251e00157504dcf55ac",
+    "old_sha256": "b83395e4aedadee8b791c4bf5750951124e0e417809b27e154daff222e613972",
+    "new_sha256": "b7488cc001b556300b157293f10da16b7c2498b18df24ee726214a7d3b82fd6b",
+    "old_columns": 12,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2290,
+    "position": 1826,
+    "french": "Mage",
+    "previous": "Sorcier",
+    "sfc_jp": "まほうつかい",
+    "review": "Vocation ; label DS identique pour les deux genres. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 2,
+        "JA_text": "@1まほうつかい@",
+        "FR_text": "@1Mage@",
+        "JA_sha256": "6d2371bae8e5e92cbad8d6329d8e87801fb31d3e49ee49bc7959b8ae22fce030",
+        "FR_sha256": "d3a874ef216ee72fdade7a66871917340b6839dec7493ac54da921736b30a9f0"
+      }
+    ],
+    "old_encoded_hex": "22ec444adaac",
+    "encoded_hex": "1c424846ac",
+    "old_sha256": "ded336d9409c8fb64115afee9ba5e4ffa30273d23757f96a5569372e34c140cc",
+    "new_sha256": "019d9e94986c07c9df3d23366b392e481a116cbb83f12c95617ccf6185acec35",
+    "old_columns": 7,
+    "new_columns": 4,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2297,
+    "position": 1833,
+    "french": "Gladiateur",
+    "previous": "Maitre des Combats",
+    "sfc_jp": "バトルマスター",
+    "review": "Vocation ; label DS identique pour les deux genres. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 9,
+        "JA_text": "@1バトルマスター@",
+        "FR_text": "@1Gladiateur@",
+        "JA_sha256": "9d48136a3f591baaba52ec86fb0d5c0314ab687780e97565e8f57e0852095e26",
+        "FR_sha256": "cea320217c6b66577c8d601b00bb1d11e3a65b998e29f49edb8a9a1cc422ae33"
+      }
+    ],
+    "old_encoded_hex": "1c42e1f0cadb0112504e43d254ac",
+    "encoded_hex": "164d42454ad2465653ac",
+    "old_sha256": "562aa026913dd7554f3c5f542c4520297d26296bb6a4684d0bdb5587ba30933d",
+    "new_sha256": "3b6f228ebd43324afcd23b425721a1731199a5a8b91bdbd79abf77d86956fc16",
+    "old_columns": 18,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2299,
+    "position": 1835,
+    "french": "Paladin",
+    "previous": "Palladin",
+    "sfc_jp": "パラディン",
+    "review": "Corrige le double l ; même label DS dans les deux genres. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 11,
+        "JA_text": "@1パラディン@",
+        "FR_text": "@1Paladin@",
+        "JA_sha256": "50b0880aa0b3de4248a95a4fdfc8974d8be9e2ddd7e50036650cab661384acc5",
+        "FR_sha256": "bb55b85b3cd0dc3874459dd6233a40fb81d53dd60f96b2e306a45f1dbe2e97e8"
+      }
+    ],
+    "old_encoded_hex": "1f42e34245dfac",
+    "encoded_hex": "1f424d4245dfac",
+    "old_sha256": "fedde057d12de46ea2768ec9e135f7638ac3922c8dfe0df768320858b44d3cb4",
+    "new_sha256": "a80dbfc3e046d1a63ef9588d4dfc821670e61a6252259b7f0d4800a07727f63e",
+    "old_columns": 8,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2302,
+    "position": 1838,
+    "french": "Sommité",
+    "previous": "Super Star",
+    "sfc_jp": "スーパースター",
+    "review": "Vocation, distincte de ses rangs ; même label DS dans les deux genres. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 14,
+        "JA_text": "@1スーパースター@",
+        "FR_text": "@1Sommité@",
+        "JA_sha256": "b09c6417c8ca6cf77cb7cbe8e53202f417b07958c1a0eac64341af8c443e108b",
+        "FR_sha256": "100c05bb092fa2938a9cd96525f3e966ea54d20735e104138189442e0696cc26"
+      }
+    ],
+    "old_encoded_hex": "225651da012255d0ac",
+    "encoded_hex": "22504e4ee12dac",
+    "old_sha256": "3b06813c850104b4f319e323961d819ebe239b5a434e840ce5e0656ff0bf7b16",
+    "new_sha256": "7e7530f030ba3fefb203354a602d1a92a68d2f7c72037a8cbd8952fd1fe54915",
+    "old_columns": 10,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2357,
+    "position": 1893,
+    "french": "Doc",
+    "previous": "Healie",
+    "sfc_jp": "ホイミン",
+    "review": "Nom du médigluant recruté, distinct de son espèce. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1001000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1001000.mpt",
+        "id": 25,
+        "JA_text": "@1ホイミン@",
+        "FR_text": "@0M@1Doc@9N@",
+        "JA_sha256": "7dce92c5ef79dc2c7779d1f059b9969235df6d8c4e0c588b60e94adab834f37d",
+        "FR_sha256": "0a005b985f10201a75b7859423db1f7779c395e75608b18310b9d5292e994442"
+      }
+    ],
+    "old_encoded_hex": "1746424d4a46ac",
+    "encoded_hex": "135044ac",
+    "old_sha256": "92103534a9de16dc2ebcc5c4c29cb219ec5fe55c1fa63a6948d5cedaebcd6423",
+    "new_sha256": "3f2675214d3b9e00b302bfe3f80bd0cac2c36b3fd697c580a7a4b0dda4e2e483",
+    "old_columns": 6,
+    "new_columns": 3,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2389,
+    "position": 1925,
+    "french": "Sans pitié",
+    "previous": "Go All Out",
+    "sfc_jp": "ガンガンいこうぜ",
+    "review": "Tactique agressive. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 419,
+        "JA_text": "@1ガンガン;いこうぜ@",
+        "FR_text": "@4Sans pitié@",
+        "JA_sha256": "f80251f569fb91dd91fe7a76f0628522949dd565740c84d8844a2d117a2c4436",
+        "FR_sha256": "be108ba3a77113233c921f118e51222e561b092d1d94f2e6a0193f673c36ec88"
+      }
+    ],
+    "old_encoded_hex": "16500110e3011e5655ac",
+    "encoded_hex": "22cff251e14a2dac",
+    "old_sha256": "7cec97d9cd0b7256c74c7afaa01cd1f10420750802b75a48aec59bdb28cf55b3",
+    "new_sha256": "1e52a09c9d23d9ee1b2865c4270acd2e7f531c6811606e7397cdd23c4b5ee5dc",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2391,
+    "position": 1927,
+    "french": "Me couvrir",
+    "previous": "Back Me Up",
+    "sfc_jp": "おれにまかせろ",
+    "review": "Tactique de soutien au héros. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 423,
+        "JA_text": "@1おれに;まかせろ@",
+        "FR_text": "@4Me couvrir@",
+        "JA_sha256": "9ffb170d0c9b0ec9430d59cb3bc43cc2eb141a2ecf46d716432a87cde7b79fd4",
+        "FR_sha256": "313078f9b000456162961428cb4d6256762194b2c066d71aee987fd241342875"
+      }
+    ],
+    "old_encoded_hex": "11cd4c011cd62451ac",
+    "encoded_hex": "1cd644ed57534a53ac",
+    "old_sha256": "3c7131d33560ad6d164a52ae142e25a3168d738fb658e38e24f1a4896c4b88ad",
+    "new_sha256": "8bc15512ab3ba3f3415450b5f4d8e96c56c2bbb6e47a71c3478c6cb9dd510f0a",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 2392,
+    "position": 1928,
+    "french": "Pas de magie",
+    "previous": "Pas de Magies",
+    "sfc_jp": "じゅもんつかうな",
+    "review": "Tactique sans sorts ; corrige pluriel hérité. SourceJP exacte etfrançaisDS complet ; largeur non augmentée,aucune commande nouvelle. Contexte naturel àvérifier.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 421,
+        "JA_text": "@1じゅもん;つかうな@",
+        "FR_text": "@4Pas de magie@",
+        "JA_sha256": "ef2ea183c6ad5479bc87c9cfa3e9632bc514e56e0fa4f5648822329e5bc27806",
+        "FR_sha256": "84ea523c49bad2f2d89b1b3d47d44e4e7f1b26646f5c6b19fcb9388ed4563c13"
+      }
+    ],
+    "old_encoded_hex": "1fd1cad61c42484adbac",
+    "encoded_hex": "1fd1cad64e42484a46ac",
+    "old_sha256": "c0a9be4541da642682489ff852fe9b88faf14706f619f948e8b6d1e6747eba1c",
+    "new_sha256": "a498a38f061b0712478a74da56d1007f66b358a590136de5c742b7e784aec62e",
+    "old_columns": 13,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION"
+  }
+]

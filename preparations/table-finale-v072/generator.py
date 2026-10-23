@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,re,importlib.util
-O=Path('dq6-fr/v0.72');P=Path('dq6-fr/v0.71');O.mkdir(exist_ok=True)
+O=Path('dq6-fr/v0.72');assert not (O/'manifest.json').exists(),'Version finale déjà sauvegardée : utiliser ses scripts prepare/build/verify, pas le générateur préparatoire.';P=Path('dq6-fr/v0.71');O.mkdir(exist_ok=True)
 sp=importlib.util.spec_from_file_location('b71',P/'common.py');old=importlib.util.module_from_spec(sp);sp.loader.exec_module(old)
 for p in P.glob('*.py'):
  s=p.read_text().replace('v0.71','ZZCURRENTZZ').replace('v0.70','v0.71').replace('ZZCURRENTZZ','v0.72').replace('v071','v072').replace('parent71','parent72').replace('plans71','plans72');(O/p.name).write_text(s)

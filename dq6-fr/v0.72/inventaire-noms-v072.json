@@ -1,0 +1,450 @@
+{
+  "release": "v0.72",
+  "ROM_sha256": "2e0bb8d179b74c8d397a8f29bb2ecfd2787efedee7ea2fc35e09ccfc23916a44",
+  "runtime_SIDs": 2512,
+  "physical_entries": 2048,
+  "aliases": 464,
+  "counts": {
+    "AUTRE_TEXTE_A_REVOIR": 1427,
+    "VIDE_A_QUALIFIER": 41,
+    "FR_DS_IDENTIQUE_A_VERIFIER_EN_CONTEXTE": 8,
+    "CREDIT_RETIRE_CONFORME": 1,
+    "FR_CONFIRME_PROJET": 185,
+    "IDENTIFIANT_NON_TRADUIT": 344,
+    "RESERVE_VIDE_A_TRACER": 1,
+    "STRUCTURE_DYNAMIQUE_WRAM": 35,
+    "SOURCE_JP_OPAQUE_VF_VIDE": 6,
+    "JAPONAIS_DETECTE": 0
+  },
+  "by_region": {
+    "grille_menus": {
+      "physical_entries": 415,
+      "counts": {
+        "AUTRE_TEXTE_A_REVOIR": 231,
+        "VIDE_A_QUALIFIER": 38,
+        "FR_DS_IDENTIQUE_A_VERIFIER_EN_CONTEXTE": 5,
+        "CREDIT_RETIRE_CONFORME": 1,
+        "FR_CONFIRME_PROJET": 40,
+        "IDENTIFIANT_NON_TRADUIT": 100
+      }
+    },
+    "lieux": {
+      "physical_entries": 129,
+      "counts": {
+        "AUTRE_TEXTE_A_REVOIR": 90,
+        "FR_CONFIRME_PROJET": 31,
+        "IDENTIFIANT_NON_TRADUIT": 8
+      }
+    },
+    "monstres_entites": {
+      "physical_entries": 260,
+      "counts": {
+        "FR_CONFIRME_PROJET": 29,
+        "AUTRE_TEXTE_A_REVOIR": 230,
+        "IDENTIFIANT_NON_TRADUIT": 1
+      }
+    },
+    "arene_et_debug": {
+      "physical_entries": 32,
+      "counts": {
+        "VIDE_A_QUALIFIER": 1,
+        "AUTRE_TEXTE_A_REVOIR": 8,
+        "IDENTIFIANT_NON_TRADUIT": 23
+      }
+    },
+    "casino": {
+      "physical_entries": 34,
+      "counts": {
+        "AUTRE_TEXTE_A_REVOIR": 33,
+        "FR_CONFIRME_PROJET": 1
+      }
+    },
+    "menus_titres_monstres": {
+      "physical_entries": 49,
+      "counts": {
+        "IDENTIFIANT_NON_TRADUIT": 15,
+        "AUTRE_TEXTE_A_REVOIR": 23,
+        "FR_CONFIRME_PROJET": 11
+      }
+    },
+    "rangs_vocation": {
+      "physical_entries": 144,
+      "counts": {
+        "AUTRE_TEXTE_A_REVOIR": 122,
+        "FR_CONFIRME_PROJET": 22
+      }
+    },
+    "reserve_technique": {
+      "physical_entries": 40,
+      "counts": {
+        "IDENTIFIANT_NON_TRADUIT": 2,
+        "AUTRE_TEXTE_A_REVOIR": 38
+      }
+    },
+    "sorts_actions": {
+      "physical_entries": 223,
+      "counts": {
+        "AUTRE_TEXTE_A_REVOIR": 131,
+        "FR_CONFIRME_PROJET": 24,
+        "IDENTIFIANT_NON_TRADUIT": 68
+      }
+    },
+    "fragments_descriptions": {
+      "physical_entries": 278,
+      "counts": {
+        "AUTRE_TEXTE_A_REVOIR": 223,
+        "IDENTIFIANT_NON_TRADUIT": 52,
+        "VIDE_A_QUALIFIER": 2,
+        "FR_DS_IDENTIQUE_A_VERIFIER_EN_CONTEXTE": 1
+      }
+    },
+    "objets": {
+      "physical_entries": 220,
+      "counts": {
+        "AUTRE_TEXTE_A_REVOIR": 210,
+        "FR_CONFIRME_PROJET": 10
+      }
+    },
+    "vocations_options": {
+      "physical_entries": 21,
+      "counts": {
+        "AUTRE_TEXTE_A_REVOIR": 13,
+        "FR_CONFIRME_PROJET": 6,
+        "FR_DS_IDENTIQUE_A_VERIFIER_EN_CONTEXTE": 2
+      }
+    },
+    "noms_recrutables": {
+      "physical_entries": 80,
+      "counts": {
+        "FR_CONFIRME_PROJET": 8,
+        "AUTRE_TEXTE_A_REVOIR": 72
+      }
+    },
+    "tactiques": {
+      "physical_entries": 6,
+      "counts": {
+        "FR_CONFIRME_PROJET": 3,
+        "AUTRE_TEXTE_A_REVOIR": 3
+      }
+    },
+    "liste_noms_usage_a_tracer": {
+      "physical_entries": 75,
+      "counts": {
+        "IDENTIFIANT_NON_TRADUIT": 75
+      }
+    },
+    "slots_vides_dynamiques_opaques": {
+      "physical_entries": 42,
+      "counts": {
+        "RESERVE_VIDE_A_TRACER": 1,
+        "STRUCTURE_DYNAMIQUE_WRAM": 35,
+        "SOURCE_JP_OPAQUE_VF_VIDE": 6
+      }
+    }
+  },
+  "candidate_entries_not_validated": 906,
+  "prepared_places_remaining": 2,
+  "inserted_this_pass": 21,
+  "existing_french_reviewed_this_pass": 3,
+  "physical_positions_examined_this_pass": 848,
+  "next_position": 2048,
+  "native_grammar_helpers_previous": 4,
+  "compound_spell_names_previous": 16,
+  "unapproved_native_decode_positions": [
+    48,
+    49,
+    112,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    208,
+    209,
+    283,
+    376,
+    465,
+    479,
+    498,
+    549,
+    554,
+    581,
+    597,
+    622,
+    624,
+    628,
+    639,
+    649,
+    650,
+    651,
+    683,
+    686,
+    696,
+    697,
+    729,
+    750,
+    751,
+    754,
+    755,
+    780,
+    782,
+    803,
+    805,
+    806,
+    807,
+    808,
+    809,
+    810,
+    811,
+    812,
+    836,
+    837,
+    838,
+    839,
+    840,
+    841,
+    842,
+    843,
+    844,
+    845,
+    860,
+    861,
+    1168,
+    1169,
+    1170,
+    1171,
+    1172,
+    1173,
+    1174,
+    1176,
+    1177,
+    1178,
+    1179,
+    1183,
+    1191,
+    1192,
+    1193,
+    1194,
+    1195,
+    1196,
+    1197,
+    1198,
+    1199,
+    1200,
+    1209,
+    1215,
+    1218,
+    1219,
+    1221,
+    1226,
+    1227,
+    1232,
+    1256,
+    1268,
+    1387,
+    1389,
+    1573,
+    1604,
+    1612,
+    1613,
+    1616,
+    1617,
+    1618,
+    1620,
+    1621,
+    1622,
+    1623,
+    1624,
+    1625,
+    1631,
+    1633,
+    1634,
+    1636,
+    1637,
+    1638,
+    1639,
+    1640,
+    1641,
+    1644,
+    1645,
+    1646,
+    1652,
+    1656,
+    1660,
+    1662,
+    1663,
+    1667,
+    1668,
+    1670,
+    1673,
+    1676,
+    1683,
+    1684,
+    1688,
+    1692,
+    1693,
+    1695,
+    1696,
+    1699,
+    1700,
+    1702,
+    1703,
+    1704,
+    1705,
+    1706,
+    1707,
+    1708,
+    1710,
+    1714,
+    1716,
+    1718,
+    1721,
+    1723,
+    1724,
+    1725,
+    1727,
+    1729,
+    1731,
+    1732,
+    1733,
+    1744,
+    1745,
+    1746,
+    1747,
+    1750,
+    1754,
+    1755,
+    1757,
+    1758,
+    1759,
+    1760,
+    1762,
+    1764,
+    1765,
+    1766,
+    1767,
+    1768,
+    1770,
+    1772,
+    1774,
+    1776,
+    1778,
+    1779,
+    1780,
+    1781,
+    1783,
+    1784,
+    1785,
+    1792,
+    1793,
+    1795,
+    1797,
+    1802,
+    1805,
+    1806,
+    1808,
+    1810,
+    1811,
+    1812,
+    1814,
+    1816,
+    1820,
+    1821,
+    1832,
+    1834
+  ],
+  "native_control_positions": [
+    106,
+    107,
+    108,
+    109
+  ],
+  "pointer_groups": 157,
+  "reachable_pool_bytes": 14260,
+  "reachable_pool_offset": 8056832,
+  "name_allocation_limit": 8095491,
+  "legacy_pool_preserved_offset": 3901187,
+  "old_pool_end_reference": 3917586,
+  "uninterpreted_tail_must_not_be_reclaimed": true,
+  "inherited_tail_prefix_consumed_bytes": 0,
+  "restored_tail_bytes": 2050,
+  "table_bound_native_SIDs_checked": 2477,
+  "dynamic_native_SIDs_excluded": 35,
+  "tail_reserve_report": "../v0.65/qa-storage.json",
+  "all_offset_alias_hash_metadata_sha256": "f25e2512e4cf96b2e215723e1fa544ea9360599eb7ef3ed7dc54b4ee7f180186",
+  "width_reference_audit": {
+    "actions": {
+      "reference_width": 9,
+      "entries_checked": 191,
+      "unmapped_skipped": 32,
+      "exceeding_reference_positions": [],
+      "not_a_runtime_window_test": true
+    },
+    "descriptions": {
+      "reference_width": 12,
+      "entries_checked": 275,
+      "unmapped_skipped": 3,
+      "exceeding_reference_positions": [],
+      "not_a_runtime_window_test": true
+    },
+    "menus": {
+      "reference_width": 18,
+      "entries_checked": 125,
+      "unmapped_skipped": 3,
+      "exceeding_reference_positions": [],
+      "not_a_runtime_window_test": true
+    },
+    "lieux": {
+      "reference_width": 20,
+      "entries_checked": 126,
+      "unmapped_skipped": 3,
+      "exceeding_reference_positions": [
+        440,
+        507,
+        511
+      ],
+      "not_a_runtime_window_test": true
+    }
+  },
+  "limits": [
+    "AUTRE includes English,French inherited,proper names and technical labels; language is not inferred automatically.",
+    "No Japanese characters does not prove French.",
+    "Empty entries are not automatically missing; placeholders are explicit unresolved labels.",
+    "Exact DS candidates still need source context,alias,length,command and window review.",
+    "All other resources and natural paths still need exhaustive inventory; these2512 SIDs do not cover all resources.",
+    "Reference widths are documentation thresholds,not measured runtime window bounds."
+  ],
+  "parsed_VF_SIDs": 2512,
+  "runtime_entry_count_proven": false,
+  "source_JP_opaque_SIDs": [
+    2506,
+    2507,
+    2508,
+    2509,
+    2510,
+    2511
+  ],
+  "observed_region_boundaries_reclassified": true,
+  "region_classification_not_a_ROM_change": true
+}
