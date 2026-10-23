@@ -1,0 +1,68 @@
+{
+  "release": "v0.65",
+  "baseline": "v0.64",
+  "new_translations": 0,
+  "reviewed_names": [
+    {
+      "sid": 873,
+      "french": "Céleste",
+      "old_message_sha256": "949c7ce4ee007187baa67f039043831a547af232d368d744afd88c7f0e37319c",
+      "new_message_sha256": "fa471e0df1d3de32888be570068f57f907c93d07161149475cc61fa3f2a2def8",
+      "old_encoded_hex": "122d4d46545546ac",
+      "new_encoded_hex": "122de2f546ac",
+      "saved_bytes": 2,
+      "status": "STOCKAGE_EQUIVALENT_SANS_NOUVELLE_TRADUCTION",
+      "review": "Compression DTE existante, aucun changement de texte, glyphe, sélection, variable ou commande. Réserve tail héritée v061 traitée séparément et explicitement."
+    },
+    {
+      "sid": 874,
+      "french": "Braséria",
+      "old_message_sha256": "bfce95181969d270f3a9416f8c2ba43e2668cf790e3e3c8c80f897d4fbb60eef",
+      "new_message_sha256": "e5567a5f6eefd19610c1edb963bd4ea6d1518d1defcb7738818153eb486d283d",
+      "old_encoded_hex": "115342542d534a42ac",
+      "new_encoded_hex": "11ef542d534a42ac",
+      "saved_bytes": 1,
+      "status": "STOCKAGE_EQUIVALENT_SANS_NOUVELLE_TRADUCTION",
+      "review": "Compression DTE existante, aucun changement de texte, glyphe, sélection, variable ou commande. Réserve tail héritée v061 traitée séparément et explicitement."
+    },
+    {
+      "sid": 2309,
+      "french": "Olivier",
+      "old_message_sha256": "3f786d2d75187623077bbda26ee328f487554f520d9e870ee4f22e484359b5a8",
+      "new_message_sha256": "b1b02ab27bd3a0945ad42f2f96f342346dd56e343f02ff02f90a86a139450ab7",
+      "old_encoded_hex": "1e4d4a574a4653ac",
+      "new_encoded_hex": "1e4d4a574adaac",
+      "saved_bytes": 1,
+      "status": "STOCKAGE_EQUIVALENT_SANS_NOUVELLE_TRADUCTION",
+      "review": "Compression DTE existante, aucun changement de texte, glyphe, sélection, variable ou commande. Réserve tail héritée v061 traitée séparément et explicitement."
+    },
+    {
+      "sid": 2311,
+      "french": "Francis",
+      "old_message_sha256": "0c45e23322e580b207e99982a2994917eb663c1e08f54bce0e79308c8ca42eca",
+      "new_message_sha256": "1e29c3ef731472cee7ec7199039c86a4b98a2044df89b6df84ca72a39ec42bb4",
+      "old_encoded_hex": "1553424f444a54ac",
+      "new_encoded_hex": "15ef4f44e0ac",
+      "saved_bytes": 2,
+      "status": "STOCKAGE_EQUIVALENT_SANS_NOUVELLE_TRADUCTION",
+      "review": "Compression DTE existante, aucun changement de texte, glyphe, sélection, variable ou commande. Réserve tail héritée v061 traitée séparément et explicitement."
+    },
+    {
+      "sid": 2312,
+      "french": "Laura",
+      "old_message_sha256": "6d1542ccf16a8c3633674985fd3bc3a17ef64b34e9ec15b5441f7e68ae9ff5d8",
+      "new_message_sha256": "0e75fb61c0db004c35f0f206a963ff88d422b972df0fc521706e1206f600f4b0",
+      "old_encoded_hex": "1b42565342ac",
+      "new_encoded_hex": "1b4256efac",
+      "saved_bytes": 1,
+      "status": "STOCKAGE_EQUIVALENT_SANS_NOUVELLE_TRADUCTION",
+      "review": "Compression DTE existante, aucun changement de texte, glyphe, sélection, variable ou commande. Réserve tail héritée v061 traitée séparément et explicitement."
+    }
+  ],
+  "saved_bytes": 7,
+  "restored_tail_bytes": 2050,
+  "pointer_groups": 157,
+  "mirrors": 2,
+  "all2512_expanded_streams_identical": true,
+  "protected_main_battle_engine_font_dictionary_unchanged": true
+}

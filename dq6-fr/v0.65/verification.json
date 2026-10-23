@@ -1,0 +1,32 @@
+{
+  "release": "v0.65",
+  "ROM_sha256": "569c668fb9dd6cf510500d8953317f087c379134cf2326da1566049210db160f",
+  "new_translations": 0,
+  "packed_name_SIDs_changed": [
+    873,
+    874,
+    2309,
+    2311,
+    2312
+  ],
+  "all2512_expanded_byte_streams_identical": true,
+  "physical_names": 2048,
+  "aliases_preserved": 464,
+  "reachable_name_bytes": 14349,
+  "old_tail_bytes_restored_exactly": 2050,
+  "old_tail_restored_in_both_copies": true,
+  "inherited_overwritten_prefix_recovered": 7,
+  "battle_messages608_byte_identical": true,
+  "main_groups870_byte_identical": true,
+  "main_selections6957_unchanged": true,
+  "engine_font_dictionary_and_protected_bytes_identical": true,
+  "BPS_reapplied": true,
+  "IPS_reapplied": true,
+  "bad_sources_rejected": [
+    "modified_JP",
+    "copier_header"
+  ],
+  "recipe_idempotent": true,
+  "all_runtime_contexts_validated": false,
+  "natural_validation": false
+}

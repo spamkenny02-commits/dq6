@@ -1,3 +1,11 @@
+# Reprise v0.65 — chevauchement des noms corrigé, zéro nouvelle traduction
+
+Lire dq6-fr/v0.65/README.md,qa-storage.json,delta et rapports. Reprendre le BPSv065 sur JP intacte. Cinq noms existants sont recomprimés avec le dictionnaire existant :7octets récupérés et fin de table2050octets restaurée à l’identique depuisv060 dans les deux copies.2048physiques/464alias,2512flux développés identiques ; principal et608emplacements combat inchangés. Ne pas recompter ces cinq noms comme traductions ou relecture exhaustive.
+
+Snes9x :2477SIDs lus entièrement avec pointeurs ;35SIDs09A7..09C9 détournés versWRAM parC44FDF,donc exclus du test de table. MutationSID16 détectée. Lecteurs terrain etB2 des cinq noms identiques avant/après ;10dialogues diagnostiques,5comparaisons pixels et noms relus. Bus6513plages etJournal à froid. Aucun parcours naturel ou menu compact validé. La sémantique du tail reste inconnue : conserver intégralement0x3BBF10..0x3BC712.
+
+Principal6957sélections (6948linguistiques,9structures),combat597qualifiés/2préparés27/277/5opaques603–607/4structures ; noms39confirmés/25candidatsFRàrelire/344identifiants/1556autres/83videsàqualifier/1créditretiré.25lieuxpréparés,4aides,16compositions inchangés. Relecture exhaustive0. Reprendre tables,ambiguïtés et audits hérités,naturels inclus.8Mio. Protéger pool combat et moteurv061 dans toute allocation.
+
 # Reprise v0.64 — 11 compositions/contrôles combat et réserve héritée des noms
 
 597 entrées combat qualifiées ;2libellés techniques27/277 préparés non insérés inclus dans le reliquat,5emplacements VF603–607 hors frontière JP,4structures.11entrées intégrées :5anglais traduits,6français corrigés,dont9fragments. Lire dq6-fr/v0.64/README.md,revue,delta,bindings et QA. Tester les fragments en composition,conserver+0C et les AC source restaurés de61/63/64.36scénarios positifs,1négatifC6,lecteurs,bus,démarrage et patchs vérifiés ; aucun parcours naturel déclaré.

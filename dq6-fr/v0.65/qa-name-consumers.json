@@ -1,0 +1,51 @@
+{
+  "release": "v0.65",
+  "ROM_sha256": "569c668fb9dd6cf510500d8953317f087c379134cf2326da1566049210db160f",
+  "field_consumer": "C3763A, actual JSL including C0315E/C031DB and C376F2",
+  "B2_consumer": "C6FDF0, actual JSL including C0315E/C031DB and existing DTE dictionary",
+  "rows": [
+    {
+      "sid": 873,
+      "native_field_glyphs_checked": 7,
+      "native_B2_glyphs_checked": 7,
+      "field_tilemap_sha256": "cd183d2267b86da713f4d7cd2d69cf2a267878764f40755bdf066cf7be859fa8",
+      "B2_buffer_sha256": "91159130ee52111fa250dd445c223deecc2697e51e6dd902b16012364ed0749a",
+      "before_after_identical": true
+    },
+    {
+      "sid": 874,
+      "native_field_glyphs_checked": 8,
+      "native_B2_glyphs_checked": 8,
+      "field_tilemap_sha256": "04bcd51ad4a67e593226b8322c1064b397076ed1b8f33b50f83036d254943388",
+      "B2_buffer_sha256": "3503b4937f7d6162dff23ac722651e024e70ee10b464bfc6d5e32b822edda818",
+      "before_after_identical": true
+    },
+    {
+      "sid": 2309,
+      "native_field_glyphs_checked": 7,
+      "native_B2_glyphs_checked": 7,
+      "field_tilemap_sha256": "2508cddcd091491699b04f28526ba167bb27c739990934001edde1a831d5ea51",
+      "B2_buffer_sha256": "c6424cf040e67d2393a76abb403291b9687f2ff528a0f02138f94e59f11854cd",
+      "before_after_identical": true
+    },
+    {
+      "sid": 2311,
+      "native_field_glyphs_checked": 7,
+      "native_B2_glyphs_checked": 7,
+      "field_tilemap_sha256": "5e3b51e7d23345ef854e380e8a32b9ab541143006bbea1cc51d605efb853ce77",
+      "B2_buffer_sha256": "8f58c95ed3af09c56292719a2ebd164c2bc11612f421e737453019e286dcd541",
+      "before_after_identical": true
+    },
+    {
+      "sid": 2312,
+      "native_field_glyphs_checked": 5,
+      "native_B2_glyphs_checked": 5,
+      "field_tilemap_sha256": "c8b01c2acc061d2e3667c2f983d556fdab0934ce233b9a9ba577fd1778df103f",
+      "B2_buffer_sha256": "e9184a2bfb27a9e3cd0999f9c6e567e9e9571b59c092bb1ea3f6e1e3687fd20b",
+      "before_after_identical": true
+    }
+  ],
+  "all_five_changed_encodings_checked": true,
+  "natural_validation": false,
+  "limits": "Private CPU redirection from camp. Dynamic SID branch09A7..09C9 and other natural menu paths not validated; no renderer code modified."
+}

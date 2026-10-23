@@ -1,0 +1,53 @@
+{
+  "release": "v0.65",
+  "ROM_sha256": "569c668fb9dd6cf510500d8953317f087c379134cf2326da1566049210db160f",
+  "diagnostic_dialogues": 10,
+  "changed_name_encodings_checked": 5,
+  "B2_lookups_per_dialogue": 3,
+  "rows": [
+    {
+      "sid": 873,
+      "screenshot_sha256": "d05ee2235886cca992bceee89be83c94bf8fa09793a846416301303de2adbaac",
+      "before_after_pixels_identical": true
+    },
+    {
+      "sid": 874,
+      "screenshot_sha256": "621c7a5c02365f9e450956b7a2dc47e21ccb0d4fb4162429cfb160c2210f86e4",
+      "before_after_pixels_identical": true
+    },
+    {
+      "sid": 2309,
+      "screenshot_sha256": "567e213cc6625ca239c630c964e71759cbfa9b5a7be20d2d6d50cde2d0e048a9",
+      "before_after_pixels_identical": true
+    },
+    {
+      "sid": 2311,
+      "screenshot_sha256": "2c41a8d0dab01b818efdf16cbf8e16c18e01816769c65bf89633a9628e670782",
+      "before_after_pixels_identical": true
+    },
+    {
+      "sid": 2312,
+      "screenshot_sha256": "fbe21b4c44d70c4b119dca212e8b032a41516208e81764237086359d5fc14bc4",
+      "before_after_pixels_identical": true
+    }
+  ],
+  "natural_validation": false,
+  "limits": "Three repeated main-dialogue B2 lookups per name at camp. No party recruitment, natural battle or native compact menu coverage. Visual review is recorded separately.",
+  "visual_review": {
+    "reviewed_sids": [
+      873,
+      874,
+      2309,
+      2311,
+      2312
+    ],
+    "observed_names": [
+      "Céleste",
+      "Braséria",
+      "Olivier",
+      "Francis",
+      "Laura"
+    ],
+    "result": "Five names fully legible in three repeated lines; é preserved. Diagnostic only."
+  }
+}

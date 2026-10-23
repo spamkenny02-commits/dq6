@@ -1,5 +1,5 @@
 {
-  "release": "v0.64",
+  "release": "v0.65",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
@@ -18,7 +18,7 @@
     ],
     "release_lot_additions": 0
   },
-  "baseline": "v0.63",
+  "baseline": "v0.64",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 25,
@@ -31,7 +31,7 @@
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.64",
+    "inventory_version": "v0.65",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
@@ -44,16 +44,18 @@
     "native_grammar_helpers_adapted": 4,
     "prepared_character_names": 0,
     "new_prepared_this_checkpoint": 0,
-    "inventory": "dq6-fr/v0.64/inventaire-noms-v064.json",
+    "inventory": "dq6-fr/v0.65/inventaire-noms-v065.json",
     "explicit_identifier_placeholders": 344,
     "physical_other_texts_unqualified": 1556,
     "empty_entries_to_qualify": 83,
     "DS_exact_French_candidates_not_qualified": 25,
-    "inherited_tail_consumed_bytes_to_audit": 7
+    "inherited_tail_consumed_bytes_to_audit": 0,
+    "storage_adaptations_this_pass": 5,
+    "restored_preserved_tail_bytes": 2050
   },
   "rom_bytes": 8388608,
-  "notes": "v0.64 :11 entrées combat intégrées (5anglais traduits,6français corrigés,dont9fragments).597qualifiées ;2libellés techniques préparés non insérés inclus dans le reliquat,5emplacements hors sourceJP,4structures. Réserve héritée v061 :7octets de tail noms recouverts,dont4modifiés ; blocage à auditer sans correction silencieuse.",
-  "next": "Reprendre v0.64. Tracer27/277 avant insertion des2préparations. Auditer5slots603–607 et les7octets du tail noms consommés en v061. Continuer autres tables,inventaire exhaustif,relecture et scènes naturelles. Ne pas recycler les11IDs.",
+  "notes": "v0.65 : correction isolée du chevauchement tail hérité.5 encodages de noms recomprimés,7octets récupérés,2050octets préservés restaurés en deux copies.0nouvelle traduction,comptes linguistiques inchangés. Lecteurs2477SIDs;35SIDs dynamiques exclus. Diagnostics field/B2 et10captures avant/après;bus6513plages,Journal à froid. Autres tables,relecture exhaustive et audits naturels ouverts.",
+  "next": "Reprendre v0.65. Tracer27/277 avant insertion; auditer5slots603–607. Préserver intégralement le tail restauré. Continuer tables,inventaire exhaustif,relecture suivie et scènes naturelles. Ne pas recompter les cinq adaptations de stockage.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -84,18 +86,18 @@
   ],
   "proofreading": {
     "exhaustive_pass_completed": false,
-    "reviewed_this_translation_pass": 13,
+    "reviewed_this_translation_pass": 0,
     "translation_reviews_not_a_full_reread": true,
     "full_main_reread_recorded": 0,
-    "new_battle_integrated_from_review": 11,
+    "new_battle_integrated_from_review": 0,
     "battle_review_deferred_ids": [
       27,
       277
     ],
     "compound_spell_labels_reviewed_this_checkpoint": 0,
-    "inherited_battle_english_translated": 5,
-    "inherited_battle_french_corrected": 6,
-    "composition_fragments_reviewed": 9,
+    "inherited_battle_english_translated": 0,
+    "inherited_battle_french_corrected": 0,
+    "composition_fragments_reviewed": 0,
     "source_boundary_audit_ids": [
       603,
       604,
@@ -103,7 +105,8 @@
       606,
       607
     ],
-    "new_prepared_technical_labels": 2
+    "new_prepared_technical_labels": 0,
+    "storage_adaptations_checked_this_checkpoint": 5
   },
   "separate_battle_pool": {
     "runtime_entries": 608,
@@ -113,7 +116,7 @@
     "own_identifier_placeholders": 0,
     "inherited_texts_not_context_reviewed": 2,
     "project_french_context_reviewed": 597,
-    "new_translations_this_audit": 5,
+    "new_translations_this_audit": 0,
     "inventory": "dq6-fr/v0.64/inventaire-combat-v064.json",
     "not_in_main_6957": true,
     "prepared_not_inserted": 2,
@@ -122,12 +125,12 @@
       27,
       277
     ],
-    "with_explicit_DS_references": 11,
+    "with_explicit_DS_references": 0,
     "direct_SFC_without_established_DS": 0,
-    "new_integrated_this_checkpoint": 11,
+    "new_integrated_this_checkpoint": 0,
     "preparation": "dq6-fr/v0.64/prepares-non-inseres.json",
     "codec_approved": false,
-    "strict_candidate_roundtrip": 11,
+    "strict_candidate_roundtrip": 0,
     "codec_report": "tools/combat-v058/qa-codec.json",
     "native_render_accepted": 597,
     "native_reader_IDs_verified": 608,
@@ -621,12 +624,14 @@
     "source_JP_outside_pool_audit": 5,
     "source_boundary_report": "dq6-fr/v0.63/audit-frontiere-source.json"
   },
-  "checkpoint": "combat-v072-v064",
+  "checkpoint": "stockage-noms-v065",
   "blocking_inherited_name_tail": {
-    "report": "dq6-fr/v0.64/audit-tail-noms-herite.json",
+    "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",
     "consumed_prefix_bytes": 7,
     "changed_byte_count": 4,
-    "resolved": false
+    "resolved": true,
+    "resolution_scope": "Overlap repaired,2050 original bytes preserved in both mirrors. Tail semantics/other natural consumers not claimed identified.",
+    "restored_prefix_bytes": 7
   }
 }
