@@ -1,3 +1,9 @@
+# Reprise v0.71 — lot800–1199
+
+Lire dq6-fr/v0.71/README.md,registre0800–1199,revue,delta,révisions héritées etQA.32libellés modifiés :17traductions/15révisionsFR ;Bang1109 relu sansmodification ;80propositions noninsérées.1200positions consignées/2048,161FRqualifiés,pas1200traductions. Prochainlot1200–1599,puis1600–1999,2000–2047 ;revenir ensuite aux réserves. Ne pas recycler ce lot.
+
+Tableactive7AF000 de14282octets,capacitéprotégéejusqu’à7B8703,combat etmoteur ;lecteurv068+obligatoire.331propositionsnoms cumulées,2lieux438/479 distincts. Glyphespoker,compositionscasino etrangsgenrés différés. Principal/combat inchangés,relectureexhaustive0. Diagnostics terrain/B2 distincts desfenêtresnaturelles ;aucun audit principal clôturé.
+
 # Reprise v0.70 — lot400–799 des2048positions
 
 Lire dq6-fr/v0.70/README.md,registre0400–0799,revue,delta etQA.28nomsmonstres intégrés,216propositionsDS PREPARE_NON_INSERE,32anciensFR conservés.800positions consignées/2048,128FRqualifiés ;pas800traductions. Prochainlot800–1199,puis1200–1599,1600–1999,2000–2047. Ne pas recycler ces28noms ni les revuesprécédentes.

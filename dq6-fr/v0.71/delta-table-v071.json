@@ -1,0 +1,226 @@
+[
+  {
+    "position": 866,
+    "before": "Recompenses",
+    "after": "Gagnés",
+    "reason": "かくとく : jetons gagnés au casino, en-tête Gagnés DS, pas la commande de mise. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 901,
+    "before": "Slime Knight",
+    "after": "monte-gluant",
+    "reason": "スライムナイト : monte-gluant ; cohérent avec601 déjà traduit, libellé de monstre recruté, distinct du métallique. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 903,
+    "before": "Dark Horn",
+    "after": "cerbélier",
+    "reason": "ダークホーン : cerbélier, distinct des autres béliers ; nom DS de cette espèce. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 904,
+    "before": "Mage du Vent",
+    "after": "rafaltou",
+    "reason": "ウインドマージ : rafaltou, nom officiel de cette espèce, pas un grade de mage humain. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 905,
+    "before": "Lamp Demon",
+    "after": "djinn-fizz",
+    "reason": "ランプのまおう : djinn-fizz, distinct du cumulogénieランプのまじん. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 907,
+    "before": "Battle Rex",
+    "after": "hachosaure",
+    "reason": "バトルレックス : hachosaure, distinct du tyrantosaure et de Braséria874. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 908,
+    "before": "Boss Troll",
+    "after": "chef troll",
+    "reason": "ボストロール : chef troll, distinct du troll ordinaire et du gigatroll. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 912,
+    "before": "King Slime",
+    "after": "roi gluant",
+    "reason": "キングスライム : roi gluant, distinct des rois de métal et guérigluants. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 913,
+    "before": "Super Tensk",
+    "after": "limassif",
+    "reason": "スーパーテンツク : limassif ; cohérent avec589 déjà traduit. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 914,
+    "before": "Rotting Corpse",
+    "after": "mort-vivant",
+    "reason": "くさったしたい : mort-vivant, nom de cette espèce, distinct du macchab. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 922,
+    "before": "Veteran",
+    "after": "Vétéran",
+    "reason": "ベテラン : Vétéran, rang de guerrier4 ; accent et même libellé dans les deux variantes DS. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 927,
+    "before": "Ceinture Blanche",
+    "after": "Ceinture blanche",
+    "reason": "まきわり : rang1 arts martiaux. Localisation DS Ceinture blanche ; normalisation de la minuscule après Ceinture, pas une nouvelle notion. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 928,
+    "before": "Ceinture Orange",
+    "after": "Ceinture jaune",
+    "reason": "しろおび : rang2 arts martiaux. La progression localisée DS donne Ceinture jaune, et non Orange hérité ; vérifiée dans la séquence32–39. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 929,
+    "before": "Ceinture Jaune",
+    "after": "Ceinture verte",
+    "reason": "しょだん : rang3 arts martiaux. Ceinture verte DS, et non Jaune hérité ; localisation de la progression32–39. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 931,
+    "before": "Ceinture Marron",
+    "after": "Ceinture noire",
+    "reason": "しはんだい : rang5 arts martiaux. Ceinture noire DS, et non Marron hérité ; progression32–39. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 946,
+    "before": "Pretre",
+    "after": "Moine",
+    "reason": "しさい : rang3 prêtre, Moine dans la progression DS48–55, distinct deそうじょう/rang5. Pas une traduction générique du titre religieux isolé. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 947,
+    "before": "Ministre",
+    "after": "Pasteur",
+    "reason": "こうしさい : rang4 prêtre, Pasteur dans DS48–55 ; remplace Ministre hérité. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 957,
+    "before": "Assassin",
+    "after": "Parrain",
+    "reason": "おやぶん : rang7 voleur, Parrain DS64–71, pas Assassin. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 962,
+    "before": "Stocker",
+    "after": "Camelot",
+    "reason": "ばんとう : rang4 marchand, Camelot DS80–87, pas Stocker anglais. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 965,
+    "before": "Grand Echangeur",
+    "after": "Magnat",
+    "reason": "おおだんな : rang7 marchand, Magnat DS80–87, distinct du Courtier et Homme d’affaires. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 974,
+    "before": "Super Joueur",
+    "after": "Prodige",
+    "reason": "あそびのてつじん : rang8 vadrouilleur, Prodige DS88–95, pas le nom de vocation. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 991,
+    "before": "Juniorweight",
+    "after": "Poids mouche",
+    "reason": "ジュニアきゅう : rang1 gladiateur, Poids mouche DS96–103 ; localisation de la catégorie sportive, pas Juniorweight littéral. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 993,
+    "before": "Lightweight",
+    "after": "Poids léger",
+    "reason": "ライトきゅう : rang3 gladiateur, Poids léger DS96–103. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 995,
+    "before": "Poids Lourd",
+    "after": "Poids moyen",
+    "reason": "ヘビーきゅう : rang5 gladiateur. DS96–103 localise Poids moyen ; ne pas déduire Poids lourd du seul mot anglais Heavy. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 1006,
+    "before": "Force Road",
+    "after": "Mastodonte",
+    "reason": "フォースロード : rang8 armagicien, Mastodonte DS104–111, pas Force Road littéral. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 1018,
+    "before": "High Bishop",
+    "after": "Philosophe",
+    "reason": "ハイビショップ : rang4 sage, Philosophe DS120–127 ; pas un grade ecclésiastique isolé. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 1019,
+    "before": "Wizard",
+    "after": "Génie",
+    "reason": "ウィザード : rang5 sage, Génie DS120–127, distinct du rang Sorcier de mage. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 1022,
+    "before": "Grand Mage",
+    "after": "Oracle",
+    "reason": "スペルエンペラー : rang8 sage, Oracle DS120–127 ; remplace Grand Mage hérité. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 1028,
+    "before": "Performer",
+    "after": "Vedette",
+    "reason": "えんぎは : rang6 sommité, Vedette DS136–143 ; désigne le rang et non une action. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 1029,
+    "before": "Prize Winner",
+    "after": "Star",
+    "reason": "アカデミーしょう : rang7 sommité, Star DS136–143 ; localisation du rang, pas la récompense Prize Winner. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  },
+  {
+    "position": 1030,
+    "before": "Star de Cinema",
+    "after": "Légende",
+    "reason": "シネマのほし : rang8 sommité, Légende DS136–143 ; accent et titre officiel. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "REVISION_FR_EXISTANT"
+  },
+  {
+    "position": 1047,
+    "before": "Dragonfly",
+    "after": "Libellule",
+    "reason": "ドラゴンフライ : rang1 dragon, Libellule DS152–159 ; ne pas confondre avec une espèce de monstre hors de cette progression. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+    "type": "TRADUCTION"
+  }
+]

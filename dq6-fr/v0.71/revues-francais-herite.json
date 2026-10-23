@@ -1,0 +1,514 @@
+{
+  "count": 15,
+  "scope": "Corrections isolées des noms/rangs du lot ; aucun audit du script principal clôturé.",
+  "rows": [
+    {
+      "sid": 866,
+      "position": 866,
+      "french": "Gagnés",
+      "previous": "Recompenses",
+      "sfc_jp": "かくとく",
+      "review": "かくとく : jetons gagnés au casino, en-tête Gagnés DS, pas la commande de mise. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+          "id": 852,
+          "JA_text": "@1かくとく@",
+          "FR_text": "@4Gagnés@",
+          "JA_sha256": "164b110c4ac94b6e63a1a900144c766db9ae692bc18f854a706c16e714124219",
+          "FR_sha256": "8b2df2adbab73ba32911c5aa3b59db3f62666e4c47d455d08caeb934b4f65075"
+        }
+      ],
+      "old_encoded_hex": "214644504e51464f54dbac",
+      "encoded_hex": "1642484f2d54ac",
+      "old_sha256": "cbcd3c529a424c6af3e410dadebd3b9177fe1cddfd6c1596416a5b85165ce138",
+      "new_sha256": "6fbd17395c27b5e9cf3029cc50e9c964c8a962e1d0455fad88d80fe6f8f3c2cb",
+      "old_columns": 11,
+      "new_columns": 6,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 904,
+      "position": 904,
+      "french": "rafaltou",
+      "previous": "Mage du Vent",
+      "sfc_jp": "ウインドマージ",
+      "review": "ウインドマージ : rafaltou, nom officiel de cette espèce, pas un grade de mage humain. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+          "id": 74,
+          "JA_text": "@1ウインド;マージ@",
+          "FR_text": "@0M@2le @3un @4rafaltou@5les @6des @7rafaltous@8N@9N@",
+          "JA_sha256": "8b92a78f6dbd6177737ba53b56d2a677933bc1f992c80c91d922e45c3d372e61",
+          "FR_sha256": "e1bae65adb5893e97da97830f10a195abcb786cf9fb882e1252cdb6ebfc612f5"
+        }
+      ],
+      "old_encoded_hex": "1c4248d64556012546e7ac",
+      "encoded_hex": "ef47424d55edac",
+      "old_sha256": "f1edca32980b7d03a90e12b4f202f0fa00399804f8f82fb7bc03e0f4427786a0",
+      "new_sha256": "6364bfaf18e1e59230974b27f8b448da93cdbeebb537da231e850899ab803410",
+      "old_columns": 12,
+      "new_columns": 8,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 922,
+      "position": 922,
+      "french": "Vétéran",
+      "previous": "Veteran",
+      "sfc_jp": "ベテラン",
+      "review": "ベテラン : Vétéran, rang de guerrier4 ; accent et même libellé dans les deux variantes DS. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 27,
+          "JA_text": "@1ベテラン@",
+          "FR_text": "@1Vétéran@",
+          "JA_sha256": "bf9d54c3d39ab8fa2f43dcd232ef6f1bb3378ed239ef196910deb0a20b9ad7f8",
+          "FR_sha256": "551fe54f4c1db1b27082ee7cffbaee3a31b5a39b1eda2b9453e25ba8e0f5e751"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 227,
+          "JA_text": "@1ベテラン@",
+          "FR_text": "@1Vétéran@",
+          "JA_sha256": "bf9d54c3d39ab8fa2f43dcd232ef6f1bb3378ed239ef196910deb0a20b9ad7f8",
+          "FR_sha256": "551fe54f4c1db1b27082ee7cffbaee3a31b5a39b1eda2b9453e25ba8e0f5e751"
+        }
+      ],
+      "old_encoded_hex": "2546f8ef4fac",
+      "encoded_hex": "252d552def4fac",
+      "old_sha256": "1b6ff471e21e0a34c3820990f1f14b78f937a937130b58de80766bc7e70befc1",
+      "new_sha256": "4bd59672ab772607c0018a4de3080a38520e139ca0ab7936ade03af7c21d413f",
+      "old_columns": 7,
+      "new_columns": 7,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 927,
+      "position": 927,
+      "french": "Ceinture blanche",
+      "previous": "Ceinture Blanche",
+      "sfc_jp": "まきわり",
+      "review": "まきわり : rang1 arts martiaux. Localisation DS Ceinture blanche ; normalisation de la minuscule après Ceinture, pas une nouvelle notion. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 32,
+          "JA_text": "@1まきわり@",
+          "FR_text": "@1Ceinture blanche@",
+          "JA_sha256": "91bfba55601306a636841915e2a4432f4d66b36c8d709cc65fe03a9d6a30cb12",
+          "FR_sha256": "a0db2baaa547a7bd730b2d68c477375641c56bdf229084a83d067c413831602d"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 232,
+          "JA_text": "@1まきわり@",
+          "FR_text": "@1Ceinture blanche@",
+          "JA_sha256": "91bfba55601306a636841915e2a4432f4d66b36c8d709cc65fe03a9d6a30cb12",
+          "FR_sha256": "a0db2baaa547a7bd730b2d68c477375641c56bdf229084a83d067c413831602d"
+        }
+      ],
+      "old_encoded_hex": "1246df5556f001114dcfd446ac",
+      "encoded_hex": "1246df5556f001434dcfd446ac",
+      "old_sha256": "3ee4f3d9ff1d1d1bfe46e6d9f625ce41ad8b5da3a0bf650579dbae5722c63bb6",
+      "new_sha256": "14b134a2a9b2631a089af3ab722b4739c01d61701f81af67fabddb886619e976",
+      "old_columns": 16,
+      "new_columns": 16,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 928,
+      "position": 928,
+      "french": "Ceinture jaune",
+      "previous": "Ceinture Orange",
+      "sfc_jp": "しろおび",
+      "review": "しろおび : rang2 arts martiaux. La progression localisée DS donne Ceinture jaune, et non Orange hérité ; vérifiée dans la séquence32–39. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 33,
+          "JA_text": "@1しろおび@",
+          "FR_text": "@1Ceinture jaune@",
+          "JA_sha256": "29146185760c37a92fa702372fcae55e4e36b3d8fff63288b103a4a150d1d668",
+          "FR_sha256": "85f45930bb8b27d018ad54c754ffeecf9298e29fb515759ae44b276d95752de8"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 233,
+          "JA_text": "@1しろおび@",
+          "FR_text": "@1Ceinture jaune@",
+          "JA_sha256": "29146185760c37a92fa702372fcae55e4e36b3d8fff63288b103a4a150d1d668",
+          "FR_sha256": "85f45930bb8b27d018ad54c754ffeecf9298e29fb515759ae44b276d95752de8"
+        }
+      ],
+      "old_encoded_hex": "1246df5556f0011eef4f4846ac",
+      "encoded_hex": "1246df5556f0014b42564f46ac",
+      "old_sha256": "42598f56997e73ed9ce656a88102797480b1e09dc70880db53706654a38e8232",
+      "new_sha256": "3a33d69e4cfc82ab1ec31e925b1214b83feaaa41af50e2d569fe39a2c264d4a9",
+      "old_columns": 15,
+      "new_columns": 14,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 929,
+      "position": 929,
+      "french": "Ceinture verte",
+      "previous": "Ceinture Jaune",
+      "sfc_jp": "しょだん",
+      "review": "しょだん : rang3 arts martiaux. Ceinture verte DS, et non Jaune hérité ; localisation de la progression32–39. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 34,
+          "JA_text": "@1しょだん@",
+          "FR_text": "@1Ceinture verte@",
+          "JA_sha256": "1a12090bdda578bfc777e4b126500acf253f7f154bc7917342e6af4151b24459",
+          "FR_sha256": "978d0b4c5b63c522b49ef1eb11b1743a8a4fe7ea758575a58a4f51a6a1115e60"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 234,
+          "JA_text": "@1しょだん@",
+          "FR_text": "@1Ceinture verte@",
+          "JA_sha256": "1a12090bdda578bfc777e4b126500acf253f7f154bc7917342e6af4151b24459",
+          "FR_sha256": "978d0b4c5b63c522b49ef1eb11b1743a8a4fe7ea758575a58a4f51a6a1115e60"
+        }
+      ],
+      "old_encoded_hex": "1246df5556f0011942564f46ac",
+      "encoded_hex": "1246df5556f00157daf8ac",
+      "old_sha256": "54fc4794c445ed2b7a09d2b9dbdd3259ce51da9c96d230c1d862e387fde1f6fd",
+      "new_sha256": "abd82134561354a041856fbf38837e0604f1257e4e521148ab5054221cfab47e",
+      "old_columns": 14,
+      "new_columns": 14,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 931,
+      "position": 931,
+      "french": "Ceinture noire",
+      "previous": "Ceinture Marron",
+      "sfc_jp": "しはんだい",
+      "review": "しはんだい : rang5 arts martiaux. Ceinture noire DS, et non Marron hérité ; progression32–39. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 36,
+          "JA_text": "@1しはんだい@",
+          "FR_text": "@1Ceinture noire@",
+          "JA_sha256": "92bae0fd923663ca4f0a72c9433e09927ba7c07066b60677bf4d1558b86445ca",
+          "FR_sha256": "bd42ec9d9b93f0b283310315002a9aa0b74e4fab20b31e44a0604ba5f6150272"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 236,
+          "JA_text": "@1しはんだい@",
+          "FR_text": "@1Ceinture noire@",
+          "JA_sha256": "92bae0fd923663ca4f0a72c9433e09927ba7c07066b60677bf4d1558b86445ca",
+          "FR_sha256": "bd42ec9d9b93f0b283310315002a9aa0b74e4fab20b31e44a0604ba5f6150272"
+        }
+      ],
+      "old_encoded_hex": "1246df5556f0011cd0f14fac",
+      "encoded_hex": "1246df5556f001e64af0ac",
+      "old_sha256": "3606443d70985551a7207136814be8812075a96fcf1caaba097735eb2057c80e",
+      "new_sha256": "9484ac251d170214c14fdfa46ac1aeb6c43772833a93e48646251c9abe497a98",
+      "old_columns": 15,
+      "new_columns": 14,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 946,
+      "position": 946,
+      "french": "Moine",
+      "previous": "Pretre",
+      "sfc_jp": "しさい",
+      "review": "しさい : rang3 prêtre, Moine dans la progression DS48–55, distinct deそうじょう/rang5. Pas une traduction générique du titre religieux isolé. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 51,
+          "JA_text": "@1しさい@",
+          "FR_text": "@1Moine@",
+          "JA_sha256": "461d7f561358a3134b6225f47795b487461614be54d1f2824704276a5054deae",
+          "FR_sha256": "17ced44e9d4c8c2172ce4c618477f6329ba87db6885ae5c2a635a7b105de1b05"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 251,
+          "JA_text": "@1しさい@",
+          "FR_text": "@1Moine@",
+          "JA_sha256": "461d7f561358a3134b6225f47795b487461614be54d1f2824704276a5054deae",
+          "FR_sha256": "17ced44e9d4c8c2172ce4c618477f6329ba87db6885ae5c2a635a7b105de1b05"
+        }
+      ],
+      "old_encoded_hex": "1ff055f0ac",
+      "encoded_hex": "1ce94f46ac",
+      "old_sha256": "5963a832dc41d5fc4e808e35feac8cf2f40f4c2b4322511a775a2740aebcc973",
+      "new_sha256": "4cfd57702fb848be4a047767cca17cd8071b70130dde837232485f21ad211e1e",
+      "old_columns": 6,
+      "new_columns": 5,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 947,
+      "position": 947,
+      "french": "Pasteur",
+      "previous": "Ministre",
+      "sfc_jp": "こうしさい",
+      "review": "こうしさい : rang4 prêtre, Pasteur dans DS48–55 ; remplace Ministre hérité. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 52,
+          "JA_text": "@1こうしさい@",
+          "FR_text": "@1Pasteur@",
+          "JA_sha256": "051533748a62c0b0a216a9a98a5b44f374deca533f42c92c0033c23088c7ce4b",
+          "FR_sha256": "e3bfb734ecae56a9dd4bdb0767d0c3cb2e74aa3e16c7c0b98e9bdef62f3e48ac"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 252,
+          "JA_text": "@1こうしさい@",
+          "FR_text": "@1Pasteur@",
+          "JA_sha256": "051533748a62c0b0a216a9a98a5b44f374deca533f42c92c0033c23088c7ce4b",
+          "FR_sha256": "e3bfb734ecae56a9dd4bdb0767d0c3cb2e74aa3e16c7c0b98e9bdef62f3e48ac"
+        }
+      ],
+      "old_encoded_hex": "1cdfe055f0ac",
+      "encoded_hex": "1fd1f85653ac",
+      "old_sha256": "362fbd48fa8a86682bfd3a03de686e73c8bb89a20a27479d6c2a5f65e27448ed",
+      "new_sha256": "979fc2af56581adcfbe17386997278243d101921876928e1925926d4326f4e1d",
+      "old_columns": 8,
+      "new_columns": 7,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 957,
+      "position": 957,
+      "french": "Parrain",
+      "previous": "Assassin",
+      "sfc_jp": "おやぶん",
+      "review": "おやぶん : rang7 voleur, Parrain DS64–71, pas Assassin. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 70,
+          "JA_text": "@1おやぶん@",
+          "FR_text": "@1Parrain@",
+          "JA_sha256": "82cafc452bb15f49b903ee9c972d28ea48a8cb0874d1fd9fd9a68c4ef6e4577c",
+          "FR_sha256": "20d5cd65c610ff8fc75566fbe135bb9a10f9465a003f8673212618b3b2c1844d"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 270,
+          "JA_text": "@1おやぶん@",
+          "FR_text": "@1Parrain@",
+          "JA_sha256": "82cafc452bb15f49b903ee9c972d28ea48a8cb0874d1fd9fd9a68c4ef6e4577c",
+          "FR_sha256": "20d5cd65c610ff8fc75566fbe135bb9a10f9465a003f8673212618b3b2c1844d"
+        }
+      ],
+      "old_encoded_hex": "105454d154dfac",
+      "encoded_hex": "1fd0efdfac",
+      "old_sha256": "8e1bd888610792cda09742f39e754e1e7e82c1a986df7faeacebd5fa6f134ae7",
+      "new_sha256": "bf29ad6c26c467ce99335898f7f75a002991421c115a523ca49e64067e47f457",
+      "old_columns": 8,
+      "new_columns": 7,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 965,
+      "position": 965,
+      "french": "Magnat",
+      "previous": "Grand Echangeur",
+      "sfc_jp": "おおだんな",
+      "review": "おおだんな : rang7 marchand, Magnat DS80–87, distinct du Courtier et Homme d’affaires. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 86,
+          "JA_text": "@1おおだんな@",
+          "FR_text": "@1Magnat@",
+          "JA_sha256": "f9b3f8d4ccb95a8fc327f453abd51e47d29c6b83c7ef3a2c88fadfa874a4d51e",
+          "FR_sha256": "15f020cd1c52846c261268b0affc42ac8dcd0edbc040eaac42e303b7ebb43de6"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 286,
+          "JA_text": "@1おおだんな@",
+          "FR_text": "@1Magnat@",
+          "JA_sha256": "f9b3f8d4ccb95a8fc327f453abd51e47d29c6b83c7ef3a2c88fadfa874a4d51e",
+          "FR_sha256": "15f020cd1c52846c261268b0affc42ac8dcd0edbc040eaac42e303b7ebb43de6"
+        }
+      ],
+      "old_encoded_hex": "16efe50114d4cf48465653ac",
+      "encoded_hex": "1c42484fd2ac",
+      "old_sha256": "800c1e89f10309d9e8b592a5cec42fb68b22d6660579c7fde755285f615b6562",
+      "new_sha256": "b9d18b4ebac138ab7af01a6998087ba3846da7172f78ffa5c22c32d5400856da",
+      "old_columns": 15,
+      "new_columns": 6,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 974,
+      "position": 974,
+      "french": "Prodige",
+      "previous": "Super Joueur",
+      "sfc_jp": "あそびのてつじん",
+      "review": "あそびのてつじん : rang8 vadrouilleur, Prodige DS88–95, pas le nom de vocation. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 95,
+          "JA_text": "@1あそびのてつじん@",
+          "FR_text": "@1Prodige@",
+          "JA_sha256": "55a131d68275e3e55fd06735002918b41f18b2acae3d0fadbc6e5b8e611daf97",
+          "FR_sha256": "31db998eeb9221d0eb44330bba10d4289c64e6ba71d039955c4b1cd4b683bd57"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 295,
+          "JA_text": "@1あそびのてつじん@",
+          "FR_text": "@1Prodige@",
+          "JA_sha256": "55a131d68275e3e55fd06735002918b41f18b2acae3d0fadbc6e5b8e611daf97",
+          "FR_sha256": "31db998eeb9221d0eb44330bba10d4289c64e6ba71d039955c4b1cd4b683bd57"
+        }
+      ],
+      "old_encoded_hex": "225651da0119ed465653ac",
+      "encoded_hex": "1ff1454a4846ac",
+      "old_sha256": "899131137a6dbc644d073404ccf5fd967b749e9c13f05295f74788e7cf2bb92d",
+      "new_sha256": "546ad8dd607f9cd697bf3b8934854a68259fe831404da2ac098f88f0f82d8ca5",
+      "old_columns": 12,
+      "new_columns": 7,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 995,
+      "position": 995,
+      "french": "Poids moyen",
+      "previous": "Poids Lourd",
+      "sfc_jp": "ヘビーきゅう",
+      "review": "ヘビーきゅう : rang5 gladiateur. DS96–103 localise Poids moyen ; ne pas déduire Poids lourd du seul mot anglais Heavy. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 100,
+          "JA_text": "@1ヘビーきゅう@",
+          "FR_text": "@1Poids moyen@",
+          "JA_sha256": "a6fc1054a6421ea2763fc78a9c4c35725a5b96d9e0dd99fd9597269f5ef1a902",
+          "FR_sha256": "7b91aea730ef006a2430399b1be650eb4e1b2f9c7ed65be7cebb61080b815a1d"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 300,
+          "JA_text": "@1ヘビーきゅう@",
+          "FR_text": "@1Poids moyen@",
+          "JA_sha256": "a6fc1054a6421ea2763fc78a9c4c35725a5b96d9e0dd99fd9597269f5ef1a902",
+          "FR_sha256": "7b91aea730ef006a2430399b1be650eb4e1b2f9c7ed65be7cebb61080b815a1d"
+        }
+      ],
+      "old_encoded_hex": "1fe945f21bed5345ac",
+      "encoded_hex": "1fe945f24e505a464fac",
+      "old_sha256": "921d40ebfc6da5492711fb8acdf9812e6652c435693b1f588835c43c35769808",
+      "new_sha256": "18d163f9c7d79392d7cb5e3321ece1fa0aee1a44b16437bbaa171dcbed0eda53",
+      "old_columns": 11,
+      "new_columns": 11,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 1022,
+      "position": 1022,
+      "french": "Oracle",
+      "previous": "Grand Mage",
+      "sfc_jp": "スペルエンペラー",
+      "review": "スペルエンペラー : rang8 sage, Oracle DS120–127 ; remplace Grand Mage hérité. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 127,
+          "JA_text": "@1スペルエンペラー@",
+          "FR_text": "@1Oracle@",
+          "JA_sha256": "81a29790b99054ee867ad24ba4366a9ce5cadbb1fee8cb5fae8d709856bfe2b2",
+          "FR_sha256": "25ee97774fd91aa86e16b786f236686f66c3e78dc2502de56cff92c0c0a4ba4a"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 327,
+          "JA_text": "@1スペルエンペラー@",
+          "FR_text": "@1Oracle@",
+          "JA_sha256": "81a29790b99054ee867ad24ba4366a9ce5cadbb1fee8cb5fae8d709856bfe2b2",
+          "FR_sha256": "25ee97774fd91aa86e16b786f236686f66c3e78dc2502de56cff92c0c0a4ba4a"
+        }
+      ],
+      "old_encoded_hex": "16efe5011c424846ac",
+      "encoded_hex": "1eef44e2ac",
+      "old_sha256": "3251a586152c1b495ad7d3ec0bed9aa3625111bb1901d9751f9d845816c96487",
+      "new_sha256": "7cb2aee0d9733c1eec73e6135e5649cf0052ef1dcf0f4463f51f97d6259bd00c",
+      "old_columns": 10,
+      "new_columns": 6,
+      "status": "RELU_POUR_INSERTION"
+    },
+    {
+      "sid": 1030,
+      "position": 1030,
+      "french": "Légende",
+      "previous": "Star de Cinema",
+      "sfc_jp": "シネマのほし",
+      "review": "シネマのほし : rang8 sommité, Légende DS136–143 ; accent et titre officiel. Chaîne complète relue, largeur non augmentée, aucune balise DS copiée. Fenêtre naturelle non parcourue.",
+      "DS_references": [
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 143,
+          "JA_text": "@1シネマのほし@",
+          "FR_text": "@1Légende@",
+          "JA_sha256": "1fb688030ebf4c52b184afed392ce797a3d9231eb5aa0ac1885e6c5a7f1f428d",
+          "FR_sha256": "2b5943c7ad1f543b9b55d7dc18ae2849182caf46ab51126a13aa52539dd8e02e"
+        },
+        {
+          "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+          "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+          "id": 343,
+          "JA_text": "@1シネマのほし@",
+          "FR_text": "@1Légende@",
+          "JA_sha256": "1fb688030ebf4c52b184afed392ce797a3d9231eb5aa0ac1885e6c5a7f1f428d",
+          "FR_sha256": "2b5943c7ad1f543b9b55d7dc18ae2849182caf46ab51126a13aa52539dd8e02e"
+        }
+      ],
+      "old_encoded_hex": "2255d0cad612df464e42ac",
+      "encoded_hex": "1b2d4846e546ac",
+      "old_sha256": "348525a378688d0e107992a22637ed93d896f5135d6549c7bcccf5ccf6123781",
+      "new_sha256": "997d7027e7e9eb530110d61180c4acbc216683916e054c317c45124b45b99767",
+      "old_columns": 14,
+      "new_columns": 7,
+      "status": "RELU_POUR_INSERTION"
+    }
+  ],
+  "effect": "Seuls32libellés sélectionnés changent. Corrections de sens et typographie sans augmentation de largeur. Lecteurs natifs et B2 avant/après ; fenêtres naturelles et usages alternatifs restent ouverts."
+}

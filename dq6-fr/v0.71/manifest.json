@@ -1,0 +1,133 @@
+{
+  "release": "v0.71",
+  "source_revision": "77acb5fddfb784452916b1099dd0b1464bf585ca",
+  "files": {
+    "REPRISE-AUTOMATIQUE.md": {
+      "size": 57957,
+      "sha256": "16aa1f5ac18d49a34810ec0efd8f9b62c7e133086acd9539cff4e0c0081e18ab"
+    },
+    "dq6-fr/v0.71/README.md": {
+      "size": 4107,
+      "sha256": "4a2ef58539f70b7d9dbf79541c1dd70ceb5fc4fa009b8ff3970f81395d7e8c21"
+    },
+    "dq6-fr/v0.71/audit_blockages.py": {
+      "size": 1442,
+      "sha256": "2cc94b16c4dd743d71c94671aac3a0f4ddf38d342f45578890fe7a75f0088845"
+    },
+    "dq6-fr/v0.71/blocages-v071.json": {
+      "size": 281069,
+      "sha256": "4eea210e2990921cf44fcc6ec58156626aee6809b978742704367bf9e92f7341"
+    },
+    "dq6-fr/v0.71/build-report.json": {
+      "size": 3437,
+      "sha256": "acfcabc58bb0f1546026dbe11e9255373667e97d86530b18530bf39bb50c4ce9"
+    },
+    "dq6-fr/v0.71/build.py": {
+      "size": 1207,
+      "sha256": "95331b5c430cefefd86ed13186587f828a9ebefd849c9aab6fd3b50a78e11162"
+    },
+    "dq6-fr/v0.71/bus_layout.py": {
+      "size": 1253,
+      "sha256": "d1bff759d06e62f32961731809f08a6fd673ab04169b1727c4a2f850fa05d804"
+    },
+    "dq6-fr/v0.71/common.py": {
+      "size": 9204,
+      "sha256": "815efb6a91826f85c0e582809e00e1e8f85b67dd694a0275d95364f9c72dc744"
+    },
+    "dq6-fr/v0.71/delta-table-v071.json": {
+      "size": 10882,
+      "sha256": "aa0ec56312d02d3d134e829db576c7cffb8a9d9962669d4cae558fc6e5434be1"
+    },
+    "dq6-fr/v0.71/emulator_consumers.py": {
+      "size": 4079,
+      "sha256": "adada5e0f9da5a43b2942a109e05a561614d3c58597c42277d7428b807592bea"
+    },
+    "dq6-fr/v0.71/emulator_names_probe.py": {
+      "size": 4325,
+      "sha256": "b50633f2fe7508b66f17113138b85d60452288910dca2891fe1c1420e058f1b9"
+    },
+    "dq6-fr/v0.71/emulator_render_names.py": {
+      "size": 3756,
+      "sha256": "be1632926cf80ecbb57bb08e8900ae1d5c1a4610c1091254a1cdb6393423d508"
+    },
+    "dq6-fr/v0.71/inventaire-noms-v071.json": {
+      "size": 6871,
+      "sha256": "37545b5323c811ace4f1766a145d4ad03f2bf77fc34944a966ac4892188d08f2"
+    },
+    "dq6-fr/v0.71/inventory_names.py": {
+      "size": 6240,
+      "sha256": "4f08b6dc96151a06c75bed2b5ee44eab59885a04a5e3cd3f45b1260c6fc9cca5"
+    },
+    "dq6-fr/v0.71/plans.py": {
+      "size": 9779,
+      "sha256": "92c0f4f16a68c35a27455f9c4a9421c60e7d1a972a3aefa01dd875b3f7ffc394"
+    },
+    "dq6-fr/v0.71/prepare.py": {
+      "size": 2661,
+      "sha256": "12779d317f8c255bcca5df6f9c3a71be78c37507679761c8898ad0488474573f"
+    },
+    "dq6-fr/v0.71/qa-bus-boot.json": {
+      "size": 708,
+      "sha256": "13a2a66af57ecb847f192da2a242d746a865e36086f6d1d71467db22df551020"
+    },
+    "dq6-fr/v0.71/qa-lot400.json": {
+      "size": 1140,
+      "sha256": "c1da971c890e046e6246138a4e147a1a7a6f1661090059f68900b435ac8bf408"
+    },
+    "dq6-fr/v0.71/qa-name-consumers.json": {
+      "size": 23809,
+      "sha256": "c89e147bbf087024bacea324a46070bde7672941eff6d7f20653e67eb37b18cc"
+    },
+    "dq6-fr/v0.71/qa-name-render.json": {
+      "size": 11539,
+      "sha256": "4dfefd385889c0d6f35c28bebedcafda33d7f8e4dea3e8e7d0193c6165319406"
+    },
+    "dq6-fr/v0.71/qa-names-native-negative.json": {
+      "size": 1155,
+      "sha256": "44dad99ddaff396db005674e61696bf547141f56d605c15e6f94c53ba5e26f27"
+    },
+    "dq6-fr/v0.71/qa-names-native-reader.json": {
+      "size": 1146,
+      "sha256": "c1423c22ed35a10f88c27821b2de44b7c48375830071fcd561649fc1b54328f9"
+    },
+    "dq6-fr/v0.71/qa-visual-review.json": {
+      "size": 6636,
+      "sha256": "16862becd11abf0526c26051b15f04cb08a19a7d23c39241c4b03c09998d18e3"
+    },
+    "dq6-fr/v0.71/registre-positions-0800-1199.json": {
+      "size": 365240,
+      "sha256": "35b45a88969b3bd995b7bd5ee15738470c8de2c99c5d32bf79abaaeaacfcb5fe"
+    },
+    "dq6-fr/v0.71/revue-table-v071.json": {
+      "size": 45281,
+      "sha256": "3ac78a93f2ad1b1a229a3b463b05d33f5fc4980c3356ac25f81e787ed83f699c"
+    },
+    "dq6-fr/v0.71/revues-francais-herite.json": {
+      "size": 23555,
+      "sha256": "68d10294bf2bd37840e1b58ff08e76ae33f91232b0f3c7f31c39c9b76f0027cf"
+    },
+    "dq6-fr/v0.71/verification.json": {
+      "size": 1396,
+      "sha256": "8c914192a5b122d7648124dba7c9fdfe85a1cdd0a31132b7946f14b9d52cd6ba"
+    },
+    "dq6-fr/v0.71/verify.py": {
+      "size": 3729,
+      "sha256": "033187d9ac8511ccdd1a1bfb0f8ccb9fc44447684bdb84f0acfd1a9347225f1c"
+    },
+    "etat-projet.json": {
+      "size": 12373,
+      "sha256": "75f699b1aa6bf62eed8e3b441fec88910c82dd7c691e7a3e648cb62704f81a7d"
+    },
+    "patches/DQVI-FR-DS-v0.71-BASE-JP-PARTIEL.bps": {
+      "size": 677165,
+      "sha256": "9be5c4548834b84b39b399ea9a45fdeaed46c05483c3bae92d4a15c518c76f60"
+    }
+  },
+  "private_excluded": [
+    "ROM",
+    "SRAM",
+    "emulator states",
+    "source archives",
+    "screenshots"
+  ]
+}

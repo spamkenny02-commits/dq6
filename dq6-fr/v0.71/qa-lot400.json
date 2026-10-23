@@ -1,0 +1,37 @@
+{
+  "release": "v0.71",
+  "physical_positions_examined": 400,
+  "positions": [
+    800,
+    1199
+  ],
+  "new_label_insertions": 32,
+  "new_translations": 17,
+  "existing_french_revisions": 15,
+  "existing_french_source_reviewed": 1,
+  "new_preparations": 80,
+  "status_counts": {
+    "DIFFERE_CONTEXTE": 8,
+    "DIFFERE_IDENTIFIANT_TECHNIQUE": 78,
+    "VIDE_A_QUALIFIER": 1,
+    "PREPARE_NON_INSERE": 80,
+    "DIFFERE_GLYPHES_POKER": 10,
+    "DIFFERE_COMPOSITION_CASINO": 22,
+    "REVISION_FR_EXISTANT": 15,
+    "FR_CONFIRME_ANTERIEUR": 19,
+    "TRADUCTION_SELECTIONNEE": 17,
+    "DIFFERE_RANG_GENRE_CONTEXTE": 72,
+    "DIFFERE_SORT_COMMANDE": 77,
+    "FR_EXISTANT_RELU_SOURCE": 1
+  },
+  "next_position_to_examine": 1200,
+  "source_SHA256": {
+    "JP": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e",
+    "DS": "5667303e3c7ab518a1b6bb2119abdfcc17422b3387dc5083f67b8e2b54734fb5",
+    "IPS": "b34155f476d0bce3d2247c577417b3ade3ee071e7c9b8af634f8a7cb613cdd37"
+  },
+  "actual_DS_fields_checked": 270,
+  "secondary_IPS_positions_checked": 400,
+  "all400_semantically_validated": false,
+  "natural_windows_validated": false
+}
