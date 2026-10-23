@@ -1,0 +1,94 @@
+{
+  "release": "v0.63",
+  "source_sha256": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e",
+  "bounded_JP_entries": 603,
+  "bounded_text_entries": 599,
+  "structural_entries": 4,
+  "parsed_VF_slots": 608,
+  "protected_main_region_start": 3610459,
+  "first_main_relative_pointer": 7,
+  "last_valid_entries": [
+    {
+      "id": 600,
+      "start": 3610377,
+      "end": 3610425,
+      "source_message_sha256": "d157c9a7794054e2eea9973bd4339d5c58c6b6b3eea3f9797df195d38505f4dc"
+    },
+    {
+      "id": 601,
+      "start": 3610425,
+      "end": 3610442,
+      "source_message_sha256": "33c9d6d935eef1ee13a5c16520f4d8549a8e94194db9a59b8e18d56afdaaea5f"
+    },
+    {
+      "id": 602,
+      "start": 3610442,
+      "end": 3610459,
+      "source_message_sha256": "2cbf5140015a95ff81d7a296f38ae7205bbd0513d8785e9aac18c0d51616c6d3"
+    }
+  ],
+  "source_guard_enforced_in_prepare": true,
+  "all603_valid_hashes_equal_historical": true,
+  "rejected_translation_ids": [
+    603,
+    604,
+    605,
+    606,
+    607
+  ],
+  "overrun_entries": [
+    {
+      "id": 603,
+      "historical_JP_start": 3610459,
+      "historical_JP_end": 3611090,
+      "historical_bytes": 631,
+      "JP_sha256": "9ac7582a31d2f246a98131a01d249e39b1a34c2bda82bdbea5e1ecdedf39d3f6",
+      "opaque_VF_sha256": "1a58f2aa498c5a2c185ecf10e50682fd829beef5aecee94d096b0f6b8d5425e5",
+      "status": "SOURCE_JP_HORS_POOL_A_AUDITER",
+      "action": "Octets VF conservés sans traduction ni classement structurel. Audit appelants et origine requis."
+    },
+    {
+      "id": 604,
+      "historical_JP_start": 3611090,
+      "historical_JP_end": 3611560,
+      "historical_bytes": 470,
+      "JP_sha256": "1bc0f5aa011222d856226a0f81c80d7a31baa96692e73f52c44502879ca3c8c6",
+      "opaque_VF_sha256": "a568d5c8abeb671c8036f82fe4ab5b2bbef962ae5c50bf1a774f9d13f7efb6a2",
+      "status": "SOURCE_JP_HORS_POOL_A_AUDITER",
+      "action": "Octets VF conservés sans traduction ni classement structurel. Audit appelants et origine requis."
+    },
+    {
+      "id": 605,
+      "historical_JP_start": 3611560,
+      "historical_JP_end": 3611588,
+      "historical_bytes": 28,
+      "JP_sha256": "e73d3c1daddbace364af7536a8b4aafbbe7478ad219a8cd02eb60644fe5e88ac",
+      "opaque_VF_sha256": "a503f7ca3b1ca89cb28c2bee7fb3e662451088139138ec3f82ad1d690248b0b4",
+      "status": "SOURCE_JP_HORS_POOL_A_AUDITER",
+      "action": "Octets VF conservés sans traduction ni classement structurel. Audit appelants et origine requis."
+    },
+    {
+      "id": 606,
+      "historical_JP_start": 3611588,
+      "historical_JP_end": 3611627,
+      "historical_bytes": 39,
+      "JP_sha256": "a85e882aa4c0cb32a2f94f5d239801f40203bca6cf09afc23f497ef47cf02125",
+      "opaque_VF_sha256": "00c3cfb93e8d3f606d366263a8f05a8af3ecb7d4d46839793859843b870ffc85",
+      "status": "SOURCE_JP_HORS_POOL_A_AUDITER",
+      "action": "Octets VF conservés sans traduction ni classement structurel. Audit appelants et origine requis."
+    },
+    {
+      "id": 607,
+      "historical_JP_start": 3611627,
+      "historical_JP_end": 3611684,
+      "historical_bytes": 57,
+      "JP_sha256": "736a9b20e96d8b144d5bc7e118751fdd7ba8dedd2cda694185d767858908abda",
+      "opaque_VF_sha256": "5b0c9d3b14664c51d988a98158f541ab3e155ff18fd5ed57ad046141d3d280c9",
+      "status": "SOURCE_JP_HORS_POOL_A_AUDITER",
+      "action": "Octets VF conservés sans traduction ni classement structurel. Audit appelants et origine requis."
+    }
+  ],
+  "unused_or_unreachable_proven": false,
+  "negative_test": "Any proposed ID603 is rejected by prepare before source indexing.",
+  "negative_ID603_rejected": true
+}

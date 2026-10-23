@@ -1,0 +1,16 @@
+"""Checkpoint metadata; execute only after the recorded visual review."""
+from common import *
+q=read(O/'inventaire-combat-v063.json');b=read(O/'build-report.json');v=read(O/'verification.json');state=read(R/'etat-projet.json')
+state.update(release='v0.63',baseline='v0.62',notes='v0.63 :191 entrées combat qualifiées :188 anglais traduits,2 français corrigés,1 fragment composé relu.586 qualifiées ;13 textes JP valides différés,5 emplacements VF sans source JP dans le pool,4 structures. Principal,noms,moteur et police inchangés.',next='Reprendre v0.63. Résoudre13 fragments/commandes JP valides différés et auditer séparément5 emplacements VF603–607 hors frontière JP. Puis autres tables,relecture exhaustive et scènes naturelles. Ne pas recycler191IDs.',checkpoint='combat-v071-v063')
+state['proofreading'].update(reviewed_this_translation_pass=191,new_battle_integrated_from_review=191,battle_review_deferred_ids=sorted(plans.DEFERRED),inherited_battle_english_translated=188,inherited_battle_french_corrected=2,composition_fragments_reviewed=1,source_boundary_audit_ids=list(range(603,608)))
+s=state['separate_battle_pool'];s.update(runtime_entries=608,runtime_entry_count_not_proven=True,parsed_VF_slots=608,bounded_JP_entries=603,bounded_JP_text_entries=599,inherited_texts_not_context_reviewed=13,source_JP_outside_pool_audit=5,project_french_context_reviewed=586,new_translations_this_audit=188,inventory='dq6-fr/v0.63/inventaire-combat-v063.json',new_integrated_this_checkpoint=191,preparation='dq6-fr/v0.63/insertion-combat.json',strict_candidate_roundtrip=191,native_render_accepted=586,native_render_report='dq6-fr/v0.63/qa-emulator.json',reserved_ROM_range=b['placement'],with_explicit_DS_references=v['DS_reference_reviewed_rows'],direct_SFC_without_established_DS=191-v['DS_reference_reviewed_rows'],source_boundary_report='dq6-fr/v0.63/audit-frontiere-source.json')
+state['separate_tables']['inventory_version']='v0.63 (noms inchangés)'
+(R/'etat-projet.json').write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n')
+head='''# Reprise v0.63 — 191 entrées combat qualifiées, frontière JP corrigée
+
+586 entrées françaises qualifiées en diagnostic. Ce lot comprend188 traductions anglaises,2 corrections françaises et1 fragment de composition497, pas191 nouvelles phrases autonomes.13 textes JP valides restent différés,5 emplacements VF603–607 restent opaques et4 structures restent hors traduction. Le lecteur JP historique débordait à603 dans le script principal compressé à0x37175B : lire audit-frontiere-source.json ; source_guard.py borne désormais la préparation à602. Les cinq emplacements sont conservés à l'identique, sans les appeler vides ou inutilisés. Aucun total608 de textes japonais n'est validé.
+
+Lire dq6-fr/v0.63/README.md,inventaire,revue,delta et QA. Reprendre le BPS v0.63 sur JP intacte ; préparer avec ce nouveau lot uniquement. Principal6957 sélections dont9 structures,noms2512 SIDs/2048 physiques/464alias,39 français+4 aides,16 noms composés inchangés.25 lieux préparés. Relecture exhaustive du principal0. Protéger le pool natif déplacé ET moteur v0.61. Autres tables,audits hérités et scènes naturelles restent ouverts.8Mio conservés. Ne pas recycler les191IDs.
+
+'''
+p=R/'REPRISE-AUTOMATIQUE.md';p.write_text(head+p.read_text())

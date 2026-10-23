@@ -1,0 +1,5 @@
+from common import *
+import argparse
+p=argparse.ArgumentParser();p.add_argument('--rom',type=Path,required=True);a=p.parse_args();rom=a.rom.read_bytes();r=read(O/'build-report.json');q=read(O/'inventaire-combat-v063.json');previous=read(R/'dq6-fr/v0.62/inventaire-combat-v062.json');assert sha(rom)==r['ROM_sha256'];assert q['integrated_ids']==sorted(previous['integrated_ids']+IDS) and not set(IDS)&set(previous['integrated_ids']);assert q['unqualified_inherited_ids']==sorted(plans.DEFERRED);assert q['source_boundary_audit_ids']==list(range(603,608));assert sum(q['counts'].values())==608 and q['counts']['FRANCAIS_RELU_INTEGRE_DIAGNOSTIC']==586
+meta=[dict(id=i,offset=at,size=len(b),sha256=sha(b)) for i,at,b in decode_pool(rom,r['placement'])];assert sha(json.dumps(meta,sort_keys=True).encode())==q['all_message_offset_hash_metadata_sha256'];assert q['prepared_not_inserted_ids']==[]
+print('586 qualified,13 deferred valid JP texts,5 JP-outside-pool slots,4 structures;main6957 and names unchanged')

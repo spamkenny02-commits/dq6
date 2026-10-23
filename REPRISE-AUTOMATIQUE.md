@@ -1,3 +1,9 @@
+# Reprise v0.63 — 191 entrées combat qualifiées, frontière JP corrigée
+
+586 entrées françaises qualifiées en diagnostic. Ce lot comprend188 traductions anglaises,2 corrections françaises et1 fragment de composition497, pas191 nouvelles phrases autonomes.13 textes JP valides restent différés,5 emplacements VF603–607 restent opaques et4 structures restent hors traduction. Le lecteur JP historique débordait à603 dans le script principal compressé à0x37175B : lire audit-frontiere-source.json ; source_guard.py borne désormais la préparation à602. Les cinq emplacements sont conservés à l'identique, sans les appeler vides ou inutilisés. Aucun total608 de textes japonais n'est validé.
+
+Lire dq6-fr/v0.63/README.md,inventaire,revue,delta et QA. Reprendre le BPS v0.63 sur JP intacte ; préparer avec ce nouveau lot uniquement. Principal6957 sélections dont9 structures,noms2512 SIDs/2048 physiques/464alias,39 français+4 aides,16 noms composés inchangés.25 lieux préparés. Relecture exhaustive du principal0. Protéger le pool natif déplacé ET moteur v0.61. Autres tables,audits hérités et scènes naturelles restent ouverts.8Mio conservés. Ne pas recycler les191IDs.
+
 # Reprise v0.62 — 288 textes de combat hérités relus
 
 395 textes natifs qualifiés,209 hérités encore non qualifiés,4 structures.190 anglais traduits et98 français corrigés dans ce lot. Lire dq6-fr/v0.62/README.md,revues,delta et inventaire.234 concordances japonaises complètes normalisées,2 compositions DS relues et52 adaptations directes SFC ; aucun rapprochement flou seul validé.21 corrections explicites de commandes héritées vers JP. Principal6957 sélections,2512 noms,16 noms composés,moteur v0.61 et police inchangés. Protéger nouveau pool natif ET allocation du moteur v0.61.18 cas différés inclus dans209 ; prochains IDs hérités continus à partir312. Relecture principale exhaustive toujours0 ; autres tables et scènes naturelles ouvertes. Ne pas recycler le lot.8Mio conservés.

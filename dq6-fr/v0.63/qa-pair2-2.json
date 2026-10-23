@@ -1,0 +1,49 @@
+{
+  "case": "pair2-2",
+  "duplicate": false,
+  "API_returned": true,
+  "returned_A_X_Y_B2": [
+    880,
+    4,
+    4660,
+    880
+  ],
+  "fixture_sha256": "e585bcef4f9af99e877bf618473e622924f0534507ec758445b8f6233d8a995f",
+  "private_changes": [
+    "Caller RTS becomes RTL for the private JSL harness",
+    "Both RNG calls replaced by deterministic LDA/RTL stubs"
+  ],
+  "pages": [
+    {
+      "capture": "v063-pair2-2-page0.png",
+      "returned": false,
+      "frame": 334,
+      "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+    },
+    {
+      "capture": "v063-pair2-2-page1.png",
+      "returned": false,
+      "frame": 338,
+      "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+    },
+    {
+      "capture": "v063-pair2-2-page2.png",
+      "returned": false,
+      "frame": 343,
+      "sha256": "7c652e8a51c462120609e3639ade51c85a4d2f9633a570a2448b936b705e2cbb"
+    },
+    {
+      "capture": "v063-pair2-2-page3.png",
+      "returned": false,
+      "frame": 385,
+      "sha256": "80dd93717b1ff7f8a4e7e04a5a625ee0f5708f4dc09778b8439941ef9513a781"
+    },
+    {
+      "capture": "v063-pair2-2-page4.png",
+      "returned": false,
+      "frame": 422,
+      "sha256": "cdc741de9f6699c2e41cb28a69b5a51944fbd25f54ad64bfd5bfdda725a3063e"
+    }
+  ],
+  "manual_visual_review": true
+}

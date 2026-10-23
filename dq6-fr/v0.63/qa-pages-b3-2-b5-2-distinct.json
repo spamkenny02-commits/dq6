@@ -1,0 +1,2801 @@
+{
+  "release": "v0.63",
+  "ROM_sha256": "fcb75b98efbe662a4ef9475e5ca3cbf82e7051ec07286f1412b7ba879d1ab9dd",
+  "diagnostic_main_redirect": true,
+  "legacy_state_VRAM_font_refreshed_from_ROM": true,
+  "diagnostic_native_mode2_override": false,
+  "natural_battle": false,
+  "production_engine_unchanged": true,
+  "results": [
+    {
+      "id": 4,
+      "fixture_sha256": "cc371b689749ccdb18525455a7667884fb29b49f78ff1636aecc2b341d7a9d43",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-4-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-4-b3-2-b5-2-distinct-page1.png",
+          "returned": true,
+          "frame": 341,
+          "sha256": "c08167b25189fe470322405eee04fb83e59826101f73d486e2389dd986faaa2b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 5,
+      "fixture_sha256": "23c7047860fc73bd0868c5c8de5f8e3963331d73a845cd8af5bc822831c665c6",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-5-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-5-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-5-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "1ad3e9cfd61cdb9c0b79617422d31055fb4b00ca4bc0107e8bbb01aaf9d1e00b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 69,
+      "fixture_sha256": "2b2f6624ef7f9788a36931c84d43a8d036cccefdff1c62cb78b2ccc66dab6391",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-69-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-69-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-69-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 343,
+          "sha256": "345cc8048f2b82e044dd7a66b12f01ca1d30acaeb063f9229ef06b99f037407c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 265,
+      "fixture_sha256": "6f56abefb9bf43228a75eea91ea0ceedd1d66173d98c7bc99deb8580eb362fc6",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-265-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-265-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-265-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "3ea2d56c1148e7395756376954b8e1fc6f70ea7b93bfd54226a42717d9d0674e"
+        },
+        {
+          "capture": "v063-265-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "d3f1f8ed5f4fed9381554ce9d4c88d5521b4644cd65ac3e1b3bdaaeec0a7a79f"
+        },
+        {
+          "capture": "v063-265-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 384,
+          "sha256": "c45e9964a4f756a894c6469efd30ea872ba0680633e93891c2c5b54afc9059a8"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 313,
+      "fixture_sha256": "9e56a787de8f6bc93b0852cf684f33866bc84148e838e2e0f0623b32a3e84b75",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-313-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-313-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-313-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "06bb78f21451a8e6d555dee0b76f3ca48899dd4b0f63880b2c3acc96593dff1a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 314,
+      "fixture_sha256": "a340435b3fc9a4103bffacf0b256c7b291c655665644bd7a31df4e705517c24d",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-314-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-314-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-314-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "056bce004f2c7e3065fab4c9fb232f749140d04c80c628f094da9da3ac16d641"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 315,
+      "fixture_sha256": "97119cb26f8d04695cd46f61a9564d5c464c782885fb851748b89d148529e9e7",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-315-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-315-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-315-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 343,
+          "sha256": "84b1e1629591f5fa93388289cb82d5a83e49b2097ac007794982e8beb11a41e1"
+        },
+        {
+          "capture": "v063-315-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 380,
+          "sha256": "9e7337f7e26f35f6bf086244ded4f98ff943014f21bdc75edc0da167d8f13d24"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 316,
+      "fixture_sha256": "be5a1b4cb8facd3ea298bfbacf59d39254a6663549ce4d72c3adda2aa6e6fa1a",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-316-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-316-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-316-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "d40976613bcdcaba61a52504e0a01c94c80816802c016c8e86789dd191c3119e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 317,
+      "fixture_sha256": "fc8093a95188c315f95586da4addffb715b2d3db4f93c029c2149c93ce3b748f",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-317-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-317-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-317-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "ea149eda4ee3eda4b78e83f048e57cae3875bfd8384c2f449ac130b412f6288d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 319,
+      "fixture_sha256": "c4f8622478fbdc5d87b0ff73db3feba67df6b7075555d9f3f0dad9654253455e",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-319-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-319-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-319-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "f123cd78ef7469945e4b3ecf39a31792d38b7151fc4b02beacfdade14d845702"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 326,
+      "fixture_sha256": "174f554c71702f9c03cf23e7d40e9db8d94bc9bf881a4bdb7011871759e1a9fe",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-326-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-326-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-326-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "ee478ad41ae011235659555519899f60ef33688a58a588e252dcd740cc336152"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 331,
+      "fixture_sha256": "defcf62bf2769c2a86a7200842a1cdf4bf5e25db04347602b35b6aad375e4af4",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-331-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-331-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-331-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "4a2a634a15dcc8f5597c15fbd0ed7e96795f0b4ccdf494c3f2b9975b13813429"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 332,
+      "fixture_sha256": "03526156e7d737f2a2f3ff6e5588db740ef151edb3ec0d9cdfb4fd62b6457db6",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-332-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-332-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-332-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "e279abe024576e2732f0ba35d4108318a1ce08db2480fbb59dccd16a1275ddba"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 333,
+      "fixture_sha256": "62899ced93a5ce005b3c8b7347406e10eb383624ca31a6c8c802d07168ca108b",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-333-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-333-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-333-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "783d182627a0acd792dc1c9239649f445ab694e0e258aa70f7a00547c6992c23"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 334,
+      "fixture_sha256": "f6046eac6f9aea9f9126d33101065511870d08c6d2c15dbb52388cbfdf3c187b",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-334-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-334-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-334-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "41f561077c2f49bc34a972549e024223a9cdd3cecab9fe537c06a14a5fa390d8"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 335,
+      "fixture_sha256": "3759163a13fa5e3959592fe41ecac98c7ae1f4eb7c82f1ff8bcb79c3a88784e2",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-335-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-335-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-335-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "f4663cd30b4c4a7ee1d23ea43dfeae665b796d1b736e96a80c633fcc5558fd5c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 336,
+      "fixture_sha256": "688e1a18626014376ed4fb0279bee41a96e500e3d8fad7032895a1c4266f9519",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-336-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-336-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-336-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "1ea77d950bb50f0c33038c2502be9ae506dbb43192d28d92b77eb35f941ef476"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 338,
+      "fixture_sha256": "1c4c70677ba405089aab0a44545256df563f71af84b87f42218631a37082ece1",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-338-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-338-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-338-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "20383a4b4a8007691a6ebfd0393cd54a769ee4fd05ab57e6a9a3471aa916b9df"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 339,
+      "fixture_sha256": "58c5e8040adc915d1565a8446135ead86433dd5fa447025815431ca40e3ed63d",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-339-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-339-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-339-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "b674f3be25ada6fac167276b567d26d28a55d8a9e950d4473a1fde73506f49fd"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 340,
+      "fixture_sha256": "a2d549dee2a53c0c80f4f5f9ea364b12fa2c1758488789deae95216d3dc2d734",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-340-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-340-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-340-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "9a51f984d23d6d3fba761c69469b13dc24e83bcc44940b7aab1d2e0d8d4114df"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 341,
+      "fixture_sha256": "96fa949eb981a5373354429d8cbec251f9a8babfdbe0d57ec6b9aa1b72eb6477",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-341-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-341-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-341-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "5862503dc180912e7d5814b88cad8b27eda86aa42818fd76e774ce5f61a92679"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 342,
+      "fixture_sha256": "8f52372666557532a1939ec9997dbc3069d0377674ea4efe24809b169d312a35",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-342-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-342-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-342-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "21508bd3db6215c8cbf5135d9e7c8eef5a5d547b0bdb5b246d8f3ae506d92bfe"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 343,
+      "fixture_sha256": "c47226a384f25411d1b5948ba3e34181b8c05407e60e7d2bd97069ab308a8a70",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-343-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-343-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-343-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "f8c0fc14156415db3cc59dc549a336704326fa1caebca4f814efb26957ff2819"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 344,
+      "fixture_sha256": "7788bb4fab2a80799d73679050126eedcd2c302704f81acba21fb45aa270d660",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-344-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-344-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-344-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "da4f096083cede14fbe54ef99c11d1094ed63199e0a998045b5744e70fa45402"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 345,
+      "fixture_sha256": "0cc172086c883429c59cd4fdad30ce88617f67ad8a0b8046fde4000cd6720fbe",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-345-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-345-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-345-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "38f02f3cac88085c1b8c9e0e0a2fdb036cf7b5b2a700c9e1134ed8c0e8153112"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 346,
+      "fixture_sha256": "a5ccc7adcd4cfb58aca1b0a22944848d0fe181432204fa3d4c1f944e651c50e3",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-346-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-346-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-346-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "fb2c35f93e2ab8549d1237c17daed19fae5dfe32db15c53ba116ef9a604e7d69"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 348,
+      "fixture_sha256": "2d182743fe5ed73dcfee2eebd3b8f5c14d63bb38548495b47c27d1e24e677e74",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-348-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-348-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-348-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "d54b28d771ab9569bbc8172cb18e4bd2558da953debb28e6431f62fb426e5e64"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 349,
+      "fixture_sha256": "017b66c816cd5b88fbc910d27afc08be3d1fb8be082f8a9e382defa40d5d898f",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-349-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-349-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-349-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "21c9bf024243b2fcf17ca0e7da5083f7dc07eb2eaf897a27b61d67e07232998f"
+        },
+        {
+          "capture": "v063-349-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 383,
+          "sha256": "20858e8768c7d5d458af7c7b92ceca69ed762f3881f3a74b5f95a97ecac07a2e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 350,
+      "fixture_sha256": "15b629ed03331dffdb774334fdf2f65ccaa9ac3d18383b0604ca1c4f6fc31373",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-350-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-350-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-350-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "ecfb0f266cdacf709c64541284fe52b82d8325ff803fe61941963cb4ef0c476a"
+        },
+        {
+          "capture": "v063-350-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "934458bd22cc90c042d5bad15aeb595458853d69fd506903ef0a8f8b7f622e27"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 351,
+      "fixture_sha256": "1a48f7b8a6d6f22660f4b104199ae2f522cd63199915ee55e423300e699440c8",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-351-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-351-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-351-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "e47eecd51b827f426fd5997cf01dd7c91c0bb5a9ff77cad1fcaf61f1059dc635"
+        },
+        {
+          "capture": "v063-351-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "aeea28ad682898b9fd0999b8d8742c33c667ee8ced03dffa338d5112b093abf5"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 352,
+      "fixture_sha256": "3a2bf6d26fe0f057cde7dbce0c61ddf107e5301ed12a2d14f0f19b72169a8d01",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-352-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-352-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-352-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "783d182627a0acd792dc1c9239649f445ab694e0e258aa70f7a00547c6992c23"
+        },
+        {
+          "capture": "v063-352-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "26c742847d9e43077f098c1646c11a451bc6fb7af68225c4b292b1e4cb711630"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 353,
+      "fixture_sha256": "6c9c9ee402486e92a49d76a3f3dd56eb1eaba0db8ffc039a4204f526f1f76fa7",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-353-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-353-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-353-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "21c9bf024243b2fcf17ca0e7da5083f7dc07eb2eaf897a27b61d67e07232998f"
+        },
+        {
+          "capture": "v063-353-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "bbf815d26472407cafecdb0680dd9e8e39ec561f477fbe86d41ead4d692d00ed"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 354,
+      "fixture_sha256": "f64308a2fa1f2a8049aec9e180b6fb97f33619c1d4c72d181328b261d821b15d",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-354-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-354-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-354-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "7f0ba4603c806a3bbc49ff76f6d4daff85b487ad442d5cc94f45a2f19cc7430a"
+        },
+        {
+          "capture": "v063-354-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "7bc86f4ea266a01fadabd8aefda06964e946b652e98ffe95a516832eb86e0e06"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 355,
+      "fixture_sha256": "d2a167920f97641f28e9b10493b9d18a097772018e14aa13389a598c6234ed29",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-355-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-355-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-355-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "ccf5fe69e2dbfdaeb4e3fce84d6cab8d819e27597060a2b3920fc870b65bd638"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 362,
+      "fixture_sha256": "d48c9ccff52bb5f531aeed56ca37017d11057373c323648afb315167785bfcdb",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-362-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-362-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-362-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "04606424990bd94a8ab304e64801e37ccd583114af4c2b060d74fe9080a8cdd8"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 363,
+      "fixture_sha256": "9d8645244dab014472b63ce10183cd84593ac2a303598f424b13cd6d476b59fc",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-363-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-363-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-363-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "8b48c180803b152b3053a87c7fffed6c5a74976a58036e5d1e42f2c3872bce8a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 366,
+      "fixture_sha256": "4615fbac7fb22c6654a9fe35f0f83ee14157627514f068f11ac430689e8bab5b",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-366-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-366-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-366-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "ea025be53f1053ebdf6d9489f0eb777f331672f5447269333b674bd2526e56d2"
+        },
+        {
+          "capture": "v063-366-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "d3f1f8ed5f4fed9381554ce9d4c88d5521b4644cd65ac3e1b3bdaaeec0a7a79f"
+        },
+        {
+          "capture": "v063-366-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 385,
+          "sha256": "7b0b48933a0f2377aa21152bd7dbd4c2b04c8cf0e2dfb3a2b99712a49bb5a884"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 369,
+      "fixture_sha256": "f94cf758215ae01cc9e128bb6e5e1ecd2dc57d03e72b35045ea4f466d8ab4865",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-369-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-369-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-369-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "a74b9d6e192550bf616d08ffb8da4fcc81195d0442b71bc525f51da09509edae"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 371,
+      "fixture_sha256": "b87002871f135660f00ca068982cb5b4de6e2f7ba8cd08c87ed902e0823f61f8",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-371-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-371-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-371-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "d2fde67f8ee8c11fd90b929971633d27b9e9d103746ebb24e653e6ad955b2bfd"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 379,
+      "fixture_sha256": "3fc63a74d8e0ae10881ed5d2e38542210d88c99013dcf03297846d22902a02aa",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-379-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-379-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-379-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "dbe9696107ab17d6c2c5c8fda3c445ab9744ba2eb7fb22417de885efd581b9c9"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 392,
+      "fixture_sha256": "607be7de1193dab23a28e0c24707e08571470339ee9d9ddf2da44fbb1bc4fb4a",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-392-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-392-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-392-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 343,
+          "sha256": "87d0a053179aae3c60cbabf906be58181f6d8e58bfaa8282396842d550145bc0"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 396,
+      "fixture_sha256": "164182ca2a8349e988eff58d98381dff837757866cdbb5ee6af76479a8a8ceab",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-396-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-396-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-396-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "0d4de1bc9988f125acac1e1174fc94043e1bc2004f0bb46930fe19c89f8bd58d"
+        },
+        {
+          "capture": "v063-396-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 380,
+          "sha256": "b7dbd688658abc99d0f0731d665bf05857c60aadb92fd5661f27403059f3682a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 417,
+      "fixture_sha256": "f17fff471172ff847656a35576cd75a7974ed54f8a9762372dc51b279fa26ecb",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 346,
+          "sha256": "f01952d914e76c36cd0adbf576c255f7a443b2d8e59fc8f82dbd55f5d13ef58a"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 362,
+          "sha256": "f2ca2aafd51de80239b5703947a80a28c4c4c3504cb25c907029ad1e9c7dbdd3"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 378,
+          "sha256": "50444520cd3cfe9a1b0522640cf811c01464ec828b9416ca6949e56255bc276e"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page5.png",
+          "returned": false,
+          "frame": 394,
+          "sha256": "e0f3689d5b8983d3e37cd525794770851b5d4d46f1f499c9a1731f86ddf1b321"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page6.png",
+          "returned": false,
+          "frame": 410,
+          "sha256": "5b3be5a4006957ea15b81f7899223d76e00c31529d81c0367f09f4e33c0eaeae"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page7.png",
+          "returned": false,
+          "frame": 426,
+          "sha256": "f229b8d89c1b1bcac947cea9e19e8a6150e4d56ab143ea4fade97e650f6fb20a"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page8.png",
+          "returned": false,
+          "frame": 442,
+          "sha256": "08d3e62acc674dd5a6d698607e41f50944116ad28510eac26cf56e0808a098ea"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page9.png",
+          "returned": false,
+          "frame": 458,
+          "sha256": "79e2f62ce24ad2f996f0d87780b602d7ee60e7f97adbed3f44df6aa842966d53"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page10.png",
+          "returned": false,
+          "frame": 474,
+          "sha256": "45f7f8d5a9ee47a19e8e9717034e12c0cce848e88c60debb9ad09e6498c7754f"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page11.png",
+          "returned": false,
+          "frame": 490,
+          "sha256": "20d0990e4970e9fe4541e2910ee68e1c4db1ab561c18ba1d0d44f32588407f6f"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page12.png",
+          "returned": false,
+          "frame": 506,
+          "sha256": "9788563f3d264b9a5447b63e9a93506f4cdcf1ad7b929412d3eb3ff0da6945b0"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page13.png",
+          "returned": false,
+          "frame": 522,
+          "sha256": "f229b8d89c1b1bcac947cea9e19e8a6150e4d56ab143ea4fade97e650f6fb20a"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page14.png",
+          "returned": false,
+          "frame": 538,
+          "sha256": "7272d09f1b345458d726ed86a1ac79fa101ad439ebfcaab93a15625e9efab8e6"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page15.png",
+          "returned": false,
+          "frame": 554,
+          "sha256": "f09aa00ab0e420e2a3ff718a53313218497a756ac6f5aa68c1ca90ac7a048228"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page16.png",
+          "returned": false,
+          "frame": 570,
+          "sha256": "98b6bdda1576043f613950c1e7fbf16ae0882f7dbc7a5b803558a05d69cae964"
+        },
+        {
+          "capture": "v063-417-b3-2-b5-2-distinct-page17.png",
+          "returned": false,
+          "frame": 586,
+          "sha256": "dcf7f1e37690182f449325745a0e870c959926f58d4c565aadc57bcfd6764c54"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 418,
+      "fixture_sha256": "2c1e5517b5a8ac18989e06ab694e7f280445e3f52fded757cdb3ecd9fb8f47c7",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 346,
+          "sha256": "9be58ba431094b576c81a5aa8616491f98acef6904c289bf921d984072af1fcf"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 362,
+          "sha256": "4c25e257080b2552b96518ef98f8f425d3f2a29addb063a1833cf982abce2dd5"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 378,
+          "sha256": "7d7ddcaef9287233fd9d5a1de65bedd1c67475a3376833d8a4f981362102fca6"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page5.png",
+          "returned": false,
+          "frame": 394,
+          "sha256": "de75ff7d48a338c47a385598a500f8ac05eb180e03791f2bda2dcae11b5d7520"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page6.png",
+          "returned": false,
+          "frame": 410,
+          "sha256": "00a0119a68f95ef702a9002e61453919499f78e4dcf5c4d94c5285063b3ce0bb"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page7.png",
+          "returned": false,
+          "frame": 426,
+          "sha256": "bf9e16391ced7fe77152d76c169da25d55e5ff965711a1c9b8ac78dbfdd839f4"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page8.png",
+          "returned": false,
+          "frame": 442,
+          "sha256": "eef16b59d061fba6d9ea57d184025976a4b6a935b868086ef89f943ad6cff71a"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page9.png",
+          "returned": false,
+          "frame": 458,
+          "sha256": "fd41256ca686a431ae5895652f5d51daafac896b518478b4fa1b273bbc78ec62"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page10.png",
+          "returned": false,
+          "frame": 474,
+          "sha256": "448473e12b4c10ce858905cb587df690bf6a0512351ba7c76611047f01a66151"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page11.png",
+          "returned": false,
+          "frame": 490,
+          "sha256": "b18e4f203109f454cc90db2de991f446a677b5d86ca91720eaf012e143338453"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page12.png",
+          "returned": false,
+          "frame": 506,
+          "sha256": "a750babbe11cb6112e20a7457a50134eade4fe3f98cdd9b53410ce7e27430d1e"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page13.png",
+          "returned": false,
+          "frame": 522,
+          "sha256": "bf9e16391ced7fe77152d76c169da25d55e5ff965711a1c9b8ac78dbfdd839f4"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page14.png",
+          "returned": false,
+          "frame": 538,
+          "sha256": "ee2b5773120c7502c23f74a8062fbf2a2e3f6b4bd8bb54d823957dddf2e5d7e4"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page15.png",
+          "returned": false,
+          "frame": 554,
+          "sha256": "26908f73c9b9190eebc7009dcc00d95133433b61741d2a8211c3ed5ec61aab75"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page16.png",
+          "returned": false,
+          "frame": 570,
+          "sha256": "460511d7a4bd56f61383ff655504c51783204ac8089bcfb33ec92c967425564d"
+        },
+        {
+          "capture": "v063-418-b3-2-b5-2-distinct-page17.png",
+          "returned": false,
+          "frame": 586,
+          "sha256": "fb89ed0bf0fae083b8ab29cc8b6842bfbdbf5a21b49e414b1d3e46280cf1d3b2"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 419,
+      "fixture_sha256": "1faaf20966f82feb8cf518e5bbb2a2464812ef37d4d107da04c409eda01c4a79",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-419-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-419-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-419-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "0d20c0be89c9669ad0c28d340673e875d6b8f1b9c04b02cd06e342b124b2063e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 420,
+      "fixture_sha256": "2e4689b6d025aba4286cf59a7ea854b553046e53d4c102c942ca176cb64d0bb1",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-420-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-420-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-420-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "f4cdef62bcab9d6a894b21ffeac26a20542b3af334f24bc42a20abd7028819ac"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 421,
+      "fixture_sha256": "43535176fea8ce53b4083296cf850be485a6954dfb7be7f738093bcdaaee5e0d",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-421-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-421-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-421-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "9b9aa68bef80c33779603c7520ef9d60b27da626021a6d2f1cb27243fcdcb76c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 424,
+      "fixture_sha256": "7a8e7c309d6f14d3e55dc37c8d26a2b9a50f2a1a68d18054d75fd398399b1a38",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-424-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-424-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-424-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "b7b45243672c45a044ab683ddd382a1d0ee938b6a34c218c7fc13bdbd0d9abf2"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 425,
+      "fixture_sha256": "9fa96e48018bd62118910bc7bedf1f09d067ac1c9574e11db0a6306e024b39e4",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "764e6594acab7a746d5e1057e5b841a15b4fe868077164120d5bee8faccdf3ef"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 361,
+          "sha256": "9a7d55ccff9349cd226c42eaf8a0c72f8abb663c9dcbdcde39edd718f1966787"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 377,
+          "sha256": "6535b5f7603e70702000e8dc9710ed1abf6bea2ae9f9941467d0a480f7d96730"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page5.png",
+          "returned": false,
+          "frame": 393,
+          "sha256": "95f89f8c51e69816e531471f241fe67a825d983b1a8d179a3f61cbe5508108fd"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page6.png",
+          "returned": false,
+          "frame": 409,
+          "sha256": "dedff85b5e86fc9210a18d99cd89dd2e8852508954a4ccb33a603637a54ac39f"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page7.png",
+          "returned": false,
+          "frame": 425,
+          "sha256": "d384277fc1e4bf8b5075daf2ddbc2f9251d8d3df1e397c22ba1471a7a72e0404"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page8.png",
+          "returned": false,
+          "frame": 441,
+          "sha256": "00393e9d26224261e9b89a4875407a9b40e35c88bd905f0bc485bb7fbe61e317"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page9.png",
+          "returned": false,
+          "frame": 457,
+          "sha256": "60965c955aa7292e47df2856b92de8295c84d9a4ecfeff5cf2c0b6338955ac72"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page10.png",
+          "returned": false,
+          "frame": 473,
+          "sha256": "d861b51006024e2ddbfa228becef20984efde3e755132805ea4000784a1e1e90"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page11.png",
+          "returned": false,
+          "frame": 489,
+          "sha256": "821f1f39359ce5d6d5db50d9cf87fa752e45002a75233c81a26c040059504fee"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page12.png",
+          "returned": false,
+          "frame": 505,
+          "sha256": "411025cbdfc47e0c6aae41dac15f028a92b401809f1c1de0859efd209f610455"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page13.png",
+          "returned": false,
+          "frame": 521,
+          "sha256": "d384277fc1e4bf8b5075daf2ddbc2f9251d8d3df1e397c22ba1471a7a72e0404"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page14.png",
+          "returned": false,
+          "frame": 537,
+          "sha256": "445d2295b1a7730c662036261b9cffe8990fc3b518f59bd9059f676468418f21"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page15.png",
+          "returned": false,
+          "frame": 553,
+          "sha256": "d46a732cfdf7378194f82d622505e3a530ae5b49ce396c616a491935c92db961"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page16.png",
+          "returned": false,
+          "frame": 569,
+          "sha256": "6908542ded53e9df687934fcd8c6bc495f114f09d9c925fb6af547b6bbba06ca"
+        },
+        {
+          "capture": "v063-425-b3-2-b5-2-distinct-page17.png",
+          "returned": false,
+          "frame": 585,
+          "sha256": "e2d4c870e378d9c9d01a3bac7cfe2aa7e94b6d8d0de88bdcfc25f23ae4d8c7f8"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 426,
+      "fixture_sha256": "ce14c6ebdae5ce3b63006561d2c5c37aeb13cfc98eba58fab088dba8b065591f",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-426-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-426-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-426-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "7b32568dda6f58feed35be9247442e815b3172995848de69b97bc776a0c08928"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 430,
+      "fixture_sha256": "a1e495b16e9c3ecf242a6bf81fc3edd0b46dbd7a6e2d314517ca61b8349a0f1c",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 346,
+          "sha256": "1b8aa46940f50302ad57b36ac249a01bca9f2a05343b9bcf52a849c63366b1ee"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 362,
+          "sha256": "e23c69185894a2a892fd75e766aea67289bcd2be0005da5fc5268224a3654998"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 378,
+          "sha256": "bf25a1abce6c6c5c5bd5e24ee36a30ea4df4b79e7f8fc59f49ea1c3f353d2b72"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page5.png",
+          "returned": false,
+          "frame": 394,
+          "sha256": "55e506a133d5ee90855c93d0db1d058ef598dca6dc27eaa3607d5ca0f94ffa4e"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page6.png",
+          "returned": false,
+          "frame": 410,
+          "sha256": "778131eaaf1f96f89cc33063a8e9719a8626462ef1ba662fc58a3a343b26a340"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page7.png",
+          "returned": false,
+          "frame": 426,
+          "sha256": "5afb3f2ceb7d18a861a1c2dac8984e9b3c3b4479d355c09961381598ba15e169"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page8.png",
+          "returned": false,
+          "frame": 442,
+          "sha256": "5ecfeef1338a11a59c224de5a0a76bdfaf8b2383d9d6cb5e92d47b5888a56201"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page9.png",
+          "returned": false,
+          "frame": 458,
+          "sha256": "60cbd95a0a08eb5c6e86b99810726b2a4e1e50f9de61262f45179809209fd994"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page10.png",
+          "returned": false,
+          "frame": 474,
+          "sha256": "df8f81684bdeaa72bcc8cb05f0ba13a149adc3db536f0b4b5ecc8c0a4c968301"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page11.png",
+          "returned": false,
+          "frame": 490,
+          "sha256": "784208b77a90353e7c6ad39f868a8730b13c6eaeb12ecc4816d7850e5b03dc4e"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page12.png",
+          "returned": false,
+          "frame": 506,
+          "sha256": "5e0e7cfaf7d6b26b08bfa87203e093b19c72d830cbb8bed71a33fbc1c12d7316"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page13.png",
+          "returned": false,
+          "frame": 522,
+          "sha256": "5afb3f2ceb7d18a861a1c2dac8984e9b3c3b4479d355c09961381598ba15e169"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page14.png",
+          "returned": false,
+          "frame": 538,
+          "sha256": "937d79646f16233b61e53b744eeb6e460efdc94665aae6e5125dc77eb59b54a4"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page15.png",
+          "returned": false,
+          "frame": 554,
+          "sha256": "712028fb938de3c7dbd3ed46315cef4e382ed6f5d263175032e17f3935310a7d"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page16.png",
+          "returned": false,
+          "frame": 570,
+          "sha256": "d06265aa8582e13221eefbf865de919897955a6854173d6269356f66a38cd8ee"
+        },
+        {
+          "capture": "v063-430-b3-2-b5-2-distinct-page17.png",
+          "returned": false,
+          "frame": 586,
+          "sha256": "3689cd54739370f191cb8bd2cf3a8e0c3aad611d1a15c0d8b31214791b8c8121"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 431,
+      "fixture_sha256": "daf5fdce3704d99ff35bc32d4483a654db110e3fe68c746eb31f121f92f8b306",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-431-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-431-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-431-b3-2-b5-2-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "8c6d6829ffea4aa27181e6d488713d354e03d185c0f3c8b923545c1851c6654a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 441,
+      "fixture_sha256": "69eb49826b1b4410e47d53d122d7252e706915a7253b8e487c3af61e9e2a9271",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-441-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-441-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-441-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "68bef64c56cb6f2c4a413f82c1cc138c8932123e124409ce1173133762f20049"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 456,
+      "fixture_sha256": "20ba111278ad2025ff454133a79c7fdf7d90c6d99a6fb66c767caa79c15c9394",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-456-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-456-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-456-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "4ee2ac7dfefb791ac848eccc6613c1d44fe6dc1bc6da09f640fdd1c68b4e78c8"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 457,
+      "fixture_sha256": "371aa633d994e50d9f42d6f27e915c52b03866b150dd20c418d19d8947ca62eb",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-457-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-457-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-457-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "d83daa243a3a9c3cc7aed655c9545349cb318b0ded5a42c4b026fddeb942d786"
+        },
+        {
+          "capture": "v063-457-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 381,
+          "sha256": "d3f1f8ed5f4fed9381554ce9d4c88d5521b4644cd65ac3e1b3bdaaeec0a7a79f"
+        },
+        {
+          "capture": "v063-457-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 384,
+          "sha256": "6bbc8fbf197d419e30d850ffe3c991ddfc62211b1460df4231e1209ea59125a3"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 460,
+      "fixture_sha256": "afe4ea6a5ca6b3dce930263eee382a1786413bb16dd57a6b3beebeb7ca17beb7",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-460-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-460-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-460-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "159e3e89a70fe6dab0b927f42a3d47ee196b1361ee513444e02b826b097e0aeb"
+        },
+        {
+          "capture": "v063-460-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 383,
+          "sha256": "b1d1298b9a4153849234d63a88ce2a7586ac3690e852f626e97e531ff4c88204"
+        },
+        {
+          "capture": "v063-460-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 422,
+          "sha256": "a6336055441051af7990697c8e1ae7629cc60648adf9c38a5d3cdf8876d86d42"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 474,
+      "fixture_sha256": "04d4262eb750c87467a74e2da87da0f0450fd3d73158d38a5d4095ce17a3d415",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-474-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-474-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-474-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "fcc615688979d91130b5903682de4576afde1cf0e38d3a0eca0a287a2be88c1d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 482,
+      "fixture_sha256": "2628ae21642220f0e77577956c85119eaa2f9291644ae7c5a7ea65a1209163a1",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-482-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-482-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-482-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "13a94f8596b90c4a63c0ca920dc834967bc659c392026af44a00f226d14081af"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 489,
+      "fixture_sha256": "81aade3ee678b3bb402750ff941f8244c8e701dec8864056395f3b2fee3e63d9",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-489-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-489-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-489-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "24ebee84daa15dc0643e5165094003924ec01d4aa51bdfd85dc0c6dd19938caf"
+        },
+        {
+          "capture": "v063-489-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 382,
+          "sha256": "d3f1f8ed5f4fed9381554ce9d4c88d5521b4644cd65ac3e1b3bdaaeec0a7a79f"
+        },
+        {
+          "capture": "v063-489-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 385,
+          "sha256": "488cf391077961e77284e10cada4062ba3b89408e9bc6d9efbd253b007829be7"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 491,
+      "fixture_sha256": "f9cafa66dd56ede1b50ec6eb206d3eae57081c944042f53728d9ea34b0b34126",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-491-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-491-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-491-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "d0636fab1c1332c33ab28459abab0c5c25877f88918fe19d881454da84109983"
+        },
+        {
+          "capture": "v063-491-b3-2-b5-2-distinct-page3.png",
+          "returned": false,
+          "frame": 383,
+          "sha256": "d1ef642334184ec6a7bfaddf70895268a6b8fe88043e065a0910790282ea7db4"
+        },
+        {
+          "capture": "v063-491-b3-2-b5-2-distinct-page4.png",
+          "returned": false,
+          "frame": 420,
+          "sha256": "0e87054e2926c3c67b8aa507a05b12c4fceaa15b60c2d96d2fe5fe786d0a5c84"
+        },
+        {
+          "capture": "v063-491-b3-2-b5-2-distinct-page5.png",
+          "returned": false,
+          "frame": 423,
+          "sha256": "f738e9ef6193aaba6689b5a8e99ab6bd4d56db9635ba0a3a606c439c32122f37"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 557,
+      "fixture_sha256": "7a9c10be6e0d36771aa3393d731df7212f3c07cbb4732fb4f854178c698f8aa0",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-557-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-557-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-557-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 345,
+          "sha256": "742579bff23e2e35d15dbdc0a45896bcfd3e1a60f7a430aacc774139958206f8"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 559,
+      "fixture_sha256": "ea3277ef9ccd3dd143321f9039f3098f95835da65f1af0cdcffb5efec81a42ab",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-559-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-559-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-559-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "d0130762e7081d3d94c965ed605269bea1c1bc4f9efbbb2b1ac7d1eca9e6ff4a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 561,
+      "fixture_sha256": "31ae8e028b411d1ca4e367803fb337f6a643ba929563f745131c71bece64f68d",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-561-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-561-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-561-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "f79021c032407090c4761bf3908ab73c0502a38103d07eedbd81df0659f50cb7"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 568,
+      "fixture_sha256": "cfb4572a1bcd251cc4dda6e4e7bb1e84c6d9f6e8de4a37989eb660bef4181bce",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-568-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-568-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-568-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 344,
+          "sha256": "4d3bad1dd9dd2a06b4ac11edda08c9b80cf84cfe5d2912b9ddc283b96b6eff5c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 581,
+      "fixture_sha256": "445dffe08962af94e3f220302ad9a3c0158780f5365d5d9febc1437fba1d8e43",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-581-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-581-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-581-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "acd92a6fc78d827d289fd85b90a596c8d76602a0f98064283c0c4340a14dc69f"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    },
+    {
+      "id": 588,
+      "fixture_sha256": "5bec0d1a87d699fde7626b61825d1449accef4ba6b66bf0b5647330c50d7ff52",
+      "B2_value": 1583,
+      "B3_value": 2,
+      "B4_value": 2,
+      "B5_value": 2,
+      "BB_value": 999,
+      "actor_and_target_SID": "02F1",
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v063-588-b3-2-b5-2-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v063-588-b3-2-b5-2-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v063-588-b3-2-b5-2-distinct-page2.png",
+          "returned": false,
+          "frame": 342,
+          "sha256": "9e7b72cff74f30f85b2b6c420e1e3d6e667a5057a6e3015dd63ff54ec8bbd265"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true,
+      "scope": "Finale relue ; intermédiaires des fenêtres BC/C2 multiples relus séparément. Clignotements AF non comptés comme phrases."
+    }
+  ]
+}
