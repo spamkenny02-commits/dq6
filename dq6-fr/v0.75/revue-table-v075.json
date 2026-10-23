@@ -1,0 +1,1402 @@
+[
+  {
+    "sid": 607,
+    "position": 607,
+    "french": "Mortamor",
+    "layout": "Mortamor",
+    "previous": "Deathtamoor",
+    "sfc_jp": "デスタムーア",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 237,
+        "JA_text": "@1デスタムーア@",
+        "FR_text": "@0M@4Mortamor@7Mortamor@8N@9N@",
+        "JA_sha256": "b4109f50b34ab8367f36b6e19b96800e2d072aff0bcdbdd213511615ed671a9c",
+        "FR_sha256": "fe71d50020581db63d6cb60b42b7fe87dde0353b79a5c1d710f2c0dbd1e76838"
+      }
+    ],
+    "review": "Même nom japonais et même champ DS pour toutes les variantes physiques de ce boss dans le bloc monstres. Traduire le nom propre de toutes ces variantes ensemble sans fusionner leurs positions ou pointeurs. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "13d7f955ceeb53ac",
+    "encoded_hex": "1cec55ceecac",
+    "old_sha256": "d206f63af7a44472f2fc0955efd25786376c9d6f74b0d6d48fc13f9c9402ae75",
+    "new_sha256": "79f437d978fc45cb90597afa99c5bbbf4c7c8c6197ab22e7265a18edaa05cf3b",
+    "old_columns": 11,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 667,
+    "position": 667,
+    "french": "Mortamor",
+    "layout": "Mortamor",
+    "previous": "Deathtamoor",
+    "sfc_jp": "デスタムーア",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 237,
+        "JA_text": "@1デスタムーア@",
+        "FR_text": "@0M@4Mortamor@7Mortamor@8N@9N@",
+        "JA_sha256": "b4109f50b34ab8367f36b6e19b96800e2d072aff0bcdbdd213511615ed671a9c",
+        "FR_sha256": "fe71d50020581db63d6cb60b42b7fe87dde0353b79a5c1d710f2c0dbd1e76838"
+      }
+    ],
+    "review": "Même nom japonais et même champ DS pour toutes les variantes physiques de ce boss dans le bloc monstres. Traduire le nom propre de toutes ces variantes ensemble sans fusionner leurs positions ou pointeurs. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "13d7f955ceeb53ac",
+    "encoded_hex": "1cec55ceecac",
+    "old_sha256": "d206f63af7a44472f2fc0955efd25786376c9d6f74b0d6d48fc13f9c9402ae75",
+    "new_sha256": "79f437d978fc45cb90597afa99c5bbbf4c7c8c6197ab22e7265a18edaa05cf3b",
+    "old_columns": 11,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 668,
+    "position": 668,
+    "french": "Mortamor",
+    "layout": "Mortamor",
+    "previous": "Deathtamoor",
+    "sfc_jp": "デスタムーア",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 237,
+        "JA_text": "@1デスタムーア@",
+        "FR_text": "@0M@4Mortamor@7Mortamor@8N@9N@",
+        "JA_sha256": "b4109f50b34ab8367f36b6e19b96800e2d072aff0bcdbdd213511615ed671a9c",
+        "FR_sha256": "fe71d50020581db63d6cb60b42b7fe87dde0353b79a5c1d710f2c0dbd1e76838"
+      }
+    ],
+    "review": "Même nom japonais et même champ DS pour toutes les variantes physiques de ce boss dans le bloc monstres. Traduire le nom propre de toutes ces variantes ensemble sans fusionner leurs positions ou pointeurs. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "13d7f955ceeb53ac",
+    "encoded_hex": "1cec55ceecac",
+    "old_sha256": "d206f63af7a44472f2fc0955efd25786376c9d6f74b0d6d48fc13f9c9402ae75",
+    "new_sha256": "79f437d978fc45cb90597afa99c5bbbf4c7c8c6197ab22e7265a18edaa05cf3b",
+    "old_columns": 11,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 698,
+    "position": 698,
+    "french": "sorcier",
+    "layout": "sorcier",
+    "previous": "Jutsushi",
+    "sfc_jp": "ようじゅつし",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 66,
+        "JA_text": "@1ようじゅつし@",
+        "FR_text": "@0M@2le @3un @4sorcier@5les @6des @7sorciers@8N@9N@",
+        "JA_sha256": "18db2ef18300007442a9538dd403c9da22e23c4b0fc2f74fba59270ba9cedd4d",
+        "FR_sha256": "e2e6454df64e4304c503f8caafcd9b31679d1344b109203a54b490a9a3411baa"
+      }
+    ],
+    "review": "Nom d’espèce ようじゅつし, sorcier, distinct des rangs de vocation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "19565554fa494aac",
+    "encoded_hex": "f453444adaac",
+    "old_sha256": "e4c6554706efc32b930f34c7c067102507ff3dd7e2ebdd2c7fd6cfcfb1a41990",
+    "new_sha256": "bcfab6cec15cee60d2d8636b5b6920efffbb29eb57ed0b7e21d13baa300af1b7",
+    "old_columns": 8,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 701,
+    "position": 701,
+    "french": "djinn-fizz",
+    "layout": "djinn-fizz",
+    "previous": "Lamp Demon",
+    "sfc_jp": "ランプのまおう",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 156,
+        "JA_text": "@1ランプの;まおう@",
+        "FR_text": "@0M@2le @3un @4djinn-fizz@5les @6des @7djinns-fizz@8N@9N@",
+        "JA_sha256": "e620dd28a72caf706fa24e9d91e2aaa9c7fc263987618e0f8a83a71d93ee9346",
+        "FR_sha256": "18baca26b361cdc1af0b3544a841fdfaa373d8c3ad094c14d772b3eb816b1280"
+      }
+    ],
+    "review": "Génie hostile ランプのまおう : nom d’espèce DS, pas un objet lampe. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1bce510113464eeaac",
+    "encoded_hex": "454bdf4f78474a5b5bac",
+    "old_sha256": "0198e9f4a3531ff6d428635e0d80f8d46d902f1741c712b585fb29dfb7c19a6e",
+    "new_sha256": "d114725d71e016a9604b75a87d0f8f94eca70858f8117b186ac9a0dd45fde23f",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 705,
+    "position": 705,
+    "french": "vilbouffon",
+    "layout": "vilbouffon",
+    "previous": "Chameleon Man",
+    "sfc_jp": "カメレオンマン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 58,
+        "JA_text": "@1カメレオン;マン@",
+        "FR_text": "@0M@2le @3un @4vilbouffon@5les @6des @7vilbouffons@8N@9N@",
+        "JA_sha256": "8f11be0e8939d2a2c7e63451a2a558cfdcb7491a09f9059b7bc1e483d4b41e45",
+        "FR_sha256": "b5c5022c5f32e37ebc4b45e72bc4dfd09db29e50bffe76466d610e1e152d66aa"
+      }
+    ],
+    "review": "Chameléon humanoïde カメレオンマン : vilbouffon, distinct de grobouffon. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1249ce46e2ea011ccfac",
+    "encoded_hex": "574a4d43ed4747eaac",
+    "old_sha256": "32a1ea3ce58153faa16e96aa206feaacd37873fc53d5af38ad0af69c5f18874a",
+    "new_sha256": "2403ce7e50be7c0974e4596e4b150481c0801531b557b43b5caa8c63e56523e5",
+    "old_columns": 13,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 707,
+    "position": 707,
+    "french": "grobouffon",
+    "layout": "grobouffon",
+    "previous": "Killer Jack",
+    "sfc_jp": "キラージャック",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 167,
+        "JA_text": "@1キラー;ジャック@",
+        "FR_text": "@0M@2le @3un @4grobouffon@5les @6des @7grobouffons@8N@9N@",
+        "JA_sha256": "c4d4201d4ac5c23efe6bf9168d9c857e0d3ec4f209b9f0ec19f641494d7f9a60",
+        "FR_sha256": "04e4cf45accb0475db956e4b3a8e29e2a2c9723d5545ea106144bea2afbf54c8"
+      }
+    ],
+    "review": "キラージャック : grobouffon, distinct de vilbouffon. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1a4ae3da0119cd4cac",
+    "encoded_hex": "48f143ed4747eaac",
+    "old_sha256": "f10d225ea02f61ea98256002861c4c47f1c21c05ed68b6d62ed558dd08dca44e",
+    "new_sha256": "a247bfd3b33ff0cb4627f5301994e1b4c234c82186754aac4a180eee2de90181",
+    "old_columns": 11,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 711,
+    "position": 711,
+    "french": "Nokturnus",
+    "layout": "Nokturnus",
+    "previous": "Dark Dream",
+    "sfc_jp": "ダークドレアム",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 245,
+        "JA_text": "@1ダーク;ドレアム@",
+        "FR_text": "@0M@4Nokturnus@7Nokturnus@8N@9N@",
+        "JA_sha256": "297c18c0ff6a592da63aea3b1a3a461110d8a22e68578c438f2c3ef739b78575",
+        "FR_sha256": "0229efa2d8459c277fc106cef1bb876ef83db1288909c144d9654f41bc1d76c5"
+      }
+    ],
+    "review": "Même nom japonais et même champ DS pour toutes les variantes physiques de ce boss dans le bloc monstres. Traduire le nom propre de toutes ces variantes ensemble sans fusionner leurs positions ou pointeurs. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "13d04c0113f0ceac",
+    "encoded_hex": "1d504c5556534ffaac",
+    "old_sha256": "aa06e96b09b0db240b2508731f72c7b7b80e141668adcf58f9dd1461bfb7672f",
+    "new_sha256": "91fd07f66ed8ff0e559406706122af8e68922501fc78d409d652700b5e31c7a9",
+    "old_columns": 10,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 712,
+    "position": 712,
+    "french": "damoisel",
+    "layout": "damoisel",
+    "previous": "Fairy Dragon",
+    "sfc_jp": "フェアリードラゴン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 40,
+        "JA_text": "@1フェアリー;ドラゴン@",
+        "FR_text": "@0M@2le @3un @4damoisel@5les @6des @7damoisels@8N@9N@",
+        "JA_sha256": "911e478f01c85cbaca593ef8a243e4bfcdaa421d8f17eb915cf6842e2dd6be95",
+        "FR_sha256": "b301fb6ee25c1d9eaf55dba758c0dc48d16328b5d75601e62b62e9a7f2010ce4"
+      }
+    ],
+    "review": "フェアリードラゴン : damoisel, nom masculin DS malgré le jeu de mots. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "15424a535a0113ef48eaac",
+    "encoded_hex": "45cee954464dac",
+    "old_sha256": "7a760fb256ee9fe9d68a192148304abf90acb080148fbc26c7a32960f12d6dfc",
+    "new_sha256": "8635d798ccae5c820f18074b8bc238ee4a4d4b05c504ed1fa14de7318e240531",
+    "old_columns": 12,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 714,
+    "position": 714,
+    "french": "puits-sang",
+    "layout": "puits-sang",
+    "previous": "Well Demon",
+    "sfc_jp": "いどまじん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 39,
+        "JA_text": "@1いどまじん@",
+        "FR_text": "@0M@2le @3un @4puits-sang@5les @6des @7puits-sangs@8N@9N@",
+        "JA_sha256": "43cd030b57b8757344121b20dbc75262e17dca99ebe8973acbfa8c0faa834102",
+        "FR_sha256": "0bf5f8698768efa3d81d6ed7bf931b4f55bc26c0579b3285574ad4adf2115b32"
+      }
+    ],
+    "review": "いどまじん : puits-sang, distinct du puisard いどまねき. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "2646e30113464eeaac",
+    "encoded_hex": "5156e1547854cf48ac",
+    "old_sha256": "cdd8e930da4ff578a29e9b4d0363f4f9333b6653d40fcccf2291b1dc887526cf",
+    "new_sha256": "1748489c95d66adf2d1c993bceb9046678c268158af0b7bf07de539292b42b33",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 715,
+    "position": 715,
+    "french": "puisard",
+    "layout": "puisard",
+    "previous": "Well Mimic",
+    "sfc_jp": "いどまねき",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 95,
+        "JA_text": "@1いどまねき@",
+        "FR_text": "@0M@2le @3un @4puisard@5les @6des @7puisards@8N@9N@",
+        "JA_sha256": "8f20b1e256dd7fe7c4406b1ef96f7e43f96e5935fe9e36dbfe0db5dd331bbb38",
+        "FR_sha256": "b23bbe71e65ab4db882083860239b405418aa9da0d29c6d6fe76f1c37ccec097"
+      }
+    ],
+    "review": "いどまねき : puisard, distinct de puits-sang. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "2646e3011c4a4edeac",
+    "encoded_hex": "5156e0d045ac",
+    "old_sha256": "de6f7ef7d48978527cf27051dc18a741f0f0a2852607c3d53059b5f6ccfa2ed4",
+    "new_sha256": "4efa6be36beadd5333e9bedf2580d2da3a2a4d9c1b486bfde0790a88f977eecd",
+    "old_columns": 10,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 717,
+    "position": 717,
+    "french": "tortumastok",
+    "layout": "tortumastok",
+    "previous": "Iron Turtle",
+    "sfc_jp": "アイアンタートル",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 185,
+        "JA_text": "@1アイアン;タートル@",
+        "FR_text": "@0F@2la @3une @4tortumastok@5les @6des @7tortumastoks@8N@9N@",
+        "JA_sha256": "9a0bd252d1e653c03fc4efeb02256e2eaabe085633d9f1e23ccde8a083e051d3",
+        "FR_sha256": "33982dbecbc27fcf0a300ff1872890d6c2d4d9bdab20a4193551302176f4482d"
+      }
+    ],
+    "review": "アイアンタートル : tortumastok, nom d’espèce. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "18f14f0123565355e2ac",
+    "encoded_hex": "55ec55564ed155504cac",
+    "old_sha256": "2509d2fd2f6c10c108cc541a919ffe11f5cdab200b60e69a948b9b0f219f8f54",
+    "new_sha256": "ae79c830b3b1050237b78b04db63724494d3c7e76da515d7276aead63d7ecd2b",
+    "old_columns": 11,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 722,
+    "position": 722,
+    "french": "étripeur",
+    "layout": "étripeur",
+    "previous": "Guardian",
+    "sfc_jp": "ガーディアン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 162,
+        "JA_text": "@1ガーディ;アン@",
+        "FR_text": "@0M@2l'@3un @4étripeur@5les @6des @7étripeurs@8N@9Y@",
+        "JA_sha256": "20106d1c424a2e53b0f89e9e8f099e802d997a3b17c0668dd562c8f4dbc3f0fc",
+        "FR_sha256": "f2a65e046a99bfb4cb7354a0da6c06cb53589d93c0152ba0d13e29714fbd34cc"
+      }
+    ],
+    "review": "ガーディアン : étripeur, nom d’espèce, pas une commande de garde. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1656d0454acfac",
+    "encoded_hex": "2d55534a51465653ac",
+    "old_sha256": "a89b7498a90c3a1ec9274c64303aabb6470d35c8b701d31588b12dc33e965fbf",
+    "new_sha256": "bf26306761964a522f7a823d507e7bbb2729c121ff37c4b3afd104330d5916e8",
+    "old_columns": 8,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 723,
+    "position": 723,
+    "french": "dracal",
+    "layout": "dracal",
+    "previous": "Strong Animal",
+    "sfc_jp": "ストロングアニマル",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 115,
+        "JA_text": "@1ストロング;アニマル@",
+        "FR_text": "@0M@2le @3un @4dracal@5les @6des @7dracals@8N@9N@",
+        "JA_sha256": "c5e6a99e66ad0f17ffc501f83e0cd020d6523872eb5edbf2c2a1fe2e8be5b684",
+        "FR_sha256": "85ece1fa7ac3f57c636e526cdbb33a817d19e36ac1e30bc6fa041c30ce3f1bd4"
+      }
+    ],
+    "review": "ストロングアニマル : dracal, nom d’espèce distinct des autres animaux. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "2255f14f4801104f4a4e424dac",
+    "encoded_hex": "45ef44424dac",
+    "old_sha256": "c23a682270156738212df523600c828c71ca67746036c19246d9f8136b1c8802",
+    "new_sha256": "8e85d07a0f9578f9952321067c81629a38c6438872db245405c668043e98614e",
+    "old_columns": 13,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 726,
+    "position": 726,
+    "french": "poisséidon",
+    "layout": "poisséidon",
+    "previous": "King Merman",
+    "sfc_jp": "キングマーマン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 198,
+        "JA_text": "@1キング;マーマン@",
+        "FR_text": "@0M@2le @3un @4poisséidon@5les @6des @7poisséidons@8N@9N@",
+        "JA_sha256": "80ff95340095d68ac1b87b65b093d1f7d23f883c887838fb5c904bb758c04ffd",
+        "FR_sha256": "853f1f6bb9ffed2e2ae8976e3d23ac6d36df61c2d09d9fc9662ff33792ef415d"
+      }
+    ],
+    "review": "キングマーマン : poisséidon, nom d’espèce complet. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1adf48011cda4ecfac",
+    "encoded_hex": "51e954542d4a45eaac",
+    "old_sha256": "ab69e33de923dd0690b4673e8a9b20fb51a05519e18235056782e79f7da79d59",
+    "new_sha256": "eb2670fb125155d72b4d44db729aa6e80c2de414f1c8c7ba532e76bef8ae9c98",
+    "old_columns": 11,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 727,
+    "position": 727,
+    "french": "Nokturnus",
+    "layout": "Nokturnus",
+    "previous": "Dark Dream",
+    "sfc_jp": "ダークドレアム",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 245,
+        "JA_text": "@1ダーク;ドレアム@",
+        "FR_text": "@0M@4Nokturnus@7Nokturnus@8N@9N@",
+        "JA_sha256": "297c18c0ff6a592da63aea3b1a3a461110d8a22e68578c438f2c3ef739b78575",
+        "FR_sha256": "0229efa2d8459c277fc106cef1bb876ef83db1288909c144d9654f41bc1d76c5"
+      }
+    ],
+    "review": "Même nom japonais et même champ DS pour toutes les variantes physiques de ce boss dans le bloc monstres. Traduire le nom propre de toutes ces variantes ensemble sans fusionner leurs positions ou pointeurs. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "13d04c0113f0ceac",
+    "encoded_hex": "1d504c5556534ffaac",
+    "old_sha256": "aa06e96b09b0db240b2508731f72c7b7b80e141668adcf58f9dd1461bfb7672f",
+    "new_sha256": "91fd07f66ed8ff0e559406706122af8e68922501fc78d409d652700b5e31c7a9",
+    "old_columns": 10,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 730,
+    "position": 730,
+    "french": "hachosaure",
+    "layout": "hachosaure",
+    "previous": "Battle Rex",
+    "sfc_jp": "バトルレックス",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 160,
+        "JA_text": "@1バトル;レックス@",
+        "FR_text": "@0M@2le @3un @4hachosaure@5les @6des @7hachosaures@8N@9N@",
+        "JA_sha256": "fe07338cb26ee3784ed712ecfb62a9a8d50e8552fce6e3cf79ec4e6c8d703bd0",
+        "FR_sha256": "59c2f855bf7ad1559726d81a1a143440e61489c3e35681d290af31c091b0cdd8"
+      }
+    ],
+    "review": "バトルレックス : hachosaure dans le bloc monstres, distinct du nom du compagnon. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "11d255e201214659ac",
+    "encoded_hex": "49cd4950544256f0ac",
+    "old_sha256": "f0fc42249a4a1c382b35768362103fa0d68f067def1f663bd3b0476739aa39d3",
+    "new_sha256": "85329a82bd7c6b3274e8abdeaa87b4e495253f999fc9cddd33676b782e36feb0",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 732,
+    "position": 732,
+    "french": "lépidorus",
+    "layout": "lépidorus",
+    "previous": "Magic Fly",
+    "sfc_jp": "マジックフライ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 122,
+        "JA_text": "@1マジック;フライ@",
+        "FR_text": "@0M@2le @3un @4lépidorus@5les @6des @7lépidorus@8N@9N@",
+        "JA_sha256": "4bfbc451e63906156502852f4ef3843864c5d261aef80e8ffea982d346d63e95",
+        "FR_sha256": "c1509c401eaddb17f282d0f401d40f87e7ea02a7d4391c0abece6cb47b861c31"
+      }
+    ],
+    "review": "マジックフライ : lépidorus, nom d’espèce. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1c4248de0115e4ac",
+    "encoded_hex": "4d2d514a45ecfaac",
+    "old_sha256": "874bed7b1d1b820ea2a522ac95c60c202804c70a82b766eb58f69803d059d436",
+    "new_sha256": "4b8f9e46302ba7c091e31d6a32d3cc32d63d1880ff87cbb526660eda3cec5710",
+    "old_columns": 9,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 742,
+    "position": 742,
+    "french": "troll",
+    "layout": "troll",
+    "previous": "Troll",
+    "sfc_jp": "トロル",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 104,
+        "JA_text": "@1トロル@",
+        "FR_text": "@0M@2le @3un @4troll@5les @6des @7trolls@8N@9N@",
+        "JA_sha256": "7051233a2eaadbc35a0f750547c8b7179402d78b527a6a0137870244f505b251",
+        "FR_sha256": "5e34220f1c1c9e2933fee0154112dab7ee047a3f192779ad8ee9456116d8e4f0"
+      }
+    ],
+    "review": "トロル : troll, capitalisation DS ; seul changement linguistique de casse. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "23f1e3ac",
+    "encoded_hex": "55f1e3ac",
+    "old_sha256": "2dc2453d3c80a703a5980ee77d8ea67142753eaa2bc4b020a4d9f9de63567be5",
+    "new_sha256": "fda4e87ec7dd0a1864329e90157bbcb603963e67622b0a22d16c695f914b299b",
+    "old_columns": 5,
+    "new_columns": 5,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 743,
+    "position": 743,
+    "french": "gigatroll",
+    "layout": "gigatroll",
+    "previous": "Troll Bomber",
+    "sfc_jp": "トロルボンバー",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 159,
+        "JA_text": "@1トロル;ボンバー@",
+        "FR_text": "@0M@2le @3un @4gigatroll@5les @6des @7gigatrolls@8N@9N@",
+        "JA_sha256": "2be514c8433381a51987cd50d7c28d469ecb23c054371ff7e755c9600c4d2d52",
+        "FR_sha256": "3ee8ef76823c3fc9369c4d685057321517fb28111feeaa07785009a38a452c7f"
+      }
+    ],
+    "review": "トロルボンバー : gigatroll, distinct de troll et chef troll. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "23f1e30111504e43daac",
+    "encoded_hex": "484a48d2f1e3ac",
+    "old_sha256": "188832b298cff5c24853e92465e86d914e76f091f5a9fc5bd3ae32bd4940c5a6",
+    "new_sha256": "5caef953841b755e99f44c82e50c92c73e195546b4bd2a23238365ebd4b9e0aa",
+    "old_columns": 12,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 747,
+    "position": 747,
+    "french": "grodémon",
+    "layout": "grodémon",
+    "previous": "Berserker",
+    "sfc_jp": "ブースカ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 171,
+        "JA_text": "@1ブースカ@",
+        "FR_text": "@0M@2le @3un @4grodémon@5les @6des @7grodémons@8N@9N@",
+        "JA_sha256": "5083080bf3b06e278c02646ba43a7b41ea7252ca1c703b64ee9401953cbccafa",
+        "FR_sha256": "4342be19435635b087668142b298dc5cd9a78b071b5372e9a6c2ccb996f89132"
+      }
+    ],
+    "review": "ブースカ : grodémon, espèce distincte des compétences. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "11da54da4cdaac",
+    "encoded_hex": "48f1452d4eeaac",
+    "old_sha256": "53ab974896719690819a025c1201c45211a224be382fa4e19f0c806e5e295e8a",
+    "new_sha256": "050bef1411e12bcdac9b01f9504b6b01ade03dd023d387a234d3ed1255d34e71",
+    "old_columns": 9,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 749,
+    "position": 749,
+    "french": "diablobscur",
+    "layout": "diablobscur",
+    "previous": "Killer Demon",
+    "sfc_jp": "キラーデーモン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 148,
+        "JA_text": "@1キラー;デーモン@",
+        "FR_text": "@0M@2le @3un @4diablobscur@5les @6des @7diablobscurs@8N@9N@",
+        "JA_sha256": "bbc90806e6c4547a233863eed85601b03ebf03ee4ecc253a1a9edbfdb62319da",
+        "FR_sha256": "e98f1b41db447781f99650404b46140d4d55913f7806e199b16d62869dd98c93"
+      }
+    ],
+    "review": "キラーデーモン : diablobscur, espèce. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1a4ae3da0113464eeaac",
+    "encoded_hex": "454a42434d504354445653ac",
+    "old_sha256": "1ebaa691a57a573cac095897af0a961a76385551d7aea1e012f13e13dfef0885",
+    "new_sha256": "55ed1334e902153b7c3a516d3e2912af605846feb4db270c6c751ceec52e5120",
+    "old_columns": 12,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 760,
+    "position": 760,
+    "french": "nébulogénie",
+    "layout": "nébulogénie",
+    "previous": "Cloud Giant",
+    "sfc_jp": "くものきょじん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 60,
+        "JA_text": "@1くもの;きょじん@",
+        "FR_text": "@0M@2le @3un @4nébulogénie@5les @6des @7nébulogénies@8N@9N@",
+        "JA_sha256": "35cfbde823dec5bf26f20a35ecbe95bd194a3efb346a193bd4b0aaa5c044a5eb",
+        "FR_sha256": "36d5fb7286e79483794f3927ffff290a8171c7235f87c18237b9953bf1ecb35a"
+      }
+    ],
+    "review": "くものきょじん : nébulogénie, espèce. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "124ded4501164acf55ac",
+    "encoded_hex": "4f2d43564d50482d4f4a46ac",
+    "old_sha256": "95223271e65fe3515a100a5a594583ae85b4449ec0c902c812b4536a4636c032",
+    "new_sha256": "77b5c4eb9d7ebab2a2cf27dbe8e7348e87ef322e1444202088fd81efcdcdcfe6",
+    "old_columns": 11,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 761,
+    "position": 761,
+    "french": "armuramor",
+    "layout": "armuramor",
+    "previous": "Tower Guard",
+    "sfc_jp": "とうのへいたい",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 199,
+        "JA_text": "@1とうの;へいたい@",
+        "FR_text": "@0M@2l'@3un @4armuramor@5les @6des @7armuramors@8N@9Y@",
+        "JA_sha256": "f6e008605a10c9679c7bb36ad497403289638307ef2d20e0aa62009804ff3c98",
+        "FR_sha256": "7c45afb86fd4b6badeae5db2649ba7272c6b4ed83bd7066e0ecd76a0844bc7e3"
+      }
+    ],
+    "review": "とうのへいたい : armuramor, soldat de la tour, pas une vocation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "23eeda011656d045ac",
+    "encoded_hex": "d04e56ef4eecac",
+    "old_sha256": "0c30154c5496eeeb1b3c45999d8fac8faa4eb35667910a27aad145997ac7fb14",
+    "new_sha256": "a09545e1ed4eb58ae9784349d618d59adb4be02f64d28baa4064350f955d3926",
+    "old_columns": 11,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 763,
+    "position": 763,
+    "french": "grrrgouille",
+    "layout": "grrrgouille",
+    "previous": "Horror Beast",
+    "sfc_jp": "ホラービースト",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 202,
+        "JA_text": "@1ホラー;ビースト@",
+        "FR_text": "@0F@2la @3une @4grrrgouille@5les @6des @7grrrgouilles@8N@9N@",
+        "JA_sha256": "6d93c0a14317c4c77794125a25e2b67f5b934a4941b5bf5c4cf2d06a8160d1cb",
+        "FR_sha256": "4feb869abbc88efca1b56844146888d53dceff3080652a2ad013fd75757fd917"
+      }
+    ],
+    "review": "ホラービースト : grrrgouille, orthographe DS avec trois r consécutifs après g. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "17ecf1530111d7f5ac",
+    "encoded_hex": "4853535348ed4ae346ac",
+    "old_sha256": "c3053e335d1971660d5ecc9506bca33f74f2addd161e024002a668ac27e7855e",
+    "new_sha256": "1c6e549512f6e411b3eec87edef0fdde36026d5cdca3866a446a9945f848ea63",
+    "old_columns": 12,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 764,
+    "position": 764,
+    "french": "outretombe",
+    "layout": "outretombe",
+    "previous": "Poison Zombie",
+    "sfc_jp": "ポイズンゾンビ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 203,
+        "JA_text": "@1ポイズン;ゾンビ@",
+        "FR_text": "@0M@2l'@3un @4outretombe@5les @6des @7outretombes@8N@9Y@",
+        "JA_sha256": "6abfa714e6d4f312035b6752053a4ff31670b81116e8644ec270b886d82a92cd",
+        "FR_sha256": "a00f12e5ae57182fce393e7560c7d3760334294157f147605ef274f8e2b4db3e"
+      }
+    ],
+    "review": "ポイズンゾンビ : outretombe, distinct de macchab et zombinator. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1fe9f44f0129504e434a46ac",
+    "encoded_hex": "ed55f055504e4346ac",
+    "old_sha256": "e8bbe60d72b2926c2ae8d6c703274d1e587a5925fc4092ffb1eedf818e3b4187",
+    "new_sha256": "a7521222404f37532d282e9a05a6adfd2f23cce3118afec5fe4f70e0d1924a6d",
+    "old_columns": 13,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 776,
+    "position": 776,
+    "french": "Jamirus",
+    "layout": "Jamirus",
+    "previous": "Jamiras",
+    "sfc_jp": "ジャミラス",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 216,
+        "JA_text": "@1ジャミラス@",
+        "FR_text": "@0M@4Jamirus@7Jamirus@8N@9N@",
+        "JA_sha256": "d98d7fd0923a2f016f0b5527af2a56375be4329cfaa5fb71e35a2fd8b2ca0670",
+        "FR_sha256": "09094359e206f93c1f40db82e342ad540ae15635d8ec78a9189fa1fabe69373e"
+      }
+    ],
+    "review": "ジャミラス : Jamirus, nom propre du boss. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "19ce4aef54ac",
+    "encoded_hex": "19ce4a53faac",
+    "old_sha256": "813057848fe3ff9afef701a245ab49ccfd4d5b222cb636e27b3d25b38833f997",
+    "new_sha256": "bde46da5d363cfe52c791ea1643a9964edf367fd9790cfcc8f28f102c4c2a664",
+    "old_columns": 7,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 777,
+    "position": 777,
+    "french": "Typhonia",
+    "layout": "Typhonia",
+    "previous": "Hell Cloud",
+    "sfc_jp": "ヘルクラウド",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 225,
+        "JA_text": "@1ヘル;クラウド@",
+        "FR_text": "@0M@4Typhonia@7Typhonia@8N@9N@",
+        "JA_sha256": "9b0503e6d2871f9ee8cf9778df1237f50f306cc18d844af0af225aaefbc14d56",
+        "FR_sha256": "58cafbbe756450f163be3fa683041892738ddbf47bb31261900778bacb617c99"
+      }
+    ],
+    "review": "ヘルクラウド : Typhonia, nom propre du boss. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1746e301124ded45ac",
+    "encoded_hex": "235a5149ea4a42ac",
+    "old_sha256": "90176ad2c260e0b7898cfb49813a55277c955d1ea88be84917348a22a09b0839",
+    "new_sha256": "d50e5cdaab3b5ae36098e10dfd928dd315c1b14ba055c2a750d0515c5dbcf953",
+    "old_columns": 10,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 779,
+    "position": 779,
+    "french": "Gracos",
+    "layout": "Gracos",
+    "previous": "Glacos",
+    "sfc_jp": "グラコス",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 221,
+        "JA_text": "@1グラコス@",
+        "FR_text": "@0M@4Gracos@7Gracos@8N@9N@",
+        "JA_sha256": "9d4f6e9ae674ee2af84b94bdf692a7f33d7e1947ef9c5ac11a9cd05282f5e4b6",
+        "FR_sha256": "ed05ddb4b0154ad6dcfdc6250af067095d11324bebf3699cd72cf815ba1e3131"
+      }
+    ],
+    "review": "グラコス : Gracos, nom propre du boss. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "164dcd5054ac",
+    "encoded_hex": "16ef445054ac",
+    "old_sha256": "889b6c4866eb6fc414fd0b0a7d47b3b00c223162a5fa2caaca1839ec4fceb825",
+    "new_sha256": "a47aff4479075b29838bd47851f9bd0c607f131d2be64ca1e2fa945af39f8260",
+    "old_columns": 6,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 784,
+    "position": 784,
+    "french": "Titus",
+    "layout": "Titus",
+    "previous": "DeWitt",
+    "sfc_jp": "デビット",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 228,
+        "JA_text": "@1デビット@",
+        "FR_text": "@0M@4Titus@7Titus@8N@9N@",
+        "JA_sha256": "b7f96fd39ca8d96d171fba1ebdd31a5f0cda41cceb174270361f74d35d46e689",
+        "FR_sha256": "0e166138078a2be421d3219d235676e50f7504ab493b54296d448ddfae9f5d05"
+      }
+    ],
+    "review": "デビット : Titus, nom propre de l’adversaire, pas une traduction littérale anglaise. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "134626e155ac",
+    "encoded_hex": "23e1faac",
+    "old_sha256": "846b3753cfb9bad9a740da6825ad5b3ea42cdac8d273ab113aead8251921bd46",
+    "new_sha256": "e0456c527e6ba906aabb1e2df9ab16ae39289eff8447ec110c026b55a42a9bd3",
+    "old_columns": 6,
+    "new_columns": 5,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 785,
+    "position": 785,
+    "french": "Mortamor",
+    "layout": "Mortamor",
+    "previous": "Deathtamoor",
+    "sfc_jp": "デスタムーア",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 237,
+        "JA_text": "@1デスタムーア@",
+        "FR_text": "@0M@4Mortamor@7Mortamor@8N@9N@",
+        "JA_sha256": "b4109f50b34ab8367f36b6e19b96800e2d072aff0bcdbdd213511615ed671a9c",
+        "FR_sha256": "fe71d50020581db63d6cb60b42b7fe87dde0353b79a5c1d710f2c0dbd1e76838"
+      }
+    ],
+    "review": "Même nom japonais et même champ DS pour toutes les variantes physiques de ce boss dans le bloc monstres. Traduire le nom propre de toutes ces variantes ensemble sans fusionner leurs positions ou pointeurs. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "13d7f955ceeb53ac",
+    "encoded_hex": "1cec55ceecac",
+    "old_sha256": "d206f63af7a44472f2fc0955efd25786376c9d6f74b0d6d48fc13f9c9402ae75",
+    "new_sha256": "79f437d978fc45cb90597afa99c5bbbf4c7c8c6197ab22e7265a18edaa05cf3b",
+    "old_columns": 11,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 786,
+    "position": 786,
+    "french": "Mortamor",
+    "layout": "Mortamor",
+    "previous": "Deathtamoor",
+    "sfc_jp": "デスタムーア",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 237,
+        "JA_text": "@1デスタムーア@",
+        "FR_text": "@0M@4Mortamor@7Mortamor@8N@9N@",
+        "JA_sha256": "b4109f50b34ab8367f36b6e19b96800e2d072aff0bcdbdd213511615ed671a9c",
+        "FR_sha256": "fe71d50020581db63d6cb60b42b7fe87dde0353b79a5c1d710f2c0dbd1e76838"
+      }
+    ],
+    "review": "Même nom japonais et même champ DS pour toutes les variantes physiques de ce boss dans le bloc monstres. Traduire le nom propre de toutes ces variantes ensemble sans fusionner leurs positions ou pointeurs. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "13d7f955ceeb53ac",
+    "encoded_hex": "1cec55ceecac",
+    "old_sha256": "d206f63af7a44472f2fc0955efd25786376c9d6f74b0d6d48fc13f9c9402ae75",
+    "new_sha256": "79f437d978fc45cb90597afa99c5bbbf4c7c8c6197ab22e7265a18edaa05cf3b",
+    "old_columns": 11,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 787,
+    "position": 787,
+    "french": "Mortamor",
+    "layout": "Mortamor",
+    "previous": "Deathtamoor",
+    "sfc_jp": "デスタムーア",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 237,
+        "JA_text": "@1デスタムーア@",
+        "FR_text": "@0M@4Mortamor@7Mortamor@8N@9N@",
+        "JA_sha256": "b4109f50b34ab8367f36b6e19b96800e2d072aff0bcdbdd213511615ed671a9c",
+        "FR_sha256": "fe71d50020581db63d6cb60b42b7fe87dde0353b79a5c1d710f2c0dbd1e76838"
+      }
+    ],
+    "review": "Même nom japonais et même champ DS pour toutes les variantes physiques de ce boss dans le bloc monstres. Traduire le nom propre de toutes ces variantes ensemble sans fusionner leurs positions ou pointeurs. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "13d7f955ceeb53ac",
+    "encoded_hex": "1cec55ceecac",
+    "old_sha256": "d206f63af7a44472f2fc0955efd25786376c9d6f74b0d6d48fc13f9c9402ae75",
+    "new_sha256": "79f437d978fc45cb90597afa99c5bbbf4c7c8c6197ab22e7265a18edaa05cf3b",
+    "old_columns": 11,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 788,
+    "position": 788,
+    "french": "Marcus",
+    "layout": "Marcus",
+    "previous": "Zozogel",
+    "sfc_jp": "ゾゾゲル",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 231,
+        "JA_text": "@1ゾゾゲル@",
+        "FR_text": "@0M@4Marcus@7Marcus@8N@9N@",
+        "JA_sha256": "9a64036781dec391fe31215a74f8a4aa8c219ee22077b0cdc98a3fbf0a63d1e5",
+        "FR_sha256": "5e4b13ca568815e3492f9fb3028d0fdb116be71ae50a01dd9cf79be4bad41a33"
+      }
+    ],
+    "review": "ゾゾゲル : Marcus, nom propre de l’adversaire. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "29505b5048464dac",
+    "encoded_hex": "1cd044faac",
+    "old_sha256": "b3a4ecf46993517891b6c1274a7200537985b9348737639961869c3adad3ecf7",
+    "new_sha256": "6e176d39b3fb5d0d426751311ec97da45c8fd2246357eec02545a2ec16bf973e",
+    "old_columns": 7,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 797,
+    "position": 797,
+    "french": "Nokturnus",
+    "layout": "Nokturnus",
+    "previous": "Dark Dream",
+    "sfc_jp": "ダークドレアム",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 245,
+        "JA_text": "@1ダーク;ドレアム@",
+        "FR_text": "@0M@4Nokturnus@7Nokturnus@8N@9N@",
+        "JA_sha256": "297c18c0ff6a592da63aea3b1a3a461110d8a22e68578c438f2c3ef739b78575",
+        "FR_sha256": "0229efa2d8459c277fc106cef1bb876ef83db1288909c144d9654f41bc1d76c5"
+      }
+    ],
+    "review": "Même nom japonais et même champ DS pour toutes les variantes physiques de ce boss dans le bloc monstres. Traduire le nom propre de toutes ces variantes ensemble sans fusionner leurs positions ou pointeurs. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "13d04c0113f0ceac",
+    "encoded_hex": "1d504c5556534ffaac",
+    "old_sha256": "aa06e96b09b0db240b2508731f72c7b7b80e141668adcf58f9dd1461bfb7672f",
+    "new_sha256": "91fd07f66ed8ff0e559406706122af8e68922501fc78d409d652700b5e31c7a9",
+    "old_columns": 10,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 1049,
+    "position": 1049,
+    "french": "Petit dragon",
+    "layout": "Petit dragon",
+    "previous": "LesserDragon",
+    "sfc_jp": "レッサードラゴン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 154,
+        "JA_text": "@1レッサードラゴン@",
+        "FR_text": "@1Petit dragon@",
+        "JA_sha256": "903c9cc5397d514aaceb6a8dbaa4f026f0609347ef56d4220d1bf9b781627ed4",
+        "FR_sha256": "954c29ffbf1873319ba8fbb0884f17370e988fd68035271dd785860ef9dbb273"
+      }
+    ],
+    "review": "Rang de vocation : champ DS @1 unique, sans variante de genre dans ce libellé. Distinct du nom de monstre homonyme ; graphie DS conservée. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1bdb54da13ef48eaac",
+    "encoded_hex": "1f4655e1caef48eaac",
+    "old_sha256": "c5e059f66ee768a3ee803fe8c2d10836b70dfb4dd9f7fa2bdc01cf52a88b897f",
+    "new_sha256": "d0744381a466d927e06ce0f244316a5ad834887ef79af76c4da135e430a980d1",
+    "old_columns": 12,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 1050,
+    "position": 1050,
+    "french": "Dragon vert",
+    "layout": "Dragon vert",
+    "previous": "Green Dragon",
+    "sfc_jp": "グリーンドラゴン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 155,
+        "JA_text": "@1グリーンドラゴン@",
+        "FR_text": "@1Dragon vert@",
+        "JA_sha256": "1d9093fa0a0cc38b98262e5ebb9bb1aa8092570e2aa56f5793d6a0c9847c8f1b",
+        "FR_sha256": "e1d70aba069cfd6a1cd1859bc292d7c537a9db2fea994777e3d5aa5af1946b6d"
+      }
+    ],
+    "review": "Rang de vocation : champ DS @1 unique, sans variante de genre dans ce libellé. Distinct du nom de monstre homonyme ; graphie DS conservée. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "16f0464f0113ef48eaac",
+    "encoded_hex": "13ef48ea0157da55ac",
+    "old_sha256": "98e71a2b9736b6a4e141470768379fef845d32b3945c245313437d55c8871efc",
+    "new_sha256": "d19904e9e8de7a9779580ffafe5ded5d8c27708899bce4029cffd78047e53cca",
+    "old_columns": 12,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 1051,
+    "position": 1051,
+    "french": "Dragon blanc",
+    "layout": "Dragon blanc",
+    "previous": "White Dragon",
+    "sfc_jp": "ホワイトドラゴン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 156,
+        "JA_text": "@1ホワイトドラゴン@",
+        "FR_text": "@1Dragon blanc@",
+        "JA_sha256": "83d6ad89235776c385817d2f20be8e9c9368b77d1ccc7ef52b0f9fb256410afd",
+        "FR_sha256": "3e82ed87fba0cba54922a94e661edef006fd3cca988b0631d0e9b07894136954"
+      }
+    ],
+    "review": "Rang de vocation : champ DS @1 unique, sans variante de genre dans ce libellé. Distinct du nom de monstre homonyme ; graphie DS conservée. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "2649e1d613ef48eaac",
+    "encoded_hex": "13ef48ea01434dcf44ac",
+    "old_sha256": "f02610d1e78527c7cd1f406b29f7c5e2b382194db67c05f1eebe772eacfe67da",
+    "new_sha256": "94db3dffb2e6c6329383ea035557f59f83b2e7f6f8494d870e67b2a6d211e28e",
+    "old_columns": 12,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 1053,
+    "position": 1053,
+    "french": "Dragon d'or",
+    "layout": "Dragon d'or",
+    "previous": "Gold Dragon",
+    "sfc_jp": "ゴールドドラゴン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 158,
+        "JA_text": "@1ゴールドドラゴン@",
+        "FR_text": "@1Dragon d'or@",
+        "JA_sha256": "46e003bae94a33e113f3e5dfcf45921d7f3cc7295685306b70566bdc780e287d",
+        "FR_sha256": "541c0b2aaa33ba596826906f97912270f1bf764d72547198bed106b6ca5a5988"
+      }
+    ],
+    "review": "Rang de vocation : champ DS @1 unique, sans variante de genre dans ce libellé. Distinct du nom de monstre homonyme ; graphie DS conservée. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "16504d450113ef48eaac",
+    "encoded_hex": "13ef48eaca77ecac",
+    "old_sha256": "93261ee48433fdf3735ff13a522370c77c488ffba2fa286204e72dfed3d37bb6",
+    "new_sha256": "f160ee54516c12ec25c658330d7389306538d04fac227afe3dc72ecc77417939",
+    "old_columns": 11,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 1054,
+    "position": 1054,
+    "french": "Super dragon",
+    "layout": "Super dragon",
+    "previous": "Great Dragon",
+    "sfc_jp": "グレイトドラゴン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 159,
+        "JA_text": "@1グレイトドラゴン@",
+        "FR_text": "@1Super dragon@",
+        "JA_sha256": "482937fb8fb6a2676b9285af83f3ed311e64c29d249b20d3351f1f416b1b3769",
+        "FR_sha256": "0c9506ec845539255413eddc064f14e713ddeff0115186ae7255d746f0bba176"
+      }
+    ],
+    "review": "Rang de vocation : champ DS @1 unique, sans variante de genre dans ce libellé. Distinct du nom de monstre homonyme ; graphie DS conservée. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "16f0d20113ef48eaac",
+    "encoded_hex": "225651dacaef48eaac",
+    "old_sha256": "46f7734e9614ebfb0d2dfb9240b098130510d35d1e2f8f56b12200007ce56bf7",
+    "new_sha256": "b0b4aa879bc4309e34cb9685ee9cf3b9ef829e85825027aabcecd95c971416cd",
+    "old_columns": 12,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 1059,
+    "position": 1059,
+    "french": "Métal lourd",
+    "layout": "Métal lourd",
+    "previous": "Heavy Metal",
+    "sfc_jp": "ヘビーメタル",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1006000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1006000.mpt",
+        "id": 164,
+        "JA_text": "@1ヘビーメタル@",
+        "FR_text": "@1Métal lourd@",
+        "JA_sha256": "fa346c26709486f11892b9c66d72343aafdf03436d39005e88ac54dcbb81c042",
+        "FR_sha256": "c16a41cde9a3fca4f0510668baff7fa682c007d4630b19d7bc9a493818bc204b"
+      }
+    ],
+    "review": "Rang de vocation : champ DS @1 unique, sans variante de genre dans ce libellé. Distinct du nom de monstre homonyme ; graphie DS conservée. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "17d7575a011c4655424dac",
+    "encoded_hex": "1c2d55424d014ded5345ac",
+    "old_sha256": "b4ab3e1615a56a77e2455f10846474a98e3eecad3ffa5c2de79afa293fe19d66",
+    "new_sha256": "822dcc86b16b7bd7d63b311ea1e6ffbb6a848e862d00dadad3edfa98e2013cc6",
+    "old_columns": 11,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2081,
+    "position": 1617,
+    "french": "épée des sirènes",
+    "layout": "épée des|sirènes",
+    "previous": "Sword of|Temptation",
+    "sfc_jp": "ゆうわくのけん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 14,
+        "JA_text": "@1ゆうわくの;けん@",
+        "FR_text": "@0F@2l'@3une @4épée des ;sirènes@5les @6des @7épées des sirènes@8N@9Y@",
+        "JA_sha256": "2b4099f779c4f8be2dd75611e4c37b97dec1d82dcf290636409e2fe6aac84a9b",
+        "FR_sha256": "49e5a3b22aaca5de05b3ef25c56cb930e158b2a69c0a29d4447e4d0223db6b9c"
+      }
+    ],
+    "review": "Objet : nom français DS complet réparti sur les deux lignes natives. Le nombre et la valeur exacte du code de rupture sont conservés ; première ligne de même longueur, seconde non allongée. Aucune abréviation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "2258ec4501e89823464e5155d24aeaac",
+    "encoded_hex": "2d512dd645db98544a53304fdbac",
+    "old_sha256": "664d58b04cc7e6ec25b432eb0c6b85f2c82fb8dff8179e640e2790f8b6138bea",
+    "new_sha256": "b35560ab32989482706526d69f7396b98291da820bb4de0f190eb4c5e9a77ed7",
+    "old_columns": 19,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2103,
+    "position": 1639,
+    "french": "bâton de foudre",
+    "layout": "bâton de|foudre",
+    "previous": "Staff of|Thunder",
+    "sfc_jp": "いかずちのつえ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 36,
+        "JA_text": "@1いかずちの;つえ@",
+        "FR_text": "@0M@2le @3un @4bâton de ;foudre@5les @6des @7bâtons de foudre@8N@9N@",
+        "JA_sha256": "9ee5aacbb3a1477a433df3a253c724f9341a1ee161fa0eca54e87e4ec2570324",
+        "FR_sha256": "3c9872392cdd2dff43607c2bf3fea2c2d6b2ba4594e01f1d24b332a9b8940d8e"
+      }
+    ],
+    "review": "Objet : nom français DS complet réparti sur les deux lignes natives. Le nombre et la valeur exacte du code de rupture sont conservés ; première ligne de même longueur, seconde non allongée. Aucune abréviation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "225542474701e898234956e5daac",
+    "encoded_hex": "433555eaca469847ed45f0ac",
+    "old_sha256": "84de9725a821082295373926e229bbdc68edca3126e04996de4cb9bb9c395783",
+    "new_sha256": "255d025ef202df159d30b0cf2ae4652dd2235124f813263fa7264c51ae8ffb8a",
+    "old_columns": 16,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2104,
+    "position": 1640,
+    "french": "bâton du Courroux",
+    "layout": "bâton du|Courroux",
+    "previous": "Staff of|Punishment",
+    "sfc_jp": "てんばつのつえ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 37,
+        "JA_text": "@1てんばつの;つえ@",
+        "FR_text": "@0M@2le @3un @4bâton du ;Courroux@5les @6des @7bâtons du Courroux@8N@9N@",
+        "JA_sha256": "4d92aa969f437d0fde212e8cdbbee6c4c198500e28f2c3116bb34317d3d3eee5",
+        "FR_sha256": "f786221261a47b4005698d1de203cc1a2da02154090dac251fff1b37102df581"
+      }
+    ],
+    "review": "Objet : nom français DS complet réparti sur les deux lignes natives. Le nombre et la valeur exacte du code de rupture sont conservés ; première ligne de même longueur, seconde non allongée. Aucune abréviation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "225542474701e8981f564fe0494e46e7ac",
+    "encoded_hex": "433555eaca569812ed53f15659ac",
+    "old_sha256": "65b73783ff304776af1e9e5225613ff05b1d8c9de800ea3b65e3afb682410501",
+    "new_sha256": "27b0d5382c9d9bea94e18c8ea5b61a8ea943fe7165df0eb37d04949937d09cdf",
+    "old_columns": 19,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2109,
+    "position": 1645,
+    "french": "bâton du déluge",
+    "layout": "bâton du|déluge",
+    "previous": "Staff of|Echoing",
+    "sfc_jp": "うみなりのつえ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 42,
+        "JA_text": "@1うみなりの;つえ@",
+        "FR_text": "@0M@2le @3un @4bâton du ;déluge@5les @6des @7bâtons du déluge@8N@9N@",
+        "JA_sha256": "bb1d6b7ea9d9bc29ced8fd0ac02d141cf77567155f2a59bf147b06987c4fa2a4",
+        "FR_sha256": "84d03c73039a424073633625010033948770b2bc27ba3b3c65854adce416a815"
+      }
+    ],
+    "review": "Objet : nom français DS complet réparti sur les deux lignes natives. Le nombre et la valeur exacte du code de rupture sont conservés ; première ligne de même longueur, seconde non allongée. Aucune abréviation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "225542474701e89814d4e94f48ac",
+    "encoded_hex": "433555eaca5698452d4d564846ac",
+    "old_sha256": "14eacde628ef3a4a6c8b1600612a6253f3513be368b2553251bdc9e2db3bc62d",
+    "new_sha256": "424cb22cd0f248893ce1187d8146f5576495505f360b59581551f8e31e18d555",
+    "old_columns": 16,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2140,
+    "position": 1676,
+    "french": "robe de cuir",
+    "layout": "robe de|cuir",
+    "previous": "Leather|Dress",
+    "sfc_jp": "かわのドレス",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 90,
+        "JA_text": "@1かわのドレス@",
+        "FR_text": "@0F@2la @3une @4robe de cuir@5les @6des @7robes de cuir@8N@9N@",
+        "JA_sha256": "8855748c7055660cc3669c7aee9bd4c6c37c2810abd773bba83a4bf702cef30c",
+        "FR_sha256": "4794ae4f80bcb8929a8333422fb115b338cdce3f8007493049774c7315d2a60b"
+      }
+    ],
+    "review": "Objet : nom français DS complet réparti sur les deux lignes natives. Le nombre et la valeur exacte du code de rupture sont conservés ; première ligne de même longueur, seconde non allongée. Aucune abréviation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "1bd7f9da9713f05454ac",
+    "encoded_hex": "f143d645469744564a53ac",
+    "old_sha256": "74d1eb41e4355e0f19e560a953d52220eddfc5fa62de5895a023a4608f2fa174",
+    "new_sha256": "3cb5e080bcaa6d8ce90d481732a5edc6c759fdd797655eb41b3d3be5af1bcc39",
+    "old_columns": 13,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2266,
+    "position": 1802,
+    "french": "graines de raison",
+    "layout": "graines|de raison",
+    "previous": "Seed of|Reasoning",
+    "sfc_jp": "りせいのタネ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 236,
+        "JA_text": "@1りせいの;タネ@",
+        "FR_text": "@0F@2la poignée de @3une poignée de @4graines ;de raison@5les poignées de @6des poignées de @7graines de raison@8Y@9N@",
+        "JA_sha256": "566d1d53ece795b646a8e740d36827c1d0d7042bc0115aafac767a611a8a3e9c",
+        "FR_sha256": "e157a1c47fb4028f34b3a93408e806baa8f3e3ca214e87b7f23f838de271c079"
+      }
+    ],
+    "review": "Objet : nom français DS complet réparti sur les deux lignes natives. Le nombre et la valeur exacte du code de rupture sont conservés ; première ligne de même longueur, seconde non allongée. Aucune abréviation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "22d94501e89721d7f44fdf48ac",
+    "encoded_hex": "48efdfdb9745d6efe0eaac",
+    "old_sha256": "ed1da3d5c80ebbc38b1b95cfc0e90bc04aeba22bf71585391c70f12e0067bb26",
+    "new_sha256": "74e4c95ceed20ccdb49df6f201397876aa27b87280e50ae856dc0d1d24769506",
+    "old_columns": 17,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2269,
+    "position": 1805,
+    "french": "pioche dorée",
+    "layout": "pioche|dorée",
+    "previous": "Golden|Pickaxe",
+    "sfc_jp": "おうごんのつるはし",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 239,
+        "JA_text": "@1おうごんの;つるはし@",
+        "FR_text": "@0F@2la @3une @4pioche dorée@5les @6des @7pioches dorées@8N@9N@",
+        "JA_sha256": "d43e6c65757425556f900a29f721ba10e83fbc052129c8599e3e653c37c18937",
+        "FR_sha256": "ca60997fc32a11d017e201c432c97d44c7ea3838403860b8697f10a618e948f6"
+      }
+    ],
+    "review": "Objet : nom français DS complet réparti sur les deux lignes natives. Le nombre et la valeur exacte du code de rupture sont conservés ; première ligne de même longueur, seconde non allongée. Aucune abréviation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "16504d45464f961fde4c425946ac",
+    "encoded_hex": "514a50d4469645ec2d46ac",
+    "old_sha256": "34b9b9acc90d45629c0ed948a61c3145057d7d0352d2cbc12584e01c7ecefedc",
+    "new_sha256": "08749f27fac627fc57c941ee2860dcd384b60d3e14f7954fe29e4752fbd95ac7",
+    "old_columns": 14,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2270,
+    "position": 1806,
+    "french": "fragment de courage",
+    "layout": "fragment de|courage",
+    "previous": "Fragment of|Courage",
+    "sfc_jp": "ゆうきのかけら",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 240,
+        "JA_text": "@1ゆうきの;かけら@",
+        "FR_text": "@0M@2le @3un @4fragment ;de courage@5les @6des @7fragments de courage@8N@9N@",
+        "JA_sha256": "76aa35c45d9c59430517f565a89ea0f877c669c59795725df4445453b33f2702",
+        "FR_sha256": "bfd5962234e65b665a362b601be88bed2040624a2ef587c9978cb5fd2d320efb"
+      }
+    ],
+    "review": "Objet : nom français DS complet réparti sur les deux lignes natives. Le nombre et la valeur exacte du code de rupture sont conservés ; première ligne de même longueur, seconde non allongée. Aucune abréviation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "15ef484e46e701e89b12edef4846ac",
+    "encoded_hex": "47ef484e46e7ca469b44edef4846ac",
+    "old_sha256": "17047f31f4086fa449df59241c40e3a8b0ee9e45158cd8dd77dc757d9ebe9bf6",
+    "new_sha256": "1f7103ae95ea4014a3939f36e3b953e747e59791ed6176d4edfb9a1a83013ca8",
+    "old_columns": 19,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2274,
+    "position": 1810,
+    "french": "urne de sable",
+    "layout": "urne|de sable",
+    "previous": "Sand|Container",
+    "sfc_jp": "すなのうつわ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 244,
+        "JA_text": "@1すなの;うつわ@",
+        "FR_text": "@0F@2l'@3une @4urne de sable@5les @6des @7urnes de sable@8N@9Y@",
+        "JA_sha256": "1ec7750df00f342fabd3d92b8d035ca7974423a4e075dd1c022d85b8ba19e3c3",
+        "FR_sha256": "00473aad9563100dc4a8c2eef8e2c9d648499d15958ac5bcff5425bd3a9ca769"
+      }
+    ],
+    "review": "Objet : nom français DS complet réparti sur les deux lignes natives. Le nombre et la valeur exacte du code de rupture sont conservés ; première ligne de même longueur, seconde non allongée. Aucune abréviation. Japonais SFC et DS exacts ; relu sans rapprochement flou. Scènes naturelles et accords/pluriels restent ouverts.",
+    "old_encoded_hex": "22cf459412ea5542dfdaac",
+    "encoded_hex": "56534f469445d6544243e2ac",
+    "old_sha256": "9fc04ab029f203347a14a59c46e6276fe78cbaf6b79ebfd9adcdeaae78c23232",
+    "new_sha256": "f17fbb1186a6180732cf083371010bfd4a61f962be89ee724c396061f4199635",
+    "old_columns": 14,
+    "new_columns": 13,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  }
+]

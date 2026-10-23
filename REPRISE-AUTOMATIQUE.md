@@ -1,3 +1,13 @@
+# Reprise v0.75 — 50 libellés intégrés, puis 400 autres propositions relues
+
+Lire dq6-fr/v0.75/README.md, selection/revue/delta, preparations-resolues.json, audit-ruptures-preservees.json, homonymes-boss.json et QA.50libellés intégrés (49traductions,1correction de casse Troll→troll) :35positions de monstres/personnages dont toutes les6formes Mortamor et3Nokturnus du blocmonstres,6rangs de vocation,9objets sur2lignes. Ne pas les recompter.261FRqualifiés/2048positions déjà examinées ;510propositions restent noninsérées.
+
+Audit reproductible des560propositions initiales avec JP/IPS et1004champsDS distincts vérifiés directement pour525propositions ;35sans référence DS établie restent telles quelles. Deux registres de200 portent sur400AUTRES propositions après sélection des50, avec IDs, JP/FR, réserves et motifs. Elles restent PREPARE_NON_INSERE : aucune nouvelle préparation ni400traductions. Prochaine proposition àrelire1704,110restent dans ce cycle. Certaines formulations exigent le contexte (287,289,373,847,870),708/731 ont un marqueurDS$,674/695/741 des accords particuliers. Aucun choix forcé.
+
+Ruptures des9objets : valeur etnombre des octets91..9D conservés exactement, premièreligne même longueur,seconde nonallongée. Grille terrainC3763A avant/après vérifiée sur512cases,2eligne colonne1 ;bufferB2 et100dialogues diagnostiques testés,50rendus après relus.2477SIDs statiques,mutation négative,bus4002plages,Journal àfroid,BPS/IPS et sources erronées vérifiés. Les deux lots CPU font25SIDs chacun pour rester dans le tampon de diagnostic ;run_emulator_qa.py les exécute séquentiellement. Aucun menu naturel d’inventaire/rencontre ou accord/pluriel globalement validé.
+
+Table active7AF000 de14181octets,capacité réservée jusqu’à7B8703 ;protéger aussi moteur etpoolcombat. Scriptprincipal/combat,polices,dictionnaire,anciennetable etmiroir/tail2050octets intacts.ROM8Mio. Aucun audit hérité clôturé,relecture principale exhaustive0,projet nonfinalisé.
+
 # Reprise v0.74 — quatorze propositions de noms de monstres intégrées
 
 Lire dq6-fr/v0.74/README.md, revue-table-v074.json, preparations-resolues.json, inventaire et QA. Positions 647,648,652,653,655,660,669,676,677,678,680,689,691,694 : dododingo, pélikosaure, macchab, rafaltou, dévastator, veninconda, aquagadou, trancheur, éventripeur, butebélier, cerbélier, écayosaure, butanosaure, tourmentor. Ne pas les recompter comme nouvelles préparations ou revues. 211 FR qualifiés / 2048 positions déjà examinées ; 560 propositions restent non insérées. Aucun nouveau lot de 400 revendiqué.

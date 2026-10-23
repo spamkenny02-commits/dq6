@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "sfc_jp": "デスタムーア",
+      "french": "Mortamor",
+      "all_physical_monster_positions": [
+        607,
+        667,
+        668,
+        785,
+        786,
+        787
+      ],
+      "all_positions_treated_together": true,
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 237,
+        "JA_text": "@1デスタムーア@",
+        "FR_text": "@0M@4Mortamor@7Mortamor@8N@9N@",
+        "JA_sha256": "b4109f50b34ab8367f36b6e19b96800e2d072aff0bcdbdd213511615ed671a9c",
+        "FR_sha256": "fe71d50020581db63d6cb60b42b7fe87dde0353b79a5c1d710f2c0dbd1e76838"
+      },
+      "physical_positions_not_merged": true
+    },
+    {
+      "sfc_jp": "ダークドレアム",
+      "french": "Nokturnus",
+      "all_physical_monster_positions": [
+        711,
+        727,
+        797
+      ],
+      "all_positions_treated_together": true,
+      "DS_reference": {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 245,
+        "JA_text": "@1ダーク;ドレアム@",
+        "FR_text": "@0M@4Nokturnus@7Nokturnus@8N@9N@",
+        "JA_sha256": "297c18c0ff6a592da63aea3b1a3a461110d8a22e68578c438f2c3ef739b78575",
+        "FR_sha256": "0229efa2d8459c277fc106cef1bb876ef83db1288909c144d9654f41bc1d76c5"
+      },
+      "physical_positions_not_merged": true
+    }
+  ],
+  "scope": "Toutes les occurrences de ces deux noms japonais dans le bloc monstres544–803 couvert par le registrev070. Nom propre identique selonDS ; identité de chaque rencontre naturelle non revendiquée."
+}

@@ -1,0 +1,16 @@
+{
+  "revisions": [
+    {
+      "position": 742,
+      "sid": 742,
+      "previous": "Troll",
+      "french": "troll",
+      "reason": "Troll → troll : capitalisation du nom commun selon la source française DS. Une correction de casse, pas une nouvelle traduction du mot.",
+      "effect": "Même nombre de glyphes, uniquement T remplacé par t ; mêmes commandes et pointeurs logiques.",
+      "tests": "Lecteurs, terrain et B2 avant/après, comparaison de pixels et lecture visuelle dans les100 rendus diagnostiques."
+    }
+  ],
+  "new_translations": 49,
+  "case_only_revisions": 1,
+  "engine_changed": false
+}

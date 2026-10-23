@@ -1,3 +1,13 @@
+# Dragon Quest VI Super Famicom — état actuel v0.75
+
+[Patch BPS v0.75](patches/DQVI-FR-DS-v0.75-BASE-JP-PARTIEL.bps) · [Recette, tests et limites](dq6-fr/v0.75/README.md) · [Reprise](REPRISE-AUTOMATIQUE.md)
+
+50 libellés préparés intégrés (49 traductions et une correction de casse), puis 400 autres propositions relues avec leurs blocages conservés. Table des noms : **261 entrées françaises qualifiées sur 2048 positions examinées ; 510 propositions encore non insérées**. Ces 400 relectures ne sont pas 400 nouvelles traductions. Le script principal compte 6957 sélections, dont 6948 linguistiques et neuf structures. La relecture exhaustive du script principal et les tests naturels restent à faire ; le projet n’est pas finalisé.
+
+Les sources privées doivent avoir les empreintes vérifiées dans la recette. ROM conservée à 8 Mio ; aucune ROM, SRAM, sauvegarde d’émulateur ni archive de ROM publiée. Les sections suivantes sont des points de reprise historiques ; l’état courant est dans les liens ci-dessus et etat-projet.json.
+
+---
+
 # Reprise v0.60 — 64 messages natifs et sept accents
 
 104 textes combat intégrés,3 préparés restants464/465/498 ;497 hérités non qualifiés et4 structures. Principal6957 sélections inchangé. Lire dq6-fr/v0.60/README.md, manifest.json etrapports. Extension isolée de sept slots inutilisés dans les consommateurs connus : police8x8 + correspondances principales, aucun moteur modifié.64 IDs testés,68 scénarios/236 captures ; autres544 messages natifs inchangés.397 : AD remplacé par espace, A/B et noms distincts passent en diagnostic, scène naturelle ouverte. Démarrage neuf recharge256 tuiles et menuJournal vérifié. Les états anciens conservent leur police.3 blocages dans blocages-restants.json ; noms, autres tables, relecture et audits restent ouverts. Pool natif réservé à8001024 sur16559 octets ;8Mio conservés. Ne pas recycler cette revue.
