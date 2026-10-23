@@ -1,0 +1,38 @@
+{
+  "release": "v0.72",
+  "published_integration_commit": "bf21f021bd205a52f281dd17daab26751282f815",
+  "published_tree": "debc317466ca18850bc090aa136393e67562ddb6",
+  "restored_from": "git archive origin/main après publication, répertoire neuf",
+  "steps_executed": [
+    "restore_sources.py",
+    "prepare.py",
+    "build.py",
+    "verify.py",
+    "inventory_names.py",
+    "audit_blockages.py"
+  ],
+  "manifest_files_verified": 40,
+  "manifest_sha256": "3a6211162a21caecbe85b996969a2597e385ff883de9349fddf039ceb2ddd2b1",
+  "ROM_bytes": 8388608,
+  "ROM_sha256": "2e0bb8d179b74c8d397a8f29bb2ecfd2787efedee7ea2fc35e09ccfc23916a44",
+  "BPS_sha256": "58aa665b9d5718315819823b72c8780ebbba2887eac7303f48c3b8aaff95191e",
+  "IPS_sha256": "e5e5aba404cd5071bf4d4af5d5c874eec661a2e3936f779b1dbd87ce560fec56",
+  "BPS_reapplied": true,
+  "IPS_reapplied": true,
+  "bad_sources_rejected": [
+    "modified_JP",
+    "copier_header"
+  ],
+  "recipe_idempotent": true,
+  "protected_bytes_identical": true,
+  "native_engine_modified": false,
+  "emulator_tests": "Exécutés avant publication sur le candidat ayant la même empreinte ROM ; non réexécutés pendant cette restauration. Lecteur natif, mutation négative, consommateurs, 42 rendus diagnostiques, bus et démarrage à froid.",
+  "natural_validation": false,
+  "physical_positions_examined_this_release": 848,
+  "next_position_to_examine": 2048,
+  "new_translations": 14,
+  "existing_french_revisions": 7,
+  "new_preparations_not_inserted": 255,
+  "all_positions_semantically_validated": false,
+  "project_finalized": false
+}
