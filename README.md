@@ -1,3 +1,13 @@
+# Dragon Quest VI Super Famicom — état actuel v0.76
+
+[Patch BPS v0.76](patches/DQVI-FR-DS-v0.76-BASE-JP-PARTIEL.bps) · [Recette et limites](dq6-fr/v0.76/README.md) · [Reprise](REPRISE-AUTOMATIQUE.md)
+
+14 libellés supplémentaires intégrés avec leur mise en page native ; les 110 propositions restantes du cycle ont été relues. La table compte **275 entrées françaises qualifiées sur 2048 positions examinées ; 496 propositions restent non insérées**. Le cycle des 510 relectures commencé en v075 est complet, pas leur insertion. Le script principal et les messages de combat sont inchangés. Les tests naturels, la recherche exhaustive d’oublis, la relecture principale et les audits restent ouverts.
+
+Les sections suivantes sont historiques ; l’état courant figure dans les liens ci-dessus et etat-projet.json. Aucune ROM, SRAM, sauvegarde d’émulateur ou archive de ROM publiée.
+
+---
+
 # Dragon Quest VI Super Famicom — état actuel v0.75
 
 [Patch BPS v0.75](patches/DQVI-FR-DS-v0.75-BASE-JP-PARTIEL.bps) · [Recette, tests et limites](dq6-fr/v0.75/README.md) · [Reprise](REPRISE-AUTOMATIQUE.md)

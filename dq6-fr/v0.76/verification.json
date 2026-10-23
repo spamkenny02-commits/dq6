@@ -1,0 +1,50 @@
+{
+  "bank_boundary_crossing_SIDs": [
+    687
+  ],
+  "bank_boundary": 8060928,
+  "release": "v0.76",
+  "ROM_sha256": "69b80445afaabe3323fff7dd445c61c8dda64b642bd5567ac752bbdc240ab879",
+  "new_label_insertions": 14,
+  "new_translations": 14,
+  "existing_french_revisions": 0,
+  "packed_name_SIDs_changed": [
+    805,
+    1679,
+    2076,
+    2082,
+    2101,
+    2102,
+    2131,
+    2171,
+    2189,
+    2195,
+    2222,
+    2228,
+    2230,
+    2275
+  ],
+  "other2498_name_byte_strings_identical": true,
+  "physical_names": 2048,
+  "aliases_preserved": 464,
+  "reachable_name_bytes": 14140,
+  "preserved_tail_bytes_unchanged": 2050,
+  "preserved_tail_unchanged_in_both_copies": true,
+  "name_pool_growth": -41,
+  "relocated_pool_offset": 8056832,
+  "old_pool_preserved_in_both_copies": true,
+  "native_engine_modified": false,
+  "battle_messages608_byte_identical": true,
+  "main_groups870_byte_identical": true,
+  "main_selections6957_unchanged": true,
+  "engine_font_dictionary_and_protected_bytes_identical": true,
+  "BPS_reapplied": true,
+  "IPS_reapplied": true,
+  "bad_sources_rejected": [
+    "modified_JP",
+    "copier_header"
+  ],
+  "recipe_idempotent": true,
+  "all_runtime_contexts_validated": false,
+  "natural_validation": false
+}

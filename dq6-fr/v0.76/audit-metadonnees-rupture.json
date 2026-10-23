@@ -1,0 +1,317 @@
+{
+  "release": "v0.76",
+  "rule": "91..9D encodes90+expanded glyph count of first line, as documented upstream and checked in actual C3763A/C376F2 CPU diagnostics.",
+  "rows": [
+    {
+      "position": 805,
+      "sid": 805,
+      "previous": "Invite|Class",
+      "layout": "Rang|bleu",
+      "french_DS": "Rang bleu",
+      "old_break_hex": "96",
+      "new_break_hex": "94",
+      "old_line_lengths": [
+        6,
+        5
+      ],
+      "new_line_lengths": [
+        4,
+        4
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1215,
+      "sid": 1679,
+      "previous": "Strike|Weakness",
+      "layout": "Porte|et pique",
+      "french_DS": "Porte et pique",
+      "old_break_hex": "96",
+      "new_break_hex": "95",
+      "old_line_lengths": [
+        6,
+        8
+      ],
+      "new_line_lengths": [
+        5,
+        8
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1612,
+      "sid": 2076,
+      "previous": "Sharpened|Bone",
+      "layout": "pieu|d'os",
+      "french_DS": "pieu d'os",
+      "old_break_hex": "99",
+      "new_break_hex": "94",
+      "old_line_lengths": [
+        9,
+        4
+      ],
+      "new_line_lengths": [
+        4,
+        4
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1618,
+      "sid": 2082,
+      "previous": "Sword of|Slumber",
+      "layout": "épée du|Rêve",
+      "french_DS": "épée du Rêve",
+      "old_break_hex": "98",
+      "new_break_hex": "97",
+      "old_line_lengths": [
+        8,
+        7
+      ],
+      "new_line_lengths": [
+        7,
+        4
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1637,
+      "sid": 2101,
+      "previous": "Sword of|Decimation",
+      "layout": "épée du|Massacre",
+      "french_DS": "épée du Massacre",
+      "old_break_hex": "98",
+      "new_break_hex": "97",
+      "old_line_lengths": [
+        8,
+        10
+      ],
+      "new_line_lengths": [
+        7,
+        8
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1638,
+      "sid": 2102,
+      "previous": "Iron Ball of|Destruction",
+      "layout": "fléau du|Carnage",
+      "french_DS": "fléau du Carnage",
+      "old_break_hex": "9C",
+      "new_break_hex": "98",
+      "old_line_lengths": [
+        12,
+        11
+      ],
+      "new_line_lengths": [
+        8,
+        7
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1667,
+      "sid": 2131,
+      "previous": "Sword of|Ramias",
+      "layout": "épée de|Ramias",
+      "french_DS": "épée de Ramias",
+      "old_break_hex": "98",
+      "new_break_hex": "97",
+      "old_line_lengths": [
+        8,
+        6
+      ],
+      "new_line_lengths": [
+        7,
+        6
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1707,
+      "sid": 2171,
+      "previous": "Angel's|Leotard",
+      "layout": "body|d'ange",
+      "french_DS": "body d'ange",
+      "old_break_hex": "97",
+      "new_break_hex": "94",
+      "old_line_lengths": [
+        7,
+        7
+      ],
+      "new_line_lengths": [
+        4,
+        6
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1725,
+      "sid": 2189,
+      "previous": "Shield of|Reflection",
+      "layout": "bouclier|d'argent",
+      "french_DS": "bouclier d'argent",
+      "old_break_hex": "99",
+      "new_break_hex": "98",
+      "old_line_lengths": [
+        9,
+        10
+      ],
+      "new_line_lengths": [
+        8,
+        8
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1731,
+      "sid": 2195,
+      "previous": "Metal King|Shield",
+      "layout": "bouclier|royal",
+      "french_DS": "bouclier royal",
+      "old_break_hex": "9A",
+      "new_break_hex": "98",
+      "old_line_lengths": [
+        10,
+        6
+      ],
+      "new_line_lengths": [
+        8,
+        5
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1758,
+      "sid": 2222,
+      "previous": "Armband of|Sacrifice",
+      "layout": "brassard|kamikaze",
+      "french_DS": "brassard kamikaze",
+      "old_break_hex": "9A",
+      "new_break_hex": "98",
+      "old_line_lengths": [
+        10,
+        9
+      ],
+      "new_line_lengths": [
+        8,
+        8
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1764,
+      "sid": 2228,
+      "previous": "Fishnet|Stockings",
+      "layout": "bas|résille",
+      "french_DS": "bas résille",
+      "old_break_hex": "97",
+      "new_break_hex": "93",
+      "old_line_lengths": [
+        7,
+        9
+      ],
+      "new_line_lengths": [
+        3,
+        7
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1766,
+      "sid": 2230,
+      "previous": "Ruby of|Power",
+      "layout": "pierre|brute",
+      "french_DS": "pierre brute",
+      "old_break_hex": "97",
+      "new_break_hex": "96",
+      "old_line_lengths": [
+        7,
+        5
+      ],
+      "new_line_lengths": [
+        6,
+        5
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    },
+    {
+      "position": 1811,
+      "sid": 2275,
+      "previous": "Ceremonial|Offering",
+      "layout": "offrande|rituelle",
+      "french_DS": "offrande rituelle",
+      "old_break_hex": "9A",
+      "new_break_hex": "98",
+      "old_line_lengths": [
+        10,
+        8
+      ],
+      "new_line_lengths": [
+        8,
+        8
+      ],
+      "break_count_preserved": 1,
+      "neither_line_longer": true,
+      "script_commands_changed": false,
+      "native_grid_before_after_verified": true,
+      "B2_buffer_before_after_verified": true
+    }
+  ],
+  "scope": "Recalcul isolé des métadonnées de rupture dans14 noms traduits. Ni code moteur ni commandes du script principal/combat modifiés. Les valeurs anciennes ne pouvaient pas être conservées avec une première ligne plus courte sans décaler la seconde.",
+  "negative_test": "qa-negative-break.json",
+  "natural_inventory_or_arena_menu": false
+}

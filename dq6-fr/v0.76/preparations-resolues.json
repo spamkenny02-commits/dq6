@@ -1,0 +1,448 @@
+[
+  {
+    "position": 805,
+    "sids": [
+      805
+    ],
+    "current": "Invite|Class",
+    "sfc_jp": "しょたいけんクラス",
+    "current_message_sha256": "d70dda821f4775fb647ac8db92345b63d8e195a10092cf0c10568c01ea5635a6",
+    "JP_message_sha256": "139960858668d18079865dddc8304e701f275b0a9983182065dc2a1105be52d4",
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS Rang bleu : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 920,
+        "JA_text": "@1しょたいけんクラス@",
+        "FR_text": "@4Rang bleu@",
+        "JA_sha256": "c27000b3c0869cfbe2b12f7dcf37403a4a3b72d59780bfa15e7ce3104d9be1ee",
+        "FR_sha256": "a0c377b9186f545619f042e0097f1c896ae6ec80400a7829ac99fdb3a702f3a2"
+      }
+    ],
+    "proposal": "Rang bleu",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Invite|Class",
+    "secondary_IPS_message_sha256": "d70dda821f4775fb647ac8db92345b63d8e195a10092cf0c10568c01ea5635a6",
+    "layout": "Rang|bleu",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1215,
+    "sids": [
+      1679
+    ],
+    "current": "Strike|Weakness",
+    "sfc_jp": "きゅうしょづき",
+    "current_message_sha256": "45ff26bb6b7fc393c158ab9459c85c365f2514710adf6b4f96666daec2e0d3e7",
+    "JP_message_sha256": "c5481f41852c0d2cd94d4ea91a78b17febd9ad77b3f2cb82e2013a3d46f89bf6",
+    "JP_source_offset": 3912414,
+    "JP_source_length": 7,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS Porte et pique : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1003000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 130,
+        "JA_text": "@1きゅうしょ;づき@",
+        "FR_text": "@2le @3un @4Porte et pique@",
+        "JA_sha256": "1163e3ebf52294cdcd2c11a42ca21ab7ce149a66649dfb80174e6802edad96d0",
+        "FR_sha256": "a76bb2d24531c95f918910054f9ca770e077d5f6d9d5f735d1910bb028c125e6"
+      }
+    ],
+    "proposal": "Porte et pique",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Strike|Weakness",
+    "secondary_IPS_message_sha256": "45ff26bb6b7fc393c158ab9459c85c365f2514710adf6b4f96666daec2e0d3e7",
+    "layout": "Porte|et pique",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1612,
+    "sids": [
+      2076
+    ],
+    "current": "Sharpened|Bone",
+    "sfc_jp": "とがったホネ",
+    "current_message_sha256": "b75ab667dd1e77ad5aa17f89a3d920819881882b06074c128cb0bc2157132f6c",
+    "JP_message_sha256": "e0971e09948b56fab413ae04a9feea4033df6cefcb28c4625882fb16f330c196",
+    "JP_source_offset": 3915094,
+    "JP_source_length": 6,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS pieu d'os : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 9,
+        "JA_text": "@1とがったホネ@",
+        "FR_text": "@0M@2le @3un @4pieu d'os@5les @6des @7pieux d'os@8N@9N@",
+        "JA_sha256": "7be65a24140e92b2eb5be04579215d331ab3227a206c18376bd21c371600886c",
+        "FR_sha256": "3a140186448a2984a4c71fa8cfd5e841177203e9c5635b8cb20e68761a260581"
+      }
+    ],
+    "proposal": "pieu d'os",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Sharpened|Bone",
+    "secondary_IPS_message_sha256": "b75ab667dd1e77ad5aa17f89a3d920819881882b06074c128cb0bc2157132f6c",
+    "layout": "pieu|d'os",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1618,
+    "sids": [
+      2082
+    ],
+    "current": "Sword of|Slumber",
+    "sfc_jp": "まどろみのけん",
+    "current_message_sha256": "ef2a1531571480de6ff545dafbc5ce4eaa0dc55d9e0b428a35ca71120c203a4c",
+    "JP_message_sha256": "b98ad93a77d11a0d9e0d853a3869e95ffbe405e51aa0698e0dac47a86fceab39",
+    "JP_source_offset": 3915141,
+    "JP_source_length": 7,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS épée du Rêve : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 15,
+        "JA_text": "@1まどろみの;けん@",
+        "FR_text": "@0F@2l'@3une @4épée du Rêve@5les @6des @7épées du Rêve@8N@9Y@",
+        "JA_sha256": "7e4be87ce022dac03345608264be68d14143b5081ba7165e05aaf6b9edb33856",
+        "FR_sha256": "53c2c6a32ff8c0dbfab2c90b8d755d41caaebfaa65b21f744670d76f9f249a4f"
+      }
+    ],
+    "proposal": "épée du Rêve",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Sword of|Slumber",
+    "secondary_IPS_message_sha256": "ef2a1531571480de6ff545dafbc5ce4eaa0dc55d9e0b428a35ca71120c203a4c",
+    "layout": "épée du|Rêve",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1637,
+    "sids": [
+      2101
+    ],
+    "current": "Sword of|Decimation",
+    "sfc_jp": "みなごろしのけん",
+    "current_message_sha256": "e2fb70d902001aa296473571ecc0a85610cf16860ba4ed3401d4130b06d506fa",
+    "JP_message_sha256": "2f38f2896359b798672403c28a05148f6195427ff81613acfec01a39fec0f46c",
+    "JP_source_offset": 3915295,
+    "JP_source_length": 8,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS épée du Massacre : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 34,
+        "JA_text": "@1みなごろしの;けん@",
+        "FR_text": "@0F@2l'@3une @4épée du ;Massacre@5les @6des @7épées du Massacre@8N@9Y@",
+        "JA_sha256": "bbce90d9610af96a3a7780c3a30a3207ea0eba5a98448d47780136e92f979d32",
+        "FR_sha256": "2a42e138dadf6a026c72489c8806c1a7661977018a2d47907183154b1f4a1d3a"
+      }
+    ],
+    "proposal": "épée du Massacre",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Sword of|Decimation",
+    "secondary_IPS_message_sha256": "e2fb70d902001aa296473571ecc0a85610cf16860ba4ed3401d4130b06d506fa",
+    "layout": "épée du|Massacre",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1638,
+    "sids": [
+      2102
+    ],
+    "current": "Iron Ball of|Destruction",
+    "sfc_jp": "はかいのてっきゅう",
+    "current_message_sha256": "caa31d7534ae6aa6a1dc2840ed88f1dd523bbf4a858e7e5194d7987bf91decd7",
+    "JP_message_sha256": "258fffb78508be1c1862a72e02ead28336fc56d1eea63b88d7d005fc4a9b194d",
+    "JP_source_offset": 3915304,
+    "JP_source_length": 9,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS fléau du Carnage : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 35,
+        "JA_text": "@1はかいの;てっきゅう@",
+        "FR_text": "@0M@2le @3un @4fléau du ;Carnage@5les @6des @7fléaux du Carnage@8N@9N@",
+        "JA_sha256": "e1858b2cc9b1d39efefc1ebfdd4328f5a127b5eb0c056bdab2a34d6a6c924156",
+        "FR_sha256": "5c7793515cfc0e2d305538b2d483e69023181caa212165ef18e6404ea4217fbc"
+      }
+    ],
+    "proposal": "fléau du Carnage",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Iron Ball of|Destruction",
+    "secondary_IPS_message_sha256": "caa31d7534ae6aa6a1dc2840ed88f1dd523bbf4a858e7e5194d7987bf91decd7",
+    "layout": "fléau du|Carnage",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1667,
+    "sids": [
+      2131
+    ],
+    "current": "Sword of|Ramias",
+    "sfc_jp": "ラミアスのつるぎ",
+    "current_message_sha256": "8e115c4581a52d38ab0d0d914201df2407525d13bb477f5a1d4c8d706f2307fa",
+    "JP_message_sha256": "61038d13c1fe83bc375555665226ba91931c70040cdb648f5d3ad75900c59c31",
+    "JP_source_offset": 3915526,
+    "JP_source_length": 8,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS épée de Ramias : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 64,
+        "JA_text": "@1ラミアスの;つるぎ@",
+        "FR_text": "@0F@2l'@3l'@4épée de ;Ramias@5les @6les @7épées de Ramias@8N@9Y@",
+        "JA_sha256": "33aac8d49550c9f678b2d41a3d796a47802402c0deaaf26f9db6593e02c6a431",
+        "FR_sha256": "237a62b81a84e680911011465605a58bc2c4c0889b51bdb40f02526e1a5b337a"
+      }
+    ],
+    "proposal": "épée de Ramias",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Sword of|Ramias",
+    "secondary_IPS_message_sha256": "8e115c4581a52d38ab0d0d914201df2407525d13bb477f5a1d4c8d706f2307fa",
+    "layout": "épée de|Ramias",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1707,
+    "sids": [
+      2171
+    ],
+    "current": "Angel's|Leotard",
+    "sfc_jp": "てんしのレオタード",
+    "current_message_sha256": "04d41e3bb4bf391a994ef75ffd5ac3448308089768c29cd7e6ad6cc43ee46d1c",
+    "JP_message_sha256": "79e2036bb906858e3864c7d11267e57f773dbe5134b466259fb0dbbc3b81c7a4",
+    "JP_source_offset": 3915847,
+    "JP_source_length": 9,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS body d'ange : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 121,
+        "JA_text": "@1てんしの;レオタード@",
+        "FR_text": "@0M@2le @3un @4body d'ange@5les @6des @7bodies d'ange@8N@9N@",
+        "JA_sha256": "1dbedb049d70dc0d33ee4e5180ab2770ddcda22bf5a90378b68ca04a48f72db1",
+        "FR_sha256": "a6b034b5781b34b8b91b51fcb20195650fae2eb138630248e6a500dbc86d1d77"
+      }
+    ],
+    "proposal": "body d'ange",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Angel's|Leotard",
+    "secondary_IPS_message_sha256": "04d41e3bb4bf391a994ef75ffd5ac3448308089768c29cd7e6ad6cc43ee46d1c",
+    "layout": "body|d'ange",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1725,
+    "sids": [
+      2189
+    ],
+    "current": "Shield of|Reflection",
+    "sfc_jp": "みかがみのたて",
+    "current_message_sha256": "1918d2ce280270067d3e40e007d878ea0fee1da18215ab2ba9f7195628e223d6",
+    "JP_message_sha256": "f745b8b3ebebbe1a4fd23ddc50eaec1fe8b701763163f9e676e259fc9988163f",
+    "JP_source_offset": 3915988,
+    "JP_source_length": 7,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS bouclier d'argent : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 148,
+        "JA_text": "@1みかがみの;たて@",
+        "FR_text": "@0M@2le @3un @4bouclier ;d'argent@5les @6des @7boucliers d'argent@8N@9N@",
+        "JA_sha256": "bf53ddc27784ea03da7bcacf729df28c43149dd1979a4d2a54f6fc9532aa2c7c",
+        "FR_sha256": "091b3c81c12288bb40712a939f5c6001dd12b479a839d39b2dd6f579715e6875"
+      }
+    ],
+    "proposal": "bouclier d'argent",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Shield of|Reflection",
+    "secondary_IPS_message_sha256": "1918d2ce280270067d3e40e007d878ea0fee1da18215ab2ba9f7195628e223d6",
+    "layout": "bouclier|d'argent",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1731,
+    "sids": [
+      2195
+    ],
+    "current": "Metal King|Shield",
+    "sfc_jp": "メタルキングのたて",
+    "current_message_sha256": "807e318a58a762618bc6223ae6a23b8e7b3b56c82c03cec8c4758f86c2e87f8b",
+    "JP_message_sha256": "1416292983328747e8c34cde6ef9e13a3378801a2dd23751f14dfdc1d9fd3f91",
+    "JP_source_offset": 3916033,
+    "JP_source_length": 9,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS bouclier royal : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 154,
+        "JA_text": "@1メタルキング;のたて@",
+        "FR_text": "@0M@2le @3un @4bouclier royal@5les @6des @7boucliers royaux@8N@9N@",
+        "JA_sha256": "6ba0f502997aaeeade5cff6907fba8e0a1cb42846a0d973f04b743b980d677f2",
+        "FR_sha256": "9fd7d1d18145724a2768a104dc549b247224c030bac4c6e4720a70ab6f6e9872"
+      }
+    ],
+    "proposal": "bouclier royal",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Metal King|Shield",
+    "secondary_IPS_message_sha256": "807e318a58a762618bc6223ae6a23b8e7b3b56c82c03cec8c4758f86c2e87f8b",
+    "layout": "bouclier|royal",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1758,
+    "sids": [
+      2222
+    ],
+    "current": "Armband of|Sacrifice",
+    "sfc_jp": "メガンテのうでわ",
+    "current_message_sha256": "5169f8b4efda3056dd4ee56fc2923691a5e2c194b8a219b5e4fffeb2cffab7af",
+    "JP_message_sha256": "4f3180cee0deb93a8af85ecc8d7804711148918f2baf7c756b231d9950991bad",
+    "JP_source_offset": 3916250,
+    "JP_source_length": 8,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS brassard kamikaze : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 192,
+        "JA_text": "@1メガンテの;うでわ@",
+        "FR_text": "@0M@2le @3un @4brassard ;kamikaze@5les @6des @7brassards kamikaze@8N@9N@",
+        "JA_sha256": "b52f8b8841e3f0e031a1ac497031d43e9df2a0eaf7da67cee715336595f5fa4c",
+        "FR_sha256": "f30e471be15cac5f63fbba272bbb9921b5fce52a7650345a3cce8677a5e46116"
+      }
+    ],
+    "proposal": "brassard kamikaze",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Armband of|Sacrifice",
+    "secondary_IPS_message_sha256": "5169f8b4efda3056dd4ee56fc2923691a5e2c194b8a219b5e4fffeb2cffab7af",
+    "layout": "brassard|kamikaze",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1764,
+    "sids": [
+      2228
+    ],
+    "current": "Fishnet|Stockings",
+    "sfc_jp": "あみタイツ",
+    "current_message_sha256": "41542cb4034e8fcc3cd310d35ab3b45a297ff18db4de7e5f63a3907084afdf2d",
+    "JP_message_sha256": "f54dd3f4076c5fbf0c7ddfeef3bacabdf22be42c3dc09b5eb764570231ae14c8",
+    "JP_source_offset": 3916300,
+    "JP_source_length": 5,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS bas résille : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 198,
+        "JA_text": "@1あみタイツ@",
+        "FR_text": "@0N@2la paire de @3une paire de @4bas résille@5les paires de @6des paires de @7bas résille@8Y@9N@",
+        "JA_sha256": "7076b68b7899f91d6b0cc758ba6973c50e075e1f5d2cb394ac8a3c7eaf9c78bf",
+        "FR_sha256": "83c0c340c96c605829a42100f1540cb0a0414b9e664ecc9620ea1ad948e2c0e9"
+      }
+    ],
+    "proposal": "bas résille",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Fishnet|Stockings",
+    "secondary_IPS_message_sha256": "41542cb4034e8fcc3cd310d35ab3b45a297ff18db4de7e5f63a3907084afdf2d",
+    "layout": "bas|résille",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1766,
+    "sids": [
+      2230
+    ],
+    "current": "Ruby of|Power",
+    "sfc_jp": "ちからのルビー",
+    "current_message_sha256": "d238ca97bcbebadc519c7f53fabbd846d1953162bae33d543aa410ba64af397f",
+    "JP_message_sha256": "e57ae62156adfc02d62f2c8eb862ca7982ddc550a3103aa78f1f64f3a31982e8",
+    "JP_source_offset": 3916314,
+    "JP_source_length": 7,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS pierre brute : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 200,
+        "JA_text": "@1ちからの;ルビー@",
+        "FR_text": "@0F@2la @3une @4pierre brute@5les @6des @7pierres brutes@8N@9N@",
+        "JA_sha256": "d2f4cfe4672361179dafb01c03003a19b361aab5e9734e6dff28a132f3d164e5",
+        "FR_sha256": "1716fc8e0906f70ca9116b42c2ad0daa377b9c7b4171a3e528b39e043a973f33"
+      }
+    ],
+    "proposal": "pierre brute",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Ruby of|Power",
+    "secondary_IPS_message_sha256": "d238ca97bcbebadc519c7f53fabbd846d1953162bae33d543aa410ba64af397f",
+    "layout": "pierre|brute",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  },
+  {
+    "position": 1811,
+    "sids": [
+      2275
+    ],
+    "current": "Ceremonial|Offering",
+    "sfc_jp": "ぎしきのそなえもの",
+    "current_message_sha256": "88dec8eea63a83b096a70139e372c056de644e6be1b611429d6e4c5f9e9c1387",
+    "JP_message_sha256": "5e9ae241066bc47a43845bc8dd0f104be9abef678b826ce66cb98037a91aa309",
+    "JP_source_offset": 3916669,
+    "JP_source_length": 9,
+    "status": "INTEGRE_v076",
+    "reason": "Proposition DS offrande rituelle : saut de ligne natif. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 245,
+        "JA_text": "@1ぎしきの;そなえもの@",
+        "FR_text": "@0F@2l'@3une @4offrande ;rituelle@5les @6des @7offrandes rituelles@8N@9Y@",
+        "JA_sha256": "6298b8beaff17458f42f34a00fb3cfe2e247a854a060ca27e921344afdc0b147",
+        "FR_sha256": "53876078e06e858c979143df328dc765368d8c470ba7aa64aed8152f91fc17f3"
+      }
+    ],
+    "proposal": "offrande rituelle",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Ceremonial|Offering",
+    "secondary_IPS_message_sha256": "88dec8eea63a83b096a70139e372c056de644e6be1b611429d6e4c5f9e9c1387",
+    "layout": "offrande|rituelle",
+    "review_note": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée."
+  }
+]

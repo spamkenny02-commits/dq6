@@ -1,0 +1,17 @@
+{
+  "release": "v0.76",
+  "ROM_sha256": "69b80445afaabe3323fff7dd445c61c8dda64b642bd5567ac752bbdc240ab879",
+  "deliberate_mutation": {
+    "sid": 805,
+    "correct_break_hex": "94",
+    "mutated_break_hex": "95",
+    "release_ROM_modified": false
+  },
+  "expected_negative_observed": true,
+  "diagnostic": "C3763A actual CPU grid/cursor after invalid metadata",
+  "observed_final_cursor": 4,
+  "expected_final_cursor": 5,
+  "consumer_process_returncode": 1,
+  "error_excerpt": "('cursor', 'after', 805, 4, 5)",
+  "natural_validation": false
+}

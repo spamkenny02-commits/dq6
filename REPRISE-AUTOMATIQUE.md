@@ -1,3 +1,11 @@
+# Reprise v0.76 — fin des110relectures,14libellés intégrés
+
+Lire dq6-fr/v0.76/README.md,revue-110-propositions.json,selection/revue/delta,audit-metadonnees-rupture.json etQA. Positions 805,1215,1612,1618,1637,1638,1667,1707,1725,1731,1758,1764,1766,1811 : Rang bleu, Porte et pique, pieu d'os, épée du Rêve, épée du Massacre, fléau du Carnage, épée de Ramias, body d'ange, bouclier d'argent, bouclier royal, brassard kamikaze, bas résille, pierre brute, offrande rituelle. 14traductions ;7résolutions des110nouvellement relues et7des400v075,sans recompter ces400. Cycle510propositions entièrement relu ;496encore noninsérées,275FRqualifiés/2048positions déjà examinées. Aucune nouvelle préparation ni relecture principale exhaustive.
+
+Les métadonnées91..9D sont recalculées explicitement en90+longueur premièreligne ;même nombre de ruptures,aucune ligne allongée. Ce changement de valeur est isolé dans l’audit,et non annoncé comme conservation àl’identique desoctets. Grilles512cases terrain etbufferB2 avant/après,28rendus diagnostiques,14rendus après relus,2477SIDs statiques,mutation pointeur,négatif rupture94→95,bus4002plages,Journal àfroid,BPS/IPS etsources erronées vérifiés. Les commandes des scripts etlecode moteur restent intacts. Menus/scènes naturels etaccords nonvalidés globalement.
+
+Reprendre les496réserves par type,pas un nouveau parcours des510. Examiner contexte des objets de vocation1820/1821,ancien glyphe88de1797,genres/pluriels,glyphes manquants etlargeurs naturelles. Table active7AF000 de14140octets ;capacité réservée jusqu’à7B8703,moteur etpoolcombat protégés.8Mio,principal/combat etanciens octets protégés inchangés. Projet nonfinalisé,audits hérités etrelecture exhaustive ouverts.
+
 # Reprise v0.75 — 50 libellés intégrés, puis 400 autres propositions relues
 
 Lire dq6-fr/v0.75/README.md, selection/revue/delta, preparations-resolues.json, audit-ruptures-preservees.json, homonymes-boss.json et QA.50libellés intégrés (49traductions,1correction de casse Troll→troll) :35positions de monstres/personnages dont toutes les6formes Mortamor et3Nokturnus du blocmonstres,6rangs de vocation,9objets sur2lignes. Ne pas les recompter.261FRqualifiés/2048positions déjà examinées ;510propositions restent noninsérées.

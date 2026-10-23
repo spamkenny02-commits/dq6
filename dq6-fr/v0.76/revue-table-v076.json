@@ -1,0 +1,394 @@
+[
+  {
+    "sid": 805,
+    "position": 805,
+    "french": "Rang bleu",
+    "layout": "Rang|bleu",
+    "previous": "Invite|Class",
+    "sfc_jp": "しょたいけんクラス",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 920,
+        "JA_text": "@1しょたいけんクラス@",
+        "FR_text": "@4Rang bleu@",
+        "JA_sha256": "c27000b3c0869cfbe2b12f7dcf37403a4a3b72d59780bfa15e7ce3104d9be1ee",
+        "FR_sha256": "a0c377b9186f545619f042e0097f1c896ae6ec80400a7829ac99fdb3a702f3a2"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "184f57e14696124dd154ac",
+    "encoded_hex": "21cf489443e256ac",
+    "old_sha256": "d70dda821f4775fb647ac8db92345b63d8e195a10092cf0c10568c01ea5635a6",
+    "new_sha256": "b0fd395a52ce20080a97eef20e5eb0bd024a6fb6c0d84ff57f1396d256752651",
+    "old_columns": 12,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 1679,
+    "position": 1215,
+    "french": "Porte et pique",
+    "layout": "Porte|et pique",
+    "previous": "Strike|Weakness",
+    "sfc_jp": "きゅうしょづき",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1003000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1003000.mpt",
+        "id": 130,
+        "JA_text": "@1きゅうしょ;づき@",
+        "FR_text": "@2le @3un @4Porte et pique@",
+        "JA_sha256": "1163e3ebf52294cdcd2c11a42ca21ab7ce149a66649dfb80174e6802edad96d0",
+        "FR_sha256": "a76bb2d24531c95f918910054f9ca770e077d5f6d9d5f735d1910bb028c125e6"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "2255534a4c469626d74c4fdb54ac",
+    "encoded_hex": "1fecf89546f7514a525646ac",
+    "old_sha256": "45ff26bb6b7fc393c158ab9459c85c365f2514710adf6b4f96666daec2e0d3e7",
+    "new_sha256": "0463e5d5f10ffe743874f17097111e5d228e6e4b476ed40b9da14144bf427f05",
+    "old_columns": 15,
+    "new_columns": 14,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2076,
+    "position": 1612,
+    "french": "pieu d'os",
+    "layout": "pieu|d'os",
+    "previous": "Sharpened|Bone",
+    "sfc_jp": "とがったホネ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 9,
+        "JA_text": "@1とがったホネ@",
+        "FR_text": "@0M@2le @3un @4pieu d'os@5les @6des @7pieux d'os@8N@9N@",
+        "JA_sha256": "7be65a24140e92b2eb5be04579215d331ab3227a206c18376bd21c371600886c",
+        "FR_sha256": "3a140186448a2984a4c71fa8cfd5e841177203e9c5635b8cb20e68761a260581"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "2249d051464fd89911ea46ac",
+    "encoded_hex": "514a46569445775054ac",
+    "old_sha256": "b75ab667dd1e77ad5aa17f89a3d920819881882b06074c128cb0bc2157132f6c",
+    "new_sha256": "ab9d6e57a08efd8abe56a9028a49da996f87fbfa28f21bf269e627899331e81f",
+    "old_columns": 14,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2082,
+    "position": 1618,
+    "french": "épée du Rêve",
+    "layout": "épée du|Rêve",
+    "previous": "Sword of|Slumber",
+    "sfc_jp": "まどろみのけん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 15,
+        "JA_text": "@1まどろみの;けん@",
+        "FR_text": "@0F@2l'@3une @4épée du Rêve@5les @6des @7épées du Rêve@8N@9Y@",
+        "JA_sha256": "7e4be87ce022dac03345608264be68d14143b5081ba7165e05aaf6b9edb33856",
+        "FR_sha256": "53c2c6a32ff8c0dbfab2c90b8d755d41caaebfaa65b21f744670d76f9f249a4f"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "2258ec4501e898224d564e43daac",
+    "encoded_hex": "2d512dd645569721335746ac",
+    "old_sha256": "ef2a1531571480de6ff545dafbc5ce4eaa0dc55d9e0b428a35ca71120c203a4c",
+    "new_sha256": "f96f38b7916bd5a1ff2ae18ea12d19f85a695d41ab898ab44a6731412ef21e7a",
+    "old_columns": 16,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2101,
+    "position": 1637,
+    "french": "épée du Massacre",
+    "layout": "épée du|Massacre",
+    "previous": "Sword of|Decimation",
+    "sfc_jp": "みなごろしのけん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 34,
+        "JA_text": "@1みなごろしの;けん@",
+        "FR_text": "@0F@2l'@3une @4épée du ;Massacre@5les @6des @7épées du Massacre@8N@9Y@",
+        "JA_sha256": "bbce90d9610af96a3a7780c3a30a3207ea0eba5a98448d47780136e92f979d32",
+        "FR_sha256": "2a42e138dadf6a026c72489c8806c1a7661977018a2d47907183154b1f4a1d3a"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "2258ec4501e8981346444a4ed24aeaac",
+    "encoded_hex": "2d512dd64556971cd154cdf0ac",
+    "old_sha256": "e2fb70d902001aa296473571ecc0a85610cf16860ba4ed3401d4130b06d506fa",
+    "new_sha256": "2379dcc1d6308dda2447d1dc6ce6a5e2b2b2bd845c58620944678c24fecfe969",
+    "old_columns": 19,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2102,
+    "position": 1638,
+    "french": "fléau du Carnage",
+    "layout": "fléau du|Carnage",
+    "previous": "Iron Ball of|Destruction",
+    "sfc_jp": "はかいのてっきゅう",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 35,
+        "JA_text": "@1はかいの;てっきゅう@",
+        "FR_text": "@0M@2le @3un @4fléau du ;Carnage@5les @6des @7fléaux du Carnage@8N@9N@",
+        "JA_sha256": "e1858b2cc9b1d39efefc1ebfdd4328f5a127b5eb0c056bdab2a34d6a6c924156",
+        "FR_sha256": "5c7793515cfc0e2d305538b2d483e69023181caa212165ef18e6404ea4217fbc"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "18f14f011142e301e89c13db55535644554aeaac",
+    "encoded_hex": "474d2d4256ca569812d04f424846ac",
+    "old_sha256": "caa31d7534ae6aa6a1dc2840ed88f1dd523bbf4a858e7e5194d7987bf91decd7",
+    "new_sha256": "85c3d9ede75598046be4d04cdff4273b3cab1dab4b01d4bc4de28f61b044575c",
+    "old_columns": 24,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2131,
+    "position": 1667,
+    "french": "épée de Ramias",
+    "layout": "épée de|Ramias",
+    "previous": "Sword of|Ramias",
+    "sfc_jp": "ラミアスのつるぎ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 64,
+        "JA_text": "@1ラミアスの;つるぎ@",
+        "FR_text": "@0F@2l'@3l'@4épée de ;Ramias@5les @6les @7épées de Ramias@8N@9Y@",
+        "JA_sha256": "33aac8d49550c9f678b2d41a3d796a47802402c0deaaf26f9db6593e02c6a431",
+        "FR_sha256": "237a62b81a84e680911011465605a58bc2c4c0889b51bdb40f02526e1a5b337a"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "2258ec4501e89821ce4ad1ac",
+    "encoded_hex": "2d512dd645469721ce4ad1ac",
+    "old_sha256": "8e115c4581a52d38ab0d0d914201df2407525d13bb477f5a1d4c8d706f2307fa",
+    "new_sha256": "922371acb7c1e3984f4ee358bc38966a09739d7190b1645493e241a042b388b1",
+    "old_columns": 15,
+    "new_columns": 14,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2171,
+    "position": 1707,
+    "french": "body d'ange",
+    "layout": "body|d'ange",
+    "previous": "Angel's|Leotard",
+    "sfc_jp": "てんしのレオタード",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 121,
+        "JA_text": "@1てんしの;レオタード@",
+        "FR_text": "@0M@2le @3un @4body d'ange@5les @6des @7bodies d'ange@8N@9N@",
+        "JA_sha256": "1dbedb049d70dc0d33ee4e5180ab2770ddcda22bf5a90378b68ca04a48f72db1",
+        "FR_sha256": "a6b034b5781b34b8b91b51fcb20195650fae2eb138630248e6a500dbc86d1d77"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "104f48464d7754971b465055d045ac",
+    "encoded_hex": "4350455a944577cf4846ac",
+    "old_sha256": "04d41e3bb4bf391a994ef75ffd5ac3448308089768c29cd7e6ad6cc43ee46d1c",
+    "new_sha256": "07c6df2484ebaa91631a1a8a69f67cc92909e174e6164ad71ee4b43cd1c67d8d",
+    "old_columns": 15,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2189,
+    "position": 1725,
+    "french": "bouclier d'argent",
+    "layout": "bouclier|d'argent",
+    "previous": "Shield of|Reflection",
+    "sfc_jp": "みかがみのたて",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 148,
+        "JA_text": "@1みかがみの;たて@",
+        "FR_text": "@0M@2le @3un @4bouclier ;d'argent@5les @6des @7boucliers d'argent@8N@9N@",
+        "JA_sha256": "bf53ddc27784ea03da7bcacf729df28c43149dd1979a4d2a54f6fc9532aa2c7c",
+        "FR_sha256": "091b3c81c12288bb40712a939f5c6001dd12b479a839d39b2dd6f579715e6875"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "22494a464d4501e899214647e244554aeaac",
+    "encoded_hex": "43ed444d4ada984577d04846e7ac",
+    "old_sha256": "1918d2ce280270067d3e40e007d878ea0fee1da18215ab2ba9f7195628e223d6",
+    "new_sha256": "3c8a83d619ee524f7cfda16a67fdf57eee7ea8b2b328a9bd9521f48a5c719620",
+    "old_columns": 20,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2195,
+    "position": 1731,
+    "french": "bouclier royal",
+    "layout": "bouclier|royal",
+    "previous": "Metal King|Shield",
+    "sfc_jp": "メタルキングのたて",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 154,
+        "JA_text": "@1メタルキング;のたて@",
+        "FR_text": "@0M@2le @3un @4bouclier royal@5les @6des @7boucliers royaux@8N@9N@",
+        "JA_sha256": "6ba0f502997aaeeade5cff6907fba8e0a1cb42846a0d973f04b743b980d677f2",
+        "FR_sha256": "9fd7d1d18145724a2768a104dc549b247224c030bac4c6e4720a70ab6f6e9872"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "1c4655424d011adf489a22494a464d45ac",
+    "encoded_hex": "43ed444d4ada98f15a424dac",
+    "old_sha256": "807e318a58a762618bc6223ae6a23b8e7b3b56c82c03cec8c4758f86c2e87f8b",
+    "new_sha256": "6a8d2ea707d4be35b3ab55188632126f5ef2c545b2f06a1a493cf3f929af9b3e",
+    "old_columns": 17,
+    "new_columns": 14,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2222,
+    "position": 1758,
+    "french": "brassard kamikaze",
+    "layout": "brassard|kamikaze",
+    "previous": "Armband of|Sacrifice",
+    "sfc_jp": "メガンテのうでわ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 192,
+        "JA_text": "@1メガンテの;うでわ@",
+        "FR_text": "@0M@2le @3un @4brassard ;kamikaze@5les @6des @7brassards kamikaze@8N@9N@",
+        "JA_sha256": "b52f8b8841e3f0e031a1ac497031d43e9df2a0eaf7da67cee715336595f5fa4c",
+        "FR_sha256": "f30e471be15cac5f63fbba272bbb9921b5fce52a7650345a3cce8677a5e46116"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "10534e43cf4501e89a22cd534a47de46ac",
+    "encoded_hex": "43ef5454d045984cce4a4c425b46ac",
+    "old_sha256": "5169f8b4efda3056dd4ee56fc2923691a5e2c194b8a219b5e4fffeb2cffab7af",
+    "new_sha256": "ee9b276638ece34052d7aab9020835cb5817ac73562d57db0990cb2527c3cb3d",
+    "old_columns": 20,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2228,
+    "position": 1764,
+    "french": "bas résille",
+    "layout": "bas|résille",
+    "previous": "Fishnet|Stockings",
+    "sfc_jp": "あみタイツ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 198,
+        "JA_text": "@1あみタイツ@",
+        "FR_text": "@0N@2la paire de @3une paire de @4bas résille@5les paires de @6des paires de @7bas résille@8Y@9N@",
+        "JA_sha256": "7076b68b7899f91d6b0cc758ba6973c50e075e1f5d2cb394ac8a3c7eaf9c78bf",
+        "FR_sha256": "83c0c340c96c605829a42100f1540cb0a0414b9e664ecc9620ea1ad948e2c0e9"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "15e0494f465597225550d5df4854ac",
+    "encoded_hex": "43d193532d544ae346ac",
+    "old_sha256": "41542cb4034e8fcc3cd310d35ab3b45a297ff18db4de7e5f63a3907084afdf2d",
+    "new_sha256": "202232c0bbdddbfbab46ee5391a355df7dcf7f5d1578ab94b464e776308540e1",
+    "old_columns": 17,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2230,
+    "position": 1766,
+    "french": "pierre brute",
+    "layout": "pierre|brute",
+    "previous": "Ruby of|Power",
+    "sfc_jp": "ちからのルビー",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 200,
+        "JA_text": "@1ちからの;ルビー@",
+        "FR_text": "@0F@2la @3une @4pierre brute@5les @6des @7pierres brutes@8N@9N@",
+        "JA_sha256": "d2f4cfe4672361179dafb01c03003a19b361aab5e9734e6dff28a132f3d164e5",
+        "FR_sha256": "1716fc8e0906f70ca9116b42c2ad0daa377b9c7b4171a3e528b39e043a973f33"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "2156435a01e8971feedaac",
+    "encoded_hex": "514adaf096435356f8ac",
+    "old_sha256": "d238ca97bcbebadc519c7f53fabbd846d1953162bae33d543aa410ba64af397f",
+    "new_sha256": "7d60934d4933d6e0eb4240943df4a6d0957d4a7b39a914dd4e5d1261dfca0a8a",
+    "old_columns": 13,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2275,
+    "position": 1811,
+    "french": "offrande rituelle",
+    "layout": "offrande|rituelle",
+    "previous": "Ceremonial|Offering",
+    "sfc_jp": "ぎしきのそなえもの",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 245,
+        "JA_text": "@1ぎしきの;そなえもの@",
+        "FR_text": "@0F@2l'@3une @4offrande ;rituelle@5les @6des @7offrandes rituelles@8N@9Y@",
+        "JA_sha256": "6298b8beaff17458f42f34a00fb3cfe2e247a854a060ca27e921344afdc0b147",
+        "FR_sha256": "53876078e06e858c979143df328dc765368d8c470ba7aa64aed8152f91fc17f3"
+      }
+    ],
+    "review": "JP SFC et JA/FR DS exacts relus ; nom complet conservé sans abréviation. Les deux lignes restent dans les longueurs anciennes. La métadonnée de rupture91..9D est recalculée explicitement en90+longueur première ligne ; même nombre de ruptures, aucune commande de script/moteur modifiée. Diagnostic natif2D/B2 et rendu avant/après requis ; scène naturelle non revendiquée.",
+    "old_encoded_hex": "12da464eea4a424d9a1e4747dadf48ac",
+    "encoded_hex": "e847efe5469853e15646e346ac",
+    "old_sha256": "88dec8eea63a83b096a70139e372c056de644e6be1b611429d6e4c5f9e9c1387",
+    "new_sha256": "62f3b94eef3dfdeb098f1a67696c587dd42bf8f8ee3e6fdd3c44cb7677f23571",
+    "old_columns": 19,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  }
+]

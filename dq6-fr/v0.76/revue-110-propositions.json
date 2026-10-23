@@ -1,0 +1,3342 @@
+[
+  {
+    "position": 1704,
+    "sids": [
+      2168
+    ],
+    "sfc_jp": "みずのはごろも",
+    "current": "Water Flying|Clothes",
+    "proposal": "robe flottante",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 118,
+        "JA_text": "@1みずの;はごろも@",
+        "FR_text": "@0F@2la @3une @4robe flottante@5les @6des @7robes flottantes@8N@9N@",
+        "JA_sha256": "7d4c1dcec102a06010aaf6194bd71451ab82b4ebf2d50196da041c6fd2dd5751",
+        "FR_sha256": "621ca2a4b4875e5b7f682fc1a5ad6eeccea6c9e1164b4b1f81b9ad4011f5bc11"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "efbd2219ed88e11770ea5fded98a5691fa6895a14a02fc4c919292d7979262f4",
+    "IPS_sha256": "ce43d4bb723c96037cc38ecda5f9d420202dbc648439c25880b807902d133e5b"
+  },
+  {
+    "position": 1705,
+    "sids": [
+      2169
+    ],
+    "sfc_jp": "ふしぎなボレロ",
+    "current": "Mysterious|Bolero",
+    "proposal": "absorboléro",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 119,
+        "JA_text": "@1ふしぎな;ボレロ@",
+        "FR_text": "@0M@2l'@3un @4absorboléro@5les @6des @7absorboléros@8N@9Y@",
+        "JA_sha256": "df126cea4d756a592f9aba5d23496d6acff97a26b52c73f3689da9d4762f1973",
+        "FR_sha256": "f0bfb29923c3a4b1ecd9b6639c71d03b5810e63875aac31b991aeb5a495156c3"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "ad50294446d9e7d53af240d41e178d554eeb8a32562ae5e6c3dd4bd040900b65",
+    "IPS_sha256": "84f891bf7a7f8bf1e53bb21a73036d4705b3f2dc672118eed5be1190a1cef5b5"
+  },
+  {
+    "position": 1706,
+    "sids": [
+      2170
+    ],
+    "sfc_jp": "ひかりのドレス",
+    "current": "Dress of|Radiance",
+    "proposal": "robe chatoyante",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 120,
+        "JA_text": "@1ひかりの;ドレス@",
+        "FR_text": "@0F@2la @3une @4robe ;chatoyante@5les @6des @7robes chatoyantes@8N@9N@",
+        "JA_sha256": "7ffcfb80fe2aa1521b9511069c8d2eb6975ebfb426fe8e2ed9799956216f99a4",
+        "FR_sha256": "b2b25893bb1964b6e8bde3ffb3ca6768621fe7c734210ac868e8d7909a748b89"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "b5d4bf2c24418e968aa97d0026cf3b588a82b0e6b39b86f540e07ac846cf68da",
+    "IPS_sha256": "0ac8d388859177f1e3b16ab29d90aa52a05db6f5d1e1e5293341d28be895125f"
+  },
+  {
+    "position": 1707,
+    "sids": [
+      2171
+    ],
+    "sfc_jp": "てんしのレオタード",
+    "current": "Angel's|Leotard",
+    "proposal": "body d'ange",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 121,
+        "JA_text": "@1てんしの;レオタード@",
+        "FR_text": "@0M@2le @3un @4body d'ange@5les @6des @7bodies d'ange@8N@9N@",
+        "JA_sha256": "1dbedb049d70dc0d33ee4e5180ab2770ddcda22bf5a90378b68ca04a48f72db1",
+        "FR_sha256": "a6b034b5781b34b8b91b51fcb20195650fae2eb138630248e6a500dbc86d1d77"
+      }
+    ],
+    "decision": "INTEGRE_v076",
+    "review_note": "Nom complet DS relu et sélectionné ; disposition en deux lignes dans les longueurs anciennes. Métadonnée de rupture recalculée, isolée et testée dans les rapports natifs.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "INTEGRE_v076",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "79e2036bb906858e3864c7d11267e57f773dbe5134b466259fb0dbbc3b81c7a4",
+    "IPS_sha256": "04d41e3bb4bf391a994ef75ffd5ac3448308089768c29cd7e6ad6cc43ee46d1c"
+  },
+  {
+    "position": 1708,
+    "sids": [
+      2172
+    ],
+    "sfc_jp": "プラチナメイル",
+    "current": "Platinum|Mail",
+    "proposal": "cuirasse de platine",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 122,
+        "JA_text": "@1プラチナ;メイル@",
+        "FR_text": "@0F@2la @3une @4cuirasse ;de platine@5les @6des @7cuirasses de platine@8N@9N@",
+        "JA_sha256": "95d84f255ad8885c138fa0a817b5a004a33045845c94481f6a6aa8b0c710f44d",
+        "FR_sha256": "96486d663148b93caf7eb15da4214b2a6c6e3ec420024ef773859258609ff6b2"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "0a8668f50bb0647211e85497ff060ab21d94e2fba0b31f95c8a28e6c5424b3cb",
+    "IPS_sha256": "a83217eed701a0f2c113eaf65c6e90e9ce7b197206510f0622623b77fcecb423"
+  },
+  {
+    "position": 1710,
+    "sids": [
+      2174
+    ],
+    "sfc_jp": "プリンセスローブ",
+    "current": "Princess'|Robe",
+    "proposal": "robe de princesse",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 124,
+        "JA_text": "@1プリンセス;ローブ@",
+        "FR_text": "@0F@2la @3une @4robe de ;princesse@5les @6des @7robes de princesse@8N@9N@",
+        "JA_sha256": "a17544a27476b49d7a2c99fd3679802488957654e54832835fb39304197e8604",
+        "FR_sha256": "8eb7c1eabf7c72f143efcab3e7ac3f870f530705068ac0f5ecc790311a62296e"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "7c599c037b3bda2bae7a20868d72d914dd5b86bf7b530023df13f443be9765de",
+    "IPS_sha256": "431f7c15974fef44cb0d521d5a8b2f2481411effd6ca2e174d6649798fb9cdac"
+  },
+  {
+    "position": 1711,
+    "sids": [
+      2175
+    ],
+    "sfc_jp": "ドラゴンローブ",
+    "current": "Dragon Robe",
+    "proposal": "manteau du Dragon",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 125,
+        "JA_text": "@1ドラゴン;ローブ@",
+        "FR_text": "@0M@2le @3un @4manteau ;du Dragon@5les @6des @7manteaux du Dragon@8N@9N@",
+        "JA_sha256": "ead5c668f45b2d1a1ddc918797f8133441caef3bf2bbc20b2ff0c2db6e13a659",
+        "FR_sha256": "fcd325bd32981cd1d6a6d7c679427346bf1b602054ce0c0b1be5c74fe9a9121e"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "7bbcc2066a211995e67bf82c89a41bd1400330250e530694fe65b5e9b57e7e73",
+    "IPS_sha256": "31a9cab6c9ad4511e39a4f9e3b91d5a0ac85baa8d5a4111e57d06a1dbb3d1436"
+  },
+  {
+    "position": 1712,
+    "sids": [
+      2176
+    ],
+    "sfc_jp": "あつでのよろい",
+    "current": "Thick Armor",
+    "proposal": "armure lourde",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 126,
+        "JA_text": "@1あつでの;よろい@",
+        "FR_text": "@0F@2l'@3une @4armure ;lourde@5les @6des @7armures lourdes@8N@9Y@",
+        "JA_sha256": "814139e87987e0e483856f575f220485d7b23cfc28cb482535fa0c018680fa83",
+        "FR_sha256": "a69d2ec7e58fcbaaa36852cb0c60763661276acf2bbf1d428f4f7f8ab1b68f14"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "3e1e38c29c850a7a819015c551c3aa3b16634f2a53bc9648ebe0d79c381dc2bf",
+    "IPS_sha256": "794c7267bb924990b7d306d738905ab0fef64f9b4696454639eb7de72389c08e"
+  },
+  {
+    "position": 1713,
+    "sids": [
+      2177
+    ],
+    "sfc_jp": "きぬのタキシード",
+    "current": "Silk Tuxedo",
+    "proposal": "costume de soie",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 127,
+        "JA_text": "@1きぬの;タキシード@",
+        "FR_text": "@0M@2le @3un @4costume de ;soie@5les @6des @7costumes de soie@8N@9N@",
+        "JA_sha256": "514e87fb00d435377a7a200990ed872592fc5677d25d13a6374ce4706ac09acc",
+        "FR_sha256": "63b02c2ac158aecc2d9d3675fed5f6b2b809b6d520c22464f2b82f89d54ffcb6"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "96d02ab4c6897694ecc26f0aff1c032889a875524605809778c38222c4b57841",
+    "IPS_sha256": "d87df260f6fe701b7a7ac37379ab42d99e4da257e2bd3495ed4fbafe67944bf5"
+  },
+  {
+    "position": 1714,
+    "sids": [
+      2178
+    ],
+    "sfc_jp": "エッチなしたぎ",
+    "current": "Sexy|Underwear",
+    "proposal": "lingerie robuste",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 128,
+        "JA_text": "@1エッチな;したぎ@",
+        "FR_text": "@0M@2l'ensemble de @3un ensemble de @4lingerie ;robuste@5les @6des @7ensembles de lingerie robuste@8N@9N@",
+        "JA_sha256": "9df65ba765287876b760c47ca741e1c8e3498124a038ed4bf09696c6d11cfdf6",
+        "FR_sha256": "b7b4832283ae66251a83ecce289de7811650ba86949897f8ddf4bada6072a0c1"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "60b7a9bf9691c6c2e4efcbf15a339c2cae4eab3c42303525aba7b039944d6250",
+    "IPS_sha256": "b30fb31ca6299bc29c5a5b7654b9ee8d7d14330e5067a2c1a9161bc04985bdbe"
+  },
+  {
+    "position": 1715,
+    "sids": [
+      2179
+    ],
+    "sfc_jp": "バニースーツ",
+    "current": "Bunny Suit",
+    "proposal": "costume de lapin",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 129,
+        "JA_text": "@1バニー;スーツ@",
+        "FR_text": "@0M@2le @3un @4costume ;de lapin@5les @6des @7costumes de lapin@8N@9N@",
+        "JA_sha256": "c16c0f884f47dccdc48549db38b06fc8e21e07be10f33e8e36898da6f1722655",
+        "FR_sha256": "06f72fe78946e7ede64f994644f8d3a0b8314f55c15a15fc146f803cfef98a58"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "c5bbadf6d10f0eb7968fbaa6762b2f6624a31abbb42b8f6a9679ede63bfaf377",
+    "IPS_sha256": "f2dfad7ed1a8913f47f0fcebd32a6575de94e6ea4c075f3370f2c036ce9f1798"
+  },
+  {
+    "position": 1716,
+    "sids": [
+      2180
+    ],
+    "sfc_jp": "かわのたて",
+    "current": "Leather|Shield",
+    "proposal": "bouclier de cuir",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 139,
+        "JA_text": "@1かわのたて@",
+        "FR_text": "@0M@2le @3un @4bouclier ;de cuir@5les @6des @7boucliers de cuir@8N@9N@",
+        "JA_sha256": "28e8d493f5c1955c28c4a98b8cb9ff7af5838f5f21cf50da5dddc4ed09fe3e3f",
+        "FR_sha256": "4f5018b76249549c86fd623a80585cad986187c05999b9eb043b254d6b73093f"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "f864cb675af0b5d473a875ef9acadd62af0db9ee85841f0b0da00c6135712ac5",
+    "IPS_sha256": "bcbada082fdec682f6ece1c04060fc45d72504ff4aef0be7f46c1ea5ab0996e4"
+  },
+  {
+    "position": 1717,
+    "sids": [
+      2181
+    ],
+    "sfc_jp": "うろこのたて",
+    "current": "Scale Shield",
+    "proposal": "bouclier d'écailles",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 140,
+        "JA_text": "@1うろこのたて@",
+        "FR_text": "@0M@2le @3un @4bouclier ;d'écailles@5les @6des @7boucliers d'écailles@8N@9N@",
+        "JA_sha256": "1174bc3f08fd7ff1dc877dfc921d6d03edee607ca04df6a831fae9541a36ae04",
+        "FR_sha256": "316b549e6d226c74129ef424db9837ec9c47865cc8767c50d6758c6a0a481849"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "3fc4908697bc746ffd4b2c9c98701959a7c1d919e5009b5b481450a22bd15ee0",
+    "IPS_sha256": "1f551b4a6cc531573cf98bf30d312ea16b2f20d19bd0c3ab0d2cfd96cbef7bc6"
+  },
+  {
+    "position": 1718,
+    "sids": [
+      2182
+    ],
+    "sfc_jp": "せいどうのたて",
+    "current": "Bronze|Shield",
+    "proposal": "bouclier de bronze",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 141,
+        "JA_text": "@1せいどうの;たて@",
+        "FR_text": "@0M@2le @3un @4bouclier de ;bronze@5les @6des @7boucliers de bronze@8N@9N@",
+        "JA_sha256": "8202f5b2d1a26589f0e395ef1aec419a0d60adcef73cd334e96dd6e93540a638",
+        "FR_sha256": "01e4a7165ee430b87efd33d48bb56011d2e18387ae6fac099610613f1f270a14"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "c356b126094ed5c7d8cab61d4a7456ca0961d64bb18721089c50a8a4217ca7d0",
+    "IPS_sha256": "ca03c0fb3aea12a9766a7a630ea65cea364594d79fd47cc94d306f2f18061a0c"
+  },
+  {
+    "position": 1719,
+    "sids": [
+      2183
+    ],
+    "sfc_jp": "てつのたて",
+    "current": "Iron Shield",
+    "proposal": "bouclier de fer",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 142,
+        "JA_text": "@1てつのたて@",
+        "FR_text": "@0M@2le @3un @4bouclier de fer@5les @6des @7boucliers de fer@8N@9N@",
+        "JA_sha256": "2ed04635537bbeea0cd4af2ded4e7400e04eb617d8ea8d88a02598e21354979e",
+        "FR_sha256": "4b519c0828ebe45eaa9b34f90a70dc6e2cf3f7ea87c4cb7ed4b0fbf37a5d1436"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "2d750f5a2096c68f4524fcfc869abdd35330f42453a856a3699f69ff6fd711ba",
+    "IPS_sha256": "fef43db781f46cf3812014172c722529c23cd69e6305156f2354d41152d258a1"
+  },
+  {
+    "position": 1720,
+    "sids": [
+      2184
+    ],
+    "sfc_jp": "まほうのたて",
+    "current": "Magic Shield",
+    "proposal": "bouclier magique",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 143,
+        "JA_text": "@1まほうのたて@",
+        "FR_text": "@0M@2le @3un @4bouclier ;magique@5les @6des @7boucliers magiques@8N@9N@",
+        "JA_sha256": "fe18bdf59d4a97a6dcd7ae83935367523d1764e8bbe5c195fa9348b64e36b9f5",
+        "FR_sha256": "878b8abecffe6ffef40378e29954509811a24dd3166277171867f9d21571bdd2"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "68c30339d5b478fb732e866604a9f2ba649bf9eb7393963951ffa2b69b40efd2",
+    "IPS_sha256": "676b4bd36d0f624e3f5479f0d1ce4abac1e0cd673cb2453806713f1891cbafd3"
+  },
+  {
+    "position": 1721,
+    "sids": [
+      2185
+    ],
+    "sfc_jp": "ドラゴンシールド",
+    "current": "Dragon|Shield",
+    "proposal": "bouclier du Dragon",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 144,
+        "JA_text": "@1ドラゴン;シールド@",
+        "FR_text": "@0M@2le @3un @4bouclier ;du Dragon@5les @6des @7boucliers du Dragon@8N@9N@",
+        "JA_sha256": "88f92ec8ba4ec8e5c8fb1f6d2f167c162ca67d45b7d7445f5c49fae44a65bb45",
+        "FR_sha256": "1aa9a3ede9646a840a5bb1a2372e7387123ed5be9f3feca88217d62fd2b4d322"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "892662bc4f15ed5305fc2d680efdaf7d328c2e6e46d03d13ab08312b25b7f22e",
+    "IPS_sha256": "23b95eed7f79e9a0ab2da421822cf957d4892f777465f5ecb91e40aedb1f6cd6"
+  },
+  {
+    "position": 1722,
+    "sids": [
+      2186
+    ],
+    "sfc_jp": "ほのおのたて",
+    "current": "Flame Shield*",
+    "proposal": "bouclier de feu",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 145,
+        "JA_text": "@1ほのおのたて@",
+        "FR_text": "@0M@2le @3un @4bouclier de feu@5les @6des @7boucliers de feu@8N@9N@",
+        "JA_sha256": "aee400b1d9fde3fe677039fb8abaf7b8e70bacc24a8d2b2e628fbc040ae42e49",
+        "FR_sha256": "ee4c659b2c427bc4fa6977c68567b576ed2dd39229d5657af543a8274407e5b2"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "ceac213a915fc12d4fcf23d29e55b55fbbe6bca3d159241996846420885d3f8e",
+    "IPS_sha256": "22395805674e48542eb226d06168a619b2cb3bdfbe164416cea4fe03a0504488"
+  },
+  {
+    "position": 1723,
+    "sids": [
+      2187
+    ],
+    "sfc_jp": "ちからのたて",
+    "current": "Shield of|Strength",
+    "proposal": "bouclier de puissance",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 146,
+        "JA_text": "@1ちからのたて@",
+        "FR_text": "@0M@2le @3un @4bouclier de ;puissance@5les @6des @7boucliers de puissance@8N@9N@",
+        "JA_sha256": "6aa0370e235b9738a34ae213a45b94dd022e71434ec4b2e82708f5c937d66f61",
+        "FR_sha256": "d50e3397b4442b93bb5e9257700b8610218dbb182b57cd81bee97da5ed261145"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "8dc4c48f9c05eee0da3149f29fff95db7c2aff292abe9078f587ca836ff16045",
+    "IPS_sha256": "a34402b98a93985f1f70b9cc11ceb50b6e4fa15506fa853df1ec1901e54ec68a"
+  },
+  {
+    "position": 1724,
+    "sids": [
+      2188
+    ],
+    "sfc_jp": "ふうじんのたて",
+    "current": "Aeolus's|Shield",
+    "proposal": "bouclier du Vent",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 147,
+        "JA_text": "@1ふうじんの;たて@",
+        "FR_text": "@0M@2le @3un @4bouclier ;du Vent@5les @6des @7boucliers du Vent@8N@9N@",
+        "JA_sha256": "a5ec7cd93da7b4493ca6e9a46bf69135ef34c115c4be00efe60e76877edc76de",
+        "FR_sha256": "4070b54daabc525d1c156f46f74e3466bd1a795ba1e41420403813a86db00437"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "4376896163c97361efcda47ae920bf893ef3fa40c6b01185599049d841a502b3",
+    "IPS_sha256": "c9bb49574369a9b654f1db729e0b585d792d6345f8e4a7d249824d4e4e614979"
+  },
+  {
+    "position": 1725,
+    "sids": [
+      2189
+    ],
+    "sfc_jp": "みかがみのたて",
+    "current": "Shield of|Reflection",
+    "proposal": "bouclier d'argent",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 148,
+        "JA_text": "@1みかがみの;たて@",
+        "FR_text": "@0M@2le @3un @4bouclier ;d'argent@5les @6des @7boucliers d'argent@8N@9N@",
+        "JA_sha256": "bf53ddc27784ea03da7bcacf729df28c43149dd1979a4d2a54f6fc9532aa2c7c",
+        "FR_sha256": "091b3c81c12288bb40712a939f5c6001dd12b479a839d39b2dd6f579715e6875"
+      }
+    ],
+    "decision": "INTEGRE_v076",
+    "review_note": "Nom complet DS relu et sélectionné ; disposition en deux lignes dans les longueurs anciennes. Métadonnée de rupture recalculée, isolée et testée dans les rapports natifs.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "INTEGRE_v076",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "f745b8b3ebebbe1a4fd23ddc50eaec1fe8b701763163f9e676e259fc9988163f",
+    "IPS_sha256": "1918d2ce280270067d3e40e007d878ea0fee1da18215ab2ba9f7195628e223d6"
+  },
+  {
+    "position": 1726,
+    "sids": [
+      2190
+    ],
+    "sfc_jp": "おなべのフタ",
+    "current": "Pot Lid",
+    "proposal": "couvercle de tonneau",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 149,
+        "JA_text": "@1おなべのフタ@",
+        "FR_text": "@0M@2le @3un @4couvercle de ;tonneau@5les @6des @7couvercles de tonneau@8N@9N@",
+        "JA_sha256": "2505ca45a97b94c0a4b730deb1e8ede30109aadeb48f78e6f483cfc8d84b7ae7",
+        "FR_sha256": "8b8b01d38765da0d1ea8177e03d38a7f63ae95f27bfddf5bab44cfda23c83404"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "beb844bff91528ade4032a236588edfee57d350948477b643699e357bc0e7b01",
+    "IPS_sha256": "07dfc693666a96057693e96b47adfc9e77edac7850db536cc89613f434819a3b"
+  },
+  {
+    "position": 1727,
+    "sids": [
+      2191
+    ],
+    "sfc_jp": "エンデのたて",
+    "current": "Shield of|Ende",
+    "proposal": "bouclier de Tristan Clume",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 150,
+        "JA_text": "@1エンデのたて@",
+        "FR_text": "@0M@2le @3le @4bouclier de ;Tristan Clume@5les @6les @7boucliers de Tristan Clume@8N@9N@",
+        "JA_sha256": "a769a17d0dba0517a41e852836e8a87275e1122820eeb9f4219622c100eb36d0",
+        "FR_sha256": "3e9cff004e6956428c8918618abda61f1dd99fbe7262d4b5bbfc68e29bd54d69"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "73603687f4e9feac2e7dab2fa36e5940c9eddef32a8968ca330b8d483acef62b",
+    "IPS_sha256": "668f2fda3021b2ad576a0bd8fda0e81954bb30a91b29553cc8f762dcdb9f5a88"
+  },
+  {
+    "position": 1728,
+    "sids": [
+      2192
+    ],
+    "sfc_jp": "シルバートレイ",
+    "current": "Silver Tray",
+    "proposal": "plateau d'argent",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 151,
+        "JA_text": "@1シルバー;トレイ@",
+        "FR_text": "@0M@2le @3un @4plateau ;d'argent@5les @6des @7plateaux d'argent@8N@9N@",
+        "JA_sha256": "bb6db8cd36bf20b27099870bbe423ba3e8eec53c4d9aff5b52bcd12d5df89103",
+        "FR_sha256": "0a9957785330f7dfc5d411d48b93875e84976017ed5e15f4320087fc1d754496"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "e90bc135b7468e86dd305f74599ce13ff7ef7c0a58401d5c855dd1cb41858da7",
+    "IPS_sha256": "61fd073f88e43ec7a07fb1dda2dae4c13301e82771f7e04efeb97bcf39300270"
+  },
+  {
+    "position": 1729,
+    "sids": [
+      2193
+    ],
+    "sfc_jp": "はめつのたて",
+    "current": "Shield of|Ruin",
+    "proposal": "bouclier du Désastre",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 152,
+        "JA_text": "@1はめつのたて@",
+        "FR_text": "@0M@2le @3un @4bouclier du ;Désastre@5les @6des @7boucliers du Désastre@8N@9N@",
+        "JA_sha256": "25977484121d04f895a48bccc124062ed90dbd934ad14274ddf26b1bb7e92cc3",
+        "FR_sha256": "b8d173c764e6f018b1cd46fc8dd129c9766e63cdfaf83e74438d327609d52a5e"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "1d27970acfad44c25e1ea7d0648bd57cebdc9cedeebdc34fa8a0e3add08fab78",
+    "IPS_sha256": "3fa157f55ea37d93fe7f058cf9d0e52f8f8a4f81d5dbc1990680116776723525"
+  },
+  {
+    "position": 1730,
+    "sids": [
+      2194
+    ],
+    "sfc_jp": "オーガシールド",
+    "current": "Ogre Shield",
+    "proposal": "bouclier d'ogre",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 153,
+        "JA_text": "@1オーガ;シールド@",
+        "FR_text": "@0M@2le @3un @4bouclier d'ogre@5les @6des @7boucliers d'ogre@8N@9N@",
+        "JA_sha256": "ed3f550b3245548d88b176a4fbf636dc312785c5357c199b65411d54b6116f76",
+        "FR_sha256": "2d455b14bd6627d3607e5547a90a5a803a8343b2321b3860160a28085a69f2e0"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "b2be0ed7f75cdc39d56279877062a612c7b7fa4dfba2fb5a5a768bbb35624551",
+    "IPS_sha256": "41b0981afa607bbfdf3a60361c7ff6ac15cf21440e28eef445c3a06427bd28dd"
+  },
+  {
+    "position": 1731,
+    "sids": [
+      2195
+    ],
+    "sfc_jp": "メタルキングのたて",
+    "current": "Metal King|Shield",
+    "proposal": "bouclier royal",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 154,
+        "JA_text": "@1メタルキング;のたて@",
+        "FR_text": "@0M@2le @3un @4bouclier royal@5les @6des @7boucliers royaux@8N@9N@",
+        "JA_sha256": "6ba0f502997aaeeade5cff6907fba8e0a1cb42846a0d973f04b743b980d677f2",
+        "FR_sha256": "9fd7d1d18145724a2768a104dc549b247224c030bac4c6e4720a70ab6f6e9872"
+      }
+    ],
+    "decision": "INTEGRE_v076",
+    "review_note": "Nom complet DS relu et sélectionné ; disposition en deux lignes dans les longueurs anciennes. Métadonnée de rupture recalculée, isolée et testée dans les rapports natifs.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "INTEGRE_v076",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "1416292983328747e8c34cde6ef9e13a3378801a2dd23751f14dfdc1d9fd3f91",
+    "IPS_sha256": "807e318a58a762618bc6223ae6a23b8e7b3b56c82c03cec8c4758f86c2e87f8b"
+  },
+  {
+    "position": 1732,
+    "sids": [
+      2196
+    ],
+    "sfc_jp": "スフィーダのたて",
+    "current": "Shield Of|Sufida",
+    "proposal": "bouclier de Valora",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 155,
+        "JA_text": "@1スフィーダの;たて@",
+        "FR_text": "@0M@2le @3le @4bouclier ;de Valora@5les @6les @7boucliers de Valora@8N@9N@",
+        "JA_sha256": "2f8f29d4e71cd97b7d80f4943bd4be6e37aa2be9aabea56aa95abb2505a526bf",
+        "FR_sha256": "fe9b0e8cb31ec8a8c65ead2e7578039841ba7646f41a17da41583d9b89048c41"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "4d229968d0324be675297c4952b676f169d307ba8ff0bc60a9b66a80810d64f0",
+    "IPS_sha256": "fbc24353c07189ad6b3fc4987653b5b43293b790ce40c948504625bfe688ec7f"
+  },
+  {
+    "position": 1733,
+    "sids": [
+      2197
+    ],
+    "sfc_jp": "プラチナシールド",
+    "current": "Platinum|Shield",
+    "proposal": "bouclier de platine",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 156,
+        "JA_text": "@1プラチナ;シールド@",
+        "FR_text": "@0M@2le @3un @4bouclier ;de platine@5les @6des @7boucliers de platine@8N@9N@",
+        "JA_sha256": "e1ae7b1cd6fe6a81de664056285012055b6eb0ef4cdb06d6f6f4ad65ed19b9ed",
+        "FR_sha256": "e5129c835dd1fcdfd2d01827f89bfcc0fd6520d800b256393af3d2ebd57e54d8"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "3999dbbd1a291952c82a22eca359438a177a570929a0b1805fc46582f80cd828",
+    "IPS_sha256": "ab4f49dcec46b06c989e0776601ba310f3b57c3d4a40fa7e7905772183cba291"
+  },
+  {
+    "position": 1734,
+    "sids": [
+      2198
+    ],
+    "sfc_jp": "とんがりぼうし",
+    "current": "Pointed Hat",
+    "proposal": "chapeau à pointe",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 163,
+        "JA_text": "@1とんがり;ぼうし@",
+        "FR_text": "@0M@2le @3un @4chapeau ;à pointe@5les @6des @7chapeaux à pointe@8N@9N@",
+        "JA_sha256": "1d7dfa0874b025d16ed42f8d25988706cde59d5321dc235bc210220ba82c78a2",
+        "FR_sha256": "82caeaa9a0d9453173590b3b1581b8235fa125f1423e482d21c63280c1d5723d"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "2aa6c787970200e972ca6b36c17f78f344cf992ad4f4e48123d1072aa73dd596",
+    "IPS_sha256": "9f4fb17350f87a3c29873abdc778d7a1ac602baea78e31a2cf0663583d63f107"
+  },
+  {
+    "position": 1735,
+    "sids": [
+      2199
+    ],
+    "sfc_jp": "かわのぼうし",
+    "current": "Leather Cap",
+    "proposal": "casque de cuir",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 164,
+        "JA_text": "@1かわのぼうし@",
+        "FR_text": "@0M@2le @3un @4casque de cuir@5les @6des @7casques de cuir@8N@9N@",
+        "JA_sha256": "85ea6fa6ce9e05f2741654ed3580361172ebfc0d7ed515d93715676b9b3a89a9",
+        "FR_sha256": "e77259304c55bde1a1cf97293cbf34d70801380b03e2dd2fa371515a85ea5efc"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "8cbe4c01aa159ac1ceb2c4daf8e72891199a9a94e1089193e66fc76dbc829a8c",
+    "IPS_sha256": "abb69ebdb1b8a4ac521b2a48aaf6223fb9361cdfdde5a6724ebe83ceb80d1881"
+  },
+  {
+    "position": 1736,
+    "sids": [
+      2200
+    ],
+    "sfc_jp": "きのぼうし",
+    "current": "Wooden Hat",
+    "proposal": "casque de bois",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 165,
+        "JA_text": "@1きのぼうし@",
+        "FR_text": "@0M@2le @3un @4casque de bois@5les @6des @7casques de bois@8N@9N@",
+        "JA_sha256": "cadb97e37964b174f001f8df5c8753540053ac7624ba9ab0836f3f6acc8af4e4",
+        "FR_sha256": "16198482cbab52ca75af0f349ffc2ed23f4f41d26000b286a62c9a1b74ea3c14"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "ad4ab105fa38cc19f070bddcf59207e59ab62d9a7c19c2ad3611f59d7156cc45",
+    "IPS_sha256": "4a62698473bdfdb008217c97701e73cbcf2a5a91c012526ce498ca91b2c874ac"
+  },
+  {
+    "position": 1737,
+    "sids": [
+      2201
+    ],
+    "sfc_jp": "かいがらぼうし",
+    "current": "Shell Hat",
+    "proposal": "bigornheaume",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 166,
+        "JA_text": "@1かいがら;ぼうし@",
+        "FR_text": "@0M@2le @3un @4bigornheaume@5les @6des @7bigornheaumes@8N@9N@",
+        "JA_sha256": "40f8223b9fbed01b24948ab8e4430814ac0f1ce8cbee0c377e2f07c9a0e62ffa",
+        "FR_sha256": "9908c72796f2a88acc084cf2dd3ed713eda94a5345b1b688fd9e58ebb3c49901"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "41b612e9250b48425d84158a55c1ca94fc1059e3dd7d8802c26c2c6976893965",
+    "IPS_sha256": "7f1222b11cf1d38f5f6070ad00bacd2c69bcb9f99bb15e3255c96c9e830b5b30"
+  },
+  {
+    "position": 1738,
+    "sids": [
+      2202
+    ],
+    "sfc_jp": "けがわのフード",
+    "current": "Fur Hood",
+    "proposal": "capuche de fourrure",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 167,
+        "JA_text": "@1けがわの;フード@",
+        "FR_text": "@0F@2la @3une @4capuche de ;fourrure@5les @6des @7capuches de fourrure@8N@9N@",
+        "JA_sha256": "ba832873e074249d58a13956adad8f941155010264273e97a1685f4e8b3aa0b1",
+        "FR_sha256": "217abf7ab3d4c0ed40f89f62946914367ac50af3c68cf0ad2b9d6460e8eb4884"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "771bcb08257c619152521ebeae312204deacaae80261840ce388c3c232ca6558",
+    "IPS_sha256": "f37982dba701e6f635f2d935b1dcbc8eaa01ea446e39f98db3bf38a24b955a01"
+  },
+  {
+    "position": 1739,
+    "sids": [
+      2203
+    ],
+    "sfc_jp": "てつかぶと",
+    "current": "Iron Helm",
+    "proposal": "heaume de fer",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 168,
+        "JA_text": "@1てつかぶと@",
+        "FR_text": "@0M@2le @3un @4heaume de fer@5les @6des @7heaumes de fer@8N@9N@",
+        "JA_sha256": "61267c24158b5a88f9643228ce4a6cc5cabfe2893ccdb4f9d5b84f92c35e479f",
+        "FR_sha256": "da8c2cba9fe298677d41c2ff916a5bcc370482181e9a903f46180a1fc3081f04"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "16e67c14533a3ae7d4478bd38c568364437566f1d385a1129429fe7d96953b2d",
+    "IPS_sha256": "1d5694580c0452e1ba52ed8cf4d033806c2faad4598f8d3eb41b149b8f437123"
+  },
+  {
+    "position": 1740,
+    "sids": [
+      2204
+    ],
+    "sfc_jp": "てっかめん",
+    "current": "Iron Mask",
+    "proposal": "masque de fer",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 169,
+        "JA_text": "@1てっかめん@",
+        "FR_text": "@0M@2le @3un @4masque de fer@5les @6des @7masques de fer@8N@9N@",
+        "JA_sha256": "020decedef6ed0948f2bb61c437dad272287be97df9fc1840bf20fde1e4b749e",
+        "FR_sha256": "ab3243a5cbbfb0995097ae10cd914d0661bb636063d0c46b097b24f182375f62"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "b7087d5a5cadb4dd270b5001a00c47f21093258f1e70efdb38c309c2fa38c716",
+    "IPS_sha256": "96d811f10bee45bfd556979fa846fb8613566a35a88190b1abb621a39f04dd99"
+  },
+  {
+    "position": 1742,
+    "sids": [
+      2206
+    ],
+    "sfc_jp": "ぎんのかみかざり",
+    "current": "Silver Tiara",
+    "proposal": "tiare d'argent",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 171,
+        "JA_text": "@1ぎんの;かみかざり@",
+        "FR_text": "@0F@2la @3une @4tiare d'argent@5les @6des @7tiares d'argent@8N@9N@",
+        "JA_sha256": "0a28454641e589d57c18aa28ceeaf8864bd2ea7b74140481e72c6fb25fb94d0d",
+        "FR_sha256": "08319cbfddc03c98b96dec77c58e899740646d36d377571b3a585ac62cfb6e41"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "d2bee38abbf34708fe49c5978205d76682a8cfe10040ad5b88ac7172b0ecaff5",
+    "IPS_sha256": "2ea4a5433136f1235402ab3cea51472c7034eac23e709a0431ba865a2c17d1c0"
+  },
+  {
+    "position": 1743,
+    "sids": [
+      2207
+    ],
+    "sfc_jp": "かぜのぼうし",
+    "current": "Hat of Wind",
+    "proposal": "chapeau d'Hermès",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 172,
+        "JA_text": "@1かぜのぼうし@",
+        "FR_text": "@0M@2le @3un @4chapeau ;d'Hermès@5les @6des @7chapeaux d'Hermès@8N@9N@",
+        "JA_sha256": "30b3c0b3b8bec2f96969afd1f95c7890a1a2a190e6625e281afffd6b39c1878c",
+        "FR_sha256": "e66946a84dbb76169d28c0925b4033983430d3305f04f894a12dfbff79ff6769"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "b1b5a8ffc174a85e8e32e4964e39ffec8a711c00d7cacd45ab8fe329acf781d5",
+    "IPS_sha256": "e6ec21b501b29fdd80ee13a389dbd256b55a4f1a759362e6d49234f549c421bf"
+  },
+  {
+    "position": 1744,
+    "sids": [
+      2208
+    ],
+    "sfc_jp": "セバスのかぶと",
+    "current": "Helm of|Cevas",
+    "proposal": "heaume de Sebath",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 173,
+        "JA_text": "@1セバスの;かぶと@",
+        "FR_text": "@0M@2le @3le @4heaume ;de Sebath@5les @6les @7heaumes de Sebath@8N@9N@",
+        "JA_sha256": "87a33287dbb003be567a46a8fcb888be3d6500c267b5b9b5eac18df1c9938c0c",
+        "FR_sha256": "1c1b67a89b7eb80e1d5cb81f8e269e510cd307aa608a76fcc62e1aa9b801c26f"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "8b0eaf03b194d86383b2006bbb87c4e4968ba6aa4d7cb96461db12e64a77c7b5",
+    "IPS_sha256": "2b7dea96470c133378b6b3b566ac8b862706e4d74e10545707bd2612c02d8bf5"
+  },
+  {
+    "position": 1745,
+    "sids": [
+      2209
+    ],
+    "sfc_jp": "エンデのかぶと",
+    "current": "Helmet of|Ende",
+    "proposal": "heaume de Tristan Clume",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 174,
+        "JA_text": "@1エンデの;かぶと@",
+        "FR_text": "@0M@2le @3un @4heaume de ;Tristan Clume@5les @6des @7heaumes de Tristan Clume@8N@9N@",
+        "JA_sha256": "dc6afc49537724e4512ec7a4179c831d8051442cea1b43ceb7ec5771b3173587",
+        "FR_sha256": "748380facad5b9a615bbea6042af4beb34f26ac8e150c3fc1619246a928f3b2c"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "21174c90df8d8928b31207fe62971dc4062fa296af1a663af5b88710a983e102",
+    "IPS_sha256": "7b1f0ab0fcdba1026c08ca5d8ae5533367b0518bcf032934c81a8f5741fc5fd6"
+  },
+  {
+    "position": 1746,
+    "sids": [
+      2210
+    ],
+    "sfc_jp": "しあわせのぼうし",
+    "current": "Hat of|Happiness",
+    "proposal": "chapeau de félicité",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 175,
+        "JA_text": "@1しあわせの;ぼうし@",
+        "FR_text": "@0M@2le @3un @4chapeau ;de félicité@5les @6des @7chapeaux de félicité@8N@9N@",
+        "JA_sha256": "eae6a05d1d2711a3681b08cca78babef6d4e1ac7e39146d2b42c1ae65c9ac4a1",
+        "FR_sha256": "90d597b8e82c559d928d49c7d379138463ea039d9b473c557060ad1e224cfbf2"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "2992552ec5c43480f95f8a75590609c668d30027a0e46389f6021a1e63fea2e6",
+    "IPS_sha256": "906b1d2b349c7bf02295803e19d1b8fec3aa80bacd005154b000dc2b6d18d30b"
+  },
+  {
+    "position": 1747,
+    "sids": [
+      2211
+    ],
+    "sfc_jp": "ちりょくのかぶと",
+    "current": "Helm of|Wisdom",
+    "proposal": "coiffe de réflexion",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 176,
+        "JA_text": "@1ちりょくの;かぶと@",
+        "FR_text": "@0F@2la @3une @4coiffe de ;réflexion@5les @6des @7coiffes de réflexion@8N@9N@",
+        "JA_sha256": "8c7fe3a620048f39863645e946062c5d76a7edfdbe434fdfaad202d7a541dca1",
+        "FR_sha256": "cab08e43beeb48ecef6c5c001d00deacd155cdb1be81b4d6beb4bd83f8ffae6a"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "4dfc13fd4406965026057e359a3a022d6403d99232037470c092e0c33a621ecd",
+    "IPS_sha256": "3522ef113f30a3d9b6d18b6e52089ba792f4d85153af58795aa39dd9b0addbb8"
+  },
+  {
+    "position": 1749,
+    "sids": [
+      2213
+    ],
+    "sfc_jp": "グレートヘルム",
+    "current": "Great Helm",
+    "proposal": "grand heaume",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 178,
+        "JA_text": "@1グレート;ヘルム@",
+        "FR_text": "@0M@2le @3un @4grand heaume@5les @6des @7grands heaumes@8N@9N@",
+        "JA_sha256": "beb54695808769b88eeaf18450cb8ff530c0da472e351641d782aff9354f1e87",
+        "FR_sha256": "70c20b816c8bbd743812ed31e02ab99c906f87af331d482f0753c44c8c492e52"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "81f42105722dd38dd05a192fb4da025ead5222d8aefc1f41f5d4154545e98a92",
+    "IPS_sha256": "80bc9aec71b014eddc9f0a263dd4867f031e5327d8e02c1c70193b4563270589"
+  },
+  {
+    "position": 1750,
+    "sids": [
+      2214
+    ],
+    "sfc_jp": "メタルキングヘルム",
+    "current": "Metal King|Helm",
+    "proposal": "heaume royal",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 179,
+        "JA_text": "@1メタルキング;ヘルム@",
+        "FR_text": "@0M@2le @3un @4heaume royal@5les @6des @7heaumes royaux@8N@9N@",
+        "JA_sha256": "526c9b8146d344d14201f96df6866dcf55c9812e09e6e584abf8b09e6bf9f069",
+        "FR_sha256": "75413758aed44064e88eecb744878298264f299f393f71cb203fa04e266af36c"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "683a3bf64a75cdf0637a8353e02b5e315594fc53bbad1f5cc52172bd4c788f22",
+    "IPS_sha256": "59e568e8c3cc4f162996635199c1ad3f6605472746351fece1a9c9c7f0764618"
+  },
+  {
+    "position": 1751,
+    "sids": [
+      2215
+    ],
+    "sfc_jp": "やまびこのぼうし",
+    "current": "Echoing Hat",
+    "proposal": "casque-similé",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 180,
+        "JA_text": "@1やまびこの;ぼうし@",
+        "FR_text": "@0M@2le @3un @4casque-similé@5les @6des @7casques-similés@8N@9N@",
+        "JA_sha256": "ac325197c8b06e95eb6e09a73a814c330e3e391e7b02b50a766ca7beeb09e139",
+        "FR_sha256": "665e1a0584a36682697c6afb7457eaf4fb80f37bc1d60eb8aa766d00538474ef"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "3d974938211fdb2ee2451721b33dfad67a5a8951c7fa18a0dd968a8aa2e66b15",
+    "IPS_sha256": "c2bce7a80b9a36f9b2f29ae46b7e25a7a5e62466d45937fce98d5af923900492"
+  },
+  {
+    "position": 1752,
+    "sids": [
+      2216
+    ],
+    "sfc_jp": "うさみみバンド",
+    "current": "Usamimi Band",
+    "proposal": "oreilles de lapin",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 181,
+        "JA_text": "@1うさみみ;バンド@",
+        "FR_text": "@0F@2la paire d'@3une paire d'@4oreilles ;de lapin@5les paires d'@6des paires d'@7oreilles de lapin@8Y@9Y@",
+        "JA_sha256": "533850fafd9a9ba67342a4fcf338a13754faf9aa66b04fbe50f366f7f4f5ec93",
+        "FR_sha256": "e9d38bf4a5efa53f56fa6162e1cabf3aca04dc8df7d2fa3454d8a171f3cead09"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "9f6ab82b6515cd94888f79c6232b67f7c773078f610c80be2288f8587f59c85f",
+    "IPS_sha256": "29ef5403701587e79b1de2713df654f1202a5e0ed634899fa65b1c811955fd05"
+  },
+  {
+    "position": 1753,
+    "sids": [
+      2217
+    ],
+    "sfc_jp": "スライムメット",
+    "current": "Slime Helm",
+    "proposal": "heaume de gluant",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 182,
+        "JA_text": "@1スライム;メット@",
+        "FR_text": "@0M@2le @3un @4heaume ;de gluant@5les @6des @7heaumes de gluant@8N@9N@",
+        "JA_sha256": "acc5045f5310b810f292be52183937260140601af416b26e0d92d6a47e10c0f5",
+        "FR_sha256": "faf98db4b3c9ccd5db2a8cb236905be58dcafc558b3c42f2047a486c7c2b4005"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "bac94f0caead60e906e572bf32cd38168e50ff54ef56894598759a96af803a36",
+    "IPS_sha256": "2878528bcdfbb26409a34bf8ecc96f7f449c11e65c6f9ca943e6a4d34ac76b46"
+  },
+  {
+    "position": 1754,
+    "sids": [
+      2218
+    ],
+    "sfc_jp": "プラチナヘッド",
+    "current": "Platinum|Mask",
+    "proposal": "heaume de platine",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 183,
+        "JA_text": "@1プラチナ;ヘッド@",
+        "FR_text": "@0M@2le @3un @4heaume ;de platine@5les @6des @7heaumes de platine@8N@9N@",
+        "JA_sha256": "e95e22f12efd7515b64bf5b2e0cb2bbf3b3db23993649f9d180a5580dc3287ee",
+        "FR_sha256": "f9eda2a176b57458b889e811bc40e8bc36e6916151aa19b7992612949d5c89c1"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "877fdcb5888f6aa932474942174feeab3363cb03a733a8e4cabff7f59cd9da8d",
+    "IPS_sha256": "c65d387602503b28d99713dea8908cf91c57464b9ed4293e9f488a105078c55e"
+  },
+  {
+    "position": 1755,
+    "sids": [
+      2219
+    ],
+    "sfc_jp": "ほしふるうでわ",
+    "current": "Meteorite|Armband*",
+    "proposal": "brassard de météore",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 189,
+        "JA_text": "@1ほしふる;うでわ@",
+        "FR_text": "@0M@2le @3un @4brassard de ;météore@5les @6des @7brassards de météore@8N@9N@",
+        "JA_sha256": "e3fe1b9dc17e8d52038d4bb21807ecd5d4563e9927cc11286adb0adb079d7b0e",
+        "FR_sha256": "4be884ae6a79ab807c2135e246be2a6a1271d58cc3d717ede3d18a3537efa99e"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "94eac017f36795d866065e1b2b14358b6e9c1b8659e0f51757ed31f52f8ef8de",
+    "IPS_sha256": "df575d894990a9c615656a154249b098e57cd75cdbb4279a093407a1d3b91a45"
+  },
+  {
+    "position": 1756,
+    "sids": [
+      2220
+    ],
+    "sfc_jp": "はやてのリング",
+    "current": "Speed Ring",
+    "proposal": "bague d'Agilité",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 190,
+        "JA_text": "@1はやての;リング@",
+        "FR_text": "@0F@2la @3une @4bague ;d'Agilité@5les @6des @7bagues d'Agilité@8N@9N@",
+        "JA_sha256": "241c9fc1400e6c82ccfd01e232e11a50de254db6a005f2be77fcb3cbc14a1bcd",
+        "FR_sha256": "c5643f947038826c4af676f1e69cfaaac6fcc5ff23515c2b7903be3938d65389"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "f66588ee63980dfde7066f6aa0afd7d0d8d51229231fceaf3cb66189a7a0e20f",
+    "IPS_sha256": "8d8ecba250c7ebe2f5fa33b7b91cd121cc20597c833c4e5bcd43221ca121b951"
+  },
+  {
+    "position": 1757,
+    "sids": [
+      2221
+    ],
+    "sfc_jp": "ほしのかけら",
+    "current": "Star|Fragment",
+    "proposal": "éclat d'étoile",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 191,
+        "JA_text": "@1ほしのかけら@",
+        "FR_text": "@0M@2l'@3un @4éclat d'étoile@5les @6des @7éclats d'étoile@8N@9Y@",
+        "JA_sha256": "715664beb44ba2934444d001a10f73e0e1d3c6d4ae92ab51fe9d3c6b94843ddc",
+        "FR_sha256": "1b0c9e1238d0d12bca12dad376d1063c433c9691d1816fd54a8de34185b2ec7a"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "16f6a451a9570ab7aa46739ea35aa19af3dbadbfcd3565e504a451341cdf9d55",
+    "IPS_sha256": "44dd6e66fdd5af03857bbca22d53b17b96253023346d675a64562a19bafa10da"
+  },
+  {
+    "position": 1758,
+    "sids": [
+      2222
+    ],
+    "sfc_jp": "メガンテのうでわ",
+    "current": "Armband of|Sacrifice",
+    "proposal": "brassard kamikaze",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 192,
+        "JA_text": "@1メガンテの;うでわ@",
+        "FR_text": "@0M@2le @3un @4brassard ;kamikaze@5les @6des @7brassards kamikaze@8N@9N@",
+        "JA_sha256": "b52f8b8841e3f0e031a1ac497031d43e9df2a0eaf7da67cee715336595f5fa4c",
+        "FR_sha256": "f30e471be15cac5f63fbba272bbb9921b5fce52a7650345a3cce8677a5e46116"
+      }
+    ],
+    "decision": "INTEGRE_v076",
+    "review_note": "Nom complet DS relu et sélectionné ; disposition en deux lignes dans les longueurs anciennes. Métadonnée de rupture recalculée, isolée et testée dans les rapports natifs.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "INTEGRE_v076",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "4f3180cee0deb93a8af85ecc8d7804711148918f2baf7c756b231d9950991bad",
+    "IPS_sha256": "5169f8b4efda3056dd4ee56fc2923691a5e2c194b8a219b5e4fffeb2cffab7af"
+  },
+  {
+    "position": 1759,
+    "sids": [
+      2223
+    ],
+    "sfc_jp": "メガザルのうでわ",
+    "current": "GiveLife|Armband",
+    "proposal": "brassard de conjuration",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 193,
+        "JA_text": "@1メガザルの;うでわ@",
+        "FR_text": "@0M@2le @3un @4brassard ;de conjuration@5les @6des @7brassards de conjuration@8N@9N@",
+        "JA_sha256": "300078ddd6c90c3c2a8b7d8877e0d17d04ef6cfa1e7673cf6776eddc089b58b6",
+        "FR_sha256": "8ecbc1cdc82c99059035c10a4c70698030599f6f03ba2c104b7dd66d944d8bd2"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "4a0c18d7e971979639f8209189f69c071cfe9905671ebd29a2806f59f1d64dc5",
+    "IPS_sha256": "c5ce4fd65dd54ed08487c5753add0def72dcbfafefe8d86eb1674d6d8f5b266b"
+  },
+  {
+    "position": 1760,
+    "sids": [
+      2224
+    ],
+    "sfc_jp": "スライムピアス",
+    "current": "Slime|Earrings",
+    "proposal": "boucles d'oreilles",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 194,
+        "JA_text": "@1スライム;ピアス@",
+        "FR_text": "@0F@2la paire de @3une paire de @4boucles ;d'oreilles@5les paires de @6des paires de @7boucles d'oreilles@8Y@9N@",
+        "JA_sha256": "1e79bc9459e9490f64350b6eb7ef764f5d59b9e6e08b9309e0822ee0d4fb4397",
+        "FR_sha256": "e4001dd1711ca85fa0155a5788f67985f4be75aef05506c8cdec002a2f2267d7"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "4c074dc2f5e8528228c4fcd41be27611fd40ca90fdd0e1cc6a45250877463de5",
+    "IPS_sha256": "250d65915fee285032bb9c5d9c09dbcbc88dc96eea596265263d10b1701871d9"
+  },
+  {
+    "position": 1761,
+    "sids": [
+      2225
+    ],
+    "sfc_jp": "ガラスのくつ",
+    "current": "Glass Shoes",
+    "proposal": "pantoufles de verre",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 195,
+        "JA_text": "@1ガラスのくつ@",
+        "FR_text": "@0F@2la paire de @3une paire de @4pantoufles ;de verre@5les paires de @6des paires de @7pantoufles de verre@8Y@9N@",
+        "JA_sha256": "451bbce151ffb5f4df5a932479a901544649bd4244b96a4c5da42d74a0305137",
+        "FR_sha256": "a638cb0140eb36e2a8235ff299e695aa660db0e09dae97e5c819a8f05afaab32"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "3a8e17ea9167081483c5072c22289f071748ccd7dca612749c021884bb60b947",
+    "IPS_sha256": "c982116b5d93f361b1f8098a3d8f6058fc933f907e1f2b93c9c1aa8a66a957a3"
+  },
+  {
+    "position": 1762,
+    "sids": [
+      2226
+    ],
+    "sfc_jp": "きんのブレスレット",
+    "current": "Silver|Bracelet",
+    "proposal": "brassard d'or",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 196,
+        "JA_text": "@1きんの;ブレスレット@",
+        "FR_text": "@0M@2le @3un @4brassard ;d'or@5les @6des @7brassards d'or@8N@9N@",
+        "JA_sha256": "ff0d57a8df3762a26e74fd9ab21bb87a3255a41fa312e10444bed495f2a3e994",
+        "FR_sha256": "aec6eaf42eec10c22d1b2650006e31f35deb18e6ff6ac1ffad9bc1680e730886"
+      }
+    ],
+    "decision": "DIFFERE_SENS_COMPOSITION_OU_SOURCE",
+    "review_note": "きん est or : le français DS brassard d’or corrige le Silver hérité. Ne pas confondre cet accessoire avec les autres bracelets ; disposition native à résoudre.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "bb85326e22d6abea83046b541f47ad71b5ebf8ba58d3f87dc8d4c09aca09a236",
+    "IPS_sha256": "d7afae65b8f213f2871dcb173b0415effadf912a33e30ad9aa6faae41a5ee614"
+  },
+  {
+    "position": 1764,
+    "sids": [
+      2228
+    ],
+    "sfc_jp": "あみタイツ",
+    "current": "Fishnet|Stockings",
+    "proposal": "bas résille",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 198,
+        "JA_text": "@1あみタイツ@",
+        "FR_text": "@0N@2la paire de @3une paire de @4bas résille@5les paires de @6des paires de @7bas résille@8Y@9N@",
+        "JA_sha256": "7076b68b7899f91d6b0cc758ba6973c50e075e1f5d2cb394ac8a3c7eaf9c78bf",
+        "FR_sha256": "83c0c340c96c605829a42100f1540cb0a0414b9e664ecc9620ea1ad948e2c0e9"
+      }
+    ],
+    "decision": "INTEGRE_v076",
+    "review_note": "Nom complet DS relu et sélectionné ; disposition en deux lignes dans les longueurs anciennes. Métadonnée de rupture recalculée, isolée et testée dans les rapports natifs.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "INTEGRE_v076",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "f54dd3f4076c5fbf0c7ddfeef3bacabdf22be42c3dc09b5eb764570231ae14c8",
+    "IPS_sha256": "41542cb4034e8fcc3cd310d35ab3b45a297ff18db4de7e5f63a3907084afdf2d"
+  },
+  {
+    "position": 1765,
+    "sids": [
+      2229
+    ],
+    "sfc_jp": "ちょうネクタイ",
+    "current": "Super|Necktie",
+    "proposal": "nœud papillon",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 199,
+        "JA_text": "@1ちょう;ネクタイ@",
+        "FR_text": "@0M@2le @3un @4nœud papillon@5les @6des @7nœuds papillon@8N@9N@",
+        "JA_sha256": "e148ccf38a9692750663178cde2533755b06c08a7e593b942f99e1c4349873a4",
+        "FR_sha256": "19149599d09ba41fd6b971bfda7ca10381ec16613fb1ff5d0524215ec7b39c8a"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "GLYPH_OR_DS_FORMATTING_NOT_APPROVED",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "730a04e59fb036fc910e7d43b490aad343e3f3befe963cd0792b1ad6924735a3",
+    "IPS_sha256": "d9e1f57cd2b69e16fc1afd88774b38af817f3deeb09f5b376fc0a333545b4f7d"
+  },
+  {
+    "position": 1766,
+    "sids": [
+      2230
+    ],
+    "sfc_jp": "ちからのルビー",
+    "current": "Ruby of|Power",
+    "proposal": "pierre brute",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 200,
+        "JA_text": "@1ちからの;ルビー@",
+        "FR_text": "@0F@2la @3une @4pierre brute@5les @6des @7pierres brutes@8N@9N@",
+        "JA_sha256": "d2f4cfe4672361179dafb01c03003a19b361aab5e9734e6dff28a132f3d164e5",
+        "FR_sha256": "1716fc8e0906f70ca9116b42c2ad0daa377b9c7b4171a3e528b39e043a973f33"
+      }
+    ],
+    "decision": "INTEGRE_v076",
+    "review_note": "Nom complet DS relu et sélectionné ; disposition en deux lignes dans les longueurs anciennes. Métadonnée de rupture recalculée, isolée et testée dans les rapports natifs.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "INTEGRE_v076",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "e57ae62156adfc02d62f2c8eb862ca7982ddc550a3103aa78f1f64f3a31982e8",
+    "IPS_sha256": "d238ca97bcbebadc519c7f53fabbd846d1953162bae33d543aa410ba64af397f"
+  },
+  {
+    "position": 1767,
+    "sids": [
+      2231
+    ],
+    "sfc_jp": "おしゃれなバンダナ",
+    "current": "Stylish|Bandana",
+    "proposal": "foulard de pionnier",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 201,
+        "JA_text": "@1おしゃれな;バンダナ@",
+        "FR_text": "@0M@2le @3un @4foulard ;de pionnier@5les @6des @7foulards de pionnier@8N@9N@",
+        "JA_sha256": "1843a0e70b5ddb0838ee231a31e6c01c620610ca6120406ec9052a199a6d06cc",
+        "FR_sha256": "4de880c9eb4a89b924188851506a44fffd1c73413ab585c870f67df93f67f831"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "f28301781b2519b493186c03a74cdae555bddabdfc614d8ad2934e017597ab6b",
+    "IPS_sha256": "2f6ee64ccdb9b38d8f347e770bf6e80154b7a0237d1f5ca6ddce0c3edd29c311"
+  },
+  {
+    "position": 1768,
+    "sids": [
+      2232
+    ],
+    "sfc_jp": "いのりのゆびわ",
+    "current": "Wizard's|Ring",
+    "proposal": "bague de prière",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 202,
+        "JA_text": "@1いのりの;ゆびわ@",
+        "FR_text": "@0F@2la @3une @4bague de prière@5les @6des @7bagues de prière@8N@9N@",
+        "JA_sha256": "488f2a1a30da12e51a61635e2f9dee3e296e42c63dda36b72e8faa10e0260d2a",
+        "FR_sha256": "4b3723f2c866ff0bcb3aed038e82721cc11ef3b53907cdb10d0d9742305a7cb9"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "905e4dde3bb823068c9d78fbae14eebedc3b7f2c5714d1afdb59ad2ec694733d",
+    "IPS_sha256": "c4807d2380d33283ed27fe3d5a3fc2e313193760f5771580bb7cf8bc8b2c9f4b"
+  },
+  {
+    "position": 1769,
+    "sids": [
+      2233
+    ],
+    "sfc_jp": "きんのゆびわ",
+    "current": "Gold Ring",
+    "proposal": "anneau d'or",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 203,
+        "JA_text": "@1きんのゆびわ@",
+        "FR_text": "@0M@2l'@3un @4anneau d'or@5les @6des @7anneaux d'or@8N@9Y@",
+        "JA_sha256": "232642be857717c9c0e8ed405953355a4bca24d7c1a8fb62b757d79f1212f845",
+        "FR_sha256": "5e2b624d538bacc7974b3ae44de666386b50243a9d9a13bf7c8c8c9f6534f686"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "6096311b6e52b90bccb47506dd324b962d2be78ac3049fd22a6e9edcd6fce96a",
+    "IPS_sha256": "03795f23dd57f6500da8e94f34eb745bf2f0526bdb9e7d271ea4534e1b06991f"
+  },
+  {
+    "position": 1770,
+    "sids": [
+      2234
+    ],
+    "sfc_jp": "くじけぬこころ",
+    "current": "Broken|Heart",
+    "proposal": "cœur impétueux",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 204,
+        "JA_text": "@1くじけぬ;こころ@",
+        "FR_text": "@0M@2le @3le @4cœur ;impétueux@5les @6les @7cœurs impétueux@8N@9N@",
+        "JA_sha256": "88a83219c0d7bab0b6b043f46af214f54e2d24cbf9b0aaa182839e2462a2bb6a",
+        "FR_sha256": "82928f068b21b19e899ff757d24c70f99cf62fd18e19fcc553a3e9ba2d141b84"
+      }
+    ],
+    "decision": "DIFFERE_SENS_COMPOSITION_OU_SOURCE",
+    "review_note": "くじけぬこころ désigne un cœur qui ne fléchit pas ; Broken Heart inverse le sens. La localisation DS cœur impétueux est retenue comme proposition, avec œ non approuvé et composition à vérifier.",
+    "technical_flags": [
+      "GLYPH_OR_DS_FORMATTING_NOT_APPROVED",
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "7ed384bad0fe0a505424e366846274569b27d55f1121e0aa864bb18ad19b9418",
+    "IPS_sha256": "c848ff8e7d70c8622cc6574a90c77ec97e6d770b6b2f2ef75e8eaeb3de5514a8"
+  },
+  {
+    "position": 1771,
+    "sids": [
+      2235
+    ],
+    "sfc_jp": "ふるびたパイプ",
+    "current": "Rusted Pipe",
+    "proposal": "vieille pipe",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 205,
+        "JA_text": "@1ふるびた;パイプ@",
+        "FR_text": "@0F@2la @3une @4vieille pipe@5les @6des @7vieilles pipes@8N@9N@",
+        "JA_sha256": "4ed559c082ea3cc14c1f508eb64c7cd81ed6179b960fb1dcf0ac83decd1b3c28",
+        "FR_sha256": "7eaac4c7c415d0ca94cd88d7f0b5495d7598522b46326f3f33d2081f2a01b5a3"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "712221f3320e819602103b2104e916c1f21d11727c2c24b1fb85958613c9b8d1",
+    "IPS_sha256": "f78938750a549cdbaef60d070e34f836aea62a75470bf9daa5e818497f362fa0"
+  },
+  {
+    "position": 1772,
+    "sids": [
+      2236
+    ],
+    "sfc_jp": "デセオのパス",
+    "current": "Longadeseo|Pass",
+    "proposal": "pendentif de Colombourg",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 206,
+        "JA_text": "@1デセオの;パス@",
+        "FR_text": "@0M@2le @3un @4pendentif ;de Colombourg@5les @6des @7pendentifs de Colombourg@8N@9N@",
+        "JA_sha256": "faf54eafae57e3e5c59c8f43922b5c621ab651990131f74b79c24f82e7b39231",
+        "FR_sha256": "be1f233b9ebf5522d9791efbd5438ff1f0aba25bfc1c459f2d748bd6b253872a"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "017d37d217ff0bf788ffc9e9b902337e06e71102f57635eacadfb24262ed6eac",
+    "IPS_sha256": "2441a264a3ebc91da522359ad06bcf8a4900621e59761042842b4861885bbda9"
+  },
+  {
+    "position": 1773,
+    "sids": [
+      2237
+    ],
+    "sfc_jp": "しんじつのオーブ",
+    "current": "Orb of Truth",
+    "proposal": "orbe de vérité",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 207,
+        "JA_text": "@1しんじつの;オーブ@",
+        "FR_text": "@0M@2l'@3un @4orbe ;de vérité@5les @6des @7orbes de vérité@8N@9Y@",
+        "JA_sha256": "21031bbc497893a48cbbb0c2960757041a27396a527d8b3d5c13a6aca23886de",
+        "FR_sha256": "854319fb5e97a1ea717aab7a56549c301ccd357b08c55537a1e2bc18fde1b5f6"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "2512c6202211bf1627de4c2419a9f92ff899b466480e655babd2d9f878cfbe81",
+    "IPS_sha256": "fe0951ab370c329b4c351ddca3a94819cf258e978abe580238a684257c366b1f"
+  },
+  {
+    "position": 1774,
+    "sids": [
+      2238
+    ],
+    "sfc_jp": "おばさんのゆびわ",
+    "current": "Antique|Ring",
+    "proposal": "anneau ancien",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 208,
+        "JA_text": "@1おばさんの;ゆびわ@",
+        "FR_text": "@0M@2l'@3un @4anneau ;ancien@5les @6des @7anneaux anciens@8N@9Y@",
+        "JA_sha256": "adf0a43baa62347731774e84480a5d2787ad5c529a55c1202df0fd3fb678f9a8",
+        "FR_sha256": "36933f411659266006cac3116f3f414202774dd1852eb57651c0ca688cfed637"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "b02adc1457fdd2bb651bde46a3cd4b65daabae34426e1c8f436bd01cb71f627d",
+    "IPS_sha256": "516178b10140cbfd647f3fb7e2b9456a88e06179e78e964b2b1fcaa8b08b61b3"
+  },
+  {
+    "position": 1775,
+    "sids": [
+      2239
+    ],
+    "sfc_jp": "やくそう",
+    "current": "Medical Herb",
+    "proposal": "herbe médicinale",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 209,
+        "JA_text": "@1やくそう@",
+        "FR_text": "@0F@2l'@3une @4herbe ;médicinale@5les @6des @7herbes médicinales@8N@9Y@",
+        "JA_sha256": "d7bed8a8b3affcd6a837f5373396d30201fb3bc5c547d2f2241d38f7218c5f7d",
+        "FR_sha256": "e0f9fba51980b7972b0661d1fc0fc769abb6dda89ef36fa1c8ec2d80a31edb5f"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "b71b84fd966e9370d0c7f17b020d9a069fe2d4fabf533fce672b9ae990ffb935",
+    "IPS_sha256": "698f7cb820f07338b0d7c1f8e56b6c052c3822ef64587f59a446ea2c10c4b10a"
+  },
+  {
+    "position": 1776,
+    "sids": [
+      2240
+    ],
+    "sfc_jp": "どくけしそう",
+    "current": "Antidote|Herb",
+    "proposal": "herbe curative",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 210,
+        "JA_text": "@1どくけしそう@",
+        "FR_text": "@0F@2l'@3une @4herbe curative@5les @6des @7herbes curatives@8N@9Y@",
+        "JA_sha256": "8cfbb442eeee22c7b87507255faeaa5a0393373a01b397ea6c29f70292de33e3",
+        "FR_sha256": "873bec4d94c8392336afc11d229e906920817b34365201f3480155fe527924f3"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "5dc2e885f4af3ccc2d824a1d47fac5a71f6bd13094f17203da8f09c9d7611d4d",
+    "IPS_sha256": "f507ca425655a2af78c71d6ab1e428656aa9caf39447b9473f1a87eee0f4bd2a"
+  },
+  {
+    "position": 1777,
+    "sids": [
+      2241
+    ],
+    "sfc_jp": "せいすい",
+    "current": "Fairy Water",
+    "proposal": "fiole d'eau sacrée",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 211,
+        "JA_text": "@1せいすい@",
+        "FR_text": "@0F@2la @3une @4fiole d'eau ;sacrée@5les @6des @7fioles d'eau sacrée@8N@9N@",
+        "JA_sha256": "a7639ce9bb999a1df3d527fa3012c471ae72d3d5cbe3227f32da1bb5d102b0e8",
+        "FR_sha256": "802e16aea2fbec3b2cddf5d159c38806bc28cfaddea64a6675a0af52a2d0541f"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "c0b465088f51351785d58f4beb8c9ec3a347d0080be82e088b07d5ba470979e3",
+    "IPS_sha256": "dcca563d9bc998fbd2b0a2dec03f86174ccef49acb31c1efb394d6b284faa938"
+  },
+  {
+    "position": 1778,
+    "sids": [
+      2242
+    ],
+    "sfc_jp": "キメラのつばさ",
+    "current": "Wing of the|Wyvern",
+    "proposal": "aile de chimère",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 212,
+        "JA_text": "@1キメラの;つばさ@",
+        "FR_text": "@0F@2l'@3une @4aile de chimère@5les @6des @7ailes de chimère@8N@9Y@",
+        "JA_sha256": "04cc0b2e263781b5e8446fff9c5cd8f42a741f805000dd57dc6aafa5542dac30",
+        "FR_sha256": "726f78990cbba7aaee53a3cdb9816770a96cdb4974d11bb4e56a6c7d31b78a4a"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "811e381915ae5f3c7b38206bd19f98389fbde10c284a3339913a316260d31536",
+    "IPS_sha256": "f2cb4406b746bacb1896b221b37b1b804de09caaf0e4209153856506f47d4fc7"
+  },
+  {
+    "position": 1779,
+    "sids": [
+      2243
+    ],
+    "sfc_jp": "せかいじゅのは",
+    "current": "Leaf of the|World Tree",
+    "proposal": "feuille d'Yggdrasil",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 213,
+        "JA_text": "@1せかいじゅ;のは@",
+        "FR_text": "@0F@2la @3une @4feuille ;d'Yggdrasil@5les @6des @7feuilles d'Yggdrasil@8N@9N@",
+        "JA_sha256": "1af8792f2ff6103c2470632e9413ce82c03656a345b028660f278f6dd610202a",
+        "FR_sha256": "9b61c5b8e97fb968395eb717d2325b019414552caf769917928d55c99573660e"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "355a9ce25b06fc9c5e87221f3157d43b95eec1050814cf632b1783aa1e0265ba",
+    "IPS_sha256": "483b5f59bf111550d9c2cb0eab1490910f8588dcb38f72366595129764a13fd9"
+  },
+  {
+    "position": 1780,
+    "sids": [
+      2244
+    ],
+    "sfc_jp": "せかいじゅのしずく",
+    "current": "Sap of the|World Tree",
+    "proposal": "rosée d'Yggdrasil",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 214,
+        "JA_text": "@1せかいじゅ;のしずく@",
+        "FR_text": "@0F@2la fiole de @3une fiole de @4rosée ;d'Yggdrasil@5les fioles de @6des fioles de @7rosée ;d'Yggdrasil@8N@9N@",
+        "JA_sha256": "06670273b48eaa914b7b41ceb62181543995cc7abcd1463ba22a1545e91464a9",
+        "FR_sha256": "e34fc77d6e3ed0b9895b9752bf37fadd3cbfad9085de00d5495c8eea398109b8"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "203acb23167b3860be4ab2ca7e2d14636f942edb0b005ea13bbab26467f33ef6",
+    "IPS_sha256": "16e01f3f1588700acceaea0aa158a44f5527c67e14a38045b060ab6365f81905"
+  },
+  {
+    "position": 1781,
+    "sids": [
+      2245
+    ],
+    "sfc_jp": "まんげつそう",
+    "current": "Full Moon|Herb",
+    "proposal": "botryche lunaire",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 215,
+        "JA_text": "@1まんげつそう@",
+        "FR_text": "@0F@2la @3une @4botryche ;lunaire@5les @6des @7botryches lunaires@8N@9N@",
+        "JA_sha256": "945f8c7999e74c16095c41d46a3b61383716e03b292ed7b9ac1ff64fc8abe6de",
+        "FR_sha256": "1878b3f78854eb2ff44afad4ce50d3553a64e6b484970c6034b8907507279dd3"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "b04000b977be8336c06a25bdcf36b01de9c790e926fe270c2a78c58ab2f38365",
+    "IPS_sha256": "70ab7a22595114467ca0a3053177d339558a6cdc96bcdd025c9f7bd95b27b40b"
+  },
+  {
+    "position": 1782,
+    "sids": [
+      2246
+    ],
+    "sfc_jp": "まほうのせいすい",
+    "current": "Sage's Stone",
+    "proposal": "fiole d'eau magique",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 216,
+        "JA_text": "@1まほうの;せいすい@",
+        "FR_text": "@0F@2la @3une @4fiole d'eau ;magique@5les @6des @7fioles d'eau magique@8N@9N@",
+        "JA_sha256": "2fba18a702963db5eb2bbae80128c0acccc8b2b21049cdaa7c85b7be5a7cb1e6",
+        "FR_sha256": "b0f9c9263b6883345347ebba444e6006f554cde027f6c132da71afdf77ae6dc6"
+      }
+    ],
+    "decision": "DIFFERE_SENS_COMPOSITION_OU_SOURCE",
+    "review_note": "まほうのせいすい est l’eau magique ; Sage’s Stone hérité est faux. La proposition DS fiole d’eau magique est distincte de la pierre philosophale1784 ; largeur à traiter.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "5ab6ec8bd4d1dc2ffb715fddf180a5cf34e173bf8943a1582f3205e4701acb76",
+    "IPS_sha256": "ce2e7a27f7b3bb046e581c7dce8a72720790204e93bae41065dfef5e6d184ce4"
+  },
+  {
+    "position": 1783,
+    "sids": [
+      2247
+    ],
+    "sfc_jp": "ときのすな",
+    "current": "Sands of|Time",
+    "proposal": "sables du temps",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 217,
+        "JA_text": "@1ときのすな@",
+        "FR_text": "@0M@2le flacon de @3le flacon de @4sables du ;temps@5les @6les @7flacons de sables du temps@8N@9N@",
+        "JA_sha256": "da324348fea625f35e5fe7c69c50828b6539e7ffe23b59b30f80933ee6a2e646",
+        "FR_sha256": "980b0398ddf506162332fa0688c40c4ab798b9babb744a772272580cd3231215"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "66c0206862d2bf3a62abe69060744185fe4159b66dfbac99f7b29187c657c816",
+    "IPS_sha256": "35054a1b1b70d28c50a949b14fecdaa7e1d104494643d23dd8219a4be0eddca1"
+  },
+  {
+    "position": 1784,
+    "sids": [
+      2248
+    ],
+    "sfc_jp": "けんじゃのいし",
+    "current": "Recovery|Stone",
+    "proposal": "pierre philosophale",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 218,
+        "JA_text": "@1けんじゃの;いし@",
+        "FR_text": "@0F@2la @3une @4pierre ;philosophale@5les @6des @7pierres philosophales@8N@9N@",
+        "JA_sha256": "57dcccbcbad1031dd61f2f9ca3593eeede6af30f53915bbf6b808206e38a1599",
+        "FR_sha256": "e246eb5aa44686890f32b15e5751fe93db8eb70b177baa53a87fbaf8eaeda303"
+      }
+    ],
+    "decision": "DIFFERE_SENS_COMPOSITION_OU_SOURCE",
+    "review_note": "けんじゃのいし est la pierre philosophale DS, distincte de l’eau magique1782. Recovery Stone hérité ne doit pas servir de référence principale.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "35b31804d911971135e3c62f991370dccaaac58766241735df4b2124f1b46161",
+    "IPS_sha256": "7b90f94050a9af647e63044da4e3e7459cec79a3435aa3b44114f14074db195b"
+  },
+  {
+    "position": 1785,
+    "sids": [
+      2249
+    ],
+    "sfc_jp": "ちからのたね",
+    "current": "Strength|Seed",
+    "proposal": "graine de Force",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 219,
+        "JA_text": "@1ちからのたね@",
+        "FR_text": "@0F@2la @3une @4graine ;de Force@5les @6des @7graines de Force@8N@9N@",
+        "JA_sha256": "2395b5cd4b905ded7c891960dd1c9ca9c561485db21d72fe9ead44253b238560",
+        "FR_sha256": "d574d31bd5bc09cee8e7a240c5d90b8fe5b9bccff92f4690281e6c5008524c22"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "7f61257d0bb676f3c78a2a2204c6c269c22baea6e816308c56297a5b8d180c9b",
+    "IPS_sha256": "a33b30cd4cb293c14b02ab77368918c122a6e2568b3d98a1751c16ecb7e6aeb3"
+  },
+  {
+    "position": 1786,
+    "sids": [
+      2250
+    ],
+    "sfc_jp": "すばやさのたね",
+    "current": "Agility Seed",
+    "proposal": "graine d'Agilité",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 220,
+        "JA_text": "@1すばやさの;たね@",
+        "FR_text": "@0F@2la @3une @4graine d'Agilité@5les @6des @7graines d'Agilité@8N@9N@",
+        "JA_sha256": "bcecd3ac53b0d96ac2835011d0d98e30dae8d977921601b450f9c344471b09cc",
+        "FR_sha256": "3131fab1e3a7b17d5ab9811fd383f9d3ca44d01b4ee0f5d6ca90771cd83003ef"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "2dad10b8428aeb92eedcba85a3882ac6cdc58af0ed61b17445ce9245c4b918ec",
+    "IPS_sha256": "248f42c13f4a65b2e301f558574762c5e219e5f5829b793a83830ea48764d928"
+  },
+  {
+    "position": 1787,
+    "sids": [
+      2251
+    ],
+    "sfc_jp": "かしこさのたね",
+    "current": "Wisdom Seed",
+    "proposal": "graine de Sagesse",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 221,
+        "JA_text": "@1かしこさの;たね@",
+        "FR_text": "@0F@2la @3une @4graine ;de Sagesse@5les @6des @7graines de Sagesse@8N@9N@",
+        "JA_sha256": "e1780f0eefff6e6e769fdf191f4527747701637f3a67bd7faa1bd93715ba6973",
+        "FR_sha256": "ad7b7e0b5b4088d2aa40d5ce61e29d0bc0423bde221664d80521fd09a2554b0b"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "5ebdfe17e83121fa0225cae92e3de9ce9b0f740f2a81cf72a7083173ad75bc69",
+    "IPS_sha256": "a470b11e8f2dc25a4f0e31d86490a4770d75bb3f856f7a539f3ae7391ba2b15d"
+  },
+  {
+    "position": 1788,
+    "sids": [
+      2252
+    ],
+    "sfc_jp": "まもりのたね",
+    "current": "Defense Seed",
+    "proposal": "graine de Vitalité",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 222,
+        "JA_text": "@1まもりのたね@",
+        "FR_text": "@0F@2la @3une @4graine de ;Vitalité@5les @6des @7graines de Vitalité@",
+        "JA_sha256": "23644a4e851d649d616d3fc3e8185c6be4e69f66f0b7d9ce41f1224c676de5ad",
+        "FR_sha256": "58341cb3d08275da153db80e04363a62fa1554a1dbc3e2c38998de377d6758f5"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "d7eb54dd7518abbbe6fbefc5a13c99213e3b0ad64c39a94920847f25a35b7b5f",
+    "IPS_sha256": "b74bbe5062a7e78b1bdec16549fbd9c1e017ce3f7d1f074b1a0c55befc2fad86"
+  },
+  {
+    "position": 1789,
+    "sids": [
+      2253
+    ],
+    "sfc_jp": "いのちのきのみ",
+    "current": "Nut of Life",
+    "proposal": "graine de Vie",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 223,
+        "JA_text": "@1いのちの;きのみ@",
+        "FR_text": "@0F@2la @3une @4graine de Vie@5les @6des @7graines de Vie@8N@9N@",
+        "JA_sha256": "03e6dd55ea58994a7fa07f34010ff894d98e3d37a3178e4d7f71eda0af7120e1",
+        "FR_sha256": "b10cdec24341f030b65df4c4d44062b99d4c5d33f3612b2ecd5e2248378e2940"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "744aab636977160490087cff9d962f2701755d0523efd6037d9c429ad89e57c5",
+    "IPS_sha256": "2e54b880662ad359580df7691b3e6c53776a1cd13c8c490a8e0cb43ffd524abd"
+  },
+  {
+    "position": 1790,
+    "sids": [
+      2254
+    ],
+    "sfc_jp": "ふしぎなきのみ",
+    "current": "Nut of Magic",
+    "proposal": "graine de Magie",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 224,
+        "JA_text": "@1ふしぎな;きのみ@",
+        "FR_text": "@0F@2la @3une @4graine de Magie@5les @6des @7graines de Magie@8N@9N@",
+        "JA_sha256": "fb178358113f246b42c11ffa294080ec186e11dbb30a00c6a17cbd46c250fd1f",
+        "FR_sha256": "687cb93468a333116fcfcd2d46aeb4c2c46de8bc6cece34c90910f5faf16884e"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "29c0302a520e9b66564ee0f849dc6762052ffe5c971946591fe6a22d319cb751",
+    "IPS_sha256": "93a05ef0a19801cff6eeb9963748cd7455cd630837bc34c37abcdb1d268bab10"
+  },
+  {
+    "position": 1792,
+    "sids": [
+      2256
+    ],
+    "sfc_jp": "アモールのみず",
+    "current": "Water of|Amoru",
+    "proposal": "sève de desmodium",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 226,
+        "JA_text": "@1アモールの;みず@",
+        "FR_text": "@0F@2la fiole de @3une fiole de @4sève de ;desmodium@5les fioles de @6des fioles de @7sève de desmodium@8N@9N@",
+        "JA_sha256": "1cb22a552ac4cf47ad618f8f39007595c052ee204b0194ebbde8a4b4c2015062",
+        "FR_sha256": "a291e967873cbb3c3bed0a828cac93a77a998bcf13fed56ec7607bb9714630e9"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "77e3f050710c9426afe5cd3d1865c972bcbeac8f22fa458d98cebb89c41662b5",
+    "IPS_sha256": "bf119b2ac67c0ee7ef8c63ae95ffbf8ebbe143ff80dfde336097f862246de62d"
+  },
+  {
+    "position": 1793,
+    "sids": [
+      2257
+    ],
+    "sfc_jp": "むらのみんげいひん",
+    "current": "Village|Goods",
+    "proposal": "produits du village",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 227,
+        "JA_text": "@1むらの;みんげいひん@",
+        "FR_text": "@0M@2l'ensemble de @3un ensemble de @4produits ;du village@5les ensembles de @6des ensembles de @7produits du village@8Y@9N@",
+        "JA_sha256": "7869a2d078e552026402d5cb39263c4bc591309d884d8486cba3e295b38a67c8",
+        "FR_sha256": "0bd2d9941c43e5ea4f2a62f3f8e65eb0dfcc22b3a68e227c3ebf8b96874c6b4c"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "e08ffb691b7e9d8220f4573dfe126042e6536565f325b29fd3f3f01d9ee1b3c0",
+    "IPS_sha256": "9f3e7bec73ff838dca87c8f13797bd6c002c538a47f7760b9c23b037cdcd1427"
+  },
+  {
+    "position": 1794,
+    "sids": [
+      2258
+    ],
+    "sfc_jp": "せいれいのかんむり",
+    "current": "Spirit Crown",
+    "proposal": "couronne sacrée",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 228,
+        "JA_text": "@1せいれいの;かんむり@",
+        "FR_text": "@0F@2la @3une @4couronne ;sacrée@5les @6des @7couronnes sacrées@8N@9N@",
+        "JA_sha256": "5cbfdc32eedcb6e311a6fdc9b181f8d8f399ac8a1807d1804f696011663038e9",
+        "FR_sha256": "54aafed2076e0514fc4e4c5e3d7e1b86b897cefb03f7b77603f747bf204be42c"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "1b709240602f2a72575eff02270e545b1ce31a350f1afc73345db22e648bd82d",
+    "IPS_sha256": "b70fe8582813c40f3d4f5d66e8d80cff9b538120bd991744a636db3b8b4a92c5"
+  },
+  {
+    "position": 1796,
+    "sids": [
+      2260
+    ],
+    "sfc_jp": "つうこうしょう",
+    "current": "Pass",
+    "proposal": "laissez-passer",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 230,
+        "JA_text": "@1つうこう;しょう@",
+        "FR_text": "@0M@2le @3un @4laissez-;passer@5les @6des @7laissez-passer@8N@9N@",
+        "JA_sha256": "605dd0443443b8dc183ab00d8b2f92a625891a02aff1d60a9844d587ca0c2da8",
+        "FR_sha256": "f59f832a41dcc0f7772e92ade381147a6dc117a2a26fe6b13164632de46d1b10"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "a67e296dd8fca7e1763d815d771d47d8f26be79ec08390d804dedf587b819e89",
+    "IPS_sha256": "2e54f380f3092892bad801e90c493b52d8359fec89750aa22a240f3fef06f6fd"
+  },
+  {
+    "position": 1797,
+    "sids": [
+      2261
+    ],
+    "sfc_jp": "ゆめみのしずく",
+    "current": "Dream-Seeing|Drops",
+    "proposal": "rosée onirique",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 231,
+        "JA_text": "@1ゆめみの;しずく@",
+        "FR_text": "@0F@2la fiole de @3une fiole de @4rosée ;onirique@5les fioles de @6des fioles de @7rosée onirique@8N@9N@",
+        "JA_sha256": "0a4c1b93499c86cae72b1916c0ed7c5de8a844b073ccbb9fdf1efa72b826af44",
+        "FR_sha256": "c02b0de9ecb9d0e4d546a389c81abf132ec4b5db3ebebb509930b6bf0e98ccbf"
+      }
+    ],
+    "decision": "DIFFERE_SENS_COMPOSITION_OU_SOURCE",
+    "review_note": "Le décodage ancien contient un glyphe non approuvé88. Le nom DS rosée onirique est relu mais l’encodage source et sa rupture doivent être audités avant remplacement.",
+    "technical_flags": [
+      "LEGACY_GLYPH_DECODE_NOT_APPROVED",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "5d4da8bdafa9d894c5b4a9ee00a316e6205dde1790d42806d02c91825dd6c911",
+    "IPS_sha256": "e710a6f2cab2ecf8ffc28ff04edc329c958945f402d26f04ad386849c3b5e414"
+  },
+  {
+    "position": 1798,
+    "sids": [
+      2262
+    ],
+    "sfc_jp": "じょうせんけん",
+    "current": "Ticket",
+    "proposal": "carte d'embarquement",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 232,
+        "JA_text": "@1じょうせん;けん@",
+        "FR_text": "@0F@2la @3une @4carte ;d'embarquement@5les @6des @7cartes d'embarquement@8N@9N@",
+        "JA_sha256": "d48fe748129f38f3accfdec05917695c84003ef987c19ebbf4c953fea4e1a4bf",
+        "FR_sha256": "51cf2d5b72117029ffe872b88c56c58549a054a83766607e2c5d99116d718df9"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "d62ad93b1dc241686f4dffc44a7edd51249b5d093c4352d5bc0cd2e8b5883a95",
+    "IPS_sha256": "10023d092516a6b1885974ec571abf3f8178803a1e870c175bb861989fae196e"
+  },
+  {
+    "position": 1801,
+    "sids": [
+      2265
+    ],
+    "sfc_jp": "おうのしょじょう",
+    "current": "Royal Letter",
+    "proposal": "missive royale",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 235,
+        "JA_text": "@1おうの;しょじょう@",
+        "FR_text": "@0F@2la @3une @4missive ;royale@5les @6des @7missives royales@8N@9N@",
+        "JA_sha256": "d53b581d029ae9fd7e5ed6a2a6d61e7e989e2e0d51ea6d067afd28dd3b5eae7a",
+        "FR_sha256": "3d8529ea73eb122f5be0f111049ce22d2e90e4de473628d117b422da771d571b"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "70e2c60b9a11e257eed1c55b7a51d46d1a97446b0dad8a3cbde28bf6c4c7a88e",
+    "IPS_sha256": "3bd998704fdfee82f10f59e7f1b1abe561fa0928efbde6a6b5f871a6e3225eb3"
+  },
+  {
+    "position": 1807,
+    "sids": [
+      2271
+    ],
+    "sfc_jp": "マーメイドハープ",
+    "current": "Mermaid Harp",
+    "proposal": "harpe de Calypso",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 241,
+        "JA_text": "@1マーメイド;ハープ@",
+        "FR_text": "@0F@2la @3la @4harpe ;de Calypso@5les @6les @7harpes de Calypso@8N@9N@",
+        "JA_sha256": "b71269b57cc5fe78300d973768a39e444b6ab256c9aed9a7b2b4a5be9aaec773",
+        "FR_sha256": "38dff34a7f9056ffb0bf3be7531fd41d0d90ac3ec20a5d5267f98c39c083285e"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "1fd73075baf3f42915162fc7233f9e91365def5fe17e5c246fbb1e4c76d975d8",
+    "IPS_sha256": "999939551b231edc6826bb422cca18d9be4555c43100609afcbce613355fe8eb"
+  },
+  {
+    "position": 1808,
+    "sids": [
+      2272
+    ],
+    "sfc_jp": "すいもんのカギ",
+    "current": "Watergate|Key",
+    "proposal": "clef de l'écluse",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 242,
+        "JA_text": "@1すいもんの;カギ@",
+        "FR_text": "@0F@2la @3une @4clef de ;l'écluse@5les @6des @7clefs de l'écluse@8N@9N@",
+        "JA_sha256": "f1048476a33f50c8303b5f0a2cfdf2b93217dd6301d8c148228bea0ad0debfb7",
+        "FR_sha256": "ac0773c39ea68c6e4e06882be0b36eba46e8329c13a9894ab80cb9f805bc2c74"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "fa2aa6f8abe2264959553e55b6d168a4244a4b5152c21407e7d9b084eafd2084",
+    "IPS_sha256": "c9fb717352cbc7a5a008cb9f415b11d87a5f811e673810fec3da8d20e11b763f"
+  },
+  {
+    "position": 1809,
+    "sids": [
+      2273
+    ],
+    "sfc_jp": "ふしぎなちず",
+    "current": "Magic Map",
+    "proposal": "carte de l'aventurier",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 243,
+        "JA_text": "@1ふしぎなちず@",
+        "FR_text": "@0F@2la @3une @4carte de ;l'aventurier@5les @6des @7cartes de l'aventurier@8N@9N@",
+        "JA_sha256": "8c7304c14332bb23d4071133c10745faaf71c589c5d97b35fd8b4e33d67d262d",
+        "FR_sha256": "1dcca777f2348b25628bf72c25d8a566d9b52f8713d952f423bb2ea0dead319e"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "124fc06b6c534155954316fb025eafda8e125eacb5bf2b2521c51aa8e183be33",
+    "IPS_sha256": "428886266e817986d5d0d9cc03c09d57a01dbcb05f9cb26bdaec0c311b5a1443"
+  },
+  {
+    "position": 1811,
+    "sids": [
+      2275
+    ],
+    "sfc_jp": "ぎしきのそなえもの",
+    "current": "Ceremonial|Offering",
+    "proposal": "offrande rituelle",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 245,
+        "JA_text": "@1ぎしきの;そなえもの@",
+        "FR_text": "@0F@2l'@3une @4offrande ;rituelle@5les @6des @7offrandes rituelles@8N@9Y@",
+        "JA_sha256": "6298b8beaff17458f42f34a00fb3cfe2e247a854a060ca27e921344afdc0b147",
+        "FR_sha256": "53876078e06e858c979143df328dc765368d8c470ba7aa64aed8152f91fc17f3"
+      }
+    ],
+    "decision": "INTEGRE_v076",
+    "review_note": "Nom complet DS relu et sélectionné ; disposition en deux lignes dans les longueurs anciennes. Métadonnée de rupture recalculée, isolée et testée dans les rapports natifs.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "INTEGRE_v076",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "5e9ae241066bc47a43845bc8dd0f104be9abef678b826ce66cb98037a91aa309",
+    "IPS_sha256": "88dec8eea63a83b096a70139e372c056de644e6be1b611429d6e4c5f9e9c1387"
+  },
+  {
+    "position": 1812,
+    "sids": [
+      2276
+    ],
+    "sfc_jp": "てんまのたづな",
+    "current": "Reigns of|Pegasus",
+    "proposal": "rênes célestes",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 246,
+        "JA_text": "@1てんまの;たづな@",
+        "FR_text": "@0M@2l'ensemble de @3l'ensemble de @4rênes ;célestes@5les ensembles de @6les ensembles de @7rênes célestes@8Y@9N@",
+        "JA_sha256": "77a1aa8993728b8e5242ff5c65cf4377ac23a8505e41b124ec33aa9f12cda722",
+        "FR_sha256": "6bb812304a133d8b93459266d4e79ed3b9c1465f038c0720f615d234e0ffd43a"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "a06eb0b206331593ac96eb809abb5328be53415732858216e3f994218306b38e",
+    "IPS_sha256": "d621d813cac557fd18cc826d4d8de5e77a42a718a15666f514dc90963dc2274c"
+  },
+  {
+    "position": 1813,
+    "sids": [
+      2277
+    ],
+    "sfc_jp": "エンデのどうぐ",
+    "current": "Ende's Tools",
+    "proposal": "outils de Clume",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 247,
+        "JA_text": "@1エンデの;どうぐ@",
+        "FR_text": "@0M@2l'ensemble d'@3l'ensemble d'@4outils ;de Clume@5les ensembles d'@6les ensembles d'@7outils de Clume@8Y@9Y@",
+        "JA_sha256": "5f1317af66f459d68ce7225d31f632e0c2acf001cd64ff1cc02dbe949bf445a4",
+        "FR_sha256": "f89564303051ea723c9ce5a51d749e741c1ce72abc98485b1c492ccd588813fb"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "3c26bf358fa7077931202b0096017e5186586911c199ac3248a36a278a66d3c1",
+    "IPS_sha256": "0a4298e634805e0b530bd08fc2b0fda484d38c846258f31ba0bfa8be39d9f592"
+  },
+  {
+    "position": 1814,
+    "sids": [
+      2278
+    ],
+    "sfc_jp": "きれいなじゅうたん",
+    "current": "Beautiful|Carpet",
+    "proposal": "tapis pelucheux",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 248,
+        "JA_text": "@1きれいな;じゅうたん@",
+        "FR_text": "@0M@2le @3un @4tapis ;pelucheux@5les @6des @7tapis pelucheux@8N@9N@",
+        "JA_sha256": "adcf42b27f4b08f051b5ffece3ce69bca1624ecffa2fbefdc837c579685537b0",
+        "FR_sha256": "8603025f4729920940f209095bd8e69596879015ae2875a63f1a908e4b327a06"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "c41d6ab317c0f736c6e9578cabdb548a0eeae1cba3276ac9ff512fd5f9be95fa",
+    "IPS_sha256": "7b43e89385ed11117ec4114f7a808675772cca99a45a3411bd3fcf0dbcd20c57"
+  },
+  {
+    "position": 1815,
+    "sids": [
+      2279
+    ],
+    "sfc_jp": "ろうごくのカギ",
+    "current": "Prison Key",
+    "proposal": "clef du geôlier",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 249,
+        "JA_text": "@1ろうごくの;カギ@",
+        "FR_text": "@0F@2la @3une @4clef ;du geôlier@5les @6des @7clefs du geôlier@8N@9N@",
+        "JA_sha256": "e2aa24139b569ac9b73bec0ba6cd750d3f25a253d0077ff581e08d562e90fc7b",
+        "FR_sha256": "2d3f5c6bdce85da1916f400ad5539ea982562096c38ca09002f0942d84415af5"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "GLYPH_OR_DS_FORMATTING_NOT_APPROVED",
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "c3b5453e9884eb86b58574aa954fa89d919156810f4bfc24e8a44413c059a4c0",
+    "IPS_sha256": "7ccf1ce25226a3191d6b9426853aedc42c7088a339627ca13f12bfd0073285c9"
+  },
+  {
+    "position": 1817,
+    "sids": [
+      2281
+    ],
+    "sfc_jp": "とうぞくのカギ",
+    "current": "Thief's Key",
+    "proposal": "clef de voleur",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 251,
+        "JA_text": "@1とうぞくの;カギ@",
+        "FR_text": "@0F@2la @3une @4clef ;de voleur@5les @6des @7clefs de voleur@8N@9N@",
+        "JA_sha256": "c4e685f24d2f8dc060542bbaaa41e51ce2a7cd2f93f960efa1290eb55b26cfc2",
+        "FR_sha256": "2d1e567430fd4ceb88aae0bff017c99b3955db3c83ea89702766f8eeecdac971"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "bbe20cafd053b3ab8f629e4946ebd9073d7fdb69076a982eb1e1eb1b43b6e277",
+    "IPS_sha256": "ff62177275bc2b0ba6060aab1827f116d0bb7d4dca56e79994c8d30989afe876"
+  },
+  {
+    "position": 1818,
+    "sids": [
+      2282
+    ],
+    "sfc_jp": "まほうのカギ",
+    "current": "Magic Key",
+    "proposal": "clef magique",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 252,
+        "JA_text": "@1まほうのカギ@",
+        "FR_text": "@0F@2la @3une @4clef magique@5les @6des @7clefs magiques@8N@9N@",
+        "JA_sha256": "c5fc69ab6803c66002039aee0a409cbc79ed68d9c1a1149453277cd49f5af5fb",
+        "FR_sha256": "6b21a28a44d04008e3ff84917cba50e9bea59756a4f0db108b1c6ac2743e6d1e"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "a86913bad29357209b49ad55069d7af89935cdb86a195b93a3d665a6fc1d1de6",
+    "IPS_sha256": "299c15c4597209141d4ee468e2ef4d3bb67ff14dc7df1bf91e51edfc512a2681"
+  },
+  {
+    "position": 1819,
+    "sids": [
+      2283
+    ],
+    "sfc_jp": "さいごのカギ",
+    "current": "Final Key",
+    "proposal": "clef suprême",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 253,
+        "JA_text": "@1さいごのカギ@",
+        "FR_text": "@0F@2la @3une @4clef suprême@5les @6des @7clefs suprêmes@8N@9N@",
+        "JA_sha256": "bd2a967881d15545daff75b61380e51f4b8aac17fb94bb1a2af47db1232e93d6",
+        "FR_sha256": "aab0a6a61ae6a1473450ab0367ec6da48c69e071f2c57b367fbbd87be8268cd8"
+      }
+    ],
+    "decision": "DIFFERE_NOM_OBJET",
+    "review_note": "Japonais et nom français DS complet relus comme équipement, accessoire ou objet clé. La localisation DS peut différer du sens littéral ; conserver la proposition entière, sans troncature. Les réserves de glyphes, longueur et composition native indiquées restent ouvertes.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "af28579311311d00a9ffe822f8e662eda73655c6d3b18805e3ad55c6aab854f1",
+    "IPS_sha256": "61780344d50283c65a0c3ef884f66dc7b72a8146a10aeb60776c7307b3bb5261"
+  },
+  {
+    "position": 1820,
+    "sids": [
+      2284
+    ],
+    "sfc_jp": "ドラゴンのさとり",
+    "current": "Book of|Dragons",
+    "proposal": "Vitesse de dragon",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 254,
+        "JA_text": "@1ドラゴンの;さとり@",
+        "FR_text": "@0M@2l'exemplaire de @3un exemplaire de @4Vitesse ;de dragon@5les exemplaires de @6des exemplaires de @7Vitesse de dragon@8N@9N@",
+        "JA_sha256": "7d43001f48d74cb945e0abd6286f11fead7aa0819ff20bf5e9199cc5b7043da3",
+        "FR_sha256": "57377e484ad83023ed35d2edbfb0fdbf05f1e79ece2509f65c77e48e80647935"
+      }
+    ],
+    "decision": "DIFFERE_SENS_COMPOSITION_OU_SOURCE",
+    "review_note": "Le japonais ドラゴンのさとり renvoie à l’accès à la vocation dragon ; le champ FR DS Vitesse de dragon est sémantiquement inhabituel. Tracer l’usage réel de cet objet DS et le code objet SFC avant validation, sans inventer un nom alternatif.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "aaaea7e007d8006576acf1e224232d595ca66a6c44ae84cfb11dfb7210bd4fa2",
+    "IPS_sha256": "78938eed6b36889f8a0e57875231d0dd154e08e6eb559ef4ef3fe0bcc8e9c331"
+  },
+  {
+    "position": 1821,
+    "sids": [
+      2285
+    ],
+    "sfc_jp": "はぐれのさとり",
+    "current": "Book of|Babbles",
+    "proposal": "esprit de mercure",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 255,
+        "JA_text": "@1はぐれの;さとり@",
+        "FR_text": "@0M@2l'exemplaire d'@3un exemplaire d'@4esprit ;de mercure@5les exemplaires d'@6des exemplaires d'@7esprit de mercure@8N@9Y@",
+        "JA_sha256": "802ce4d732f391d11f726fb8f3005aef4fb9408466f3ff08cb15dac031e6be07",
+        "FR_sha256": "91deac85d558a23605439dbb587018c02bcba069e0172f8e815663c10ccdee39"
+      }
+    ],
+    "decision": "DIFFERE_SENS_COMPOSITION_OU_SOURCE",
+    "review_note": "はぐれのさとり donne accès à une vocation ; vérifier le rôle du livre/enseignement et la correspondance objet DS avant insertion de esprit de mercure.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT",
+      "NATIVE_LINE_BREAK_REQUIRES_LAYOUT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "3d5f42081cb3c4499143b85c8fa10813033f6a649089056361e5a35a9ebdffcb",
+    "IPS_sha256": "a73dc55008637f0e8073b9f6338518041c8e62051642bcdde4558aabd93b5b8f"
+  },
+  {
+    "position": 1851,
+    "sids": [
+      2315
+    ],
+    "sfc_jp": "マリリン",
+    "current": "Marlon",
+    "proposal": "Coquette",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1001000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1001000.mpt",
+        "id": 27,
+        "JA_text": "@1マリリン@",
+        "FR_text": "@0F@1Coquette@9N@",
+        "JA_sha256": "d7e67ecbc5dcbd6605ae916696801e30b53dc07484cbc24faa38df5e896344dc",
+        "FR_sha256": "99b4af40c2885d702861b2849430177c809db5e6cd819373ae7f722d967172db"
+      }
+    ],
+    "decision": "DIFFERE_NOM_RECRUTABLE",
+    "review_note": "Nom propre japonais et nom français DS relus. Établir l’association au personnage/monstre recruté SFC, sa largeur naturelle et le rôle des noms par défaut ; ne pas importer un nom homonyme sur la seule graphie.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "858d45cb3d2093e5f6aef592384d2f6860012cd54964df631671497d5db7d773",
+    "IPS_sha256": "f7075767acc13a0a2054fd6aa5b0c2109db0ca406c333f5f90ce5bbb8bb155f9"
+  },
+  {
+    "position": 1855,
+    "sids": [
+      2319
+    ],
+    "sfc_jp": "ピエール",
+    "current": "Pierre",
+    "proposal": "Gluvain",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1001000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1001000.mpt",
+        "id": 23,
+        "JA_text": "@1ピエール@",
+        "FR_text": "@0M@1Gluvain@9N@",
+        "JA_sha256": "f9e7f81d01a21bf9a1b4148f90ff30b13e03af1fc2f804d842bb9b69e6963198",
+        "FR_sha256": "c51a6480e025b0d2c4a751b0434c757bd7e942a8ed7c68bfbb8527d0a1822b32"
+      }
+    ],
+    "decision": "DIFFERE_NOM_RECRUTABLE",
+    "review_note": "Nom propre japonais et nom français DS relus. Établir l’association au personnage/monstre recruté SFC, sa largeur naturelle et le rôle des noms par défaut ; ne pas importer un nom homonyme sur la seule graphie.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "32e9c62c5e0b6ebe5cefc0ad24c69d7806756f7f49114c2585f676b39165d16c",
+    "IPS_sha256": "9ccbdf9cbb5cc7f28f78704df8a4c8061a38bb979aa4e0285c18da5de6168bf3"
+  },
+  {
+    "position": 1879,
+    "sids": [
+      2343
+    ],
+    "sfc_jp": "ドランゴ",
+    "current": "Drago",
+    "proposal": "Braséria",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1001000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1001000.mpt",
+        "id": 7,
+        "JA_text": "@1ドランゴ@",
+        "FR_text": "@0F@1Braséria@9N@",
+        "JA_sha256": "6e5a0190d971e5789c611651c8630bb37080795d81c80def06703f742ce8351d",
+        "FR_sha256": "c2bdafeac8d8a6a4ed88521e769b0f16174651ae94ff33376d0ca53091da3c24"
+      }
+    ],
+    "decision": "DIFFERE_NOM_RECRUTABLE",
+    "review_note": "Nom propre japonais et nom français DS relus. Établir l’association au personnage/monstre recruté SFC, sa largeur naturelle et le rôle des noms par défaut ; ne pas importer un nom homonyme sur la seule graphie.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "99f996cc433913c64a8751b222f94624446217772baa5711dc58923e9c1697e3",
+    "IPS_sha256": "24efffbfb281ec55c1e4dd8100b29e33adeed1014ce7dab09ce4d8016a5de014"
+  },
+  {
+    "position": 1889,
+    "sids": [
+      2353
+    ],
+    "sfc_jp": "はぐりん",
+    "current": "Babs",
+    "proposal": "Gluton",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1001000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1001000.mpt",
+        "id": 24,
+        "JA_text": "@1はぐりん@",
+        "FR_text": "@0M@1Gluton@9N@",
+        "JA_sha256": "51368764a7b339b3811ed2ea8d21b51feceadc878a765a10c2673b4fb0332372",
+        "FR_sha256": "b6a3bf6b5e952ed079afd0f544cb01752501f935909d9d293457991a1258de9e"
+      }
+    ],
+    "decision": "DIFFERE_NOM_RECRUTABLE",
+    "review_note": "Nom propre japonais et nom français DS relus. Établir l’association au personnage/monstre recruté SFC, sa largeur naturelle et le rôle des noms par défaut ; ne pas importer un nom homonyme sur la seule graphie.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "4f1ce39f5c1ce35d9f0e1512ef3970a3e22aaea12fdf7a4686eb2aa4bc4848b2",
+    "IPS_sha256": "2a5397be39a178ce436021b82ae80144dbc7e496b2cfe671bd8a52a301f4eaad"
+  },
+  {
+    "position": 1897,
+    "sids": [
+      2361
+    ],
+    "sfc_jp": "キングス",
+    "current": "Kings",
+    "proposal": "Glovis",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1001000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1001000.mpt",
+        "id": 28,
+        "JA_text": "@1キングス@",
+        "FR_text": "@0M@1Glovis@9N@",
+        "JA_sha256": "ff8dbfbf3ed6a9303c8786b08a7637943ee8252e6bc18915a3022552f23aad1a",
+        "FR_sha256": "e43493b1c67a2d4161ef6e37b65bd97787fb81969aa314763245c7a041e63c1c"
+      }
+    ],
+    "decision": "DIFFERE_NOM_RECRUTABLE",
+    "review_note": "Nom propre japonais et nom français DS relus. Établir l’association au personnage/monstre recruté SFC, sa largeur naturelle et le rôle des noms par défaut ; ne pas importer un nom homonyme sur la seule graphie.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "5733ad0e733ef1a7d93dba3dc5ef561f4cb64284f9c976d6ed22ca5db54735c0",
+    "IPS_sha256": "91fc08054ce3a8d73b7bcbd4a6ea92ebcd7fb84f8249948de9eddb463cb4dd40"
+  },
+  {
+    "position": 1929,
+    "sids": [
+      2393
+    ],
+    "sfc_jp": "いのちだいじに",
+    "current": "Sauver sa Vie",
+    "proposal": "Soins avant tout",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 422,
+        "JA_text": "@1いのち;だいじに@",
+        "FR_text": "@4Soins avant ;tout@",
+        "JA_sha256": "f8d7d3de3372b626a5cfe0a70c9b0654d76822a6ea80620fe5ccbdb5ece4e254",
+        "FR_sha256": "47ccc7a9f383a7d0ceb55eb58d4cebdff14c855829410740a0562beadbfd8d54"
+      }
+    ],
+    "decision": "DIFFERE_SENS_COMPOSITION_OU_SOURCE",
+    "review_note": "Tactique de conservation de la vie : le libellé DS Soins avant tout est relu, mais doit être contrôlé avec les fragments tactiques et la fenêtre native.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "7e4fdc0c4e1648b312b401be91890626995c018e90124b1be980c5314096fa4b",
+    "IPS_sha256": "32d974c4311eed1cd12c43289de3cecbd6fd73117ec5ee1eb879bff2c4eb7a7b"
+  },
+  {
+    "position": 1930,
+    "sids": [
+      2394
+    ],
+    "sfc_jp": "めいれいさせろ",
+    "current": "Suivre Ordres",
+    "proposal": "Suivre les ordres",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 424,
+        "JA_text": "@1めいれい;させろ@",
+        "FR_text": "@4Suivre les ;ordres@",
+        "JA_sha256": "607fd7d79a695797d12baa97a9b4ebf14dd7c281acd3cd3a916b4c9f210300b9",
+        "FR_sha256": "defa60661af7873a544d3c0c16db08d5e1798f35ea6057feb8ea287e9a93018d"
+      }
+    ],
+    "decision": "DIFFERE_SENS_COMPOSITION_OU_SOURCE",
+    "review_note": "Tactique de commandes manuelles : Suivre les ordres est distinct de Me couvrir et Pas de magie. Disposition et fragments natifs à vérifier.",
+    "technical_flags": [
+      "LONGER_THAN_OLD_LABEL_NOT_A_WINDOW_MEASUREMENT"
+    ],
+    "status": "PREPARE_NON_INSERE",
+    "proposal_semantically_reread": true,
+    "natural_context_validated": false,
+    "JP_sha256": "557063f2615dee1c241e3baeaba06f76a54d31ddcbcccc50e130aa22d3cd14ff",
+    "IPS_sha256": "e31391d4c94f4a51e42d5e6461f495d72101cf9beb9a9ddeda705be0082407f8"
+  }
+]
