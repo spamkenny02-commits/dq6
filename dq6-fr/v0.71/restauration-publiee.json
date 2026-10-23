@@ -1,0 +1,18 @@
+{
+  "release": "v0.71",
+  "published_translation_commit": "f21321b47efdc3ec8c95944d7242761be98b9b10",
+  "published_tree": "d4d0e8bb153fff427d464e0f4a2fe986c260675e",
+  "restoration": "Fresh archive from fetched origin/main; restore_sources.py, prepare.py with verified JP/DS/IPS, build.py, verify.py, inventory_names.py, audit_blockages.py.",
+  "manifest_files_identical": 30,
+  "manifest_sha256": "5461a2fef209cf25f566f62e94ebde27f737af1666a5e07e6e73d227514dbe85",
+  "ROM_sha256": "57c84b0e61ec50a012a7cc7ef4dd9e1a130312f7f7ddbf561d48c7f5c9895015",
+  "BPS_sha256": "9be5c4548834b84b39b399ea9a45fdeaed46c05483c3bae92d4a15c518c76f60",
+  "IPS_sha256": "5e383e5fe86239931fef0df87acb656e58a168113506aeb1747bf6bb497e6cb2",
+  "BPS_IPS_reapplied": true,
+  "bad_sources_rejected": true,
+  "protected_zones_unchanged": true,
+  "private_sources_not_published": true,
+  "emulator_tests": "Executed on identical candidate ROM before publication, not repeated during restoration.",
+  "natural_validation": false,
+  "next_physical_position": 1200
+}
