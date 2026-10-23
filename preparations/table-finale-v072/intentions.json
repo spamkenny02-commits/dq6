@@ -1,0 +1,175 @@
+{
+  "baseline": "v0.71",
+  "status": "PREPARE_NON_INSERE",
+  "source_check": "À revérifier directement dans la ROM DS avant intégration.",
+  "tests": "NON_EXECUTES_SUR_CETTE_PREPARATION",
+  "integrated_additions": 0,
+  "ranges": [
+    [
+      1200,
+      1599
+    ],
+    [
+      1600,
+      1999
+    ],
+    [
+      2000,
+      2047
+    ]
+  ],
+  "rows": [
+    {
+      "position": 1202,
+      "french": "Bûcher",
+      "sfc_jp": "ひばしら",
+      "review": "Pilier de feu ; distinct des souffles.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1212,
+      "french": "Frénésie",
+      "sfc_jp": "みなごろし",
+      "review": "Attaque sans distinction des camps ; ancien Slowness faux.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1234,
+      "french": "Gigaslash",
+      "sfc_jp": "ギガスラッシュ",
+      "review": "Capitalisation officielle DS.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1626,
+      "french": "lame de feu",
+      "sfc_jp": "ほのおのつるぎ",
+      "review": "Arme, distincte de la compétence Lame de feu.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1635,
+      "french": "boomerang",
+      "sfc_jp": "ブーメラン",
+      "review": "Nom commun, minuscule DS.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1672,
+      "french": "kilt de cuir",
+      "sfc_jp": "かわのこしまき",
+      "review": "Vêtement de taille, distinct d’armure de cuir.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1691,
+      "french": "armure miroir",
+      "sfc_jp": "ミラーアーマー",
+      "review": "Armure, distincte du sort Réflexion.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1709,
+      "french": "pyromanteau",
+      "sfc_jp": "まどうしのローブ",
+      "review": "Robe de mage ; ancien Sage's Robe trompeur.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1741,
+      "french": "diadème",
+      "sfc_jp": "ヘアバンド",
+      "review": "Distinct des tiares voisines.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1748,
+      "french": "tiare d'or",
+      "sfc_jp": "おうごんのティアラ",
+      "review": "Distincte de la tiare d’argent.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1763,
+      "french": "perle rose",
+      "sfc_jp": "ピンクパール",
+      "review": "Accessoire.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1791,
+      "french": "charmélia",
+      "sfc_jp": "うつくしそう",
+      "review": "Plante augmentant le style.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1804,
+      "french": "tapis volant",
+      "sfc_jp": "まほうのじゅうたん",
+      "review": "Distinct du tapis pelucheux.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1826,
+      "french": "Mage",
+      "sfc_jp": "まほうつかい",
+      "review": "Vocation ; label DS identique pour les deux genres.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1833,
+      "french": "Gladiateur",
+      "sfc_jp": "バトルマスター",
+      "review": "Vocation ; label DS identique pour les deux genres.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1835,
+      "french": "Paladin",
+      "sfc_jp": "パラディン",
+      "review": "Corrige le double l ; même label DS dans les deux genres.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1838,
+      "french": "Sommité",
+      "sfc_jp": "スーパースター",
+      "review": "Vocation, distincte de ses rangs ; même label DS dans les deux genres.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1893,
+      "french": "Doc",
+      "sfc_jp": "ホイミン",
+      "review": "Nom du médigluant recruté, distinct de son espèce.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1925,
+      "french": "Sans pitié",
+      "sfc_jp": "ガンガンいこうぜ",
+      "review": "Tactique agressive.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1927,
+      "french": "Me couvrir",
+      "sfc_jp": "おれにまかせろ",
+      "review": "Tactique de soutien au héros.",
+      "status": "PREPARE_NON_INSERE"
+    },
+    {
+      "position": 1928,
+      "french": "Pas de magie",
+      "sfc_jp": "じゅもんつかうな",
+      "review": "Tactique sans sorts ; corrige pluriel hérité.",
+      "status": "PREPARE_NON_INSERE"
+    }
+  ],
+  "remaining_limits": [
+    "Fragments de descriptions : composition native à tracer.",
+    "Derniers SIDs09A7..09C9 dynamiques ; ne pas traduire des slots vides.",
+    "SIDs09CA..09CF : source JP opaque à auditer, pas des dialogues supposés."
+  ]
+}

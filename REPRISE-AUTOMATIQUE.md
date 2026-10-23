@@ -1,3 +1,7 @@
+# Préparation de fin de table — non insérée
+
+Voir preparations/table-finale-v072/intentions.json :21libellés proposés et trois plages1200–1599,1600–1999,2000–2047. Aucun compteur intégré augmenté,aucun nouveau test revendiqué. Reprendre v0.71 et contrôler les sources,le verrou et les réserves avant insertion.
+
 # Reprise v0.71 — lot800–1199
 
 Lire dq6-fr/v0.71/README.md,registre0800–1199,revue,delta,révisions héritées etQA.32libellés modifiés :17traductions/15révisionsFR ;Bang1109 relu sansmodification ;80propositions noninsérées.1200positions consignées/2048,161FRqualifiés,pas1200traductions. Prochainlot1200–1599,puis1600–1999,2000–2047 ;revenir ensuite aux réserves. Ne pas recycler ce lot.
@@ -311,3 +315,4 @@ Rapports : 6960 entrées redécodées, BPS/IPS réappliqués, 870 groupes et 417
 Le restaurateur applique les deltas lisibles jusqu’à v0.22 sans ROM. `pass22.py` est idempotent et limité aux entrées du lot. Il enregistre aussi un audit de la branche du tapis : FR DS 584–588 réordonne fabrication, vol et propriétaire par rapport au japonais. Le message 322 est différé ; la traduction ancienne de 323 doit être révisée avec cette branche. Ne pas compter ce constat comme un ajout et ne pas déclarer la validation sémantique complète des anciennes sélections. L’audit `audit-tapis-reordonne.json` garde les deux langues et l’ancien texte ; les anciens tokens restent conservés ici conformément à la consigne. Conserver aussi le blocage 1836.
 
 Contrôles v0.22 : BPS/IPS réappliqués, 6960 entrées redécodées, 870 groupes et 418571 octets sur le bus ; 28 pages de rendu ciblé sur six messages (298,313,318,361,373,376). Aucun parcours naturel complet ni validation globale des tables séparées. Le BPS est publié directement ; l’IPS est régénéré par build.py. Les sources, adaptations et rapports sont publiés, les ROM et états restent locaux.
+
