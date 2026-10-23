@@ -1,0 +1,266 @@
+{
+  "release": "v0.67",
+  "ROM_sha256": "412ee8413fe763a8db31bc0dda9f23f13db30a61eb7a35be436b087dd663a8b9",
+  "diagnostic_dialogues": 64,
+  "place_names_checked": 10,
+  "storage_adaptations_checked": 22,
+  "B2_lookups_per_dialogue": 3,
+  "rows": [
+    {
+      "sid": 419,
+      "previous_screenshot_sha256": "472655a9751f8b4cc75770f8d2c56b319e50562010b1f56216878c7191711013",
+      "screenshot_sha256": "472655a9751f8b4cc75770f8d2c56b319e50562010b1f56216878c7191711013",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 420,
+      "previous_screenshot_sha256": "589a93c975030eb98c9fde0ca26d2f18f16ac2f6fe73f8f9e58adf7e4ca6f950",
+      "screenshot_sha256": "476ffb3160275502df5a7e887090f604bb4c29474fc28bc4f3669297b91e3e09",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 422,
+      "previous_screenshot_sha256": "ab4a104e8e219108b5083e5b4587c36ee9a10688e66456dfd15db1e5901f6cda",
+      "screenshot_sha256": "ab4a104e8e219108b5083e5b4587c36ee9a10688e66456dfd15db1e5901f6cda",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 424,
+      "previous_screenshot_sha256": "397d9e6c1c240a959e027a484fbe3052f1bc640528adde8e0f09f2eca08aa869",
+      "screenshot_sha256": "90eb7a52a5cba06c9c8b4515a3170eccf08e31084965a30dbc6fe6259740499d",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 427,
+      "previous_screenshot_sha256": "ad01d3ea115fbc0f00d9ec6fbf8387e66f6200fcbca67b9add2c0bdc71383236",
+      "screenshot_sha256": "ad01d3ea115fbc0f00d9ec6fbf8387e66f6200fcbca67b9add2c0bdc71383236",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 428,
+      "previous_screenshot_sha256": "930105aa35848997d665cb141c41269c2400ba338eade9bf7a0bd0306b1128c1",
+      "screenshot_sha256": "d33c3f5f0ef9da16125e642c7b06e858a22efb499d4af4fd0abe4edafd10785b",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 432,
+      "previous_screenshot_sha256": "4c2d473effe68b5b3453199cc92d85d57a47fa61283f0a708974ca9611289f4f",
+      "screenshot_sha256": "4c2d473effe68b5b3453199cc92d85d57a47fa61283f0a708974ca9611289f4f",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 434,
+      "previous_screenshot_sha256": "5861d36ec381da3801b09fc71406cec1fd1e5de73ab27276976b6c50cae3c178",
+      "screenshot_sha256": "56dccdc776fe47f78a416519a09430dd7d8add93bdbbbeb82989f9a319838f8a",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 441,
+      "previous_screenshot_sha256": "6c4d16ba96b0983b421d49c6c6167221497a8faacda11eac407010a8babc4faf",
+      "screenshot_sha256": "82a3cfd62f0a7008516f7a843b4f04a181bafbab13fc72938607f3b9c1dc331d",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 442,
+      "previous_screenshot_sha256": "73ce1b5f7a0cd8bb1b2c1b6f5c0f008a2e94c41c581d9b022e0a91cf0fe46daf",
+      "screenshot_sha256": "73ce1b5f7a0cd8bb1b2c1b6f5c0f008a2e94c41c581d9b022e0a91cf0fe46daf",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 444,
+      "previous_screenshot_sha256": "91e50aa55e9b470032d8eb5d5d4aca1ea92603b89ae13480e330b0d50c84799f",
+      "screenshot_sha256": "91e50aa55e9b470032d8eb5d5d4aca1ea92603b89ae13480e330b0d50c84799f",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 466,
+      "previous_screenshot_sha256": "ab90ac19a2ef762bf19da4d73881465994667ff240c6effdaf83c050a0a0cca6",
+      "screenshot_sha256": "914fb67cd9a83ad8590d5d1f986fc4f6b97e0d7410e6cd788364052784e426be",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 470,
+      "previous_screenshot_sha256": "a299060895e651f382cb729d100eb13d3e662d834490d9619a8040b2954d335f",
+      "screenshot_sha256": "bd58949401b79b52c90ea64b6a143a4bed278639b143e86607b44a11052654be",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 473,
+      "previous_screenshot_sha256": "a95022f98b0e51a3bf0e8d40c812f48b878800e8560716e741ddd39662b41d81",
+      "screenshot_sha256": "c75caf5b0e3259ffdf3d5a2a33b3d4700a4b8dd2a0f4dff516eece9ba6c87644",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 491,
+      "previous_screenshot_sha256": "0e443e57a87cec7388a5b89cb0379ef1fa3cd0d5fe03e943b7b8fc7667a86b73",
+      "screenshot_sha256": "9105f97f532a32039986089e8e43bf743909bebb53af347680bbaad446f2825a",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 517,
+      "previous_screenshot_sha256": "74151db1c7621bfe205ea039a97f3dc38f16c4149519cd80bc644cf6a1ed53b6",
+      "screenshot_sha256": "49c1eacc6d15b889ad8fe5ee32143cbd7a6ad8e7cf79a1edb65c8719ac24f73f",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1570,
+      "previous_screenshot_sha256": "aa06341d6bdc82e36ef821a35d4adbe4826ca23a9caf753ba16635465f807a12",
+      "screenshot_sha256": "aa06341d6bdc82e36ef821a35d4adbe4826ca23a9caf753ba16635465f807a12",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1576,
+      "previous_screenshot_sha256": "5e5d36e8c37e142d31b293dbca1abb6a059b753a3be0689f10dfc204e402c8ce",
+      "screenshot_sha256": "5e5d36e8c37e142d31b293dbca1abb6a059b753a3be0689f10dfc204e402c8ce",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1579,
+      "previous_screenshot_sha256": "3d2337aa10d6d039622f66b4569d56b8c1cf6c754b1f81fb22e20c636231b01a",
+      "screenshot_sha256": "3d2337aa10d6d039622f66b4569d56b8c1cf6c754b1f81fb22e20c636231b01a",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1581,
+      "previous_screenshot_sha256": "9e41a3294056de19765450881489bb2625c7510bc2d75332421e423d0772b3c3",
+      "screenshot_sha256": "9e41a3294056de19765450881489bb2625c7510bc2d75332421e423d0772b3c3",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1585,
+      "previous_screenshot_sha256": "04d1efece1942d01fa153c306b79253127b32cea1a2480d0c2f7f4a41ad63051",
+      "screenshot_sha256": "04d1efece1942d01fa153c306b79253127b32cea1a2480d0c2f7f4a41ad63051",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1589,
+      "previous_screenshot_sha256": "f01ea1bbddd6cd91085174e54553b5f1e95cf37caca836fab92d38cdb9d94ad5",
+      "screenshot_sha256": "f01ea1bbddd6cd91085174e54553b5f1e95cf37caca836fab92d38cdb9d94ad5",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1592,
+      "previous_screenshot_sha256": "e9b55f52c5c670f75333e78513b830d2a1b6a20b6ad63b79ead103a0daa2387c",
+      "screenshot_sha256": "e9b55f52c5c670f75333e78513b830d2a1b6a20b6ad63b79ead103a0daa2387c",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1604,
+      "previous_screenshot_sha256": "058e37cb6870423e6ecfa5d8493c2bc5ddaeda8738ab2a9b7f5aa3d3fc7b92a1",
+      "screenshot_sha256": "058e37cb6870423e6ecfa5d8493c2bc5ddaeda8738ab2a9b7f5aa3d3fc7b92a1",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1605,
+      "previous_screenshot_sha256": "865d2e81ed00c2bf5e8c6a1119b383aa8567623dfeb732eeaedda0ef271150ba",
+      "screenshot_sha256": "865d2e81ed00c2bf5e8c6a1119b383aa8567623dfeb732eeaedda0ef271150ba",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1611,
+      "previous_screenshot_sha256": "efb4cd1809324df3e22138d032d1722517fb8bc8dc96cda966d2ddd88d13c4f0",
+      "screenshot_sha256": "efb4cd1809324df3e22138d032d1722517fb8bc8dc96cda966d2ddd88d13c4f0",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1620,
+      "previous_screenshot_sha256": "9f33205310adc91859abc0897c4e49cf05d1613bc62b47d4661f580a44115daa",
+      "screenshot_sha256": "9f33205310adc91859abc0897c4e49cf05d1613bc62b47d4661f580a44115daa",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1627,
+      "previous_screenshot_sha256": "6ed8c7dadc400ce6112490d5f59793652b95a1259b0d0120b81a475839c28227",
+      "screenshot_sha256": "6ed8c7dadc400ce6112490d5f59793652b95a1259b0d0120b81a475839c28227",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1628,
+      "previous_screenshot_sha256": "a979a5bdbe036f5893ae4ad74e0df938484979095e81a06db58cd18051c90ed2",
+      "screenshot_sha256": "a979a5bdbe036f5893ae4ad74e0df938484979095e81a06db58cd18051c90ed2",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1639,
+      "previous_screenshot_sha256": "4776cb8f37a51b552753206ee554741f684e1819b8c0c397c81273c432e87bd0",
+      "screenshot_sha256": "4776cb8f37a51b552753206ee554741f684e1819b8c0c397c81273c432e87bd0",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1714,
+      "previous_screenshot_sha256": "3f731b92f0ef9bd4b19325087a04c67c63a42243fa658f9f65b307e01cd61a2c",
+      "screenshot_sha256": "3f731b92f0ef9bd4b19325087a04c67c63a42243fa658f9f65b307e01cd61a2c",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1716,
+      "previous_screenshot_sha256": "def6cb95d4c852502f94483bb86dca183a1a6705d02cf26bab44721280a0e7df",
+      "screenshot_sha256": "def6cb95d4c852502f94483bb86dca183a1a6705d02cf26bab44721280a0e7df",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    }
+  ],
+  "natural_validation": false,
+  "limits": "Three repeated main-dialogue B2 lookups per name at camp. No party recruitment, natural battle or native compact menu coverage. Visual review is recorded separately.",
+  "visual_review": {
+    "reviewed_new_place_SIDs": [
+      420,
+      424,
+      428,
+      434,
+      441,
+      466,
+      470,
+      473,
+      491,
+      517
+    ],
+    "observed_complete_names": [
+      "Desmodia",
+      "Vallonclair",
+      "Montgivré",
+      "Donjon de Meurtor",
+      "Brigandia",
+      "Poste-frontière",
+      "Chez madame Luce",
+      "Manoir Médaillon",
+      "Au fond du puits",
+      "Tour des Maléfices"
+    ],
+    "all10_visible_without_truncation_in_diagnostic": true,
+    "accents_hyphen_case_and_plurals_preserved": true,
+    "storage22_screenshot_pairs_identical": true,
+    "natural_travel_menu_validated": false
+  }
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "sid": 436,
+    "position": 436,
+    "sfc_jp": "ダーマしんでん",
+    "current": "Dhama Shrine",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 4,
+        "jp": "ダーマしんでん",
+        "fr": "Abbaye des Vocations"
+      },
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 14,
+        "jp": "ダーマしんでん",
+        "fr": "Abbaye des Vocations"
+      }
+    ],
+    "french": "Abbaye des Vocations",
+    "status": "PREPARE_NON_INSERE",
+    "review": "Nom de lieu JP identique à la liste DS, libellé officiel FR relu ; aucun rapprochement flou.",
+    "remaining_checks": "Encodage accentué, largeur réelle de la fenêtre, alias, repacking et rendu du nom dans son écran.",
+    "current_checkpoint": "v0.67",
+    "blocking_reason": "Croissance du stockage à résoudre sans consommer le tail protégé ; fenêtre naturelle non parcourue.",
+    "estimated_packed_growth_bytes": 6
+  },
+  {
+    "sid": 437,
+    "position": 437,
+    "sfc_jp": "フォーンじょう",
+    "current": "Foan",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 26,
+        "jp": "フォーンじょう",
+        "fr": "Château de Joliroche"
+      }
+    ],
+    "french": "Château de Joliroche",
+    "status": "PREPARE_NON_INSERE",
+    "review": "Nom de lieu JP identique à la liste DS, libellé officiel FR relu ; aucun rapprochement flou.",
+    "remaining_checks": "Encodage accentué, largeur réelle de la fenêtre, alias, repacking et rendu du nom dans son écran.",
+    "current_checkpoint": "v0.67",
+    "blocking_reason": "Croissance du stockage à résoudre sans consommer le tail protégé ; fenêtre naturelle non parcourue.",
+    "estimated_packed_growth_bytes": 12
+  },
+  {
+    "sid": 438,
+    "position": 438,
+    "sfc_jp": "ホルストック",
+    "current": "Holstock",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 24,
+        "jp": "ホルストック",
+        "fr": "Château de Pierreforte"
+      }
+    ],
+    "french": "Château de Pierreforte",
+    "status": "PREPARE_NON_INSERE",
+    "review": "Nom de lieu JP identique à la liste DS, libellé officiel FR relu ; aucun rapprochement flou.",
+    "remaining_checks": "Encodage accentué, largeur réelle de la fenêtre, alias, repacking et rendu du nom dans son écran.",
+    "current_checkpoint": "v0.67",
+    "blocking_reason": "22glyphes,excède la référence20 ; fenêtre naturelle et adaptation à établir,plus9octets de stockage.",
+    "estimated_packed_growth_bytes": 9
+  },
+  {
+    "sid": 464,
+    "position": 464,
+    "sfc_jp": "デスコッド",
+    "current": "Deathcod",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 13,
+        "jp": "デスコッド",
+        "fr": "Pic des Terreurs"
+      }
+    ],
+    "french": "Pic des Terreurs",
+    "status": "PREPARE_NON_INSERE",
+    "review": "Nom de lieu JP identique à la liste DS, libellé officiel FR relu ; aucun rapprochement flou.",
+    "remaining_checks": "Encodage accentué, largeur réelle de la fenêtre, alias, repacking et rendu du nom dans son écran.",
+    "current_checkpoint": "v0.67",
+    "blocking_reason": "Croissance du stockage à résoudre sans consommer le tail protégé ; fenêtre naturelle non parcourue.",
+    "estimated_packed_growth_bytes": 5
+  },
+  {
+    "sid": 479,
+    "position": 479,
+    "sfc_jp": "もりのきょうかい",
+    "current": "Frontier|Church",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 38,
+        "jp": "もりのきょうかい",
+        "fr": "Chapelle de la forêt"
+      }
+    ],
+    "french": "Chapelle de la forêt",
+    "status": "PREPARE_NON_INSERE",
+    "review": "Nom de lieu JP identique à la liste DS, libellé officiel FR relu ; aucun rapprochement flou.",
+    "remaining_checks": "Encodage accentué, largeur réelle de la fenêtre, alias, repacking et rendu du nom dans son écran.",
+    "current_checkpoint": "v0.67",
+    "blocking_reason": "Ancienne commande98 : mise en page composée à préserver et tester,ne pas aplatir sans audit.",
+    "estimated_packed_growth_bytes": 5
+  },
+  {
+    "sid": 481,
+    "position": 481,
+    "sfc_jp": "ふなつきば",
+    "current": "Wharf",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 39,
+        "jp": "ふなつきば",
+        "fr": "Cap de Somnia"
+      }
+    ],
+    "french": "Cap de Somnia",
+    "status": "PREPARE_NON_INSERE",
+    "review": "Nom de lieu JP identique à la liste DS, libellé officiel FR relu ; aucun rapprochement flou.",
+    "remaining_checks": "Encodage accentué, largeur réelle de la fenêtre, alias, repacking et rendu du nom dans son écran.",
+    "current_checkpoint": "v0.67",
+    "blocking_reason": "Croissance du stockage à résoudre sans consommer le tail protégé ; fenêtre naturelle non parcourue.",
+    "estimated_packed_growth_bytes": 7
+  },
+  {
+    "sid": 490,
+    "position": 490,
+    "sfc_jp": "なげきのろうごく",
+    "current": "Sorrow Prison",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 36,
+        "jp": "なげきのろうごく",
+        "fr": "Prison du Chagrin"
+      }
+    ],
+    "french": "Prison du Chagrin",
+    "status": "PREPARE_NON_INSERE",
+    "review": "Nom de lieu JP identique à la liste DS, libellé officiel FR relu ; aucun rapprochement flou.",
+    "remaining_checks": "Encodage accentué, largeur réelle de la fenêtre, alias, repacking et rendu du nom dans son écran.",
+    "current_checkpoint": "v0.67",
+    "blocking_reason": "Croissance du stockage à résoudre sans consommer le tail protégé ; fenêtre naturelle non parcourue.",
+    "estimated_packed_growth_bytes": 4
+  }
+]

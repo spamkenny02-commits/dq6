@@ -1,0 +1,340 @@
+[
+  {
+    "sid": 420,
+    "position": 420,
+    "sfc_jp": "アモール",
+    "previous": "Amoru",
+    "french": "Desmodia",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 19,
+        "JA_text": "@1アモール@",
+        "FR_text": "@1Desmodia@",
+        "JA_sha256": "a430adbd85c74388d13ac781dba84b65931ea1ce686635f703fb85f9f356b07f",
+        "FR_sha256": "9a4fd680dfce64d5b60ef1037eb2594213fc7101a367f9a1dcae8fa9db1fc657"
+      },
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 40,
+        "JA_text": "@1アモール@",
+        "FR_text": "@1Desmodia@",
+        "JA_sha256": "a430adbd85c74388d13ac781dba84b65931ea1ce686635f703fb85f9f356b07f",
+        "FR_sha256": "9a4fd680dfce64d5b60ef1037eb2594213fc7101a367f9a1dcae8fa9db1fc657"
+      }
+    ],
+    "source_bytes_sha256": "d1350f59ac0ace54a0d9cc7ba0cdf1df0bfa7ad1e2ca27e8cf84d8bdda6eeabb",
+    "previous_encoded_hex": "104eec56ac",
+    "encoded_hex": "13db4e50454a42ac",
+    "previous_sha256": "85536ae9639ac95410f316db8737785dd5441bc013e42b057400234ed5b0925e",
+    "encoded_sha256": "3b83f0375b556d06ca8219388c51ea94da7be7a009fad8466328d56ffc7dd3f2",
+    "old_columns": 5,
+    "new_columns": 8,
+    "storage_delta": 3,
+    "runtime_sids": [
+      420
+    ],
+    "review": "アモール : Desmodia DS, même ville sous ses deux états, deux entrées DS19/40 concordantes.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 424,
+    "position": 424,
+    "sfc_jp": "クリアベール",
+    "previous": "Clear Vale",
+    "french": "Vallonclair",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 7,
+        "JA_text": "@1クリアベール@",
+        "FR_text": "@1Vallonclair@",
+        "JA_sha256": "3c40c813d12871b1ac46fc202e8cd31079b674abfb24aa88cb8d89db121d8a2a",
+        "FR_sha256": "52950d266b71ed2302266e86480daeefc2b17c5045f462213b23d72a0e85edbc"
+      },
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 25,
+        "JA_text": "@1クリアベール@",
+        "FR_text": "@1Vallonclair@",
+        "JA_sha256": "3c40c813d12871b1ac46fc202e8cd31079b674abfb24aa88cb8d89db121d8a2a",
+        "FR_sha256": "52950d266b71ed2302266e86480daeefc2b17c5045f462213b23d72a0e85edbc"
+      }
+    ],
+    "source_bytes_sha256": "a36ecb802996654c01ec047b6676c6c0a7ba72415f9560b94b7cc5d6c0d61664",
+    "previous_encoded_hex": "12e2d0012542e2ac",
+    "encoded_hex": "2542e3ea444d424a53ac",
+    "previous_sha256": "e239b1bb76598bc825218d5717efe9fc20be2cd42fe03483bc0ff393917d2504",
+    "encoded_sha256": "17e7a63f2997a91f0a520bee3179b52798bb1116686c4fbb1fd21927ae001302",
+    "old_columns": 10,
+    "new_columns": 11,
+    "storage_delta": 2,
+    "runtime_sids": [
+      424
+    ],
+    "review": "クリアベール : Vallonclair DS, même ville dans les deux mondes, deux libellés DS7/25 concordants.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 428,
+    "position": 428,
+    "sfc_jp": "マウントスノー",
+    "previous": "Mt. Snow",
+    "french": "Montgivré",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 29,
+        "JA_text": "@1マウントスノー@",
+        "FR_text": "@1Montgivré@",
+        "JA_sha256": "ae3ef9e3490c69e54401132f7c9fd153fbd103aef44c1b7b958a7fba7c13c761",
+        "FR_sha256": "79e3c7162132385d8b36552106d247ed8a1a07c8e8164248325be81a53ee18e4"
+      }
+    ],
+    "source_bytes_sha256": "4c8dfbe0547e7e231d8322775b408e5c3ca8a5f720cefe4a97d04f5ea84a1639",
+    "previous_encoded_hex": "1c557f0122e658ac",
+    "encoded_hex": "1cea55484a57532dac",
+    "previous_sha256": "eaeeaf3f57e8b124b369be818ebaf59db4a55839f733ebbc1bfb07f3515fc420",
+    "encoded_sha256": "943c153de3c90dc584d79b322b719cf35dd1a62bc44cd81624f6e974d9c5235b",
+    "old_columns": 8,
+    "new_columns": 9,
+    "storage_delta": 1,
+    "runtime_sids": [
+      428
+    ],
+    "review": "マウントスノー : Montgivré DS, nom de la ville enneigée, accent é conservé.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 434,
+    "position": 434,
+    "sfc_jp": "ムドーのしろ",
+    "previous": "Chateau de Mudo",
+    "french": "Donjon de Meurtor",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 21,
+        "JA_text": "@1ムドーのしろ@",
+        "FR_text": "@1Donjon de Meurtor@",
+        "JA_sha256": "a1ce8b41d6075f7cb8531c41538962a31eda058d1faa61f60d54e3e9f5bc028b",
+        "FR_sha256": "b6f0cbfb4ada28cebbf3e3c7bc2f92f8a93489f2e85613b56a0ddd9a83b589dd"
+      }
+    ],
+    "source_bytes_sha256": "b1ae9d935869e89dbe2e82cf54cd6b661f1e77a87f2485ee98eefb12fe82dbd4",
+    "previous_encoded_hex": "1249d2d756cad61c564550ac",
+    "encoded_hex": "13ea4beacad61c46565355ecac",
+    "previous_sha256": "8bdb2e254c1a7209e31a4fc9c18341cd84f2a01d080195bf43b4a479c86d5890",
+    "encoded_sha256": "b92e017220545f40fb427a74db16e995a709dde51167c613aab36d489909af53",
+    "old_columns": 15,
+    "new_columns": 17,
+    "storage_delta": 1,
+    "runtime_sids": [
+      434
+    ],
+    "review": "ムドーのしろ : Donjon de Meurtor DS. Le propriétaireムドー est Meurtor, sans maintenir Mudo de la translittération héritée.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 441,
+    "position": 441,
+    "sfc_jp": "ガンディーノ",
+    "previous": "Gandino",
+    "french": "Brigandia",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 32,
+        "JA_text": "@1ガンディーノ@",
+        "FR_text": "@1Brigandia@",
+        "JA_sha256": "961df527e87f96235a0bda82cf9cb8f932cfed106abd08930def82b2f1830d47",
+        "FR_sha256": "c6107089c6849b1f2de8c73cfec0f0daf264b0289ad2e48b6d22e404ec821187"
+      }
+    ],
+    "source_bytes_sha256": "8e227a4b0f1b9eb45de002d25968827fff975723105699cacbcac1bbc15dd1e6",
+    "previous_encoded_hex": "16cf45df50ac",
+    "encoded_hex": "11534a48cf454a42ac",
+    "previous_sha256": "fd380155e0e1dbbef9c0a32a716358639a60088ab698caaf2959de2f09b3855e",
+    "encoded_sha256": "258bdf37e71b7da9e1e6b899bae6442c89124933ba7266034f4256cdb09d074c",
+    "old_columns": 7,
+    "new_columns": 9,
+    "storage_delta": 3,
+    "runtime_sids": [
+      441
+    ],
+    "review": "ガンディーノ : Brigandia DS, même ville. Aucun amalgame avec un nom de monstre.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 466,
+    "position": 466,
+    "sfc_jp": "せきしょ",
+    "previous": "Southern Gate",
+    "french": "Poste-frontière",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 41,
+        "JA_text": "@1せきしょ@",
+        "FR_text": "@1Poste-frontière@",
+        "JA_sha256": "7c5f8eb63ef37cf9d4e708824618560ccb5177ac3e5d9c786ff767e2c75fbfc9",
+        "FR_sha256": "241612512996b05db70141c4ca2985755419add24b7b8190fc6ca6c3862717a5"
+      }
+    ],
+    "source_bytes_sha256": "9c9bbedb00be29ca5190bfc56c51a8cb043ecd01727e7764f79d670a334f0e40",
+    "previous_encoded_hex": "22edf9da4f0116d246ac",
+    "encoded_hex": "1f50f5467847f1e74a30f0ac",
+    "previous_sha256": "c0f9abffc3b5c45df215e93fc4f510b7455ab91c89b4be477f0f3ba8eb3dfb88",
+    "encoded_sha256": "591e82f6b2485c1345245607eaae25c7c2df816093a447e29f9dc390ad385af2",
+    "old_columns": 13,
+    "new_columns": 15,
+    "storage_delta": 2,
+    "runtime_sids": [
+      466
+    ],
+    "review": "せきしょ : Poste-frontière DS, nom de lieu; tiret et è conservés. La traduction générique checkpoint ne remplace pas le libellé de carte officiel.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 470,
+    "position": 470,
+    "sfc_jp": "マーズのやかた",
+    "previous": "Granmaz's",
+    "french": "Chez madame Luce",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 16,
+        "JA_text": "@1マーズのやかた@",
+        "FR_text": "@1Chez madame Luce@",
+        "JA_sha256": "f472d1c13d3e20c1f2240974028cc2f41e5f7d4dfedc25a7ac613bd7cdbedb6d",
+        "FR_sha256": "6ef8cf98a5b63e468be984b8813ead960bf9da73875fdd2e4ae9cae49635f1ce"
+      }
+    ],
+    "source_bytes_sha256": "8db017482fd139f6b3e40f8543c5c03050919826120a882041adb0b8996fc12c",
+    "previous_encoded_hex": "16ef4f4e425b7754ac",
+    "encoded_hex": "12dd5b014e4245ced61b56d3ac",
+    "previous_sha256": "81800652187dd7036af9ce771002778f6cc71589a4530945a499fb7256038826",
+    "encoded_sha256": "463d7ebfe334a48f5a6ac041d1fd13377d6c0c957fd47596fd9307d3f8ddc51d",
+    "old_columns": 9,
+    "new_columns": 16,
+    "storage_delta": 4,
+    "runtime_sids": [
+      470
+    ],
+    "review": "マーズのやかた : Chez madame Luce DS, demeure du personnage. Conserve la minuscule de madame de la source française officielle.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 473,
+    "position": 473,
+    "sfc_jp": "メダルおうのしろ",
+    "previous": "Medal King",
+    "french": "Manoir Médaillon",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 6,
+        "JA_text": "@1メダルおうのしろ@",
+        "FR_text": "@1Manoir Médaillon@",
+        "JA_sha256": "d7b1d8af73f39c27dcb4285642a1bb8599d37757fd3f2430648347dc07ae8a28",
+        "FR_sha256": "1e319696f2c1d4908b679f1aaf1788214fba47d87648d36e790f7496bd811c96"
+      }
+    ],
+    "source_bytes_sha256": "6c676360b73e3cf76b39680f14cfe99494502a88d1abbd62dd8a9ac7abef56e1",
+    "previous_encoded_hex": "1cd8424d011adf48ac",
+    "encoded_hex": "1ccfe953011c2d45424ae3eaac",
+    "previous_sha256": "94c9493571dd01647721a2b4a3c5cdbb8f545e53e47c6bfa752cb63b2ed0e1a6",
+    "encoded_sha256": "7c6ac2e47dccadb8170f88e4e8c3222ef03a2244c7736e9765be3e99bf5c8967",
+    "old_columns": 10,
+    "new_columns": 16,
+    "storage_delta": 4,
+    "runtime_sids": [
+      473
+    ],
+    "review": "メダルおうのしろ : Manoir Médaillon DS, demeure du roi des médailles. Le nom complet est conservé, sans le tronquer à Médaillon.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 491,
+    "position": 491,
+    "sfc_jp": "いどのそこ",
+    "previous": "Well Bottom",
+    "french": "Au fond du puits",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 42,
+        "JA_text": "@1いどのそこ@",
+        "FR_text": "@1Au fond du puits@",
+        "JA_sha256": "50de01a7b3004cc3da173c696eb909bb8e2341eaf1c8f4cae92a8146a5493999",
+        "FR_sha256": "3d775ade0d163b55bff0968cc4f9a242796294b20c911556e517ce038a5da46f"
+      }
+    ],
+    "source_bytes_sha256": "07054ba5b9d2ea9b3fcfa99268cb8aeba84e5abf7351b43e17a292fe9d45bacb",
+    "previous_encoded_hex": "2646e30111505555504eac",
+    "encoded_hex": "10560147ea45ca56015156e154ac",
+    "previous_sha256": "0c8aa77e1d21324bed4406293d025d9c299ed77efe69d04087d966ac710c2c8c",
+    "encoded_sha256": "a8f4cc6f28e969681cb2fe16748f708ff4b4afabfb5627e6e63d4464d4d8d43c",
+    "old_columns": 11,
+    "new_columns": 16,
+    "storage_delta": 3,
+    "runtime_sids": [
+      491
+    ],
+    "review": "いどのそこ : Au fond du puits DS, libellé de lieu, pas une phrase du dialogue ni un nom propre de personnage.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 517,
+    "position": 517,
+    "sfc_jp": "まじゅつしのとう",
+    "previous": "Tour du Mage",
+    "french": "Tour des Maléfices",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 8,
+        "JA_text": "@1まじゅつしのとう@",
+        "FR_text": "@1Tour des Maléfices@",
+        "JA_sha256": "d7187a17f5952fff46370083c5915fe7d1ac8c1cdb5cddcddbfa8260e789f468",
+        "FR_sha256": "b9799be030540ef7f4f057f8267dc404668d185341bd2a46815658a26d6fdcf8"
+      }
+    ],
+    "source_bytes_sha256": "bcd03dc50ca41d40ef5a2541309b2cb068564d02b5baefa8fdbd179113507e28",
+    "previous_encoded_hex": "23ed53ca56011c424846ac",
+    "encoded_hex": "23ed53cadb011c424d2d47dedbac",
+    "previous_sha256": "40f2f5e48d5351d679ef61ac10a575cd1b632a7f02f8767487a00f8cb3dbd3dd",
+    "encoded_sha256": "9b4e65c4ae45786ee46b5906d04ecad9a1d8ac3b8aef319902ed258e02281358",
+    "old_columns": 12,
+    "new_columns": 18,
+    "storage_delta": 3,
+    "runtime_sids": [
+      517
+    ],
+    "review": "まじゅつしのとう : Tour des Maléfices DS, même tour. Le pluriel et le é de la liste officielle sont conservés.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  }
+]

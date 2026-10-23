@@ -1,0 +1,134 @@
+{
+  "release": "v0.67",
+  "baseline": "v0.66",
+  "new_place_names": 10,
+  "previous_prepared_resolved": [
+    420,
+    424,
+    428,
+    434,
+    441,
+    466,
+    470,
+    473,
+    491,
+    517
+  ],
+  "new_preparations": 0,
+  "remaining_prepared_places": 7,
+  "storage_adaptations_without_translation": [
+    419,
+    422,
+    427,
+    432,
+    442,
+    444,
+    1570,
+    1576,
+    1579,
+    1581,
+    1585,
+    1589,
+    1592,
+    1604,
+    1605,
+    1611,
+    1620,
+    1627,
+    1628,
+    1639,
+    1714,
+    1716
+  ],
+  "storage_saved_bytes": 26,
+  "new_names_growth_bytes": 26,
+  "net_pool_growth": 0,
+  "preserved_tail_bytes_both_copies": 2050,
+  "main_new": 0,
+  "battle_new": 0,
+  "changes": [
+    {
+      "sid": 420,
+      "previous": "Amoru",
+      "french": "Desmodia",
+      "storage_delta": 3,
+      "old_hex": "104eec56ac",
+      "new_hex": "13db4e50454a42ac"
+    },
+    {
+      "sid": 424,
+      "previous": "Clear Vale",
+      "french": "Vallonclair",
+      "storage_delta": 2,
+      "old_hex": "12e2d0012542e2ac",
+      "new_hex": "2542e3ea444d424a53ac"
+    },
+    {
+      "sid": 428,
+      "previous": "Mt. Snow",
+      "french": "Montgivré",
+      "storage_delta": 1,
+      "old_hex": "1c557f0122e658ac",
+      "new_hex": "1cea55484a57532dac"
+    },
+    {
+      "sid": 434,
+      "previous": "Chateau de Mudo",
+      "french": "Donjon de Meurtor",
+      "storage_delta": 1,
+      "old_hex": "1249d2d756cad61c564550ac",
+      "new_hex": "13ea4beacad61c46565355ecac"
+    },
+    {
+      "sid": 441,
+      "previous": "Gandino",
+      "french": "Brigandia",
+      "storage_delta": 3,
+      "old_hex": "16cf45df50ac",
+      "new_hex": "11534a48cf454a42ac"
+    },
+    {
+      "sid": 466,
+      "previous": "Southern Gate",
+      "french": "Poste-frontière",
+      "storage_delta": 2,
+      "old_hex": "22edf9da4f0116d246ac",
+      "new_hex": "1f50f5467847f1e74a30f0ac"
+    },
+    {
+      "sid": 470,
+      "previous": "Granmaz's",
+      "french": "Chez madame Luce",
+      "storage_delta": 4,
+      "old_hex": "16ef4f4e425b7754ac",
+      "new_hex": "12dd5b014e4245ced61b56d3ac"
+    },
+    {
+      "sid": 473,
+      "previous": "Medal King",
+      "french": "Manoir Médaillon",
+      "storage_delta": 4,
+      "old_hex": "1cd8424d011adf48ac",
+      "new_hex": "1ccfe953011c2d45424ae3eaac"
+    },
+    {
+      "sid": 491,
+      "previous": "Well Bottom",
+      "french": "Au fond du puits",
+      "storage_delta": 3,
+      "old_hex": "2646e30111505555504eac",
+      "new_hex": "10560147ea45ca56015156e154ac"
+    },
+    {
+      "sid": 517,
+      "previous": "Tour du Mage",
+      "french": "Tour des Maléfices",
+      "storage_delta": 3,
+      "old_hex": "23ed53ca56011c424846ac",
+      "new_hex": "23ed53cadb011c424d2d47dedbac"
+    }
+  ],
+  "other2480_name_strings_byte_identical": true,
+  "other2502_glyph_streams_identical": true,
+  "aliases_preserved": 464
+}

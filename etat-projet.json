@@ -1,5 +1,5 @@
 {
-  "release": "v0.66",
+  "release": "v0.67",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
@@ -18,10 +18,10 @@
     ],
     "release_lot_additions": 0
   },
-  "baseline": "v0.65",
+  "baseline": "v0.66",
   "prepared_not_inserted": {
     "main": 0,
-    "separate_places": 17,
+    "separate_places": 7,
     "reviewed_fragments": 0,
     "draft_main": 0,
     "boundary_audit": 0,
@@ -31,31 +31,31 @@
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.66",
+    "inventory_version": "v0.67",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
-    "inserted_place_total": 16,
+    "inserted_place_total": 26,
     "additional_character_names_inserted": 3,
     "spell_action_labels_inserted": 20,
-    "new_this_pass": 8,
-    "prepared_places": 17,
-    "confirmed_french_entries": 47,
+    "new_this_pass": 10,
+    "prepared_places": 7,
+    "confirmed_french_entries": 57,
     "native_grammar_helpers_adapted": 4,
     "prepared_character_names": 0,
     "new_prepared_this_checkpoint": 0,
-    "inventory": "dq6-fr/v0.66/inventaire-noms-v066.json",
+    "inventory": "dq6-fr/v0.67/inventaire-noms-v067.json",
     "explicit_identifier_placeholders": 344,
-    "physical_other_texts_unqualified": 1548,
+    "physical_other_texts_unqualified": 1538,
     "empty_entries_to_qualify": 83,
     "DS_exact_French_candidates_not_qualified": 25,
     "inherited_tail_consumed_bytes_to_audit": 0,
-    "storage_adaptations_this_pass": 0,
+    "storage_adaptations_this_pass": 22,
     "restored_preserved_tail_bytes": 2050
   },
   "rom_bytes": 8388608,
-  "notes": "v0.66 :8lieux préparés intégrés avec noms officiels DS,JP etancienIPS relus.0croissance du pool,tail2050octets conservé.47noms français qualifiés/2048physiques,17lieux préparés restants. Principal6957sélections etcombat597qualifiés inchangés. Diagnostics lecteur2477SIDs,mutationSID16,terrain/B2 huit noms,16captures avant/après,bus6513plages etJournal à froid ; aucune fenêtre naturelle de voyage validée.",
-  "next": "Reprendre v0.66.17lieux préparés demandent stockage/mise en page sans toucher le tail ; tracer27/277 et5slots603–607. Continuer autres tables,inventaire exhaustif,relecture suivie et scènes naturelles. Ne pas recompter les8lieux intégrés.",
+  "notes": "v0.67 :10lieux préparés intégrés,24champsMPT DS et10libellésIPS secondaires revérifiés.22anciens libellés recomprimés sans modification de texte libèrent26octets,absorbés exactement par les10lieux. Taillepool ettail2050octets inchangés.57noms qualifiés/2048physiques,7lieux préparés restants. Lecteur2477SIDs,mutationSID16,32cas terrain/B2 avant/après,64dialogues diagnostiques,bus6513plages etJournal à froid. Principal etcombat inchangés ; aucune scène naturelle validée.",
+  "next": "Reprendre v0.67.7lieux préparés totalisent48octets de croissance estimée,438a22glyphes et479conserve une mise en page98 à établir. Ne pas toucher le tail. Tracer27/277 et5slots603–607,puis autres tables,inventaire exhaustif,relecture suivie et scènes naturelles. Ne pas recompter10lieux/22encodagescomme32traductions.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -86,7 +86,7 @@
   ],
   "proofreading": {
     "exhaustive_pass_completed": false,
-    "reviewed_this_translation_pass": 8,
+    "reviewed_this_translation_pass": 10,
     "translation_reviews_not_a_full_reread": true,
     "full_main_reread_recorded": 0,
     "new_battle_integrated_from_review": 0,
@@ -106,8 +106,8 @@
       607
     ],
     "new_prepared_technical_labels": 0,
-    "storage_adaptations_checked_this_checkpoint": 0,
-    "separate_place_names_reviewed_this_checkpoint": 8
+    "storage_adaptations_checked_this_checkpoint": 22,
+    "separate_place_names_reviewed_this_checkpoint": 10
   },
   "separate_battle_pool": {
     "runtime_entries": 608,
@@ -625,7 +625,7 @@
     "source_JP_outside_pool_audit": 5,
     "source_boundary_report": "dq6-fr/v0.63/audit-frontiere-source.json"
   },
-  "checkpoint": "lieux-v066",
+  "checkpoint": "lieux-stockage-v067",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",

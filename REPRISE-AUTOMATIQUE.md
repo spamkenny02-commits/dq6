@@ -1,3 +1,11 @@
+# Reprise v0.67 — dix lieux intégrés,22encodages équivalents
+
+Lire dq6-fr/v0.67/README.md,revue-lieux-v067.json,revue-stockage.json,delta,inventaire etQA. Reprendre BPSv067 surJP intacte.10anciens lieux préparés intégrés :Desmodia420,Vallonclair424,Montgivré428,Donjon de Meurtor434,Brigandia441,Poste-frontière466,Chez madame Luce470,Manoir Médaillon473,Au fond du puits491,Tour des Maléfices517. Japonais SFC/DS exacts,24champsMPT JA/FR relus directement dansDS,ancienIPS secondaire.7lieux préparés restent ;aucune nouvelle préparation.
+
+22anciens noms (6lieux,16sorts/actions) sont recomprimés sans changement des flux développés.26octets récupérés,26octets absorbés par les10lieux :tail0x3BBF10..0x3BC712 ettaillepool inchangés. Ne pas compter22encodagescomme22traductions.2502autres flux de glyphes et2480autres chaînes brutes identiques ;464alias préservés,2048physiques/2512SIDs. Noms57confirmés,344identifiants,1538autres,25candidatsFR,83videsàqualifier,1créditretiré. Principal6957sélections (6948linguistiques/9structures),combat597qualifiés/2préparés/5opaques/4structures inchangés. Relecture exhaustive0,4aides et16compositions inchangées.
+
+Snes9x :2477SIDs statiques et15242octets lus,35dynamiques exclus ;mutationSID16 détectée.32noms terrain/B2 avant/après,64dialogues diagnostiques et22paires de pixels inchangées ;10nouveaux noms relus visuellement. Bus6513plages etJournal à froid. Aucun menu de voyage naturel ni autre consommateur globalement validé. Reprendre7lieux (48octets estimés,438largeur22 et479commande98),autres tables,relecture etaudits hérités. Protéger tail,moteurv061 etpoolcombat ;8Mio.
+
 # Reprise v0.66 — huit noms de lieux intégrés
 
 Lire dq6-fr/v0.66/README.md,revue-lieux-v066.json,delta,inventaire etQA. Reprendre le BPSv066 surJP intacte. SIDs417/418/423/425/426/430/443/450 :Puidebourg,Pierrebrute,Milmarin,Sorcéria,Aridéa,Mélankolia,Zénithia,Fort-Terreur. Références japonaises SFC etDS exactes,FRDS extrait directement de la ROM,ancienIPS secondaire.8préparations résolues ;17restent,aucune nouvelle préparation. Ne pas recycler ces8noms.
