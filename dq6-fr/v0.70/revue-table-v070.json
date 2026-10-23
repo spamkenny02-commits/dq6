@@ -1,0 +1,730 @@
+[
+  {
+    "sid": 544,
+    "position": 544,
+    "french": "gluant marin",
+    "previous": "Marine Slime",
+    "sfc_jp": "マリンスライム",
+    "review": "Gluant marin : variante marine du gluant, distinct du coquigluant voisin. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 180,
+        "JA_text": "@1マリン;スライム@",
+        "FR_text": "@0M@2le @3un @4gluant marin@5les @6des @7gluants marins@8N@9N@",
+        "JA_sha256": "b7b4381933dded2d3b3a24518cd2a456dad13d934049cfe5104e75b29cb0df41",
+        "FR_sha256": "63565fb0115f06caf5c515d71b5f58aa05829d9e52a204357265f7eb1bdda04a"
+      }
+    ],
+    "old_encoded_hex": "1cd0dfd6224d4a4e46ac",
+    "encoded_hex": "484d56cff74ed0dfac",
+    "old_sha256": "379952be0a115cbca11c561bdbeb47c7bb8610b79032af4a18e52d9cc7a706af",
+    "new_sha256": "1addd544f52a7c14bfab17fd8a5db6a783dfd8634f5deadd5be77f3e48f3c41d",
+    "old_columns": 12,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 545,
+    "position": 545,
+    "french": "coquigluant",
+    "previous": "Slime Snail",
+    "sfc_jp": "スライムつむり",
+    "review": "Coquigluant : gluant à coquille, pas un escargot générique. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 91,
+        "JA_text": "@1スライム;つむり@",
+        "FR_text": "@0M@2le @3un @4coquigluant@5les @6des @7coquigluants@8N@9N@",
+        "JA_sha256": "bb3c3221860b855578451f58217807ae9497232c8984d7cd5798adc38ba3d442",
+        "FR_sha256": "b5e268a06359de93cfb2c41ca3e59f55a26cea36ea43f6a09a5f311d8d1b5d7e"
+      }
+    ],
+    "old_encoded_hex": "224d4a4ed6224f424a4dac",
+    "encoded_hex": "445052564a484d56cf55ac",
+    "old_sha256": "c17603c8e75ecaa2c405c3cda6da746b872ca59de9922825018fbdd9959e7b0f",
+    "new_sha256": "fb9118341a873b328f01da423af0d1182a58607e73c233f5d05fea8e4092c2c4",
+    "old_columns": 11,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 546,
+    "position": 546,
+    "french": "aquapode",
+    "previous": "Sea Flower",
+    "sfc_jp": "シーフラワー",
+    "review": "Aquapode : espèceシーフラワー, distincte des autres gastéropodes. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 173,
+        "JA_text": "@1シーフラワー@",
+        "FR_text": "@0M@2l'@3un @4aquapode@5les @6des @7aquapodes@8N@9Y@",
+        "JA_sha256": "076329eaa6ff25d2fa90dd5e19fccf6eb33d88592aeb06180aa89112c3c4e617",
+        "FR_sha256": "92f071bc9b94c6416ecd3840eb3d90d63fe8d94f94b231ecf3f889d5d9617b82"
+      }
+    ],
+    "old_encoded_hex": "22d701154deedaac",
+    "encoded_hex": "4252564251504546ac",
+    "old_sha256": "e67edcd270671bee0ff4fc4eb07ec46a41434042246323490c7d3a9575718346",
+    "new_sha256": "f356efff8abec71532f03510f89d83d0f481db9dfad00ff2162f506a3eb8f8e4",
+    "old_columns": 10,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 548,
+    "position": 548,
+    "french": "dingopode",
+    "previous": "Tail Eater",
+    "sfc_jp": "テールイーター",
+    "review": "Dingopode : espèceテールイーター ; nom officiel DS conservé. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 18,
+        "JA_text": "@1テール;イーター@",
+        "FR_text": "@0M@2le @3un @4dingopode@5les @6des @7dingopodes@8N@9N@",
+        "JA_sha256": "615373b26c569108e69c54274eb09170c61b87029efc2e25871ad2f84a298c5f",
+        "FR_sha256": "f2c4425ad4ed212a3f6e817a380f8c3c25af680464e160cd425b961f8c63ec9e"
+      }
+    ],
+    "old_encoded_hex": "23424a4d0114d2daac",
+    "encoded_hex": "45df485051504546ac",
+    "old_sha256": "c9378e8352dce918167b14acd81915671d9c9ecd032d39ea2fae51a018e681b3",
+    "new_sha256": "535fa03b7530b402926e54ae12f8dbd29502dd49f0903fc6de547a4b114307ed",
+    "old_columns": 10,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 550,
+    "position": 550,
+    "french": "salchodron",
+    "previous": "Aqua Hunter",
+    "sfc_jp": "アクアハンター",
+    "review": "Salchodron : アクアハンター, distinct du chodronmagik549 à commande de ligne. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 187,
+        "JA_text": "@1アクア;ハンター@",
+        "FR_text": "@0M@2le @3un @4salchodron@5les @6des @7salchodrons@8N@9N@",
+        "JA_sha256": "9d66a41eede1956eb8751d5c0a0964ba3ecfeea85846c2dfe1a30d8c471b2b52",
+        "FR_sha256": "764457f547e7a3e5f2527e2fbf7f1aaaefed96eba4b66aa269cf0256a9703743"
+      }
+    ],
+    "old_encoded_hex": "10525642011756e7daac",
+    "encoded_hex": "54424dd45045f14fac",
+    "old_sha256": "ac3fd088abee9bc41a70553f1affcc92663c582858563164aaecf8012236b012",
+    "new_sha256": "b4605aef2e57b94f043658ca6130af6428f2001e49d2a49a23a17d27cbab562e",
+    "old_columns": 11,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 555,
+    "position": 555,
+    "french": "toxinavet",
+    "previous": "Poison Carrot",
+    "sfc_jp": "ポイズンキャロット",
+    "review": "Toxinavet : carotte empoisonnée, distincte de la povkarotte554. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 69,
+        "JA_text": "@1ポイズン;キャロット@",
+        "FR_text": "@0M@2le @3un @4toxinavet@5les @6des @7toxinavets@8N@9N@",
+        "JA_sha256": "f2466f7e3e52a5c7910f2161f09ffb08423ffaf9867a7be24d515671027b18d0",
+        "FR_sha256": "ac7ac565cbf3b296874861ae02d7709149978b755364888e7670c285c1d812df"
+      }
+    ],
+    "old_encoded_hex": "1fe9f44f0112d0f155ac",
+    "encoded_hex": "555059df42574655ac",
+    "old_sha256": "5a96f2f39aaedc856572ab251c0ec070a552203584afd4d3ef8f339a9e5f39cc",
+    "new_sha256": "b89f7dd0f0cc009ba9a5dcc7a46d5f58309128e668d867299d9f023ae374b49a",
+    "old_columns": 13,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 559,
+    "position": 559,
+    "french": "gluante",
+    "previous": "Red Slime",
+    "sfc_jp": "スライムベス",
+    "review": "Gluante : varianteスライムベス, distincte du gluant standard et du gluant moucheté. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 20,
+        "JA_text": "@1スライム;ベス@",
+        "FR_text": "@0F@2la @3une @4gluante@5les @6des @7gluantes@8N@9N@",
+        "JA_sha256": "11140f775f25e6636025fa2cf7c3e21387ec52a5d55d59e163058cfc52a89be4",
+        "FR_sha256": "4ed085984caab64e5310f0882ed297cf268f6931154ff49a73c3b43a0271d850"
+      }
+    ],
+    "old_encoded_hex": "21d801224d4a4e46ac",
+    "encoded_hex": "484d56cff8ac",
+    "old_sha256": "6a5b02b08740fefeec735ac039947b278e91df5c113718be953a3b777f0fef91",
+    "new_sha256": "b8ab5170dbe1c9440c3b4e22c34c4da6eca41f017a9006f5d1d3300aaef187fe",
+    "old_columns": 9,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 572,
+    "position": 572,
+    "french": "méduse",
+    "previous": "Man O' War",
+    "sfc_jp": "しびれくらげ",
+    "review": "Méduse : ennemiしびれくらげ paralysant, pas un bateau malgré ancien Man O’ War. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 186,
+        "JA_text": "@1しびれ;くらげ@",
+        "FR_text": "@0F@2la @3une @4méduse@5les @6des @7méduses@8N@9N@",
+        "JA_sha256": "f05e701d4064e1980842994169d8fb4b27d90c2eec2a8ca948c5d50014815e19",
+        "FR_sha256": "4a78133c3ecbdf59564dbcf22304f26cc6c30b97143c9b2d31771ff93850a423"
+      }
+    ],
+    "old_encoded_hex": "1ccf011e770126d0ac",
+    "encoded_hex": "4e2d45fa46ac",
+    "old_sha256": "941a57f2de3ceb9f970610f3eda6effd3b55832d55949f965274ba7921fa1350",
+    "new_sha256": "6074dfff19dd917c96b0fc672c53a9f41b7e9a2b25efa4e2d25d56766ae30786",
+    "old_columns": 10,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 578,
+    "position": 578,
+    "french": "iguaraptor",
+    "previous": "Chaos Lizard",
+    "sfc_jp": "メダパニとかげ",
+    "review": "Iguaraptor : lézardメダパニ, distinct de l’iguanosaure577. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 88,
+        "JA_text": "@1メダパニ;とかげ@",
+        "FR_text": "@0M@2l'@3un @4iguaraptor@5les @6des @7iguaraptors@8N@9Y@",
+        "JA_sha256": "99a0ad644e61ada08a1acd8799f1ff40325929b849c253b8773a0a7fcf690084",
+        "FR_sha256": "10cfe3781a3a623a91af7288727c4f2c43d247e890dcd1a2ead7f65ba55d315c"
+      }
+    ],
+    "old_encoded_hex": "12494250f21b4a5bd045ac",
+    "encoded_hex": "4a4856d0425155ecac",
+    "old_sha256": "09ec0a958c55ae4961a82e9edce16c0f6bbb8bd290956effb02bddacd6478fb2",
+    "new_sha256": "d6bd96656138443ed8c779d60540d9fdfeff1dda5fd9a4ba632605e778a3fa2c",
+    "old_columns": 12,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 584,
+    "position": 584,
+    "french": "ombre",
+    "previous": "Shadow",
+    "sfc_jp": "シャドー",
+    "review": "Ombre : シャドー, distincte du spectre585. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 30,
+        "JA_text": "@1シャドー@",
+        "FR_text": "@0F@2l'@3une @4ombre@5les @6des @7ombres@8N@9Y@",
+        "JA_sha256": "fda51368c30735482fe9b229896dec748b4a0d90f23cf391d28f4b3d8beb5e18",
+        "FR_sha256": "1be02619adbdb85855074f100576484dba68b89ed52937bea3cb0a2a6349881e"
+      }
+    ],
+    "old_encoded_hex": "22494245eeac",
+    "encoded_hex": "504e43f0ac",
+    "old_sha256": "f4e3604cefd8fba00c8a626418a657b7ae2f5fb2c0de970b5dfd611413bf51cf",
+    "new_sha256": "13a9660a6d61b5aa87c2851a95e556d0d23a99f5d23f80b95b4d2d7a797fda1f",
+    "old_columns": 6,
+    "new_columns": 5,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 585,
+    "position": 585,
+    "french": "spectre",
+    "previous": "Hologhost",
+    "sfc_jp": "ホロゴースト",
+    "review": "Spectre : ホロゴースト, distinct de l’ombre584. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 149,
+        "JA_text": "@1ホロゴースト@",
+        "FR_text": "@0M@2le @3un @4spectre@5les @6des @7spectres@8N@9N@",
+        "JA_sha256": "24886744a7688c285b02a8b75d3f928c98e1d412bf6eab3c835c3666e44a8ed4",
+        "FR_sha256": "60ecabf43eaf5fceaefb3181187c6aafca9f48f9a33c2d4e5de3942996a874ee"
+      }
+    ],
+    "old_encoded_hex": "17504d50dc50f5ac",
+    "encoded_hex": "5451464455f0ac",
+    "old_sha256": "81f8b94cecbe5e6582258b27ac6152463b4bad8a95de5794fd08c37181ce2ceb",
+    "new_sha256": "55e3f4a683612beddc3170ea43515ad96ae4f5610d8bb109003128b15c15732f",
+    "old_columns": 9,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 586,
+    "position": 586,
+    "french": "Milo",
+    "previous": "Zuikaku",
+    "sfc_jp": "ズイカク",
+    "review": "Milo : bossズイカク, associé à Kapout587 ; nom propre DS complet. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 235,
+        "JA_text": "@1ズイカク@",
+        "FR_text": "@0M@4Milo@7Milo@8N@9N@",
+        "JA_sha256": "14f58412d0858cf80abe3929ee3c61775f407ec46b676f3e7ad397ea48eb03a0",
+        "FR_sha256": "e6975a990264a6992a7651b55b7529cb8b386cf4af64583226ccdddfe179e7e2"
+      }
+    ],
+    "old_encoded_hex": "29564a4c424c56ac",
+    "encoded_hex": "1c4a4d50ac",
+    "old_sha256": "e6cda6655cc900b0ad02ff38255000272e8dcfe7d61587742718f381296c9a6a",
+    "new_sha256": "5eb1906c59fe55f2c31b98cfbbfddd6648496f68f2047831cf36dd11f9363a64",
+    "old_columns": 7,
+    "new_columns": 4,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 587,
+    "position": 587,
+    "french": "Kapout",
+    "previous": "Shoukaku",
+    "sfc_jp": "ショウカク",
+    "review": "Kapout : bossショウカク, associé à Milo586 ; nom propre DS complet. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 236,
+        "JA_text": "@1ショウカク@",
+        "FR_text": "@0M@4Kapout@7Kapout@8N@9N@",
+        "JA_sha256": "ae1017bbdb9227e00ae160bb88c494dc60fd3051e9a6d8e4a7b4091d080ac424",
+        "FR_sha256": "47677679af2698f35f62266143925220743b356ec0c6d457796eeb9325f28e9e"
+      }
+    ],
+    "old_encoded_hex": "2249ed4c424c56ac",
+    "encoded_hex": "1a4251ed55ac",
+    "old_sha256": "8e4eda431889742004135688507ae1d92fe72b70d686e641fcc6cfc56ca0779a",
+    "new_sha256": "7dfa6b00e4b503afbe30fab4d6bf46d204a5dc7ae0aed4e096cd3131e5596fb0",
+    "old_columns": 8,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 589,
+    "position": 589,
+    "french": "limassif",
+    "previous": "Super Tensk",
+    "sfc_jp": "スーパーテンツク",
+    "review": "Limassif : stadeスーパーテンツク, distinct du limasson588 et limastard590. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 64,
+        "JA_text": "@1スーパー;テンツク@",
+        "FR_text": "@0M@2le @3un @4limassif@5les @6des @7limassifs@8N@9N@",
+        "JA_sha256": "fdf8a8fc1a0afe064207645972cd4aca2924e041062900513071cb1785a81a62",
+        "FR_sha256": "d837a57c04f8846287e45b573df870c6f660142efda04b7ecf1fd9c11fec31e5"
+      }
+    ],
+    "old_encoded_hex": "225651da0123464f544cac",
+    "encoded_hex": "4d4a4ed1544a47ac",
+    "old_sha256": "368c9d613bd2bbaac2c555ea21d41ba956a8f7e56e3ceadd13731b294cc741e6",
+    "new_sha256": "a8804afeb084f8be9b6b2a6ec2ca07f645d1399f0adcaf84f3d861164f855a52",
+    "old_columns": 11,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 590,
+    "position": 590,
+    "french": "limastard",
+    "previous": "Last Tensk",
+    "sfc_jp": "ラストテンツク",
+    "review": "Limastard : stadeラストテンツク, distinct de limassif589. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 142,
+        "JA_text": "@1ラスト;テンツク@",
+        "FR_text": "@0M@2le @3un @4limastard@5les @6des @7limastards@8N@9N@",
+        "JA_sha256": "ca66917c890b153e9da9ccd853f260f25ca211d82a413737edf6dd7dcd2a26d1",
+        "FR_sha256": "912d67d3e028646958762238db44b9e5957ae43450506119db72b9d6bc990330"
+      }
+    ],
+    "old_encoded_hex": "1bd1f723464f544cac",
+    "encoded_hex": "4d4a4ed155d045ac",
+    "old_sha256": "a40b9c6da8adba3a54251bb33b6cadff0ec5259a0cbaeb8061d750f0ff3e99a5",
+    "new_sha256": "289543d429ac7a8df0a8c84919aac48aee12a9306738310b1cc570ba8615cce0",
+    "old_columns": 10,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 592,
+    "position": 592,
+    "french": "mouillebave",
+    "previous": "Ghost Manatee",
+    "sfc_jp": "おばけうみうし",
+    "review": "Mouillebave : おばけうみうし, famille des bisebaves/lèchebaves. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 175,
+        "JA_text": "@1おばけ;うみうし@",
+        "FR_text": "@0M@2le @3un @4mouillebave@5les @6des @7mouillebaves@8N@9N@",
+        "JA_sha256": "9fa5431e7b558054e974d254c7cbde04b8b1e494903928a0b817df24146e70e9",
+        "FR_sha256": "f4e77923969ed77c11ad3cccc8a5fe14dc184f2d62ef7a0369e2df3765d94841"
+      }
+    ],
+    "old_encoded_hex": "164950f5011ccfd2d9ac",
+    "encoded_hex": "4eed4ae34643425746ac",
+    "old_sha256": "4438bab4ce2fd48bd94ece0ea9d85957f082bc1aa7d257c458865f49dd619e49",
+    "new_sha256": "cef8cec855741b32e2d72c57fa02fff1d1353d17ed727d857c86d6f3757856e7",
+    "old_columns": 13,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 595,
+    "position": 595,
+    "french": "porcinglé",
+    "previous": "Berserk Orc",
+    "sfc_jp": "バーサクオーク",
+    "review": "Porcinglé : バーサクオーク, distinct du porcelaid594. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 135,
+        "JA_text": "@1バーサク;オーク@",
+        "FR_text": "@0M@2le @3un @4porcinglé@5les @6des @7porcinglés@8N@9N@",
+        "JA_sha256": "b3959720fe74f7d05028660ca52ef63018cda0aa6a3a0f30c8f1383a4dc5d1e9",
+        "FR_sha256": "ad61b452d9539f984f4c33ba06a588f6ff049033e62c4532154e665b7fd91506"
+      }
+    ],
+    "old_encoded_hex": "11da54da4c011e5344ac",
+    "encoded_hex": "51ec44df484d2dac",
+    "old_sha256": "0423470f1e127748cde43802da06795705ae505109c86f8eeefccb07ec719dfd",
+    "new_sha256": "2edbaf27f80f325b9417c82a22d224d0c6abece6a11365c8f96fb1a8277c4b21",
+    "old_columns": 11,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 596,
+    "position": 596,
+    "french": "rétroterreur",
+    "previous": "Demon Mirror",
+    "sfc_jp": "あくまのカガミ",
+    "review": "Rétroterreur : miroir démoniaqueあくまのカガミ, distinct des deux autres miroirs597/598. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 51,
+        "JA_text": "@1あくまの;カガミ@",
+        "FR_text": "@0M@2le @3un @4rétroterreur@5les @6des @7rétroterreurs@8N@9N@",
+        "JA_sha256": "a3c27dc7d9219360fb9e3bff390926b5cdbba62476b51ec5d49d4d4f0b7aa4cc",
+        "FR_sha256": "cce377b77b86ba43e438ff340aafff6409b4b064341ad7e45f79b20cdd61ec1f"
+      }
+    ],
+    "old_encoded_hex": "13464eea011c4a53f153ac",
+    "encoded_hex": "532d55f1f853f05653ac",
+    "old_sha256": "5a48272fa9927655a229360fd8c45f21d3ca6431ebd021b687366922b1d4c000",
+    "new_sha256": "e75634f3343d7ac10d3c364dcb0cc09fd808db1d0fab773072db7468db3bc758",
+    "old_columns": 12,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 598,
+    "position": 598,
+    "french": "refléfatal",
+    "previous": "Cursed Mirror",
+    "sfc_jp": "のろいのカガミ",
+    "review": "Refléfatal : miroir mauditのろいのカガミ, distinct du rétroterreur596. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 112,
+        "JA_text": "@1のろいの;カガミ@",
+        "FR_text": "@0M@2le @3un @4refléfatal@5les @6des @7refléfatals@8N@9N@",
+        "JA_sha256": "50f70083313a7da0f28eefd9f2b96e827ff63dd7c18054092772192c7c0e8de4",
+        "FR_sha256": "5b45f43f50bac4949d58824982af8a03ff08a8bece51d89e7f37c697ad8243b9"
+      }
+    ],
+    "old_encoded_hex": "12565354d8011c4a53f153ac",
+    "encoded_hex": "f0474d2d47d2424dac",
+    "old_sha256": "b4518887c3646864479ccb8c4b803e3631d8980de1dba49e4ae0ee50eb3a8928",
+    "new_sha256": "84faee33edabcf58caa24e482a1ec8d0558da7534ad37f7de5d78dc248dc6b4b",
+    "old_columns": 13,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 600,
+    "position": 600,
+    "french": "toxiguêpe",
+    "previous": "Posion Killer",
+    "sfc_jp": "ポイズンキラー",
+    "review": "Toxiguêpe : ポイズンキラー, distinct du frelon de l’enfer599. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 77,
+        "JA_text": "@1ポイズン;キラー@",
+        "FR_text": "@0F@2la @3une @4toxiguêpe@5les @6des @7toxiguêpes@8N@9N@",
+        "JA_sha256": "1440b34c6dec8d19f85dd4429fac20419c049ebf8c6b7a3fb3ca2efa070c9b7e",
+        "FR_sha256": "905e85f763d40abc731b6686fb8dac6538e37f5621de2944ef41d0afc830d2af"
+      }
+    ],
+    "old_encoded_hex": "1f50544aea011a4ae3daac",
+    "encoded_hex": "5550594a4856335146ac",
+    "old_sha256": "804d8cf4ff6133522a0553f4131b4b396ac894fe7eaa64a060a344417431327c",
+    "new_sha256": "79efac1719ffb07aeb762e0ff53930d3b83cef0c4eb136adc730937032df1179",
+    "old_columns": 13,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 601,
+    "position": 601,
+    "french": "monte-gluant",
+    "previous": "Slime Knight",
+    "sfc_jp": "スライムナイト",
+    "review": "Monte-gluant : スライムナイト, distinct de la variante métallique602. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 22,
+        "JA_text": "@1スライム;ナイト@",
+        "FR_text": "@0M@2le @3un @4monte-gluant@5les @6des @7monte-gluants@8N@9N@",
+        "JA_sha256": "34d2897385f6df1e3821401e7cfd2c8548976f1be5336e67697dfa5fd587b8e6",
+        "FR_sha256": "e59633cf48ae80bf2cd3e2d13705b86e41202d8e1b5218303bacb0ca389ccc74"
+      }
+    ],
+    "old_encoded_hex": "224d4a4ed61a4f4adc55ac",
+    "encoded_hex": "4eeaf878484d56cf55ac",
+    "old_sha256": "956ba12afab4e4f2735e7d5aaf1a0d39047c45e55d46fbdb723aee4c1d18968d",
+    "new_sha256": "40c22b14c407cd2f61d965a12f6fd1a72904357886f5023c1d06dd4c841dd105",
+    "old_columns": 12,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 604,
+    "position": 604,
+    "french": "cupitron",
+    "previous": "Dog Sniper",
+    "sfc_jp": "ドッグスナイパー",
+    "review": "Cupitron : ドッグスナイパー, distinct du cupimonstre603. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 54,
+        "JA_text": "@1ドッグ;スナイパー@",
+        "FR_text": "@0M@2le @3un @4cupitron@5les @6des @7cupitrons@8N@9N@",
+        "JA_sha256": "98a6156e66ac658ca7153fd94677965d38a22b55c1c59645d758b1ff6b2fbaf9",
+        "FR_sha256": "77194acf1a3f12e690adcdc9ca45297222c0f26c74021caf1d8752e9313ac9df"
+      }
+    ],
+    "old_encoded_hex": "13504801224f4a51daac",
+    "encoded_hex": "445651e1f14fac",
+    "old_sha256": "d2c01e2aac362708a5c702cfd9c488957ed2037c66644097caebb27bb8d704e9",
+    "new_sha256": "ddf96c4cf21fd13879ec9075e6384ebb0031783678b10397183c1e58a0e859ab",
+    "old_columns": 10,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 610,
+    "position": 610,
+    "french": "flammulus",
+    "previous": "Gas Cloud",
+    "sfc_jp": "ギズモ",
+    "review": "Flammulus : ギズモ, famille gaz nuageux ; distinct des variantes chaud/froid611/612. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 11,
+        "JA_text": "@1ギズモ@",
+        "FR_text": "@0M@2le @3un @4flammulus@5les @6des @7flammulus@8N@9N @",
+        "JA_sha256": "7c696d6342b6e29c9baca2e52c5946957f92682dec5996edce270c9e3d83419b",
+        "FR_sha256": "6fcc4c5a780483b5aa7710b5ad086d0c3a758ad1997bd64da2ffe00c460dc855"
+      }
+    ],
+    "old_encoded_hex": "16d101124ded45ac",
+    "encoded_hex": "474dce4e564dfaac",
+    "old_sha256": "99261e664987f8de042e39edc4d6aa06d15c9e432cdc8fec241b405c6d88c37b",
+    "new_sha256": "24fdeb4af7096b66b673650f9804f3922d4e1986dc800f7a85d22f10064fbc61",
+    "old_columns": 9,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 611,
+    "position": 611,
+    "french": "cramulus",
+    "previous": "Heat Cloud",
+    "sfc_jp": "ヒートギズモ",
+    "review": "Cramulus : ヒートギズモ, variante chaude du flammulus. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 45,
+        "JA_text": "@1ヒートギズモ@",
+        "FR_text": "@0M@2le @3un @4cramulus@5les @6des @7cramulus@8N@9N@",
+        "JA_sha256": "e181a78f0f5bc27b6b62eb5b5bb9ad5aa4972b11df9543257439c1e47381fc32",
+        "FR_sha256": "6f759cdcfc238d980ee115107f7df9e3a241854159a6479517fa739e8e94a003"
+      }
+    ],
+    "old_encoded_hex": "17d7f7124ded45ac",
+    "encoded_hex": "44ef4e564dfaac",
+    "old_sha256": "4933b3dc737a614a6ebe6301fb24822c0afe015b590961de67e73412f24dd2a5",
+    "new_sha256": "fdecdf3431eeed9e01d4820c89b8cbe54a93947df8f2635d54e3e6cc15a1e65e",
+    "old_columns": 10,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 612,
+    "position": 612,
+    "french": "brumulus",
+    "previous": "Frost Cloud",
+    "sfc_jp": "フロストギズモ",
+    "review": "Brumulus : フロストギズモ, variante froide du flammulus. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 118,
+        "JA_text": "@1フロスト;ギズモ@",
+        "FR_text": "@0M@2le @3un @4brumulus@5les @6des @7brumulus@8N@9N@",
+        "JA_sha256": "8daf69ace45036bb2ff48dfaee14e1e29debf9e6e4b3b3884ac727f5ef9f30c2",
+        "FR_sha256": "727e3b2d690993fe2b67fb83dbb1f2a795f2308f1eaeebb4b97b7a48db8db204"
+      }
+    ],
+    "old_encoded_hex": "15f1f501124ded45ac",
+    "encoded_hex": "4353564e564dfaac",
+    "old_sha256": "1348b13f4b5f98c5cadffae47551b4002f02b5b37f8f9ffc6d164e91582891f4",
+    "new_sha256": "57154ae87da6e610897ad022da558683c074046676519dbe9b50b797225cdaed",
+    "old_columns": 11,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 614,
+    "position": 614,
+    "french": "mâchosaure",
+    "previous": "King Eater",
+    "sfc_jp": "キングイーター",
+    "review": "Mâchosaure : キングイーター, distinct du bâillosaure613. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 103,
+        "JA_text": "@1キング;イーター@",
+        "FR_text": "@0M@2le @3un @4mâchosaure@5les @6des @7mâchosaures@8N@9N@",
+        "JA_sha256": "94cda79664fc021ec570216cdaceed0c57cf85081cea7c39bb980f4d5ff118ed",
+        "FR_sha256": "c5e70a1e2316d359df15804bd8045d2653bd8480a9e295f134c924aa86610b5f"
+      }
+    ],
+    "old_encoded_hex": "1adf480114d2daac",
+    "encoded_hex": "4e35d450544256f0ac",
+    "old_sha256": "81b4849abe961fb7bbd694ae875f355708446e36cdefcd2c69493fbadad91ab2",
+    "new_sha256": "384daf5e17a0639c420f98d47b248b8978fb4dae96f349c2460ccfd1b91d150a",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 619,
+    "position": 619,
+    "french": "salgouille",
+    "previous": "Dark Goyle",
+    "sfc_jp": "ダークゴイル",
+    "review": "Salgouille : ダークゴイル, distinct des variantes minigouille618/malgouille620. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 86,
+        "JA_text": "@1ダークゴイル@",
+        "FR_text": "@0F@2la @3une @4salgouille@5les @6des @7salgouilles@8N@9N@",
+        "JA_sha256": "7878d3bcced9166ae76c6aefbf34fe59d8d21c6e685e8e2582758cafd9833322",
+        "FR_sha256": "21da1e00ee338bbe5a7d4b2464bb3f7f023edcd6aaefffa04bf6b7e32a30480e"
+      }
+    ],
+    "old_encoded_hex": "13d04c0116505ae2ac",
+    "encoded_hex": "54424d48ed4ae346ac",
+    "old_sha256": "a6cdd8ed0a454140e05e382527611e93d6d67aa81e55ea052e9e3e5725ba07fe",
+    "new_sha256": "8035e33814a64668fc1c93b067bb57066718e77ee1c20d2cf4d4eda704642a89",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 620,
+    "position": 620,
+    "french": "malgouille",
+    "previous": "Killer Bat",
+    "sfc_jp": "キラーバット",
+    "review": "Malgouille : キラーバット, distinct de salgouille619. Correspondance JP complète avec la DS ; singulier@4 seul, articles/pluriel/balises DS non injectés. Largeur non augmentée. Accords contextuels naturels à auditer.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 141,
+        "JA_text": "@1キラーバット@",
+        "FR_text": "@0F@2la @3une @4malgouille@5les @6des @7malgouilles@8N@9N@",
+        "JA_sha256": "ce96db89abbc4d2449cb93e66d77818613a0852153a8a439abfb5f82318264a5",
+        "FR_sha256": "dc7cea0e66634a3abf4bf95e59c82a60e8b951e225a2e724f806776f92038d2b"
+      }
+    ],
+    "old_encoded_hex": "1a4ae3da0111d2ac",
+    "encoded_hex": "4e424d48ed4ae346ac",
+    "old_sha256": "55ce984ebe14e044be1176b87d189c18147046796fd00e98fa8d052e42409f8e",
+    "new_sha256": "c712c7cce9772dbe088baed8b8240a6884283d3c373fe0c46d9151d7333d0004",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  }
+]

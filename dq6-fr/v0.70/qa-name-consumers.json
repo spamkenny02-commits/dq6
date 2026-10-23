@@ -1,0 +1,515 @@
+{
+  "release": "v0.70",
+  "ROM_sha256": "60400c5d2bad8c0e68b5b3c1e6d050a8e1b2e8fe535dba38c5136d5ed70b3069",
+  "field_consumer": "C3763A, actual JSL including C0315E/C031DB and C376F2",
+  "B2_consumer": "C6FDF0, actual JSL including C0315E/C031DB and existing DTE dictionary",
+  "rows": [
+    {
+      "stage": "before",
+      "sid": 544,
+      "native_field_glyphs_checked": 12,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "bbed8cf9b9adba19693c3fb43e1143cdfe04fb80004c603e1b05c26a95c7796f",
+      "B2_buffer_sha256": "d3b944ab402526f9316d8bff4d1cd9a59be294e24964a7a4e32c792bf93067ab",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 545,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "abcd18c29a373842f023a5ad9533cfc53b7bb6781865c923b74c542f7bf34c0f",
+      "B2_buffer_sha256": "fada6ba97928fc5d631fc894925a165b675273d15a34c9f57f2a18579c130675",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 546,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "3873745065519272297e4200ba43b3359a5b2491f8a3cee2b93b65a47be035e4",
+      "B2_buffer_sha256": "0714bcd3ecfaee2d2daf7c6d49df1abb1cd0d16248f2c1c4378b9265f0574b27",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 548,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "bcfdbfc72e7580451b3be605f280ca5220faca9f25d70f6ed61cf6631baba5bf",
+      "B2_buffer_sha256": "a45a083873c6bf07a4ba5d250f2f1ec476bf0a0b4b3ea348ae3d17b33b2bc4c7",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 550,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "325f10d2ecce407bb0d3b432f5c9de8691abb066c334effbbd0eb062e865b6ea",
+      "B2_buffer_sha256": "20a2214143842b41a7991e9546829b39a61eba16864d3519a98aa64f4cf5c9bd",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 555,
+      "native_field_glyphs_checked": 13,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "4ced997c9ae04b694b77da5280fb5c0edb97dadffb0b201196c61107eb0a04bb",
+      "B2_buffer_sha256": "19404f835c094c0331a075b65462f47e0d4625b0b121fb3a3f6c2b3f9955415d",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 559,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "be0739996be0be620b0bf43773f43ddc0c3d074ee0472257e1735e2fccc176ab",
+      "B2_buffer_sha256": "5d80bea7634f57957f53ef5d30cf4fdf7fae49eb3d749caa74c743be68851517",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 572,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "c1eb34a2de964ec4ad3bc43768742d7507f9a366fd4ab5b5e360de6a8ce74f3d",
+      "B2_buffer_sha256": "ef16e6e1d7b59705629a87488b579e56dd41e4a35c0bff18d4e773bc8b675361",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 578,
+      "native_field_glyphs_checked": 12,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "70c326d47269b5e8c6f5d2103f4f8681c811606f41edc78b7efc3376bcc3ad8f",
+      "B2_buffer_sha256": "bb06577434e80311b72e1e1ed1743ca471d4aa0dd2b36f6bd642bda93c3403c3",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 584,
+      "native_field_glyphs_checked": 6,
+      "native_B2_glyphs_checked": 6,
+      "field_tilemap_sha256": "6e74447e393eba8b5ad9d9d79ad4eede907f7a34f9a9c9c1788165b1e6863cdb",
+      "B2_buffer_sha256": "34d205362ad17cb2dcbbe0a8cb8e52d0569ddf570eaec45c29b06dcfe6a5e461",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 585,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "8f43c681663073055656b67be84fb71a05ed119e34de6a1756492248d88b6026",
+      "B2_buffer_sha256": "8fcd5314773826050f5405904a16d33e65dcf3f13c7a7f465ddd9235b4a84186",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 586,
+      "native_field_glyphs_checked": 7,
+      "native_B2_glyphs_checked": 7,
+      "field_tilemap_sha256": "ebade6ffc532611854f1786217c3d832595f92e11ce03087416ba22a542bbad4",
+      "B2_buffer_sha256": "368e700c30d880c9d72aa5c1f167b0883c4e8b3e1665efe6f4f9fd63443df0f8",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 587,
+      "native_field_glyphs_checked": 8,
+      "native_B2_glyphs_checked": 8,
+      "field_tilemap_sha256": "beba1b8b8e8081f7cf95e88c3f5caa0a76f978cd15277e4186bd7f48126e7b79",
+      "B2_buffer_sha256": "b5332d12b022e76a59c2c778ecb996b4543f695dccb21b6146c62ddbd8467e85",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 589,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "347aa2856ad0a186bf0ef148184c95b4e0c10bc90e4e9fd4fc053de8e07ae86a",
+      "B2_buffer_sha256": "6ac144e9274924c8f40a3fd782901deed6c8f60309182eeb4093117db9f2d83c",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 590,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "339adef13a5f18cbe543915f758a24f67a4ed9b0cd972886fb311e4df0d67823",
+      "B2_buffer_sha256": "ec3fef9eea7f89a11cbff6b6117ecd064269c9ebc2905b44217e09f01753eac6",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 592,
+      "native_field_glyphs_checked": 13,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "b7a47b20fa0457f9ec764bebfcab904fbefb014bae3a27f0eb051c0a61cbdf31",
+      "B2_buffer_sha256": "d1f2ac7acdb268033c36c64c1d8a658515d4c7b322612eaf6632aa534bccd1ba",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 595,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "3b7cdeb735b7ca91dab5ea00a2fa4045cad0aa15126e1a12ef5c2ff68921d9c3",
+      "B2_buffer_sha256": "25e4231f06798fa38d0d11a0b6911af8ef6540feabad5ce6335f441b2c7531f2",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 596,
+      "native_field_glyphs_checked": 12,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "e2b8b9f444e8e6cb2ea1c4b24def6f04d7c7dcc15ed5421c643a60465253c82c",
+      "B2_buffer_sha256": "7a3043b0fb79f865cbae24bdb450233da35d26950c5d249355c3f141729ad161",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 598,
+      "native_field_glyphs_checked": 13,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "0e253be6e5ac80b43703d736d88228667ae7f5d2983d964d692948575f2a2f9f",
+      "B2_buffer_sha256": "2590f747fc94662838f6cef42807ca89479691e568c64ae022fd937bb6ab4e2f",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 600,
+      "native_field_glyphs_checked": 13,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "bd3c80fef88eff33249506d4f7538e8c11d20cdf301127175c54c7256c74988a",
+      "B2_buffer_sha256": "3cb69bb4d2452e5aa330df78968457f92658d5c5428c912700709d90de92f29d",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 601,
+      "native_field_glyphs_checked": 12,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "f34cb1b2cf929ca6b93ada3e7c67fcf5c6e97a8e3a86c45ed50cf3ee2ae469df",
+      "B2_buffer_sha256": "ad764c2dae7111321bd5948beda35c091a2447c4b45df1489d7c301bccd86b3d",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 604,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "663ef2ae81ee27e6823c20854fa4b00978baa7926e9d82717ff4a4467038e82d",
+      "B2_buffer_sha256": "fa7c2d5d6a8e938c1789daae015639e3e023f488106693d79f7a74ecd1908ffd",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 610,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "79ca8e5d63c441cc3827200a46ddbdaab8fb1b5be74e040f11d82c3e449159ee",
+      "B2_buffer_sha256": "5460ae16622c1b62623604f1346ed9a25a35667344d0ebac94f5ddb2d5d25833",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 611,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "5d8e180a64dc78aa1cd86108887ecfe4eace5fbbf75d8835f0d7233cd7cac6bb",
+      "B2_buffer_sha256": "6ba8b9c07647582db94928c54ee67d59f875d29e99e74ff4e86c99522b9d1280",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 612,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "3866d96dbd4160d972d40295c05c663914002d6d54cb3adbbd08de0fe7861a24",
+      "B2_buffer_sha256": "7947bdcc3cf8895f4736c11ac730b4a61efa750d55bc6e83fac78ede00ded67e",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 614,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "ae8e508a82d8c16650f9a6b6dac9597e4b206c14347a87b19cd1a09c8dc82c0b",
+      "B2_buffer_sha256": "a8fe10ad89346cd094a954f9b7f5960cafedacf50cc538fd94bd6d1cd51b9356",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 619,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "07d4db8567bd6623816021f8def51ae3ed702b1bac35941c8b3ad79a691ceaf3",
+      "B2_buffer_sha256": "e89d02dc3cb0747592c87ef5e9b75e5214ad851c13729ae7f5e00fb802f5c895",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 620,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "7d2363a248cf8ca4892ac8cb9347848ffea8fd0ab91951760d872d63131d6fbb",
+      "B2_buffer_sha256": "7fcbd0bd146c5ad632c30af1165bebecfb3add14221c1b12fbd8f4d2ff3de1ee",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 544,
+      "native_field_glyphs_checked": 12,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "ba806a0754947a289182b4eb08241cda69cac4f09a4c883656721f6a99373b4d",
+      "B2_buffer_sha256": "1f0838af058982d9b6b072f37176dabad189b21a0a6ab5cd2637d51b671bcb45",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 545,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "d7de7793d50e18eaa50ec885301f5270774e0f7c6b364d4c641489a7d4ea70e6",
+      "B2_buffer_sha256": "1f68fff7414c7951546a192a2e193493c718f5be863de0fdabb3796a6ede5b05",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 546,
+      "native_field_glyphs_checked": 8,
+      "native_B2_glyphs_checked": 8,
+      "field_tilemap_sha256": "1426a7e99ebc924675bc96ec14338ae78e78a014b528cf471fdd7529a506069f",
+      "B2_buffer_sha256": "e04f39bae0dff788db57a9ab3341653891237c24c096d9f65b099648d6265f18",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 548,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "535e289d58ca0b69e9ba18b4a5d0ef6a58f141dd96958b8842339b539e89e504",
+      "B2_buffer_sha256": "637f0d63e3e7096c29c9ce287c2d45bf6c18bc9a54560afbf6e475d1b51ee52f",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 550,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "f386dcaae2fd884937b956cf5d2e5f71001b6e4678f0d07f1791a8b37fd13e45",
+      "B2_buffer_sha256": "cb1d4d9b9d440d6f9b3c0ecf81a0eebc390178efdfef114fbf1a332d7de16391",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 555,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "27c8dd8ea2a153c34efba6b0a53b9279723671c04615fc11f2b8210af31b2e1d",
+      "B2_buffer_sha256": "488f262a74c19eb475af598ad24ce11bc168871f4df24353febf671e05617217",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 559,
+      "native_field_glyphs_checked": 7,
+      "native_B2_glyphs_checked": 7,
+      "field_tilemap_sha256": "c0aa16b6c1754a5ca41e09f3f6ea5599a48276d4ff4fa5cc186886963815cf76",
+      "B2_buffer_sha256": "6e2f8f1591a3d5868a62f266be4ee2f33a5796aa450cec2eb0812c01ee35cedb",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 572,
+      "native_field_glyphs_checked": 6,
+      "native_B2_glyphs_checked": 6,
+      "field_tilemap_sha256": "c2b16486808108852d9327325eaef836e233f35a20b18c03039a4400ba3340b8",
+      "B2_buffer_sha256": "32f170955fb6d34f6ee5b7ac6d1e9ef53d25d43f4374ce8880630856b07aeace",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 578,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "1ec2dabcc0abb9acfcf7d8ace7d908e22680154721887321ec457a85ff96ae32",
+      "B2_buffer_sha256": "bd095e42f140e2a4c9052400e00c21ecce87123bbc923f4689e2005a87bfec55",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 584,
+      "native_field_glyphs_checked": 5,
+      "native_B2_glyphs_checked": 5,
+      "field_tilemap_sha256": "20450c6e34cd51c7a63fc8bb5f8bdaeffe1c515a9af8d827eb1a58a7ec0fa091",
+      "B2_buffer_sha256": "fc0e998f69ccc2cc0970eaa0c2f86f1df6eaa4f2673426213efa60f61da2048d",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 585,
+      "native_field_glyphs_checked": 7,
+      "native_B2_glyphs_checked": 7,
+      "field_tilemap_sha256": "118c6c1e008eee27d24a049cddb38a4ade596954d52c2266db5b03d2c8cbe6f2",
+      "B2_buffer_sha256": "23bb1638ab57c0ab6a3b76ad0edc2a9496c655e00046d10487b9cc195282c5c1",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 586,
+      "native_field_glyphs_checked": 4,
+      "native_B2_glyphs_checked": 4,
+      "field_tilemap_sha256": "fb0970ddec351473bdbc29158eb32aef237bd157b3f231f460ce8e24678a8e5d",
+      "B2_buffer_sha256": "a6d90be8d7e8e61ab0afd780716a1bd2d6773a14e3ff56b35e23cbdc11bf150a",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 587,
+      "native_field_glyphs_checked": 6,
+      "native_B2_glyphs_checked": 6,
+      "field_tilemap_sha256": "4fc690b2d53dc46dff8cbc83c7a332d37426d2fcc4d855dd0edaa97085f92933",
+      "B2_buffer_sha256": "a3c90f6856800c7404241b82ab4289f554d25b00d22c8ea0fdcc9588dc2f298e",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 589,
+      "native_field_glyphs_checked": 8,
+      "native_B2_glyphs_checked": 8,
+      "field_tilemap_sha256": "f1bb39360edde893bd916424cfc94cef7a5e29399d526b63bd38d4950466df20",
+      "B2_buffer_sha256": "bc61434695149765dba74ac370b24c3c214a678ac2be7b9af4497918c65919fa",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 590,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "8cf9748ca1cc5354a8f80566e6100d77ad038a58336cfaff61e67a45488131c0",
+      "B2_buffer_sha256": "714d6df3e27d2b63e0c27d67beb45bca146e5d79a24e12e3d98f1deb96196800",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 592,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "e3ace8ca970d797a66a89481f919f9452d84cefe5ec3c8638a38566a884e1118",
+      "B2_buffer_sha256": "ca875a51ba4c7c9e017352e8e8e9b1a27a2d0769c8967eac938e52f8f3e4011c",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 595,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "5f3c3d85a5946fba06c12f09f81e0126de53c7b4ee897ebc7a77da15f6123562",
+      "B2_buffer_sha256": "966f35b16042c3567d99aa32d4032bbb0616ed42252dfe2640eca2de776acb19",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 596,
+      "native_field_glyphs_checked": 12,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "755c1d769894602ff4f0655f5f33a815f0b557d84ede1c7a2f21bd84625f3158",
+      "B2_buffer_sha256": "e58fdea0d185cbfcff1541916c80dad35b44219507e4d16b9f4679e2855d68d4",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 598,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "26969fcf37b6b9ac0c5aac157910e48e6cbdb98c392f0ed7fc5c9dc4fd736233",
+      "B2_buffer_sha256": "a1f76199480851a7721d18701bc94866b1e20466d2481b0c6a211d0667b7a6ef",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 600,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "e62e813097ca1099c55fbc3cc65292c7173483f48be4c6f959197e99ceda059e",
+      "B2_buffer_sha256": "3fa2372f3346b1a7c0d4076425a10f50edc538d9c8b77e92add3d88dce92d116",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 601,
+      "native_field_glyphs_checked": 12,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "160a56d0dce54febd86d3ae084550c8841909ebc5eb7e18268f38ae7f05ee575",
+      "B2_buffer_sha256": "d63a2366a8dd1c6d3ab2c1260d603c9291dcd34d748da61314194e8ae3255df7",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 604,
+      "native_field_glyphs_checked": 8,
+      "native_B2_glyphs_checked": 8,
+      "field_tilemap_sha256": "715b3dc1291450417d29c5366d99f8378d21dcbd5c694affaaf6ae29ec67fbd3",
+      "B2_buffer_sha256": "7cbfd6ae747d44a7753d4da87e65c3b1225b4c4611ba0f8c22f23c5cb308b1c2",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 610,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "60420d9de1262f0ceb18dc5d09003164185ca600de530577f1a3b1f3e80106be",
+      "B2_buffer_sha256": "98acbd9a8ef21346ac581f0ba0f59dd06ed9ef8ed0dcdd2bfb124e1eb1c8309e",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 611,
+      "native_field_glyphs_checked": 8,
+      "native_B2_glyphs_checked": 8,
+      "field_tilemap_sha256": "8a55a69b340910c378feb60bb4ec3361167a60e54c05a9b5aeea3de6e036871f",
+      "B2_buffer_sha256": "27fcea7c8e9858afb954da73cb31800f1ba0885934d9d56942726bfd224bca81",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 612,
+      "native_field_glyphs_checked": 8,
+      "native_B2_glyphs_checked": 8,
+      "field_tilemap_sha256": "965938bc2e44763a72c6c38316f5909b458a5ee098ff07124e33635db069bb6e",
+      "B2_buffer_sha256": "fa6c87131ca0f8c03138fb4f65af66b4493c1080c3d7df6b8673959d9798537b",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 614,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "dc3cc0a0873333afbbec2df534ca85ee44a83a66bcab2efcce2908b55efc9578",
+      "B2_buffer_sha256": "a64f8f5a4e19e6f3ebb897e280b81c73db909f3ef292e185f084830dba9ee685",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 619,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "48edfa2fa968d5d730ff149421a6b6e4f648c9fdf105e5c4fb31a5f9421b1b56",
+      "B2_buffer_sha256": "ca75ce47e7469693869afbd5f5139baaba2d922554e511f0124199e7b484c2f6",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 620,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "868380663bf6f8f0c15f00c31d0410a4554f6f69304f75297d05a4ff23ea6d5b",
+      "B2_buffer_sha256": "8d495a993ee564bf4f0783460417d65c356d9e7b04219b3fb71925c95df5e1d5",
+      "matches_expected_glyphs": true
+    }
+  ],
+  "all28_changed_encodings_checked": true,
+  "natural_validation": false,
+  "limits": "Private CPU redirection from camp. Dynamic SID branch09A7..09C9 and other natural menu paths not validated; no renderer code modified."
+}

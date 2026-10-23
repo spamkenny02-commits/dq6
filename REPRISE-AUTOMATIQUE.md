@@ -1,3 +1,9 @@
+# Reprise v0.70 — lot400–799 des2048positions
+
+Lire dq6-fr/v0.70/README.md,registre0400–0799,revue,delta etQA.28nomsmonstres intégrés,216propositionsDS PREPARE_NON_INSERE,32anciensFR conservés.800positions consignées/2048,128FRqualifiés ;pas800traductions. Prochainlot800–1199,puis1200–1599,1600–1999,2000–2047. Ne pas recycler ces28noms ni les revuesprécédentes.
+
+Tableactive7AF000 de14329octets,capacitéprotégéejusqu’à7B8703,pluscombat etmoteur ;lecteurv068+obligatoire.251propositionsnoms cumulées (35+216) et2lieuxpréparés438/479 distincts. Principal/combat inchangés,relectureexhaustive0 ;accords/pluriels etscènesnaturellesdesmonstres nonvalidés parB2. Aucun audit hérité clôturé.
+
 # Reprise v0.69 — lot 0000–0399 des 2048 positions
 
 Lire dq6-fr/v0.69/README.md, registre-positions-0000-0399.json, revue et QA. 400positions examinées,25libellés modifiés,13français existants relus source,35PREPARE_NON_INSERE.100FRqualifiés/2048 ;1508autres,344identifiants,12candidatsFR,83vides et1crédit retiré. Pas400traductions ni400validations naturelles. Prochain lot400–799 puis800–1199,1200–1599,1600–1999,2000–2047 ; conserver un registre par position et revenir sur les réserves. Ne pas recycler ce lot.

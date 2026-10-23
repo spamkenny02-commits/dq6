@@ -1,5 +1,5 @@
 {
-  "release": "v0.69",
+  "release": "v0.70",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
@@ -18,7 +18,7 @@
     ],
     "release_lot_additions": 0
   },
-  "baseline": "v0.68",
+  "baseline": "v0.69",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 2,
@@ -26,53 +26,59 @@
     "draft_main": 0,
     "boundary_audit": 0,
     "separate_battle": 2,
-    "separate_names": 35,
+    "separate_names": 251,
     "separate_battle_spell_combinations": 0
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.69",
+    "inventory_version": "v0.70",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
     "inserted_place_total": 31,
     "additional_character_names_inserted": 3,
     "spell_action_labels_inserted": 20,
-    "new_this_pass": 25,
+    "new_this_pass": 28,
     "prepared_places": 2,
-    "confirmed_french_entries": 100,
+    "confirmed_french_entries": 128,
     "native_grammar_helpers_adapted": 4,
     "prepared_character_names": 0,
-    "new_prepared_this_checkpoint": 35,
-    "inventory": "dq6-fr/v0.69/inventaire-noms-v069.json",
+    "new_prepared_this_checkpoint": 216,
+    "inventory": "dq6-fr/v0.70/inventaire-noms-v070.json",
     "explicit_identifier_placeholders": 344,
-    "physical_other_texts_unqualified": 1508,
+    "physical_other_texts_unqualified": 1480,
     "empty_entries_to_qualify": 83,
     "DS_exact_French_candidates_not_qualified": 12,
     "inherited_tail_consumed_bytes_to_audit": 0,
     "storage_adaptations_this_pass": 0,
     "restored_preserved_tail_bytes": 2050,
     "active_name_pool_offset": 8056832,
-    "active_name_pool_bytes": 14361,
+    "active_name_pool_bytes": 14329,
     "name_allocation_limit": 8095491,
-    "name_reader": "dq6-fr/v0.69/common.py::names",
+    "name_reader": "dq6-fr/v0.70/common.py::names",
     "table_batches": {
-      "physical_positions_examined": 400,
+      "physical_positions_examined": 800,
       "total": 2048,
       "completed_ranges": [
         [
           0,
           399
+        ],
+        [
+          400,
+          799
         ]
       ],
-      "next_position": 400,
-      "ledger": "dq6-fr/v0.69/registre-positions-0000-0399.json",
-      "all400_semantically_validated": false
+      "next_position": 800,
+      "ledger": "dq6-fr/v0.70/registre-positions-0400-0799.json",
+      "all400_semantically_validated": false,
+      "prior_ledger": "dq6-fr/v0.69/registre-positions-0000-0399.json",
+      "all800_semantically_validated": false
     }
   },
   "rom_bytes": 8388608,
-  "notes": "Premier lot400positions examinées :25libellés modifiés,13français existants relus source,35préparés non insérés.100FRqualifiés/2048 ; pas400traductions. Diagnostics natifs et fenêtres naturelles distingués.",
-  "next": "Continuer positions400–799 puis lots400 jusqu’à2047. Consulter registre v069 et réserves ; ne pas recompter0000–0399. Lecteur v068 obligatoire, réserver capacité7AF000..7B8703, combat et moteur.",
+  "notes": "Second lot400positions examinées,28noms de monstres intégrés,216propositions DS non insérées.128FRqualifiés/2048 ; pas800traductions ni validation naturelle exhaustive.",
+  "next": "Continuer positions800–1199, puis1200–1599,1600–1999,2000–2047 ; revenir aux blocages et propositions. Lecteur v068 ou ultérieur, capacité7AF000..7B8703 protégée.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -103,7 +109,7 @@
   ],
   "proofreading": {
     "exhaustive_pass_completed": false,
-    "reviewed_this_translation_pass": 38,
+    "reviewed_this_translation_pass": 28,
     "translation_reviews_not_a_full_reread": true,
     "full_main_reread_recorded": 0,
     "new_battle_integrated_from_review": 0,
@@ -126,8 +132,8 @@
     "storage_adaptations_checked_this_checkpoint": 0,
     "separate_place_names_reviewed_this_checkpoint": 0,
     "table_positions_examined": 400,
-    "table_new_translations": 25,
-    "table_existing_french_source_reviewed": 13
+    "table_new_translations": 28,
+    "table_existing_french_source_reviewed": 0
   },
   "separate_battle_pool": {
     "runtime_entries": 608,
@@ -645,7 +651,7 @@
     "source_JP_outside_pool_audit": 5,
     "source_boundary_report": "dq6-fr/v0.63/audit-frontiere-source.json"
   },
-  "checkpoint": "table-2048-lot-0000-0399-v069",
+  "checkpoint": "table-2048-lot-0400-0799-v070",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",
