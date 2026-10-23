@@ -1,3 +1,9 @@
+# Reprise v0.73 — douze propositions de noms de monstres intégrées
+
+Lire dq6-fr/v0.73/README.md, revue-table-v073.json, preparations-resolues.json, inventaire et QA. Positions 626,627,629,630,631,632,634,636,637,642,643,645 : spectrokane, feudjoie, fournèze, zombinator, karkassor, désosseur, kangouffre, démonstre, verminator, arbomage, arbomancien, écorcheur. Ne pas les recompter comme nouvelles préparations ou revues. 197 FR qualifiés / 2048 positions déjà examinées ; 574 propositions restent non insérées. Aucun nouveau lot de 400 revendiqué.
+
+JP SFC exact, 24 champs JA/FR DS relus directement, 12 textes IPS secondaires contrôlés. Noms complets, largeur non augmentée, sans nouveau glyphe ni commande native. 2477 SIDs statiques lus en CPU, mutation négative, terrain/B2 avant/après, 24 dialogues diagnostiques et 12 rendus après relus, bus et Journal à froid. Aucun combat naturel, accord/pluriel ou autre fenêtre entièrement validé. Principal/combat inchangés, relecture exhaustive principale zéro, audits hérités ouverts. Table active 7AF000 de 14242 octets ; protéger sa capacité jusqu’à 7B8703 ainsi que moteur et pool combat. Recette v073 et lecteur LogicalTable obligatoires. Reprendre les réserves restantes, ne pas relancer le parcours des 2048 comme nouvelle revue.
+
 # Reprise v0.72 — toutes les2048positions consignées,table encore partielle
 
 Lire dq6-fr/v0.72/README.md,les trois registres400/400/48,revue,blocages,audit-derniers-48 etQA.21libellés intégrés (14traductions,7révisions),3FRinchangés relus,255propositions nouvelles.185FRqualifiés/2048,586propositions cumulées ;pas2048traductions. Ne pas recommencer ces positions comme nouvelle revue :passer aux réserves,fragments,noms longs,glyphes,genres etautres ressources.

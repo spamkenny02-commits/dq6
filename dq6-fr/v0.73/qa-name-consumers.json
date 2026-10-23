@@ -1,0 +1,227 @@
+{
+  "release": "v0.73",
+  "ROM_sha256": "f38b7e3c75d2d4618c9b55e497a578ba6b00db6848acb7d678b6cf9f34773196",
+  "field_consumer": "C3763A, actual JSL including C0315E/C031DB and C376F2",
+  "B2_consumer": "C6FDF0, actual JSL including C0315E/C031DB and existing DTE dictionary",
+  "rows": [
+    {
+      "stage": "before",
+      "sid": 626,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "9ff7fd853adede6333dfca3e1965ecf12784b919057f1366f8ce23813d3c11b7",
+      "B2_buffer_sha256": "a443c7f814e2a498ac1ea62c200fa4cc856849f702685615b2a6045d5018db3f",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 627,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "85d44dba45fec9c4c1d335693efdda3890d7434121ca972736b948404140d287",
+      "B2_buffer_sha256": "88094c6852b4b48302e4e3e13e447dbe8442c032fd91ff861664d3ecf9f3f2d9",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 629,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "7434a685a556041fd17565fb206e61bf08fb5527a7b389c3a67c1f75c5346e30",
+      "B2_buffer_sha256": "27adb73fec24282c0861e3e7162b78e1d8dd5037927da5fdd1f1a21c9612d249",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 630,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "d956cdd564aed0cc14e4e405d9f054db5a052e6a57978d4e426e33b2edbe12d0",
+      "B2_buffer_sha256": "5b458f0c3a4a954bd95d8613cc1029028d25cb86c583bc9c2ed9eddf2b51416d",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 631,
+      "native_field_glyphs_checked": 13,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "b469077758ee844792be7268921cb75791add04bc8a1dee06c68fd890ec2810c",
+      "B2_buffer_sha256": "5e7cff08fc1e8eeac7e0e06a93e73bdc0fbb68b900e9bf110c201ba9498236a8",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 632,
+      "native_field_glyphs_checked": 13,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "b7c4324b40b65eb5a42fcfb4dc900fc3f6da824f83ff85c1290ee5a9cf2fbd3f",
+      "B2_buffer_sha256": "3b4f2e3292e6fe61fe920958456dee5707a83fe902dd1fac84b28d74a83e321e",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 634,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "7db2cfc115338a728963c924070aa550b2902eff9b847bb3ecb93e66cb368144",
+      "B2_buffer_sha256": "56ed4a9d70dc338306864055da38525058f0a559adfbff50ecc00ef64d8bd774",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 636,
+      "native_field_glyphs_checked": 13,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "e889fea18cb55186e6a36714392841af89f5fe7ded7e9870a83349c21e592470",
+      "B2_buffer_sha256": "091e612d47b18553fca4346059bbb071cc6b2004789abc1b5e4b5791f0c3c062",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 637,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "939e230564ccf9dea909b6c6c019d73e0f2f73adba748c74a4ffb4662492c55e",
+      "B2_buffer_sha256": "516c2c79cf332505c4abfd7fc6e1ec5350b48f92b89ba1471ce7db149173ee47",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 642,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "bfe11f397cb74e81e950fcff7ab34af3d1fa19d936374126755b57c1b0cfef1b",
+      "B2_buffer_sha256": "37505bfc624668c1710f651db59e6c94780538f3bc701818adeb5afef7543f96",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 643,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "89041f4c97fade51caa0199a16dc808656b5fcc9ce498e5eac2d064c3b6f2217",
+      "B2_buffer_sha256": "e1d43e229d492dc1c4ef50f244492f95caefbed7605bda37777107c1a7410d15",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 645,
+      "native_field_glyphs_checked": 12,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "69e6ca0bef4c0e17b5497962ab8542b7703a8a760167b596c58515911ae0c19e",
+      "B2_buffer_sha256": "c14c06da0c6181c674f11db8d85f96282b1b80c22699bc48dbc6ba487d5867a4",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 626,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "3ed43b4db49e0df5f501b99f0ae1117acfb6f8c1b44e5c32777eb5ddb21eea6e",
+      "B2_buffer_sha256": "7708755bcefa68dcd7962342791f544e56b43c043ec1a7b49a4e6e2a6694b222",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 627,
+      "native_field_glyphs_checked": 8,
+      "native_B2_glyphs_checked": 8,
+      "field_tilemap_sha256": "a394055af38b9595b214f911e433a27b7ea4ecb70981f5088ceb3d4f3c11ce8f",
+      "B2_buffer_sha256": "003e5730ff02b61bfe582d1309f55f8e310c53112b85105c93d9a2a57ccb3564",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 629,
+      "native_field_glyphs_checked": 8,
+      "native_B2_glyphs_checked": 8,
+      "field_tilemap_sha256": "cf452e4f7cdef69b6bdca72c9900df03ad42de87dcd0dce4567721a2b547cf0c",
+      "B2_buffer_sha256": "4f293960aeca2b8383211d987a776a753874a8b519779081268f01fe73f992e2",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 630,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "40a799c69be4e4613794ee46cbd48a4139db2cbbd9ff3afefac4bcdc2e349356",
+      "B2_buffer_sha256": "a7c0fb6f3907edc8891bfdc58a3d56559f217285422a844bcb24cccfa7986456",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 631,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "db5c7895d719106ee435bb86dbe36f37ae16e3c93ad540d8a100f9a2a77e2dfb",
+      "B2_buffer_sha256": "c644f4bed5231611f44aff5b263cb92210544a14c672ec4c3faf9e4743750fc6",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 632,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "275f3820596832e3cc0b1582d70b28c886bd7af58f538060809c4d4242c1f389",
+      "B2_buffer_sha256": "ad765bef8853b35027e91180e5422ccc88b88192b1b2cbdbd62bc022542daaa2",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 634,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "6968729218b46e5556c28111f59ab55c9d1cc96b5c4f25bd63c0a199be81e4a3",
+      "B2_buffer_sha256": "94da392c379a3f0bf1157eff7dcc87d1bbe90f8e210eca01f9424aee74b4401e",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 636,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "2229cc07859363886faffb5fd483a8da0c895e13a926bbec213186e59a789018",
+      "B2_buffer_sha256": "5050a56f53f89aa3f9d3fe070871fd3b85812cfaf32a1eb6113490bc6b401f15",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 637,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "da98f43fdb22c7c66fb0479bc95885148cd9c235622e493dcef815718c4d8940",
+      "B2_buffer_sha256": "3bff08aa610061a6621a3e7b2e99cfebcb41897b94be3082f90cf08e62014f3a",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 642,
+      "native_field_glyphs_checked": 8,
+      "native_B2_glyphs_checked": 8,
+      "field_tilemap_sha256": "1fafe5515b62c2bb6eda982fe8945fc9a5079ddf629f00472b1edb0bc0511176",
+      "B2_buffer_sha256": "0a7210907b5d4f074b479026713d7f6d7d1fcd725b5923baece88f0874f704fa",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 643,
+      "native_field_glyphs_checked": 11,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "40f9f98b1c66f82772a15fe0225eeede1462e6df1260df19ea7a4492d98d28f9",
+      "B2_buffer_sha256": "7ac99d0cfd776a68b89015ab4f18a3b5d672417acdc4c3b3fd637219d392c559",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 645,
+      "native_field_glyphs_checked": 9,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "8c3333dd31d4cafb3183c3887c9e3471890e8cd10821ae75193ccb18a053b6b3",
+      "B2_buffer_sha256": "9d6f784af55dceb450d6599dd20385d706baba86682d2a7d0c3b312c52a5f7e3",
+      "matches_expected_glyphs": true
+    }
+  ],
+  "all12_changed_encodings_checked": true,
+  "natural_validation": false,
+  "limits": "Private CPU redirection from camp. Dynamic SID branch09A7..09C9 and other natural menu paths not validated; no renderer code modified."
+}

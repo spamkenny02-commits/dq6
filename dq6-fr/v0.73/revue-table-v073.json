@@ -1,0 +1,326 @@
+[
+  {
+    "sid": 626,
+    "position": 626,
+    "french": "spectrokane",
+    "previous": "Death Staff",
+    "sfc_jp": "デススタッフ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 152,
+        "JA_text": "@1デス;スタッフ@",
+        "FR_text": "@0M@2le @3un @4spectrokane@5les @6des @7spectrokanes@8N@9N@",
+        "JA_sha256": "b68fb8733d7f9b94480bd0bc65822e59384d14827272f820b8d2f9e5fd70407b",
+        "FR_sha256": "192244916f0f2141d5d45cda8b35e6007e0d4ec2b0a231e86a0be92b858fde43"
+      }
+    ],
+    "review": "Spectre matérialisé dans un bâton : nom d’espèce, pas un objet équipable. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "13d7f9012255424747ac",
+    "encoded_hex": "5451464455f14ccf46ac",
+    "old_sha256": "b74eb070cfd5fa752dfc1ab96ee4fd8dbad46786dd3e3ce50be868a438cf05f0",
+    "new_sha256": "534ab9aab7d90b80723c6a9e278c15308332c22a001192fef2ee39c4ed378561",
+    "old_columns": 11,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 627,
+    "position": 627,
+    "french": "feudjoie",
+    "previous": "Flame Man",
+    "sfc_jp": "フレイムマン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 36,
+        "JA_text": "@1フレイム;マン@",
+        "FR_text": "@0M@2le @3un @4feudjoie@5les @6des @7feudjoies@8N@9N@",
+        "JA_sha256": "1af470910f34fc5d8a1cc1cf852db517b2ee7f7a8ee656ab870796a3373cdcb0",
+        "FR_sha256": "ff4987af9852874e4aff37c57bdb88f716bff72273915c7a56d608704c24662e"
+      }
+    ],
+    "review": "Monstre humanoïde de flamme : nom d’espèce, distinct de la compétence de feu. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "154dced61ccfac",
+    "encoded_hex": "474656454be946ac",
+    "old_sha256": "b81c193d69e341cf106822fd9abd7db1d2ca51ae3688efe363a7510c2469c21f",
+    "new_sha256": "c47055970ffab130dbd7568b6ebd53f71c4810e7f508b818e9acb65d3802c636",
+    "old_columns": 9,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 629,
+    "position": 629,
+    "french": "fournèze",
+    "previous": "Hell Blaze",
+    "sfc_jp": "じごくのほのお",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 138,
+        "JA_text": "@1じごくの;ほのお@",
+        "FR_text": "@0M@2le @3un @4fournèze@5les @6des @7fournèzes@8N@9N@",
+        "JA_sha256": "0b25ed31a2da3611ae3d7f8b0e260c052129c61d97002765ac87196c55260001",
+        "FR_sha256": "a7312d6f51b438965b5ea7caa96d1bdb3036d38972f434ca82549f0f7369a672"
+      }
+    ],
+    "review": "Monstre de flammes infernales : nom d’espèce, pas un souffle de combat. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "1746e301114d425b46ac",
+    "encoded_hex": "47ed534f305b46ac",
+    "old_sha256": "b90c92d927b039a4e83f5861dd1c5167e33f1d0062fc313a01560f01f55f870d",
+    "new_sha256": "ff2087dca7a805a761ae1fcf47a3474e08a2e4af2a624fa7226b6ca8cea1bca6",
+    "old_columns": 10,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 630,
+    "position": 630,
+    "french": "zombinator",
+    "previous": "Death Slave",
+    "sfc_jp": "しのどれい",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 27,
+        "JA_text": "@1しのどれい@",
+        "FR_text": "@0M@2le @3un @4zombinator@5les @6des @7zombinators@8N@9N@",
+        "JA_sha256": "dce1cd15be1d2ec100c3ebce14492f02d9748722c7535763636f0bea6d54d397",
+        "FR_sha256": "0ff8710f5f253b4b41717c9b98ca18c71a82e80162cd6ab1223871d347d36e36"
+      }
+    ],
+    "review": "Mort-vivant asservi : espèce, distinct des autres squelettes. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "13d7f901224d425746ac",
+    "encoded_hex": "5b504e43dfd2ecac",
+    "old_sha256": "377f6c9cfff4350c1e85e6611ab102b8cb506782ea70c5cfadb0b6d426117318",
+    "new_sha256": "86d6849f2772bb97f085e002fa8a51d0955253efc36a41c0fe6ce333ef798db4",
+    "old_columns": 11,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 631,
+    "position": 631,
+    "french": "karkassor",
+    "previous": "Slave Soldier",
+    "sfc_jp": "どれいへいし",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 63,
+        "JA_text": "@1どれい;へいし@",
+        "FR_text": "@0M@2le @3un @4karkassor@5les @6des @7karkassors@8N@9N@",
+        "JA_sha256": "2fae135ea7996927b66e4ef7326440cf8280f2a00fdda8b86f417f68397bafd4",
+        "FR_sha256": "e169484146205a9a27a4f399521676a6a0dd18827dc5b3ca028a7ea44b73b019"
+      }
+    ],
+    "review": "Soldat asservi : espèce distincte deしのどれい. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "224d4257d622504d454adaac",
+    "encoded_hex": "4cd04cd1f453ac",
+    "old_sha256": "2e443d3e9d3873e474659b58d22eec72aaec98f742b6f87decc5866c0338af56",
+    "new_sha256": "2fe4418d63eeffb2f3419c5951bea29a413550e5545eeaa88fd656e53927df91",
+    "old_columns": 13,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 632,
+    "position": 632,
+    "french": "désosseur",
+    "previous": "Bone Prisoner",
+    "sfc_jp": "ボーンプリズナー",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 129,
+        "JA_text": "@1ボーン;プリズナー@",
+        "FR_text": "@0M@2le @3un @4désosseur@5les @6des @7désosseurs@8N@9N@",
+        "JA_sha256": "6ee54090143d0550f6db9a2184245aae79e3be65557bb9494bc063a926cddf48",
+        "FR_sha256": "c9fd28413b4c3a7ad082a1e503097fb3784853ff659f36d7ff2fcf570b25c4bc"
+      }
+    ],
+    "review": "Squelette prisonnier : nom d’espèce, pas un lieu ou un état. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "11ead61f53e0eadaac",
+    "encoded_hex": "452df45454465653ac",
+    "old_sha256": "e4b558e79c6a5bde01d70772cf1b2c906565c8cc3380a709d5a92257b9e5925b",
+    "new_sha256": "ca4ffe152cb2b231df1dffc5a5b9a4df988b065a8c7412d1886dd08782633c46",
+    "old_columns": 13,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 634,
+    "position": 634,
+    "french": "kangouffre",
+    "previous": "Skullgaroo",
+    "sfc_jp": "スカルガルー",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 38,
+        "JA_text": "@1スカルガルー@",
+        "FR_text": "@0M@2le @3un @4kangouffre@5les @6des @7kangouffres@8N@9N@",
+        "JA_sha256": "af4160fb7b6ab28ffa6ae793d091ba149a95b812f1cb1821f995e6107110951b",
+        "FR_sha256": "652977df8d5d072b7bd14fd163a2d54a319310ecf9036cf2b47409377e825269"
+      }
+    ],
+    "review": "Kangourou squelettique : espèce distincte des autres kangourous. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "224c56e348d0ebac",
+    "encoded_hex": "4ccf48ed4747f0ac",
+    "old_sha256": "7b37715799cea29706b1612e3671037fdddecad6fe70f45e5bc62215fbfaa653",
+    "new_sha256": "699440ec3e2b05b6ee647c0f2d2d550b0f5788f6a029a8573d5effc36e46faf6",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 636,
+    "position": 636,
+    "french": "démonstre",
+    "previous": "Horror Walker",
+    "sfc_jp": "ホラーウォーカー",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 89,
+        "JA_text": "@1ホラー;ウォーカー@",
+        "FR_text": "@0M@2le @3un @4démonstre@5les @6des @7démonstres@8N@9N@",
+        "JA_sha256": "2a87b9fe68517b4af24c1276cd8d0addb54011e1852e8ecd45506da85a304b5c",
+        "FR_sha256": "383f3e303caf483fac25b42dd501a79febc7dd0814cf35224ce95b9eec5dfaaf"
+      }
+    ],
+    "review": "Marcheur monstrueux : nom d’espèce, distinct des compétences. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "17ecf1530126424d4cdaac",
+    "encoded_hex": "452d4eeaf5f0ac",
+    "old_sha256": "03a229138d452caaf76e2ab7f8c4ce8f1eff0ebfab55e9c0d59c122b72f3e5e4",
+    "new_sha256": "c41980d151376cab47d17c26e125eb68157b1ec881a305c8cb7a40f4089f07c5",
+    "old_columns": 13,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 637,
+    "position": 637,
+    "french": "verminator",
+    "previous": "Dark Satan",
+    "sfc_jp": "ダークサタン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 169,
+        "JA_text": "@1ダークサタン@",
+        "FR_text": "@0M@2le @3un @4verminator@5les @6des @7verminators@8N@9N@",
+        "JA_sha256": "fdcd9e41c12da787a3b63ed5f094efc5ba4802640449ba73f67c83d9ea04db88",
+        "FR_sha256": "1fba8a740834ce3994490c8826bcf47ef028ad39d230a64b832d914f3cf30713"
+      }
+    ],
+    "review": "Démon : nom d’espèce ; conserver la graphie française DS complète. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "13d04c0122d2cfac",
+    "encoded_hex": "57da4edfd2ecac",
+    "old_sha256": "972a2abbab01786b13a8f68e912df1fafd04cacb675e837fab8134df811ad302",
+    "new_sha256": "6bdfdd519b7c862eb18953040f60a3b861bd364b6be89f05a3ee514989a706da",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 642,
+    "position": 642,
+    "french": "arbomage",
+    "previous": "Elder Tree",
+    "sfc_jp": "もりじじい",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 16,
+        "JA_text": "@1もりじじい@",
+        "FR_text": "@0M@2l'@3un @4arbomage@5les @6des @7arbomages@8N@9N@",
+        "JA_sha256": "e967f4b3deb799a3e312beaed6e8b744fc193f40e43f2c6fa045bf8ba3678788",
+        "FR_sha256": "207ca8600327889cd05ddc8d9de50e260bf0572b70a99d921880b4bbb7ec5da9"
+      }
+    ],
+    "review": "Vieillard végétal : espèce distincte du mage-fleur voisin. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "144d45da0123f046ac",
+    "encoded_hex": "d043504e424846ac",
+    "old_sha256": "751b7dbbf3dd3c2dce712a65653affe75b511a7cd327cbaddab6c90292bdc6f8",
+    "new_sha256": "aa86247809adcbf3200dcb627a6762192f39dbf6fd92713786a2d2a0573c537b",
+    "old_columns": 10,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 643,
+    "position": 643,
+    "french": "arbomancien",
+    "previous": "Flower Mage",
+    "sfc_jp": "はなまどう",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 28,
+        "JA_text": "@1はなまどう@",
+        "FR_text": "@0M@2l'@3un @4arbomancien@5les @6des @7arbomanciens@8N@9Y@",
+        "JA_sha256": "f0cc8d3ecc9b34426ba7475824a5e60d6c1c5327dffcc5fc8b6e5b2f4023e551",
+        "FR_sha256": "71e8badc4ddbe3230534ec69caf5570f4a6416674a4061ac127d01e23fcd83ac"
+      }
+    ],
+    "review": "Mage végétal : espèce distincte du vieillard sylvestre. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "154deeda011c424846ac",
+    "encoded_hex": "d043504ecf444a464fac",
+    "old_sha256": "877327fcee22fd95059f4bf9ab4c719752a670705293897a05c6f1a567ac27ee",
+    "new_sha256": "1f7cec33186f83c74e875af0fab8badc6e88f0961c8fd789a4db6f6bc8cfdb44",
+    "old_columns": 11,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 645,
+    "position": 645,
+    "french": "écorcheur",
+    "previous": "Evil Franken",
+    "sfc_jp": "エビルフランケン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 170,
+        "JA_text": "@1エビル;フランケン@",
+        "FR_text": "@0M@2l'@3un @4écorcheur@5les @6des @7écorcheurs@8N@9Y@",
+        "JA_sha256": "aef2da1cfa3f596a297b51f01a7e29a6ef4456774b9b243b4ec77df357ae1a6f",
+        "FR_sha256": "ab4ce83273ba5baca545f989aae0e4a07f3029f40780abda3f5360e56b4edd76"
+      }
+    ],
+    "review": "Monstre de type Frankenstein : nom d’espèce, distinct de la compétence de découpe. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts.",
+    "old_encoded_hex": "14574a4d0115ef4f4c464fac",
+    "encoded_hex": "2d44ecd4465653ac",
+    "old_sha256": "4387fe9f1c48a12d87f6d9173d962dd93e46afa6039fbe67bb3c3caf571f841b",
+    "new_sha256": "13b787fc335d8a9ba0ad92f1b712dcd38d75f1ba150f85ab584cf7f2c520447e",
+    "old_columns": 12,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  }
+]

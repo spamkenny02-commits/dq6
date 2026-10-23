@@ -1,0 +1,107 @@
+{
+  "release": "v0.73",
+  "ROM_sha256": "f38b7e3c75d2d4618c9b55e497a578ba6b00db6848acb7d678b6cf9f34773196",
+  "diagnostic_dialogues": 24,
+  "new_labels_checked": 12,
+  "B2_lookups_per_dialogue": 3,
+  "rows": [
+    {
+      "sid": 626,
+      "previous_screenshot_sha256": "0bf224c8cb3e35352bf2b711562d1a64594832038a0b6a7e3435806df18db62f",
+      "screenshot_sha256": "3a2dfa40fc5adc99ed7a29a8d4adc4179b005786fad7a8da0a105d4526911aa8",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 627,
+      "previous_screenshot_sha256": "1c838564c8525fa98269a1b46edd77e9254f9ae01c7aba8a84ce9247b99c683d",
+      "screenshot_sha256": "928de522b9abf500264aaef3183f941decd30a4e5cb45f3db420e92556fea3b3",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 629,
+      "previous_screenshot_sha256": "824d6b6b9d00cc7a4c59eb093224c91c23c6bad8babb5659b5ccc951827a2a48",
+      "screenshot_sha256": "be698b5ae946c3baf4ec52f89d99ce34fba179cc09d00c91cec85baa0afa2dd7",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 630,
+      "previous_screenshot_sha256": "3e1d278bb9f6d1a847695b159c527bde3d16c2196329aa2c72307065cff73f66",
+      "screenshot_sha256": "60f04a33f050f6d7b3465629c05e506450404a35eff656b91e5c123215dc3c22",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 631,
+      "previous_screenshot_sha256": "b7cc7172a5cb49c4f09082dcc840a0cd06a828de29f7fcd9328f42815a754b57",
+      "screenshot_sha256": "3859a93a45e40fb9b8144a66d702ff65c68883d487ff9978f5074730d043153e",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 632,
+      "previous_screenshot_sha256": "d3122d2b66d03a4f46df2359292f0e20688ea3907fd36c06984cf643d4e08d2e",
+      "screenshot_sha256": "76da29819df5f0d2c382f46c6c89b3bcd442dcca81d3b227898959613f31705f",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 634,
+      "previous_screenshot_sha256": "6130ee17e71aee04f7d61d85637e8bd5aecfe52eabc07d4ba5f3c6f757ea96b9",
+      "screenshot_sha256": "ef6b22a82790ef3ac070be47168ba98ef41538deef8e2419d250dffa3153d03b",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 636,
+      "previous_screenshot_sha256": "78ad282f324053a8a00ad8244986998e2965fc02c157315acd3e0687f15da403",
+      "screenshot_sha256": "59a3cb7543d13e5e788961efcc202a9790186b087dfe45b3e4dd8a3b22825b7b",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 637,
+      "previous_screenshot_sha256": "fc725e880395b7581414ba5feea466660f23664f562a98ac68be3fd9e8d7eaf2",
+      "screenshot_sha256": "78a1690d739044a0a63be35611c36d1b34063754a1e3422cd02f7627154b4734",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 642,
+      "previous_screenshot_sha256": "251c50571661ee0d50218fd8cd394a77104bdcfcc58dbcea66bb4174fa3d61f2",
+      "screenshot_sha256": "1ed057e18365fea4bb738022e43fc1484fe3baca05a89ef35ac0ff8b359887f7",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 643,
+      "previous_screenshot_sha256": "e1d02fc978a4177ccf64a8401bf5a86c75888bf1f0537b07a3318b806b15d30a",
+      "screenshot_sha256": "cd806cf1e06d78f9d3c9b0bf59c5a479f36391215b9b8a2c4d083b9b4a5f454f",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 645,
+      "previous_screenshot_sha256": "f87c614642b0fdd87ec859ce54cbd1e749aa3c50b7c250fa26b65f38922e88a0",
+      "screenshot_sha256": "6035a27b99721d25aacde8ffd79d9bab27ae3e3c7815010d2b464c246c2bd277",
+      "new_translation": true,
+      "existing_french_revision": false,
+      "before_after_comparison_passed": true
+    }
+  ],
+  "natural_validation": false,
+  "limits": "Three repeated main-dialogue B2 lookups per name at camp. No party recruitment, natural battle or native compact menu coverage. Visual review is recorded separately."
+}

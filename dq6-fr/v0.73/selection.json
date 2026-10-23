@@ -1,0 +1,350 @@
+[
+  {
+    "position": 626,
+    "sids": [
+      626
+    ],
+    "current": "Death Staff",
+    "sfc_jp": "デススタッフ",
+    "current_message_sha256": "b74eb070cfd5fa752dfc1ab96ee4fd8dbad46786dd3e3ce50be868a438cf05f0",
+    "JP_message_sha256": "dc474107f8e90faf458021e94d7fe7c2fb798366b328d8eabd8fa8903160ea96",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS spectrokane : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 152,
+        "JA_text": "@1デス;スタッフ@",
+        "FR_text": "@0M@2le @3un @4spectrokane@5les @6des @7spectrokanes@8N@9N@",
+        "JA_sha256": "b68fb8733d7f9b94480bd0bc65822e59384d14827272f820b8d2f9e5fd70407b",
+        "FR_sha256": "192244916f0f2141d5d45cda8b35e6007e0d4ec2b0a231e86a0be92b858fde43"
+      }
+    ],
+    "proposal": "spectrokane",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Death Staff",
+    "secondary_IPS_message_sha256": "b74eb070cfd5fa752dfc1ab96ee4fd8dbad46786dd3e3ce50be868a438cf05f0",
+    "review_note": "Spectre matérialisé dans un bâton : nom d’espèce, pas un objet équipable. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 627,
+    "sids": [
+      627
+    ],
+    "current": "Flame Man",
+    "sfc_jp": "フレイムマン",
+    "current_message_sha256": "b81c193d69e341cf106822fd9abd7db1d2ca51ae3688efe363a7510c2469c21f",
+    "JP_message_sha256": "c20862547a4c1c6aeeb76a20cd8fde222316110b5685186127dcf559386c7664",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS feudjoie : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 36,
+        "JA_text": "@1フレイム;マン@",
+        "FR_text": "@0M@2le @3un @4feudjoie@5les @6des @7feudjoies@8N@9N@",
+        "JA_sha256": "1af470910f34fc5d8a1cc1cf852db517b2ee7f7a8ee656ab870796a3373cdcb0",
+        "FR_sha256": "ff4987af9852874e4aff37c57bdb88f716bff72273915c7a56d608704c24662e"
+      }
+    ],
+    "proposal": "feudjoie",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Flame Man",
+    "secondary_IPS_message_sha256": "b81c193d69e341cf106822fd9abd7db1d2ca51ae3688efe363a7510c2469c21f",
+    "review_note": "Monstre humanoïde de flamme : nom d’espèce, distinct de la compétence de feu. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 629,
+    "sids": [
+      629
+    ],
+    "current": "Hell Blaze",
+    "sfc_jp": "じごくのほのお",
+    "current_message_sha256": "b90c92d927b039a4e83f5861dd1c5167e33f1d0062fc313a01560f01f55f870d",
+    "JP_message_sha256": "97b7b6f283c60f8daaa4d039af5b8089be8389873827ccfb65579667876228d0",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS fournèze : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 138,
+        "JA_text": "@1じごくの;ほのお@",
+        "FR_text": "@0M@2le @3un @4fournèze@5les @6des @7fournèzes@8N@9N@",
+        "JA_sha256": "0b25ed31a2da3611ae3d7f8b0e260c052129c61d97002765ac87196c55260001",
+        "FR_sha256": "a7312d6f51b438965b5ea7caa96d1bdb3036d38972f434ca82549f0f7369a672"
+      }
+    ],
+    "proposal": "fournèze",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Hell Blaze",
+    "secondary_IPS_message_sha256": "b90c92d927b039a4e83f5861dd1c5167e33f1d0062fc313a01560f01f55f870d",
+    "review_note": "Monstre de flammes infernales : nom d’espèce, pas un souffle de combat. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 630,
+    "sids": [
+      630
+    ],
+    "current": "Death Slave",
+    "sfc_jp": "しのどれい",
+    "current_message_sha256": "377f6c9cfff4350c1e85e6611ab102b8cb506782ea70c5cfadb0b6d426117318",
+    "JP_message_sha256": "96a0c90041d28b70e89076a751f028e3999cd9e9ad1fe4f298a1be12c82c7692",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS zombinator : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 27,
+        "JA_text": "@1しのどれい@",
+        "FR_text": "@0M@2le @3un @4zombinator@5les @6des @7zombinators@8N@9N@",
+        "JA_sha256": "dce1cd15be1d2ec100c3ebce14492f02d9748722c7535763636f0bea6d54d397",
+        "FR_sha256": "0ff8710f5f253b4b41717c9b98ca18c71a82e80162cd6ab1223871d347d36e36"
+      }
+    ],
+    "proposal": "zombinator",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Death Slave",
+    "secondary_IPS_message_sha256": "377f6c9cfff4350c1e85e6611ab102b8cb506782ea70c5cfadb0b6d426117318",
+    "review_note": "Mort-vivant asservi : espèce, distinct des autres squelettes. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 631,
+    "sids": [
+      631
+    ],
+    "current": "Slave Soldier",
+    "sfc_jp": "どれいへいし",
+    "current_message_sha256": "2e443d3e9d3873e474659b58d22eec72aaec98f742b6f87decc5866c0338af56",
+    "JP_message_sha256": "d3c1663796f6eea5043ee6bc71d6ff2f6b17165ba225bf3bd88f094bca45dd3a",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS karkassor : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 63,
+        "JA_text": "@1どれい;へいし@",
+        "FR_text": "@0M@2le @3un @4karkassor@5les @6des @7karkassors@8N@9N@",
+        "JA_sha256": "2fae135ea7996927b66e4ef7326440cf8280f2a00fdda8b86f417f68397bafd4",
+        "FR_sha256": "e169484146205a9a27a4f399521676a6a0dd18827dc5b3ca028a7ea44b73b019"
+      }
+    ],
+    "proposal": "karkassor",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Slave Soldier",
+    "secondary_IPS_message_sha256": "2e443d3e9d3873e474659b58d22eec72aaec98f742b6f87decc5866c0338af56",
+    "review_note": "Soldat asservi : espèce distincte deしのどれい. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 632,
+    "sids": [
+      632
+    ],
+    "current": "Bone Prisoner",
+    "sfc_jp": "ボーンプリズナー",
+    "current_message_sha256": "e4b558e79c6a5bde01d70772cf1b2c906565c8cc3380a709d5a92257b9e5925b",
+    "JP_message_sha256": "2681e0f525c2abdd52bd48d394dce8c26c226a4555aabf46edcb411221f7af03",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS désosseur : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 129,
+        "JA_text": "@1ボーン;プリズナー@",
+        "FR_text": "@0M@2le @3un @4désosseur@5les @6des @7désosseurs@8N@9N@",
+        "JA_sha256": "6ee54090143d0550f6db9a2184245aae79e3be65557bb9494bc063a926cddf48",
+        "FR_sha256": "c9fd28413b4c3a7ad082a1e503097fb3784853ff659f36d7ff2fcf570b25c4bc"
+      }
+    ],
+    "proposal": "désosseur",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Bone Prisoner",
+    "secondary_IPS_message_sha256": "e4b558e79c6a5bde01d70772cf1b2c906565c8cc3380a709d5a92257b9e5925b",
+    "review_note": "Squelette prisonnier : nom d’espèce, pas un lieu ou un état. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 634,
+    "sids": [
+      634
+    ],
+    "current": "Skullgaroo",
+    "sfc_jp": "スカルガルー",
+    "current_message_sha256": "7b37715799cea29706b1612e3671037fdddecad6fe70f45e5bc62215fbfaa653",
+    "JP_message_sha256": "024dad6e32d2dea8e06b90223b21fefeebb471affc8dc183bfd0c51640078405",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS kangouffre : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 38,
+        "JA_text": "@1スカルガルー@",
+        "FR_text": "@0M@2le @3un @4kangouffre@5les @6des @7kangouffres@8N@9N@",
+        "JA_sha256": "af4160fb7b6ab28ffa6ae793d091ba149a95b812f1cb1821f995e6107110951b",
+        "FR_sha256": "652977df8d5d072b7bd14fd163a2d54a319310ecf9036cf2b47409377e825269"
+      }
+    ],
+    "proposal": "kangouffre",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Skullgaroo",
+    "secondary_IPS_message_sha256": "7b37715799cea29706b1612e3671037fdddecad6fe70f45e5bc62215fbfaa653",
+    "review_note": "Kangourou squelettique : espèce distincte des autres kangourous. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 636,
+    "sids": [
+      636
+    ],
+    "current": "Horror Walker",
+    "sfc_jp": "ホラーウォーカー",
+    "current_message_sha256": "03a229138d452caaf76e2ab7f8c4ce8f1eff0ebfab55e9c0d59c122b72f3e5e4",
+    "JP_message_sha256": "a94e4ba42e98be63a44d7be3930ab74741951b26bef5c0a2a968ef9f818e3acf",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS démonstre : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 89,
+        "JA_text": "@1ホラー;ウォーカー@",
+        "FR_text": "@0M@2le @3un @4démonstre@5les @6des @7démonstres@8N@9N@",
+        "JA_sha256": "2a87b9fe68517b4af24c1276cd8d0addb54011e1852e8ecd45506da85a304b5c",
+        "FR_sha256": "383f3e303caf483fac25b42dd501a79febc7dd0814cf35224ce95b9eec5dfaaf"
+      }
+    ],
+    "proposal": "démonstre",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Horror Walker",
+    "secondary_IPS_message_sha256": "03a229138d452caaf76e2ab7f8c4ce8f1eff0ebfab55e9c0d59c122b72f3e5e4",
+    "review_note": "Marcheur monstrueux : nom d’espèce, distinct des compétences. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 637,
+    "sids": [
+      637
+    ],
+    "current": "Dark Satan",
+    "sfc_jp": "ダークサタン",
+    "current_message_sha256": "972a2abbab01786b13a8f68e912df1fafd04cacb675e837fab8134df811ad302",
+    "JP_message_sha256": "d72c0065481351d638f858db6129856e06d7ee5089f24c3aa39e6c0a96778f2d",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS verminator : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 169,
+        "JA_text": "@1ダークサタン@",
+        "FR_text": "@0M@2le @3un @4verminator@5les @6des @7verminators@8N@9N@",
+        "JA_sha256": "fdcd9e41c12da787a3b63ed5f094efc5ba4802640449ba73f67c83d9ea04db88",
+        "FR_sha256": "1fba8a740834ce3994490c8826bcf47ef028ad39d230a64b832d914f3cf30713"
+      }
+    ],
+    "proposal": "verminator",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Dark Satan",
+    "secondary_IPS_message_sha256": "972a2abbab01786b13a8f68e912df1fafd04cacb675e837fab8134df811ad302",
+    "review_note": "Démon : nom d’espèce ; conserver la graphie française DS complète. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 642,
+    "sids": [
+      642
+    ],
+    "current": "Elder Tree",
+    "sfc_jp": "もりじじい",
+    "current_message_sha256": "751b7dbbf3dd3c2dce712a65653affe75b511a7cd327cbaddab6c90292bdc6f8",
+    "JP_message_sha256": "b6c3497ba170501756183959783183304d2a5c871c118557128c4b038e0ac3a5",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS arbomage : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 16,
+        "JA_text": "@1もりじじい@",
+        "FR_text": "@0M@2l'@3un @4arbomage@5les @6des @7arbomages@8N@9N@",
+        "JA_sha256": "e967f4b3deb799a3e312beaed6e8b744fc193f40e43f2c6fa045bf8ba3678788",
+        "FR_sha256": "207ca8600327889cd05ddc8d9de50e260bf0572b70a99d921880b4bbb7ec5da9"
+      }
+    ],
+    "proposal": "arbomage",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Elder Tree",
+    "secondary_IPS_message_sha256": "751b7dbbf3dd3c2dce712a65653affe75b511a7cd327cbaddab6c90292bdc6f8",
+    "review_note": "Vieillard végétal : espèce distincte du mage-fleur voisin. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 643,
+    "sids": [
+      643
+    ],
+    "current": "Flower Mage",
+    "sfc_jp": "はなまどう",
+    "current_message_sha256": "877327fcee22fd95059f4bf9ab4c719752a670705293897a05c6f1a567ac27ee",
+    "JP_message_sha256": "cf6489ff8274df502b4cb1e6c752fb515f87e09b87e10f61bf3899f3ec569c44",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS arbomancien : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 28,
+        "JA_text": "@1はなまどう@",
+        "FR_text": "@0M@2l'@3un @4arbomancien@5les @6des @7arbomanciens@8N@9Y@",
+        "JA_sha256": "f0cc8d3ecc9b34426ba7475824a5e60d6c1c5327dffcc5fc8b6e5b2f4023e551",
+        "FR_sha256": "71e8badc4ddbe3230534ec69caf5570f4a6416674a4061ac127d01e23fcd83ac"
+      }
+    ],
+    "proposal": "arbomancien",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Flower Mage",
+    "secondary_IPS_message_sha256": "877327fcee22fd95059f4bf9ab4c719752a670705293897a05c6f1a567ac27ee",
+    "review_note": "Mage végétal : espèce distincte du vieillard sylvestre. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  },
+  {
+    "position": 645,
+    "sids": [
+      645
+    ],
+    "current": "Evil Franken",
+    "sfc_jp": "エビルフランケン",
+    "current_message_sha256": "4387fe9f1c48a12d87f6d9173d962dd93e46afa6039fbe67bb3c3caf571f841b",
+    "JP_message_sha256": "484f801582b4d118b3fbe7a999a7ca5c8f3d3fe3aa37c5e69ceaa0d23aa6e3f2",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition DS écorcheur : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 170,
+        "JA_text": "@1エビル;フランケン@",
+        "FR_text": "@0M@2l'@3un @4écorcheur@5les @6des @7écorcheurs@8N@9Y@",
+        "JA_sha256": "aef2da1cfa3f596a297b51f01a7e29a6ef4456774b9b243b4ec77df357ae1a6f",
+        "FR_sha256": "ab4ce83273ba5baca545f989aae0e4a07f3029f40780abda3f5360e56b4edd76"
+      }
+    ],
+    "proposal": "écorcheur",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Evil Franken",
+    "secondary_IPS_message_sha256": "4387fe9f1c48a12d87f6d9173d962dd93e46afa6039fbe67bb3c3caf571f841b",
+    "review_note": "Monstre de type Frankenstein : nom d’espèce, distinct de la compétence de découpe. Le japonais SFC correspond exactement au champ japonais DS ; le nom français DS est conservé sans abréviation. Diagnostic seulement, accords et scènes naturelles restent ouverts."
+  }
+]
