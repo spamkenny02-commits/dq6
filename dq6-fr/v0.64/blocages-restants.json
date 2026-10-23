@@ -1,0 +1,71 @@
+{
+  "release": "v0.64",
+  "prepared_technical_labels": [
+    {
+      "id": 27,
+      "status": "PREPARE_NON_INSERE",
+      "source_message_sha256": "76502c10862064eb05b06123c0082b43e2c73c3ee9c493bda368f10855a28f07",
+      "source_text_sha256": "1440323d46b1876909a64ea81d922ef614a634e25757f88f06a9bc7edddd4de9",
+      "previous_message_sha256": "386b5f588f46c251b1abd82741dd648416783cdf1d0e1ca57c69feded5d47c88",
+      "french_plan": "{BC}{B7}. Message d'attaque 10 !{B1}{AC}",
+      "encoded_hex": "bcb77f011c46545442484601457742555542525646010302017ab1ac",
+      "review": "Traduction littérale du libellé technique JP et de son numéro. Aucun rapprochement DS établi ; contexte appelant à tracer avant insertion.",
+      "blocking_reason": "Libellé technique message attaque10. Aucun appelant établi ; traduction littérale préparée sans insertion.",
+      "included_in_two_remaining": true,
+      "emulator_tested": false
+    },
+    {
+      "id": 277,
+      "status": "PREPARE_NON_INSERE",
+      "source_message_sha256": "dad55c8ec23d3cd002d9930c15467072a2cf0c37c52034279157272dea28b2d2",
+      "source_text_sha256": "181c1bb73798ce3585f2e49d546d189c8ea1e159e041af67e338ae4206ce8edb",
+      "previous_message_sha256": "71934530f6afd62d6d22d4710e4c2bf8bf69091e257039357c997b83711dfc06",
+      "french_plan": "{BC}{B7} ne fait rien 6 !{B1}{AC}",
+      "encoded_hex": "bcb7014f460147424a5501534a464f0108017ab1ac",
+      "review": "Traduction littérale du libellé technique JP et de son numéro. Aucun rapprochement DS établi ; contexte appelant à tracer avant insertion.",
+      "blocking_reason": "Libellé technique aucune-action6. Aucun appelant établi ; ne pas valider le hiding hérité comme du japonais.",
+      "included_in_two_remaining": true,
+      "emulator_tested": false
+    }
+  ],
+  "source_boundary_slots": [
+    603,
+    604,
+    605,
+    606,
+    607
+  ],
+  "source_boundary_report": "dq6-fr/v0.63/audit-frontiere-source.json",
+  "blocking_inherited_name_tail": {
+    "release": "v0.64",
+    "status": "BLOCAGE_HERITE_AUDIT_TAIL_NOMS_V061",
+    "introduced_by": "v0.61 name repack, unchanged in v0.62–v0.64",
+    "source_v060_ROM_sha256": "4b8d7f5f484300402022e4563ed4d989c6ef30ac57a1b878cb1b58a6183f621c",
+    "current_ROM_sha256": "bbf8d22250a12a2e9542d46502e4de244ab9543fb7f3e3fd7225dced4d123b4e",
+    "reachable_physical_entries": 2048,
+    "runtime_SIDs": 2512,
+    "aliases": 464,
+    "old_reachable_end": 3915536,
+    "new_reachable_end": 3915543,
+    "reference_name_pool_end": 3917586,
+    "tail_prefix_consumed_bytes": 7,
+    "tail_prefix_before_sha256": "615eb722f6ae24b2017f682b987c1aac3d8a6d15a44086f5993d324a4049b349",
+    "tail_prefix_current_sha256": "7bf736f09884ec95e0cbdf3ce7702b9d33171b8d4a325310014481a8a2f47fe3",
+    "tail_prefix_was_all_ff": false,
+    "actually_changed_byte_count": 4,
+    "remaining_tail_after_consumed_prefix_byte_identical": true,
+    "v064_changes_this_region": false,
+    "old_tail_recoverable_from_v060_patch": true,
+    "hardcoded_or_unknown_consumers_audited": false,
+    "fix_applied": false,
+    "required_resolution": "Identifier les consommateurs de la fin non atteinte par2512SIDs puis prouver ces octets inutilisés,ou déplacer/recompacter les noms en conservant les données et tester les lecteurs. Ne pas restaurer les7octets en place : cela écraserait la fin des noms actifs.",
+    "limits": "La restauration identique depuis Git reproduit ce risque hérité ; elle ne le résout pas. Aucun bloc libre déduit de cette fin de table."
+  },
+  "other_open": [
+    "Main audits322/323,1836,4095,610/1135/2404/5341/5351",
+    "Natural battle,calls,names and compact windows",
+    "Remaining names,menus,objects,spells,vocations,descriptions and other resources",
+    "Complete main and resource proofreading",
+    "All16 compound RNG natural combinations"
+  ]
+}

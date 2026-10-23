@@ -1,0 +1,71 @@
+{
+  "release": "v0.64",
+  "JP_sha256": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e",
+  "base_v063_sha256": "fcb75b98efbe662a4ef9475e5ca3cbf82e7051ec07286f1412b7ba879d1ab9dd",
+  "bindings": [
+    {
+      "label": "C6_flag",
+      "offset": 430556,
+      "size": 7,
+      "JP_sha256": "5db73ab6a1af906d4ee898de80eea005b2d5ab1b1e5b78bba34ac4d7d11857aa",
+      "base_v063_sha256": "5db73ab6a1af906d4ee898de80eea005b2d5ab1b1e5b78bba34ac4d7d11857aa",
+      "JP_and_base_identical": true,
+      "meaning": "C6 sets WRAM5A1C=1 then RTL; no glyph and no damage mutation."
+    },
+    {
+      "label": "XP_conditional_each",
+      "offset": 175905,
+      "size": 11,
+      "JP_sha256": "25bb7d664bbeeec5bae645fce5fda5e9e85c4dd92ecb2c7c6099b43bfae82259",
+      "base_v063_sha256": "25bb7d664bbeeec5bae645fce5fda5e9e85c4dd92ecb2c7c6099b43bfae82259",
+      "JP_and_base_identical": true,
+      "meaning": "CMP2; BCC skips54 below2 beneficiaries. Two54/55 fragments share this context."
+    },
+    {
+      "label": "XP_amount_and55",
+      "offset": 175916,
+      "size": 19,
+      "JP_sha256": "edb1d922eef3f01f0c618aea8ad74106e050a20b793f3dbb0a1c439acf085378",
+      "base_v063_sha256": "edb1d922eef3f01f0c618aea8ad74106e050a20b793f3dbb0a1c439acf085378",
+      "JP_and_base_identical": true,
+      "meaning": "254D/254F copied to5A2E/5A30, then inline55,RTS."
+    },
+    {
+      "label": "stats_native_five_fields",
+      "offset": 176134,
+      "size": 60,
+      "JP_sha256": "80f108d34f880f565438d80102205bd0034df1ee98ca83f0ecab562c8508e644",
+      "base_v063_sha256": "80f108d34f880f565438d80102205bd0034df1ee98ca83f0ecab562c8508e644",
+      "JP_and_base_identical": true,
+      "meaning": "485B→60,485F→61,4861→62,485D→63,4863→64. This source order is preserved."
+    },
+    {
+      "label": "rank_primary_pair",
+      "offset": 176860,
+      "size": 18,
+      "JP_sha256": "80c59d7f2c38855a468995d4d39f7c76f830ef77119c64dd0cf90697e2fe83a8",
+      "base_v063_sha256": "80c59d7f2c38855a468995d4d39f7c76f830ef77119c64dd0cf90697e2fe83a8",
+      "JP_and_base_identical": true,
+      "meaning": "Inline76, load4877 toB2, inline77. First B2 is vocation; second is rank."
+    },
+    {
+      "label": "rank_secondary_pair",
+      "offset": 195158,
+      "size": 18,
+      "JP_sha256": "80c59d7f2c38855a468995d4d39f7c76f830ef77119c64dd0cf90697e2fe83a8",
+      "base_v063_sha256": "80c59d7f2c38855a468995d4d39f7c76f830ef77119c64dd0cf90697e2fe83a8",
+      "JP_and_base_identical": true,
+      "meaning": "Same76/77 pair and4877 binding, second native caller."
+    }
+  ],
+  "C6_dispatch_offset": 81,
+  "C6_handler": 13013468,
+  "plus_byte": "0C",
+  "plus_main_glyph": "0208",
+  "plus_tile_sha256": "f565a2cc167ec31fa0fa8daec3a4357f0f75268a7a280a2314082da87d376be1",
+  "plus_tile_visually_reviewed": true,
+  "font_modified": false,
+  "engine_modified": false,
+  "frames_are_diagnostic": true,
+  "natural_battle_reachability": false
+}

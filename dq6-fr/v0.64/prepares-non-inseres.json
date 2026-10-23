@@ -1,0 +1,28 @@
+[
+  {
+    "id": 27,
+    "status": "PREPARE_NON_INSERE",
+    "source_message_sha256": "76502c10862064eb05b06123c0082b43e2c73c3ee9c493bda368f10855a28f07",
+    "source_text_sha256": "1440323d46b1876909a64ea81d922ef614a634e25757f88f06a9bc7edddd4de9",
+    "previous_message_sha256": "386b5f588f46c251b1abd82741dd648416783cdf1d0e1ca57c69feded5d47c88",
+    "french_plan": "{BC}{B7}. Message d'attaque 10 !{B1}{AC}",
+    "encoded_hex": "bcb77f011c46545442484601457742555542525646010302017ab1ac",
+    "review": "Traduction littérale du libellé technique JP et de son numéro. Aucun rapprochement DS établi ; contexte appelant à tracer avant insertion.",
+    "blocking_reason": "Libellé technique message attaque10. Aucun appelant établi ; traduction littérale préparée sans insertion.",
+    "included_in_two_remaining": true,
+    "emulator_tested": false
+  },
+  {
+    "id": 277,
+    "status": "PREPARE_NON_INSERE",
+    "source_message_sha256": "dad55c8ec23d3cd002d9930c15467072a2cf0c37c52034279157272dea28b2d2",
+    "source_text_sha256": "181c1bb73798ce3585f2e49d546d189c8ea1e159e041af67e338ae4206ce8edb",
+    "previous_message_sha256": "71934530f6afd62d6d22d4710e4c2bf8bf69091e257039357c997b83711dfc06",
+    "french_plan": "{BC}{B7} ne fait rien 6 !{B1}{AC}",
+    "encoded_hex": "bcb7014f460147424a5501534a464f0108017ab1ac",
+    "review": "Traduction littérale du libellé technique JP et de son numéro. Aucun rapprochement DS établi ; contexte appelant à tracer avant insertion.",
+    "blocking_reason": "Libellé technique aucune-action6. Aucun appelant établi ; ne pas valider le hiding hérité comme du japonais.",
+    "included_in_two_remaining": true,
+    "emulator_tested": false
+  }
+]

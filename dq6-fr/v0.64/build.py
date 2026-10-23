@@ -1,0 +1,5 @@
+from common import *
+import argparse
+p=argparse.ArgumentParser();p.add_argument('--jp',type=Path,required=True);p.add_argument('--out',type=Path,required=True);a=p.parse_args();jp=a.jp.read_bytes();base,rows=prepare(jp);assert rows==read(O/'insertion-combat.json');rom,placement=assemble(base,rows);bps,ips=patches(jp,rom);a.out.mkdir(parents=True,exist_ok=True);(a.out/'result.sfc').write_bytes(rom);(a.out/'DQVI-FR-DS-v0.64-BASE-JP-PARTIEL.ips').write_bytes(ips);(R/'patches/DQVI-FR-DS-v0.64-BASE-JP-PARTIEL.bps').write_bytes(bps)
+r=dict(release='v0.64',baseline='v0.63',ROM_bytes=len(rom),ROM_sha256=sha(rom),BPS_sha256=sha(bps),IPS_sha256=sha(ips),placement=placement,engine=BASE['engine'],engine_modified=False,names_modified=False,font_modified=False,new_battle_ids=IDS,new_battle_integrated=len(IDS),battle_integrated_total=586+len(IDS),inherited_remaining=13-len(IDS),main_unchanged=6957,natural_battle_validation=False)
+(O/'build-report.json').write_text(json.dumps(r,ensure_ascii=False,indent=2)+'\n');print(r['ROM_sha256'],len(rows))

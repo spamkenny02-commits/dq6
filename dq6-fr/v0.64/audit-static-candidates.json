@@ -1,0 +1,32 @@
+{
+  "release": "v0.64",
+  "scans": [
+    {
+      "entry": "C02A16",
+      "candidate_count": 310,
+      "candidate_ID_max": 565,
+      "technical27": [],
+      "technical277": [],
+      "outside603_607": [],
+      "scope": "Raw opcode-pattern candidates in bankC2; inline shape confirmed for this lot only. Dynamic dispatch,other banks and data false positives are not resolved."
+    },
+    {
+      "entry": "C02A3C",
+      "candidate_count": 0,
+      "candidate_ID_max": null,
+      "technical27": [],
+      "technical277": [],
+      "outside603_607": [],
+      "scope": "Raw opcode-pattern candidates in bankC2; inline shape confirmed for this lot only. Dynamic dispatch,other banks and data false positives are not resolved."
+    }
+  ],
+  "absence_does_not_prove_unreachable": true,
+  "source_boundary_audit_kept": "dq6-fr/v0.63/audit-frontiere-source.json",
+  "unresolved_opaque_slots": [
+    603,
+    604,
+    605,
+    606,
+    607
+  ]
+}

@@ -1,0 +1,495 @@
+[
+  {
+    "id": 35,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "61233b05d386f7b8d9d9fbd8e90c289a0cd54a31b73ef2637d3e8ab6c6c0a67d",
+    "source_text_sha256": "514279cb45265d7807628d8244b80e8346231397df9840a95f26079a8cc7857d",
+    "previous_message_sha256": "218d749d3efbcd78db33134be92c706fcfbd8138096729a64da543524d9353ba",
+    "french_plan": "Dégâts subis par {B8} ! {BB} !{C6}{AC}",
+    "encoded_hex": "132d48355554015456434a540151425301b8017a01bb017ac6ac",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 172,
+        "ja_text_sha256": "b6f991960d5882af06cc515d4aa298841af51c4a4b3cd13734ab0d83bd7616f4",
+        "fr_text_sha256": "fc660c9539b55688202d3d09a9a5207e0977a5976d427adb639abcb4775338a1",
+        "scope": "JP_COMPLET_NORMALISE_IDENTIQUE_CONTROLES_ET_ROLES_SFC_CONSERVES"
+      },
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 144,
+        "ja_text_sha256": "ef72fa73f4f0b5dc144f3e5f263149db5d9724ebc7d40d07a7d68f3eeccc1de1",
+        "fr_text_sha256": "00882d3122b388659a654f22b9a71110ae06d669db3ab652f3a5b9cc90fd79b6",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "MESSAGE",
+    "inherited_language": "ANGLAIS_TRADUIT",
+    "specific_review": "C6=STA5A1C,1 sans impression ; commande conservée et flag testé. Forme nominale fixe évitant point/points selon BB.",
+    "legacy_command_audit": {
+      "previous": [
+        "B8",
+        "BB",
+        "C6",
+        "AC"
+      ],
+      "source_and_new": [
+        "B8",
+        "BB",
+        "C6",
+        "AC"
+      ],
+      "changed": false,
+      "reason": "Ordre et nombre conservés ; seuls AD de disposition remplacés par espaces."
+    }
+  },
+  {
+    "id": 36,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "626ed89110cdff5c293d8c487fd14a8e7287a7606dafffee5782f36fa2865c95",
+    "source_text_sha256": "6221767cc80d691b94f1bc7ad90d20ff7f32f16b276299269fe0971e4b120310",
+    "previous_message_sha256": "218d749d3efbcd78db33134be92c706fcfbd8138096729a64da543524d9353ba",
+    "french_plan": "Dégâts subis par {B8} ! {BB} !{C6}{AC}",
+    "encoded_hex": "132d48355554015456434a540151425301b8017a01bb017ac6ac",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 152,
+        "ja_text_sha256": "12e1d8a1d921a3ed0000cb9a1a98786ac2e5212914d7afc64100b95b5dc65c63",
+        "fr_text_sha256": "70473e5322831d2e123f62e11186812b16d974a01a4b383b221db64ba0418696",
+        "scope": "JP_COMPLET_NORMALISE_IDENTIQUE_CONTROLES_ET_ROLES_SFC_CONSERVES"
+      },
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 176,
+        "ja_text_sha256": "792982dd71da6786493e922a8cb26b5dcba3c5966fcff0d0df200e3f1c13179e",
+        "fr_text_sha256": "6bc8211e94581374a772be33bba57d06ea0b5f93d2da69a55ef2e0e6a6f59b54",
+        "scope": "JP_COMPLET_NORMALISE_IDENTIQUE_CONTROLES_ET_ROLES_SFC_CONSERVES"
+      },
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 152,
+        "ja_text_sha256": "12e1d8a1d921a3ed0000cb9a1a98786ac2e5212914d7afc64100b95b5dc65c63",
+        "fr_text_sha256": "70473e5322831d2e123f62e11186812b16d974a01a4b383b221db64ba0418696",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "MESSAGE",
+    "inherited_language": "ANGLAIS_TRADUIT",
+    "specific_review": "AppelantJP02AC16 imprime36 ; même C6 intact. Forme nominale fixe pour0/1/pluriel.",
+    "legacy_command_audit": {
+      "previous": [
+        "B8",
+        "BB",
+        "C6",
+        "AC"
+      ],
+      "source_and_new": [
+        "B8",
+        "BB",
+        "C6",
+        "AC"
+      ],
+      "changed": false,
+      "reason": "Ordre et nombre conservés ; seuls AD de disposition remplacés par espaces."
+    }
+  },
+  {
+    "id": 54,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "d4d875433706e4fb983d766de400dc1635b87cde12365619736a8e5e117a53e3",
+    "source_text_sha256": "9f81b7017930381a8ff9522191b5f37baef8f6630a14544f5b1dba4a9048d302",
+    "previous_message_sha256": "d2ef7a65b808853c112510f3cec7949e27b761415f8e7b949bdaccaa4c7a86a9",
+    "french_plan": "Par membre de l'équipe{AC}",
+    "encoded_hex": "1f4253014e464e435346014546014d772d52564a5146ac",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 83,
+        "ja_text_sha256": "e61a447ccc453897fd00fab9be944fefdca8b54c19301d7bdbd971df80912ad8",
+        "fr_text_sha256": "178d00b30cd027429c8fb7eb95cf0c6a325fe91cf0adf7077818b93f9dd505b7",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "FRAGMENT_COMPOSITION",
+    "inherited_language": "FR_CORRIGE",
+    "specific_review": "Fragment facultatif pour plusieurs bénéficiaires selon02AF21–2A. En-tête par membre ; ne pas inventer de bénéficiaire nommé.",
+    "legacy_command_audit": {
+      "previous": [
+        "AC"
+      ],
+      "source_and_new": [
+        "AC"
+      ],
+      "changed": false,
+      "reason": "Ordre et nombre conservés ; seuls AD de disposition remplacés par espaces."
+    }
+  },
+  {
+    "id": 55,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "9b4a7e44e2c052a806d732af6ab1bd77ad36a03537ca9fcd04f865efcec12200",
+    "source_text_sha256": "b3102eb42044f482edf57454a7d71d61d38e19fa37f21a84dcbf6e9c692310f9",
+    "previous_message_sha256": "fb161657d2f7f52a09d8d3f6ddffd97a9d1c4caaf194c8e5bf7e9e7d09389e02",
+    "french_plan": "Gain de {BB} EXP !{AC}",
+    "encoded_hex": "16424a4f01454601bb0114271f017aac",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 83,
+        "ja_text_sha256": "e61a447ccc453897fd00fab9be944fefdca8b54c19301d7bdbd971df80912ad8",
+        "fr_text_sha256": "178d00b30cd027429c8fb7eb95cf0c6a325fe91cf0adf7077818b93f9dd505b7",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "FRAGMENT_COMPOSITION",
+    "inherited_language": "ANGLAIS_TRADUIT",
+    "specific_review": "Gain autonome quand54 absent, composé quand présent. EXP abréviation invariable pour0/1/grandes valeurs ; pas de faux pluriel.",
+    "legacy_command_audit": {
+      "previous": [
+        "BB",
+        "AC"
+      ],
+      "source_and_new": [
+        "BB",
+        "AC"
+      ],
+      "changed": false,
+      "reason": "Ordre et nombre conservés ; seuls AD de disposition remplacés par espaces."
+    }
+  },
+  {
+    "id": 60,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "3b5a2750bfe235bfa878959f28da4b780efaad533dab485a5f75e19c2e5f170d",
+    "source_text_sha256": "e4595a6e3e42eaecb69cd3d19bbfe1df227bde6157fb32aec32fb4aad341027f",
+    "previous_message_sha256": "d69aba6d97f8ec357a6d5867d752b38db572d25b3e91adc4405406cfd6ee6542",
+    "french_plan": "Force +{BB}{AE}",
+    "encoded_hex": "1550534446010cbbae",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 94,
+        "ja_text_sha256": "f87c30c1fc96dc78117f2a0df712f3d7e5b633dc2fe864e27e807f1fcff07104",
+        "fr_text_sha256": "910d321fd1dbb61edef523073b8876dd988ba7488bab67805cc011464edbedbe",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "FRAGMENT_COMPOSITION",
+    "inherited_language": "FR_CORRIGE",
+    "specific_review": "Premier champ puis61 : AE natif conservé. Signe+ existant0C, aucune tuile modifiée.",
+    "legacy_command_audit": {
+      "previous": [
+        "BB",
+        "AE"
+      ],
+      "source_and_new": [
+        "BB",
+        "AE"
+      ],
+      "changed": false,
+      "reason": "Ordre et nombre conservés ; seuls AD de disposition remplacés par espaces."
+    }
+  },
+  {
+    "id": 61,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "e10e77935cdf47124e792750bf93a5dd295570a229bc2b6bb1b6de884783a16e",
+    "source_text_sha256": "4ce53a0b591e91efdd69a36c81409f153fb0280e3db4f2e4f1b2e70d4620f2ff",
+    "previous_message_sha256": "b321413c683ac5074f1220c97108de5fcf49f82890ec333141a6a907e8ecec0e",
+    "french_plan": " Agilité +{BB}{AC}",
+    "encoded_hex": "0110484a4d4a552d010cbbac",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 94,
+        "ja_text_sha256": "f87c30c1fc96dc78117f2a0df712f3d7e5b633dc2fe864e27e807f1fcff07104",
+        "fr_text_sha256": "910d321fd1dbb61edef523073b8876dd988ba7488bab67805cc011464edbedbe",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "FRAGMENT_COMPOSITION",
+    "inherited_language": "FR_CORRIGE",
+    "specific_review": "Deuxième champ après60. AC source restauré au lieu du AE hérité ; une espace sépare les colonnes françaises.",
+    "legacy_command_audit": {
+      "previous": [
+        "BB",
+        "AE"
+      ],
+      "source_and_new": [
+        "BB",
+        "AC"
+      ],
+      "changed": true,
+      "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+    }
+  },
+  {
+    "id": 62,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "beb14660a570b06d08cab5e76c4b66b0101632db6e59337057a4f9d9fa54c814",
+    "source_text_sha256": "b8f7b6627a7582aef23e1b5aa9c9f7921c10bc0d4c20243ed4fc3f3eef341016",
+    "previous_message_sha256": "65349030ab7d7b1ab620271366d09e5a0af62da8617afddc75cd9b78c81e1ff6",
+    "french_plan": "Sagesse +{BB}{AE}",
+    "encoded_hex": "22424846545446010cbbae",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 94,
+        "ja_text_sha256": "f87c30c1fc96dc78117f2a0df712f3d7e5b633dc2fe864e27e807f1fcff07104",
+        "fr_text_sha256": "910d321fd1dbb61edef523073b8876dd988ba7488bab67805cc011464edbedbe",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "FRAGMENT_COMPOSITION",
+    "inherited_language": "FR_CORRIGE",
+    "specific_review": "Sagesse puis63. AE natif conservé ; ordre SFC conservé malgré ordre DS.",
+    "legacy_command_audit": {
+      "previous": [
+        "BB",
+        "AE"
+      ],
+      "source_and_new": [
+        "BB",
+        "AE"
+      ],
+      "changed": false,
+      "reason": "Ordre et nombre conservés ; seuls AD de disposition remplacés par espaces."
+    }
+  },
+  {
+    "id": 63,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "988c596abd3a33df2a7a80e598e3163f4e17ba72dc77dac7bef6e9a3d9cb9a2f",
+    "source_text_sha256": "91ece2a97a04f53ba079d06f50924edff5c92e98998537791828e69827febc30",
+    "previous_message_sha256": "f77d0bfbef4c57bd5384e77a9fdd924e7b825b8b39ae3247704d1f6896b3970a",
+    "french_plan": " Vitalité +{BB}{AC}",
+    "encoded_hex": "01254a55424d4a552d010cbbac",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 94,
+        "ja_text_sha256": "f87c30c1fc96dc78117f2a0df712f3d7e5b633dc2fe864e27e807f1fcff07104",
+        "fr_text_sha256": "910d321fd1dbb61edef523073b8876dd988ba7488bab67805cc011464edbedbe",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "FRAGMENT_COMPOSITION",
+    "inherited_language": "FR_CORRIGE",
+    "specific_review": "Vitalité selonDS0801:94. AC source restauré au lieu du AE hérité.",
+    "legacy_command_audit": {
+      "previous": [
+        "BB",
+        "AE"
+      ],
+      "source_and_new": [
+        "BB",
+        "AC"
+      ],
+      "changed": true,
+      "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+    }
+  },
+  {
+    "id": 64,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "7e1ac0790c0e8a7441d495f40d47b663172466b77c4a4f7d7a07013f6c292d6b",
+    "source_text_sha256": "18854bf979986e7b534a1a13e0f99f859f35f2083364e618ecbc888ca20ab430",
+    "previous_message_sha256": "d898ce38d2a8399ee025acd2927c7430114bacc84fdcae8c432632fba8e26e9a",
+    "french_plan": "Style +{BB}{AC}",
+    "encoded_hex": "22555a4d46010cbbac",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 94,
+        "ja_text_sha256": "f87c30c1fc96dc78117f2a0df712f3d7e5b633dc2fe864e27e807f1fcff07104",
+        "fr_text_sha256": "910d321fd1dbb61edef523073b8876dd988ba7488bab67805cc011464edbedbe",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "FRAGMENT_COMPOSITION",
+    "inherited_language": "FR_CORRIGE",
+    "specific_review": "Style, dernière ligne. AC source restauré au lieu du AE hérité.",
+    "legacy_command_audit": {
+      "previous": [
+        "BB",
+        "AE"
+      ],
+      "source_and_new": [
+        "BB",
+        "AC"
+      ],
+      "changed": true,
+      "reason": "Les commandes VF ajoutées ou perdues sont corrigées explicitement vers la séquence JP pour ce seul ID."
+    }
+  },
+  {
+    "id": 76,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "3406bb48a7f69c648247183757e0f606b0aa270892a1f19814ee4324855bbed7",
+    "source_text_sha256": "0e7737e4a71609756831ef5f558b8b52545a948a16f7abccdd4cc960fd981296",
+    "previous_message_sha256": "e851d1ab6eb4aa8b1b160e1b2f2c40f3f638684f10d3d9d47155870360f04f40",
+    "french_plan": "{BC}{B3}, de la vocation {B2},{AC}",
+    "encoded_hex": "bcb38b014546014d420157504442554a504f01b28bac",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 103,
+        "ja_text_sha256": "628567a1e4eaa5f7b1942e40e465341c9d356aaecb2c159a009c969666af8d83",
+        "fr_text_sha256": "a4701582875b70fa32847b9874713fba8aa5d3965bebaadfad88eb3c61a48429",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "FRAGMENT_COMPOSITION",
+    "inherited_language": "ANGLAIS_TRADUIT",
+    "specific_review": "B3 sujet et premierB2 vocation ; deuxièmeB2 de77 est le rang. Conserver l’ordre de la composition SFC.",
+    "legacy_command_audit": {
+      "previous": [
+        "BC",
+        "B3",
+        "B2",
+        "AC"
+      ],
+      "source_and_new": [
+        "BC",
+        "B3",
+        "B2",
+        "AC"
+      ],
+      "changed": false,
+      "reason": "Ordre et nombre conservés ; seuls AD de disposition remplacés par espaces."
+    }
+  },
+  {
+    "id": 77,
+    "status": "RELU_PRET_POUR_INSERTION",
+    "semantic_review": "RELU_JP_FR_CONTEXTE_DISPONIBLE",
+    "source_message_sha256": "599dc1155a00d59ac649d22c87d27b757bf9b9a57fc389780c2ed36fe959d5e1",
+    "source_text_sha256": "a9e47fdbd4d8976f40b9d4a5c296588ad5103844d6e3c8df448fb083d773bbbb",
+    "previous_message_sha256": "dc76b9218ab4cf9a53754f617e4c1e40aed99eecdb8777b6779945bfae6ac3f5",
+    "french_plan": "atteint le rang {B2} !{AC}",
+    "encoded_hex": "425555464a4f55014d460153424f4801b2017aac",
+    "ds_references": [
+      {
+        "file": "data/MESS6/JA/0801.p",
+        "id": 103,
+        "ja_text_sha256": "628567a1e4eaa5f7b1942e40e465341c9d356aaecb2c159a009c969666af8d83",
+        "fr_text_sha256": "a4701582875b70fa32847b9874713fba8aa5d3965bebaadfad88eb3c61a48429",
+        "scope": "FRAGMENTS_JP_FR_RELUS_COMPOSITION_SFC_EXPLICITE_CONTROLES_CONSERVES"
+      }
+    ],
+    "source_context_ids": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "review": "Formulation DS adaptée lorsque la phrase japonaise complète normalisée concorde ; sinon adaptation directe SFC, aucun rapprochement flou validé. Noms et quantités restent des commandes natives ; accords évités pour les noms variables.",
+    "entry_kind": "FRAGMENT_COMPOSITION",
+    "inherited_language": "ANGLAIS_TRADUIT",
+    "specific_review": "Phrase construite avec76, pas de rang déplacé avant la vocation ; pas de nouveau nom de classe traduit ici.",
+    "legacy_command_audit": {
+      "previous": [
+        "B2",
+        "AC"
+      ],
+      "source_and_new": [
+        "B2",
+        "AC"
+      ],
+      "changed": false,
+      "reason": "Ordre et nombre conservés ; seuls AD de disposition remplacés par espaces."
+    }
+  }
+]

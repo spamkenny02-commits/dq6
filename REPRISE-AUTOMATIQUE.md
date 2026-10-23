@@ -1,3 +1,11 @@
+# Reprise v0.64 — 11 compositions/contrôles combat et réserve héritée des noms
+
+597 entrées combat qualifiées ;2libellés techniques27/277 préparés non insérés inclus dans le reliquat,5emplacements VF603–607 hors frontière JP,4structures.11entrées intégrées :5anglais traduits,6français corrigés,dont9fragments. Lire dq6-fr/v0.64/README.md,revue,delta,bindings et QA. Tester les fragments en composition,conserver+0C et les AC source restaurés de61/63/64.36scénarios positifs,1négatifC6,lecteurs,bus,démarrage et patchs vérifiés ; aucun parcours naturel déclaré.
+
+**Réserve bloquante héritée v061 :** les noms atteignables ont grandi de7octets,de0x3BBF10 à0x3BBF17,dans une fin de table non auditée et nonFF.4octets ont changé ; le reste du tail est intact. v064 ne change pas cette zone. Lire audit-tail-noms-herite.json ; prouver l'absence de consommateurs ou relocaliser/recompacter proprement. Ne pas restaurer en place en corrompant les noms actifs. Restauration depuis Git ne vaut pas résolution de cette réserve.
+
+Inventaire noms actuel2512SIDs/2048physiques/464alias :39français qualifiés,25candidatsFRàrevoir,344identifiants non traduits,1556autres textes à revoir,83vides à qualifier,1crédit retiré,0japonais détecté (pas preuve de français).25lieux préparés,4aides et16compositions inchangés. Principal6957 sélections dont9structures inchangé,relecture exhaustive0. Protéger pool natif et moteur v061. Reprendre27/277,slots603–607,tail hérité,autres tables,relecture et audits ; ne pas recycler le lot.8Mio.
+
 # Reprise v0.63 — 191 entrées combat qualifiées, frontière JP corrigée
 
 586 entrées françaises qualifiées en diagnostic. Ce lot comprend188 traductions anglaises,2 corrections françaises et1 fragment de composition497, pas191 nouvelles phrases autonomes.13 textes JP valides restent différés,5 emplacements VF603–607 restent opaques et4 structures restent hors traduction. Le lecteur JP historique débordait à603 dans le script principal compressé à0x37175B : lire audit-frontiere-source.json ; source_guard.py borne désormais la préparation à602. Les cinq emplacements sont conservés à l'identique, sans les appeler vides ou inutilisés. Aucun total608 de textes japonais n'est validé.

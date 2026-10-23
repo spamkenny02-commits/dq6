@@ -1,0 +1,50 @@
+{
+  "release": "v0.64",
+  "ROM_sha256": "bbf8d22250a12a2e9542d46502e4de244ab9543fb7f3e3fd7225dced4d123b4e",
+  "diagnostic_main_redirect": true,
+  "legacy_state_VRAM_font_refreshed_from_ROM": true,
+  "diagnostic_native_mode2_override": false,
+  "natural_battle": false,
+  "production_engine_unchanged": true,
+  "private_C6_disabled": true,
+  "results": [
+    {
+      "id": 35,
+      "fixture_sha256": "bbab2e828832ddd2b6d64472ff4fa12797e292bc14952f9525f7d653c2f5f0cf",
+      "B2_value": 1567,
+      "B3_value": 1,
+      "B4_value": 1,
+      "B5_value": 1,
+      "BB_value": 1,
+      "C6_flag_after_call": 0,
+      "actor_and_target_SID": "02F1",
+      "profile": "duplicate",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v064-35-bb-1-b3-1-b5-1-c6-disabled-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v064-35-bb-1-b3-1-b5-1-c6-disabled-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v064-35-bb-1-b3-1-b5-1-c6-disabled-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "1d508243fcbd4a9faa7e2a70dfc53480a0b578b3e8a5b1306cbf60e846e48ce2"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    }
+  ]
+}

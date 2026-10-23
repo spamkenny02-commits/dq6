@@ -1,0 +1,88 @@
+{
+  "release": "v0.64",
+  "ROM_sha256": "bbf8d22250a12a2e9542d46502e4de244ab9543fb7f3e3fd7225dced4d123b4e",
+  "diagnostic_main_redirect": true,
+  "legacy_state_VRAM_font_refreshed_from_ROM": true,
+  "diagnostic_native_mode2_override": false,
+  "natural_battle": false,
+  "production_engine_unchanged": true,
+  "private_C6_disabled": false,
+  "results": [
+    {
+      "id": 35,
+      "fixture_sha256": "aabf047b217f7e95cab3d4fbc287f9c5f90e6df44497d65d24096dc3737ccf48",
+      "B2_value": 1567,
+      "B3_value": 1,
+      "B4_value": 1,
+      "B5_value": 1,
+      "BB_value": 0,
+      "C6_flag_after_call": 1,
+      "actor_and_target_SID": "02F1",
+      "profile": "duplicate",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v064-35-bb-0-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v064-35-bb-0-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v064-35-bb-0-b3-1-b5-1-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "144a8ad407c09d48513ee2c5da7eba2268589c269f7d1cc44f36e0e546273779"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true
+    },
+    {
+      "id": 36,
+      "fixture_sha256": "621adf28d45a34361e5a14773be926acafaea40606366d266b2f13285be141fb",
+      "B2_value": 1567,
+      "B3_value": 1,
+      "B4_value": 1,
+      "B5_value": 1,
+      "BB_value": 0,
+      "C6_flag_after_call": 1,
+      "actor_and_target_SID": "02F1",
+      "profile": "duplicate",
+      "homonym_ordinals": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "capture": "v064-36-bb-0-b3-1-b5-1-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v064-36-bb-0-b3-1-b5-1-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v064-36-bb-0-b3-1-b5-1-page2.png",
+          "returned": true,
+          "frame": 342,
+          "sha256": "144a8ad407c09d48513ee2c5da7eba2268589c269f7d1cc44f36e0e546273779"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": true
+    }
+  ]
+}
