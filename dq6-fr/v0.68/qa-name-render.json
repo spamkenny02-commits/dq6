@@ -1,0 +1,101 @@
+{
+  "release": "v0.68",
+  "ROM_sha256": "de8d769907675e7eb44d2ad379ee48721362925e2d37fe2894b4cb31ac1581d6",
+  "diagnostic_dialogues": 20,
+  "place_names_checked": 5,
+  "unchanged_regression_names_checked": 5,
+  "B2_lookups_per_dialogue": 3,
+  "rows": [
+    {
+      "sid": 231,
+      "previous_screenshot_sha256": "06249b9626724a621ec4a7f03c6aca7d910e7e825a3845f98f83798045122f85",
+      "screenshot_sha256": "06249b9626724a621ec4a7f03c6aca7d910e7e825a3845f98f83798045122f85",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 233,
+      "previous_screenshot_sha256": "7986ca2c6a5dca4c1ec28c93139998c3ca7bbca76799ac2cafec5fd7a68109ee",
+      "screenshot_sha256": "7986ca2c6a5dca4c1ec28c93139998c3ca7bbca76799ac2cafec5fd7a68109ee",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 436,
+      "previous_screenshot_sha256": "3fb7f0d57995af01c0ad0f36b213588537c1329ab8e18833ff89c1244a846b21",
+      "screenshot_sha256": "8f5d92aa1ffb7315bdd93548fb370356ca034d973f138d188bb797953328ddb1",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 437,
+      "previous_screenshot_sha256": "7d6768a5b84cc2939ce9ab03769923d27e2dcd1ab3b47d758d97b201f0c00533",
+      "screenshot_sha256": "ebe962b9738ac65cf3a8a1b46e9f43d242faa1ef24af72bc76582cac06ffeeda",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 464,
+      "previous_screenshot_sha256": "f91b3c218aa9040c2229ad8e30b9d85b92748d93fd65a7544cd227fb33dfba7d",
+      "screenshot_sha256": "4b8339bb698306f428cb7656f19f0936d5287d854fc227f3d82f59a53d2a1378",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 481,
+      "previous_screenshot_sha256": "a0212dd434d32956c36908263b67d846f065c74e025ec750a1f314a71a76b78e",
+      "screenshot_sha256": "0ca3e0f8abdc2419fd508d389d4d81e1a2e44c816b6bb0c91d2f8b90dbfddba1",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 490,
+      "previous_screenshot_sha256": "5c440cd9854635bb5ad755e8ac4f26dcde87eed978bd949e0a0affc07e5ba2b3",
+      "screenshot_sha256": "b9b09250a126eb228fd270571b827fe3d26fd6c1cea26ae2fedda94e931aba07",
+      "new_translation": true,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 873,
+      "previous_screenshot_sha256": "d05ee2235886cca992bceee89be83c94bf8fa09793a846416301303de2adbaac",
+      "screenshot_sha256": "d05ee2235886cca992bceee89be83c94bf8fa09793a846416301303de2adbaac",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 1570,
+      "previous_screenshot_sha256": "aa06341d6bdc82e36ef821a35d4adbe4826ca23a9caf753ba16635465f807a12",
+      "screenshot_sha256": "aa06341d6bdc82e36ef821a35d4adbe4826ca23a9caf753ba16635465f807a12",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    },
+    {
+      "sid": 2309,
+      "previous_screenshot_sha256": "567e213cc6625ca239c630c964e71759cbfa9b5a7be20d2d6d50cde2d0e048a9",
+      "screenshot_sha256": "567e213cc6625ca239c630c964e71759cbfa9b5a7be20d2d6d50cde2d0e048a9",
+      "new_translation": false,
+      "before_after_comparison_passed": true
+    }
+  ],
+  "natural_validation": false,
+  "limits": "Three repeated main-dialogue B2 lookups per name at camp. No party recruitment, natural battle or native compact menu coverage. Visual review is recorded separately.",
+  "visual_review": {
+    "new_place_SIDs": [
+      436,
+      437,
+      464,
+      481,
+      490
+    ],
+    "complete_names": [
+      "Abbaye des Vocations",
+      "Château de Joliroche",
+      "Pic des Terreurs",
+      "Cap de Somnia",
+      "Prison du Chagrin"
+    ],
+    "all5_readable_without_truncation_in_diagnostic": true,
+    "regression5_pixel_pairs_identical": true,
+    "natural_travel_menu_validated": false
+  }
+}

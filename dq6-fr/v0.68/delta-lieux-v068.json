@@ -1,0 +1,59 @@
+{
+  "release": "v0.68",
+  "baseline": "v0.67",
+  "new_places": 5,
+  "resolved_prepared_SIDs": [
+    436,
+    437,
+    464,
+    481,
+    490
+  ],
+  "new_preparations": 0,
+  "remaining_prepared_places": 2,
+  "other2507_names_byte_identical": true,
+  "physical_entries": 2048,
+  "aliases_preserved": 464,
+  "main_new": 0,
+  "battle_new": 0,
+  "new_name_allocation": 8056832,
+  "new_name_bytes": 14383,
+  "old_name_pool_both_copies_unchanged": true,
+  "changes": [
+    {
+      "sid": 436,
+      "previous": "Dhama Shrine",
+      "french": "Abbaye des Vocations",
+      "old_hex": "1349ce4201224953df46ac",
+      "new_hex": "104343425ad645db01255044d24aea54ac"
+    },
+    {
+      "sid": 437,
+      "previous": "Foan",
+      "french": "Château de Joliroche",
+      "old_hex": "1550cfac",
+      "new_hex": "124935f84256cad619504d4af1d446ac"
+    },
+    {
+      "sid": 464,
+      "previous": "Deathcod",
+      "french": "Pic des Terreurs",
+      "old_hex": "13d7f9445045ac",
+      "new_hex": "1fdecadb0123daf0565354ac"
+    },
+    {
+      "sid": 481,
+      "previous": "Wharf",
+      "french": "Cap de Somnia",
+      "old_hex": "2649d047ac",
+      "new_hex": "124251cad622504e4f4a42ac"
+    },
+    {
+      "sid": 490,
+      "previous": "Sorrow Prison",
+      "french": "Prison du Chagrin",
+      "old_hex": "22ecf158011f53e0eaac",
+      "new_hex": "1f53e0eaca56011249424853dfac"
+    }
+  ]
+}

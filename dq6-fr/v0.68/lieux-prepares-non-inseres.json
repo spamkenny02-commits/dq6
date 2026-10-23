@@ -1,0 +1,46 @@
+[
+  {
+    "sid": 438,
+    "position": 438,
+    "sfc_jp": "ホルストック",
+    "current": "Holstock",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 24,
+        "jp": "ホルストック",
+        "fr": "Château de Pierreforte"
+      }
+    ],
+    "french": "Château de Pierreforte",
+    "status": "PREPARE_NON_INSERE",
+    "review": "Nom de lieu JP identique à la liste DS, libellé officiel FR relu ; aucun rapprochement flou.",
+    "remaining_checks": "Encodage accentué, largeur réelle de la fenêtre, alias, repacking et rendu du nom dans son écran.",
+    "current_checkpoint": "v0.68",
+    "blocking_reason": "22glyphes : fenêtre naturelle/adaptation à établir,aucune troncature autorisée.",
+    "estimated_packed_growth_bytes": 9,
+    "storage_capacity_block_resolved": true
+  },
+  {
+    "sid": 479,
+    "position": 479,
+    "sfc_jp": "もりのきょうかい",
+    "current": "Frontier|Church",
+    "ds_sources": [
+      {
+        "file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 38,
+        "jp": "もりのきょうかい",
+        "fr": "Chapelle de la forêt"
+      }
+    ],
+    "french": "Chapelle de la forêt",
+    "status": "PREPARE_NON_INSERE",
+    "review": "Nom de lieu JP identique à la liste DS, libellé officiel FR relu ; aucun rapprochement flou.",
+    "remaining_checks": "Encodage accentué, largeur réelle de la fenêtre, alias, repacking et rendu du nom dans son écran.",
+    "current_checkpoint": "v0.68",
+    "blocking_reason": "Ancienne commande98 : mise en page composée à conserver et tester,ne pas aplatir arbitrairement.",
+    "estimated_packed_growth_bytes": 5,
+    "storage_capacity_block_resolved": true
+  }
+]

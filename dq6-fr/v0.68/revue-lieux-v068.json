@@ -1,0 +1,171 @@
+[
+  {
+    "sid": 436,
+    "position": 436,
+    "sfc_jp": "ダーマしんでん",
+    "previous": "Dhama Shrine",
+    "french": "Abbaye des Vocations",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 4,
+        "JA_text": "@1ダーマしんでん@",
+        "FR_text": "@1Abbaye des Vocations@",
+        "JA_sha256": "d8ddb35dac9c390b706ae5f2a5e2eac5ed1f3a799ca8a465fd22f3e4270a4cb5",
+        "FR_sha256": "f28449010bbeea4edcdae41a1d41aa16490897fa353ad1eecac85874048b5dc2"
+      },
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 14,
+        "JA_text": "@1ダーマしんでん@",
+        "FR_text": "@1Abbaye des Vocations@",
+        "JA_sha256": "d8ddb35dac9c390b706ae5f2a5e2eac5ed1f3a799ca8a465fd22f3e4270a4cb5",
+        "FR_sha256": "f28449010bbeea4edcdae41a1d41aa16490897fa353ad1eecac85874048b5dc2"
+      }
+    ],
+    "source_bytes_sha256": "04d242ea0f9cc838bac6afa480c1e88a23f8b829e83e8826483d73e9cd943139",
+    "previous_encoded_hex": "1349ce4201224953df46ac",
+    "encoded_hex": "104343425ad645db01255044d24aea54ac",
+    "previous_sha256": "cc1fe18ed923be6ab7adc33c8a05b25640a72006737dec583bb50f3779aa5960",
+    "encoded_sha256": "4563b7dadb045f45256e6157d19633c505f4d6a40b36b1e317fd8eef09764371",
+    "old_columns": 12,
+    "new_columns": 20,
+    "storage_delta": 6,
+    "runtime_sids": [
+      436
+    ],
+    "review": "ダーマしんでん : Abbaye des Vocations DS, même sanctuaire dans deux états; références4/14 concordantes. Nom complet20glyphes,capitales officielles.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 437,
+    "position": 437,
+    "sfc_jp": "フォーンじょう",
+    "previous": "Foan",
+    "french": "Château de Joliroche",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 26,
+        "JA_text": "@1フォーンじょう@",
+        "FR_text": "@1Château de Joliroche@",
+        "JA_sha256": "acbc666073b2f69ba61409d1d7c20df67f0c9bea8abd420e2e987e81c53f23fc",
+        "FR_sha256": "74162f7d7a5ddd0e296f67e6701fdd4e0c3c0d3b89c94cfbeeb27df9e3091124"
+      }
+    ],
+    "source_bytes_sha256": "956c7f23a326299f3d0f0d35cc8d9b4c8abc4f9c5042b1d23bd7264259fa8c40",
+    "previous_encoded_hex": "1550cfac",
+    "encoded_hex": "124935f84256cad619504d4af1d446ac",
+    "previous_sha256": "831c9cc39ee01a6f4a6a028e07aa2606337e37a988f2a315249a0a219260c92c",
+    "encoded_sha256": "93cdb43ed85d3cf7baaa7e4f18696346d6610089a87abf7e31554302d440b6bd",
+    "old_columns": 4,
+    "new_columns": 20,
+    "storage_delta": 12,
+    "runtime_sids": [
+      437
+    ],
+    "review": "フォーンじょう : Château de Joliroche DS, château du roi associé au miroir de Râ. Le nom complet20glyphes et le â sont conservés; aucune abréviation arbitraire.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 464,
+    "position": 464,
+    "sfc_jp": "デスコッド",
+    "previous": "Deathcod",
+    "french": "Pic des Terreurs",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 13,
+        "JA_text": "@1デスコッド@",
+        "FR_text": "@1Pic des Terreurs@",
+        "JA_sha256": "047c8f9a78f2e9909033e6c2423b2311273614833cbe926d3a394c3f7a413d2d",
+        "FR_sha256": "31fe7e924697507f968724c99b264e3be59f5a404398ea75223e22b715f70981"
+      }
+    ],
+    "source_bytes_sha256": "9aea209751a1d2897b7f16d6558c372fb6bc75750c435a03e10e55c120254d69",
+    "previous_encoded_hex": "13d7f9445045ac",
+    "encoded_hex": "1fdecadb0123daf0565354ac",
+    "previous_sha256": "ab31c2abe7a571a217b85b014559386a98e40c2f985c43c4b1f44b4ff208bbf0",
+    "encoded_sha256": "a39491d723964486845971751953b21392578ba606d5fe32feaa4c3e39d425e3",
+    "old_columns": 8,
+    "new_columns": 16,
+    "storage_delta": 5,
+    "runtime_sids": [
+      464
+    ],
+    "review": "デスコッド : Pic des Terreurs DS, même village bonus. Nom complet officiel et pluriel conservés.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 481,
+    "position": 481,
+    "sfc_jp": "ふなつきば",
+    "previous": "Wharf",
+    "french": "Cap de Somnia",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 39,
+        "JA_text": "@1ふなつきば@",
+        "FR_text": "@1Cap de Somnia@",
+        "JA_sha256": "3608f0932c51477fc222855acc68e130fed1e48623533969e86c95983868f057",
+        "FR_sha256": "08120e76bc8f370f25ddeab48c1904fe840da35c763fe669b5a7d24702e48458"
+      }
+    ],
+    "source_bytes_sha256": "ce076b21dcf9c8e4168357a44e2e83510c2032c15a0399b6ed33a634347e42c8",
+    "previous_encoded_hex": "2649d047ac",
+    "encoded_hex": "124251cad622504e4f4a42ac",
+    "previous_sha256": "c0b6981f5ae5772de9a33eb4a887319933593d8ebbe3e8a60a9c146b6abf52e9",
+    "encoded_sha256": "cae4486436c58d0429c071ca70a31dcaed0b45edd37bbcc08a3a491a2b4451e2",
+    "old_columns": 5,
+    "new_columns": 13,
+    "storage_delta": 7,
+    "runtime_sids": [
+      481
+    ],
+    "review": "ふなつきば : Cap de Somnia DS, même débarcadère. La spécificité Somnia est celle du libellé DS et non une inférence du seul nom commun JP.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  },
+  {
+    "sid": 490,
+    "position": 490,
+    "sfc_jp": "なげきのろうごく",
+    "previous": "Sorrow Prison",
+    "french": "Prison du Chagrin",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 36,
+        "JA_text": "@1なげきのろうごく@",
+        "FR_text": "@1Prison du Chagrin@",
+        "JA_sha256": "f67034ed48cc22234db86917637c25841cca535447374e608ccd9463c1ac5383",
+        "FR_sha256": "e88797c7f6540e476e300cd10e34f5c8ed515a26018304b96651a572df7ed060"
+      }
+    ],
+    "source_bytes_sha256": "f3edc1f53652f6dd110e656b350a646b917afc75f5b8ae483707ad8d128735e2",
+    "previous_encoded_hex": "22ecf158011f53e0eaac",
+    "encoded_hex": "1f53e0eaca56011249424853dfac",
+    "previous_sha256": "d044b95543d9a11443d0f62bf014be5e7b9302e141e95b17a9a4432376d8b0cd",
+    "encoded_sha256": "fe581b1d31d60b89f157a0b75b3c8f53c650a2df912fcaf2eb201434229fa16c",
+    "old_columns": 13,
+    "new_columns": 17,
+    "storage_delta": 4,
+    "runtime_sids": [
+      490
+    ],
+    "review": "なげきのろうごく : Prison du Chagrin DS, prison du monde sombre. Nom complet et majuscule officielle de Chagrin conservés.",
+    "status": "RELU_POUR_INSERTION",
+    "limits": "Native field/B2 diagnostics required; natural travel window not claimed."
+  }
+]

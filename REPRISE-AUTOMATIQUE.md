@@ -1,3 +1,13 @@
+# Reprise v0.68 — table des noms relocalisée et cinq lieux intégrés
+
+Lire dq6-fr/v0.68/README.md,audit-relocation.json,revue et QA. Reprendre BPSv068 surJP intacte.5lieux préparés intégrés :Abbaye des Vocations436,Château de Joliroche437,Pic des Terreurs464,Cap de Somnia481,Prison du Chagrin490.2lieux préparés438/479 restent pour mise en page ; capacité de stockage débloquée.
+
+**Nouveau lecteur obligatoire :** common.py::names/LogicalTable v068 résout les pointeurs24bits avec la baseCPU FB8703. Ne pas utiliser v061.names ou nametable.Table sur la nouvelle ROM : ils supposent un emplacement physique historique. Table active7AF000..7B282F (14383octets) ; limite de capacité7B8703. Réserver au moins cette allocation dans tout futur build/fixture,ainsi que poolcombat etmoteurv061. Ancienne table0x3B8703..0x3BC712 et son miroir entièrement préservés,tail2050octets intact. Aucun code moteur modifié,157groupes de pointeurs dans deux copies.
+
+Lecteur natif2477SIDs et15276octets,35dynamiques exclus,mutationSID16. La chaîne676 traverse7AFFFF/7B0000 ; lecteur,terrain/B2 vérifiés.10noms avant/après,20dialogues diagnostiques,5régressions pixels identiques ; cinq traductions relues. Bus4002plages etJournal à froid. Aucun parcours naturel de voyage/combat ni audit global des lecteurs hardcodés déclaré.
+
+Principal6957sélections (6948linguistiques/9structures),combat597qualifiés/2préparés/5opaques/4structures inchangés. Noms62confirmés/2048physiques/2512SIDs/464alias ;344identifiants,1533autres,25candidatsFR,83videsàqualifier,1créditretiré. Relecture exhaustive0.438a22glyphes,479anciennecommande98. Autres tables etaudits hérités ouverts ;8Mio.
+
 # Reprise v0.67 — dix lieux intégrés,22encodages équivalents
 
 Lire dq6-fr/v0.67/README.md,revue-lieux-v067.json,revue-stockage.json,delta,inventaire etQA. Reprendre BPSv067 surJP intacte.10anciens lieux préparés intégrés :Desmodia420,Vallonclair424,Montgivré428,Donjon de Meurtor434,Brigandia441,Poste-frontière466,Chez madame Luce470,Manoir Médaillon473,Au fond du puits491,Tour des Maléfices517. Japonais SFC/DS exacts,24champsMPT JA/FR relus directement dansDS,ancienIPS secondaire.7lieux préparés restent ;aucune nouvelle préparation.

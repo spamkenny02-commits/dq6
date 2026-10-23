@@ -1,0 +1,30 @@
+{
+  "release": "v0.68",
+  "ROM_sha256": "de8d769907675e7eb44d2ad379ee48721362925e2d37fe2894b4cb31ac1581d6",
+  "field_consumer": "C3763A, actual JSL including C0315E/C031DB and C376F2",
+  "B2_consumer": "C6FDF0, actual JSL including C0315E/C031DB and existing DTE dictionary",
+  "rows": [
+    {
+      "stage": "before",
+      "sid": 676,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "4b231452b82f80deab055cf63ab92ae1ee025203ae8338a91a7f3e5100c2209c",
+      "B2_buffer_sha256": "8302fdddef5c3fd8c7ef9b0373f417dfe4987df4844f06dceda895e44b58f92b",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 676,
+      "native_field_glyphs_checked": 10,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "4b231452b82f80deab055cf63ab92ae1ee025203ae8338a91a7f3e5100c2209c",
+      "B2_buffer_sha256": "8302fdddef5c3fd8c7ef9b0373f417dfe4987df4844f06dceda895e44b58f92b",
+      "matches_expected_glyphs": true
+    }
+  ],
+  "bank_boundary_sid676_checked": true,
+  "inherited_English_label_unqualified": true,
+  "natural_validation": false,
+  "limits": "Private CPU redirection from camp. Dynamic SID branch09A7..09C9 and other natural menu paths not validated; no renderer code modified."
+}

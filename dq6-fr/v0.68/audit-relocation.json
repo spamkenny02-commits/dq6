@@ -1,0 +1,32 @@
+{
+  "release": "v0.68",
+  "reason": "Old reachable pool full; preserve original table and2050byte tail instead of consuming it.",
+  "original_script_reservation": [
+    7804763,
+    8095491
+  ],
+  "active_allocation": [
+    8056832,
+    8071215
+  ],
+  "allocation_limit": 8095491,
+  "potential_growth_bytes": 24276,
+  "allocation_does_not_overlap_870_live_main_groups": true,
+  "allocation_does_not_overlap_battle_or_engine": true,
+  "allocation_outside_both_legacy_name_pool_copies": true,
+  "legacy_name_pool_and_tail_preserved_both_copies": true,
+  "relative_pointer_base_CPU": 16484099,
+  "pointer_formula": "(new_CPU_address-0xFB8703)&0xFFFFFF; original initializer adds base with carry",
+  "pointer_groups_both_copies": 157,
+  "engine_modified": false,
+  "bank_boundary_crossing_SIDs": [
+    676
+  ],
+  "bank_boundary_native_reader_checked": true,
+  "bank_boundary_field_and_B2_checked": true,
+  "legacy_reader_helpers_invalid_on_new_ROM": true,
+  "required_reader": "dq6-fr/v0.68/common.py::names and LogicalTable",
+  "future_allocation_rule": "Reserve current active name allocation, battle allocation and v061 engine; prefer reserving name capacity up to7B8703. Never overwrite legacy name pool/tail in either mirror.",
+  "unknown_hardcoded_consumers_fully_audited": false,
+  "limits": "Old hardcoded copies may still show inherited labels. No global resource/consumer completion claimed.35dynamicSIDs excluded from static-pointer execution test."
+}
