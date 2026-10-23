@@ -1,5 +1,5 @@
 {
-  "release": "v0.73",
+  "release": "v0.74",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
@@ -18,7 +18,7 @@
     ],
     "release_lot_additions": 0
   },
-  "baseline": "v0.72",
+  "baseline": "v0.73",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 2,
@@ -26,36 +26,36 @@
     "draft_main": 0,
     "boundary_audit": 0,
     "separate_battle": 2,
-    "separate_names": 574,
+    "separate_names": 560,
     "separate_battle_spell_combinations": 0
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.73",
+    "inventory_version": "v0.74",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
     "inserted_place_total": 31,
     "additional_character_names_inserted": 3,
     "spell_action_labels_inserted": 20,
-    "new_this_pass": 12,
+    "new_this_pass": 14,
     "prepared_places": 2,
-    "confirmed_french_entries": 197,
+    "confirmed_french_entries": 211,
     "native_grammar_helpers_adapted": 4,
     "prepared_character_names": 0,
     "new_prepared_this_checkpoint": 0,
-    "inventory": "dq6-fr/v0.73/inventaire-noms-v073.json",
+    "inventory": "dq6-fr/v0.74/inventaire-noms-v074.json",
     "explicit_identifier_placeholders": 344,
-    "physical_other_texts_unqualified": 1415,
+    "physical_other_texts_unqualified": 1401,
     "empty_entries_to_qualify": 41,
     "DS_exact_French_candidates_not_qualified": 8,
     "inherited_tail_consumed_bytes_to_audit": 0,
     "storage_adaptations_this_pass": 0,
     "restored_preserved_tail_bytes": 2050,
     "active_name_pool_offset": 8056832,
-    "active_name_pool_bytes": 14242,
+    "active_name_pool_bytes": 14226,
     "name_allocation_limit": 8095491,
-    "name_reader": "dq6-fr/v0.73/common.py::names",
+    "name_reader": "dq6-fr/v0.74/common.py::names",
     "table_batches": {
       "physical_positions_examined": 2048,
       "total": 2048,
@@ -104,18 +104,18 @@
       "all_positions_examined": true,
       "all_positions_semantically_validated": false
     },
-    "new_linguistic_translations_this_pass": 12,
+    "new_linguistic_translations_this_pass": 14,
     "existing_french_revisions_this_pass": 0,
     "structural_dynamic_WRAM_slots": 35,
     "static_empty_reserve": 1,
     "opaque_JP_source_VF_empty_slots": 6,
     "parsed_VF_SIDs": 2512,
     "runtime_entry_count_proven": false,
-    "prepared_names_resolved_this_pass": 12
+    "prepared_names_resolved_this_pass": 14
   },
   "rom_bytes": 8388608,
-  "notes": "Douze noms de monstres issus des propositions v070 sont intégrés après lecture JP SFC/FR DS, contrôle direct des sources et diagnostics natifs. 197 noms français qualifiés ; 574 propositions encore non insérées. Pas de nouveau parcours des 2048 positions ni de relecture principale exhaustive.",
-  "next": "Résoudre les 574 propositions de noms restantes et les fragments/compositions, largeurs, glyphes, genres et ressources séparées. Les accords/pluriels des monstres et scènes naturelles restent à vérifier. Puis recherche exhaustive d’oublis et relecture principale complète ; audits hérités ouverts.",
+  "notes": "Quatorze noms de monstres issus des propositions v070 sont intégrés après lecture JP SFC/FR DS, contrôle direct des sources et diagnostics natifs. 211 noms français qualifiés ; 560 propositions encore non insérées. Pas de nouveau parcours des 2048 positions ni de relecture principale exhaustive.",
+  "next": "Résoudre les 560 propositions de noms restantes et les fragments/compositions, largeurs, glyphes, genres et ressources séparées. Les accords/pluriels des monstres et scènes naturelles restent à vérifier. Puis recherche exhaustive d’oublis et relecture principale complète ; audits hérités ouverts.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -146,7 +146,7 @@
   ],
   "proofreading": {
     "exhaustive_pass_completed": false,
-    "reviewed_this_translation_pass": 12,
+    "reviewed_this_translation_pass": 14,
     "translation_reviews_not_a_full_reread": true,
     "full_main_reread_recorded": 0,
     "new_battle_integrated_from_review": 0,
@@ -168,8 +168,8 @@
     "new_prepared_technical_labels": 0,
     "storage_adaptations_checked_this_checkpoint": 0,
     "separate_place_names_reviewed_this_checkpoint": 0,
-    "table_positions_examined": 12,
-    "table_new_translations": 12,
+    "table_positions_examined": 14,
+    "table_new_translations": 14,
     "table_existing_french_source_reviewed": 0,
     "table_existing_french_revisions": 0
   },
@@ -689,7 +689,7 @@
     "source_JP_outside_pool_audit": 5,
     "source_boundary_report": "dq6-fr/v0.63/audit-frontiere-source.json"
   },
-  "checkpoint": "resolution-12-noms-monstres",
+  "checkpoint": "resolution-14-noms-monstres",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",

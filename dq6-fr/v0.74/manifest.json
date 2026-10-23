@@ -1,0 +1,125 @@
+{
+  "release": "v0.74",
+  "baseline_commit": "1a24be673cb7a15eff43d0e594e42339c005389b",
+  "files": {
+    "REPRISE-AUTOMATIQUE.md": {
+      "size": 61868,
+      "sha256": "a740f7d130d320f6731b9d8c469aa7d0bfca0fe71921cae509277f4f4536bc30"
+    },
+    "etat-projet.json": {
+      "size": 13337,
+      "sha256": "2a7bd0cee0536cd59b4d285ab24fe255bce03665022de8c6b8185fd4500ef588"
+    },
+    "patches/DQVI-FR-DS-v0.74-BASE-JP-PARTIEL.bps": {
+      "size": 677207,
+      "sha256": "3a18c8f1b07a4b305cec32e5bf141ae39b9d419c5ebad6fdd5ca637bb7834fe6"
+    },
+    "dq6-fr/v0.74/README.md": {
+      "size": 3633,
+      "sha256": "090270b3e4a9c016743cf00ea30a70b6203da9ab314f3f2cba82000b887a5d89"
+    },
+    "dq6-fr/v0.74/build-report.json": {
+      "size": 3435,
+      "sha256": "69c4c05c3c99eba08086c87b473a784646e0691ac8fd544056d3f64635ddf153"
+    },
+    "dq6-fr/v0.74/build.py": {
+      "size": 1205,
+      "sha256": "ac7b61a80b6efb35a85ca9a76b8d60468b720f06577aaacf596edeb0e8f05537"
+    },
+    "dq6-fr/v0.74/bus_layout.py": {
+      "size": 1253,
+      "sha256": "d1bff759d06e62f32961731809f08a6fd673ab04169b1727c4a2f850fa05d804"
+    },
+    "dq6-fr/v0.74/common.py": {
+      "size": 3378,
+      "sha256": "8cd9e471a403209784ca6d60f7385394a269c3bb5d8166c3dcdf5e4f79729843"
+    },
+    "dq6-fr/v0.74/delta-noms-v074.json": {
+      "size": 5645,
+      "sha256": "ba58796aff547ee4e6f208d6c44098a1a3f78ab8a3a174b15c67179b17c1fd18"
+    },
+    "dq6-fr/v0.74/emulator_consumers.py": {
+      "size": 4079,
+      "sha256": "d46c56059746cae238c1be357165f2bd9743e0d41e15f05e62e1bca214abf51e"
+    },
+    "dq6-fr/v0.74/emulator_names_probe.py": {
+      "size": 4325,
+      "sha256": "eb796093a4048b78a6ab1d5e6929facb421b75dcd849dcb030473d5b8a4e90aa"
+    },
+    "dq6-fr/v0.74/emulator_render_names.py": {
+      "size": 3766,
+      "sha256": "24a35668918724c7941b9f9bc45fd0e6aef849eac01e19e9953591b669dc4850"
+    },
+    "dq6-fr/v0.74/inventaire-noms-v074.json": {
+      "size": 8441,
+      "sha256": "8baae2949e4b63359540abd7ed3ca3eda86b885245cfe03263ce657be795483d"
+    },
+    "dq6-fr/v0.74/inventory_names.py": {
+      "size": 6800,
+      "sha256": "c011d11eabd575749815b02ee48fe7d37918723ecff2ad7359a03d21262131eb"
+    },
+    "dq6-fr/v0.74/preparations-resolues.json": {
+      "size": 21000,
+      "sha256": "cd16e1841b1f56d95fdb402221140ce220ba8e09f6e5efad03caa659be90e849"
+    },
+    "dq6-fr/v0.74/prepare.py": {
+      "size": 2507,
+      "sha256": "46e0a392ae387e6828eb83e7ff36ae43067d66711a77d72cb06acfc5121f3b65"
+    },
+    "dq6-fr/v0.74/qa-bus-boot.json": {
+      "size": 787,
+      "sha256": "e6631aab8fb7be0445955417ae9ef0fd71760418a1d93330185764a15d844ce7"
+    },
+    "dq6-fr/v0.74/qa-lot.json": {
+      "size": 884,
+      "sha256": "8f44f685a018cb593329e97abfbe4657647bdd72193ab6903b5647eca07ffd90"
+    },
+    "dq6-fr/v0.74/qa-name-consumers.json": {
+      "size": 10705,
+      "sha256": "1d9fafdedcdf5e45201190e1e23bc7df70fecc2c7f2541c5a00f0b4995499b0a"
+    },
+    "dq6-fr/v0.74/qa-name-render.json": {
+      "size": 5285,
+      "sha256": "46aa8c1c3c79f91fc39a0b9bbca17a4c85f38ce37016bee08e5cb94ab9369114"
+    },
+    "dq6-fr/v0.74/qa-names-native-negative.json": {
+      "size": 1155,
+      "sha256": "2264e63345eb40e5fdc45b4d0c6ea5582e85ecb3c9f3efb5f25e341a397efda2"
+    },
+    "dq6-fr/v0.74/qa-names-native-reader.json": {
+      "size": 1146,
+      "sha256": "521ed2c9c5c3c83217601701643952791d18637c9408295885bdae2108dd6b4d"
+    },
+    "dq6-fr/v0.74/qa-sources.json": {
+      "size": 431,
+      "sha256": "bf20da65fe77b633aa787ec0565649cff2138b0c7b2a4588999eca671c094192"
+    },
+    "dq6-fr/v0.74/qa-visual-review.json": {
+      "size": 4623,
+      "sha256": "8949c55d4c805d7a116d869a01b74f4f67bc7972eb47b41eafc44aa9c4bff7d2"
+    },
+    "dq6-fr/v0.74/revue-table-v074.json": {
+      "size": 16963,
+      "sha256": "4127b72cf50457c30e8949f5eb6b251f34409b2cf2d5f1728ee57b60bed1f863"
+    },
+    "dq6-fr/v0.74/selection.json": {
+      "size": 21084,
+      "sha256": "a18a28236c1cf07c1daa0766f4003aa0f1a9f2d75867b77ab2c27992c3dc3d00"
+    },
+    "dq6-fr/v0.74/verification.json": {
+      "size": 1225,
+      "sha256": "52015dcce77882382f539c7f454c480619204ef997277ec36527fefde3ca89d4"
+    },
+    "dq6-fr/v0.74/verify.py": {
+      "size": 3728,
+      "sha256": "5d6fb776b94746584f7009eaf5a98d065fd7f602d64b0cd69ecd11aabfb437f1"
+    }
+  },
+  "private_excluded": [
+    "ROM",
+    "SRAM",
+    "emulator states",
+    "ROM archives",
+    "screenshots"
+  ]
+}

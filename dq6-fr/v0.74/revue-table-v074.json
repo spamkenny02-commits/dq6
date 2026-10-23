@@ -1,0 +1,380 @@
+[
+  {
+    "sid": 647,
+    "position": 647,
+    "french": "dododingo",
+    "previous": "Killer Goose",
+    "sfc_jp": "キラーグース",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 37,
+        "JA_text": "@1キラーグース@",
+        "FR_text": "@0M@2le @3un @4dododingo@5les @6des @7dododingos@8N@9N@",
+        "JA_sha256": "0b05f870811b3317be9a90a2533480065411d96a433d20585919e2ef99c49419",
+        "FR_sha256": "dbbfd57305e1dd74dbec4355cb5f670bcfdfe657177ceb8f16e5d335321382bc"
+      }
+    ],
+    "review": "Oiseau hostile (キラーグース), espèce ; le jeu de mots français DS est conservé. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "1a4ae3da0116eb5446ac",
+    "encoded_hex": "4550455045df4850ac",
+    "old_sha256": "e412ffd33dacd73420e6843d150c5a449b11b2d4a1fd896caea9519d02b91079",
+    "new_sha256": "68e28f7b039bfbd0bc9a892e98b980b28d3b568532115c1c7990ccb315c48e8b",
+    "old_columns": 12,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 648,
+    "position": 648,
+    "french": "pélikosaure",
+    "previous": "Great Pelican",
+    "sfc_jp": "グレートペリカン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 191,
+        "JA_text": "@1グレート;ペリカン@",
+        "FR_text": "@0M@2le @3un @4pélikosaure@5les @6des @7pélikosaures@8N@9N@",
+        "JA_sha256": "5a8cb45af43eb674425f6dc0bdb07847d5cdecc7a3179f27883bc730fe9ef982",
+        "FR_sha256": "060e1fbd11ab3f4d5a4076bcae1a0e762eaebb5039782c6bcb1feafc9acf2de0"
+      }
+    ],
+    "review": "Espèce グレートペリカン, distincte des autres oiseaux. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "16f0d2011f464ddecfac",
+    "encoded_hex": "512d4d4a4c50544256f0ac",
+    "old_sha256": "9c4cf5ec661bd489d6b9f261bb45ab5ee0910ebf3c1d24b85caf5383586ae4c3",
+    "new_sha256": "6aec7f18c3850f03b0011d3a6a79e843356ac3df6fb787c7e08e0f4b4a055f9b",
+    "old_columns": 13,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 652,
+    "position": 652,
+    "french": "macchab",
+    "previous": "Living Dead",
+    "sfc_jp": "リビングデッド",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 119,
+        "JA_text": "@1リビング;デッド@",
+        "FR_text": "@0M@2le @3un @4macchab@5les @6des @7macchabs@8N@9N@",
+        "JA_sha256": "5f1989e162ff32f6e3ef3240c2c3fe67f91233a74e4de5b18c2a9bd4df97f6c5",
+        "FR_sha256": "075a9aacd61d52b775a383ce878a7e0d0da1ec5b4035187696cb71e095a3c980"
+      }
+    ],
+    "review": "Espèce リビングデッド, distincte de zombinator (しのどれい). Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "1b4a57df480113d745ac",
+    "encoded_hex": "4ecdd44243ac",
+    "old_sha256": "a15b3748fbb767f31f66fec678479ab683adae67ddbe70dd0ea481d67663d3f7",
+    "new_sha256": "432c3dd03b82489851fa4842cb404050762bcc3bfa7074071f8a8ec509dd5219",
+    "old_columns": 11,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 653,
+    "position": 653,
+    "french": "rafaltou",
+    "previous": "Wind Mage",
+    "sfc_jp": "ウインドマージ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 74,
+        "JA_text": "@1ウインド;マージ@",
+        "FR_text": "@0M@2le @3un @4rafaltou@5les @6des @7rafaltous@8N@9N@",
+        "JA_sha256": "8b92a78f6dbd6177737ba53b56d2a677933bc1f992c80c91d922e45c3d372e61",
+        "FR_sha256": "e1bae65adb5893e97da97830f10a195abcb786cf9fb882e1252cdb6ebfc612f5"
+      }
+    ],
+    "review": "Espèce ウインドマージ, distincte des compétences de vent. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "26df45011c424846ac",
+    "encoded_hex": "ef47424d55edac",
+    "old_sha256": "76a7b414fbe2f749d40850df36452a3ee04c24e550fd40568547b4a2047971bb",
+    "new_sha256": "6364bfaf18e1e59230974b27f8b448da93cdbeebb537da231e850899ab803410",
+    "old_columns": 9,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 655,
+    "position": 655,
+    "french": "dévastator",
+    "previous": "Mummy Wisp",
+    "sfc_jp": "マミーウィスプ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 144,
+        "JA_text": "@1マミー;ウィスプ@",
+        "FR_text": "@0M@2le @3un @4dévastator@5les @6des @7dévastators@8N@9N@",
+        "JA_sha256": "f7dded159cfd29415a5209693a3affb163a240f76cd76bad4190e0896b26480e",
+        "FR_sha256": "10ff7429f6c31fead2fb5ad9df2dd1338803968daa8606dfd5387729a5eb3766"
+      }
+    ],
+    "review": "Espèce マミーウィスプ, distincte des autres morts-vivants. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "1c564e4e5a0126e051ac",
+    "encoded_hex": "452d57d155d2ecac",
+    "old_sha256": "71d905f93f469161791595c8cc4ef8479d8d97f1e53a9b966fa4b0aba67178bb",
+    "new_sha256": "765668929d6b3f3a44a06d2c5062947a0c92a472f7621231db73e81ca3f9471f",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 660,
+    "position": 660,
+    "french": "veninconda",
+    "previous": "Winged Snake",
+    "sfc_jp": "ウィングスネーク",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 78,
+        "JA_text": "@1ウィング;スネーク@",
+        "FR_text": "@0M@2le @3un @4veninconda@5les @6des @7venincondas@8N@9N@",
+        "JA_sha256": "816ce8350ea39fdfd11198c54a778d21477969813aa318c7129014b2e2b08596",
+        "FR_sha256": "f27c89c40560ced6c5df3d4aeda7ce8e485bcb24421bebd36aab046c0ffc1b0e"
+      }
+    ],
+    "review": "Espèce ウィングスネーク, distincte des serpents de mer. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "26df48d801224f424c46ac",
+    "encoded_hex": "57464fdf44ea4542ac",
+    "old_sha256": "7a6a53108e5434ef6a3e5fcb0098bc153f9b5a38c1b1509e72539df4ef38a4e2",
+    "new_sha256": "5c1134feab30cb779256d6b3c4bed3437a5682cc8b9c3db4f5c42c6e35f5cba4",
+    "old_columns": 12,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 669,
+    "position": 669,
+    "french": "aquagadou",
+    "previous": "Sea Ghost",
+    "sfc_jp": "ふなゆうれい",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 177,
+        "JA_text": "@1ふな;ゆうれい@",
+        "FR_text": "@0M@2l'@3un @4aquagadou@5les @6des @7aquagadous@8N@9Y@",
+        "JA_sha256": "004e7acb8d67535bdd73c13d1f7ef8fc0829a1a573f344ece5557fe19742cfa8",
+        "FR_sha256": "65037568d3801f388ac8cfce994cfb7b597a37490cfd905d5e697e8c4fbc5218"
+      }
+    ],
+    "review": "Espèce ふなゆうれい ; le champ DS est un nom de monstre, pas de navire. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "22d701164950f5ac",
+    "encoded_hex": "42525642484245edac",
+    "old_sha256": "122c2c9d01b6f45bfe6ff65da3c192b0959380a3aea8feb57bede75b5934773f",
+    "new_sha256": "66923c56c83481c7fefd5a0b01c456022a515433c0853d48f11ae2761288fbc7",
+    "old_columns": 9,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 676,
+    "position": 676,
+    "french": "trancheur",
+    "previous": "Tiger Claw",
+    "sfc_jp": "タイガークロー",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 130,
+        "JA_text": "@1タイガー;クロー@",
+        "FR_text": "@0M@2le @3un @4trancheur@5les @6des @7trancheurs@8N@9N@",
+        "JA_sha256": "fc665985eec2d6dadd374d334d82d8c74eb999e69b79e260fcc78a9b82885001",
+        "FR_sha256": "fddf567ccd24dc179045a3dc823c851d2b60ecdf322d5822074a0d35335ae557"
+      }
+    ],
+    "review": "Espèce タイガークロー, distincte des compétences de griffes. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "234a48da01124d4258ac",
+    "encoded_hex": "55ef4fd4465653ac",
+    "old_sha256": "98405a0938426ae9608b94e6342e3a09dd593b99bfb323cec092267199d5057f",
+    "new_sha256": "6f7ae9003d36b0a0bed29ad5fd17861dddc9c6f2bb1eae2701482e828d82df87",
+    "old_columns": 10,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 677,
+    "position": 677,
+    "french": "éventripeur",
+    "previous": "Muscle Animal",
+    "sfc_jp": "マッスルアニマル",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 164,
+        "JA_text": "@1マッスル;アニマル@",
+        "FR_text": "@0M@2l'@3un @4éventripeur@5les @6des @7éventripeurs@8N@9Y@",
+        "JA_sha256": "5414b3500cf4430d9fee002b8a0634e926ac5609f8d8343901de763b76a31261",
+        "FR_sha256": "5fa6067c2445299607b5440fb3b9737bf13e9dd15aacecd180ac9f0ba5ffbddf"
+      }
+    ],
+    "review": "Espèce マッスルアニマル ; conserver l’élision/genre DS comme référence, sans les déclarer validés dans SFC. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "1cfa44e201104f4a4e424dac",
+    "encoded_hex": "2d5746e7534a51465653ac",
+    "old_sha256": "03bde54228108c758fcb449a2769e54dedbf707889fc43a04d34a61540c472b7",
+    "new_sha256": "81267e87742723fdcd1d4765bccf95a499715f3c8a219989e49e73efd41fdb34",
+    "old_columns": 13,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 678,
+    "position": 678,
+    "french": "butebélier",
+    "previous": "Silence Sheep",
+    "sfc_jp": "ちんもくのひつじ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 25,
+        "JA_text": "@1ちんもくの;ひつじ@",
+        "FR_text": "@0M@2le @3un @4butebélier@5les @6des @7butebéliers@8N@9N@",
+        "JA_sha256": "bca0f8699ad1c941fd6677359aa518d5f0784cd346a40155b1af0ad0bae94f5c",
+        "FR_sha256": "fdc2b20af480bc08e6a0ef8acc22e94bc93ca037744a3cc28cbdae56908fec18"
+      }
+    ],
+    "review": "Espèce ちんもくのひつじ, distincte de cerbélier. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "224ae24fd30122dd4651ac",
+    "encoded_hex": "4356f8432d4d4adaac",
+    "old_sha256": "7852043b288b564fda586d52b6fce559217212be61a2789bf01134cb588a6229",
+    "new_sha256": "2952d77bb3d9c1efae150b99cc6b21de76d87289b7da11c0a9e7fc0754e4a1f0",
+    "old_columns": 13,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 680,
+    "position": 680,
+    "french": "cerbélier",
+    "previous": "Dark Horn",
+    "sfc_jp": "ダークホーン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 85,
+        "JA_text": "@1ダークホーン@",
+        "FR_text": "@0M@2le @3un @4cerbélier@5les @6des @7cerbéliers@8N@9N@",
+        "JA_sha256": "69802a7ccb328dc8426b8aaeb4b4b3cc9bdb3c4d543bc990a956a76669bcc8cb",
+        "FR_sha256": "45f25111cc8998b280ff78d4f56d56b33f66d58581c3ebe49efec1f660c5c6cd"
+      }
+    ],
+    "review": "Espèce ダークホーン, distincte de butebélier. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "13d04c0117ec4fac",
+    "encoded_hex": "d353432d4d4adaac",
+    "old_sha256": "7aaca82cb36e9314cb53360fed7b5ac1e4a1ca861ca9c2ec231f08d5c11479dd",
+    "new_sha256": "1b9ca09c7a8c203fa2c5c943e80e69258258048d1643fa24c604944a033183fc",
+    "old_columns": 9,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 689,
+    "position": 689,
+    "french": "écayosaure",
+    "previous": "Ocean King*",
+    "sfc_jp": "オーシャンキング",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 183,
+        "JA_text": "@1オーシャン;キング@",
+        "FR_text": "@0M@2l'@3un @4écayosaure@5les @6des @7écayosaures@8N@9Y@",
+        "JA_sha256": "5eb434c1b35a567de3d34b205208d04fd42960f192add00aba5c3985c14114df",
+        "FR_sha256": "0044f7fdf5ff851fe30443dc75a9a5eb100096cce93ef14771eb94cdf415ef0a"
+      }
+    ],
+    "review": "Espèce オーシャンキング ; ancien Ocean King* trompeur, nom DS complet. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "1ed3cf011adf4889ac",
+    "encoded_hex": "2d44425a50544256f0ac",
+    "old_sha256": "3d8f0fd957f041aec57678903bcedcab24a9a8a6f693e6637ae98d97ccbabfd3",
+    "new_sha256": "2b3c5d2161a78407cbc29f1664ce476e44ce5c0c08b0537eea26070d8bd61950",
+    "old_columns": 11,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 691,
+    "position": 691,
+    "french": "butanosaure",
+    "previous": "Fusion Dragon",
+    "sfc_jp": "フーセンドラゴン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 80,
+        "JA_text": "@1フーセン;ドラゴン@",
+        "FR_text": "@0M@2le @3un @4butanosaure@5les @6des @7butanosaures@8N@9N@",
+        "JA_sha256": "429e7000281fb8c414a52a20d0ca71a46422fb88fbfefa384dcfb9c0e4175f3e",
+        "FR_sha256": "0781e40c7590cc7958cb8214df92be9e6e7a7903e894b9e42c25903d2c06ce46"
+      }
+    ],
+    "review": "Espèce フーセンドラゴン ; le japonais dit dragon-ballon, pas « Fusion Dragon ». Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "15fa4aea0113ef48eaac",
+    "encoded_hex": "435655cf50544256f0ac",
+    "old_sha256": "d34c340c25416716d3eaffafadf20434ee7ee78c8d04ada27663c8b7f41c7c4f",
+    "new_sha256": "9db6149bc6163ee64c114094f559daa2d379e1f234d567f1c5c6ab14dacbf898",
+    "old_columns": 13,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 694,
+    "position": 694,
+    "french": "tourmentor",
+    "previous": "Bull Savage",
+    "sfc_jp": "ブルサベージ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 158,
+        "JA_text": "@1ブルサベージ@",
+        "FR_text": "@0M@2le @3un @4tourmentor@5les @6des @7tourmentors@8N@9N@",
+        "JA_sha256": "9cba988d2ec31a6e0a673e49f30137e08b8935425bd4ce624f77c097176bf79a",
+        "FR_sha256": "e8ff30840984b2f89523210e4ac6b57b93a3b91fa963f7d78a9e98bb5d04b8b4"
+      }
+    ],
+    "review": "Espèce ブルサベージ ; nom DS complet, distinct des autres bêtes. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément.",
+    "old_encoded_hex": "1156e301224257424846ac",
+    "encoded_hex": "55ed534e46e7ecac",
+    "old_sha256": "f393d124c39305e3dffa20c8fc555886e73f8ce941c202530ee4363601fe5599",
+    "new_sha256": "74c948c2302075e7c02bd699ad41347856a45f48fad179b2cdc1af58e6998063",
+    "old_columns": 11,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  }
+]

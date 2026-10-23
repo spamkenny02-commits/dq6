@@ -1,0 +1,408 @@
+[
+  {
+    "position": 647,
+    "sids": [
+      647
+    ],
+    "current": "Killer Goose",
+    "sfc_jp": "キラーグース",
+    "current_message_sha256": "e412ffd33dacd73420e6843d150c5a449b11b2d4a1fd896caea9519d02b91079",
+    "JP_message_sha256": "6667086a7a2c500ed9119c7aacb751ac85c0ede29bfe3e70c8ee8fd074af6be2",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS dododingo : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 37,
+        "JA_text": "@1キラーグース@",
+        "FR_text": "@0M@2le @3un @4dododingo@5les @6des @7dododingos@8N@9N@",
+        "JA_sha256": "0b05f870811b3317be9a90a2533480065411d96a433d20585919e2ef99c49419",
+        "FR_sha256": "dbbfd57305e1dd74dbec4355cb5f670bcfdfe657177ceb8f16e5d335321382bc"
+      }
+    ],
+    "proposal": "dododingo",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Killer Goose",
+    "secondary_IPS_message_sha256": "e412ffd33dacd73420e6843d150c5a449b11b2d4a1fd896caea9519d02b91079",
+    "review_note": "Oiseau hostile (キラーグース), espèce ; le jeu de mots français DS est conservé. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 648,
+    "sids": [
+      648
+    ],
+    "current": "Great Pelican",
+    "sfc_jp": "グレートペリカン",
+    "current_message_sha256": "9c4cf5ec661bd489d6b9f261bb45ab5ee0910ebf3c1d24b85caf5383586ae4c3",
+    "JP_message_sha256": "01fe81112a0d8f7e3f4a63d9b87f357a9d0609ccce41566dd20090930951f740",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS pélikosaure : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 191,
+        "JA_text": "@1グレート;ペリカン@",
+        "FR_text": "@0M@2le @3un @4pélikosaure@5les @6des @7pélikosaures@8N@9N@",
+        "JA_sha256": "5a8cb45af43eb674425f6dc0bdb07847d5cdecc7a3179f27883bc730fe9ef982",
+        "FR_sha256": "060e1fbd11ab3f4d5a4076bcae1a0e762eaebb5039782c6bcb1feafc9acf2de0"
+      }
+    ],
+    "proposal": "pélikosaure",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Great Pelican",
+    "secondary_IPS_message_sha256": "9c4cf5ec661bd489d6b9f261bb45ab5ee0910ebf3c1d24b85caf5383586ae4c3",
+    "review_note": "Espèce グレートペリカン, distincte des autres oiseaux. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 652,
+    "sids": [
+      652
+    ],
+    "current": "Living Dead",
+    "sfc_jp": "リビングデッド",
+    "current_message_sha256": "a15b3748fbb767f31f66fec678479ab683adae67ddbe70dd0ea481d67663d3f7",
+    "JP_message_sha256": "30d1ec2c388b49e5a41ee19eb5f15ced87acc5e12bd771a3b228fdab21d062fe",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS macchab : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 119,
+        "JA_text": "@1リビング;デッド@",
+        "FR_text": "@0M@2le @3un @4macchab@5les @6des @7macchabs@8N@9N@",
+        "JA_sha256": "5f1989e162ff32f6e3ef3240c2c3fe67f91233a74e4de5b18c2a9bd4df97f6c5",
+        "FR_sha256": "075a9aacd61d52b775a383ce878a7e0d0da1ec5b4035187696cb71e095a3c980"
+      }
+    ],
+    "proposal": "macchab",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Living Dead",
+    "secondary_IPS_message_sha256": "a15b3748fbb767f31f66fec678479ab683adae67ddbe70dd0ea481d67663d3f7",
+    "review_note": "Espèce リビングデッド, distincte de zombinator (しのどれい). Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 653,
+    "sids": [
+      653
+    ],
+    "current": "Wind Mage",
+    "sfc_jp": "ウインドマージ",
+    "current_message_sha256": "76a7b414fbe2f749d40850df36452a3ee04c24e550fd40568547b4a2047971bb",
+    "JP_message_sha256": "28874a1a45037a231ab13d97ff2aaad5ffd2982a70c3218bb89bbdd3e50e5c56",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS rafaltou : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 74,
+        "JA_text": "@1ウインド;マージ@",
+        "FR_text": "@0M@2le @3un @4rafaltou@5les @6des @7rafaltous@8N@9N@",
+        "JA_sha256": "8b92a78f6dbd6177737ba53b56d2a677933bc1f992c80c91d922e45c3d372e61",
+        "FR_sha256": "e1bae65adb5893e97da97830f10a195abcb786cf9fb882e1252cdb6ebfc612f5"
+      }
+    ],
+    "proposal": "rafaltou",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Wind Mage",
+    "secondary_IPS_message_sha256": "76a7b414fbe2f749d40850df36452a3ee04c24e550fd40568547b4a2047971bb",
+    "review_note": "Espèce ウインドマージ, distincte des compétences de vent. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 655,
+    "sids": [
+      655
+    ],
+    "current": "Mummy Wisp",
+    "sfc_jp": "マミーウィスプ",
+    "current_message_sha256": "71d905f93f469161791595c8cc4ef8479d8d97f1e53a9b966fa4b0aba67178bb",
+    "JP_message_sha256": "844c380134178b246806725a531a7e4db142e7c3c4c5ca890ed493f6e6e1f330",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS dévastator : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 144,
+        "JA_text": "@1マミー;ウィスプ@",
+        "FR_text": "@0M@2le @3un @4dévastator@5les @6des @7dévastators@8N@9N@",
+        "JA_sha256": "f7dded159cfd29415a5209693a3affb163a240f76cd76bad4190e0896b26480e",
+        "FR_sha256": "10ff7429f6c31fead2fb5ad9df2dd1338803968daa8606dfd5387729a5eb3766"
+      }
+    ],
+    "proposal": "dévastator",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Mummy Wisp",
+    "secondary_IPS_message_sha256": "71d905f93f469161791595c8cc4ef8479d8d97f1e53a9b966fa4b0aba67178bb",
+    "review_note": "Espèce マミーウィスプ, distincte des autres morts-vivants. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 660,
+    "sids": [
+      660
+    ],
+    "current": "Winged Snake",
+    "sfc_jp": "ウィングスネーク",
+    "current_message_sha256": "7a6a53108e5434ef6a3e5fcb0098bc153f9b5a38c1b1509e72539df4ef38a4e2",
+    "JP_message_sha256": "bdf8ea316e1d0422ce67af377dcbe67d3b9973b65be5998930725bacd9e9a71b",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS veninconda : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 78,
+        "JA_text": "@1ウィング;スネーク@",
+        "FR_text": "@0M@2le @3un @4veninconda@5les @6des @7venincondas@8N@9N@",
+        "JA_sha256": "816ce8350ea39fdfd11198c54a778d21477969813aa318c7129014b2e2b08596",
+        "FR_sha256": "f27c89c40560ced6c5df3d4aeda7ce8e485bcb24421bebd36aab046c0ffc1b0e"
+      }
+    ],
+    "proposal": "veninconda",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Winged Snake",
+    "secondary_IPS_message_sha256": "7a6a53108e5434ef6a3e5fcb0098bc153f9b5a38c1b1509e72539df4ef38a4e2",
+    "review_note": "Espèce ウィングスネーク, distincte des serpents de mer. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 669,
+    "sids": [
+      669
+    ],
+    "current": "Sea Ghost",
+    "sfc_jp": "ふなゆうれい",
+    "current_message_sha256": "122c2c9d01b6f45bfe6ff65da3c192b0959380a3aea8feb57bede75b5934773f",
+    "JP_message_sha256": "b5ac4f7ea32e9836073884b220eec077965ebdc5328b339070f6b3e303f17a11",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS aquagadou : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 177,
+        "JA_text": "@1ふな;ゆうれい@",
+        "FR_text": "@0M@2l'@3un @4aquagadou@5les @6des @7aquagadous@8N@9Y@",
+        "JA_sha256": "004e7acb8d67535bdd73c13d1f7ef8fc0829a1a573f344ece5557fe19742cfa8",
+        "FR_sha256": "65037568d3801f388ac8cfce994cfb7b597a37490cfd905d5e697e8c4fbc5218"
+      }
+    ],
+    "proposal": "aquagadou",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Sea Ghost",
+    "secondary_IPS_message_sha256": "122c2c9d01b6f45bfe6ff65da3c192b0959380a3aea8feb57bede75b5934773f",
+    "review_note": "Espèce ふなゆうれい ; le champ DS est un nom de monstre, pas de navire. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 676,
+    "sids": [
+      676
+    ],
+    "current": "Tiger Claw",
+    "sfc_jp": "タイガークロー",
+    "current_message_sha256": "98405a0938426ae9608b94e6342e3a09dd593b99bfb323cec092267199d5057f",
+    "JP_message_sha256": "44e5ddee2f3ac0c29b31ad32d0cda315d69f415712c2641a8be94fd2f5f59a93",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS trancheur : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 130,
+        "JA_text": "@1タイガー;クロー@",
+        "FR_text": "@0M@2le @3un @4trancheur@5les @6des @7trancheurs@8N@9N@",
+        "JA_sha256": "fc665985eec2d6dadd374d334d82d8c74eb999e69b79e260fcc78a9b82885001",
+        "FR_sha256": "fddf567ccd24dc179045a3dc823c851d2b60ecdf322d5822074a0d35335ae557"
+      }
+    ],
+    "proposal": "trancheur",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Tiger Claw",
+    "secondary_IPS_message_sha256": "98405a0938426ae9608b94e6342e3a09dd593b99bfb323cec092267199d5057f",
+    "review_note": "Espèce タイガークロー, distincte des compétences de griffes. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 677,
+    "sids": [
+      677
+    ],
+    "current": "Muscle Animal",
+    "sfc_jp": "マッスルアニマル",
+    "current_message_sha256": "03bde54228108c758fcb449a2769e54dedbf707889fc43a04d34a61540c472b7",
+    "JP_message_sha256": "784707bdfac81e3daab3ec8bf67a94871f0896472fe77af013e20e67d167fe48",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS éventripeur : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 164,
+        "JA_text": "@1マッスル;アニマル@",
+        "FR_text": "@0M@2l'@3un @4éventripeur@5les @6des @7éventripeurs@8N@9Y@",
+        "JA_sha256": "5414b3500cf4430d9fee002b8a0634e926ac5609f8d8343901de763b76a31261",
+        "FR_sha256": "5fa6067c2445299607b5440fb3b9737bf13e9dd15aacecd180ac9f0ba5ffbddf"
+      }
+    ],
+    "proposal": "éventripeur",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Muscle Animal",
+    "secondary_IPS_message_sha256": "03bde54228108c758fcb449a2769e54dedbf707889fc43a04d34a61540c472b7",
+    "review_note": "Espèce マッスルアニマル ; conserver l’élision/genre DS comme référence, sans les déclarer validés dans SFC. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 678,
+    "sids": [
+      678
+    ],
+    "current": "Silence Sheep",
+    "sfc_jp": "ちんもくのひつじ",
+    "current_message_sha256": "7852043b288b564fda586d52b6fce559217212be61a2789bf01134cb588a6229",
+    "JP_message_sha256": "8b9911ef9ea7d20cd87f020372c3c2c39a761bedc20cc6f61fb0c1fcbe7c6c09",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS butebélier : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 25,
+        "JA_text": "@1ちんもくの;ひつじ@",
+        "FR_text": "@0M@2le @3un @4butebélier@5les @6des @7butebéliers@8N@9N@",
+        "JA_sha256": "bca0f8699ad1c941fd6677359aa518d5f0784cd346a40155b1af0ad0bae94f5c",
+        "FR_sha256": "fdc2b20af480bc08e6a0ef8acc22e94bc93ca037744a3cc28cbdae56908fec18"
+      }
+    ],
+    "proposal": "butebélier",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Silence Sheep",
+    "secondary_IPS_message_sha256": "7852043b288b564fda586d52b6fce559217212be61a2789bf01134cb588a6229",
+    "review_note": "Espèce ちんもくのひつじ, distincte de cerbélier. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 680,
+    "sids": [
+      680
+    ],
+    "current": "Dark Horn",
+    "sfc_jp": "ダークホーン",
+    "current_message_sha256": "7aaca82cb36e9314cb53360fed7b5ac1e4a1ca861ca9c2ec231f08d5c11479dd",
+    "JP_message_sha256": "5df3744b9efd8e5a959164579b23b99088b22d8f8302fb4e21451c36997f8594",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS cerbélier : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 85,
+        "JA_text": "@1ダークホーン@",
+        "FR_text": "@0M@2le @3un @4cerbélier@5les @6des @7cerbéliers@8N@9N@",
+        "JA_sha256": "69802a7ccb328dc8426b8aaeb4b4b3cc9bdb3c4d543bc990a956a76669bcc8cb",
+        "FR_sha256": "45f25111cc8998b280ff78d4f56d56b33f66d58581c3ebe49efec1f660c5c6cd"
+      }
+    ],
+    "proposal": "cerbélier",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Dark Horn",
+    "secondary_IPS_message_sha256": "7aaca82cb36e9314cb53360fed7b5ac1e4a1ca861ca9c2ec231f08d5c11479dd",
+    "review_note": "Espèce ダークホーン, distincte de butebélier. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 689,
+    "sids": [
+      689
+    ],
+    "current": "Ocean King*",
+    "sfc_jp": "オーシャンキング",
+    "current_message_sha256": "3d8f0fd957f041aec57678903bcedcab24a9a8a6f693e6637ae98d97ccbabfd3",
+    "JP_message_sha256": "3581eaa063d678d12f26b26500d90ed82304bd12acf1ee8d5bc58af6a73979b0",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS écayosaure : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 183,
+        "JA_text": "@1オーシャン;キング@",
+        "FR_text": "@0M@2l'@3un @4écayosaure@5les @6des @7écayosaures@8N@9Y@",
+        "JA_sha256": "5eb434c1b35a567de3d34b205208d04fd42960f192add00aba5c3985c14114df",
+        "FR_sha256": "0044f7fdf5ff851fe30443dc75a9a5eb100096cce93ef14771eb94cdf415ef0a"
+      }
+    ],
+    "proposal": "écayosaure",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Ocean King*",
+    "secondary_IPS_message_sha256": "3d8f0fd957f041aec57678903bcedcab24a9a8a6f693e6637ae98d97ccbabfd3",
+    "review_note": "Espèce オーシャンキング ; ancien Ocean King* trompeur, nom DS complet. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 691,
+    "sids": [
+      691
+    ],
+    "current": "Fusion Dragon",
+    "sfc_jp": "フーセンドラゴン",
+    "current_message_sha256": "d34c340c25416716d3eaffafadf20434ee7ee78c8d04ada27663c8b7f41c7c4f",
+    "JP_message_sha256": "248327fbc9cfa8b2c407cf27d34d22e0c82c52be5f339fef06d4014a20f1f57a",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS butanosaure : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 80,
+        "JA_text": "@1フーセン;ドラゴン@",
+        "FR_text": "@0M@2le @3un @4butanosaure@5les @6des @7butanosaures@8N@9N@",
+        "JA_sha256": "429e7000281fb8c414a52a20d0ca71a46422fb88fbfefa384dcfb9c0e4175f3e",
+        "FR_sha256": "0781e40c7590cc7958cb8214df92be9e6e7a7903e894b9e42c25903d2c06ce46"
+      }
+    ],
+    "proposal": "butanosaure",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Fusion Dragon",
+    "secondary_IPS_message_sha256": "d34c340c25416716d3eaffafadf20434ee7ee78c8d04ada27663c8b7f41c7c4f",
+    "review_note": "Espèce フーセンドラゴン ; le japonais dit dragon-ballon, pas « Fusion Dragon ». Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  },
+  {
+    "position": 694,
+    "sids": [
+      694
+    ],
+    "current": "Bull Savage",
+    "sfc_jp": "ブルサベージ",
+    "current_message_sha256": "f393d124c39305e3dffa20c8fc555886e73f8ce941c202530ee4363601fe5599",
+    "JP_message_sha256": "b8c9f5f57c50283c09ee77d86ded908b602ba283d720f5d78080111dba8abb71",
+    "status": "INTEGRE_v074",
+    "reason": "Proposition DS tourmentor : proposition source repérée, relecture détaillée et test de composition reportés. Pas une traduction qualifiée ; accords et contexte naturel non validés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1002000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1002000.mpt",
+        "id": 158,
+        "JA_text": "@1ブルサベージ@",
+        "FR_text": "@0M@2le @3un @4tourmentor@5les @6des @7tourmentors@8N@9N@",
+        "JA_sha256": "9cba988d2ec31a6e0a673e49f30137e08b8935425bd4ce624f77c097176bf79a",
+        "FR_sha256": "e8ff30840984b2f89523210e4ac6b57b93a3b91fa963f7d78a9e98bb5d04b8b4"
+      }
+    ],
+    "proposal": "tourmentor",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Bull Savage",
+    "secondary_IPS_message_sha256": "f393d124c39305e3dffa20c8fc555886e73f8ce941c202530ee4363601fe5599",
+    "review_note": "Espèce ブルサベージ ; nom DS complet, distinct des autres bêtes. Japonais SFC et DS exacts, français DS complet sans abréviation ; accords et scènes naturelles à vérifier séparément."
+  }
+]

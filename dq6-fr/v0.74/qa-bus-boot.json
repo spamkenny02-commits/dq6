@@ -1,0 +1,42 @@
+{
+  "release": "v0.74",
+  "ROM_sha256": "3f51e6af8948c0559dcd710861a0c1c06b92df0308497189d7ae603b85df9829",
+  "bus": {
+    "groups_checked": 4002,
+    "bytes_checked": 573743,
+    "upper_groups": 3501,
+    "all_rom_bus_reads_match": true
+  },
+  "fresh_boot": true,
+  "load_state": false,
+  "reset": true,
+  "visible_menu": [
+    "Nouveau jeu",
+    "Journal 1",
+    "Journal 2",
+    "Journal 3"
+  ],
+  "screenshot_sha256": "52fb1b4bfe419aad24adc931cece2186eb22549243ee19e124c35ff4ad373432",
+  "sequence": [
+    {
+      "frames": 360
+    },
+    {
+      "button": "a",
+      "frames": 1,
+      "press": 1
+    },
+    {
+      "frames": 120
+    },
+    {
+      "button": "a",
+      "frames": 1,
+      "press": 1
+    },
+    {
+      "frames": 120
+    }
+  ],
+  "natural_travel_or_battle": false
+}
