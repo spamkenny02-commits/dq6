@@ -1,0 +1,971 @@
+{
+  "release": "v0.78",
+  "ROM_sha256": "0a69826c5139f75e8f78db7bdfa6ab5867180c866d09f26a548fdd2050c71a97",
+  "cases": 80,
+  "all_name_foreground_glyph_pixels_match": true,
+  "characters_checked": 1266,
+  "semantic_review_replaced_by_pixel_check": false,
+  "natural_battle": false,
+  "rows": [
+    {
+      "position": 1604,
+      "name_SID": 2068,
+      "item_ID": 1,
+      "French_name": "bâton de cyprès",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "ede657693da2a80531f2e2d9c18efd3b9056048eb14fac815885f3e2b724b502"
+    },
+    {
+      "position": 1610,
+      "name_SID": 2074,
+      "item_ID": 7,
+      "French_name": "bâton de fer",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "e9721c32109d705efc7ddf3456734c54ae79533a76288b2f040f9f13756f2d8c"
+    },
+    {
+      "position": 1613,
+      "name_SID": 2077,
+      "item_ID": 10,
+      "French_name": "poignard empoisonné",
+      "glyphs_exactly_matched": 19,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "c4bdccdbdd504745da4501185ad2cc1c2961126a6c36d5109a86892364523ebf"
+    },
+    {
+      "position": 1615,
+      "name_SID": 2079,
+      "item_ID": 12,
+      "French_name": "épée ardente",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "bcde22e18f48815097a7ef39e4180c8f1a357d3f9085a279596f5c7e17e70a34"
+    },
+    {
+      "position": 1616,
+      "name_SID": 2080,
+      "item_ID": 13,
+      "French_name": "fléau des dragons",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "8e8ce93fe5053ae69f9eca24d117d07690426b49f9a2cb1b88a44efa49b91646"
+    },
+    {
+      "position": 1620,
+      "name_SID": 2084,
+      "item_ID": 17,
+      "French_name": "épée miraculeuse",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "a7d76e5b5c228cf99000d540f940d31096931a949aa1c9cbaf0aeaaba0c9fa30"
+    },
+    {
+      "position": 1621,
+      "name_SID": 2085,
+      "item_ID": 18,
+      "French_name": "Fléau des zombies",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "4f2eb3628ba70bf850f73158aafe579e2d4058f4e97ccf4280103c5616c43c63"
+    },
+    {
+      "position": 1622,
+      "name_SID": 2086,
+      "item_ID": 19,
+      "French_name": "lame du Blizzard",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "5988a292705adff4390fe325cf86e57dcf674c374733cad7c4d94c87b6ea71c0"
+    },
+    {
+      "position": 1623,
+      "name_SID": 2087,
+      "item_ID": 20,
+      "French_name": "épée de platine",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "d66c360da3eab22b39c159f4445fb225a20fadc1b3108cea2f4ebebb8bf33e54"
+    },
+    {
+      "position": 1624,
+      "name_SID": 2088,
+      "item_ID": 21,
+      "French_name": "épée royale",
+      "glyphs_exactly_matched": 11,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "6e5f2cd97f1124da14f3b177e2fbf0fde27ff2fbe353ded61e494d5d9d8b095c"
+    },
+    {
+      "position": 1625,
+      "name_SID": 2089,
+      "item_ID": 22,
+      "French_name": "trident de Gracos",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "bb9dff610c39ae40ecc7b91e4128059986eff06cb3d1cb749b2eb68429838c1d"
+    },
+    {
+      "position": 1631,
+      "name_SID": 2095,
+      "item_ID": 28,
+      "French_name": "fouet de Gringham",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "792b1998f97ce42da463206dad06d291c370ca509f3fbac10da54f04f28b233f"
+    },
+    {
+      "position": 1633,
+      "name_SID": 2097,
+      "item_ID": 30,
+      "French_name": "éventail lunaire",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "eaeb437ac6f75ddee1d124073feee0dd3a226db5f5bc7472ef507c561c1a19b5"
+    },
+    {
+      "position": 1634,
+      "name_SID": 2098,
+      "item_ID": 31,
+      "French_name": "éventail solaire",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "85628ed9596bb5badf09b28e7d9a6d90b5f8a5aaa22aabc26c35db82fe70b030"
+    },
+    {
+      "position": 1636,
+      "name_SID": 2100,
+      "item_ID": 33,
+      "French_name": "boomerang à lames",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "d24293e85fc2842887112fff240d8003711630be15194ef2e14e5ac287a0b575"
+    },
+    {
+      "position": 1641,
+      "name_SID": 2105,
+      "item_ID": 38,
+      "French_name": "bâton d'antimagie",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "98d8a3419eedc886801926d88bb7c5f6637ecf9ecc2a6f324dd8742cd819f764"
+    },
+    {
+      "position": 1646,
+      "name_SID": 2110,
+      "item_ID": 43,
+      "French_name": "boomerang de feu",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "2816ae565acde1c2d4982e276d3b2e3f438ce05dd6257c148075b690be55c82d"
+    },
+    {
+      "position": 1654,
+      "name_SID": 2118,
+      "item_ID": 51,
+      "French_name": "crocs acérés",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "70101e0229727102707cbb115793c05bb96e49f6badd3493b992e80da21ab83d"
+    },
+    {
+      "position": 1656,
+      "name_SID": 2120,
+      "item_ID": 53,
+      "French_name": "masse de guerre",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "9e944a140292a5d97b5980ed08044f2f44296d1b8becca7c49a52d9122968e7f"
+    },
+    {
+      "position": 1660,
+      "name_SID": 2124,
+      "item_ID": 57,
+      "French_name": "lame du Châtiment",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "79ab6068c30157538b9fe993492b070a9f434031e4628cf53be22c3c98a35a2d"
+    },
+    {
+      "position": 1661,
+      "name_SID": 2125,
+      "item_ID": 58,
+      "French_name": "épée dentée",
+      "glyphs_exactly_matched": 11,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "f2f3b5e31256f5479d1e0618223cde26d7047a1556d054455de389abb4bf016d"
+    },
+    {
+      "position": 1662,
+      "name_SID": 2126,
+      "item_ID": 59,
+      "French_name": "aiguille empoisonnée",
+      "glyphs_exactly_matched": 20,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "80785424111b0a1f7c2f00c11364322864f5e2733c6984b2f2864a8ecd1da5ae"
+    },
+    {
+      "position": 1663,
+      "name_SID": 2127,
+      "item_ID": 60,
+      "French_name": "dagues d'oreilles",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "5e352e8bab00e1584cacd929da7ab74b8c48642c14693b3cc65a75a6de9d1522"
+    },
+    {
+      "position": 1670,
+      "name_SID": 2134,
+      "item_ID": 84,
+      "French_name": "tenue de voyageur",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "52d2ad18eb48723445a65d7a7c7d31fac5ffa9165c84203395399a0c92cc4460"
+    },
+    {
+      "position": 1673,
+      "name_SID": 2137,
+      "item_ID": 87,
+      "French_name": "armure de cuir",
+      "glyphs_exactly_matched": 14,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "f9656e4456ac96e4f7cd17e35eb1c339cead1d24eee5bb4b11b355e6b337c558"
+    },
+    {
+      "position": 1683,
+      "name_SID": 2147,
+      "item_ID": 97,
+      "French_name": "armure à piques",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "a0d1c42bea36f368ff77448a345092706a30c8cc209c2be5a496fd961846541a"
+    },
+    {
+      "position": 1684,
+      "name_SID": 2148,
+      "item_ID": 98,
+      "French_name": "plastron d'argent",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "3f3b932d9f9232f5346a8242391cdebe253b108fd0e0556b9e03ba87f1c2ebcf"
+    },
+    {
+      "position": 1688,
+      "name_SID": 2152,
+      "item_ID": 102,
+      "French_name": "armure d'Orgo",
+      "glyphs_exactly_matched": 13,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "90705477912cc2bd7b8931b4b9c69730c7d63d57870ad43bbb91458e7a224b91"
+    },
+    {
+      "position": 1692,
+      "name_SID": 2156,
+      "item_ID": 106,
+      "French_name": "armure royale",
+      "glyphs_exactly_matched": 13,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "45fe34efac6a7841278e3dee73aac7a9b4c1f4a421c2b9086733a31d341d2c47"
+    },
+    {
+      "position": 1695,
+      "name_SID": 2159,
+      "item_ID": 109,
+      "French_name": "tenue de noble",
+      "glyphs_exactly_matched": 14,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "5f416c1aaa9fd2d1ce89c917abb414ac4629755f9ffb91e8746de21e41872aa0"
+    },
+    {
+      "position": 1699,
+      "name_SID": 2163,
+      "item_ID": 113,
+      "French_name": "armure de géant",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "8e6f3c68896b9a5fa703987d9127c586ceae71aa0b04d9bb84c5c3e8a0dfa1a3"
+    },
+    {
+      "position": 1700,
+      "name_SID": 2164,
+      "item_ID": 114,
+      "French_name": "jupe magique",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "aac8cfcb49ba5599efd913a91bad030f53879a9002b79c2de0293cede9828981"
+    },
+    {
+      "position": 1701,
+      "name_SID": 2165,
+      "item_ID": 115,
+      "French_name": "robe de soie",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "2c66b1c8b82efba4deaa460fc5595c3341bf1452c4375de5f460bb5155906bfc"
+    },
+    {
+      "position": 1702,
+      "name_SID": 2166,
+      "item_ID": 116,
+      "French_name": "costume de danseuse",
+      "glyphs_exactly_matched": 19,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "13e7ce83db2031728e44b5d959327af0f6dbeffa3fd984de30806269341e76d3"
+    },
+    {
+      "position": 1703,
+      "name_SID": 2167,
+      "item_ID": 117,
+      "French_name": "manteau d'esquive",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "7d891a206378ef03a517bc9b8ca20c768c75cfc4259aeacc69337c969316af0b"
+    },
+    {
+      "position": 1704,
+      "name_SID": 2168,
+      "item_ID": 118,
+      "French_name": "robe flottante",
+      "glyphs_exactly_matched": 14,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "b7751bc0fa905e8cfa46b00c63b055a7fb64d32445de2bd66a3308371241340a"
+    },
+    {
+      "position": 1706,
+      "name_SID": 2170,
+      "item_ID": 120,
+      "French_name": "robe chatoyante",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "62050f817d62e880d2d263772f36376b5e2a5cb9ba16725119180fc3537735c3"
+    },
+    {
+      "position": 1708,
+      "name_SID": 2172,
+      "item_ID": 122,
+      "French_name": "cuirasse de platine",
+      "glyphs_exactly_matched": 19,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "02d1c8946d7a95282c0cf506a6d4c15fcd44f211cbcfeb377748f98af011e98b"
+    },
+    {
+      "position": 1710,
+      "name_SID": 2174,
+      "item_ID": 124,
+      "French_name": "robe de princesse",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "cd046f16f10f6478fd5c5aa59524f741ffa09ba6a1bdcef95f37432b85d96391"
+    },
+    {
+      "position": 1714,
+      "name_SID": 2178,
+      "item_ID": 128,
+      "French_name": "lingerie robuste",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "05e152765d81bc1312dc9fe115bca06d609cb48831e1b04b2455201ba44a2682"
+    },
+    {
+      "position": 1716,
+      "name_SID": 2180,
+      "item_ID": 139,
+      "French_name": "bouclier de cuir",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "0d359f3d572e80ec69f57023cce02a994cce5397518294abe378805242bfda9a"
+    },
+    {
+      "position": 1718,
+      "name_SID": 2182,
+      "item_ID": 141,
+      "French_name": "bouclier de bronze",
+      "glyphs_exactly_matched": 18,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "717cfc9bb7f8411e2b7c1fd4fdc38df77e789700c3570e2da9868f115ce6077b"
+    },
+    {
+      "position": 1721,
+      "name_SID": 2185,
+      "item_ID": 144,
+      "French_name": "bouclier du Dragon",
+      "glyphs_exactly_matched": 18,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "290b3626eb7e4d7c1467b75c0496308d891eaabe49701bcffb0bbc9e0dbd356a"
+    },
+    {
+      "position": 1723,
+      "name_SID": 2187,
+      "item_ID": 146,
+      "French_name": "bouclier de puissance",
+      "glyphs_exactly_matched": 21,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "4e2d00402bd4714bd447ff2d65fbe7631675a9bd2952035dd0ed70f2c59a513f"
+    },
+    {
+      "position": 1724,
+      "name_SID": 2188,
+      "item_ID": 147,
+      "French_name": "bouclier du Vent",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "8cf6a934e5f23c5e28a90a4082ef30d7d8afa83fac0f782b1f07178d509ea2f4"
+    },
+    {
+      "position": 1729,
+      "name_SID": 2193,
+      "item_ID": 152,
+      "French_name": "bouclier du Désastre",
+      "glyphs_exactly_matched": 20,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "744400183e591dd6c6d8c41164c17d811415149df0c742eb4c17f5b55f2beae7"
+    },
+    {
+      "position": 1732,
+      "name_SID": 2196,
+      "item_ID": 155,
+      "French_name": "bouclier de Valora",
+      "glyphs_exactly_matched": 18,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "ed65e981af7fdd23931e1b135c02008766b90dd8b1b4551fb88e7dd111bc57d3"
+    },
+    {
+      "position": 1733,
+      "name_SID": 2197,
+      "item_ID": 156,
+      "French_name": "bouclier de platine",
+      "glyphs_exactly_matched": 19,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "0966b9dadd45f3742363965f6ff000dec076a53d4db2434b68c462bc0951a4c9"
+    },
+    {
+      "position": 1737,
+      "name_SID": 2201,
+      "item_ID": 166,
+      "French_name": "bigornheaume",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "a6c379f122b4fba01fc1f3ae1ccd623e8c6602ebf8f6cc79548dabc9e63cfb5d"
+    },
+    {
+      "position": 1744,
+      "name_SID": 2208,
+      "item_ID": 173,
+      "French_name": "heaume de Sebath",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "ac782b51c5c8d7f047f0de8e3138e6351d53e565d450f78eda58b71af2b6aa19"
+    },
+    {
+      "position": 1746,
+      "name_SID": 2210,
+      "item_ID": 175,
+      "French_name": "chapeau de félicité",
+      "glyphs_exactly_matched": 19,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "eb58f59e9f7a901dc4428350b9bd496107b09b96de0c208f4d2d7bed0a867a1c"
+    },
+    {
+      "position": 1747,
+      "name_SID": 2211,
+      "item_ID": 176,
+      "French_name": "coiffe de réflexion",
+      "glyphs_exactly_matched": 19,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "f8ffc7c38c25046fed39a1ae5ee0b93f5530ec1c06d99cf6ba3259d591552a40"
+    },
+    {
+      "position": 1749,
+      "name_SID": 2213,
+      "item_ID": 178,
+      "French_name": "grand heaume",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "2aceec3cf73863a1e0689ddbbde0eb9d3438a6c081cbfa32e80ed42f4d79b4b9"
+    },
+    {
+      "position": 1750,
+      "name_SID": 2214,
+      "item_ID": 179,
+      "French_name": "heaume royal",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "cb5bc1556b4e2310a5a36edfd4ed5cbdcd4e1e37a0820ee142f5d275104873e0"
+    },
+    {
+      "position": 1754,
+      "name_SID": 2218,
+      "item_ID": 183,
+      "French_name": "heaume de platine",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "7958b64d127ce5d6d9cbef0c935c31b4b5ad14f1138344a3a477ce2d455bb4b4"
+    },
+    {
+      "position": 1755,
+      "name_SID": 2219,
+      "item_ID": 189,
+      "French_name": "brassard de météore",
+      "glyphs_exactly_matched": 19,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "8d58d90d2280c1ed0c9b82930e965183915e66aedcb2e0a2c34a5eb29232db4e"
+    },
+    {
+      "position": 1757,
+      "name_SID": 2221,
+      "item_ID": 191,
+      "French_name": "éclat d'étoile",
+      "glyphs_exactly_matched": 14,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "546f79f15372dd1abc2ec8d8cccc51db1f8d4e0c2fa73cd1e06c9a7cf4024d8a"
+    },
+    {
+      "position": 1759,
+      "name_SID": 2223,
+      "item_ID": 193,
+      "French_name": "brassard de conjuration",
+      "glyphs_exactly_matched": 23,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "79cacd0642e18a850562cc9afe6eeeca62a8ec48a5408eafc56684f57df6dc58"
+    },
+    {
+      "position": 1760,
+      "name_SID": 2224,
+      "item_ID": 194,
+      "French_name": "boucles d'oreilles",
+      "glyphs_exactly_matched": 18,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "45a16f7dc9c37b036448a17313d0fdcd673f4a10709d70d8c9a7d10185c9909e"
+    },
+    {
+      "position": 1762,
+      "name_SID": 2226,
+      "item_ID": 196,
+      "French_name": "brassard d'or",
+      "glyphs_exactly_matched": 13,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "2ad67701481401d6a16751d4ea5849a3b50a565ea9a0e14701a93386cb6583f9"
+    },
+    {
+      "position": 1767,
+      "name_SID": 2231,
+      "item_ID": 201,
+      "French_name": "foulard de pionnier",
+      "glyphs_exactly_matched": 19,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "a4c9380b72ed12f05cfe8500727f453e73020e5df2661ef67fc5029b65651858"
+    },
+    {
+      "position": 1768,
+      "name_SID": 2232,
+      "item_ID": 202,
+      "French_name": "bague de prière",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "33aa173ff07034207a8f09367ba9dece6de842039e796d18b36688e46062df3b"
+    },
+    {
+      "position": 1769,
+      "name_SID": 2233,
+      "item_ID": 203,
+      "French_name": "anneau d'or",
+      "glyphs_exactly_matched": 11,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "a1778923814598ed18d47419aec264a0ba2b3dcf723e6ea825178871cd831bb5"
+    },
+    {
+      "position": 1771,
+      "name_SID": 2235,
+      "item_ID": 205,
+      "French_name": "vieille pipe",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "24c00af299c024f2e2c0272cbbd762271efd56315adb631af7f425b382ba3dbf"
+    },
+    {
+      "position": 1772,
+      "name_SID": 2236,
+      "item_ID": 206,
+      "French_name": "pendentif de Colombourg",
+      "glyphs_exactly_matched": 23,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "4951b30fa797259fc5e86c05d9d71bd642b1b944b898720e8af20a6d068c076b"
+    },
+    {
+      "position": 1774,
+      "name_SID": 2238,
+      "item_ID": 208,
+      "French_name": "anneau ancien",
+      "glyphs_exactly_matched": 13,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "19a7da0d24b6285c5028af49990a72ed055cedc38b26ace174fa1afd89364455"
+    },
+    {
+      "position": 1776,
+      "name_SID": 2240,
+      "item_ID": 210,
+      "French_name": "herbe curative",
+      "glyphs_exactly_matched": 14,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "dc9a17c8dde3fe33d3501a6f5c699babe88a64c7d7bc8e83730b3ffbfd36750a"
+    },
+    {
+      "position": 1778,
+      "name_SID": 2242,
+      "item_ID": 212,
+      "French_name": "aile de chimère",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "a37dc08d0eda2bb1dabe3ce0704e8ea5b7456afaf02b3350ca0361a2f959a540"
+    },
+    {
+      "position": 1779,
+      "name_SID": 2243,
+      "item_ID": 213,
+      "French_name": "feuille d'Yggdrasil",
+      "glyphs_exactly_matched": 19,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "2001ffdf73ad41e792e5efaefe3b32183eaee312dda27d98f9c8b75d8e9830f1"
+    },
+    {
+      "position": 1780,
+      "name_SID": 2244,
+      "item_ID": 214,
+      "French_name": "rosée d'Yggdrasil",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "895a679ebdbb29f191b96e5ab463b5ab4eec6d393074b1aa5af5e17a82219b85"
+    },
+    {
+      "position": 1781,
+      "name_SID": 2245,
+      "item_ID": 215,
+      "French_name": "botryche lunaire",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "8215b311f246b4e58d2e9a22a806bbf1f7bb5587e7d2057edde7deb61afeadba"
+    },
+    {
+      "position": 1783,
+      "name_SID": 2247,
+      "item_ID": 217,
+      "French_name": "sables du temps",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "7680b99082dbd3d9658ac21dc21a9cde58fb379f6b72e759ad1be6ccc08b07b4"
+    },
+    {
+      "position": 1785,
+      "name_SID": 2249,
+      "item_ID": 219,
+      "French_name": "graine de Force",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "044c4d531840f8f91d934658393816610451b14d040bfacb98771adf87ca48aa"
+    },
+    {
+      "position": 1792,
+      "name_SID": 2256,
+      "item_ID": 226,
+      "French_name": "sève de desmodium",
+      "glyphs_exactly_matched": 17,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "4ee9c21b18b6716853ef0fa8d0807fac2773e652a9909c0774774a034a9d9d74"
+    },
+    {
+      "position": 1793,
+      "name_SID": 2257,
+      "item_ID": 227,
+      "French_name": "produits du village",
+      "glyphs_exactly_matched": 19,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "ccbc77dce30bee9fd6655f6e50c443afda7ed98b39907552dd6ea0cb517282e6"
+    },
+    {
+      "position": 1808,
+      "name_SID": 2272,
+      "item_ID": 242,
+      "French_name": "clef de l'écluse",
+      "glyphs_exactly_matched": 16,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "e814f4db5534803306682c3b3a26c4dde153b8b43680a49e12730824b9df10c7"
+    },
+    {
+      "position": 1812,
+      "name_SID": 2276,
+      "item_ID": 246,
+      "French_name": "rênes célestes",
+      "glyphs_exactly_matched": 14,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "fd47d627754f3d72fbccc9caab352322c58cc44b3340e7a58cab9479e09a8c72"
+    },
+    {
+      "position": 1814,
+      "name_SID": 2278,
+      "item_ID": 248,
+      "French_name": "tapis pelucheux",
+      "glyphs_exactly_matched": 15,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "52d332c7d63b820677cfcf7e85f8916e32452469a9e7320f452b108e6400ee46"
+    },
+    {
+      "position": 1818,
+      "name_SID": 2282,
+      "item_ID": 252,
+      "French_name": "clef magique",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "8454c52b1c7c78f05703f08b273ee479e2c35bca242e3d342ac3436a86a85688"
+    },
+    {
+      "position": 1819,
+      "name_SID": 2283,
+      "item_ID": 253,
+      "French_name": "clef suprême",
+      "glyphs_exactly_matched": 12,
+      "name_starts_native_pixel": [
+        24,
+        168
+      ],
+      "screenshot_sha256": "9bfca8bd9b377d7dd3bc3b2b73ce31058abc332f46a436a2b05fe7e59ee96e73"
+    }
+  ]
+}

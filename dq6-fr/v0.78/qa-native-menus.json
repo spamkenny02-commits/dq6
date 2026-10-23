@@ -1,0 +1,1712 @@
+{
+  "release": "v0.78",
+  "ROM_sha256": "0a69826c5139f75e8f78db7bdfa6ab5867180c866d09f26a548fdd2050c71a97",
+  "initial_private_field_state_sha256": "ec3778f44c7f9d2b7441b776c35f1c0ce671a731998f3264f35604f7246bfd7e",
+  "main_menu_natural_inputs": [
+    {
+      "deliberate_old_width_mutation": false,
+      "width_tiles": 20,
+      "bounds_violations": [],
+      "rows": [
+        {
+          "sid": 150,
+          "row": 3,
+          "column": 4,
+          "expanded_glyphs": 7
+        },
+        {
+          "sid": 151,
+          "row": 3,
+          "column": 13,
+          "expanded_glyphs": 5
+        },
+        {
+          "sid": 152,
+          "row": 5,
+          "column": 4,
+          "expanded_glyphs": 7
+        },
+        {
+          "sid": 153,
+          "row": 5,
+          "column": 13,
+          "expanded_glyphs": 8
+        },
+        {
+          "sid": 154,
+          "row": 7,
+          "column": 4,
+          "expanded_glyphs": 7
+        },
+        {
+          "sid": 155,
+          "row": 7,
+          "column": 13,
+          "expanded_glyphs": 6
+        }
+      ],
+      "screenshot_sha256": "d07cd1267f24e28d04d9c14e99282f8af5a93d7a2e1e970f39b67e92a0560d90"
+    },
+    {
+      "deliberate_old_width_mutation": true,
+      "width_tiles": 16,
+      "bounds_violations": [
+        151,
+        153,
+        155
+      ],
+      "rows": [
+        {
+          "sid": 150,
+          "row": 3,
+          "column": 4,
+          "expanded_glyphs": 7
+        },
+        {
+          "sid": 151,
+          "row": 3,
+          "column": 13,
+          "expanded_glyphs": 5
+        },
+        {
+          "sid": 152,
+          "row": 5,
+          "column": 4,
+          "expanded_glyphs": 7
+        },
+        {
+          "sid": 153,
+          "row": 5,
+          "column": 13,
+          "expanded_glyphs": 8
+        },
+        {
+          "sid": 154,
+          "row": 7,
+          "column": 4,
+          "expanded_glyphs": 7
+        },
+        {
+          "sid": 155,
+          "row": 7,
+          "column": 13,
+          "expanded_glyphs": 6
+        }
+      ],
+      "screenshot_sha256": "6032059dc2010f8e0a8aeff4b2e6b3d1aede22bbad344684430a9867ef1b50ba"
+    }
+  ],
+  "item_names_diagnostic_binding": true,
+  "item_name_SIDs": 80,
+  "item_views": 160,
+  "results": [
+    {
+      "sid": 2068,
+      "position": 1604,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "6dcd54a099b7d6bcbf09e4c688aed1a687dc1fbfbb1ef626334820ca6ed176a9",
+      "private_fixture_SHA256": "e169904c13a68b4092a98b91c9802ea871704f8a0893895760749b5f9945bc74"
+    },
+    {
+      "sid": 2068,
+      "position": 1604,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "a817dd95d0354f824245b3fe03ec7906410d38e2fa3912f29c88f078eb971458",
+      "private_fixture_SHA256": "e169904c13a68b4092a98b91c9802ea871704f8a0893895760749b5f9945bc74"
+    },
+    {
+      "sid": 2074,
+      "position": 1610,
+      "view": "inventory",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "5c4a77ef3a651fadad20ac4c0f88386854ce510d836fda91768f9a95f7adc32a",
+      "private_fixture_SHA256": "8653cd12d7bcdc4c222a2537f82aac53bfe44c19bf798103684ac2bda602d62e"
+    },
+    {
+      "sid": 2074,
+      "position": 1610,
+      "view": "equipment",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "b20e6f59b6f20b3bcc55e85017c229ca0f52d58fe2d16f384b69badd75c9b058",
+      "private_fixture_SHA256": "8653cd12d7bcdc4c222a2537f82aac53bfe44c19bf798103684ac2bda602d62e"
+    },
+    {
+      "sid": 2077,
+      "position": 1613,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f33a59c9a270683ea2baeb4174bfb418da96961a16c3143ed53e7d5010931fdd",
+      "private_fixture_SHA256": "a3ca10c6fcbc971fc381f97ccaa5794590cfeaefe28ac06271d03b8a67c9a156"
+    },
+    {
+      "sid": 2077,
+      "position": 1613,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "ad0e6954c57527dad6203a3494ec19e97a9cf38f0bb65c8b64d7d8b58030fc69",
+      "private_fixture_SHA256": "a3ca10c6fcbc971fc381f97ccaa5794590cfeaefe28ac06271d03b8a67c9a156"
+    },
+    {
+      "sid": 2079,
+      "position": 1615,
+      "view": "inventory",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "a6619d202ef186a0ee0bf11afaf3e6ce229743ce6e702f2780bff4c3982f35e2",
+      "private_fixture_SHA256": "6ada9b4192dd477bf0a00a2a162b66355974098bd3024ab2e07fff8918fab949"
+    },
+    {
+      "sid": 2079,
+      "position": 1615,
+      "view": "equipment",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "1c3d42a569ae6058db5a1690a7a38768a6fa2dbdbbc2aed96c4c69ee82a2ef5d",
+      "private_fixture_SHA256": "6ada9b4192dd477bf0a00a2a162b66355974098bd3024ab2e07fff8918fab949"
+    },
+    {
+      "sid": 2080,
+      "position": 1616,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "24eea75ad54f92a6b29934d253321c637c8747fa445e6fc650bec29abe80b1f3",
+      "private_fixture_SHA256": "3ebadcefedb1b69d9034b6972c9c5c4d4870cb2349a958ca89d481407cb75d67"
+    },
+    {
+      "sid": 2080,
+      "position": 1616,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "100794e6d3b7818be37a4b8aa76ad24f534d25ebbed71580174442a03334d734",
+      "private_fixture_SHA256": "3ebadcefedb1b69d9034b6972c9c5c4d4870cb2349a958ca89d481407cb75d67"
+    },
+    {
+      "sid": 2084,
+      "position": 1620,
+      "view": "inventory",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "4c3d3f690fef122bc1cb64d1075cc0b8fdbabafbf0345bb3fe9fde3d32059f22",
+      "private_fixture_SHA256": "455f58bc238cd65174e611616ec9e2e35d0724b0aea4144265598e47de980fa7"
+    },
+    {
+      "sid": 2084,
+      "position": 1620,
+      "view": "equipment",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "d2ee07e1232c4506faceb5e09069eaf9a7a647d1ac4c4bf9e9007393097c0a3b",
+      "private_fixture_SHA256": "455f58bc238cd65174e611616ec9e2e35d0724b0aea4144265598e47de980fa7"
+    },
+    {
+      "sid": 2085,
+      "position": 1621,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "b2ac9bed28707621dc832c797a235d39c6d6c02e4b162b715cb14530fa28e16f",
+      "private_fixture_SHA256": "9031d63469479cb1dd7d1ad8488143e2726f1e679a1446993980625aff4b387c"
+    },
+    {
+      "sid": 2085,
+      "position": 1621,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "44f048fe7c224c0faa4858f5791195a528cedab2e2b38eb310428d44c6b92821",
+      "private_fixture_SHA256": "9031d63469479cb1dd7d1ad8488143e2726f1e679a1446993980625aff4b387c"
+    },
+    {
+      "sid": 2086,
+      "position": 1622,
+      "view": "inventory",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "8bc65ec2585f5b9984c1ee7e21f97a55807e79edb0e8f994ed9bad207a2af642",
+      "private_fixture_SHA256": "ff9c11059f58f9fccefd374875d7425e792a74e0c8376dfdafad036587f159dd"
+    },
+    {
+      "sid": 2086,
+      "position": 1622,
+      "view": "equipment",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "3d76936652d1a5919bae8418c9ffb74bdac49912135a425de31eff7dbab70790",
+      "private_fixture_SHA256": "ff9c11059f58f9fccefd374875d7425e792a74e0c8376dfdafad036587f159dd"
+    },
+    {
+      "sid": 2087,
+      "position": 1623,
+      "view": "inventory",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "6fe6e72559abd4bbe6ff29480ab3a70f342707e33f6fb05e7992389889b3167c",
+      "private_fixture_SHA256": "e4476927b1cb43d94a7bb28b7d8d07b4a6fde209652e6cdff4cbd7cec18c2415"
+    },
+    {
+      "sid": 2087,
+      "position": 1623,
+      "view": "equipment",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "345d2023ebb5d77de5ea87da8413e9f11afdce087b0056e8d7ed2accdf86ada0",
+      "private_fixture_SHA256": "e4476927b1cb43d94a7bb28b7d8d07b4a6fde209652e6cdff4cbd7cec18c2415"
+    },
+    {
+      "sid": 2088,
+      "position": 1624,
+      "view": "inventory",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 6,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "52afd22e10121e46be069a5d049786a4b6d416046528556ec9d6e9adc8c8c9ff",
+      "private_fixture_SHA256": "220869bbec7b341d521dfb01a6a98636975a1bf4c7c61e412e6279ca5212b686"
+    },
+    {
+      "sid": 2088,
+      "position": 1624,
+      "view": "equipment",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 6,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "66ea14f3b8adcfbda6ac64d3daa1bda56187d87a3f20a3a9a61648ab0ceff433",
+      "private_fixture_SHA256": "220869bbec7b341d521dfb01a6a98636975a1bf4c7c61e412e6279ca5212b686"
+    },
+    {
+      "sid": 2089,
+      "position": 1625,
+      "view": "inventory",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "1a5c97ce8d8be828769fb84d3eb8279987bc46e43a9d0211fed4a66284b4ce30",
+      "private_fixture_SHA256": "ace26759836477bb3a193b63578c277c296dcaa74a8a94428dd2bbc5f0b94944"
+    },
+    {
+      "sid": 2089,
+      "position": 1625,
+      "view": "equipment",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f1bf5c528629ca58734daeed189fe47ca71a32feaf37ac3a2ad8776eb163b364",
+      "private_fixture_SHA256": "ace26759836477bb3a193b63578c277c296dcaa74a8a94428dd2bbc5f0b94944"
+    },
+    {
+      "sid": 2095,
+      "position": 1631,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "8a21036de9e58f7d5f337f2acc6e05a05b5be3eda032e85f847906c6d8edfa95",
+      "private_fixture_SHA256": "34dea6e5925671bee3b0616cc54ad2078d6e47af0c184eb3cab7132441deb59d"
+    },
+    {
+      "sid": 2095,
+      "position": 1631,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "9579dac55095e1ab2d8fddc15d94be98b26e7a2a0c602de86f25bffe7de4857f",
+      "private_fixture_SHA256": "34dea6e5925671bee3b0616cc54ad2078d6e47af0c184eb3cab7132441deb59d"
+    },
+    {
+      "sid": 2097,
+      "position": 1633,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "8e313176aedbf9f51a49a15f64179c4263f97bd0051ae566acd5706383fb3ccd",
+      "private_fixture_SHA256": "92af83ba391879af040cb63c2160cf85c4d79b7a77059ae5c006c54c78612f4a"
+    },
+    {
+      "sid": 2097,
+      "position": 1633,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "6416deaff6f79bd6b191f50202fbf4e91bc909db60d8aabe5cecdd50495640d3",
+      "private_fixture_SHA256": "92af83ba391879af040cb63c2160cf85c4d79b7a77059ae5c006c54c78612f4a"
+    },
+    {
+      "sid": 2098,
+      "position": 1634,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "c79ad67d354f5ad2988d1e0aea14ea5f243d6fdcc9430a6d307367a012d636ea",
+      "private_fixture_SHA256": "5d0b2cbc278052e5020a80dac265df1b51072fb89c55be43d3d54cb923dc96aa"
+    },
+    {
+      "sid": 2098,
+      "position": 1634,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "76afbcf3099daae290c1e2c1c3b4aab90850a5da4a2ce5b65e10668e69606327",
+      "private_fixture_SHA256": "5d0b2cbc278052e5020a80dac265df1b51072fb89c55be43d3d54cb923dc96aa"
+    },
+    {
+      "sid": 2100,
+      "position": 1636,
+      "view": "inventory",
+      "first_line_glyphs": 9,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "ba527af54ad92d782d3f4e48f697c01c8c977bf076b7a4e0deeebb51ef852485",
+      "private_fixture_SHA256": "33d33f0fc521d9a0943444f273444d9456b969652fe51059f08650ec59db7822"
+    },
+    {
+      "sid": 2100,
+      "position": 1636,
+      "view": "equipment",
+      "first_line_glyphs": 9,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "4d5b19f6075c61f3ef003385f200719ffa280cf34641761ddd59f287eaced65a",
+      "private_fixture_SHA256": "33d33f0fc521d9a0943444f273444d9456b969652fe51059f08650ec59db7822"
+    },
+    {
+      "sid": 2105,
+      "position": 1641,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "2c4921132a83e9e370205c846a85fd8a359d9e7c8fe866b95716a32a15f40f05",
+      "private_fixture_SHA256": "9defae346b588fe3d615e3ccb1118579706ce335e122dfdfc1af75b3cc81d9e5"
+    },
+    {
+      "sid": 2105,
+      "position": 1641,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "929e0e4aca3323e774b2ed0538271760ad45a933944dd937e70a869c29db61ca",
+      "private_fixture_SHA256": "9defae346b588fe3d615e3ccb1118579706ce335e122dfdfc1af75b3cc81d9e5"
+    },
+    {
+      "sid": 2110,
+      "position": 1646,
+      "view": "inventory",
+      "first_line_glyphs": 9,
+      "second_line_glyphs": 6,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "900badf0867dc8980fd199313a506381fa3e94f3f0d57200e97d12d9fbcf3608",
+      "private_fixture_SHA256": "d65f6f6c5c1cdd581562da7577ca91d0754edf8a54fdfd100392004fa8ee1699"
+    },
+    {
+      "sid": 2110,
+      "position": 1646,
+      "view": "equipment",
+      "first_line_glyphs": 9,
+      "second_line_glyphs": 6,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "5b067fc5c1b1c93527b170dac4472a589be2e2674dde28c27cc82ceb954e21bd",
+      "private_fixture_SHA256": "d65f6f6c5c1cdd581562da7577ca91d0754edf8a54fdfd100392004fa8ee1699"
+    },
+    {
+      "sid": 2118,
+      "position": 1654,
+      "view": "inventory",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "e16cd307ac56e054c6d081bfbbdad9f248010fe7b1d2d95b13280f6a9142f071",
+      "private_fixture_SHA256": "0b9add24d6b95bfce7b4522ba321212fb18fcb6ad0f4c55609100811e61ecaee"
+    },
+    {
+      "sid": 2118,
+      "position": 1654,
+      "view": "equipment",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "dd052e05cb962f08b33edbeaf03241656e27e50b2415c1b2c1cac8c4288ad286",
+      "private_fixture_SHA256": "0b9add24d6b95bfce7b4522ba321212fb18fcb6ad0f4c55609100811e61ecaee"
+    },
+    {
+      "sid": 2120,
+      "position": 1656,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f46acd59c563ecabd31eadf3afeecf645348501eacc228543531fb36f59fa2af",
+      "private_fixture_SHA256": "544666043505ed291f5c9bae2c64f1bc95d91d498b385fe6e84893905a47e036"
+    },
+    {
+      "sid": 2120,
+      "position": 1656,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "a42d30f2171e6c64d8fe4f012e2c015476f028fadafe28e1543a86dfd25905b2",
+      "private_fixture_SHA256": "544666043505ed291f5c9bae2c64f1bc95d91d498b385fe6e84893905a47e036"
+    },
+    {
+      "sid": 2124,
+      "position": 1660,
+      "view": "inventory",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "ad5331cc6791ab60f76b9c2a2744be58b9d1ea69570fd40d8d29f6cb63fa3b35",
+      "private_fixture_SHA256": "f952ff2f470cf367167695d28d983f27a38037fc3313f2774c9b747d8e172f9f"
+    },
+    {
+      "sid": 2124,
+      "position": 1660,
+      "view": "equipment",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "8c8882ae4de2f844ea478682b6ef89263bb4da37de6f5bf5c06e17fbce589633",
+      "private_fixture_SHA256": "f952ff2f470cf367167695d28d983f27a38037fc3313f2774c9b747d8e172f9f"
+    },
+    {
+      "sid": 2125,
+      "position": 1661,
+      "view": "inventory",
+      "first_line_glyphs": 11,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "55dc6d7a8b0dd1caba74f6e70c2cba452a752a128360a978207d24f857ebdafb",
+      "private_fixture_SHA256": "b61ace9fad7012d3d1e088e482191d1fac8557efeda1015369c9a218c90dde46"
+    },
+    {
+      "sid": 2125,
+      "position": 1661,
+      "view": "equipment",
+      "first_line_glyphs": 11,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f75fd670f7b6f36867845bdb0ab05b094db997e2f562856466d8ebaa60f5d81a",
+      "private_fixture_SHA256": "b61ace9fad7012d3d1e088e482191d1fac8557efeda1015369c9a218c90dde46"
+    },
+    {
+      "sid": 2126,
+      "position": 1662,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "c953af495b990942550f64a8fff90e9382fc4f21e3d72c32366f23dd37b12cb1",
+      "private_fixture_SHA256": "b3f969106a49e2311115161bd0e5493c50c33d43282626f935d887a53b879874"
+    },
+    {
+      "sid": 2126,
+      "position": 1662,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "dfef9dc01ff6b7ebfbf9d960c9f4ce56bfd9cf7a300dd72c95bd7c2c45b1be80",
+      "private_fixture_SHA256": "b3f969106a49e2311115161bd0e5493c50c33d43282626f935d887a53b879874"
+    },
+    {
+      "sid": 2127,
+      "position": 1663,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "2362e3e6c39cdcc381024d0aae0ac0704384a188734e19f8a982fd496e1a7f09",
+      "private_fixture_SHA256": "5a5f4356693d2bbcf9a27868ef937fa374d47eebd02e500c347a16d30175420b"
+    },
+    {
+      "sid": 2127,
+      "position": 1663,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "65e4ea5df51e1ece54c5d720f081bf8333c19c7c2ceed5bb0ae6e2ab465aed52",
+      "private_fixture_SHA256": "5a5f4356693d2bbcf9a27868ef937fa374d47eebd02e500c347a16d30175420b"
+    },
+    {
+      "sid": 2134,
+      "position": 1670,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "2d9cd786fa526011c89d6408bd58942ae4edbbb3f26a21f7690c07272f14b2bb",
+      "private_fixture_SHA256": "934d0e52c0a5dd80da3d9a4b1a48111b8dc8442a815a8cc3c926a2549569588c"
+    },
+    {
+      "sid": 2134,
+      "position": 1670,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "a6491c61dc417a76502d525a0b30c45af11bcc62c024aa6d4ae49a2bf3b1830f",
+      "private_fixture_SHA256": "934d0e52c0a5dd80da3d9a4b1a48111b8dc8442a815a8cc3c926a2549569588c"
+    },
+    {
+      "sid": 2137,
+      "position": 1673,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "29bbd0fc70b73804bdb498e002a65e385fd21be4ec55f7c08734a67ef0c80842",
+      "private_fixture_SHA256": "95357fe3588664427d51601e41bb2f176297e4d673be152559693c176e246f16"
+    },
+    {
+      "sid": 2137,
+      "position": 1673,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "5f8035a0bcdfd7a3455bbeae4e868559928bd441c0e010a73fa3e5944e79ceb0",
+      "private_fixture_SHA256": "95357fe3588664427d51601e41bb2f176297e4d673be152559693c176e246f16"
+    },
+    {
+      "sid": 2147,
+      "position": 1683,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "3ddfb09fb40fce96f1f3d69c9920bc9f90c4c65fb0d0f1014cb29bce26d71539",
+      "private_fixture_SHA256": "9dbde6fe9af999470cb1e29b1dd7b53b137d329e142eb71543c37dd4fdad33e1"
+    },
+    {
+      "sid": 2147,
+      "position": 1683,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "2674f403bf1b40f23b5b7ac06b94698a0a5fdc5fb6786ff46437aaac0b3a3580",
+      "private_fixture_SHA256": "9dbde6fe9af999470cb1e29b1dd7b53b137d329e142eb71543c37dd4fdad33e1"
+    },
+    {
+      "sid": 2148,
+      "position": 1684,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "328bbeb7aca7b51b8c0c694ae7900b9971580b76785a0c627a7795c12f2542b8",
+      "private_fixture_SHA256": "ccea35c33bd2c3571d3fe5c453c5360d2b44607bafc0a727607f31051487670c"
+    },
+    {
+      "sid": 2148,
+      "position": 1684,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "1ea8d5c84fbc08e9e6520889e87073c76a86ef108ffad17e1abc2b4ca326cc9a",
+      "private_fixture_SHA256": "ccea35c33bd2c3571d3fe5c453c5360d2b44607bafc0a727607f31051487670c"
+    },
+    {
+      "sid": 2152,
+      "position": 1688,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 6,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "ec27bec3662f29f048be399b996807212719c2ad022ad3cba2dcddef07145c2c",
+      "private_fixture_SHA256": "a870455e7dd082384b9d6ef7e57087d70a81d18a7d02abfff3ebad0c33ea152d"
+    },
+    {
+      "sid": 2152,
+      "position": 1688,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 6,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "2aae9d864c519728eaa9c2621f67cda79ee63506d5a43316244db37d9d039d71",
+      "private_fixture_SHA256": "a870455e7dd082384b9d6ef7e57087d70a81d18a7d02abfff3ebad0c33ea152d"
+    },
+    {
+      "sid": 2156,
+      "position": 1692,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 6,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "457b7cf64b94709fd9add15a0f8ca09f3917c8f76ecd08dd6e43a1f708efd6b7",
+      "private_fixture_SHA256": "7ac7665232de4ffb1050e8b1dc23a6bd73313fb4ec035f4576d03a43e8a7d9a3"
+    },
+    {
+      "sid": 2156,
+      "position": 1692,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 6,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "c7b2674d3e1ba008aca96e3b77648fb354ca288191ee515c05b15fbd879cf13b",
+      "private_fixture_SHA256": "7ac7665232de4ffb1050e8b1dc23a6bd73313fb4ec035f4576d03a43e8a7d9a3"
+    },
+    {
+      "sid": 2159,
+      "position": 1695,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "e8ff942fa9edd27194543870ada33c37e2842719f8eee79dae73377dc33fd81c",
+      "private_fixture_SHA256": "48c23dc58c7085a9e71f154141901ee7231acf781d26c514742bc4dd0aa6fa6e"
+    },
+    {
+      "sid": 2159,
+      "position": 1695,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "b961953e9dc8ac4d66b3ad2122aca8197a4cc76fd018b3436173ba56867c5c84",
+      "private_fixture_SHA256": "48c23dc58c7085a9e71f154141901ee7231acf781d26c514742bc4dd0aa6fa6e"
+    },
+    {
+      "sid": 2163,
+      "position": 1699,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "51b02c12f3bbf34fea62fd73fd0acc50c9f4d4bdbc70310f1d163aefc807a8a0",
+      "private_fixture_SHA256": "a2667f9cb435f0d20802155e4d71bf8c7fa69f02fe0be491962cd17f33e13ee9"
+    },
+    {
+      "sid": 2163,
+      "position": 1699,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "4ed04eedf1ecd4d1576ca3b23d14e539852b2bf7efd898843ff4d92ebe3f9462",
+      "private_fixture_SHA256": "a2667f9cb435f0d20802155e4d71bf8c7fa69f02fe0be491962cd17f33e13ee9"
+    },
+    {
+      "sid": 2164,
+      "position": 1700,
+      "view": "inventory",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "c076d605a5bb207713bbce95925d130dec21e0e4cf4598552be30efee40fae56",
+      "private_fixture_SHA256": "d945fba139d0967a32e4fcc21b3c81770e8356d079fb0f6dada9d32c78fb3415"
+    },
+    {
+      "sid": 2164,
+      "position": 1700,
+      "view": "equipment",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "e00aa3ca05c0842b0ec96d1c5a8432fda7349d4ef3b16fabc989738153dfb2c8",
+      "private_fixture_SHA256": "d945fba139d0967a32e4fcc21b3c81770e8356d079fb0f6dada9d32c78fb3415"
+    },
+    {
+      "sid": 2165,
+      "position": 1701,
+      "view": "inventory",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "dc794a076b5880eabe4df3f869c555237e1d97882a6e4760557c94fed9c9c218",
+      "private_fixture_SHA256": "8ea39a9beb27b4c3b7be4111be3106204d1159ab312630c7ed66f926f013e80d"
+    },
+    {
+      "sid": 2165,
+      "position": 1701,
+      "view": "equipment",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "7ed1509b613eab6a99cd9d186657518872ecd2c235a756b45da6cda21fd263af",
+      "private_fixture_SHA256": "8ea39a9beb27b4c3b7be4111be3106204d1159ab312630c7ed66f926f013e80d"
+    },
+    {
+      "sid": 2166,
+      "position": 1702,
+      "view": "inventory",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "50152578e6a834d6f605992882cc6454445b5877c93252ed16e52ee5c3fae948",
+      "private_fixture_SHA256": "08abda3a524d6bd360fd9d763235936786261dd3a12ba796a53447c8e4b8e7e6"
+    },
+    {
+      "sid": 2166,
+      "position": 1702,
+      "view": "equipment",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "e4fb777af93969219666b5c364369a03cce6e13e6a20007f55bbeb21e12c4b79",
+      "private_fixture_SHA256": "08abda3a524d6bd360fd9d763235936786261dd3a12ba796a53447c8e4b8e7e6"
+    },
+    {
+      "sid": 2167,
+      "position": 1703,
+      "view": "inventory",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "8bc66f9ab51bb7b1390c66fe69036b258e0a89e63ad4fcb1686fe0616171652b",
+      "private_fixture_SHA256": "b6f720e760e17478e9f89a286051d3eda214bb9605fc40f9bd5b39d356db7546"
+    },
+    {
+      "sid": 2167,
+      "position": 1703,
+      "view": "equipment",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "55116aae816bf248cd1c8480c97a140727cf529ca4fea5b5656fd04ddfede341",
+      "private_fixture_SHA256": "b6f720e760e17478e9f89a286051d3eda214bb9605fc40f9bd5b39d356db7546"
+    },
+    {
+      "sid": 2168,
+      "position": 1704,
+      "view": "inventory",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "0f0ca436ebe12c4dfcde322f2d04b93c61cce48e1692d94968d3131e033aebf2",
+      "private_fixture_SHA256": "bb73d998060663227d7269d974ec405b70e85e9c6772b20db396c5c14ae21e36"
+    },
+    {
+      "sid": 2168,
+      "position": 1704,
+      "view": "equipment",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "68e10f2962b9a2132b822a434293723ce852bc2c421d07cb8c6425b501ca96a0",
+      "private_fixture_SHA256": "bb73d998060663227d7269d974ec405b70e85e9c6772b20db396c5c14ae21e36"
+    },
+    {
+      "sid": 2170,
+      "position": 1706,
+      "view": "inventory",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "00201513e02fa3effa0f4f04a7b9e0a8c566fad387beb49fbc341ed7f621cdb4",
+      "private_fixture_SHA256": "941d7ede8a35a0a3e8d8a7eafbe674d86a53b09330c4ac60903f890b39cf2542"
+    },
+    {
+      "sid": 2170,
+      "position": 1706,
+      "view": "equipment",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f90bef100293b414d91a7e5a8691b42249210a291cbe92372b76f47f614659a7",
+      "private_fixture_SHA256": "941d7ede8a35a0a3e8d8a7eafbe674d86a53b09330c4ac60903f890b39cf2542"
+    },
+    {
+      "sid": 2172,
+      "position": 1708,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "5b77eb3fa8d84f6f7a8d1425ed13803aed47f9e9c929d0c5e8151e91d76ed94f",
+      "private_fixture_SHA256": "1f1d3f38148defe3df7cf08fdfcda815471470c13686d8e7ff2d7a507094e049"
+    },
+    {
+      "sid": 2172,
+      "position": 1708,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "7c233a91140be5f483e8515d1877e503650345c8b511d7504cfc94497f47f276",
+      "private_fixture_SHA256": "1f1d3f38148defe3df7cf08fdfcda815471470c13686d8e7ff2d7a507094e049"
+    },
+    {
+      "sid": 2174,
+      "position": 1710,
+      "view": "inventory",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "cf270bf940f03cdf3f85445db1f3af6b4121d7eafea36f151e3e52ad96065695",
+      "private_fixture_SHA256": "1e8f3b15df8256a4e020d746433bfe68385a216266fa21509d785c47b6835c50"
+    },
+    {
+      "sid": 2174,
+      "position": 1710,
+      "view": "equipment",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "39bffcb6986173c746264e78b1cb3bea64ecfa879428eb232063e10b9a16756f",
+      "private_fixture_SHA256": "1e8f3b15df8256a4e020d746433bfe68385a216266fa21509d785c47b6835c50"
+    },
+    {
+      "sid": 2178,
+      "position": 1714,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "5ae4dc8bc8c9aab3f3c366696b197253a34e3b6ef4c87afa20f597f84db4facc",
+      "private_fixture_SHA256": "b87a777d6c52400e028c6a5d853720571e1f727e27a4fa5f9e65060af3fafb85"
+    },
+    {
+      "sid": 2178,
+      "position": 1714,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "5309d723271cf79d58ce5f8f142dc745c41add2174813a60a9065b2d14c9f33e",
+      "private_fixture_SHA256": "b87a777d6c52400e028c6a5d853720571e1f727e27a4fa5f9e65060af3fafb85"
+    },
+    {
+      "sid": 2180,
+      "position": 1716,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "6ee6550865f1f2cea2357d7f9e4c6a9d169a0ca4d13944c675cace2f9b83202e",
+      "private_fixture_SHA256": "0b2d646c4d4625a681cec0c3e968165c0d732d2085d4647cc37efe5709f6c5bb"
+    },
+    {
+      "sid": 2180,
+      "position": 1716,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "16e9f2611b1252af4f1fa75971ce460fa1ec72382601b1056b932f2c0e4cb141",
+      "private_fixture_SHA256": "0b2d646c4d4625a681cec0c3e968165c0d732d2085d4647cc37efe5709f6c5bb"
+    },
+    {
+      "sid": 2182,
+      "position": 1718,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "5d2dfb2f2e668f69279920ccbd192b266976967533833a92ec82713f9744e4ee",
+      "private_fixture_SHA256": "bfd9a66c9c271e4457ddf6ec5ba6847e53ed1d467d784a3d4fe07a513d862e0a"
+    },
+    {
+      "sid": 2182,
+      "position": 1718,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "3bd69664dba2ace3af1dffecf4359ff538f6494b6c82d32348b7c1f5fa2b9654",
+      "private_fixture_SHA256": "bfd9a66c9c271e4457ddf6ec5ba6847e53ed1d467d784a3d4fe07a513d862e0a"
+    },
+    {
+      "sid": 2185,
+      "position": 1721,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f78ac766480009c66d6fdf4f5e902d4becaf9668763842eacef3928b98bbc5bf",
+      "private_fixture_SHA256": "8c96b9055be0658d004b824a08f325d0b03d9ec718cf52aef268f8a876052e9b"
+    },
+    {
+      "sid": 2185,
+      "position": 1721,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "7c6bb60457024986619cc0ebcd1c3ac00c6f2b63424d1fd9635160731922904a",
+      "private_fixture_SHA256": "8c96b9055be0658d004b824a08f325d0b03d9ec718cf52aef268f8a876052e9b"
+    },
+    {
+      "sid": 2187,
+      "position": 1723,
+      "view": "inventory",
+      "first_line_glyphs": 11,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "cb27b2ee12c048a8c68a9d61ff367bf1de5fdb2246f6e370a834df9ea769ff55",
+      "private_fixture_SHA256": "9171ccd1537b5d90288bb0041474a37b9730c232b946f8461e4e3f63fccc0eeb"
+    },
+    {
+      "sid": 2187,
+      "position": 1723,
+      "view": "equipment",
+      "first_line_glyphs": 11,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "9490fdfd7597c79189bb3ecf87d595e164ef5c6ccae14008b6241bb0367679d2",
+      "private_fixture_SHA256": "9171ccd1537b5d90288bb0041474a37b9730c232b946f8461e4e3f63fccc0eeb"
+    },
+    {
+      "sid": 2188,
+      "position": 1724,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "fa0e0ab12d6692b5ece46de374d89788dd1fd8908d99bf19bd40aa36ed976fa3",
+      "private_fixture_SHA256": "4baa3ef2696d1146f427f033197770455a9f10a7f6395bb80547c57983231cb2"
+    },
+    {
+      "sid": 2188,
+      "position": 1724,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "81848010e16aa2f414a74b4c96f757f3a5ad01c5213096e88f66029c061cb0bc",
+      "private_fixture_SHA256": "4baa3ef2696d1146f427f033197770455a9f10a7f6395bb80547c57983231cb2"
+    },
+    {
+      "sid": 2193,
+      "position": 1729,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "02f1268c048946543bd1ebd494e40a4768442cf9d18d27fd4b8a4956cde847dc",
+      "private_fixture_SHA256": "3ba79afaa02f676a8ef6ff9751774285629a226274f5a6d71866b61a0fe91492"
+    },
+    {
+      "sid": 2193,
+      "position": 1729,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "49b0aadaef297655c3fd8c7901a97eb562d756c8f9b34b8c0f60bbae4019fede",
+      "private_fixture_SHA256": "3ba79afaa02f676a8ef6ff9751774285629a226274f5a6d71866b61a0fe91492"
+    },
+    {
+      "sid": 2196,
+      "position": 1732,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "e400fe08de8c4bb222b8f471355edefa34f7f2a53ff47018e0fc2866e12d246d",
+      "private_fixture_SHA256": "c2313fd3eaacbda737ddbed0123dd9279a92902ef5c0bd0ed1e5084c45579fd7"
+    },
+    {
+      "sid": 2196,
+      "position": 1732,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "69f33ea94e491b1831a412c124898563609f6cde3e16be26cabd4580a323eb40",
+      "private_fixture_SHA256": "c2313fd3eaacbda737ddbed0123dd9279a92902ef5c0bd0ed1e5084c45579fd7"
+    },
+    {
+      "sid": 2197,
+      "position": 1733,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "282535de105cf2f2beffa37cc38fe81970725047080f9d11ea050154f4349b81",
+      "private_fixture_SHA256": "f28cbb89a7013ad747e472900b9e962c8b4947469cb100ddb89b29b55f0e804b"
+    },
+    {
+      "sid": 2197,
+      "position": 1733,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f2745433bc69f6ee082fc90e7d8203f4c52959a2d3241d439ecba408ff07891e",
+      "private_fixture_SHA256": "f28cbb89a7013ad747e472900b9e962c8b4947469cb100ddb89b29b55f0e804b"
+    },
+    {
+      "sid": 2201,
+      "position": 1737,
+      "view": "inventory",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "e18c53017870ca83888f63fbd746a4fa32a822993c1293e1c0889d5cdce10938",
+      "private_fixture_SHA256": "8d3c1b31874366e611354c75d1b7fd8a2286e34443cf19dd682dce273fc6146d"
+    },
+    {
+      "sid": 2201,
+      "position": 1737,
+      "view": "equipment",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "c31431c817c137cdab6b8032371d582c76141367f550b6e58a5d570d6fa61e21",
+      "private_fixture_SHA256": "8d3c1b31874366e611354c75d1b7fd8a2286e34443cf19dd682dce273fc6146d"
+    },
+    {
+      "sid": 2208,
+      "position": 1744,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "3e7626f9d8fb36479e7fd6555ec2d2e0fffe8c283fb32766e3c8163280928d8e",
+      "private_fixture_SHA256": "c09c42a45977004ca8a0d536ab13ab1da40cc9cf4304b683326b8bbe5d3dff9f"
+    },
+    {
+      "sid": 2208,
+      "position": 1744,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "76183c7f9223260685e24e101d2aff164d5ac964d6da83ec857f002edddda61f",
+      "private_fixture_SHA256": "c09c42a45977004ca8a0d536ab13ab1da40cc9cf4304b683326b8bbe5d3dff9f"
+    },
+    {
+      "sid": 2210,
+      "position": 1746,
+      "view": "inventory",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "e81dfd83f126e51155ed2c1e01e06b05c9d5e0168b5257a23b04829adaf0d7b4",
+      "private_fixture_SHA256": "e0de6ee9ff15ae33a6533ab35ebed07feba0b6c0ad766a6673c4aa971e3ceb0f"
+    },
+    {
+      "sid": 2210,
+      "position": 1746,
+      "view": "equipment",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "c945083ab331e743c6b9894e6a76f27a0095e6b5e74c98b3e9fac823c1e1b7dd",
+      "private_fixture_SHA256": "e0de6ee9ff15ae33a6533ab35ebed07feba0b6c0ad766a6673c4aa971e3ceb0f"
+    },
+    {
+      "sid": 2211,
+      "position": 1747,
+      "view": "inventory",
+      "first_line_glyphs": 9,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "93226d75900cd90463ad3173d07a5c1d05331b147d5240eb3ba6b9346f2866fb",
+      "private_fixture_SHA256": "96b3feed972863f98ed34456a5268b0e85feead237a4d52cf324a143e9f2a664"
+    },
+    {
+      "sid": 2211,
+      "position": 1747,
+      "view": "equipment",
+      "first_line_glyphs": 9,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "3b285b0619ac096e0d9069309429ac9f84a928e8a5f1444720796abb68c1e7f6",
+      "private_fixture_SHA256": "96b3feed972863f98ed34456a5268b0e85feead237a4d52cf324a143e9f2a664"
+    },
+    {
+      "sid": 2213,
+      "position": 1749,
+      "view": "inventory",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "d649f3d0598da8432374fe7e579f9ec871fd5ce45de57d4046180f3d1822b18e",
+      "private_fixture_SHA256": "c0d4467557991311e938eba1c957c3b3b9727abe57a69828fa5eaa0cdbd093bc"
+    },
+    {
+      "sid": 2213,
+      "position": 1749,
+      "view": "equipment",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "bd413a036e64a7e7ec9ea024983ccd5efde9af3a5edc1167557039d13b4801f9",
+      "private_fixture_SHA256": "c0d4467557991311e938eba1c957c3b3b9727abe57a69828fa5eaa0cdbd093bc"
+    },
+    {
+      "sid": 2214,
+      "position": 1750,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 5,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "fb95b425d2029b14e4ef84c6942c30f0a995d06f45e1dac920068f790be87138",
+      "private_fixture_SHA256": "c920a285a4e69c0295d0c864973305316dbe8ed238c55f78be2d7dd52444a1a2"
+    },
+    {
+      "sid": 2214,
+      "position": 1750,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 5,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "e27f64556c722c9f705c2dc5546e51be426471a0348c805649de739bba173f87",
+      "private_fixture_SHA256": "c920a285a4e69c0295d0c864973305316dbe8ed238c55f78be2d7dd52444a1a2"
+    },
+    {
+      "sid": 2218,
+      "position": 1754,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f217fa9c5cf832024e750eef6a404aaa31b65cff811316aca48ebecd75489b92",
+      "private_fixture_SHA256": "b273f48050c1181377f83259806a22e6aa9af875c3d75c4919fa81f4375f8dbd"
+    },
+    {
+      "sid": 2218,
+      "position": 1754,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "4bb2c3b9db78e3e5664fc0ad02623f9f66ac5c83c9e76832c1a01663702e3434",
+      "private_fixture_SHA256": "b273f48050c1181377f83259806a22e6aa9af875c3d75c4919fa81f4375f8dbd"
+    },
+    {
+      "sid": 2219,
+      "position": 1755,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "3f17eca408c0abd54b9ac2056dcdc2a99b88df82fc15d242b4d5fe3528a6d799",
+      "private_fixture_SHA256": "04175b5f7809375d56eb1ffb3e4147c30ff53b2507e1f685dbb0dccb01ef70ea"
+    },
+    {
+      "sid": 2219,
+      "position": 1755,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "b249a9be9ae9653713b12acbabf0288c6cf548ef2d0a9dbd72fd423be8de5b18",
+      "private_fixture_SHA256": "04175b5f7809375d56eb1ffb3e4147c30ff53b2507e1f685dbb0dccb01ef70ea"
+    },
+    {
+      "sid": 2221,
+      "position": 1757,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "0015ab8f25f4d335ebcb0cacc06f15ed18ad79294bf276e771f450fbdb807cc6",
+      "private_fixture_SHA256": "8bf5478e4ebccb2ab8d6486c57eaf90a5322427ebd532788eab9b17e601993e3"
+    },
+    {
+      "sid": 2221,
+      "position": 1757,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "2b4570f4a1c8b61809c07d9fdca858af031456d64fb0b431553eda626d6eaf75",
+      "private_fixture_SHA256": "8bf5478e4ebccb2ab8d6486c57eaf90a5322427ebd532788eab9b17e601993e3"
+    },
+    {
+      "sid": 2223,
+      "position": 1759,
+      "view": "inventory",
+      "first_line_glyphs": 11,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "3c7b76395c9ee866b7b447a8a66341d2b9051d3a6d95fab7d355614e20c6d0a0",
+      "private_fixture_SHA256": "e7e9a4f94625d390ce219d782ac386fa25b9565c00490abcab849890e1ba159c"
+    },
+    {
+      "sid": 2223,
+      "position": 1759,
+      "view": "equipment",
+      "first_line_glyphs": 11,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "07c20203069ada463e68293b9c6d05cce6b89518c87a995fc7aef9339a47fddb",
+      "private_fixture_SHA256": "e7e9a4f94625d390ce219d782ac386fa25b9565c00490abcab849890e1ba159c"
+    },
+    {
+      "sid": 2224,
+      "position": 1760,
+      "view": "inventory",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "e8053674d12816f41db44210f078ccffc4304c3d5c1af95dc3f595751d76220f",
+      "private_fixture_SHA256": "3a4927c565d01b85ad258349728955627a686d4d293df3a7eff244a59ac492da"
+    },
+    {
+      "sid": 2224,
+      "position": 1760,
+      "view": "equipment",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "ea5043613d55ddaa5e7dfd1baa56c63463bf523e538aeb0637ebdb737a905894",
+      "private_fixture_SHA256": "3a4927c565d01b85ad258349728955627a686d4d293df3a7eff244a59ac492da"
+    },
+    {
+      "sid": 2226,
+      "position": 1762,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 4,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "31f8c76d41dc1f4d40edb5957a505a96873650ac050a79103f6301f8f26e5a10",
+      "private_fixture_SHA256": "482894e7bf2b2505f389309c7091663ed0b617ec628526da394531663bc63fa7"
+    },
+    {
+      "sid": 2226,
+      "position": 1762,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 4,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "757d3d6329cecfac1ae756d21ac3a9133653e5873de6f449f50dfb59adc7045c",
+      "private_fixture_SHA256": "482894e7bf2b2505f389309c7091663ed0b617ec628526da394531663bc63fa7"
+    },
+    {
+      "sid": 2231,
+      "position": 1767,
+      "view": "inventory",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "4d3959edf3d5eb4082dfe8379515e7b5c6f9e02d7875df3c531431d38660108e",
+      "private_fixture_SHA256": "05fa1c568255a94a2ef6492e7fe76d8f592fc731961d1d5616f5959172cd38ca"
+    },
+    {
+      "sid": 2231,
+      "position": 1767,
+      "view": "equipment",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "1c8da24d2a7c29a558ff567127d225c38f844e1be02569d99e4aa9fefb7ae601",
+      "private_fixture_SHA256": "05fa1c568255a94a2ef6492e7fe76d8f592fc731961d1d5616f5959172cd38ca"
+    },
+    {
+      "sid": 2232,
+      "position": 1768,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "2aafede70f11b64e34103183d9c58cd4dbcdf1b813642acd1723bc07ed3a4fe5",
+      "private_fixture_SHA256": "178e7b94289cd88e96b9a4066b29a3dd94c620b80cdb34b9f0a377f6da43dc41"
+    },
+    {
+      "sid": 2232,
+      "position": 1768,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "1a8362d93f961b526f2d4d35725ffdd8a3b8b1508f83ffca0a83e7d1858df7e4",
+      "private_fixture_SHA256": "178e7b94289cd88e96b9a4066b29a3dd94c620b80cdb34b9f0a377f6da43dc41"
+    },
+    {
+      "sid": 2233,
+      "position": 1769,
+      "view": "inventory",
+      "first_line_glyphs": 11,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "d41d87b32e8e495aa8021e6bf79d02c969dfcf8d412e2be3b0e7dfb7dc12be61",
+      "private_fixture_SHA256": "32b0de24376475863675a4f558848e37ec89b4d12d96a9f92ea1ead4cfd93122"
+    },
+    {
+      "sid": 2233,
+      "position": 1769,
+      "view": "equipment",
+      "first_line_glyphs": 11,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "c291de5af0a2442242ac9f72ef9562ca0c8132aab2f4fd82e0273752324f1e8d",
+      "private_fixture_SHA256": "32b0de24376475863675a4f558848e37ec89b4d12d96a9f92ea1ead4cfd93122"
+    },
+    {
+      "sid": 2235,
+      "position": 1771,
+      "view": "inventory",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "6c40288cf27f12ac971535e443219dc69e604b1dcd3afc3dadc0a9d58a964ee4",
+      "private_fixture_SHA256": "67db8243c4a0bb9f1cdd634911346fdd286772f46508f14fd7bce37cd45a139a"
+    },
+    {
+      "sid": 2235,
+      "position": 1771,
+      "view": "equipment",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "3db081324afeb77b69950e1f3e5eab2f5f53a6c96f5939673f3995400f33bb53",
+      "private_fixture_SHA256": "67db8243c4a0bb9f1cdd634911346fdd286772f46508f14fd7bce37cd45a139a"
+    },
+    {
+      "sid": 2236,
+      "position": 1772,
+      "view": "inventory",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "20bef5d3df94672947027eff1b718768ddde9f4920b9e735916330cb38599444",
+      "private_fixture_SHA256": "73db2064ffebdd5fc1a5fabebc37008909e3790f0c6d697c6e0610f26063a748"
+    },
+    {
+      "sid": 2236,
+      "position": 1772,
+      "view": "equipment",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "bc1540fd5ab084493c5a560aa93ced9cdf082d86ff0ed3cf4ee52790bebf2557",
+      "private_fixture_SHA256": "73db2064ffebdd5fc1a5fabebc37008909e3790f0c6d697c6e0610f26063a748"
+    },
+    {
+      "sid": 2238,
+      "position": 1774,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 6,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "c2a8f02cdcc133cea2bc68eb74f88e3a79bb394376f8f2ed0b0bf61ab898e1de",
+      "private_fixture_SHA256": "6161e33dc8a295643450b76507d1836e85b8a805f94a3494fac49ea5f9447c19"
+    },
+    {
+      "sid": 2238,
+      "position": 1774,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 6,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "3d0bd32267438019e4c846fc4730e9b1545dca100dac2262036d1017d4b537c4",
+      "private_fixture_SHA256": "6161e33dc8a295643450b76507d1836e85b8a805f94a3494fac49ea5f9447c19"
+    },
+    {
+      "sid": 2240,
+      "position": 1776,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "b3fe863d5c1cfc9052cf54c2da9cc5e98b67e3c0993ed746a5f2ca0c8e793823",
+      "private_fixture_SHA256": "16bd9e37a9c0340104a0c471cf331c840cbee0f3a4ae2e1894bb8d37b657fb5a"
+    },
+    {
+      "sid": 2240,
+      "position": 1776,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "26523fa720b1352de87a15abe106ec7e67d88f851e73a5ddb75c38b80156129f",
+      "private_fixture_SHA256": "16bd9e37a9c0340104a0c471cf331c840cbee0f3a4ae2e1894bb8d37b657fb5a"
+    },
+    {
+      "sid": 2242,
+      "position": 1778,
+      "view": "inventory",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "302354f2f23f1235221228f49a264e189d37c4d937fd2a2145d2f334bfc42e44",
+      "private_fixture_SHA256": "3dcc87a7b919fed7f67221bde868a9da1e556a0f8367d1b3bd3ee16c49f54a90"
+    },
+    {
+      "sid": 2242,
+      "position": 1778,
+      "view": "equipment",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "ed1061b0f6f43d36afee98b620c2f33a699a9ff7d66ddaadbd46d85d86de3dce",
+      "private_fixture_SHA256": "3dcc87a7b919fed7f67221bde868a9da1e556a0f8367d1b3bd3ee16c49f54a90"
+    },
+    {
+      "sid": 2243,
+      "position": 1779,
+      "view": "inventory",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "23941669cc181047a2ffe2f06583485b3f33aaf013a3d06f315c5d136c01ca3c",
+      "private_fixture_SHA256": "c0a8e53f03d37637baefe50cc5d5c28fae8d470754750457d1dfe53c86522f54"
+    },
+    {
+      "sid": 2243,
+      "position": 1779,
+      "view": "equipment",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "fdefdb1dd64afd4ac77c53d1365fa19e23fb9dec3c3a84d604cdcb0c0be59f2d",
+      "private_fixture_SHA256": "c0a8e53f03d37637baefe50cc5d5c28fae8d470754750457d1dfe53c86522f54"
+    },
+    {
+      "sid": 2244,
+      "position": 1780,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "e85ef30b6580aa0f80b4fce3f7daed7311bc2a7173ee17df92afaca09e7497eb",
+      "private_fixture_SHA256": "ab2de2c44714f7fe1436486176a31453e6c6f2743ea6bfc9e0c2978851be3fbf"
+    },
+    {
+      "sid": 2244,
+      "position": 1780,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "fa5d8498d8980e126b3c9e27d8f3c7abde58139864e1ef88f5cee6291b88dea5",
+      "private_fixture_SHA256": "ab2de2c44714f7fe1436486176a31453e6c6f2743ea6bfc9e0c2978851be3fbf"
+    },
+    {
+      "sid": 2245,
+      "position": 1781,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "710f6e5c18e0331c68d0c214dea8df70e819964ce16a6df9684afb6e47de4923",
+      "private_fixture_SHA256": "c4a2b6b5927b79434d3461fabb7059294439612068b564317d4b72be414b4271"
+    },
+    {
+      "sid": 2245,
+      "position": 1781,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 7,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "85f1e494d5a984fd9a56f23fb3c9c5d694f110129a6b9f6d7ef7771c8c08bdd3",
+      "private_fixture_SHA256": "c4a2b6b5927b79434d3461fabb7059294439612068b564317d4b72be414b4271"
+    },
+    {
+      "sid": 2247,
+      "position": 1783,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f8f7dffce1d2e9ca106d0c4aaa46dce6c471a6e4c6bb0da47ceea7d0caafb4a8",
+      "private_fixture_SHA256": "4618197a608ec14eed589090a077447e42b18a9ce911831610f8a862028473c1"
+    },
+    {
+      "sid": 2247,
+      "position": 1783,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "bc453e5fb502da63e3f380cd62a5b1620221ced34fcdd12088153de042d129b2",
+      "private_fixture_SHA256": "4618197a608ec14eed589090a077447e42b18a9ce911831610f8a862028473c1"
+    },
+    {
+      "sid": 2249,
+      "position": 1785,
+      "view": "inventory",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "5f93b0e3934421ed5022c2f952dcf4b6b6ca970dd9eba05e87c7eba949b55cc7",
+      "private_fixture_SHA256": "fea01c83b3c49e60767868593a241e8c10ce9fe3a3543a89b93bb134c4797e9c"
+    },
+    {
+      "sid": 2249,
+      "position": 1785,
+      "view": "equipment",
+      "first_line_glyphs": 6,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "495e54a676b7ded756071015587c122ad691fbb67b87a10981400f90b74b0732",
+      "private_fixture_SHA256": "fea01c83b3c49e60767868593a241e8c10ce9fe3a3543a89b93bb134c4797e9c"
+    },
+    {
+      "sid": 2256,
+      "position": 1792,
+      "view": "inventory",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "278e85fd4639a0603bf577ce0c1bc2c6ee072ab5cc48904a0651483c8351b921",
+      "private_fixture_SHA256": "deb8b0825798fb152dd33416c487055178f3514e5cd8dbf43ec27f037ade1a93"
+    },
+    {
+      "sid": 2256,
+      "position": 1792,
+      "view": "equipment",
+      "first_line_glyphs": 7,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "3b2196abbac095f1c5adf5701b6a239cbf36a30bc6271621d3a77f99892920e7",
+      "private_fixture_SHA256": "deb8b0825798fb152dd33416c487055178f3514e5cd8dbf43ec27f037ade1a93"
+    },
+    {
+      "sid": 2257,
+      "position": 1793,
+      "view": "inventory",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "cdd6cd3aee9cfc9baa941c8fc70704fa2d45e9a8d23aaabb843e6ed92ec6f8d7",
+      "private_fixture_SHA256": "fbe4ebd653848e3d64dd33424565da1da361564c61a5b4c4ae8689dba7ba7e48"
+    },
+    {
+      "sid": 2257,
+      "position": 1793,
+      "view": "equipment",
+      "first_line_glyphs": 8,
+      "second_line_glyphs": 10,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f83ba4d3015d56e28bcd524fbedaf39f175ac65f680ce14644592677681d4817",
+      "private_fixture_SHA256": "fbe4ebd653848e3d64dd33424565da1da361564c61a5b4c4ae8689dba7ba7e48"
+    },
+    {
+      "sid": 2272,
+      "position": 1808,
+      "view": "inventory",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "f274a181894243096c48b575094d3178956bdbd32ed0e25ed55f1687076c2c08",
+      "private_fixture_SHA256": "ec7267de3b821bab3972b535e5aa8b66ef4208fbc9eeb708f632ca835848a138"
+    },
+    {
+      "sid": 2272,
+      "position": 1808,
+      "view": "equipment",
+      "first_line_glyphs": 4,
+      "second_line_glyphs": 11,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "05f14e919812f4e5c338f13a4e105f74b2d603578d9d4ef64b19003a1329de07",
+      "private_fixture_SHA256": "ec7267de3b821bab3972b535e5aa8b66ef4208fbc9eeb708f632ca835848a138"
+    },
+    {
+      "sid": 2276,
+      "position": 1812,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "6fe284e35304f6d7fb97da2b0db28407bf912a4811aacf23377df5da8634aeb3",
+      "private_fixture_SHA256": "50fd8c8a1923ae71dee06c04d9e9f2319fcaf2074076381a83081897d44f3a6b"
+    },
+    {
+      "sid": 2276,
+      "position": 1812,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 8,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "2576f501ee0c83ff0d368e096ef59effbcca8e19ac3004258a8cc17dce84678e",
+      "private_fixture_SHA256": "50fd8c8a1923ae71dee06c04d9e9f2319fcaf2074076381a83081897d44f3a6b"
+    },
+    {
+      "sid": 2278,
+      "position": 1814,
+      "view": "inventory",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "086b8e01d127f13ccfc9025aaa81bb2322a8f790ce49b13e2cd1c8caf6747916",
+      "private_fixture_SHA256": "500c5a5d5d66f60fbb1b8f90da0dfafa52017024c1add0ab22d98feba6d07beb"
+    },
+    {
+      "sid": 2278,
+      "position": 1814,
+      "view": "equipment",
+      "first_line_glyphs": 5,
+      "second_line_glyphs": 9,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "26eed30d9ed4993fe12371a9a668ca7b86df8adf8cbe54aab699e0ba42358528",
+      "private_fixture_SHA256": "500c5a5d5d66f60fbb1b8f90da0dfafa52017024c1add0ab22d98feba6d07beb"
+    },
+    {
+      "sid": 2282,
+      "position": 1818,
+      "view": "inventory",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "a8c08ec628b292f55b315747654f060cbf9cfd358e4c7b0c7497aa23746b287e",
+      "private_fixture_SHA256": "cba11b20ed9bbbc83b2c30479a20e84a24de599fc6347dd3698a3ff0ec128457"
+    },
+    {
+      "sid": 2282,
+      "position": 1818,
+      "view": "equipment",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "36cbfd52c852a07a9a98aee67c2fd632fd9349066a7ec976cff729919d02d0a4",
+      "private_fixture_SHA256": "cba11b20ed9bbbc83b2c30479a20e84a24de599fc6347dd3698a3ff0ec128457"
+    },
+    {
+      "sid": 2283,
+      "position": 1819,
+      "view": "inventory",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "924b83fa1b80bc299cb11717971a603940d1724645b2d1c3874b4ec28577560d",
+      "private_fixture_SHA256": "d6045d57274414a7fd9b2fb2af13b5e217427927cbdcb12f4c49e1a56a37d491"
+    },
+    {
+      "sid": 2283,
+      "position": 1819,
+      "view": "equipment",
+      "first_line_glyphs": 12,
+      "second_line_glyphs": 0,
+      "full_text_tile_words_match": true,
+      "screenshot_sha256": "9c319c4fa5831d04fc9d4d151ed0ed41aca25696818112c04b488cfd6cf3ea1e",
+      "private_fixture_SHA256": "d6045d57274414a7fd9b2fb2af13b5e217427927cbdcb12f4c49e1a56a37d491"
+    }
+  ],
+  "production_engine_modified": false,
+  "main_window8_width_change": {
+    "offset": 359374,
+    "before": 16,
+    "after": 20,
+    "copies": 2
+  },
+  "limits": "Main menu opened through ordinary inputs from field state reached by prologue inputs. Each item name substituted for Cypress Stick in a private printer hook; actual inventory,equipment header and weapon selector rendered and tile words checked. Does not prove acquiring all items,other shops,item effects,all classes/genders or all natural paths."
+}

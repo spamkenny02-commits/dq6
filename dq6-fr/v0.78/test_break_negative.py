@@ -1,0 +1,5 @@
+"""Reject an intentionally wrong first-line length in a private fixture."""
+from common import *
+import subprocess,argparse
+p=argparse.ArgumentParser();p.add_argument('--jp',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--runner',type=Path,required=True);p.add_argument('--camp',type=Path,required=True);a=p.parse_args();args=[sys.executable,str(O/'emulator_consumers.py'),'--jp',str(a.jp.resolve()),'--out',str(a.out.resolve()),'--runner',str(a.runner.resolve()),'--camp',str(a.camp.resolve()),'--sids','[2068]','--mutate-break'];r=subprocess.run(args,capture_output=True,text=True,timeout=180);assert r.returncode!=0 and 'cursor' in r.stderr,r.stderr
+q=dict(release='v0.78',SID=2068,mutation='Break metadata+1 in private after fixture',expected_cursor_assertion_observed=True,production_ROM_unchanged=True,ROM_sha256=sha((a.out/'result.sfc').read_bytes()));(O/'qa-break-negative.json').write_text(json.dumps(q,indent=2)+'\n');print('Negative break rejected')

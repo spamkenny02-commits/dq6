@@ -1,0 +1,2438 @@
+[
+  {
+    "sid": 150,
+    "position": 150,
+    "french": "Parler",
+    "layout": "Parler ",
+    "previous": "Parle",
+    "sfc_jp": "はなす",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 99,
+        "JA_text": "@1はなす@",
+        "FR_text": "@4Parler@",
+        "JA_sha256": "148e50f7d8ab33bb55a5c1e090ca0086ee8420bc2d30a81f282f078ea2acff94",
+        "FR_sha256": "add19426474124f38096085e65b49d06e60962280c4fc7baafc050ec4338e1e6"
+      }
+    ],
+    "review": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué.",
+    "old_encoded_hex": "1fd0e2ac",
+    "encoded_hex": "1fd0e25301ac",
+    "old_sha256": "7213c3b585257ad5909e517246dcc803f9e3bbb89f59a85604fe712724bd1a56",
+    "new_sha256": "fdf17f6594954b213cdc6243f79072b44bf8bcd0a9b03c21010de78042f7f695",
+    "old_columns": 5,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 151,
+    "position": 151,
+    "french": "Magie",
+    "layout": "Magie",
+    "previous": "Sort",
+    "sfc_jp": "じゅもん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 100,
+        "JA_text": "@1じゅもん@",
+        "FR_text": "@4Magie@",
+        "JA_sha256": "c1eab2cf4bb0af5a4dd609c80b9a8b08afea8d00725c130a16cb60ae78f4af8a",
+        "FR_sha256": "80711da37faf47a9dc987e3bde7dfa065872c7e9c8ec2de57daadcb75a9de931"
+      }
+    ],
+    "review": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué.",
+    "old_encoded_hex": "22ec55ac",
+    "encoded_hex": "1c42484a46ac",
+    "old_sha256": "96c4069f44d31faa5a6fe84aea5627db8115a4b9459432ea3bc26a9be7bb6dcf",
+    "new_sha256": "229b3ed623bbf9c1b998d91ab5d6904bcc6828daef2927b226f9df786f777adc",
+    "old_columns": 4,
+    "new_columns": 5,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 152,
+    "position": 152,
+    "french": "Objets",
+    "layout": "Objets ",
+    "previous": "Objet",
+    "sfc_jp": "どうぐ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 101,
+        "JA_text": "@1どうぐ@",
+        "FR_text": "@4Objets@",
+        "JA_sha256": "815f0384be554b6465d85381d90e804c4319aef3db72757600fa68acc9230123",
+        "FR_sha256": "2c4cfc10d098ca04db6316d1914ed6cb9488bf79a1fd3898075379b5f4afe65c"
+      }
+    ],
+    "review": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué.",
+    "old_encoded_hex": "1e434b4655ac",
+    "encoded_hex": "1e434b4655f2ac",
+    "old_sha256": "cf42487461c6cd0d41ae46ee391bb99f562740617c0777a6fc6bfcf27e03bd09",
+    "new_sha256": "897562d94dbbedc0dd2a24b6482d0e2f1ffcecf8abefe383e8e57a5074bd70fb",
+    "old_columns": 5,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 153,
+    "position": 153,
+    "french": "Examiner",
+    "layout": "Examiner",
+    "previous": "Cherche",
+    "sfc_jp": "しらべる",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 102,
+        "JA_text": "@1しらべる@",
+        "FR_text": "@4Examiner@",
+        "JA_sha256": "14de3acceec58ba37bd917b0c124c8419c9fc8a353611464118521430d575bdd",
+        "FR_sha256": "6ed64953640112a6856116e8ae3ae925dde743fd5ed923c6062ce6b9e3fad2c3"
+      }
+    ],
+    "review": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué.",
+    "old_encoded_hex": "12dd53d446ac",
+    "encoded_hex": "1459cedfdaac",
+    "old_sha256": "d2e7d840841b2a1576da3eadd4e4e0595b46aab55c7ec93a17e1434d8b44e8b5",
+    "new_sha256": "c24dd82ef92170d218345a9c70e0a40d6e884a10f6cf5bf5c9d18d5d0ff42524",
+    "old_columns": 7,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 154,
+    "position": 154,
+    "french": "Caract.",
+    "layout": "Caract.",
+    "previous": "Infos",
+    "sfc_jp": "つよさ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 103,
+        "JA_text": "@1つよさ@",
+        "FR_text": "@4Caract.@",
+        "JA_sha256": "afef2ebffd565a5f96fe1c27e5ffd8841290d391e68cd1236d373c8430671dc9",
+        "FR_sha256": "f6ad3af5782bf70364a4fd9ed065d657edea48c079df47b07300bb355630cb13"
+      }
+    ],
+    "review": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué.",
+    "old_encoded_hex": "184f475054ac",
+    "encoded_hex": "12d0cd557fac",
+    "old_sha256": "b7e4ac1ab7a77fb5d789f22af1e1a49236868a38df88c24a91b5dcc6df8d3e87",
+    "new_sha256": "6498221b0b1a1c1781cbe382ae67a522d3390bb03896c34d1ed4cca15fe72b8c",
+    "old_columns": 5,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 155,
+    "position": 155,
+    "french": "Divers",
+    "layout": "Divers",
+    "previous": "Tactics",
+    "sfc_jp": "さくせん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 104,
+        "JA_text": "@1さくせん@",
+        "FR_text": "@4Divers@",
+        "JA_sha256": "6b76541663aaea42cc3ccff20009b463f807b25749d54fd5f14efc0a32c2387e",
+        "FR_sha256": "63b8cac3d67f5655ab062b3410fcd57e598c597a834be4dc159a515238542072"
+      }
+    ],
+    "review": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué.",
+    "old_encoded_hex": "23cd55de54ac",
+    "encoded_hex": "134a57da54ac",
+    "old_sha256": "9cdd962205db8ddc1536d6841809309e97df6bd752b93bce416e04b0ed7ce5e0",
+    "new_sha256": "e6e324c3f744373d9b99e77617b01f7cbdb9e4f5df0859acc2cd3f4e41312e5b",
+    "old_columns": 7,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 169,
+    "position": 169,
+    "french": "Équiper",
+    "layout": "Équiper",
+    "previous": "Equiper",
+    "sfc_jp": "そうび",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 350,
+        "JA_text": "@1そうび@",
+        "FR_text": "@4Équiper@",
+        "JA_sha256": "fa6b96b1b85a3fbd33ac98fba2098562fc824d40daad0fc1c33cc24e62456102",
+        "FR_sha256": "9647e4bf542d591f838122e2c998fdfcfc2b671ef2b5e01566c880c64d3985bc"
+      }
+    ],
+    "review": "Correction orthographique française isolée Equiper→Équiper. JPそうび, référence DS350 du bloc Divers349–356 et rubrique équipement observée dans le jeu. Largeur inchangée7glyphes ; aucun réglage de fenêtre requis.",
+    "old_encoded_hex": "1452564a51daac",
+    "encoded_hex": "4152564a51daac",
+    "old_sha256": "1e772dd0b4bec330facdca8d4c385b71277d78a4879cbf3ac92c450604025ebc",
+    "new_sha256": "598b43f8c7cd0ae871c2413462651096e39ce4f3bca4bbbaf09a1a451d779db7",
+    "old_columns": 7,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2068,
+    "position": 1604,
+    "french": "bâton de cyprès",
+    "layout": "bâton|de cyprès",
+    "previous": "Cypress|Stick",
+    "sfc_jp": "ひのきのぼう",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 1,
+        "JA_text": "@1ひのきのぼう@",
+        "FR_text": "@0M@2le @3un @4bâton de ;cyprès@5les @6des @7bâtons de cyprès@8Ｎ@9N@",
+        "JA_sha256": "e1d6affe14e29268aec290561a2b4da097b3fc316042a99e16732b2162b4bea0",
+        "FR_sha256": "f4c78df5cc93a3c17c7d1d3cf7b0c1cd809fd0319bb4152dc783865eefbf5186"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "125a51f05454972255de4cac",
+    "encoded_hex": "433555ea9545d6445a51533054ac",
+    "old_sha256": "7cb77ae3280c0bf83ca1500cc9e29b17192dfde2cb9d33c7180399cdd0597531",
+    "new_sha256": "627dead897aa279674749afd06059202750d2fb493859064cbfa4c50bdfa9c8e",
+    "old_columns": 13,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2074,
+    "position": 1610,
+    "french": "bâton de fer",
+    "layout": "bâton de fer",
+    "previous": "Iron Cane",
+    "sfc_jp": "てつのつえ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 7,
+        "JA_text": "@1てつのつえ@",
+        "FR_text": "@0M@2le @3un @4bâton de fer@5les @6des @7bâtons de fer@8N@9N@",
+        "JA_sha256": "28952806e68c86fe84d791f956874f30c5601a1f0ee7057e2a93f9211e41c33d",
+        "FR_sha256": "ebb05804ff898e4ef2fef48ad603b12ecab9c06f40246c9acd25bc771ad87b82"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "18f14f0112cf46ac",
+    "encoded_hex": "433555eacad647daac",
+    "old_sha256": "9eb63901c0311e25c4da8f1adea7ac93b242e92d88d3f7a8d6a277fbfb96463c",
+    "new_sha256": "20303c27ab5ddb0a92cf09e2213ee8465f09fa902970443d7e1a70b661e27776",
+    "old_columns": 9,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2077,
+    "position": 1613,
+    "french": "poignard empoisonné",
+    "layout": "poignard|empoisonné",
+    "previous": "Poisoned|Knife",
+    "sfc_jp": "どくがのナイフ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 10,
+        "JA_text": "@1どくがの;ナイフ@",
+        "FR_text": "@0M@2le @3un @4poignard ;empoisonné@5les @6des @7poignards empoisonnés@8N@9N@",
+        "JA_sha256": "a1b1a8376dc75331ea3820d83f0961feafda8f3fda89e6a1ef9ba60ea09e0699",
+        "FR_sha256": "dfd2db50cf0b62105762c69ee14956fb70e93e0fe65f9710dd652e915e6f3a9c"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1fe9f44fd8981a4f4a4746ac",
+    "encoded_hex": "51e9484fd04598464e51e9f44f4f2dac",
+    "old_sha256": "f4372892e2a19a7c7de1b06d05da70daafeeb2e6e099690af265d41456c6ab26",
+    "new_sha256": "2c899af637f45f32f477a78017722c56248fb6119e67c0d317cfbb5f68d28d06",
+    "old_columns": 14,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2079,
+    "position": 1615,
+    "french": "épée ardente",
+    "layout": "épée ardente",
+    "previous": "Holy Sword",
+    "sfc_jp": "はじゃのつるぎ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 12,
+        "JA_text": "@1はじゃの;つるぎ@",
+        "FR_text": "@0F@2l'@3une @4épée ardente@5les @6des @7épées ardentes@8N@9Y@",
+        "JA_sha256": "8a770e9a653232cb3ada828426d64d7368dae33a11b57cc0f3fb4c9579681b5c",
+        "FR_sha256": "4004ae1f01618007315ee885dc32b9c46c4aaaf1c12181a74bb978a40726b704"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "1750e4012258ec45ac",
+    "encoded_hex": "2d512dd6d04546e746ac",
+    "old_sha256": "76acaae2cc06eabdce948d2d4332ed4c5e8f16664393e07c539cac6df3ad0036",
+    "new_sha256": "e4cf6b144db055abd3433a61041f9c64a04106b4cadee772a210eee6b03f61ef",
+    "old_columns": 10,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2080,
+    "position": 1616,
+    "french": "fléau des dragons",
+    "layout": "fléau|des dragons",
+    "previous": "Dragon|Killer",
+    "sfc_jp": "ドラゴンキラー",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 13,
+        "JA_text": "@1ドラゴン;キラー@",
+        "FR_text": "@0M@2le @3un @4fléau des ;dragons@5les @6des @7fléaux des dragons@8N@9N@",
+        "JA_sha256": "ae9cf235aeb60ac3157ff3bae3526f00eac972bb35a64df5b4db5a0c5f6966c9",
+        "FR_sha256": "501e3eac24c7d2e64c7743a8d176e590bc7410e43a555a7789160e211b4435f0"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "13ef48ea961a4ae3daac",
+    "encoded_hex": "474d2d42569545dbcaef48ea54ac",
+    "old_sha256": "b6c7719d3e9eb2405d1cd82c885855d1ee8f3374056059cedd33554f987dc40e",
+    "new_sha256": "003373b219545bcabe60f56c068e92ff05d7ecb302a4a6f6f19357d95b7aaaf4",
+    "old_columns": 13,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2084,
+    "position": 1620,
+    "french": "épée miraculeuse",
+    "layout": "épée|miraculeuse",
+    "previous": "Sword of|Miracles",
+    "sfc_jp": "きせきのつるぎ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 17,
+        "JA_text": "@1きせきの;つるぎ@",
+        "FR_text": "@0F@2l'@3une @4épée ;miraculeuse@5les @6des @7épées miraculeuses@8N@9Y@",
+        "JA_sha256": "86a6837ffd218915d6cd69d1f80acca6848db8d43ed66c70a0faac2ec48b87aa",
+        "FR_sha256": "fba4c72396e48ecea72ca6e8a26e0f66372ccf4b8927c7cac529a84d356a6f36"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "2258ec4501e8981c4aef44e254ac",
+    "encoded_hex": "2d512d46944e4aef4456e2fa46ac",
+    "old_sha256": "a9ebc7e555b8880eb0e98c3ca70e873f754e2e3ece006c92aed5f8af51cb9cd6",
+    "new_sha256": "187f980c17555145e370d8b3fb2dcd40f19322e52cf9127a93b0bf02b6deb5a0",
+    "old_columns": 17,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2085,
+    "position": 1621,
+    "french": "Fléau des zombies",
+    "layout": "Fléau|des zombies",
+    "previous": "Zombie|Killer",
+    "sfc_jp": "ゾンビキラー",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 18,
+        "JA_text": "@1ゾンビキラー@",
+        "FR_text": "@0M@2le @3un @4Fléau des ;zombies@5les @6des @7Fléaux des zombies@8N@9N@",
+        "JA_sha256": "bf183a842626e1e6ef1b1dd014b3638e7a9227577049048e413b007778828174",
+        "FR_sha256": "cc77bfba1d3eb9731b835364d9ca833debf31b71f20a6716ee94267fedfebffa"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "29504e434a46961a4ae3daac",
+    "encoded_hex": "154d2d42569545db015b504e434adbac",
+    "old_sha256": "24f983a8d0d86466b366d292cb27cd7a5f3426a24dd6eeb4fd93ae4fddf1c0a2",
+    "new_sha256": "eeec87fb6425eddf9a3e82022eaf7d10dfcfb863347f06b366e3e4d56ef7ee19",
+    "old_columns": 13,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2086,
+    "position": 1622,
+    "french": "lame du Blizzard",
+    "layout": "lame|du Blizzard",
+    "previous": "Blizzard|Sword",
+    "sfc_jp": "ふぶきのつるぎ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 19,
+        "JA_text": "@1ふぶきの;つるぎ@",
+        "FR_text": "@0F@2la @3une @4lame du ;Blizzard@5les @6des @7lames du Blizzard@8N@9N@",
+        "JA_sha256": "cc5aa881dc69348de038e0567f53b235916038c66b25048aa23fa5758eacfc1e",
+        "FR_sha256": "7cc99682eecac0ffd297e70c6b17e38c78a06e549099b6ae16b058164cf819eb"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "114d4a5b5bd045982258ec45ac",
+    "encoded_hex": "4dce4694455601114d4a5b5bd045ac",
+    "old_sha256": "594734fb3578f79123e08ae896b884c321a3e988ffe27df52f78f57a0bb855b1",
+    "new_sha256": "453bb16cbbb9ece212b048b3e0a37470942ee267c5e6c8d389af64299314747e",
+    "old_columns": 14,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2087,
+    "position": 1623,
+    "french": "épée de platine",
+    "layout": "épée|de platine",
+    "previous": "Platinum|Sword",
+    "sfc_jp": "プラチナソード",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 20,
+        "JA_text": "@1プラチナ;ソード@",
+        "FR_text": "@0F@2l'@3une @4épée de ;platine@5les @6des @7épées de platine@8N@9Y@",
+        "JA_sha256": "74b5065f76287c7029d58dedea102a353a6d389fe52849002b80d353c2170061",
+        "FR_sha256": "865f70117af55a197ebae6a0b4cd73090743d6a47e68a5564ca7494bb6ec1af6"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1f4dd2df564e982258ec45ac",
+    "encoded_hex": "2d512d469445d6514dd2df46ac",
+    "old_sha256": "e7fb31f647b305a75e462b1d0b29a0370a4ff03fb43e3cf57c4b3caa36f7b51a",
+    "new_sha256": "f05dd0673f59955f524e5ded3a11067195bd41c9065e5aac27f9c15f2f31879c",
+    "old_columns": 14,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2088,
+    "position": 1624,
+    "french": "épée royale",
+    "layout": "épée|royale",
+    "previous": "Metal King|Sword",
+    "sfc_jp": "メタルキングのけん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 21,
+        "JA_text": "@1メタルキング;のけん@",
+        "FR_text": "@0F@2l'@3une @4épée royale@5les @6des @7épées royales@8N@9Y@",
+        "JA_sha256": "ebd78dc80490fb34cf634925e53447c166ca42159faba901262012711812a931",
+        "FR_sha256": "82bf595b48ccf132a35994a409734e19cebe3d6e51823c9117f041a8f04b460b"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1c4655424d011adf489a2258ec45ac",
+    "encoded_hex": "2d512d4694f15a42e2ac",
+    "old_sha256": "5495d2ce4f9fd8a9989cc433e2c760337604d583e645e79e5515800ed2704c3f",
+    "new_sha256": "6a4165b88aeb0ce07aca12c64579ec7f64f6efe3af329c216ada3cb0ca782164",
+    "old_columns": 16,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2089,
+    "position": 1625,
+    "french": "trident de Gracos",
+    "layout": "trident|de Gracos",
+    "previous": "Spear Of|Glacos",
+    "sfc_jp": "グラコスのヤリ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 22,
+        "JA_text": "@1グラコスの;ヤリ@",
+        "FR_text": "@0M@2le @3le @4trident de ;Gracos@5les @6les @7tridents de Gracos@8N@9N@",
+        "JA_sha256": "04b234dbf18748ece5934df4844d64dead5765f821aac897b407fe9b06eae6d5",
+        "FR_sha256": "bea5ebc819aad3d927e3b1e36fa738cbc180de47f52201c6fc82ecbf96c4ef51"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "2251d753011e4798164dcd5054ac",
+    "encoded_hex": "55534a4546e79745d616ef445054ac",
+    "old_sha256": "c980618dd24c2873bd89a17b19ab34e9665155e0e76f07a4f0ad41fdc9ef1e39",
+    "new_sha256": "64c659120c1eccc252f38d7f1e58fab29b99ec1f663dc3fd64c722fdce6e149f",
+    "old_columns": 15,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2095,
+    "position": 1631,
+    "french": "fouet de Gringham",
+    "layout": "fouet|de Gringham",
+    "previous": "Gringham|Whip",
+    "sfc_jp": "グリンガムのムチ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 28,
+        "JA_text": "@1グリンガムの;ムチ@",
+        "FR_text": "@0M@2le @3un @4fouet de ;Gringham@5les @6des @7fouets de Gringham@8N@9N@",
+        "JA_sha256": "e65af67b88b10aeb1daa7eef9c700a6eb25a12e1a7e18c18b84a181752f5392f",
+        "FR_sha256": "948aab6aceb2bc216378674d7d9c51e30745ed6c01c6e09eb8e687c82c0ce040"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1653dfdcce9826494a51ac",
+    "encoded_hex": "47ed46559545d61653dfdcceac",
+    "old_sha256": "0544cfa8e56a9200e1c4f23609f61a3bd0783e73c06af20083ce9b076fd77430",
+    "new_sha256": "a6fb58c37afcf2e7ff7c6c0229e9690b3d6c413ae6c39f972834ebf7852979c9",
+    "old_columns": 13,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2097,
+    "position": 1633,
+    "french": "éventail lunaire",
+    "layout": "éventail|lunaire",
+    "previous": "Moon Folding|Fan",
+    "sfc_jp": "つきのおうぎ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 30,
+        "JA_text": "@1つきのおうぎ@",
+        "FR_text": "@0M@2l'@3un @4éventail ;lunaire@5les @6des @7éventails lunaires@8N@9Y@",
+        "JA_sha256": "1bfed143d680bc86d0bd3446d7ccd93b3790ac58f409cad5d4b9840c5ce9c193",
+        "FR_sha256": "2d3023dea6d08d6008ef3b62a6881d62cf6631c6047a3ae98a0febaabfd6b693"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1ceb4f0115504d45df489c15cfac",
+    "encoded_hex": "2d5746e7424a4d984d564f424af0ac",
+    "old_sha256": "74cd7a220cf86a61308c5bfd2e9f5eb06e5d544d52eccff9b7f514ec80b48221",
+    "new_sha256": "e021b51e54c2abdc5289c8126324f0eed95ff584545b1351c6a9dce443ba76da",
+    "old_columns": 16,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2098,
+    "position": 1634,
+    "french": "éventail solaire",
+    "layout": "éventail|solaire",
+    "previous": "Sun Folding|Fan",
+    "sfc_jp": "たいようのおうぎ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 31,
+        "JA_text": "@1たいようの;おうぎ@",
+        "FR_text": "@0M@2l'@3un @4éventail ;solaire@5les @6des @7éventails solaires@8N@9Y@",
+        "JA_sha256": "a26fbe721b59e9b24b56da01b33d3b94b41d2f928b20220f4cf1194b66eb2933",
+        "FR_sha256": "b878a88dac6503fccadf054ab631b9c93f80d494a8e43555daeb1a32d10c400c"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "22564f0115504d45df489b15cfac",
+    "encoded_hex": "2d5746e7424a4d98f44d424af0ac",
+    "old_sha256": "6bb0f503c48cf7572f8f02cb3e4dfd586ad7cee3188e4db57962c85b29427cfd",
+    "new_sha256": "f0186a5bb9ad31d1d467e49f2853113bb0d12943fc30186ad9bd85cf2e83b1af",
+    "old_columns": 15,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2100,
+    "position": 1636,
+    "french": "boomerang à lames",
+    "layout": "boomerang|à lames",
+    "previous": "Bladed|Boomerang",
+    "sfc_jp": "やいばのブーメラン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 33,
+        "JA_text": "@1やいばの;ブーメラン@",
+        "FR_text": "@0M@2le @3un @4boomerang ;à lames@5les @6des @7boomerangs à lames@8N@9N@",
+        "JA_sha256": "6fa0f6da92369dd182cd92df498c663c3c924004ef9f226ec9513b6e3c684986",
+        "FR_sha256": "97eef874cf559bcc170b383d2795119412bc6dab7a52c9e25f89f104dcbb7020"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "114d4245d89611eb4edacf48ac",
+    "encoded_hex": "43eb4edacf48992c014dcedbac",
+    "old_sha256": "1818b2af65c83c178b437e7c65780210d8c119df39a465b38afa9014b9bd30f3",
+    "new_sha256": "df8360c3c0edfbaae1549cb8e56c0d6977d6a3cc48d6f648e16bc4e2c63d7af9",
+    "old_columns": 16,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2105,
+    "position": 1641,
+    "french": "bâton d'antimagie",
+    "layout": "bâton|d'antimagie",
+    "previous": "Staff of|Antimagic",
+    "sfc_jp": "まふうじのつえ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 38,
+        "JA_text": "@1まふうじの;つえ@",
+        "FR_text": "@0M@2le @3un @4bâton ;d'antimagie@5les @6des @7bâtons d'antimagie@8N@9N@",
+        "JA_sha256": "12862b592baf787e0b4fecc6cf642c27dd8182e33658b2003b63a17e5887f9dc",
+        "FR_sha256": "13aad0f2c422e990fcb194f5e3391611bfc7f474b6769ba29ae08352ce9ab1ad"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "225542474701e89810e74a4e4248deac",
+    "encoded_hex": "433555ea954577cf554a4e42484a46ac",
+    "old_sha256": "0833cd7523a5c2215134eb87f3dd18cb5cb0e8afbe880c23ce44bafda8e1aaf1",
+    "new_sha256": "6d6872355bb3dd32d8ffb85f6e45d82f685de26884d5120c47335ed2b3ddba5a",
+    "old_columns": 18,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2110,
+    "position": 1646,
+    "french": "boomerang de feu",
+    "layout": "boomerang|de feu",
+    "previous": "Flame|Boomerang",
+    "sfc_jp": "ほのおのブーメラン",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 43,
+        "JA_text": "@1ほのおの;ブーメラン@",
+        "FR_text": "@0M@2le @3un @4boomerang ;de feu@5les @6des @7boomerangs de feu@8N@9N@",
+        "JA_sha256": "8f39c6bd5c4b4dad96c682e3fb66a821ac3fd7ec77f7d589b966fcf2106484b1",
+        "FR_sha256": "a78bbf15e53ecc7fc42dd1c5039ac35037094ad3dced533d922d3bf500f83b3c"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "154dce469511eb4edacf48ac",
+    "encoded_hex": "43eb4edacf489945d6474656ac",
+    "old_sha256": "9b918d3564da3144e440c66d7d454b42cf3d7f4b5b2d7967dae167aa9c69117a",
+    "new_sha256": "294efdd57aff390ea7699270ac02b90d1471026e57b43b08317e5c0f08548eae",
+    "old_columns": 15,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2118,
+    "position": 1654,
+    "french": "crocs acérés",
+    "layout": "crocs acérés",
+    "previous": "Magic Fang",
+    "sfc_jp": "まじゅうのキバ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 51,
+        "JA_text": "@1まじゅうの;キバ@",
+        "FR_text": "@0F@2la paire de @3une paire de @4crocs acérés@5les paires de @6des paires de @7crocs acérés@8Y@9N@",
+        "JA_sha256": "d9bdc7384027ce3fd94f6af873652d98342f84de6cd11b13ee75fe003d5b2d9d",
+        "FR_sha256": "23c624b06155c4d874632cc9d5e057bdb22c17c744dfa813684cf3742e8b8cf3"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "1c4248de0115cf48ac",
+    "encoded_hex": "44f144f2cd2d532d54ac",
+    "old_sha256": "f1c82177146f4cf47f9cce71ed9235c6e56748af45c04da3331d72ceae1b1db8",
+    "new_sha256": "03d45ea06b187e835112c8a0d3cea0f9c072836dd3f60356e5f169d6ea2511f4",
+    "old_columns": 10,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2120,
+    "position": 1656,
+    "french": "masse de guerre",
+    "layout": "masse|de guerre",
+    "previous": "Giant|Hammer",
+    "sfc_jp": "おおかなづち",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 53,
+        "JA_text": "@1おおかなづち@",
+        "FR_text": "@0F@2la @3une @4masse de ;guerre@5les @6des @7masses de guerre@8N@9N@",
+        "JA_sha256": "7507eef3deb508116ee99de0c6df15720cf1f8f833405b312a9fc14d1208cd12",
+        "FR_sha256": "d0d709f6ef5e6240fc012907467d7ea0629c886eb330d9bc44b35e6a68b85aef"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "164acf559517ce4edaac",
+    "encoded_hex": "4ed154469545d64856daf0ac",
+    "old_sha256": "512f89cd622c70550fddcbeab4234d497e89a475e99593a189148605a9bc3bad",
+    "new_sha256": "ac239c045707096cf5e988353a072cd37404f2144f90bededf297ecd4cfc2538",
+    "old_columns": 12,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2124,
+    "position": 1660,
+    "french": "lame du Châtiment",
+    "layout": "lame du|Châtiment",
+    "previous": "Sword of|Thunder",
+    "sfc_jp": "らいめいのけん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 57,
+        "JA_text": "@1らいめいの;けん@",
+        "FR_text": "@0F@2la @3la @4lame du ;Châtiment@5les @6les @7lames du Châtiment@8N@9N@",
+        "JA_sha256": "76095fdbe645d03bb80e5d45a2c70ba210b6ca00019d3151db6612626c0cfd67",
+        "FR_sha256": "a39889e9b97734a2fda7cc4b6253dc0dae0e41597ccd350f8a75c877ce4fac5f"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "2258ec4501e898234956e5daac",
+    "encoded_hex": "4dced6455697124935554a4e46e7ac",
+    "old_sha256": "d44bee08bcdf5683ba28a72cc0f5b628080fb4ac3d9d3a4178d941bae6a456cc",
+    "new_sha256": "ca940453207de41e6ab11a4e2543aa7b9259c72e19499587653d6f63468a427a",
+    "old_columns": 16,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2125,
+    "position": 1661,
+    "french": "épée dentée",
+    "layout": "épée dentée",
+    "previous": "Saw Blade",
+    "sfc_jp": "のこぎりがたな",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 58,
+        "JA_text": "@1のこぎり;がたな@",
+        "FR_text": "@0F@2l'@3une @4épée dentée@5les @6des @7épées dentées@8N@9Y@",
+        "JA_sha256": "7b1100f9ef51154e9f72b9fd7cf415cd498c2f550ae1ddfa3770c5191a545360",
+        "FR_sha256": "7f7a5c9bb4b205d756b2674eae3fec681be8fea2c2604f3273db82ec8ce81c05"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "22425801114d424546ac",
+    "encoded_hex": "2d512dd64546e72d46ac",
+    "old_sha256": "19c680b6f44ed7cf808a8803bc7e662eca8c531205dbe18a3a1efdd4e6328891",
+    "new_sha256": "810c4096b59228043446d4acc47306f3ac4ebc6a8e4846098c0484e9ea2cf81b",
+    "old_columns": 9,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2126,
+    "position": 1662,
+    "french": "aiguille empoisonnée",
+    "layout": "aiguille|empoisonnée",
+    "previous": "Poison|Needle",
+    "sfc_jp": "どくばり",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 59,
+        "JA_text": "@1どくばり@",
+        "FR_text": "@0F@2l'@3une @4aiguille ;empoisonnée@5les @6des @7aiguilles empoisonnées@8N@9Y@",
+        "JA_sha256": "f1cf389a3e91d893d2640f0d8339b9140f13f5c8e1046956d8333bdc15ae895c",
+        "FR_sha256": "7f95aa65b9d2cdac14b49ba42c66c00ae9c111fccc08262576445f2b22129ff4"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1fe9f44f961dd945e2ac",
+    "encoded_hex": "424a48564ae34698464e51e9f44f4f2d46ac",
+    "old_sha256": "fb87d2fa7789916bb451c4f7ab7dde68298a1fa6b9c817f92a0be0f4d9caa34e",
+    "new_sha256": "e76029de89cb86cf82f347eb55c483415aadc3b6df38444ddb930d27685947c5",
+    "old_columns": 13,
+    "new_columns": 20,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2127,
+    "position": 1663,
+    "french": "dagues d'oreilles",
+    "layout": "dagues|d'oreilles",
+    "previous": "Killer|Earring",
+    "sfc_jp": "キラーピアス",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 60,
+        "JA_text": "@1キラーピアス@",
+        "FR_text": "@0F@2la paire de @3une paire de @4dagues ;d'oreilles@5les paires de @6des paires de @7dagues d'oreilles@8Y@9N@",
+        "JA_sha256": "29c24fd83d562ea6d32d4620b44679bc8f262a172169d76f1e2427de2242c6f9",
+        "FR_sha256": "279cbd1e1bb72bc04ba830813fcb20d43682f6922d206ab2e4648d3bbcd69334"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1a4ae3da9614d053df48ac",
+    "encoded_hex": "45424856db964577ec464ae3dbac",
+    "old_sha256": "33f1ad12eb63baad4ccc6824c295db0c61d60af9137c5c1b0706d2c58b52645d",
+    "new_sha256": "7680c58ce64330ab024b6a6844d94d9987598bf1620e2dae129fd45f89eb2efb",
+    "old_columns": 14,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2134,
+    "position": 1670,
+    "french": "tenue de voyageur",
+    "layout": "tenue|de voyageur",
+    "previous": "Wayfarer's|Clothes",
+    "sfc_jp": "たびびとのふく",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 84,
+        "JA_text": "@1たびびとの;ふく@",
+        "FR_text": "@0F@2la @3une @4tenue de ;voyageur@5les @6des @7tenues de voyageur@8N@9N@",
+        "JA_sha256": "e9a011a01c6145358350b204b487b98f7afc5447417a15e8d77400543fedcc3e",
+        "FR_sha256": "1e6092e15425dc2db7d495910290b292c87f78192e59f2f0ac301cda3a700620"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "26425a47d0da77549a124d50f9dbac",
+    "encoded_hex": "f84f56469545d657505a4248465653ac",
+    "old_sha256": "5896a44447f9580e16056b2d8da622eb5fc29ed4d5a8d4beb2f7078d4002464f",
+    "new_sha256": "9273365dbb2a1af6c589f20ee719644a73366adcddeb0287b08b30a59911ec20",
+    "old_columns": 18,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2137,
+    "position": 1673,
+    "french": "armure de cuir",
+    "layout": "armure|de cuir",
+    "previous": "Leather|Armor",
+    "sfc_jp": "かわのよろい",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 87,
+        "JA_text": "@1かわのよろい@",
+        "FR_text": "@0F@2l'@3une @4armure de cuir@5les @6des @7armures de cuir@8N@9Y@",
+        "JA_sha256": "0583234262df7e4756684d489b9f42465b2c2f924b1938164407c23ec6bd70d5",
+        "FR_sha256": "bc777524b4f9e4ff76c29e6b6bfd8998b57e5ee9b7acb2e2855c483ea1e78ac1"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1bd7f9da9710534eecac",
+    "encoded_hex": "d04e56f09645d644564a53ac",
+    "old_sha256": "a590a1bc8ddf6c0c351975c1464375b15e413ba45a0a5283571134ce50d94a7b",
+    "new_sha256": "aab9cc0da978e5fb19eaf53539c35449198d4986d5a55bc6c6b4631b00c2f3d6",
+    "old_columns": 13,
+    "new_columns": 14,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2147,
+    "position": 1683,
+    "french": "armure à piques",
+    "layout": "armure|à piques",
+    "previous": "Swordedge|Armor",
+    "sfc_jp": "やいばのよろい",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 97,
+        "JA_text": "@1やいばの;よろい@",
+        "FR_text": "@0F@2l'@3une @4armure à ;piques@5les @6des @7armures à piques@8N@9Y@",
+        "JA_sha256": "16a418cbf3ed917b952634a1f73cb70d135f0e34350bca10e088169ded6eef6a",
+        "FR_sha256": "c8ef6d40571fd113bbc5836d992962330339b6394697a054bcdaf9e5f74fa530"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "2258ec45d848469910534eecac",
+    "encoded_hex": "d04e56f0962c01514a5256dbac",
+    "old_sha256": "f95efca57acdb55e52dd7210d58ee1c4b64ebab80e8237067cfecf850eb454c7",
+    "new_sha256": "80afdf0a6cfcf758fd3bbbb46c392871a923997425aee5dd571258fa9bb3f6da",
+    "old_columns": 15,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2148,
+    "position": 1684,
+    "french": "plastron d'argent",
+    "layout": "plastron|d'argent",
+    "previous": "Silver|Breastplate",
+    "sfc_jp": "ぎんのむねあて",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 98,
+        "JA_text": "@1ぎんの;むねあて@",
+        "FR_text": "@0M@2le @3un @4plastron ;d'argent@5les @6des @7plastrons d'argent@8N@9N@",
+        "JA_sha256": "0fa57782a0549c181d2578599c80e20baa431edcb4d9c626c859dfdbe05fa424",
+        "FR_sha256": "b9dcc17124a4fe96c461a61445131d25527313bafcdf4ec9a3bc62c00325037e"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "224a4d57da9611f0d155514dd246ac",
+    "encoded_hex": "514dd155f14f984577d04846e7ac",
+    "old_sha256": "5d2019f1afb3759609fd3d7ef767c6c29c43e05dc910537026218a427a5b242d",
+    "new_sha256": "e0c0231b2bcb2cff3e6456f49675f4f8c4717f08e97c3e6284acae6f6f80353a",
+    "old_columns": 18,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2152,
+    "position": 1688,
+    "french": "armure d'Orgo",
+    "layout": "armure|d'Orgo",
+    "previous": "Armor of|Orgo",
+    "sfc_jp": "オルゴーのよろい",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 102,
+        "JA_text": "@1オルゴーの;よろい@",
+        "FR_text": "@0F@2l'@3l'@4armure ;d'Orgo@5les @6les @7armures d'Orgo@8N@9Y@",
+        "JA_sha256": "4950cc2c30f090709459475c5cc3a1769b5e5852f1cd19356ddc4d2da727ef1e",
+        "FR_sha256": "08bca86954edbc2aec872ec262c1abf3e991459243121164273672943130b48b"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "10534eec01e8981e534850ac",
+    "encoded_hex": "d04e56f09645771e534850ac",
+    "old_sha256": "fd26783181c1c908c73aab12bd4265ad5e602790825e402435eb67b9176e2074",
+    "new_sha256": "06100df52e1de272277c7df9f08e203c23a98f9a1aebdc7999fc8ead0f988710",
+    "old_columns": 13,
+    "new_columns": 13,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2156,
+    "position": 1692,
+    "french": "armure royale",
+    "layout": "armure|royale",
+    "previous": "Metal King|Armor",
+    "sfc_jp": "メタルキングよろい",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 106,
+        "JA_text": "@1メタルキング;よろい@",
+        "FR_text": "@0F@2l'@3une @4armure royale@5les @6des @7armures royales@8N@9Y@",
+        "JA_sha256": "a64d2bba82878f508b536fd58dd0b70e6cd91a5ce56d013d9d6813060ad3c25b",
+        "FR_sha256": "c6e03666cb8bb54f6bc6b3a1c2f6752570183d910c235883204747d83ed58ee9"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1c4655424d011adf489a10534eecac",
+    "encoded_hex": "d04e56f096f15a42e2ac",
+    "old_sha256": "e6064d41b9d9d9abe5ca406dd0c030a1cb4d8da1202769f0c4545f80bc25902e",
+    "new_sha256": "d5c6ac1c3d77a3c5513fe96c10ae3fccf1ffc0796bb885756a01afd8f89499c0",
+    "old_columns": 16,
+    "new_columns": 13,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2159,
+    "position": 1695,
+    "french": "tenue de noble",
+    "layout": "tenue|de noble",
+    "previous": "Royal|Clothes",
+    "sfc_jp": "きぞくのふく",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 109,
+        "JA_text": "@1きぞくのふく@",
+        "FR_text": "@0F@2la @3une @4tenue ;de noble@5les @6des @7tenues de noble@8N@9N@",
+        "JA_sha256": "ecdda046422ba42a23252cc6db5820da7e5d605fd5d9b8afd9b05107ef532865",
+        "FR_sha256": "130066be871931004f9cb0e842e84a87056578d273c5e8817618db3b6a11f10e"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "21505a424d95124d50f9dbac",
+    "encoded_hex": "f84f56469545d6e643e2ac",
+    "old_sha256": "a958a9bf505889a1dc22dc533b17ae80b88be6694652608e3a5b30ac1668c4c6",
+    "new_sha256": "2d3a731d2787c10c151f89da0cee1853d0b1e02e0c1b43dfca3aa90d8220f37e",
+    "old_columns": 13,
+    "new_columns": 14,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2163,
+    "position": 1699,
+    "french": "armure de géant",
+    "layout": "armure|de géant",
+    "previous": "Giganto|Armor",
+    "sfc_jp": "ギガントアーマー",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 113,
+        "JA_text": "@1ギガント;アーマー@",
+        "FR_text": "@0F@2l'@3une @4armure ;de géant@5les @6des @7armures de géant@8N@9Y@",
+        "JA_sha256": "0f2a6591e7ca5b7d0495f380d9ce457e522d67a1a05dea386dc3315ce203e455",
+        "FR_sha256": "55844cf8349de372d750693f1bde71ae9ffc5fc595a9752aa862ea028cccc780"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "164a48cf55509710534eecac",
+    "encoded_hex": "d04e56f09645d6482dcf55ac",
+    "old_sha256": "00629266c4a8dec4d49dbf7628a6906837c27673d7d4a231fa84fac5bb1d4f5c",
+    "new_sha256": "957a90f96fea13918a99f1c978debf0ccac9756a5398ff62a459caf639de6a20",
+    "old_columns": 13,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2164,
+    "position": 1700,
+    "french": "jupe magique",
+    "layout": "jupe|magique",
+    "previous": "Magical|Skirt",
+    "sfc_jp": "マジカルスカート",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 114,
+        "JA_text": "@1マジカル;スカート@",
+        "FR_text": "@0F@2la @3une @4jupe magique@5les @6des @7jupes magiques@8N@9N@",
+        "JA_sha256": "18679d1fd39c2afad205e355757f03288b0f70cbaf752448f34aaff1e0c62eb5",
+        "FR_sha256": "06182ca34c46cab0fb7788597d74747eeaf258a550f9b182be7036a94ddd9ed0"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1c4248de424d97224c4a5355ac",
+    "encoded_hex": "4b565146944e42484a525646ac",
+    "old_sha256": "8300e752c422e1c03f162cb0fe16ee3ba6e9bc59587b9807d84f099b298376e7",
+    "new_sha256": "1736a1700bd31c84d099770b288bcfeddc4c677d159626c28f74fc74b8ea6af4",
+    "old_columns": 13,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2165,
+    "position": 1701,
+    "french": "robe de soie",
+    "layout": "robe de soie",
+    "previous": "Silk Robe",
+    "sfc_jp": "きぬのローブ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 115,
+        "JA_text": "@1きぬのローブ@",
+        "FR_text": "@0F@2la @3une @4robe de soie@5les @6des @7robes de soie@8N@9N@",
+        "JA_sha256": "dfee894b087326d0f3bc6c82b00c30f9515f535e369669666481d45b0507947d",
+        "FR_sha256": "dafaa7387f8d8f2d4ab8d8d2dab5d80473b3ca144a40974a22fa4c99f3f896ff"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "224a4d4c0121504346ac",
+    "encoded_hex": "f143d645d6f44a46ac",
+    "old_sha256": "31e3e2601fab76060cffa4bd2e70cbe3451079d2ddd9e40d493f562d29cf9f8f",
+    "new_sha256": "a8012b01d9917c0273f43aae26ce7924f9e09d9b85142c47fdaf16e705527f31",
+    "old_columns": 9,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2166,
+    "position": 1702,
+    "french": "costume de danseuse",
+    "layout": "costume|de danseuse",
+    "previous": "Dancer's|Clothes",
+    "sfc_jp": "おどりこのふく",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 116,
+        "JA_text": "@1おどりこの;ふく@",
+        "FR_text": "@0M@2le @3un @4costume de ;danseuse@5les @6des @7costumes de danseuses@8N@9N@",
+        "JA_sha256": "b2a1a698d14f3f5878188ee865860a2ba48659e969becef0e7440e4b24bf22a8",
+        "FR_sha256": "208d00f09fa4f6d8f9ca8b8158fd7b2713bde3056e60d50d533888d7e70c1c0a"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "13cfd353775498124d50f9dbac",
+    "encoded_hex": "4450f5564e469745d645cf5446fa46ac",
+    "old_sha256": "01e6be52386e922cda1d9fb4e01d50a52b051786627cf9c0a755af48484078da",
+    "new_sha256": "8b95bbedbe4f781a4439251cca23ab8ecc0a0eab96b6145fad911c74cd41885b",
+    "old_columns": 16,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2167,
+    "position": 1703,
+    "french": "manteau d'esquive",
+    "layout": "manteau|d'esquive",
+    "previous": "Clothes|Hiding",
+    "sfc_jp": "みかわしのふく",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 117,
+        "JA_text": "@1みかわしの;ふく@",
+        "FR_text": "@0M@2le @3un @4manteau ;d'esquive@5les @6des @7manteaux d'esquive@8N@9N@",
+        "JA_sha256": "685e8ca5684c988c034ee478a9b067dc1c13cfafd69213fff1179b68b77571b6",
+        "FR_sha256": "c4580188e42038d9dea8bbc42117b0490838b3674b309afcbb9d09d80391b9ff"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "124d50f9db97174a45df48ac",
+    "encoded_hex": "4ecff84256974577db52564a5746ac",
+    "old_sha256": "4b5e4c434ab0ee27c8f7aabfc3bacfa448794816f051694b0b3edf966c6b83e2",
+    "new_sha256": "e076f6be28edb1c735daaa47b86b01131a4adf69706579fa33f9edcb18022e1a",
+    "old_columns": 14,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2168,
+    "position": 1704,
+    "french": "robe flottante",
+    "layout": "robe|flottante",
+    "previous": "Water Flying|Clothes",
+    "sfc_jp": "みずのはごろも",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 118,
+        "JA_text": "@1みずの;はごろも@",
+        "FR_text": "@0F@2la @3une @4robe flottante@5les @6des @7robes flottantes@8N@9N@",
+        "JA_sha256": "7d4c1dcec102a06010aaf6194bd71451ab82b4ebf2d50196da041c6fd2dd5751",
+        "FR_sha256": "621ca2a4b4875e5b7f682fc1a5ad6eeccea6c9e1164b4b1f81b9ad4011f5bc11"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "26d2da0115e4df489c124d50f9dbac",
+    "encoded_hex": "f1434694474d505555cff8ac",
+    "old_sha256": "ce43d4bb723c96037cc38ecda5f9d420202dbc648439c25880b807902d133e5b",
+    "new_sha256": "82c991c749cd64d35e77c9a692e8a8507928a22d8139c0d0cb0b8ce133967520",
+    "old_columns": 20,
+    "new_columns": 14,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2170,
+    "position": 1706,
+    "french": "robe chatoyante",
+    "layout": "robe|chatoyante",
+    "previous": "Dress of|Radiance",
+    "sfc_jp": "ひかりのドレス",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 120,
+        "JA_text": "@1ひかりの;ドレス@",
+        "FR_text": "@0F@2la @3une @4robe ;chatoyante@5les @6des @7robes chatoyantes@8N@9N@",
+        "JA_sha256": "7ffcfb80fe2aa1521b9511069c8d2eb6975ebfb426fe8e2ed9799956216f99a4",
+        "FR_sha256": "b2b25893bb1964b6e8bde3ffb3ca6768621fe7c734210ac868e8d7909a748b89"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "13f054f2e8982142454acfd3ac",
+    "encoded_hex": "f1434694d4d2505acff8ac",
+    "old_sha256": "0ac8d388859177f1e3b16ab29d90aa52a05db6f5d1e1e5293341d28be895125f",
+    "new_sha256": "6a7817bdca88467b05b0626556a9e0161895924737f7da0f762e98e48ef5cbfe",
+    "old_columns": 17,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2172,
+    "position": 1708,
+    "french": "cuirasse de platine",
+    "layout": "cuirasse|de platine",
+    "previous": "Platinum|Mail",
+    "sfc_jp": "プラチナメイル",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 122,
+        "JA_text": "@1プラチナ;メイル@",
+        "FR_text": "@0F@2la @3une @4cuirasse ;de platine@5les @6des @7cuirasses de platine@8N@9N@",
+        "JA_sha256": "95d84f255ad8885c138fa0a817b5a004a33045845c94481f6a6aa8b0c710f44d",
+        "FR_sha256": "96486d663148b93caf7eb15da4214b2a6c6e3ec420024ef773859258609ff6b2"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1f4dd2df564e981c424a4dac",
+    "encoded_hex": "44564aef5454469845d6514dd2df46ac",
+    "old_sha256": "a83217eed701a0f2c113eaf65c6e90e9ce7b197206510f0622623b77fcecb423",
+    "new_sha256": "f4f9177fc92108e8c234ac5f969ed02d79d364d4ded5d4a001816cfd7ed84763",
+    "old_columns": 13,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2174,
+    "position": 1710,
+    "french": "robe de princesse",
+    "layout": "robe de|princesse",
+    "previous": "Princess'|Robe",
+    "sfc_jp": "プリンセスローブ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 124,
+        "JA_text": "@1プリンセス;ローブ@",
+        "FR_text": "@0F@2la @3une @4robe de ;princesse@5les @6des @7robes de princesse@8N@9N@",
+        "JA_sha256": "a17544a27476b49d7a2c99fd3679802488957654e54832835fb39304197e8604",
+        "FR_sha256": "8eb7c1eabf7c72f143efcab3e7ac3f870f530705068ac0f5ecc790311a62296e"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1f53dfd35454779921504346ac",
+    "encoded_hex": "f143d64546975153dfd3545446ac",
+    "old_sha256": "431f7c15974fef44cb0d521d5a8b2f2481411effd6ca2e174d6649798fb9cdac",
+    "new_sha256": "148b65cba7025c1cc2f0bf175c44c69c5a2965dfb4db82cff9876f0e15e281e5",
+    "old_columns": 14,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2178,
+    "position": 1714,
+    "french": "lingerie robuste",
+    "layout": "lingerie|robuste",
+    "previous": "Sexy|Underwear",
+    "sfc_jp": "エッチなしたぎ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 128,
+        "JA_text": "@1エッチな;したぎ@",
+        "FR_text": "@0M@2l'ensemble de @3un ensemble de @4lingerie ;robuste@5les @6des @7ensembles de lingerie robuste@8N@9N@",
+        "JA_sha256": "9df65ba765287876b760c47ca741e1c8e3498124a038ed4bf09696c6d11cfdf6",
+        "FR_sha256": "b7b4832283ae66251a83ecce289de7811650ba86949897f8ddf4bada6072a0c1"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "2246595a9424e5da58d753ac",
+    "encoded_hex": "4ddf48da4a4698f143faf8ac",
+    "old_sha256": "b30fb31ca6299bc29c5a5b7654b9ee8d7d14330e5067a2c1a9161bc04985bdbe",
+    "new_sha256": "ca95573d93f4136fb92cd16c6ae4d6ebfbee00e2d37f2ec98d485fd941768cf6",
+    "old_columns": 14,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2180,
+    "position": 1716,
+    "french": "bouclier de cuir",
+    "layout": "bouclier|de cuir",
+    "previous": "Leather|Shield",
+    "sfc_jp": "かわのたて",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 139,
+        "JA_text": "@1かわのたて@",
+        "FR_text": "@0M@2le @3un @4bouclier ;de cuir@5les @6des @7boucliers de cuir@8N@9N@",
+        "JA_sha256": "28e8d493f5c1955c28c4a98b8cb9ff7af5838f5f21cf50da5dddc4ed09fe3e3f",
+        "FR_sha256": "4f5018b76249549c86fd623a80585cad986187c05999b9eb043b254d6b73093f"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1bd7f9da9722494a464d45ac",
+    "encoded_hex": "43ed444d4ada9845d644564a53ac",
+    "old_sha256": "bcbada082fdec682f6ece1c04060fc45d72504ff4aef0be7f46c1ea5ab0996e4",
+    "new_sha256": "c3d2d7fd5abe1023add54202eb6855ab4cdff3c9506ab0990c7c262f0f88f0d6",
+    "old_columns": 14,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2182,
+    "position": 1718,
+    "french": "bouclier de bronze",
+    "layout": "bouclier|de bronze",
+    "previous": "Bronze|Shield",
+    "sfc_jp": "せいどうのたて",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 141,
+        "JA_text": "@1せいどうの;たて@",
+        "FR_text": "@0M@2le @3un @4bouclier de ;bronze@5les @6des @7boucliers de bronze@8N@9N@",
+        "JA_sha256": "8202f5b2d1a26589f0e395ef1aec419a0d60adcef73cd334e96dd6e93540a638",
+        "FR_sha256": "01e4a7165ee430b87efd33d48bb56011d2e18387ae6fac099610613f1f270a14"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "11f14f5b469622494a464d45ac",
+    "encoded_hex": "43ed444d4ada9845d643f14f5b46ac",
+    "old_sha256": "ca03c0fb3aea12a9766a7a630ea65cea364594d79fd47cc94d306f2f18061a0c",
+    "new_sha256": "b3c5455e15ba5b0597fde51c77e8de09a6aeba84f6873fbb246768d52fcff934",
+    "old_columns": 13,
+    "new_columns": 18,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2185,
+    "position": 1721,
+    "french": "bouclier du Dragon",
+    "layout": "bouclier|du Dragon",
+    "previous": "Dragon|Shield",
+    "sfc_jp": "ドラゴンシールド",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 144,
+        "JA_text": "@1ドラゴン;シールド@",
+        "FR_text": "@0M@2le @3un @4bouclier ;du Dragon@5les @6des @7boucliers du Dragon@8N@9N@",
+        "JA_sha256": "88f92ec8ba4ec8e5c8fb1f6d2f167c162ca67d45b7d7445f5c49fae44a65bb45",
+        "FR_sha256": "1aa9a3ede9646a840a5bb1a2372e7387123ed5be9f3feca88217d62fd2b4d322"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "13ef48ea9622494a464d45ac",
+    "encoded_hex": "43ed444d4ada9845560113ef48eaac",
+    "old_sha256": "23b95eed7f79e9a0ab2da421822cf957d4892f777465f5ecb91e40aedb1f6cd6",
+    "new_sha256": "768a39c860bdeb393d938ea18dab045830f4e7919eee800ba2c5e167cffb724e",
+    "old_columns": 13,
+    "new_columns": 18,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2187,
+    "position": 1723,
+    "french": "bouclier de puissance",
+    "layout": "bouclier de|puissance",
+    "previous": "Shield of|Strength",
+    "sfc_jp": "ちからのたて",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 146,
+        "JA_text": "@1ちからのたて@",
+        "FR_text": "@0M@2le @3un @4bouclier de ;puissance@5les @6des @7boucliers de puissance@8N@9N@",
+        "JA_sha256": "6aa0370e235b9738a34ae213a45b94dd022e71434ec4b2e82708f5c937d66f61",
+        "FR_sha256": "d50e3397b4442b93bb5e9257700b8610218dbb182b57cd81bee97da5ed261145"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "22494a464d4501e8992255f04f48f9ac",
+    "encoded_hex": "43ed444d4adaca469b5156e054cfd3ac",
+    "old_sha256": "a34402b98a93985f1f70b9cc11ceb50b6e4fa15506fa853df1ec1901e54ec68a",
+    "new_sha256": "1b690eff6f49bd4559ea957640da0c123ae08df428a6381a7231832e81d4442d",
+    "old_columns": 18,
+    "new_columns": 21,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2188,
+    "position": 1724,
+    "french": "bouclier du Vent",
+    "layout": "bouclier|du Vent",
+    "previous": "Aeolus's|Shield",
+    "sfc_jp": "ふうじんのたて",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 147,
+        "JA_text": "@1ふうじんの;たて@",
+        "FR_text": "@0M@2le @3un @4bouclier ;du Vent@5les @6des @7boucliers du Vent@8N@9N@",
+        "JA_sha256": "a5ec7cd93da7b4493ca6e9a46bf69135ef34c115c4be00efe60e76877edc76de",
+        "FR_sha256": "4070b54daabc525d1c156f46f74e3466bd1a795ba1e41420403813a86db00437"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1046504dfa77549822494a464d45ac",
+    "encoded_hex": "43ed444d4ada984556012546e7ac",
+    "old_sha256": "c9bb49574369a9b654f1db729e0b585d792d6345f8e4a7d249824d4e4e614979",
+    "new_sha256": "23b72106767ebfaa9c492b59873e815b410dce3a6b62252343901fb2f5d32c51",
+    "old_columns": 15,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2193,
+    "position": 1729,
+    "french": "bouclier du Désastre",
+    "layout": "bouclier|du Désastre",
+    "previous": "Shield of|Ruin",
+    "sfc_jp": "はめつのたて",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 152,
+        "JA_text": "@1はめつのたて@",
+        "FR_text": "@0M@2le @3un @4bouclier du ;Désastre@5les @6des @7boucliers du Désastre@8N@9N@",
+        "JA_sha256": "25977484121d04f895a48bccc124062ed90dbd934ad14274ddf26b1bb7e92cc3",
+        "FR_sha256": "b8d173c764e6f018b1cd46fc8dd129c9766e63cdfaf83e74438d327609d52a5e"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "22494a464d4501e8992156dfac",
+    "encoded_hex": "43ed444d4ada98455601132d54d155f0ac",
+    "old_sha256": "3fa157f55ea37d93fe7f058cf9d0e52f8f8a4f81d5dbc1990680116776723525",
+    "new_sha256": "c968d36109ee25e4fb8d30aeeb6c833c59d1e0204485df71cdf465919486607f",
+    "old_columns": 14,
+    "new_columns": 20,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2196,
+    "position": 1732,
+    "french": "bouclier de Valora",
+    "layout": "bouclier|de Valora",
+    "previous": "Shield Of|Sufida",
+    "sfc_jp": "スフィーダのたて",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 155,
+        "JA_text": "@1スフィーダの;たて@",
+        "FR_text": "@0M@2le @3le @4bouclier ;de Valora@5les @6les @7boucliers de Valora@8N@9N@",
+        "JA_sha256": "2f8f29d4e71cd97b7d80f4943bd4be6e37aa2be9aabea56aa95abb2505a526bf",
+        "FR_sha256": "fe9b0e8cb31ec8a8c65ead2e7578039841ba7646f41a17da41583d9b89048c41"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "22494a464d45011e47992256474a4542ac",
+    "encoded_hex": "43ed444d4ada9845d625424dec42ac",
+    "old_sha256": "fbc24353c07189ad6b3fc4987653b5b43293b790ce40c948504625bfe688ec7f",
+    "new_sha256": "e35b3a0d9e94dee0d596bb32383c774225afb028144936cc53f2f05ad66807bd",
+    "old_columns": 16,
+    "new_columns": 18,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2197,
+    "position": 1733,
+    "french": "bouclier de platine",
+    "layout": "bouclier|de platine",
+    "previous": "Platinum|Shield",
+    "sfc_jp": "プラチナシールド",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 156,
+        "JA_text": "@1プラチナ;シールド@",
+        "FR_text": "@0M@2le @3un @4bouclier ;de platine@5les @6des @7boucliers de platine@8N@9N@",
+        "JA_sha256": "e1ae7b1cd6fe6a81de664056285012055b6eb0ef4cdb06d6f6f4ad65ed19b9ed",
+        "FR_sha256": "e5129c835dd1fcdfd2d01827f89bfcc0fd6520d800b256393af3d2ebd57e54d8"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1f4dd2df564e9822494a464d45ac",
+    "encoded_hex": "43ed444d4ada9845d6514dd2df46ac",
+    "old_sha256": "ab4f49dcec46b06c989e0776601ba310f3b57c3d4a40fa7e7905772183cba291",
+    "new_sha256": "0288d884a0b4dd8e96fb665762d84dea00e6f8d242b9fca6a73ceaca1a10984d",
+    "old_columns": 15,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2201,
+    "position": 1737,
+    "french": "bigornheaume",
+    "layout": "bigornheaume",
+    "previous": "Shell Hat",
+    "sfc_jp": "かいがらぼうし",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 166,
+        "JA_text": "@1かいがら;ぼうし@",
+        "FR_text": "@0M@2le @3un @4bigornheaume@5les @6des @7bigornheaumes@8N@9N@",
+        "JA_sha256": "40f8223b9fbed01b24948ab8e4430814ac0f1ce8cbee0c377e2f07c9a0e62ffa",
+        "FR_sha256": "9908c72796f2a88acc084cf2dd3ed713eda94a5345b1b688fd9e58ebb3c49901"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "22dde30117d2ac",
+    "encoded_hex": "434a48ec4fdd42564e46ac",
+    "old_sha256": "7f1222b11cf1d38f5f6070ad00bacd2c69bcb9f99bb15e3255c96c9e830b5b30",
+    "new_sha256": "bf9582d296783abaa99d4c2a9984822a7381c293d51d78975d2af619a2bf4838",
+    "old_columns": 9,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2208,
+    "position": 1744,
+    "french": "heaume de Sebath",
+    "layout": "heaume|de Sebath",
+    "previous": "Helm of|Cevas",
+    "sfc_jp": "セバスのかぶと",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 173,
+        "JA_text": "@1セバスの;かぶと@",
+        "FR_text": "@0M@2le @3le @4heaume ;de Sebath@5les @6les @7heaumes de Sebath@8N@9N@",
+        "JA_sha256": "87a33287dbb003be567a46a8fcb888be3d6500c267b5b9b5eac18df1c9938c0c",
+        "FR_sha256": "1c1b67a89b7eb80e1d5cb81f8e269e510cd307aa608a76fcc62e1aa9b801c26f"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "17464d4e01e897124657d1ac",
+    "encoded_hex": "dd42564e469645d6224643d249ac",
+    "old_sha256": "2b7dea96470c133378b6b3b566ac8b862706e4d74e10545707bd2612c02d8bf5",
+    "new_sha256": "475d139614f1e8a91b1492e100fcd49750ff24c9da709c192dca5cfe0e1fe87a",
+    "old_columns": 13,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2210,
+    "position": 1746,
+    "french": "chapeau de félicité",
+    "layout": "chapeau|de félicité",
+    "previous": "Hat of|Happiness",
+    "sfc_jp": "しあわせのぼうし",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 175,
+        "JA_text": "@1しあわせの;ぼうし@",
+        "FR_text": "@0M@2le @3un @4chapeau ;de félicité@5les @6des @7chapeaux de félicité@8N@9N@",
+        "JA_sha256": "eae6a05d1d2711a3681b08cca78babef6d4e1ac7e39146d2b42c1ae65c9ac4a1",
+        "FR_sha256": "90d597b8e82c559d928d49c7d379138463ea039d9b473c557060ad1e224cfbf2"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "17d201e89617425151dfdb54ac",
+    "encoded_hex": "d44251d7569745d6472d4ddee12dac",
+    "old_sha256": "906b1d2b349c7bf02295803e19d1b8fec3aa80bacd005154b000dc2b6d18d30b",
+    "new_sha256": "cc9f9d6dfd28a25581f32aafb8d96dbb11ccfa8e8ffd8bb5fba143c318c6243f",
+    "old_columns": 16,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2211,
+    "position": 1747,
+    "french": "coiffe de réflexion",
+    "layout": "coiffe de|réflexion",
+    "previous": "Helm of|Wisdom",
+    "sfc_jp": "ちりょくのかぶと",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 176,
+        "JA_text": "@1ちりょくの;かぶと@",
+        "FR_text": "@0F@2la @3une @4coiffe de ;réflexion@5les @6des @7coiffes de réflexion@8N@9N@",
+        "JA_sha256": "8c7fe3a620048f39863645e946062c5d76a7edfdbe434fdfaad202d7a541dca1",
+        "FR_sha256": "cab08e43beeb48ecef6c5c001d00deacd155cdb1be81b4d6beb4bd83f8ffae6a"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "17464d4e01e89726e045504eac",
+    "encoded_hex": "44e94747d6454699532d47e2594aeaac",
+    "old_sha256": "3522ef113f30a3d9b6d18b6e52089ba792f4d85153af58795aa39dd9b0addbb8",
+    "new_sha256": "d913c565ede3b54b5f86aaee0e604f9285794a4772b86d001fb1967977a4d9e9",
+    "old_columns": 14,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2213,
+    "position": 1749,
+    "french": "grand heaume",
+    "layout": "grand heaume",
+    "previous": "Great Helm",
+    "sfc_jp": "グレートヘルム",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 178,
+        "JA_text": "@1グレート;ヘルム@",
+        "FR_text": "@0M@2le @3un @4grand heaume@5les @6des @7grands heaumes@8N@9N@",
+        "JA_sha256": "beb54695808769b88eeaf18450cb8ff530c0da472e351641d782aff9354f1e87",
+        "FR_sha256": "70c20b816c8bbd743812ed31e02ab99c906f87af331d482f0753c44c8c492e52"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "16f0d20117464d4eac",
+    "encoded_hex": "48efe501dd42564e46ac",
+    "old_sha256": "80bc9aec71b014eddc9f0a263dd4867f031e5327d8e02c1c70193b4563270589",
+    "new_sha256": "11fd3715d88d4b1e4f81f83fbacb98d73851f004dbccf820b31d606246c23a5b",
+    "old_columns": 10,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2214,
+    "position": 1750,
+    "french": "heaume royal",
+    "layout": "heaume|royal",
+    "previous": "Metal King|Helm",
+    "sfc_jp": "メタルキングヘルム",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 179,
+        "JA_text": "@1メタルキング;ヘルム@",
+        "FR_text": "@0M@2le @3un @4heaume royal@5les @6des @7heaumes royaux@8N@9N@",
+        "JA_sha256": "526c9b8146d344d14201f96df6866dcf55c9812e09e6e584abf8b09e6bf9f069",
+        "FR_sha256": "75413758aed44064e88eecb744878298264f299f393f71cb203fa04e266af36c"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1c4655424d011adf489a17464d4eac",
+    "encoded_hex": "dd42564e4696f15a424dac",
+    "old_sha256": "59e568e8c3cc4f162996635199c1ad3f6605472746351fece1a9c9c7f0764618",
+    "new_sha256": "d13aff195514eae4f98ec5d399cd55df8b31de3c94d3400b30f0209cdbf8d215",
+    "old_columns": 15,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2218,
+    "position": 1754,
+    "french": "heaume de platine",
+    "layout": "heaume|de platine",
+    "previous": "Platinum|Mask",
+    "sfc_jp": "プラチナヘッド",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 183,
+        "JA_text": "@1プラチナ;ヘッド@",
+        "FR_text": "@0M@2le @3un @4heaume ;de platine@5les @6des @7heaumes de platine@8N@9N@",
+        "JA_sha256": "e95e22f12efd7515b64bf5b2e0cb2bbf3b3db23993649f9d180a5580dc3287ee",
+        "FR_sha256": "f9eda2a176b57458b889e811bc40e8bc36e6916151aa19b7992612949d5c89c1"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1f4dd2df564e981cd14cac",
+    "encoded_hex": "dd42564e469645d6514dd2df46ac",
+    "old_sha256": "c65d387602503b28d99713dea8908cf91c57464b9ed4293e9f488a105078c55e",
+    "new_sha256": "48506f9bc63ca0d12ea8efd10f67c187f79fa90ebce20c85a9776072c184e018",
+    "old_columns": 13,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2219,
+    "position": 1755,
+    "french": "brassard de météore",
+    "layout": "brassard|de météore",
+    "previous": "Meteorite|Armband*",
+    "sfc_jp": "ほしふるうでわ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 189,
+        "JA_text": "@1ほしふる;うでわ@",
+        "FR_text": "@0M@2le @3un @4brassard de ;météore@5les @6des @7brassards de météore@8N@9N@",
+        "JA_sha256": "e3fe1b9dc17e8d52038d4bb21807ecd5d4563e9927cc11286adb0adb079d7b0e",
+        "FR_sha256": "4be884ae6a79ab807c2135e246be2a6a1271d58cc3d717ede3d18a3537efa99e"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1c46f8ece1469910534e43cf4589ac",
+    "encoded_hex": "43ef5454d0459845d64e2d552dec46ac",
+    "old_sha256": "df575d894990a9c615656a154249b098e57cd75cdbb4279a093407a1d3b91a45",
+    "new_sha256": "b336868c8c0ccc550a8cef91bf4019e79f905cf2074f07faa69aaeff9ff1dcd7",
+    "old_columns": 18,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2221,
+    "position": 1757,
+    "french": "éclat d'étoile",
+    "layout": "éclat|d'étoile",
+    "previous": "Star|Fragment",
+    "sfc_jp": "ほしのかけら",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 191,
+        "JA_text": "@1ほしのかけら@",
+        "FR_text": "@0M@2l'@3un @4éclat d'étoile@5les @6des @7éclats d'étoile@8N@9Y@",
+        "JA_sha256": "715664beb44ba2934444d001a10f73e0e1d3c6d4ae92ab51fe9d3c6b94843ddc",
+        "FR_sha256": "1b0c9e1238d0d12bca12dad376d1063c433c9691d1816fd54a8de34185b2ec7a"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "2255d09415ef484e46e7ac",
+    "encoded_hex": "2d444dd29545772d55e9e2ac",
+    "old_sha256": "44dd6e66fdd5af03857bbca22d53b17b96253023346d675a64562a19bafa10da",
+    "new_sha256": "a99ada069005aa0f2051d6759cb1bc68652eddfbebcce13481526d29efd94466",
+    "old_columns": 13,
+    "new_columns": 14,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2223,
+    "position": 1759,
+    "french": "brassard de conjuration",
+    "layout": "brassard de|conjuration",
+    "previous": "GiveLife|Armband",
+    "sfc_jp": "メガザルのうでわ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 193,
+        "JA_text": "@1メガザルの;うでわ@",
+        "FR_text": "@0M@2le @3un @4brassard ;de conjuration@5les @6des @7brassards de conjuration@8N@9N@",
+        "JA_sha256": "300078ddd6c90c3c2a8b7d8877e0d17d04ef6cfa1e7673cf6776eddc089b58b6",
+        "FR_sha256": "8ecbc1cdc82c99059035c10a4c70698030599f6f03ba2c104b7dd66d944d8bd2"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "164a57461b4a47469810534e43cf45ac",
+    "encoded_hex": "43ef5454d045ca469b44ea4b56ef554aeaac",
+    "old_sha256": "c5ce4fd65dd54ed08487c5753add0def72dcbfafefe8d86eb1674d6d8f5b266b",
+    "new_sha256": "ad9567f8bb359fa99e4ef37c560245223af9a3ed77d4293822a45dd6fd64fa71",
+    "old_columns": 16,
+    "new_columns": 23,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2224,
+    "position": 1760,
+    "french": "boucles d'oreilles",
+    "layout": "boucles|d'oreilles",
+    "previous": "Slime|Earrings",
+    "sfc_jp": "スライムピアス",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 194,
+        "JA_text": "@1スライム;ピアス@",
+        "FR_text": "@0F@2la paire de @3une paire de @4boucles ;d'oreilles@5les paires de @6des paires de @7boucles d'oreilles@8Y@9N@",
+        "JA_sha256": "1e79bc9459e9490f64350b6eb7ef764f5d59b9e6e08b9309e0822ee0d4fb4397",
+        "FR_sha256": "e4001dd1711ca85fa0155a5788f67985f4be75aef05506c8cdec002a2f2267d7"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "224d4a4e469514d053df4854ac",
+    "encoded_hex": "43ed44e254974577ec464ae3dbac",
+    "old_sha256": "250d65915fee285032bb9c5d9c09dbcbc88dc96eea596265263d10b1701871d9",
+    "new_sha256": "96aad56dfce181e59e88a25d3a8ec01581f91f05d9fddfa65013301fbb7daf96",
+    "old_columns": 14,
+    "new_columns": 18,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2226,
+    "position": 1762,
+    "french": "brassard d'or",
+    "layout": "brassard|d'or",
+    "previous": "Silver|Bracelet",
+    "sfc_jp": "きんのブレスレット",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 196,
+        "JA_text": "@1きんの;ブレスレット@",
+        "FR_text": "@0M@2le @3un @4brassard ;d'or@5les @6des @7brassards d'or@8N@9N@",
+        "JA_sha256": "ff0d57a8df3762a26e74fd9ab21bb87a3255a41fa312e10444bed495f2a3e994",
+        "FR_sha256": "aec6eaf42eec10c22d1b2650006e31f35deb18e6ff6ac1ffad9bc1680e730886"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "224a4d57da9611efd3e255ac",
+    "encoded_hex": "43ef5454d045984577ecac",
+    "old_sha256": "d7afae65b8f213f2871dcb173b0415effadf912a33e30ad9aa6faae41a5ee614",
+    "new_sha256": "e416617a767ffcba38d2d22b71f8f43f7c68c1e3e5504b6a9b72c0922d5f372d",
+    "old_columns": 15,
+    "new_columns": 13,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2231,
+    "position": 1767,
+    "french": "foulard de pionnier",
+    "layout": "foulard|de pionnier",
+    "previous": "Stylish|Bandana",
+    "sfc_jp": "おしゃれなバンダナ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 201,
+        "JA_text": "@1おしゃれな;バンダナ@",
+        "FR_text": "@0M@2le @3un @4foulard ;de pionnier@5les @6des @7foulards de pionnier@8N@9N@",
+        "JA_sha256": "1843a0e70b5ddb0838ee231a31e6c01c620610ca6120406ec9052a199a6d06cc",
+        "FR_sha256": "4de880c9eb4a89b924188851506a44fffd1c73413ab585c870f67df93f67f831"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "22555a4de0499711cf45cf42ac",
+    "encoded_hex": "47ed4dd0459745d6514aea4f4adaac",
+    "old_sha256": "2f6ee64ccdb9b38d8f347e770bf6e80154b7a0237d1f5ca6ddce0c3edd29c311",
+    "new_sha256": "c4be2da96afdb7b9b5abbb5b5e2c172485fe8faa9568178dea3c9100c26c5dad",
+    "old_columns": 15,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2232,
+    "position": 1768,
+    "french": "bague de prière",
+    "layout": "bague|de prière",
+    "previous": "Wizard's|Ring",
+    "sfc_jp": "いのりのゆびわ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 202,
+        "JA_text": "@1いのりの;ゆびわ@",
+        "FR_text": "@0F@2la @3une @4bague de prière@5les @6des @7bagues de prière@8N@9N@",
+        "JA_sha256": "488f2a1a30da12e51a61635e2f9dee3e296e42c63dda36b72e8faa10e0260d2a",
+        "FR_sha256": "4b3723f2c866ff0bcb3aed038e82721cc11ef3b53907cdb10d0d9742305a7cb9"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "264a5bd04577549821df48ac",
+    "encoded_hex": "43424856469545d651534a30f0ac",
+    "old_sha256": "c4807d2380d33283ed27fe3d5a3fc2e313193760f5771580bb7cf8bc8b2c9f4b",
+    "new_sha256": "0f13223ec835b7aa76f3a54a6f3aa44415002d329f412d6f5b3f9f6ee50495da",
+    "old_columns": 13,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2233,
+    "position": 1769,
+    "french": "anneau d'or",
+    "layout": "anneau d'or",
+    "previous": "Gold Ring",
+    "sfc_jp": "きんのゆびわ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 203,
+        "JA_text": "@1きんのゆびわ@",
+        "FR_text": "@0M@2l'@3un @4anneau d'or@5les @6des @7anneaux d'or@8N@9Y@",
+        "JA_sha256": "232642be857717c9c0e8ed405953355a4bca24d7c1a8fb62b757d79f1212f845",
+        "FR_sha256": "5e2b624d538bacc7974b3ae44de666386b50243a9d9a13bf7c8c8c9f6534f686"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "16504d450121df48ac",
+    "encoded_hex": "cf4fd756ca77ecac",
+    "old_sha256": "03795f23dd57f6500da8e94f34eb745bf2f0526bdb9e7d271ea4534e1b06991f",
+    "new_sha256": "6a623ae3c52493af7606f1b5b097ceecb369bf01e0d2e57e6fa1624b8ff17ee0",
+    "old_columns": 9,
+    "new_columns": 11,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2235,
+    "position": 1771,
+    "french": "vieille pipe",
+    "layout": "vieille pipe",
+    "previous": "Rusted Pipe",
+    "sfc_jp": "ふるびたパイプ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 205,
+        "JA_text": "@1ふるびた;パイプ@",
+        "FR_text": "@0F@2la @3une @4vieille pipe@5les @6des @7vieilles pipes@8N@9N@",
+        "JA_sha256": "4ed559c082ea3cc14c1f508eb64c7cd81ed6179b960fb1dcf0ac83decd1b3c28",
+        "FR_sha256": "7eaac4c7c415d0ca94cd88d7f0b5495d7598522b46326f3f33d2081f2a01b5a3"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "21faf845011f4a5146ac",
+    "encoded_hex": "574a464ae3d6514a5146ac",
+    "old_sha256": "f78938750a549cdbaef60d070e34f836aea62a75470bf9daa5e818497f362fa0",
+    "new_sha256": "c84d0be88e19745dfc0b6bf3ed47ad97887160fa44601236f9360b602cf91d59",
+    "old_columns": 11,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2236,
+    "position": 1772,
+    "french": "pendentif de Colombourg",
+    "layout": "pendentif de|Colombourg",
+    "previous": "Longadeseo|Pass",
+    "sfc_jp": "デセオのパス",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 206,
+        "JA_text": "@1デセオの;パス@",
+        "FR_text": "@0M@2le @3un @4pendentif ;de Colombourg@5les @6des @7pendentifs de Colombourg@8N@9N@",
+        "JA_sha256": "faf54eafae57e3e5c59c8f43922b5c621ab651990131f74b79c24f82e7b39231",
+        "FR_sha256": "be1f233b9ebf5522d9791efbd5438ff1f0aba25bfc1c459f2d748bd6b253872a"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1bea484245db46509a1fd154ac",
+    "encoded_hex": "5146e546e74a47ca469c12504d504e43ed5348ac",
+    "old_sha256": "2441a264a3ebc91da522359ad06bcf8a4900621e59761042842b4861885bbda9",
+    "new_sha256": "0fba5fc03b09ce3fd9ea10d94e730dce3e0c8bc669c52cade34013362813dce2",
+    "old_columns": 15,
+    "new_columns": 23,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2238,
+    "position": 1774,
+    "french": "anneau ancien",
+    "layout": "anneau|ancien",
+    "previous": "Antique|Ring",
+    "sfc_jp": "おばさんのゆびわ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 208,
+        "JA_text": "@1おばさんの;ゆびわ@",
+        "FR_text": "@0M@2l'@3un @4anneau ;ancien@5les @6des @7anneaux anciens@8N@9Y@",
+        "JA_sha256": "adf0a43baa62347731774e84480a5d2787ad5c529a55c1202df0fd3fb678f9a8",
+        "FR_sha256": "36933f411659266006cac3116f3f414202774dd1852eb57651c0ca688cfed637"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "10e74a5256469721df48ac",
+    "encoded_hex": "cf4fd75696cf444a464fac",
+    "old_sha256": "516178b10140cbfd647f3fb7e2b9456a88e06179e78e964b2b1fcaa8b08b61b3",
+    "new_sha256": "0715974eeca666e9226b4171b512ebc5950d775101c59e4a79dcff3cfade8405",
+    "old_columns": 12,
+    "new_columns": 13,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2240,
+    "position": 1776,
+    "french": "herbe curative",
+    "layout": "herbe|curative",
+    "previous": "Antidote|Herb",
+    "sfc_jp": "どくけしそう",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 210,
+        "JA_text": "@1どくけしそう@",
+        "FR_text": "@0F@2l'@3une @4herbe curative@5les @6des @7herbes curatives@8N@9Y@",
+        "JA_sha256": "8cfbb442eeee22c7b87507255faeaa5a0393373a01b397ea6c29f70292de33e3",
+        "FR_sha256": "873bec4d94c8392336afc11d229e906920817b34365201f3480155fe527924f3"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "10e74a4550f89817da43ac",
+    "encoded_hex": "dd534346954456ef554a5746ac",
+    "old_sha256": "f507ca425655a2af78c71d6ab1e428656aa9caf39447b9473f1a87eee0f4bd2a",
+    "new_sha256": "998e554d59ba49481fb35fd6467619abfd2e39653c703d3775e3513c2e0c67c9",
+    "old_columns": 13,
+    "new_columns": 14,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2242,
+    "position": 1778,
+    "french": "aile de chimère",
+    "layout": "aile|de chimère",
+    "previous": "Wing of the|Wyvern",
+    "sfc_jp": "キメラのつばさ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 212,
+        "JA_text": "@1キメラの;つばさ@",
+        "FR_text": "@0F@2l'@3une @4aile de chimère@5les @6des @7ailes de chimère@8N@9Y@",
+        "JA_sha256": "04cc0b2e263781b5e8446fff9c5cd8f42a741f805000dd57dc6aafa5542dac30",
+        "FR_sha256": "726f78990cbba7aaee53a3cdb9816770a96cdb4974d11bb4e56a6c7d31b78a4a"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "26df4801e8cbdd9b265a57da4fac",
+    "encoded_hex": "424ae29445d6d44a4e30f0ac",
+    "old_sha256": "f2cb4406b746bacb1896b221b37b1b804de09caaf0e4209153856506f47d4fc7",
+    "new_sha256": "c10c50560fbee432d5da5cf08eecb6daa4762e7ba1d660622e5dc02409862fb5",
+    "old_columns": 18,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2243,
+    "position": 1779,
+    "french": "feuille d'Yggdrasil",
+    "layout": "feuille|d'Yggdrasil",
+    "previous": "Leaf of the|World Tree",
+    "sfc_jp": "せかいじゅのは",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 213,
+        "JA_text": "@1せかいじゅ;のは@",
+        "FR_text": "@0F@2la @3une @4feuille ;d'Yggdrasil@5les @6des @7feuilles d'Yggdrasil@8N@9N@",
+        "JA_sha256": "1af8792f2ff6103c2470632e9413ce82c03656a345b028660f278f6dd610202a",
+        "FR_sha256": "9b61c5b8e97fb968395eb717d2325b019414552caf769917928d55c99573660e"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1bd74701e8cbdd9b26ec4d450123f046ac",
+    "encoded_hex": "4746564ae34697457728484845ef544a4dac",
+    "old_sha256": "483b5f59bf111550d9c2cb0eab1490910f8588dcb38f72366595129764a13fd9",
+    "new_sha256": "829b7a2a4e0dae5366abd4e1976e8a2a64ef4f0c13fcce9755e2aee45bbbcc83",
+    "old_columns": 22,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2244,
+    "position": 1780,
+    "french": "rosée d'Yggdrasil",
+    "layout": "rosée|d'Yggdrasil",
+    "previous": "Sap of the|World Tree",
+    "sfc_jp": "せかいじゅのしずく",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 214,
+        "JA_text": "@1せかいじゅ;のしずく@",
+        "FR_text": "@0F@2la fiole de @3une fiole de @4rosée ;d'Yggdrasil@5les fioles de @6des fioles de @7rosée ;d'Yggdrasil@8N@9N@",
+        "JA_sha256": "06670273b48eaa914b7b41ceb62181543995cc7abcd1463ba22a1545e91464a9",
+        "FR_sha256": "e34fc77d6e3ed0b9895b9752bf37fadd3cbfad9085de00d5495c8eea398109b8"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "22425101e8cbdd9a26ec4d450123f046ac",
+    "encoded_hex": "f1542d4695457728484845ef544a4dac",
+    "old_sha256": "16e01f3f1588700acceaea0aa158a44f5527c67e14a38045b060ab6365f81905",
+    "new_sha256": "c02cc067f5af678a4093b27838dd053bf603ed3509a57b7834af36254a83ac6f",
+    "old_columns": 21,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2245,
+    "position": 1781,
+    "french": "botryche lunaire",
+    "layout": "botryche|lunaire",
+    "previous": "Full Moon|Herb",
+    "sfc_jp": "まんげつそう",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 215,
+        "JA_text": "@1まんげつそう@",
+        "FR_text": "@0F@2la @3une @4botryche ;lunaire@5les @6des @7botryches lunaires@8N@9N@",
+        "JA_sha256": "945f8c7999e74c16095c41d46a3b61383716e03b292ed7b9ac1ff64fc8abe6de",
+        "FR_sha256": "1878b3f78854eb2ff44afad4ce50d3553a64e6b484970c6034b8907507279dd3"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "1556e3011ceb4f9917da43ac",
+    "encoded_hex": "435055535ad446984d564f424af0ac",
+    "old_sha256": "70ab7a22595114467ca0a3053177d339558a6cdc96bcdd025c9f7bd95b27b40b",
+    "new_sha256": "9cb9d8c0cd36aa8cdab79ec024eded9d21a13e029bc67a37cefbe71b75312e6a",
+    "old_columns": 14,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2247,
+    "position": 1783,
+    "french": "sables du temps",
+    "layout": "sables|du temps",
+    "previous": "Sands of|Time",
+    "sfc_jp": "ときのすな",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 217,
+        "JA_text": "@1ときのすな@",
+        "FR_text": "@0M@2le flacon de @3le flacon de @4sables du ;temps@5les @6les @7flacons de sables du temps@8N@9N@",
+        "JA_sha256": "da324348fea625f35e5fe7c69c50828b6539e7ffe23b59b30f80933ee6a2e646",
+        "FR_sha256": "980b0398ddf506162332fa0688c40c4ab798b9babb744a772272580cd3231215"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "22cf45f2e898234a4e46ac",
+    "encoded_hex": "544243e254964556cb464e5154ac",
+    "old_sha256": "35054a1b1b70d28c50a949b14fecdaa7e1d104494643d23dd8219a4be0eddca1",
+    "new_sha256": "9ce10dcedaeb836fa60ff1a8431c80d038b180ab0c759fce168409c5746a88d8",
+    "old_columns": 13,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2249,
+    "position": 1785,
+    "french": "graine de Force",
+    "layout": "graine|de Force",
+    "previous": "Strength|Seed",
+    "sfc_jp": "ちからのたね",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 219,
+        "JA_text": "@1ちからのたね@",
+        "FR_text": "@0F@2la @3une @4graine ;de Force@5les @6des @7graines de Force@8N@9N@",
+        "JA_sha256": "2395b5cd4b905ded7c891960dd1c9ca9c561485db21d72fe9ead44253b238560",
+        "FR_sha256": "d574d31bd5bc09cee8e7a240c5d90b8fe5b9bccff92f4690281e6c5008524c22"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "2255f04f48f99822d945ac",
+    "encoded_hex": "48efdf469645d615ecd3ac",
+    "old_sha256": "a33b30cd4cb293c14b02ab77368918c122a6e2568b3d98a1751c16ecb7e6aeb3",
+    "new_sha256": "c423bc8f93a6d33eb4b192db93bc8e7af158e5cb25e849c9fa31e6463768ce47",
+    "old_columns": 13,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2256,
+    "position": 1792,
+    "french": "sève de desmodium",
+    "layout": "sève de|desmodium",
+    "previous": "Water of|Amoru",
+    "sfc_jp": "アモールのみず",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 226,
+        "JA_text": "@1アモールの;みず@",
+        "FR_text": "@0F@2la fiole de @3une fiole de @4sève de ;desmodium@5les fioles de @6des fioles de @7sève de desmodium@8N@9N@",
+        "JA_sha256": "1cb22a552ac4cf47ad618f8f39007595c052ee204b0194ebbde8a4b4c2015062",
+        "FR_sha256": "a291e967873cbb3c3bed0a828cac93a77a998bcf13fed56ec7607bb9714630e9"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "26d2da01e898104eec56ac",
+    "encoded_hex": "543057d645469745db4e50454a564eac",
+    "old_sha256": "bf119b2ac67c0ee7ef8c63ae95ffbf8ebbe143ff80dfde336097f862246de62d",
+    "new_sha256": "43bf476cb3e2739d15a5433dcadd8438d50514bcdd64a8b16d51310aae9fe3ed",
+    "old_columns": 14,
+    "new_columns": 17,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2257,
+    "position": 1793,
+    "french": "produits du village",
+    "layout": "produits|du village",
+    "previous": "Village|Goods",
+    "sfc_jp": "むらのみんげいひん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 227,
+        "JA_text": "@1むらの;みんげいひん@",
+        "FR_text": "@0M@2l'ensemble de @3un ensemble de @4produits ;du village@5les ensembles de @6des ensembles de @7produits du village@8Y@9N@",
+        "JA_sha256": "7869a2d078e552026402d5cb39263c4bc591309d884d8486cba3e295b38a67c8",
+        "FR_sha256": "0bd2d9941c43e5ea4f2a62f3f8e65eb0dfcc22b3a68e227c3ebf8b96874c6b4c"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "254ae34248469716eb4554ac",
+    "encoded_hex": "51f14556e15498455601574ae3424846ac",
+    "old_sha256": "9f3e7bec73ff838dca87c8f13797bd6c002c538a47f7760b9c23b037cdcd1427",
+    "new_sha256": "93ecfeb394b75b12de182c5b6c253e0030cb64b0b8100739150384a0a2946075",
+    "old_columns": 13,
+    "new_columns": 19,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2272,
+    "position": 1808,
+    "french": "clef de l'écluse",
+    "layout": "clef|de l'écluse",
+    "previous": "Watergate|Key",
+    "sfc_jp": "すいもんのカギ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 242,
+        "JA_text": "@1すいもんの;カギ@",
+        "FR_text": "@0F@2la @3une @4clef de ;l'écluse@5les @6des @7clefs de l'écluse@8N@9N@",
+        "JA_sha256": "f1048476a33f50c8303b5f0a2cfdf2b93217dd6301d8c148228bea0ad0debfb7",
+        "FR_sha256": "ac0773c39ea68c6e4e06882be0b36eba46e8329c13a9894ab80cb9f805bc2c74"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "26d2da48d246991a465aac",
+    "encoded_hex": "44e2479445d64d772d444dfa46ac",
+    "old_sha256": "c9fb717352cbc7a5a008cb9f415b11d87a5f811e673810fec3da8d20e11b763f",
+    "new_sha256": "abf8a1615b3e3616c741c9f9c66bbf60ed7122c985fd71f22a01fc974913e709",
+    "old_columns": 13,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2276,
+    "position": 1812,
+    "french": "rênes célestes",
+    "layout": "rênes|célestes",
+    "previous": "Reigns of|Pegasus",
+    "sfc_jp": "てんまのたづな",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 246,
+        "JA_text": "@1てんまの;たづな@",
+        "FR_text": "@0M@2l'ensemble de @3l'ensemble de @4rênes ;célestes@5les ensembles de @6les ensembles de @7rênes célestes@8Y@9N@",
+        "JA_sha256": "77a1aa8993728b8e5242ff5c65cf4377ac23a8505e41b124ec33aa9f12cda722",
+        "FR_sha256": "6bb812304a133d8b93459266d4e79ed3b9c1465f038c0720f615d234e0ffd43a"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "21464a484ff2e8991f4648d1faac",
+    "encoded_hex": "53334fdb95442de2f5dbac",
+    "old_sha256": "d621d813cac557fd18cc826d4d8de5e77a42a718a15666f514dc90963dc2274c",
+    "new_sha256": "278d64d9d12f87e19f592bbae72657442472a2052f09230cfed81bfdcd40af8b",
+    "old_columns": 17,
+    "new_columns": 14,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2278,
+    "position": 1814,
+    "french": "tapis pelucheux",
+    "layout": "tapis|pelucheux",
+    "previous": "Beautiful|Carpet",
+    "sfc_jp": "きれいなじゅうたん",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 248,
+        "JA_text": "@1きれいな;じゅうたん@",
+        "FR_text": "@0M@2le @3un @4tapis ;pelucheux@5les @6des @7tapis pelucheux@8N@9N@",
+        "JA_sha256": "adcf42b27f4b08f051b5ffece3ce69bca1624ecffa2fbefdc837c579685537b0",
+        "FR_sha256": "8603025f4729920940f209095bd8e69596879015ae2875a63f1a908e4b327a06"
+      }
+    ],
+    "review": "Objet japonais SFC et nom DS exact déjà relus ; nom complet conservé. Deux lignes conservées, métadonnée recalculée. Bornes de fenêtre inventaire/équipement observées12/11 ; rendu ciblé des deux menus pour chaque nom requis. Aucun nouvel ID examiné.",
+    "old_encoded_hex": "11d756554a47564d9912d0514655ac",
+    "encoded_hex": "554251e09551464d56d4465659ac",
+    "old_sha256": "7b43e89385ed11117ec4114f7a808675772cca99a45a3411bd3fcf0dbcd20c57",
+    "new_sha256": "23f3330b59a1afd393a87b72ab9f20aac894e67c591289c7d65ac72182a271e3",
+    "old_columns": 16,
+    "new_columns": 15,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2282,
+    "position": 1818,
+    "french": "clef magique",
+    "layout": "clef magique",
+    "previous": "Magic Key",
+    "sfc_jp": "まほうのカギ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 252,
+        "JA_text": "@1まほうのカギ@",
+        "FR_text": "@0F@2la @3une @4clef magique@5les @6des @7clefs magiques@8N@9N@",
+        "JA_sha256": "c5fc69ab6803c66002039aee0a409cbc79ed68d9c1a1149453277cd49f5af5fb",
+        "FR_sha256": "6b21a28a44d04008e3ff84917cba50e9bea59756a4f0db108b1c6ac2743e6d1e"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "1c4248de011a465aac",
+    "encoded_hex": "44e247014e42484a525646ac",
+    "old_sha256": "299c15c4597209141d4ee468e2ef4d3bb67ff14dc7df1bf91e51edfc512a2681",
+    "new_sha256": "0675837a2bc99ee909b1c7c34d857dd38b73af6043643031337fdddce213f551",
+    "old_columns": 9,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  },
+  {
+    "sid": 2283,
+    "position": 1819,
+    "french": "clef suprême",
+    "layout": "clef suprême",
+    "previous": "Final Key",
+    "sfc_jp": "さいごのカギ",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1000000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1000000.mpt",
+        "id": 253,
+        "JA_text": "@1さいごのカギ@",
+        "FR_text": "@0F@2la @3une @4clef suprême@5les @6des @7clefs suprêmes@8N@9N@",
+        "JA_sha256": "bd2a967881d15545daff75b61380e51f4b8aac17fb94bb1a2af47db1232e93d6",
+        "FR_sha256": "aab0a6a61ae6a1473450ab0367ec6da48c69e071f2c57b367fbbd87be8268cd8"
+      }
+    ],
+    "review": "Objet JP SFC et nom DS complet relus. Une ligne conservée, au plus12glyphes : borne mesurée dans les fenêtres équipement, plus étroites que l’inventaire. Aucun saut natif ajouté. Longueur ancienne non utilisée comme capacité de fenêtre.",
+    "old_encoded_hex": "15df424d011a465aac",
+    "encoded_hex": "44e2470154565153334e46ac",
+    "old_sha256": "61780344d50283c65a0c3ef884f66dc7b72a8146a10aeb60776c7307b3bb5261",
+    "new_sha256": "8bf4bca3cb94baf997723b6ef95cc9bcdecc3288fe297703257971ac497d2df7",
+    "old_columns": 9,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION",
+    "natural_validation": false
+  }
+]

@@ -1,0 +1,3052 @@
+{
+  "release": "v0.78",
+  "ROM_sha256": "0a69826c5139f75e8f78db7bdfa6ab5867180c866d09f26a548fdd2050c71a97",
+  "diagnostic_main_redirect": true,
+  "legacy_state_VRAM_font_refreshed_from_ROM": true,
+  "diagnostic_native_mode2_override": false,
+  "natural_battle": false,
+  "production_engine_unchanged": true,
+  "results": [
+    {
+      "id": 70,
+      "fixture_sha256": "72d32c3203a8d2a3bcbc28596ff6f082032b0a63e01f2f36a28597f8438cba6d",
+      "B3_value": 1,
+      "B5_value": 1,
+      "name_SID": 2068,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-1-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-1-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-1-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "ede657693da2a80531f2e2d9c18efd3b9056048eb14fac815885f3e2b724b502"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "9a2d5365e351386fe5ad24277d042bdef16c92ee012bfc0d6f7d17858087d221",
+      "B3_value": 1,
+      "B5_value": 7,
+      "name_SID": 2074,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-7-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-7-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-7-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "e9721c32109d705efc7ddf3456734c54ae79533a76288b2f040f9f13756f2d8c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "7d6ac82eec50aa1327cb32ec1ceeceb7bc2a24572dc31e29f400364e68fe6943",
+      "B3_value": 1,
+      "B5_value": 10,
+      "name_SID": 2077,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-10-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-10-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-10-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "c4bdccdbdd504745da4501185ad2cc1c2961126a6c36d5109a86892364523ebf"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "8fd8c31d8c0c87b70e100e8bb2eb700d4b07b12a5203f623e8c948b90a0a0765",
+      "B3_value": 1,
+      "B5_value": 12,
+      "name_SID": 2079,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-12-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-12-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-12-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "bcde22e18f48815097a7ef39e4180c8f1a357d3f9085a279596f5c7e17e70a34"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "365684569f454e8b3a15240a108c7ae9b8b1d59a5633427b49565d4f736c568e",
+      "B3_value": 1,
+      "B5_value": 13,
+      "name_SID": 2080,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-13-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-13-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-13-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "8e8ce93fe5053ae69f9eca24d117d07690426b49f9a2cb1b88a44efa49b91646"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "6ac759f4d550953efdca50251184fbfdb5a36971f641ae78163218d6a00061b7",
+      "B3_value": 1,
+      "B5_value": 17,
+      "name_SID": 2084,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-17-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-17-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-17-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "a7d76e5b5c228cf99000d540f940d31096931a949aa1c9cbaf0aeaaba0c9fa30"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "a0a38717d25c79d3363548cced46a344c9efb10b4a1f30d15f9ef9e3613b910e",
+      "B3_value": 1,
+      "B5_value": 18,
+      "name_SID": 2085,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-18-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-18-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-18-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "4f2eb3628ba70bf850f73158aafe579e2d4058f4e97ccf4280103c5616c43c63"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "e6ef9ef420390ab6cb81a5e6c7abb695281f12530a3b73cc3db9492ef011abc8",
+      "B3_value": 1,
+      "B5_value": 19,
+      "name_SID": 2086,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-19-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-19-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-19-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "5988a292705adff4390fe325cf86e57dcf674c374733cad7c4d94c87b6ea71c0"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "d8dece6246dd3eb9c1f2164b09092e75d8578ed09d2443f6fa00eb65295e53fe",
+      "B3_value": 1,
+      "B5_value": 20,
+      "name_SID": 2087,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-20-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-20-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-20-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "d66c360da3eab22b39c159f4445fb225a20fadc1b3108cea2f4ebebb8bf33e54"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "c93ac65eacbce3f9162b6a640fb96a07f0b3e33e4361ac46d3252ed70938d76e",
+      "B3_value": 1,
+      "B5_value": 21,
+      "name_SID": 2088,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-21-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-21-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-21-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "6e5f2cd97f1124da14f3b177e2fbf0fde27ff2fbe353ded61e494d5d9d8b095c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "6cf88e268b3d3ae9e8a521678d5b695705c49110d13c0f9b32028dab06e94a8f",
+      "B3_value": 1,
+      "B5_value": 22,
+      "name_SID": 2089,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-22-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-22-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-22-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "bb9dff610c39ae40ecc7b91e4128059986eff06cb3d1cb749b2eb68429838c1d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "1f8840c6f580e29cf2557c03b2920450e7836f7a38d05f57ff7bd44f450b4ad2",
+      "B3_value": 1,
+      "B5_value": 28,
+      "name_SID": 2095,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-28-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-28-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-28-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "792b1998f97ce42da463206dad06d291c370ca509f3fbac10da54f04f28b233f"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "111fd645d5e0b2225029cd9f117e454a834ca27cffbad9df057c5942cc42da07",
+      "B3_value": 1,
+      "B5_value": 30,
+      "name_SID": 2097,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-30-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-30-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-30-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "eaeb437ac6f75ddee1d124073feee0dd3a226db5f5bc7472ef507c561c1a19b5"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "82d6b54638fffd50efd95be4507aba8e22daff191fb94c6e10c509c522185641",
+      "B3_value": 1,
+      "B5_value": 31,
+      "name_SID": 2098,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-31-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-31-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-31-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "85628ed9596bb5badf09b28e7d9a6d90b5f8a5aaa22aabc26c35db82fe70b030"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "94f2068da779213d3928fa7b57958c775cc8475292c8a68b3606dc60e8a8f1d1",
+      "B3_value": 1,
+      "B5_value": 33,
+      "name_SID": 2100,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-33-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-33-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-33-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "d24293e85fc2842887112fff240d8003711630be15194ef2e14e5ac287a0b575"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "7f3d24cb206e42898c413aec32b592f0485b669521913a8f10ab5137359d7413",
+      "B3_value": 1,
+      "B5_value": 38,
+      "name_SID": 2105,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-38-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-38-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-38-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "98d8a3419eedc886801926d88bb7c5f6637ecf9ecc2a6f324dd8742cd819f764"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "b3bbfaff225786e010d27b089c9491ef8c659b0db2f758f87e95042ed36d6701",
+      "B3_value": 1,
+      "B5_value": 43,
+      "name_SID": 2110,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-43-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-43-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-43-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "2816ae565acde1c2d4982e276d3b2e3f438ce05dd6257c148075b690be55c82d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "9ed5453717cea693b1f1c2e4f36a830adf0445e4922e2e6e8d91e32a376270f2",
+      "B3_value": 1,
+      "B5_value": 51,
+      "name_SID": 2118,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-51-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-51-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-51-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "70101e0229727102707cbb115793c05bb96e49f6badd3493b992e80da21ab83d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "790b791781b930a755a1c91882d404e923eb27ac86229c89ef33410d564f7598",
+      "B3_value": 1,
+      "B5_value": 53,
+      "name_SID": 2120,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-53-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-53-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-53-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "9e944a140292a5d97b5980ed08044f2f44296d1b8becca7c49a52d9122968e7f"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "13577db1e6b37bcbfca4d13877d8fdf34cf2e44ec09afea8768416c6db314257",
+      "B3_value": 1,
+      "B5_value": 57,
+      "name_SID": 2124,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-57-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-57-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-57-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "79ab6068c30157538b9fe993492b070a9f434031e4628cf53be22c3c98a35a2d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "6b758963251d616df98e373938e1b6b7d004b2a762fe2546146ceb5dea766810",
+      "B3_value": 1,
+      "B5_value": 58,
+      "name_SID": 2125,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-58-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-58-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-58-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "f2f3b5e31256f5479d1e0618223cde26d7047a1556d054455de389abb4bf016d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "dc21bde7593ee2e6546a4d54463e348202ffeb46f99f249d2dc9a0c12e0de730",
+      "B3_value": 1,
+      "B5_value": 59,
+      "name_SID": 2126,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-59-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-59-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-59-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "80785424111b0a1f7c2f00c11364322864f5e2733c6984b2f2864a8ecd1da5ae"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "c189fbbb48958ae5b7e0ab5e653e3655bb80a12e29a9c3d4774f5ed54e3dbba7",
+      "B3_value": 1,
+      "B5_value": 60,
+      "name_SID": 2127,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-60-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-60-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-60-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "5e352e8bab00e1584cacd929da7ab74b8c48642c14693b3cc65a75a6de9d1522"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "13d89d1e8d05526a5e41281196aaa69a36b753e2ee7a35ffa0d30840e2fc2ae9",
+      "B3_value": 1,
+      "B5_value": 84,
+      "name_SID": 2134,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-84-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-84-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-84-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "52d2ad18eb48723445a65d7a7c7d31fac5ffa9165c84203395399a0c92cc4460"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "5aa90724f86372707579ce841675447715820ec58e5b495dbd1c0b17212ceb8a",
+      "B3_value": 1,
+      "B5_value": 87,
+      "name_SID": 2137,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-87-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-87-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-87-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "f9656e4456ac96e4f7cd17e35eb1c339cead1d24eee5bb4b11b355e6b337c558"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "37967573d665924598980a595b5b7f2ebc344d945e4fcf842ad0a4127d9864f2",
+      "B3_value": 1,
+      "B5_value": 97,
+      "name_SID": 2147,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-97-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-97-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-97-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "a0d1c42bea36f368ff77448a345092706a30c8cc209c2be5a496fd961846541a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "a25d17ba8f0a16ef7966eaaa0dc3dc64f10c8efdbbdef06013fe3498e0c48b3e",
+      "B3_value": 1,
+      "B5_value": 98,
+      "name_SID": 2148,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-98-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-98-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-98-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "3f3b932d9f9232f5346a8242391cdebe253b108fd0e0556b9e03ba87f1c2ebcf"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "24f6be56b25fba5637b52ad437b231a1411327e9091465831fb876d7700efc36",
+      "B3_value": 1,
+      "B5_value": 102,
+      "name_SID": 2152,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-102-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-102-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-102-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "90705477912cc2bd7b8931b4b9c69730c7d63d57870ad43bbb91458e7a224b91"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "3e5be4d613703c8547eebdf069571e081a2421a19ffd23b62688f2e2e556ad69",
+      "B3_value": 1,
+      "B5_value": 106,
+      "name_SID": 2156,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-106-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-106-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-106-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "45fe34efac6a7841278e3dee73aac7a9b4c1f4a421c2b9086733a31d341d2c47"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "cce3f39dc4a38130b4d6cfe668f52752116f828b73b2e37efa3857c4e34a7f35",
+      "B3_value": 1,
+      "B5_value": 109,
+      "name_SID": 2159,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-109-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-109-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-109-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "5f416c1aaa9fd2d1ce89c917abb414ac4629755f9ffb91e8746de21e41872aa0"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "2e75d7a9e9c2dcc4b0cfdf4d352beb57bb8e934421232a21f896c5e630d89dbe",
+      "B3_value": 1,
+      "B5_value": 113,
+      "name_SID": 2163,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-113-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-113-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-113-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "8e6f3c68896b9a5fa703987d9127c586ceae71aa0b04d9bb84c5c3e8a0dfa1a3"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "f6db82692a4902a99d541d7692d2690720fe4d26b56ef844c562f741e984f840",
+      "B3_value": 1,
+      "B5_value": 114,
+      "name_SID": 2164,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-114-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-114-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-114-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "aac8cfcb49ba5599efd913a91bad030f53879a9002b79c2de0293cede9828981"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "15e096a69c116c038c24ca0ac97755c123dfbc31afd3069be5283e810a634dd7",
+      "B3_value": 1,
+      "B5_value": 115,
+      "name_SID": 2165,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-115-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-115-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-115-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "2c66b1c8b82efba4deaa460fc5595c3341bf1452c4375de5f460bb5155906bfc"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "990930b75f65fdb1e8cc20e157c4eb9d7d7c6c850b4b966d8f10ada68dd0c78d",
+      "B3_value": 1,
+      "B5_value": 116,
+      "name_SID": 2166,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-116-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-116-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-116-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "13e7ce83db2031728e44b5d959327af0f6dbeffa3fd984de30806269341e76d3"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "a4a8ecfc7d3ca1fb37484f48c4236c23f390408f30401e280350b7723e798ed3",
+      "B3_value": 1,
+      "B5_value": 117,
+      "name_SID": 2167,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-117-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-117-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-117-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "7d891a206378ef03a517bc9b8ca20c768c75cfc4259aeacc69337c969316af0b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "17399184ae7155ef0acb5f17de08d9e3195e88a892f2ff44dc01485376d6a98c",
+      "B3_value": 1,
+      "B5_value": 118,
+      "name_SID": 2168,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-118-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-118-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-118-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "b7751bc0fa905e8cfa46b00c63b055a7fb64d32445de2bd66a3308371241340a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "32cdf45b6b180d4562b4710021892d1594e3585e9d61eca608dfee7027f5cc94",
+      "B3_value": 1,
+      "B5_value": 120,
+      "name_SID": 2170,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-120-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-120-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-120-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "62050f817d62e880d2d263772f36376b5e2a5cb9ba16725119180fc3537735c3"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "b5d879a476f73e2de08f5b00c1a4b82f016ee0d774c3fa08bef9dc7bc2cba64a",
+      "B3_value": 1,
+      "B5_value": 122,
+      "name_SID": 2172,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-122-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-122-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-122-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "02d1c8946d7a95282c0cf506a6d4c15fcd44f211cbcfeb377748f98af011e98b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "118950f1eef81d752e8df32d0f0c31352fe2b2dd29fa1f7eee9e48b76eab7f14",
+      "B3_value": 1,
+      "B5_value": 124,
+      "name_SID": 2174,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-124-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-124-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-124-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "cd046f16f10f6478fd5c5aa59524f741ffa09ba6a1bdcef95f37432b85d96391"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "04d7e814e0b733d5f966488040b8e223f7e9567f99d58f7727689ad5843c1000",
+      "B3_value": 1,
+      "B5_value": 128,
+      "name_SID": 2178,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-128-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-128-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-128-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "05e152765d81bc1312dc9fe115bca06d609cb48831e1b04b2455201ba44a2682"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "5a5c017b0d03e7edc9a7468cfea4c5ede831e8a8fb7beafbb29854babb0e2bcd",
+      "B3_value": 1,
+      "B5_value": 139,
+      "name_SID": 2180,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-139-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-139-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-139-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "0d359f3d572e80ec69f57023cce02a994cce5397518294abe378805242bfda9a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "47bb811f5c8cfa3d959218054a163eaaa7a43749be4c5bc39d6267e427f9f240",
+      "B3_value": 1,
+      "B5_value": 141,
+      "name_SID": 2182,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-141-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-141-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-141-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "717cfc9bb7f8411e2b7c1fd4fdc38df77e789700c3570e2da9868f115ce6077b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "177a6c813f8cd0399ee38d1c70bc19795d12bdcce7c50d0745d7ebe5336da00a",
+      "B3_value": 1,
+      "B5_value": 144,
+      "name_SID": 2185,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-144-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-144-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-144-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "290b3626eb7e4d7c1467b75c0496308d891eaabe49701bcffb0bbc9e0dbd356a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "6ad6d62185b8645c0dba0d0cd94614a8c8edbb5c9a9c4800227f9c3b5d13b259",
+      "B3_value": 1,
+      "B5_value": 146,
+      "name_SID": 2187,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-146-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-146-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-146-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "4e2d00402bd4714bd447ff2d65fbe7631675a9bd2952035dd0ed70f2c59a513f"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "67b4c8d42ca1daebd278bafe0f8f6fb7886ae19756f01eb7ecf82e3687cae50a",
+      "B3_value": 1,
+      "B5_value": 147,
+      "name_SID": 2188,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-147-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-147-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-147-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "8cf6a934e5f23c5e28a90a4082ef30d7d8afa83fac0f782b1f07178d509ea2f4"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "f8661c93c2f051f4120e7fdf14fc6792322f15d0b2c80c71387b161bdb02da46",
+      "B3_value": 1,
+      "B5_value": 152,
+      "name_SID": 2193,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-152-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-152-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-152-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "744400183e591dd6c6d8c41164c17d811415149df0c742eb4c17f5b55f2beae7"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "c20e714d3916e2189d7a30f4ab0b51dc6d28106d01b331a3e9c742848d8c7d35",
+      "B3_value": 1,
+      "B5_value": 155,
+      "name_SID": 2196,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-155-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-155-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-155-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "ed65e981af7fdd23931e1b135c02008766b90dd8b1b4551fb88e7dd111bc57d3"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "e5a1fe3a8272d01e74e922099ae5de9d2502acff1076bb555d383eb8e214f7d3",
+      "B3_value": 1,
+      "B5_value": 156,
+      "name_SID": 2197,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-156-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-156-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-156-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "0966b9dadd45f3742363965f6ff000dec076a53d4db2434b68c462bc0951a4c9"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "327dd13520b79133c16c7426b751c0ca163bc07543968143ac5ccd42a22704dc",
+      "B3_value": 1,
+      "B5_value": 166,
+      "name_SID": 2201,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-166-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-166-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-166-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "a6c379f122b4fba01fc1f3ae1ccd623e8c6602ebf8f6cc79548dabc9e63cfb5d"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "21b40a43303d68923d72f0e3458975e4229df48bcb6eff991218affa368bebce",
+      "B3_value": 1,
+      "B5_value": 173,
+      "name_SID": 2208,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-173-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-173-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-173-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "ac782b51c5c8d7f047f0de8e3138e6351d53e565d450f78eda58b71af2b6aa19"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "90278f6ef5f983edee524f27b7373fb814c0014ba899d7b8b2d53302a862ce7f",
+      "B3_value": 1,
+      "B5_value": 175,
+      "name_SID": 2210,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-175-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-175-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-175-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "eb58f59e9f7a901dc4428350b9bd496107b09b96de0c208f4d2d7bed0a867a1c"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "a3fd8750dbea2052f8d89755a91be5c0eecfdea325dcfe862085698e64322942",
+      "B3_value": 1,
+      "B5_value": 176,
+      "name_SID": 2211,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-176-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-176-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-176-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "f8ffc7c38c25046fed39a1ae5ee0b93f5530ec1c06d99cf6ba3259d591552a40"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "e586286a0d6be89989f72c3dca6218c4a2c682136b0624a96af7e87c4a276c4f",
+      "B3_value": 1,
+      "B5_value": 178,
+      "name_SID": 2213,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-178-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-178-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-178-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "2aceec3cf73863a1e0689ddbbde0eb9d3438a6c081cbfa32e80ed42f4d79b4b9"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "caa54896ce682ea0271313dd7b9cc15d8b45298aed0ee8f967c315f211b527f2",
+      "B3_value": 1,
+      "B5_value": 179,
+      "name_SID": 2214,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-179-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-179-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-179-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "cb5bc1556b4e2310a5a36edfd4ed5cbdcd4e1e37a0820ee142f5d275104873e0"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "35543e858486969a5e0505190e9a3acb58c63531ad755f80c6cd7cfe0bba5201",
+      "B3_value": 1,
+      "B5_value": 183,
+      "name_SID": 2218,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-183-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-183-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-183-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "7958b64d127ce5d6d9cbef0c935c31b4b5ad14f1138344a3a477ce2d455bb4b4"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "f1fdf61a786ec8d8b7170761508dd42b7130282bfae707e2d0d4c2f723557bc7",
+      "B3_value": 1,
+      "B5_value": 189,
+      "name_SID": 2219,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-189-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-189-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-189-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "8d58d90d2280c1ed0c9b82930e965183915e66aedcb2e0a2c34a5eb29232db4e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "07dae3055009b7f61d6903c5d3938774edd764c5faab3aa288b91632fda7c098",
+      "B3_value": 1,
+      "B5_value": 191,
+      "name_SID": 2221,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-191-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-191-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-191-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "546f79f15372dd1abc2ec8d8cccc51db1f8d4e0c2fa73cd1e06c9a7cf4024d8a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "8f52fd8dcf12f70ef421710a31394078e591de7f44675dac78363e2473c72c9d",
+      "B3_value": 1,
+      "B5_value": 193,
+      "name_SID": 2223,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-193-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-193-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-193-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "79cacd0642e18a850562cc9afe6eeeca62a8ec48a5408eafc56684f57df6dc58"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "f8cf948a896a042a4b6cbbba50e873b22a88fedfc905234c94766a261225109e",
+      "B3_value": 1,
+      "B5_value": 194,
+      "name_SID": 2224,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-194-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-194-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-194-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "45a16f7dc9c37b036448a17313d0fdcd673f4a10709d70d8c9a7d10185c9909e"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "eedd29d55b05ce762e418f8f5795d91847fb649606f5504efbb39f51b63cf75d",
+      "B3_value": 1,
+      "B5_value": 196,
+      "name_SID": 2226,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-196-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-196-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-196-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "2ad67701481401d6a16751d4ea5849a3b50a565ea9a0e14701a93386cb6583f9"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "a36038199aedee2b96497b586040a0db108aee4e366c3acd66bf50508c1c7579",
+      "B3_value": 1,
+      "B5_value": 201,
+      "name_SID": 2231,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-201-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-201-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-201-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "a4c9380b72ed12f05cfe8500727f453e73020e5df2661ef67fc5029b65651858"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "ee64a949791cb2e737199d38527531c353f2b50234cec14b34cea8ee5a62ee69",
+      "B3_value": 1,
+      "B5_value": 202,
+      "name_SID": 2232,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-202-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-202-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-202-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "33aa173ff07034207a8f09367ba9dece6de842039e796d18b36688e46062df3b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "18e9712e10a91e59489cdb3889efc387d543f6435f95190b343ce9c04ee890ea",
+      "B3_value": 1,
+      "B5_value": 203,
+      "name_SID": 2233,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-203-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-203-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-203-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "a1778923814598ed18d47419aec264a0ba2b3dcf723e6ea825178871cd831bb5"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "047dd5e5df552311ab968f3b7376bb2bfd7b104e4d82b7ddd6c137e3817b0517",
+      "B3_value": 1,
+      "B5_value": 205,
+      "name_SID": 2235,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-205-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-205-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-205-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "24c00af299c024f2e2c0272cbbd762271efd56315adb631af7f425b382ba3dbf"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "bca3da70cd074a04a2d54e45b5ff5779803922df56b6b172f1d82c23a663b44a",
+      "B3_value": 1,
+      "B5_value": 206,
+      "name_SID": 2236,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-206-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-206-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-206-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "4951b30fa797259fc5e86c05d9d71bd642b1b944b898720e8af20a6d068c076b"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "18d752c764db74de57300c6dafe3ddb41478212e51569058d4ac9a26c43a5bf7",
+      "B3_value": 1,
+      "B5_value": 208,
+      "name_SID": 2238,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-208-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-208-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-208-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "19a7da0d24b6285c5028af49990a72ed055cedc38b26ace174fa1afd89364455"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "ece9d7402d0f8c302a15aee1ae1148e1aaf67363e4796ba9ac65821ad92e2c00",
+      "B3_value": 1,
+      "B5_value": 210,
+      "name_SID": 2240,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-210-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-210-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-210-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "dc9a17c8dde3fe33d3501a6f5c699babe88a64c7d7bc8e83730b3ffbfd36750a"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "c7ca65b6a4f99fd2bb90a918ad99998ef8f25844a3fc310c74594c21d24add5e",
+      "B3_value": 1,
+      "B5_value": 212,
+      "name_SID": 2242,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-212-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-212-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-212-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "a37dc08d0eda2bb1dabe3ce0704e8ea5b7456afaf02b3350ca0361a2f959a540"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "d2ac4a9911068e010edb331642274a3ca88ba17c960c6c5c9e546184b126eb77",
+      "B3_value": 1,
+      "B5_value": 213,
+      "name_SID": 2243,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-213-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-213-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-213-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "2001ffdf73ad41e792e5efaefe3b32183eaee312dda27d98f9c8b75d8e9830f1"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "016c6d4961cbea05d6108c72ddf659a349840e5c06971e05a3598b37cf21f15c",
+      "B3_value": 1,
+      "B5_value": 214,
+      "name_SID": 2244,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-214-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-214-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-214-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "895a679ebdbb29f191b96e5ab463b5ab4eec6d393074b1aa5af5e17a82219b85"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "64f5c05f138ee6a87f9a4cb38b5b9540611675317c6459979540b497ddd3d627",
+      "B3_value": 1,
+      "B5_value": 215,
+      "name_SID": 2245,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-215-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-215-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-215-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "8215b311f246b4e58d2e9a22a806bbf1f7bb5587e7d2057edde7deb61afeadba"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "a6b24e4acb116452142267e741e0907f6cedc85eff951112b0925a7545dbc2e0",
+      "B3_value": 1,
+      "B5_value": 217,
+      "name_SID": 2247,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-217-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-217-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-217-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "7680b99082dbd3d9658ac21dc21a9cde58fb379f6b72e759ad1be6ccc08b07b4"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "b4cfa584e32af07036e0c4514b8f5c66d553e11928daaf5d9c3ef1db6de58f72",
+      "B3_value": 1,
+      "B5_value": 219,
+      "name_SID": 2249,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-219-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-219-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-219-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "044c4d531840f8f91d934658393816610451b14d040bfacb98771adf87ca48aa"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "7f25ca526f293091e1f626194e3e666abaf8b40a6a508c50758e40ae185d92cd",
+      "B3_value": 1,
+      "B5_value": 226,
+      "name_SID": 2256,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-226-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-226-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-226-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "4ee9c21b18b6716853ef0fa8d0807fac2773e652a9909c0774774a034a9d9d74"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "51c37be555f7307b6800875f3336e7199c3075ebeb50750559fd212334aefe8e",
+      "B3_value": 1,
+      "B5_value": 227,
+      "name_SID": 2257,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-227-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-227-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-227-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "ccbc77dce30bee9fd6655f6e50c443afda7ed98b39907552dd6ea0cb517282e6"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "c48ec1fb377567e5825d05dc11de2acdd96ea21162b08332572c829d89f313f7",
+      "B3_value": 1,
+      "B5_value": 242,
+      "name_SID": 2272,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-242-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-242-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-242-distinct-page2.png",
+          "returned": true,
+          "frame": 344,
+          "sha256": "e814f4db5534803306682c3b3a26c4dde153b8b43680a49e12730824b9df10c7"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "cfd3181b7f35daba3073e4faa4ac786f295c3d1f740f663f03ca4ff9b27ca836",
+      "B3_value": 1,
+      "B5_value": 246,
+      "name_SID": 2276,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-246-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-246-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-246-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "fd47d627754f3d72fbccc9caab352322c58cc44b3340e7a58cab9479e09a8c72"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "06e5a80236053711bb00c91a60a96ea287a45c469c08dac7f36106e9968ac54d",
+      "B3_value": 1,
+      "B5_value": 248,
+      "name_SID": 2278,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-248-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-248-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-248-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "52d332c7d63b820677cfcf7e85f8916e32452469a9e7320f452b108e6400ee46"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "20bf8c4435477fd1e422dc768e70960d7a2be7c5407b33b3be938ca3682593b8",
+      "B3_value": 1,
+      "B5_value": 252,
+      "name_SID": 2282,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-252-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-252-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-252-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "8454c52b1c7c78f05703f08b273ee479e2c35bca242e3d342ac3436a86a85688"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    },
+    {
+      "id": 70,
+      "fixture_sha256": "9eec32685119afeab6be91a1a6ab0256fde5ef3fd27429296fbcdef32d444588",
+      "B3_value": 1,
+      "B5_value": 253,
+      "name_SID": 2283,
+      "B3_player_name_value": 1,
+      "actor_name_SID": "02F1",
+      "target_name_SID": "024F",
+      "commands_exercised": [
+        "B3",
+        "B5"
+      ],
+      "profile": "distinct",
+      "homonym_ordinals": [],
+      "pages": [
+        {
+          "capture": "v078-b5-70-b3-1-b5-253-distinct-page0.png",
+          "returned": false,
+          "frame": 334,
+          "sha256": "030b8f1b7e1e2795fd98aa52036445538ef8389b77fec03cc1ed714dadc06e28"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-253-distinct-page1.png",
+          "returned": false,
+          "frame": 339,
+          "sha256": "bddca9c0bec686bdeb166491fb6eed43bd016225207bf24338083253916182ef"
+        },
+        {
+          "capture": "v078-b5-70-b3-1-b5-253-distinct-page2.png",
+          "returned": true,
+          "frame": 345,
+          "sha256": "9bfca8bd9b377d7dd3bc3b2b73ce31058abc332f46a436a2b05fe7e59ee96e73"
+        }
+      ],
+      "API_returned": true,
+      "manual_visual_review": false
+    }
+  ],
+  "native_API": "C02A29"
+}

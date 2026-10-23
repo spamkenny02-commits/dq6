@@ -1,0 +1,2067 @@
+{
+  "release": "v0.78",
+  "ROM_sha256": "0a69826c5139f75e8f78db7bdfa6ab5867180c866d09f26a548fdd2050c71a97",
+  "pointer_table_offset": 268861,
+  "format": "Bank byte C4, then256 little-endian16bit record offsets. 26byte records, firstword=nameSID. Read by native C45EB8 via C92AB5 indirect lookup.",
+  "parsed_item_IDs": 256,
+  "unique_name_SIDs": 219,
+  "selected_item_name_SIDs": 80,
+  "source_JP_name_field_matches": 256,
+  "linear_SID_minus0813_formula_invalid": true,
+  "examples": {
+    "ID169_SID": "089C",
+    "ID216_SID": "08C6",
+    "ID206_SID": "08BC"
+  },
+  "all_runtime_item_ID_limits_proven": false,
+  "rows": [
+    {
+      "item_id": 0,
+      "record_offset": 262205,
+      "name_SID": 2470,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "8b282f2a88026e91cca16e238d12471567cefacc5ded5103cabfef60df266b49"
+    },
+    {
+      "item_id": 1,
+      "record_offset": 262231,
+      "name_SID": 2068,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1604,
+      "record_sha256": "3e8619a4ed5f62fdbbc594e370aec1e1084b8aced7da4f49c36c9b189742c287"
+    },
+    {
+      "item_id": 2,
+      "record_offset": 262257,
+      "name_SID": 2069,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "ec666d68269a10b256b4796d58b0d3a80ec28a46389dd5fb46d381b1ed7ec5c4"
+    },
+    {
+      "item_id": 3,
+      "record_offset": 262283,
+      "name_SID": 2070,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "d677a4c0591ff1f64439f17bd9d550ccc61bca668166c46362d05062aee85dc1"
+    },
+    {
+      "item_id": 4,
+      "record_offset": 262309,
+      "name_SID": 2071,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "cbc3573ef1cca03a33767334ec2965b39da6c34fc19b71164a4951128b25e655"
+    },
+    {
+      "item_id": 5,
+      "record_offset": 262335,
+      "name_SID": 2072,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a494943a65e7dcdc00d97df39f79404c1bc1c9ed3c807adb1b3757f6a0977f6a"
+    },
+    {
+      "item_id": 6,
+      "record_offset": 262361,
+      "name_SID": 2073,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "571fe60d8198bbe94c0aaa131e1eb4eb6aadb60b658bcbfefc91d5a61eac06c1"
+    },
+    {
+      "item_id": 7,
+      "record_offset": 262387,
+      "name_SID": 2074,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1610,
+      "record_sha256": "e34cc3d20ade748370f48a26321595cfb24b59d8f583ad0bcdb129173be904b7"
+    },
+    {
+      "item_id": 8,
+      "record_offset": 262413,
+      "name_SID": 2075,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "38b3a201ae6933ecd40319914cd6f78fb956d8cfb91e2818bc0455f5cb6e16fd"
+    },
+    {
+      "item_id": 9,
+      "record_offset": 262439,
+      "name_SID": 2076,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "42391f6c8b5083273bd4cbae283294e888470cfeb7d2d7d730bb673047cfad7c"
+    },
+    {
+      "item_id": 10,
+      "record_offset": 262465,
+      "name_SID": 2077,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1613,
+      "record_sha256": "7324cbd0066571ac6e72106c605cb9b35097f14e98c2e271c5a844f6e20d50bb"
+    },
+    {
+      "item_id": 11,
+      "record_offset": 262491,
+      "name_SID": 2078,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "9598be4d062a3b8a50803067cb0ad2ef325f3a9f018ab97ff610297221bd0b21"
+    },
+    {
+      "item_id": 12,
+      "record_offset": 262517,
+      "name_SID": 2079,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1615,
+      "record_sha256": "69abbc692913a0be27dbacdfe02d2bb72a742fd41e3280e3db9919c1b762f0cd"
+    },
+    {
+      "item_id": 13,
+      "record_offset": 262543,
+      "name_SID": 2080,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1616,
+      "record_sha256": "f6024e91870e6eba15eb7c9ac0ab6cbb172e627746262a601fb0451f7f106705"
+    },
+    {
+      "item_id": 14,
+      "record_offset": 262569,
+      "name_SID": 2081,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "da26fb4651fdd2f58667c8272220adf2cc67feefc4c3fbfb61f6c85a7d19943a"
+    },
+    {
+      "item_id": 15,
+      "record_offset": 262595,
+      "name_SID": 2082,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "69ff72a308a8623aac93e90a0c5521fbfa71f587ed0bf3f40ae3199525147064"
+    },
+    {
+      "item_id": 16,
+      "record_offset": 262621,
+      "name_SID": 2083,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "487f95bee601e4f425afb24a2c083c24513278a8644252cd8e2778caa4e53442"
+    },
+    {
+      "item_id": 17,
+      "record_offset": 262647,
+      "name_SID": 2084,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1620,
+      "record_sha256": "15825eda00fd1ea553b51ccc54da70e4c5c74f1d63dbd216c2e1fd7624599c6d"
+    },
+    {
+      "item_id": 18,
+      "record_offset": 262673,
+      "name_SID": 2085,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1621,
+      "record_sha256": "2e3389fc008ef63aa5065978d4fb2cce534795a6954cfc0faa655b2fd96de7fc"
+    },
+    {
+      "item_id": 19,
+      "record_offset": 262699,
+      "name_SID": 2086,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1622,
+      "record_sha256": "b2720542ff31812dcf8ae7452fca32440db971a36d713518b680c2a9fa232418"
+    },
+    {
+      "item_id": 20,
+      "record_offset": 262725,
+      "name_SID": 2087,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1623,
+      "record_sha256": "50d72f55de61ece1aa35f6374ff44550b7af357e6777a7a056617dee06834d5e"
+    },
+    {
+      "item_id": 21,
+      "record_offset": 262751,
+      "name_SID": 2088,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1624,
+      "record_sha256": "d669b0933433e25cefe351ea4f6f329bebb392521c45f213c5d8202b4d623f78"
+    },
+    {
+      "item_id": 22,
+      "record_offset": 262777,
+      "name_SID": 2089,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1625,
+      "record_sha256": "ec286b8ca8c95461345d89ae3e045d4acd4a3630cfae2724657976a2475f1688"
+    },
+    {
+      "item_id": 23,
+      "record_offset": 262803,
+      "name_SID": 2090,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "b1c7b1759593df632e2f64287cc456e9e95817a48107112759c67046bcd474bd"
+    },
+    {
+      "item_id": 24,
+      "record_offset": 262829,
+      "name_SID": 2091,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "de9f7f428d6498af4af95da0e0cb80caebdd5dcf43469eb96905f885e43d2dde"
+    },
+    {
+      "item_id": 25,
+      "record_offset": 262855,
+      "name_SID": 2092,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "bb26688e0894935965ad32504e9ed7be947852b567fe59924b9e4d8dd77eb97c"
+    },
+    {
+      "item_id": 26,
+      "record_offset": 262881,
+      "name_SID": 2093,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "376de4bfffaf0b24765653378ce8a0175cd12918e28914aae4c7623f17992240"
+    },
+    {
+      "item_id": 27,
+      "record_offset": 262907,
+      "name_SID": 2094,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "4f8787d65ebd62c6de9bca3e64ec7b75cf10cb91caf09f03744fa8c22c3cffc9"
+    },
+    {
+      "item_id": 28,
+      "record_offset": 262933,
+      "name_SID": 2095,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1631,
+      "record_sha256": "168663a7b5f55b56419bdd7045d0af16f0efbd52ac0c1702def5fc7fc0b8f457"
+    },
+    {
+      "item_id": 29,
+      "record_offset": 262959,
+      "name_SID": 2096,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "63b3cff116fc66a091cf8f73871e78d7fd481c92367aa0ef079c42ad9afc4944"
+    },
+    {
+      "item_id": 30,
+      "record_offset": 262985,
+      "name_SID": 2097,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1633,
+      "record_sha256": "128c04ece9c7878ce45a66722522d4290d629422e5d26567f5b18da5d38ca65f"
+    },
+    {
+      "item_id": 31,
+      "record_offset": 263011,
+      "name_SID": 2098,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1634,
+      "record_sha256": "a493fd25b97cdfb267cf932c4a94b481e677a754a579176bb4c33cb77c3c6b80"
+    },
+    {
+      "item_id": 32,
+      "record_offset": 263037,
+      "name_SID": 2099,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "56315216ee631f5b3da4731ec3b09fe4c4b98b1b29b7984ee1d81204faaa6901"
+    },
+    {
+      "item_id": 33,
+      "record_offset": 263063,
+      "name_SID": 2100,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1636,
+      "record_sha256": "95eb714bfea0943d77465d70abc54080eff02a5d00dc64a6d3660a8eeca92637"
+    },
+    {
+      "item_id": 34,
+      "record_offset": 263089,
+      "name_SID": 2101,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "26fa8416bce3b78f32e3c901623ca08def4e89f156169c5d052bce9ca8599282"
+    },
+    {
+      "item_id": 35,
+      "record_offset": 263115,
+      "name_SID": 2102,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "7c54e31403e552b029816d3bb09051f3827a8b13f2c3dd1fa307f508de64c3b5"
+    },
+    {
+      "item_id": 36,
+      "record_offset": 263141,
+      "name_SID": 2103,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a746646f63f9d8d8fcdb0fd65618f7b5cc62fe83dc7146815e3e6c801a195f33"
+    },
+    {
+      "item_id": 37,
+      "record_offset": 263167,
+      "name_SID": 2104,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "237eb16865a25bd052d4de466a12f7d0abde5ba575d2e71e9dd45d64ce206f20"
+    },
+    {
+      "item_id": 38,
+      "record_offset": 263193,
+      "name_SID": 2105,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1641,
+      "record_sha256": "d321da931e0b81e341cc0db7a342b0b8c903be2185c405c5673da543d72ce6fd"
+    },
+    {
+      "item_id": 39,
+      "record_offset": 263219,
+      "name_SID": 2106,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "4eb26baa07af84f4ab743dfaf9b52898517f11af895df8b887ec29b44069446f"
+    },
+    {
+      "item_id": 40,
+      "record_offset": 263245,
+      "name_SID": 2107,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "cbb6ade8b2d42dc609deffb1c1779d636505b8e0792b4dc7ac2d26f537574770"
+    },
+    {
+      "item_id": 41,
+      "record_offset": 263271,
+      "name_SID": 2108,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "e9139b1f5ac65a568a118d88a953e61dee17b495e189550798cee94695803063"
+    },
+    {
+      "item_id": 42,
+      "record_offset": 263297,
+      "name_SID": 2109,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "aaea9eb23fbf13cee336b20e44e12de24f3b8e1f7206125f940582c87bfde375"
+    },
+    {
+      "item_id": 43,
+      "record_offset": 263323,
+      "name_SID": 2110,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1646,
+      "record_sha256": "1822fbbb66e509c20e90c212c9998c028d3580af4b3920b6b33521ef5e78d768"
+    },
+    {
+      "item_id": 44,
+      "record_offset": 263349,
+      "name_SID": 2111,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "ec2784908453f4a0462afb1db228859b14830a918c906df70dfd70901e51d020"
+    },
+    {
+      "item_id": 45,
+      "record_offset": 263375,
+      "name_SID": 2112,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "25bd0366cab62fc260b79b82c34ddee1e26bf5e38c2d9e40ecbdd128b954a4c1"
+    },
+    {
+      "item_id": 46,
+      "record_offset": 263401,
+      "name_SID": 2113,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "e7d397b66351c37ae268b757ba74107272819bee154de81f386eb95c8fcca138"
+    },
+    {
+      "item_id": 47,
+      "record_offset": 263427,
+      "name_SID": 2114,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "f5c83f3d5555ac7489f2faeee59f8f6f29020d15223331e1b0e8984ddb87acf5"
+    },
+    {
+      "item_id": 48,
+      "record_offset": 263453,
+      "name_SID": 2115,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "11a5650c9f8dd7fcfa473eb1279a3e2bfab724ce59f450adb7c333600b1bcd05"
+    },
+    {
+      "item_id": 49,
+      "record_offset": 263479,
+      "name_SID": 2116,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a3f29cc3b5ccaa9b48d299abf16575c8030c295b09f6064f396379fa4f057a61"
+    },
+    {
+      "item_id": 50,
+      "record_offset": 263505,
+      "name_SID": 2117,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "c34493f2cb966d5b37109dbb55bcc48edb5570c37bed1bea0bf02b7bd4ed31ce"
+    },
+    {
+      "item_id": 51,
+      "record_offset": 263531,
+      "name_SID": 2118,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1654,
+      "record_sha256": "7e959e8fc540fce250e440e007a5f2c7ad4ffc47736869eb76817299bec56dcb"
+    },
+    {
+      "item_id": 52,
+      "record_offset": 263557,
+      "name_SID": 2119,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "3b78c98492ee5c9d9d4e946f17b8a6dec5f84d05a52cd7c17fed70cc76ebecea"
+    },
+    {
+      "item_id": 53,
+      "record_offset": 263583,
+      "name_SID": 2120,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1656,
+      "record_sha256": "90ca06583b0dc120e5a2a9d33b9606616e2cd15d0a8f72cf43e92913984092a8"
+    },
+    {
+      "item_id": 54,
+      "record_offset": 263609,
+      "name_SID": 2121,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "f6753da899114f7a4dae79226e9f023305b114b1b18f39ad9a62d04e7dbd660d"
+    },
+    {
+      "item_id": 55,
+      "record_offset": 263635,
+      "name_SID": 2122,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "d838e53bc67632746eb0613c190f196546cccdbdcf49cf5896cfd6695f79ec3b"
+    },
+    {
+      "item_id": 56,
+      "record_offset": 263661,
+      "name_SID": 2123,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "1a08dfe18f193c28030b9a8846d358f7e8cbc9a702bfd27ac2429f7fbad049e5"
+    },
+    {
+      "item_id": 57,
+      "record_offset": 263687,
+      "name_SID": 2124,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1660,
+      "record_sha256": "c5620ee7df0ee443037d3d3ebcc45341db587e181bd2b5fd4106f43b878b3eeb"
+    },
+    {
+      "item_id": 58,
+      "record_offset": 263713,
+      "name_SID": 2125,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1661,
+      "record_sha256": "0057f867436a5b90556ec523186396892792f6085731c38108a6e99b5d18aba3"
+    },
+    {
+      "item_id": 59,
+      "record_offset": 263739,
+      "name_SID": 2126,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1662,
+      "record_sha256": "377e525ce33c42fcfd2c125a8914e9f27b4628dec6feeb10dc7eb58af3106672"
+    },
+    {
+      "item_id": 60,
+      "record_offset": 263765,
+      "name_SID": 2127,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1663,
+      "record_sha256": "b660cb616fc8974013ac315b962b0b35afe8f6e7aeb0cceb4e325eb3ac82126c"
+    },
+    {
+      "item_id": 61,
+      "record_offset": 263791,
+      "name_SID": 2128,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "8981e46c715b32346fb27b48d6df35fccc1249aa493f0392221e1f0a571b760d"
+    },
+    {
+      "item_id": 62,
+      "record_offset": 263817,
+      "name_SID": 2129,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "18c3d49cb3245c767a0eb60b439207fd23eea6d94aa14f183fd887f051149856"
+    },
+    {
+      "item_id": 63,
+      "record_offset": 263843,
+      "name_SID": 2130,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "c28f06a7c2432594c61e10406451400ebfcf9aebf46a526c2900feffda5771c5"
+    },
+    {
+      "item_id": 64,
+      "record_offset": 263869,
+      "name_SID": 2131,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "b8c4df6ba33fe10862d97900a02a18b9eb862fc68692c129d64b5720efd2ba40"
+    },
+    {
+      "item_id": 65,
+      "record_offset": 263895,
+      "name_SID": 2131,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "97c4982efb0f608ebb2f2974f323b7f0c36baf594aabe55f65c14d4b15dd4621"
+    },
+    {
+      "item_id": 66,
+      "record_offset": 263921,
+      "name_SID": 2131,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "f968c1e1edfc5e19f26832884ff643d7e53e2650a087fecb9d79564cacf5809e"
+    },
+    {
+      "item_id": 67,
+      "record_offset": 263947,
+      "name_SID": 2080,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1616,
+      "record_sha256": "1551e4816fac9c50ab5836d4c8c0c0a9c67b554dd5042615ae43fc5c8627f28a"
+    },
+    {
+      "item_id": 68,
+      "record_offset": 263973,
+      "name_SID": 2083,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "1170ad85a5d9079077cc88642267f335e8f158725a69ee57853d3b2a227be14c"
+    },
+    {
+      "item_id": 69,
+      "record_offset": 263999,
+      "name_SID": 2084,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1620,
+      "record_sha256": "6826b0a95479af7d0c336be4148f38dcae780274099085ca93036ffaaa06e81e"
+    },
+    {
+      "item_id": 70,
+      "record_offset": 264025,
+      "name_SID": 2085,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1621,
+      "record_sha256": "da31e3a96b69baf156fb8e529be9b96ef5115965543d96f842c1c98d5096ef71"
+    },
+    {
+      "item_id": 71,
+      "record_offset": 264051,
+      "name_SID": 2090,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "aa67abaf917649e9ffa9c0521b336ef616c3d1c5a89ecd2ba47dcc54e5e34c70"
+    },
+    {
+      "item_id": 72,
+      "record_offset": 264077,
+      "name_SID": 2124,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1660,
+      "record_sha256": "a9942de33dca020ee04cedad5a6d0f34e3ffee86cb5c60729bfa9b6490f6ebea"
+    },
+    {
+      "item_id": 73,
+      "record_offset": 264103,
+      "name_SID": 2096,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "9d2f56b71486f087d634ef4013c16981b5b1cecce5c55b5e101b11e1e98025a5"
+    },
+    {
+      "item_id": 74,
+      "record_offset": 264129,
+      "name_SID": 2098,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1634,
+      "record_sha256": "233d04842ded319fcf1e60398d13682104b0bed99e71a0d888e8779f748465c1"
+    },
+    {
+      "item_id": 75,
+      "record_offset": 264155,
+      "name_SID": 2110,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1646,
+      "record_sha256": "c6494aa40f262d1647274763c97f59adcc5ee161fa5bbd8a5b9ab3e5362774e3"
+    },
+    {
+      "item_id": 76,
+      "record_offset": 264181,
+      "name_SID": 2102,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a8ac5638ce9ee1917dc24437f16a2e076f277ac08eb2cf384c305991194cafd4"
+    },
+    {
+      "item_id": 77,
+      "record_offset": 264207,
+      "name_SID": 2122,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "e34ba86ec2e99af0b348961e2940ee83d581b3e2718009fba286667b7eca58d6"
+    },
+    {
+      "item_id": 78,
+      "record_offset": 264233,
+      "name_SID": 2125,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1661,
+      "record_sha256": "78943486a8d4048d89b92ee803d6df2698d2348ce14578181b67dc08d7b9ea8a"
+    },
+    {
+      "item_id": 79,
+      "record_offset": 264259,
+      "name_SID": 2128,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "fcf8b235b30e3afc9017d19a65d87c655bcd22a7476013c535442e7d4bbb321c"
+    },
+    {
+      "item_id": 80,
+      "record_offset": 264285,
+      "name_SID": 2129,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "ab9402e702470f5c0c2782a39224ae54a73ab6d84c318322c07cc6f89127ec47"
+    },
+    {
+      "item_id": 81,
+      "record_offset": 264311,
+      "name_SID": 2089,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1625,
+      "record_sha256": "0a1916b743463c9ddfc9d90b26169e51f79de369d5d36ddbd21b8d5d816e71ec"
+    },
+    {
+      "item_id": 82,
+      "record_offset": 264337,
+      "name_SID": 2132,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "780d314ffba2bff607c0c652fd5e0664808020c10cfaf26aa4afc4bba930da29"
+    },
+    {
+      "item_id": 83,
+      "record_offset": 264363,
+      "name_SID": 2133,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "710c8ee235d90c5f86df2983eb70721054e26dc8a69ce1a21322021205c1324f"
+    },
+    {
+      "item_id": 84,
+      "record_offset": 264389,
+      "name_SID": 2134,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1670,
+      "record_sha256": "8e646dca0bab4519581a6b5369c26976801c73c044aebf43450210d9b6386214"
+    },
+    {
+      "item_id": 85,
+      "record_offset": 264415,
+      "name_SID": 2135,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "6239f2851e694a8d5f2fddaf10967e114548f32487ad6c1d4459a9e6b951fbf5"
+    },
+    {
+      "item_id": 86,
+      "record_offset": 264441,
+      "name_SID": 2136,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "c1db37b7266caece26e524f111bfa2dc99bc3652b51aa4d85e40a79349de1814"
+    },
+    {
+      "item_id": 87,
+      "record_offset": 264467,
+      "name_SID": 2137,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1673,
+      "record_sha256": "ca999b6ecf0dded76780785992b220fd9ae0b33c6eae5d1a2208c472d2c8721e"
+    },
+    {
+      "item_id": 88,
+      "record_offset": 264493,
+      "name_SID": 2138,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "9c0365414b1d2c838ac42c98f51cecac530bf2dbc5034f24726f22c020a5c4fb"
+    },
+    {
+      "item_id": 89,
+      "record_offset": 264519,
+      "name_SID": 2139,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "177e92b1951450f55dac1dc5af739ba0d728afbcb132e4b05cfe8d51b0a9f191"
+    },
+    {
+      "item_id": 90,
+      "record_offset": 264545,
+      "name_SID": 2140,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "1bd82e59a3c2de9ecb5572bb2ac982b17a908981109deae63c657da0bd3aeb1a"
+    },
+    {
+      "item_id": 91,
+      "record_offset": 264571,
+      "name_SID": 2141,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a1929d55f2f275b6cba7c6cb735c48dbf0a0165447b22ca54141e7142db4da9d"
+    },
+    {
+      "item_id": 92,
+      "record_offset": 264597,
+      "name_SID": 2142,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "8a6073fcd621f5a3f5ad335ed272fc11f9b276082d5ab5389f7d3fb6cab83a6e"
+    },
+    {
+      "item_id": 93,
+      "record_offset": 264623,
+      "name_SID": 2143,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "30b8b7a26bd9302a659277b8f2f06293e3a42e7ccd8ff205230b308efce83103"
+    },
+    {
+      "item_id": 94,
+      "record_offset": 264649,
+      "name_SID": 2144,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "69fb9ee78df9d05916b645ad55a547d3f87967b8ad87ee2639d177fd7ecbf47e"
+    },
+    {
+      "item_id": 95,
+      "record_offset": 264675,
+      "name_SID": 2145,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "367488108ab34b13e33aeafc2901329afc93216c713f38ceed592d455cc39913"
+    },
+    {
+      "item_id": 96,
+      "record_offset": 264701,
+      "name_SID": 2146,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "dfa94700af4cc59024c7dc8a57750b4e294f289cdcab0d57df6580ef47e45cc5"
+    },
+    {
+      "item_id": 97,
+      "record_offset": 264727,
+      "name_SID": 2147,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1683,
+      "record_sha256": "e493b018d35363a30896cfb2ba64eef2f1db70346053eb5b5a3b055b899e5e0d"
+    },
+    {
+      "item_id": 98,
+      "record_offset": 264753,
+      "name_SID": 2148,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1684,
+      "record_sha256": "83ceaddc487983204bc1a3a14f6ef11791282ddbf889330a66d73283b82f89ae"
+    },
+    {
+      "item_id": 99,
+      "record_offset": 264779,
+      "name_SID": 2149,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "4a7e053d8bb903ede81393d510fbb26f5fd91abeb9f293a15f9fb5a5d2c6317f"
+    },
+    {
+      "item_id": 100,
+      "record_offset": 264805,
+      "name_SID": 2150,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "d5a0e17f57bc68813318e06326949d763c383c44ed10659bcaa9819496e66004"
+    },
+    {
+      "item_id": 101,
+      "record_offset": 264831,
+      "name_SID": 2151,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "84a052b80b75ca79be4cc0438c3500f1d4bbccdfa5854ade8d68a490e29a42d5"
+    },
+    {
+      "item_id": 102,
+      "record_offset": 264857,
+      "name_SID": 2152,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1688,
+      "record_sha256": "1db734a00c263cd4b0fb7d3d5f78a788c5c37bc46a8e1514594b63512277b4dc"
+    },
+    {
+      "item_id": 103,
+      "record_offset": 264883,
+      "name_SID": 2153,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "655c17668601a5a1961197a362396694c7c3405e47b401450e970ae243ea9f96"
+    },
+    {
+      "item_id": 104,
+      "record_offset": 264909,
+      "name_SID": 2154,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "ed68c7e71d25936d1456603e5359ec2821048fc0eb78557a068b89ff0577c39c"
+    },
+    {
+      "item_id": 105,
+      "record_offset": 264935,
+      "name_SID": 2155,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "f0588ccd0cc73ecd09382cf956f6de70295722fec9b5a3c45c000e9675a65d88"
+    },
+    {
+      "item_id": 106,
+      "record_offset": 264961,
+      "name_SID": 2156,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1692,
+      "record_sha256": "91e74fa9df7d59dca6acce3384c58e1992de7f2a9d4c2fcd2db74953c431d7fc"
+    },
+    {
+      "item_id": 107,
+      "record_offset": 264987,
+      "name_SID": 2157,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "db844e0f37e4c5935ef7f136381fa910201774d2a210dd67f78f7428f7de7075"
+    },
+    {
+      "item_id": 108,
+      "record_offset": 265013,
+      "name_SID": 2158,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "8f5056a49b45db72dc606dd0d0709121a866aa86d9114171ed30e7f65af8e5d9"
+    },
+    {
+      "item_id": 109,
+      "record_offset": 265039,
+      "name_SID": 2159,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1695,
+      "record_sha256": "558533e5d6be444db5c32c73f0bd43d37b6d5e01770a2ce8b6bb131467d8f2c7"
+    },
+    {
+      "item_id": 110,
+      "record_offset": 265065,
+      "name_SID": 2160,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "b1d4ec7bbb6594e64734b1b225c203c20f2df602a54714d256aaea4524e12426"
+    },
+    {
+      "item_id": 111,
+      "record_offset": 265091,
+      "name_SID": 2161,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "6414a9469c9d1d8df36601de455ea813e84f4ed107942ca038a72e0d1b1245e7"
+    },
+    {
+      "item_id": 112,
+      "record_offset": 265117,
+      "name_SID": 2162,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "c0c333c2e50fdaaad5df6e6aa1b21a788a3b67a1e8c6092f15518b38c11d0190"
+    },
+    {
+      "item_id": 113,
+      "record_offset": 265143,
+      "name_SID": 2163,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1699,
+      "record_sha256": "0e324fc4a275ab64cedf60044e47355cf68d1f0bacc1b8903208aee3a1662a98"
+    },
+    {
+      "item_id": 114,
+      "record_offset": 265169,
+      "name_SID": 2164,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1700,
+      "record_sha256": "8952e25b5e6d88b04f4a922efe9bc7842127e0da9cd6c53f6f6a3270c56eae4a"
+    },
+    {
+      "item_id": 115,
+      "record_offset": 265195,
+      "name_SID": 2165,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1701,
+      "record_sha256": "aa52503179380b82345b387f9544ccd9c43d08612df035104b2b296225c64f9e"
+    },
+    {
+      "item_id": 116,
+      "record_offset": 265221,
+      "name_SID": 2166,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1702,
+      "record_sha256": "e1c1a38ca542de2c1062afc583f8b5b619787277fa1bcd79b1ea6e052e36a0b5"
+    },
+    {
+      "item_id": 117,
+      "record_offset": 265247,
+      "name_SID": 2167,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1703,
+      "record_sha256": "b9259bf3b9b55a2dad75e1f947cd65bb2b211a27cba45a80c3b90edd3b14ee32"
+    },
+    {
+      "item_id": 118,
+      "record_offset": 265273,
+      "name_SID": 2168,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1704,
+      "record_sha256": "cd3f054fe145ef4101570dee942abbb17472ef5e85d73054b11f579041aade4c"
+    },
+    {
+      "item_id": 119,
+      "record_offset": 265299,
+      "name_SID": 2169,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a01c661be76d814dbe73369d59c07760147c83572cf686abeffedd08b0aacd14"
+    },
+    {
+      "item_id": 120,
+      "record_offset": 265325,
+      "name_SID": 2170,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1706,
+      "record_sha256": "ab6c929c609e07bf003bdbe577a740dd097d8240409d5990b31a3b28160a03e9"
+    },
+    {
+      "item_id": 121,
+      "record_offset": 265351,
+      "name_SID": 2171,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "d019d618440f36df671dcd20308e767b2ea90b4eeab106fcbad754fdba20cbe8"
+    },
+    {
+      "item_id": 122,
+      "record_offset": 265377,
+      "name_SID": 2172,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1708,
+      "record_sha256": "3ec4a50471acf25d5348b2a7fb7e83752317c592a02ed010d005818268f56915"
+    },
+    {
+      "item_id": 123,
+      "record_offset": 265403,
+      "name_SID": 2173,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "62815d1fb4514fc91b92fa32ec7db506a14d91209102ba5fbf040b27e6563787"
+    },
+    {
+      "item_id": 124,
+      "record_offset": 265429,
+      "name_SID": 2174,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1710,
+      "record_sha256": "a5a81d8399b2eddbc5f5e908e4f200e0899e9098f4f60ca1e117b3c48f9cd7d7"
+    },
+    {
+      "item_id": 125,
+      "record_offset": 265455,
+      "name_SID": 2175,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a945d55d379d6b3134ed39d7bf820f41049c1498b8611de79815c0ff7fae34d4"
+    },
+    {
+      "item_id": 126,
+      "record_offset": 265481,
+      "name_SID": 2176,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "b231ddc17644fc73f0228f0d7e6634315029958ac91802fdfe511af85391d0f7"
+    },
+    {
+      "item_id": 127,
+      "record_offset": 265507,
+      "name_SID": 2177,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "4c1224b179f46a00e7b09b4c376df094676c79f499d3ae818a01e102da1b5d9b"
+    },
+    {
+      "item_id": 128,
+      "record_offset": 265533,
+      "name_SID": 2178,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1714,
+      "record_sha256": "5c796a1ad93d5abb3a75da642b592149ab9578ecc4e8459c7d958652aee29897"
+    },
+    {
+      "item_id": 129,
+      "record_offset": 265559,
+      "name_SID": 2179,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "6a55c65a08bb7269453e30d112641ff5b651a3e1fc6553577ad106ce2819b536"
+    },
+    {
+      "item_id": 130,
+      "record_offset": 265585,
+      "name_SID": 2146,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "b24e493d3781465a9662c956c72fc2cc663d318ce38267d72e7b08f5d948b3cb"
+    },
+    {
+      "item_id": 131,
+      "record_offset": 265611,
+      "name_SID": 2145,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "9c961c5fbc6a1fccf3d8dd7f79a8f370a7a9f4d4cb54dc2623e359faecbd0f23"
+    },
+    {
+      "item_id": 132,
+      "record_offset": 265637,
+      "name_SID": 2149,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "4117879ab50b9be4823394386a7052e67f0e2a2fb2d6074bc316478e49008d94"
+    },
+    {
+      "item_id": 133,
+      "record_offset": 265663,
+      "name_SID": 2150,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "f792f3dc75cda4ac93fb169b5e80620aa3d004adf0d4b1af00e3f039e48e5b63"
+    },
+    {
+      "item_id": 134,
+      "record_offset": 265689,
+      "name_SID": 2151,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "7ec22ca96851509b4efbdae987ea98d04d701ed6bdd9cca1d7bc679e8b15c924"
+    },
+    {
+      "item_id": 135,
+      "record_offset": 265715,
+      "name_SID": 2163,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1699,
+      "record_sha256": "d169713f090022e8c75666885af415bd55dee2d2ca2bc36c14e546cab9df426d"
+    },
+    {
+      "item_id": 136,
+      "record_offset": 265741,
+      "name_SID": 2176,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "d04a768d8fb94f4b076e857cc08b8fd5a4cb0ae8a188966abe224d848a5b4c4b"
+    },
+    {
+      "item_id": 137,
+      "record_offset": 265767,
+      "name_SID": 2160,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "2738471307a5732c65a89ba1d76fbde6feab7d7370593377ed635febca30217d"
+    },
+    {
+      "item_id": 138,
+      "record_offset": 265793,
+      "name_SID": 2152,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1688,
+      "record_sha256": "1c6c57c176482b83a7a18408a372169c1b61ce94011efbbf012340242415358e"
+    },
+    {
+      "item_id": 139,
+      "record_offset": 265819,
+      "name_SID": 2180,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1716,
+      "record_sha256": "6092d69cb8b45409d9c148d9b35fcbf4dc9c10a18d98a70fd815ede492472f9c"
+    },
+    {
+      "item_id": 140,
+      "record_offset": 265845,
+      "name_SID": 2181,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "d5ce6374c219fa49dcc46cab8bb6c9e7158b5492603a15418c732c6a4ed4798d"
+    },
+    {
+      "item_id": 141,
+      "record_offset": 265871,
+      "name_SID": 2182,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1718,
+      "record_sha256": "cb7b03376b1d6a8ae37e152955a4d444d69dadae5e94bc5043334b051467c014"
+    },
+    {
+      "item_id": 142,
+      "record_offset": 265897,
+      "name_SID": 2183,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "e314c60b0ae78fd342777e93b76686fba61d906f4f04c23af2d40c90b4f391eb"
+    },
+    {
+      "item_id": 143,
+      "record_offset": 265923,
+      "name_SID": 2184,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "0ab2a2ef6a8d027a038c483797722e665f23f27fd69b8cc0ced6346dd526a4e3"
+    },
+    {
+      "item_id": 144,
+      "record_offset": 265949,
+      "name_SID": 2185,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1721,
+      "record_sha256": "163ac944e40fc76adf0626fb87df0318144ed8bc4155c8ae1f0f63341eacc384"
+    },
+    {
+      "item_id": 145,
+      "record_offset": 265975,
+      "name_SID": 2186,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "94110218d55466deb411aafcea050b91d27244a3204d851ede2048af216af5ae"
+    },
+    {
+      "item_id": 146,
+      "record_offset": 266001,
+      "name_SID": 2187,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1723,
+      "record_sha256": "ddc55895ad429a8739c2fe10104e3b3eb5d69ff3c55c10817cbee0d79d0f2378"
+    },
+    {
+      "item_id": 147,
+      "record_offset": 266027,
+      "name_SID": 2188,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1724,
+      "record_sha256": "d874bbf9c67ffd0347ace34a7e99a12bdc253a2dc52aa2bf87e2411dc4453287"
+    },
+    {
+      "item_id": 148,
+      "record_offset": 266053,
+      "name_SID": 2189,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a39f8b2298062525773aeb7b9021015b74c73dddb6551676afbf7cc7fc81bf21"
+    },
+    {
+      "item_id": 149,
+      "record_offset": 266079,
+      "name_SID": 2190,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "3ae9e5f3be34c9be345ae6ba200319385b532424dc4f32fe2a434e6d0a416600"
+    },
+    {
+      "item_id": 150,
+      "record_offset": 266105,
+      "name_SID": 2191,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "8aae5674b9d6b192b73ac421c404c5a03d6843c9120f39f1374f9ab91cb79554"
+    },
+    {
+      "item_id": 151,
+      "record_offset": 266131,
+      "name_SID": 2192,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "9a64724f84b8c1d8684b53c8001e97522158291fd68ddd2a931179d154dbed84"
+    },
+    {
+      "item_id": 152,
+      "record_offset": 266157,
+      "name_SID": 2193,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1729,
+      "record_sha256": "8db175a9e03b1d1a869eb4c54c16b38c7b6b342b4ba718f17120d447933c7eea"
+    },
+    {
+      "item_id": 153,
+      "record_offset": 266183,
+      "name_SID": 2194,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "3254a8bea7ea032941e584107c8f12900fa219aa7cb1a601069aaadeab1a72f4"
+    },
+    {
+      "item_id": 154,
+      "record_offset": 266209,
+      "name_SID": 2195,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "ad15373c9893ed8ae2100574b3c77129d0729b7bdf64925043b31d3896b75e17"
+    },
+    {
+      "item_id": 155,
+      "record_offset": 266235,
+      "name_SID": 2196,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1732,
+      "record_sha256": "29024fdc61a8764cb36f8b09998ce1456efcb3785f5fa438104b2cf7751de3ed"
+    },
+    {
+      "item_id": 156,
+      "record_offset": 266261,
+      "name_SID": 2197,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1733,
+      "record_sha256": "6542402c583c65cd1481b89a01d1de378b77a76dc10d22367550091bf94ee120"
+    },
+    {
+      "item_id": 157,
+      "record_offset": 266287,
+      "name_SID": 2184,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "c4476ee231eb3b40b4d0b4d1bfed15ca2b6b3a485b9f3052a3461310a0fe8163"
+    },
+    {
+      "item_id": 158,
+      "record_offset": 266313,
+      "name_SID": 2185,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1721,
+      "record_sha256": "fe0c65a7280b2f33e4d74a4f8530bf35afd59250776706c60e6c3f52629a222c"
+    },
+    {
+      "item_id": 159,
+      "record_offset": 266339,
+      "name_SID": 2188,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1724,
+      "record_sha256": "d2eedc23d983e651c561c344ad535008e3518efc0c49c5cf9074b772132e4a1c"
+    },
+    {
+      "item_id": 160,
+      "record_offset": 266365,
+      "name_SID": 2186,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "c710f1a2ffb5e36b86c02916d0f4eb3bc59ff3b2cae0721a8593a3c8afb21c76"
+    },
+    {
+      "item_id": 161,
+      "record_offset": 266391,
+      "name_SID": 2191,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "70a37b126cf57fe80913d1a0343ff9aaa49375206fa3f32699cd6e0bb86eefbf"
+    },
+    {
+      "item_id": 162,
+      "record_offset": 266417,
+      "name_SID": 2194,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "4f58884771910653c3d867953a2d5d0e3920dc68d854d526b0180f1299b4696b"
+    },
+    {
+      "item_id": 163,
+      "record_offset": 266443,
+      "name_SID": 2198,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "f5d60576c8718efaee6b8096c47e98b41df971af6440a325b499e39b29924d38"
+    },
+    {
+      "item_id": 164,
+      "record_offset": 266469,
+      "name_SID": 2199,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "25e102a53fdb00cec10fd8ad8759a8eafee9764600a756aa4a8f7c382b723254"
+    },
+    {
+      "item_id": 165,
+      "record_offset": 266495,
+      "name_SID": 2200,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "c9bc31946f74825f0d53b9737c9889eee0f41748fae09858cfb43b00a6b7af18"
+    },
+    {
+      "item_id": 166,
+      "record_offset": 266521,
+      "name_SID": 2201,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1737,
+      "record_sha256": "ad9bc917828ae28aca29e0bbb06463bff3d3c24535e3e94d1510b15ad9967958"
+    },
+    {
+      "item_id": 167,
+      "record_offset": 266547,
+      "name_SID": 2202,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "df94fa71c54b4f05c0ee3f3d00348dfe184b959da1f13d28de4c8b18e31ec572"
+    },
+    {
+      "item_id": 168,
+      "record_offset": 266573,
+      "name_SID": 2203,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a13b036f286a47394507301995184dddd7af3b78dfe0d7dfb4f05f7620c84fdd"
+    },
+    {
+      "item_id": 169,
+      "record_offset": 266599,
+      "name_SID": 2204,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "47f7c3dcf1d3616946b935e0786adce14b18b3a6fd3e9aecd20a0da957020870"
+    },
+    {
+      "item_id": 170,
+      "record_offset": 266625,
+      "name_SID": 2205,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "35b7b123673d99a4f8c5da3d9e25d2d3b177b11ab8491fe67c4577d6acb80fe7"
+    },
+    {
+      "item_id": 171,
+      "record_offset": 266651,
+      "name_SID": 2206,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "5ead5d4b12e9bdd763741b06ea25830cae67ad1fe1a2fc7c480008f9ae966c54"
+    },
+    {
+      "item_id": 172,
+      "record_offset": 266677,
+      "name_SID": 2207,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "2d2a3bb7896129bef138b4ad446317de47e58deb724057a8996d3ec1e1111030"
+    },
+    {
+      "item_id": 173,
+      "record_offset": 266703,
+      "name_SID": 2208,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1744,
+      "record_sha256": "7ebd57ab987a6dcd58ad31dacb210a256d3c3eee1edaae010907dc389624947e"
+    },
+    {
+      "item_id": 174,
+      "record_offset": 266729,
+      "name_SID": 2209,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "eae3469a2b40acd1d16422f8e4561729190da95ceff8543a2a3612f18d9b4c9e"
+    },
+    {
+      "item_id": 175,
+      "record_offset": 266755,
+      "name_SID": 2210,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1746,
+      "record_sha256": "883dbf4d3d3699542e85fc35d731ec80389e9a024d35373cd412ee620a4e36b1"
+    },
+    {
+      "item_id": 176,
+      "record_offset": 266781,
+      "name_SID": 2211,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1747,
+      "record_sha256": "92a7616b20e0d09796d6e802022a0fb1770f4f9e883f8fa26813aa75e8f3ab30"
+    },
+    {
+      "item_id": 177,
+      "record_offset": 266807,
+      "name_SID": 2212,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "617839d68c67d4a1c3f39b99b7104539464a1b200ea94ef41dc0e67672e594e2"
+    },
+    {
+      "item_id": 178,
+      "record_offset": 266833,
+      "name_SID": 2213,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1749,
+      "record_sha256": "16131ea457b433cf3ead3d1d8c577793c4f28f90947b22d14b05b81999a442fa"
+    },
+    {
+      "item_id": 179,
+      "record_offset": 266859,
+      "name_SID": 2214,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1750,
+      "record_sha256": "e6bd899c3d34045405b75c94d3dcac4ed321dc62e26e9d3cfe7db81d3b5930eb"
+    },
+    {
+      "item_id": 180,
+      "record_offset": 266885,
+      "name_SID": 2215,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "639ea6742965d9a461edb6dc5330b68f882f5e9093b0e8f163453eeab86185bf"
+    },
+    {
+      "item_id": 181,
+      "record_offset": 266911,
+      "name_SID": 2216,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "fcf853a425383abef6caee59c3ff255c2793f5d7f3d418abe49355bf091e0802"
+    },
+    {
+      "item_id": 182,
+      "record_offset": 266937,
+      "name_SID": 2217,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "dd3b361ec3e42abba3483149049b966d579ed31ab1de3964306c134a49a17286"
+    },
+    {
+      "item_id": 183,
+      "record_offset": 266963,
+      "name_SID": 2218,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1754,
+      "record_sha256": "0eeb2fa7e4fdceece1dae3e9830bdea6175eb9a23b3e28d364935c16211c3c9c"
+    },
+    {
+      "item_id": 184,
+      "record_offset": 266989,
+      "name_SID": 2203,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "9fc4e2996d4fcad27bacd6cc03e89e0066cfab51d9771097691549e3e27d8879"
+    },
+    {
+      "item_id": 185,
+      "record_offset": 267015,
+      "name_SID": 2204,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "20714c5f1c95c6e87bd07e6bd32bd7c835f9ca1cf5f529d61de2c84351071d81"
+    },
+    {
+      "item_id": 186,
+      "record_offset": 267041,
+      "name_SID": 2208,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1744,
+      "record_sha256": "4e66d2ec269791825a05dffde912c8e398b543c2b7c69c2d2d3d594750f0f2a3"
+    },
+    {
+      "item_id": 187,
+      "record_offset": 267067,
+      "name_SID": 2209,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "3fe749584825091d6cbc33c9adfbb177e67ee79fc14824b75fcb50628e208863"
+    },
+    {
+      "item_id": 188,
+      "record_offset": 267093,
+      "name_SID": 2213,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1749,
+      "record_sha256": "5558a6cebbbb3502d57bdb4ccfb820948f8093252f51e069bbef993b7cd55881"
+    },
+    {
+      "item_id": 189,
+      "record_offset": 267119,
+      "name_SID": 2219,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1755,
+      "record_sha256": "6ee9085ebbe5e402678956ea9cd7237c408011521e0d882478951c9ed1e066f8"
+    },
+    {
+      "item_id": 190,
+      "record_offset": 267145,
+      "name_SID": 2220,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "49b2b2bf5ef2d25e8385d0886d7d548d3cbe6e4fab0ce3825a001329f901e010"
+    },
+    {
+      "item_id": 191,
+      "record_offset": 267171,
+      "name_SID": 2221,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1757,
+      "record_sha256": "49fca48b09c2c41611b83eaf6d8628ecad93f0dd24f161a9941e094a1c2f6b8c"
+    },
+    {
+      "item_id": 192,
+      "record_offset": 267197,
+      "name_SID": 2222,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "43f1eb3ed413c448e3dec7f91bb4bd00ecf8abd0a9a7caebc511a7cb0c19544a"
+    },
+    {
+      "item_id": 193,
+      "record_offset": 267223,
+      "name_SID": 2223,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1759,
+      "record_sha256": "c36c3a5f7b41e8edbf41a27846af40d0ac72c69a7712dac01e060d703904d3c5"
+    },
+    {
+      "item_id": 194,
+      "record_offset": 267249,
+      "name_SID": 2224,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1760,
+      "record_sha256": "41726528d9b70cec6f5b8cadfe57e99563b43bceba85f0a53495b6a2b2ddb51d"
+    },
+    {
+      "item_id": 195,
+      "record_offset": 267275,
+      "name_SID": 2225,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "5b98749c20ab220d11e815b539a9b9f418e19ca92dfac694059a9fa673cd0890"
+    },
+    {
+      "item_id": 196,
+      "record_offset": 267301,
+      "name_SID": 2226,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1762,
+      "record_sha256": "e176a54f41a73f1b04a241a938e3151332c1644e3aa063faadc19069ec6e90a7"
+    },
+    {
+      "item_id": 197,
+      "record_offset": 267327,
+      "name_SID": 2227,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "e83056520fa36e104a746296dfe9d0e1c78d6430d49a9ff08a8e336ae28a3356"
+    },
+    {
+      "item_id": 198,
+      "record_offset": 267353,
+      "name_SID": 2228,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "74d145d49b9bf3a773b74e6c566207481e844e840f8055a123ab745e0b359031"
+    },
+    {
+      "item_id": 199,
+      "record_offset": 267379,
+      "name_SID": 2229,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "9b9b1f84c422dc6cccb5ab07a055a9ac95aee63fadd75dad58737c73b2a2387a"
+    },
+    {
+      "item_id": 200,
+      "record_offset": 267405,
+      "name_SID": 2230,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "155d3ed9eaf7f349609fc2aa303e6607b4705d23b4c6f95f27be785329f40a73"
+    },
+    {
+      "item_id": 201,
+      "record_offset": 267431,
+      "name_SID": 2231,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1767,
+      "record_sha256": "f1636f3b731a1c16cef592e831e1bed162134c5203dd73a7edd447c4c9b94ddf"
+    },
+    {
+      "item_id": 202,
+      "record_offset": 267457,
+      "name_SID": 2232,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1768,
+      "record_sha256": "3a82c878ac14866ef12857fed11f73bd6291bc861299c62d2d221836ecf45f94"
+    },
+    {
+      "item_id": 203,
+      "record_offset": 267483,
+      "name_SID": 2233,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1769,
+      "record_sha256": "7c55d7e2436f35ca395702947721d8a1ab436fbe61d6fb7156c9e4d5508208ea"
+    },
+    {
+      "item_id": 204,
+      "record_offset": 267509,
+      "name_SID": 2234,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "ba15ef3a4cfbee7bda48a2769ea5914b384de1ccd894e31cd939f88c2a56e362"
+    },
+    {
+      "item_id": 205,
+      "record_offset": 267535,
+      "name_SID": 2235,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1771,
+      "record_sha256": "5e03bdb81e94cc6bd060a6f4d57afb8bfe32200d0b38b6aa6184a42d9bc99172"
+    },
+    {
+      "item_id": 206,
+      "record_offset": 267561,
+      "name_SID": 2236,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1772,
+      "record_sha256": "fd16e13154d2b01fab0fc917882e6be2718870dbc8649f261229d7acf100a379"
+    },
+    {
+      "item_id": 207,
+      "record_offset": 267587,
+      "name_SID": 2237,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "7619a3d20cc3849fec77df793000b57653faefb4f0e40efbb49cf6ec139e57b2"
+    },
+    {
+      "item_id": 208,
+      "record_offset": 267613,
+      "name_SID": 2238,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1774,
+      "record_sha256": "1beba1b7678dc55f17d2edfc3b77544568fc32ef36c3352a618ff984cbd05ec7"
+    },
+    {
+      "item_id": 209,
+      "record_offset": 267639,
+      "name_SID": 2239,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "b2b930642c61ea48441d86f1c1e705ef6d084213379ee2e16d5c8d0edba6af64"
+    },
+    {
+      "item_id": 210,
+      "record_offset": 267665,
+      "name_SID": 2240,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1776,
+      "record_sha256": "cad2074c4746c5a5a794d428d58abfd79a5ba875214c372e93dfe5f77b032236"
+    },
+    {
+      "item_id": 211,
+      "record_offset": 267691,
+      "name_SID": 2241,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "4af57dd93255721b1b3a897ee826e8175a5c1025210d2a97ade11696aa764313"
+    },
+    {
+      "item_id": 212,
+      "record_offset": 267717,
+      "name_SID": 2242,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1778,
+      "record_sha256": "fcdefbdbdaf79182cd1cd6d9ad7285fb8d24ee55ef965fccd9ec601105ec3ed4"
+    },
+    {
+      "item_id": 213,
+      "record_offset": 267743,
+      "name_SID": 2243,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1779,
+      "record_sha256": "82edec62f360bdc305cb7a9cfdb259a14ff4767c73018a5cd1568fc1bc640be5"
+    },
+    {
+      "item_id": 214,
+      "record_offset": 267769,
+      "name_SID": 2244,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1780,
+      "record_sha256": "054a6089f9b0dfd0c019fa5cf34157896f58fa27b2840a0d6bc6d47afd670ec0"
+    },
+    {
+      "item_id": 215,
+      "record_offset": 267795,
+      "name_SID": 2245,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1781,
+      "record_sha256": "21bf0a45b80c45e06e4e470c163980c9f00c6b46ee941c1f97a524aa20c4259f"
+    },
+    {
+      "item_id": 216,
+      "record_offset": 267821,
+      "name_SID": 2246,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "2c1718a317a38074480dda49c6bd29bb8887c19ac7b57298479c72c9136f2821"
+    },
+    {
+      "item_id": 217,
+      "record_offset": 267847,
+      "name_SID": 2247,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1783,
+      "record_sha256": "463868472d35f684030af27582e281c46faf7d7b58206dea431b492e76fdd4d5"
+    },
+    {
+      "item_id": 218,
+      "record_offset": 267873,
+      "name_SID": 2248,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "0308a6072a0efabb61776c16c59b478c6e0d450b2630d08c2944cb5db65f2ea7"
+    },
+    {
+      "item_id": 219,
+      "record_offset": 267899,
+      "name_SID": 2249,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1785,
+      "record_sha256": "1b2ac4ece29dfe56c542b3379329bf7064dfea7d1296d82af974d2c79f2ba5e3"
+    },
+    {
+      "item_id": 220,
+      "record_offset": 267925,
+      "name_SID": 2250,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "5ede7cdf5bb9e9825da12a3e34024bb9bb8355f301b4db80700ca733bebf1a4c"
+    },
+    {
+      "item_id": 221,
+      "record_offset": 267951,
+      "name_SID": 2251,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "dbb294032d15efc564ce1408f5996e2f7a00168934c07fcb3a2345f586d2da71"
+    },
+    {
+      "item_id": 222,
+      "record_offset": 267977,
+      "name_SID": 2252,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "c680eb8ec058d566abd954f47c5ff13fd6d27a2407c48440387399c7a50c873e"
+    },
+    {
+      "item_id": 223,
+      "record_offset": 268003,
+      "name_SID": 2253,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "210f552b92fb98a817e4b534f6d2ad695660f8d9abf4f7f34d64d08ef1e66232"
+    },
+    {
+      "item_id": 224,
+      "record_offset": 268029,
+      "name_SID": 2254,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "dac9d9232ead8cf889e7311141ab9a5ed790a85289475e1456bc6a55f5b4de12"
+    },
+    {
+      "item_id": 225,
+      "record_offset": 268055,
+      "name_SID": 2255,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "021f064ccc8c4629973c3db81dcd960f4df143bdf8500618d88e8a1354da4667"
+    },
+    {
+      "item_id": 226,
+      "record_offset": 268081,
+      "name_SID": 2256,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1792,
+      "record_sha256": "6402bc30022d2fc6a2fd4c91b47d540b525987217f9cf491787344f3399cbc5a"
+    },
+    {
+      "item_id": 227,
+      "record_offset": 268107,
+      "name_SID": 2257,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1793,
+      "record_sha256": "04a2f4dcbbe2fa57c94b9d2e444f3d23e39a4c7afb38d2bfe0db1b3938cb35c2"
+    },
+    {
+      "item_id": 228,
+      "record_offset": 268133,
+      "name_SID": 2258,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "b4e481022c4082a2b74bbe190cc21728de1ee25e229867052627a9cd9919de4b"
+    },
+    {
+      "item_id": 229,
+      "record_offset": 268159,
+      "name_SID": 2259,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "0b83abff83508d607d5e3e09f58f8ed4ad14fe420411597545079e892b61f1a8"
+    },
+    {
+      "item_id": 230,
+      "record_offset": 268185,
+      "name_SID": 2260,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "934dee68fcea79553fc8d6e588778d3d6a1d54f9725a19a38df940c74d17c53f"
+    },
+    {
+      "item_id": 231,
+      "record_offset": 268211,
+      "name_SID": 2261,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "2b79b69b9f41278fc7ad3859bf49349037b943042b9c32de53ca03eaa14ea3be"
+    },
+    {
+      "item_id": 232,
+      "record_offset": 268237,
+      "name_SID": 2262,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "7817afd5fd86c23d0336207490c4b58fdbf3cdbf919472fc0065c5aaf1762f92"
+    },
+    {
+      "item_id": 233,
+      "record_offset": 268263,
+      "name_SID": 2263,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "34ed13f191cfc0c7f6ae451bef712511c89b94aa46a2f5dfdd8715abd0c10296"
+    },
+    {
+      "item_id": 234,
+      "record_offset": 268289,
+      "name_SID": 2264,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "b33c3dab1181d3e29986ab38f8e379a8a461b9ddca86df7af8bec63a701b218e"
+    },
+    {
+      "item_id": 235,
+      "record_offset": 268315,
+      "name_SID": 2265,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "8ecdd29554014d3984d0ff1eb9516c16969c71aca14c69cf9debe5922fa41427"
+    },
+    {
+      "item_id": 236,
+      "record_offset": 268341,
+      "name_SID": 2266,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "5b2512a985dd3bc7ebb5df60cbfb9fafa6cb0fe5c90b7c8f66692bdf8a23f0bf"
+    },
+    {
+      "item_id": 237,
+      "record_offset": 268367,
+      "name_SID": 2267,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "8cba60a05462ff75429302971493c1c939cadeb8bdd79ec55ff9ec33e6550430"
+    },
+    {
+      "item_id": 238,
+      "record_offset": 268393,
+      "name_SID": 2268,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "202535519b845a2eaeb19534d2ccaf0f0f7860b6219b1bc033d6632e0218ffe5"
+    },
+    {
+      "item_id": 239,
+      "record_offset": 268419,
+      "name_SID": 2269,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "5188ee93c6b245fadf1e16ecea28f9ef1c19b521c5ca73fd81f5397cdc4d0022"
+    },
+    {
+      "item_id": 240,
+      "record_offset": 268445,
+      "name_SID": 2270,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "d7e795f0b0fd8e38bf50abaf925fa589c072dff2cee5b3e740e1bfcca381d833"
+    },
+    {
+      "item_id": 241,
+      "record_offset": 268471,
+      "name_SID": 2271,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "ba2dc41c3556efaef964379b28b887cac1e765dcfae95a053a834940939f2815"
+    },
+    {
+      "item_id": 242,
+      "record_offset": 268497,
+      "name_SID": 2272,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1808,
+      "record_sha256": "69b8e8128c01276ccf62c2fd1d6f417a849dd20d6cf4ab54af83fd6894067aa6"
+    },
+    {
+      "item_id": 243,
+      "record_offset": 268523,
+      "name_SID": 2273,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "e4a93a94e3066154d316776f893bd99ade094d0a28a3dd6bf6390589b9cf2ce3"
+    },
+    {
+      "item_id": 244,
+      "record_offset": 268549,
+      "name_SID": 2274,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a1f13fff003997ddb8574949e9fac0a0452f6dfd8a5d640fae7826b8b5c75b35"
+    },
+    {
+      "item_id": 245,
+      "record_offset": 268575,
+      "name_SID": 2275,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "589ece9d604b4f0eb587952b59b43abd997878aeccff8f6352719eda2e279b7d"
+    },
+    {
+      "item_id": 246,
+      "record_offset": 268601,
+      "name_SID": 2276,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1812,
+      "record_sha256": "03eeb8e1914426c4f83fd2c825de964dc0935442abc566b30ac6cff7744070e2"
+    },
+    {
+      "item_id": 247,
+      "record_offset": 268627,
+      "name_SID": 2277,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "d581d648dcdf65a156fa1ac41dac2e889d0b0ba16416058ef5ea5118e414a44d"
+    },
+    {
+      "item_id": 248,
+      "record_offset": 268653,
+      "name_SID": 2278,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1814,
+      "record_sha256": "af0d8d5f884e42ae73ae0e43921630f63df5403fc5684dc3743872ff52763b6a"
+    },
+    {
+      "item_id": 249,
+      "record_offset": 268679,
+      "name_SID": 2279,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "a0f5439ed67c1e83734ea119c9a82b58fadc7b0671f638f7c4e7ed140c989d49"
+    },
+    {
+      "item_id": 250,
+      "record_offset": 268705,
+      "name_SID": 2280,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "994bc55de66c49d07ccc6faaa81a19d8ef3fd4cf7bf33cc114e0a67e654ba5bb"
+    },
+    {
+      "item_id": 251,
+      "record_offset": 268731,
+      "name_SID": 2281,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "413cbabacb5652ade32d5b4ef854105df4e580b5c34c874bbbe85a480d2b7fd0"
+    },
+    {
+      "item_id": 252,
+      "record_offset": 268757,
+      "name_SID": 2282,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1818,
+      "record_sha256": "2f140aaa4b6b83eabb8879b7d2d503d77270075218e8fbbb6ccae1f384d64541"
+    },
+    {
+      "item_id": 253,
+      "record_offset": 268783,
+      "name_SID": 2283,
+      "original_JP_name_SID_identical": true,
+      "selected_position": 1819,
+      "record_sha256": "726e50b312293e41cbc22eb55493ba5ec242ac63d50a94218cb045a77094e34e"
+    },
+    {
+      "item_id": 254,
+      "record_offset": 268809,
+      "name_SID": 2284,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "ad5c97143456c7ecdd3cf861b339e13dedb55b9f615ebefb8694c94baed6f713"
+    },
+    {
+      "item_id": 255,
+      "record_offset": 268835,
+      "name_SID": 2285,
+      "original_JP_name_SID_identical": true,
+      "selected_position": null,
+      "record_sha256": "09862389b3c691c20127341f97702949ded500a00862af366784f43f090c5b59"
+    }
+  ]
+}

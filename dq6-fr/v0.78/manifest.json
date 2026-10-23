@@ -1,0 +1,222 @@
+{
+  "release": "v0.78",
+  "baseline_commit": "fbcd4fc0d9b2948072c365ae9125c84451d8edc1",
+  "files": {
+    "README.md": {
+      "size": 6005,
+      "sha256": "e01090037a5d498f8f6d4e9e88e0deaa891f7e566dd52e904ff071803fbf935f"
+    },
+    "REPRISE-AUTOMATIQUE.md": {
+      "size": 67547,
+      "sha256": "d61f2c668e8ae6c016950885b1c37e212fd3fcf0b4bdf4eb6f1c28db3c294410"
+    },
+    "dq6-fr/v0.78/README.md": {
+      "size": 4319,
+      "sha256": "aef204a5a5751285063e8e1c42794acee4d7444eb0c49020d307e479a50ddc9a"
+    },
+    "dq6-fr/v0.78/audit-B5-layout.json": {
+      "size": 6824,
+      "sha256": "067dd912d272b043bfd5a09c6183bbe1502968b27e4c7306c9cb0fa6e8d9699d"
+    },
+    "dq6-fr/v0.78/audit-item-bindings.json": {
+      "size": 66824,
+      "sha256": "7d7a4ed68ae689cbd76d94425b5efa9203705fdf67536fa92473301494481a3b"
+    },
+    "dq6-fr/v0.78/battle-layout.json": {
+      "size": 5472,
+      "sha256": "8c19230fffe2c2da5f55185d9305e670822c0f7da066c5a323dea1cc2232b327"
+    },
+    "dq6-fr/v0.78/blocages-restants.json": {
+      "size": 603186,
+      "sha256": "83be246b21e14b606a527d4dcfd2a92dd49b3046033e42832173d19bd1de122e"
+    },
+    "dq6-fr/v0.78/build-report.json": {
+      "size": 3464,
+      "sha256": "bdd802635ae63fd084e3f20d467868d01980f14329476a24e701bc7abd363d6a"
+    },
+    "dq6-fr/v0.78/build.py": {
+      "size": 1232,
+      "sha256": "c1a64a3514bf96f99c80cad82d895009a0fd078e08b665985ddfb692654163b5"
+    },
+    "dq6-fr/v0.78/bus_layout.py": {
+      "size": 1643,
+      "sha256": "5fbd896da1a5b771686b789db9b0f618ac1f0c7a86092134b9b90fbf638e34cb"
+    },
+    "dq6-fr/v0.78/common.py": {
+      "size": 6441,
+      "sha256": "bf30783f71ed6b69bc57c1ff8f52640fbb631a913a9ec06a1a8655caeba3243d"
+    },
+    "dq6-fr/v0.78/delta-lisible.json": {
+      "size": 84700,
+      "sha256": "42cef8295b4c609a609cc93b8d0144f0271104e5adf35bbe80160feb630b07e0"
+    },
+    "dq6-fr/v0.78/diagnostics-rejetes/qa-native-B5.json": {
+      "size": 94882,
+      "sha256": "8d03139eb10f261d224daa27c7a4664f580a3a136545922b0ecf30def2fba193"
+    },
+    "dq6-fr/v0.78/emulator_B5.py": {
+      "size": 6620,
+      "sha256": "a185a04bc9c254c884e7c4b994a940fc47109b7b6585b172fe2c19e1b9535f76"
+    },
+    "dq6-fr/v0.78/emulator_battle_probe.py": {
+      "size": 5679,
+      "sha256": "ebd5babb250e7324025b280361dbd559d3630cf9039163e14585f338b3406b8f"
+    },
+    "dq6-fr/v0.78/emulator_boot.py": {
+      "size": 2120,
+      "sha256": "0d7b9d9c062ebfb2c8ddb7ea56dead0fd1b751bf4015d315856679f076e41d6f"
+    },
+    "dq6-fr/v0.78/emulator_consumers.py": {
+      "size": 5231,
+      "sha256": "582aeb13e11d3ee5b0ba672e5604bc302f627c05b7de19a4312abae1eb59520e"
+    },
+    "dq6-fr/v0.78/emulator_menus.py": {
+      "size": 5204,
+      "sha256": "002ecd30c871d1e2966a8d85893c27c6d875b9882bbce7b5eed7cff54215a3fa"
+    },
+    "dq6-fr/v0.78/emulator_names_probe.py": {
+      "size": 4325,
+      "sha256": "fcdffac44579f9fde49260b06e21a2b3b95f8edf93fa39fe3a040bd07f9b4b42"
+    },
+    "dq6-fr/v0.78/emulator_render_names.py": {
+      "size": 3766,
+      "sha256": "71a262d08d898ae6c53edffb755c276aaf1eca78b7c9ac0b4d2a039604dfbf79"
+    },
+    "dq6-fr/v0.78/inventaire-noms-v078.json": {
+      "size": 8638,
+      "sha256": "21cfff703d7aeeceea1dee0eecba7889e1d91e8aa3057c558fe0ad1b0e6124f4"
+    },
+    "dq6-fr/v0.78/inventory_names.py": {
+      "size": 6800,
+      "sha256": "5415b5415602c6c3670e7346b7d3adaed5903bc7a5471753b67f4d192df0109b"
+    },
+    "dq6-fr/v0.78/preparations-resolues.json": {
+      "size": 140946,
+      "sha256": "3b0c21c5398d4e4bd8bca5c82f633bd10ac8042f806569aa17dca6bb7d9a6240"
+    },
+    "dq6-fr/v0.78/prepare.py": {
+      "size": 2595,
+      "sha256": "84bd7e565486c7d7f9b14650e843a769c52a59f4874de3c0c250e86d3b5e9b7d"
+    },
+    "dq6-fr/v0.78/prologue-inputs.json": {
+      "size": 79014,
+      "sha256": "a58da6d4374d6e957a1ece239f021e3d1e29892148125ba5c3e76441100558cd"
+    },
+    "dq6-fr/v0.78/qa-B5-pixel-match.json": {
+      "size": 26139,
+      "sha256": "de863ef1e130749b3ca3a9de6e8dacfa75e1ec5fe42b3db241e457bf3f55c509"
+    },
+    "dq6-fr/v0.78/qa-break-negative.json": {
+      "size": 265,
+      "sha256": "b69c2164416092602c695b19b6e4f2d6a9a3af7b23bccfff352681fe126e8948"
+    },
+    "dq6-fr/v0.78/qa-bus-boot.json": {
+      "size": 927,
+      "sha256": "0b75b3dfc22661add6417ceb38f4abcdf1d217fc46e7499731764052e1a57a03"
+    },
+    "dq6-fr/v0.78/qa-name-consumers-0.json": {
+      "size": 25488,
+      "sha256": "c5c4783340637c53113e5df093e3b2928b27863db1eafd4fd5d0a7295373c418"
+    },
+    "dq6-fr/v0.78/qa-name-consumers-1.json": {
+      "size": 25790,
+      "sha256": "185653baa82322ad0c3298e799170689a9e95def797597e36c432e7258955982"
+    },
+    "dq6-fr/v0.78/qa-name-consumers-2.json": {
+      "size": 25731,
+      "sha256": "c14d395ccfaa157a08b9e94955258a7519133ff42e609b40248ec99b6e20fc04"
+    },
+    "dq6-fr/v0.78/qa-name-consumers-3.json": {
+      "size": 12692,
+      "sha256": "128b357f1eb5a7f659999d1831bd5013ba3924ff845bc0d636a31ad04c4eef87"
+    },
+    "dq6-fr/v0.78/qa-name-render.json": {
+      "size": 30697,
+      "sha256": "604692b21a3c82dd9c38ef2d9bf263270df120f289016c53b67d603c98a22258"
+    },
+    "dq6-fr/v0.78/qa-names-native-negative.json": {
+      "size": 1155,
+      "sha256": "80493c7b6f30d0fed8907d3fdd722c02101c15c745c239a3a6e70507ee0f6721"
+    },
+    "dq6-fr/v0.78/qa-names-native-reader.json": {
+      "size": 1146,
+      "sha256": "8521ccd7d63002f1908abb0800041f4ef4e086f5bde73116a3b52fe2c642f926"
+    },
+    "dq6-fr/v0.78/qa-native-B5-all-objects.json": {
+      "size": 94718,
+      "sha256": "2307616d17e87ab6a359fa7cd61d7825d9afdf9d6f6d38611d190ea559c5754b"
+    },
+    "dq6-fr/v0.78/qa-native-B5-compact.json": {
+      "size": 17005,
+      "sha256": "9161539dd240a834fd860f026eb60205785f32a195266dff599188bdee66f1b5"
+    },
+    "dq6-fr/v0.78/qa-native-B5-ten-messages.json": {
+      "size": 12660,
+      "sha256": "801c11be5eaa96f657d8d5f66eb7033f18f739606fa98af0cde7bd8e4b9ca702"
+    },
+    "dq6-fr/v0.78/qa-native-menus.json": {
+      "size": 63674,
+      "sha256": "d3b74a5f9f1b48c1cfea40d1d015ae9a4a2628c2b9f699784e2d255da5414b3e"
+    },
+    "dq6-fr/v0.78/qa-native-pointer-negative.json": {
+      "size": 304,
+      "sha256": "9568cd8013a2809a38b25e1d4ccf0f14ae1f4378ffe6d8bb57218552dfe867a2"
+    },
+    "dq6-fr/v0.78/qa-native-reader.json": {
+      "size": 296,
+      "sha256": "5394e09e446b2fdd30b438802c5cc38ab1515344c7d3222560cd4c3a02e517f9"
+    },
+    "dq6-fr/v0.78/qa-prologue-replay.json": {
+      "size": 666,
+      "sha256": "e9cc2c02cad4b05f8db679d0982babd62fde71a1d57ce014a93463941c610614"
+    },
+    "dq6-fr/v0.78/qa-sources.json": {
+      "size": 496,
+      "sha256": "732708832c531c44c9232c15fa60f4105f27e9d12b670f5f3f9587966a673aa7"
+    },
+    "dq6-fr/v0.78/qa-visual-review.json": {
+      "size": 1494,
+      "sha256": "e4bc2f168b1d666b50c36748190821a7206d9b3f66ddc944640774e651bec9dd"
+    },
+    "dq6-fr/v0.78/replay_prologue.py": {
+      "size": 1607,
+      "sha256": "a3730b77a3055e3a0fecc6f22d24a9b53bec0bffc028a0b18e9cefeb27732536"
+    },
+    "dq6-fr/v0.78/revisions-francaises-isolees.json": {
+      "size": 6998,
+      "sha256": "f8ed5f1d47c7b572c019fc493b6f78465ae724b02a0887df477174f5da7c03fe"
+    },
+    "dq6-fr/v0.78/revue-table-v078.json": {
+      "size": 116576,
+      "sha256": "25db3eba91ace3c0de509e166c95d1d9accf4a5de967bd6acdc17ced6033883e"
+    },
+    "dq6-fr/v0.78/selection.json": {
+      "size": 141495,
+      "sha256": "564dfc5d9041d121df0df97f541a0e2271c4b480537e89f61917a09ff72d4176"
+    },
+    "dq6-fr/v0.78/test_break_negative.py": {
+      "size": 1004,
+      "sha256": "53d106c03769e259507a2f830b92e44499ee20742b38c5ba736ce63857ce292e"
+    },
+    "dq6-fr/v0.78/verification.json": {
+      "size": 2154,
+      "sha256": "53e533a72f6cdbdff61a952677ef5fafacb62508dcbd128d84942ecd9805ca4c"
+    },
+    "dq6-fr/v0.78/verify.py": {
+      "size": 4350,
+      "sha256": "bee2aa0dafa69185b7405a6c94a5709ce8f3c5813c8090a923f10e6377de1ec9"
+    },
+    "dq6-fr/v0.78/verify_B5_pixels.py": {
+      "size": 1766,
+      "sha256": "94c405e1e3dfc98fde558d0db013e57e7095769eacab78e1ea13be0f87ec8fa8"
+    },
+    "etat-projet.json": {
+      "size": 13771,
+      "sha256": "ae55269c4c14f9c3d5c9e9b914d37b4e737fdda581fb3cbe15ebe045e32c66ea"
+    },
+    "patches/DQVI-FR-DS-v0.78-BASE-JP-PARTIEL.bps": {
+      "size": 677213,
+      "sha256": "1407863ca0e7c53d9a9e4b4fe65d38b3ad7a845eaef919fe35ef6ce5752e0b14"
+    }
+  }
+}

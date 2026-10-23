@@ -1,5 +1,5 @@
 {
-  "release": "v0.77",
+  "release": "v0.78",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
@@ -18,7 +18,7 @@
     ],
     "release_lot_additions": 0
   },
-  "baseline": "v0.76",
+  "baseline": "v0.77",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 2,
@@ -26,36 +26,36 @@
     "draft_main": 0,
     "boundary_audit": 0,
     "separate_battle": 2,
-    "separate_names": 491,
+    "separate_names": 405,
     "separate_battle_spell_combinations": 0
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
-    "inventory_version": "v0.77",
+    "inventory_version": "v0.78",
     "runtime_sids": 2512,
     "unique_entries": 2048,
     "aliases": 464,
     "inserted_place_total": 31,
     "additional_character_names_inserted": 3,
     "spell_action_labels_inserted": 20,
-    "new_this_pass": 5,
+    "new_this_pass": 87,
     "prepared_places": 2,
-    "confirmed_french_entries": 280,
+    "confirmed_french_entries": 367,
     "native_grammar_helpers_adapted": 4,
     "prepared_character_names": 0,
     "new_prepared_this_checkpoint": 0,
-    "inventory": "dq6-fr/v0.77/inventaire-noms-v077.json",
+    "inventory": "dq6-fr/v0.78/inventaire-noms-v078.json",
     "explicit_identifier_placeholders": 344,
-    "physical_other_texts_unqualified": 1332,
+    "physical_other_texts_unqualified": 1246,
     "empty_entries_to_qualify": 41,
-    "DS_exact_French_candidates_not_qualified": 8,
+    "DS_exact_French_candidates_not_qualified": 7,
     "inherited_tail_consumed_bytes_to_audit": 0,
     "storage_adaptations_this_pass": 0,
     "restored_preserved_tail_bytes": 2050,
     "active_name_pool_offset": 8056832,
-    "active_name_pool_bytes": 14124,
+    "active_name_pool_bytes": 14221,
     "name_allocation_limit": 8095491,
-    "name_reader": "dq6-fr/v0.77/common.py::names",
+    "name_reader": "dq6-fr/v0.78/common.py::names",
     "table_batches": {
       "physical_positions_examined": 2048,
       "total": 2048,
@@ -104,18 +104,18 @@
       "all_positions_examined": true,
       "all_positions_semantically_validated": false
     },
-    "new_linguistic_translations_this_pass": 5,
-    "existing_french_revisions_this_pass": 0,
+    "new_linguistic_translations_this_pass": 81,
+    "existing_french_revisions_this_pass": 6,
     "structural_dynamic_WRAM_slots": 35,
     "static_empty_reserve": 1,
     "opaque_JP_source_VF_empty_slots": 6,
     "parsed_VF_SIDs": 2512,
     "runtime_entry_count_proven": false,
-    "prepared_names_resolved_this_pass": 5
+    "prepared_names_resolved_this_pass": 86
   },
   "rom_bytes": 8388608,
-  "notes": "3 glyphes natifs ajoutés avec audit isolé ;5 propositions existantes insérées.280FRqualifiés/2048 ;491propositions noms restent noninsérées. Pas de nouvelle préparation ni nouvelle relecture des positions déjà examinées.",
-  "next": "Résoudre largeurs naturelles,compositions/genres etréférences restantes des491propositions. Les glyphes ô/ç/É sont disponibles via le codec v077 ;œ etles consommateurs hardcodés restent àauditer. Ne pas confondre le recul des réserves glyphes etune validation des fenêtres. Recherche globale,relecture exhaustive etaudits hérités ouverts.",
+  "notes": "87 libellés modifiés : 81 nouvelles traductions, 6 révisions FR. 80 objets et 7 commandes. 86 propositions résolues, 405 restantes. 10 corrections de sauts de ligne B5 isolées. Pas de nouveau lot de 400 ni relecture exhaustive.",
+  "next": "Résoudre la pagination de C02A4F et ses appels naturels ; puis les 405 propositions restantes, autres ressources, relecture exhaustive et audits hérités. Aucun achèvement global déclaré.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -146,7 +146,7 @@
   ],
   "proofreading": {
     "exhaustive_pass_completed": false,
-    "reviewed_this_translation_pass": 5,
+    "reviewed_this_translation_pass": 87,
     "translation_reviews_not_a_full_reread": true,
     "full_main_reread_recorded": 0,
     "new_battle_integrated_from_review": 0,
@@ -168,10 +168,10 @@
     "new_prepared_technical_labels": 0,
     "storage_adaptations_checked_this_checkpoint": 0,
     "separate_place_names_reviewed_this_checkpoint": 0,
-    "table_positions_examined": 5,
-    "table_new_translations": 5,
-    "table_existing_french_source_reviewed": 0,
-    "table_existing_french_revisions": 0,
+    "table_positions_examined": 87,
+    "table_new_translations": 81,
+    "table_existing_french_source_reviewed": 6,
+    "table_existing_french_revisions": 6,
     "separate_existing_proposals_reread_this_pass": 0,
     "separate_proposals_registry": [],
     "separate_proposals_next_position": null,
@@ -695,7 +695,19 @@
     "bounded_JP_entries": 603,
     "bounded_JP_text_entries": 599,
     "source_JP_outside_pool_audit": 5,
-    "source_boundary_report": "dq6-fr/v0.63/audit-frontiere-source.json"
+    "source_boundary_report": "dq6-fr/v0.63/audit-frontiere-source.json",
+    "layout_revisions_this_checkpoint": [
+      70,
+      71,
+      72,
+      73,
+      331,
+      366,
+      367,
+      433,
+      434,
+      435
+    ]
   },
   "checkpoint": "extension-native-3-glyphes-et5-noms",
   "blocking_inherited_name_tail": {
@@ -706,5 +718,9 @@
     "resolved": true,
     "resolution_scope": "Overlap repaired,2050 original bytes preserved in both mirrors. Tail semantics/other natural consumers not claimed identified.",
     "restored_prefix_bytes": 7
+  },
+  "new_open_reserve_v078": {
+    "compact_B5_API": "C02A4F texte incomplet dans le diagnostic, voir qa-native-B5-compact.json",
+    "all_natural_battle_paths": false
   }
 }

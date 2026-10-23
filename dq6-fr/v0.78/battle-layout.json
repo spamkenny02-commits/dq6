@@ -1,0 +1,102 @@
+[
+  {
+    "id": 70,
+    "before": "{BC}{B3} vole l'objet {B5} !{AC}",
+    "after": "{BC}{B3} vole l'objet{AD}{B5} !{AC}",
+    "old_encoded_hex": "bcb30157504d46014d7750434b465501b5017aac",
+    "encoded_hex": "bcb30157504d46014d7750434b4655adb5017aac",
+    "old_sha256": "053623acea3ca4b7dfd140a36905179568354c149a08a259a1239765105521dc",
+    "new_sha256": "afdf2ce4722e69bf3e776d0c620e179417e649d2f38fb59c16fa94dddca18ada",
+    "text_and_variables_preserved_ignoring_linebreaks": true
+  },
+  {
+    "id": 71,
+    "before": "{B7} ouvre le coffre au trésor !{B1} Il contient {B5} !{AC}",
+    "after": "{B7} ouvre le coffre au trésor !{B1} Il contient{AD}{B5} !{AC}",
+    "old_encoded_hex": "b7015056575346014d46014450474753460142560155532d545053017ab101184d0144504f554a464f5501b5017aac",
+    "encoded_hex": "b7015056575346014d46014450474753460142560155532d545053017ab101184d0144504f554a464f55adb5017aac",
+    "old_sha256": "c3a78d6a1b810aaef3fc60675ba0b715c36b7ee00ccf95c2a1a23cde95805bdd",
+    "new_sha256": "ea2ec1c6b5f55ebaef92eefa216576f222ab2430866600a3c217f6989bb293d4",
+    "text_and_variables_preserved_ignoring_linebreaks": true
+  },
+  {
+    "id": 72,
+    "before": "{B2} obtient {B5} !{AC}",
+    "after": "{B2} obtient{AD}{B5} !{AC}",
+    "old_encoded_hex": "b2015043554a464f5501b5017aac",
+    "encoded_hex": "b2015043554a464f55adb5017aac",
+    "old_sha256": "3d04983044901fa18223b077d729b8e38a1a3345c42b9361f78161904060a1a1",
+    "new_sha256": "25f0b59f174311cb8902af44bc8ac1b39538a2516fee5c12e4b74ecf403872b0",
+    "text_and_variables_preserved_ignoring_linebreaks": true
+  },
+  {
+    "id": 73,
+    "before": "{B5} rejoint le sac !{AC}",
+    "after": "{B5}{AD}rejoint le sac !{AC}",
+    "old_encoded_hex": "b50153464b504a4f55014d4601544244017aac",
+    "encoded_hex": "b5ad53464b504a4f55014d4601544244017aac",
+    "old_sha256": "b9ede5de2c10f32e9f1a1c099e9ecef416ce2c537f02945a1c34233daada9ff2",
+    "new_sha256": "6040e0ce86337863f12fe63ea6afc9884e2bfe651f408037ab7f261aa504b829",
+    "text_and_variables_preserved_ignoring_linebreaks": true
+  },
+  {
+    "id": 331,
+    "before": "{BC}{B7} essaie d'utiliser l'objet {B5} !{B1}{AC}",
+    "after": "{BC}{B7} essaie d'utiliser l'objet{AD}{B5} !{B1}{AC}",
+    "old_encoded_hex": "bcb701465454424a4601457756554a4d4a544653014d7750434b465501b5017ab1ac",
+    "encoded_hex": "bcb701465454424a4601457756554a4d4a544653014d7750434b4655adb5017ab1ac",
+    "old_sha256": "d8eb969e25faa927b83e1030efcf54444c0ea34a71b85b53dc666be8369c1638",
+    "new_sha256": "22c7b818ddb8bd614c35954797206f9acd2d98a31ace6722e6c6ce4dce3381d4",
+    "text_and_variables_preserved_ignoring_linebreaks": true
+  },
+  {
+    "id": 366,
+    "before": "{BD}Un point vital de {B8} est touché par {B5} !{B1}{BD}{B8} meurt !{B1}{AC}",
+    "after": "{BD}Un point vital de{AD}{B8} est touché par{AD}{B5} !{B1}{BD}{B8} meurt !{B1}{AC}",
+    "old_encoded_hex": "bd244f0151504a4f5501574a55424d01454601b8014654550155505644492d0151425301b5017ab1bdb8014e46565355017ab1ac",
+    "encoded_hex": "bd244f0151504a4f5501574a55424d014546adb8014654550155505644492d01514253adb5017ab1bdb8014e46565355017ab1ac",
+    "old_sha256": "91d5143baaa35becce955942ecbfacf5ef1d73d7aeae7289ebe6a47173b19caa",
+    "new_sha256": "f3373ae17253f1b70e08890878c585baa110911029c44515beb13e87c877c173",
+    "text_and_variables_preserved_ignoring_linebreaks": true
+  },
+  {
+    "id": 367,
+    "before": "{BC}{B7} change d'arme pour {B5} !{B1}{AC}",
+    "after": "{BC}{B7} change d'arme pour{AD}{B5} !{B1}{AC}",
+    "old_encoded_hex": "bcb7014449424f484601457742534e46015150565301b5017ab1ac",
+    "encoded_hex": "bcb7014449424f484601457742534e460151505653adb5017ab1ac",
+    "old_sha256": "bfb11496d381d844f637e336a9b47cdd5b1ab7c8009edafc9896e7d5b81b0d06",
+    "new_sha256": "2f1eedc654900b7bf0bd6e58c1bd904bf9dbe353f462743202c1d19dd79fd54c",
+    "text_and_variables_preserved_ignoring_linebreaks": true
+  },
+  {
+    "id": 433,
+    "before": "{B7} ne peut pas s'équiper avec {B5}.{AC}",
+    "after": "{B7} ne peut pas s'équiper avec{AD}{B5}.{AC}",
+    "old_encoded_hex": "b7014f460151465655015142540154772d52564a514653014257464401b57fac",
+    "encoded_hex": "b7014f460151465655015142540154772d52564a5146530142574644adb57fac",
+    "old_sha256": "b18bf744685637b5d03c2f5346c92204aed13f7f42ddb7fb296801bfe2d84b91",
+    "new_sha256": "fb13195ef4a2e26f8d32a737860778bedeeed1217433c222f382f3f1962dd534",
+    "text_and_variables_preserved_ignoring_linebreaks": true
+  },
+  {
+    "id": 434,
+    "before": "Impossible de s'équiper avec {B5}.{AC}",
+    "after": "Impossible de s'équiper avec{AD}{B5}.{AC}",
+    "old_encoded_hex": "184e515054544a434d460145460154772d52564a514653014257464401b57fac",
+    "encoded_hex": "184e515054544a434d460145460154772d52564a5146530142574644adb57fac",
+    "old_sha256": "2468b35ac7df7abe15804e8c959d7d4ec498dfb0559a40cdf5008833e3bcabbc",
+    "new_sha256": "fb5fdc0ae6bbecd22868fb14ba65cc24be395619913d67382f3beae09819b44a",
+    "text_and_variables_preserved_ignoring_linebreaks": true
+  },
+  {
+    "id": 435,
+    "before": "{B7} s'équipe avec {B5}.{AC}",
+    "after": "{B7} s'équipe avec{AD}{B5}.{AC}",
+    "old_encoded_hex": "b70154772d52564a5146014257464401b57fac",
+    "encoded_hex": "b70154772d52564a51460142574644adb57fac",
+    "old_sha256": "27ebeaec806d5e0b14661bd8f0ad649afa58056f6e03b8622b51d1d624cc89fc",
+    "new_sha256": "9390b7e968fb44da65deb21f987ff302cad42221792846b726bc9b0a02fc90d6",
+    "text_and_variables_preserved_ignoring_linebreaks": true
+  }
+]

@@ -1,3 +1,7 @@
+# Dernier point : v0.78
+
+87 libellés modifiés (81 traductions,6 révisions),10 corrections de mise en page B5.367 FR qualifiés/2048 ;405 propositions restantes. Lire dq6-fr/v0.78/README.md,manifest.json et etat-projet.json. Réserve nouvelle : petite fenêtre C02A4F texte incomplet ; ne pas déclarer le combat globalement validé. Recherche des oublis,relecture exhaustive et audits hérités restent ouverts.
+
 # Reprise v0.77 — trois glyphes natifs et cinq noms intégrés
 
 Lire dq6-fr/v0.77/README.md,selection,delta,qa-font-extension etQA. Positions625/673/1016/1242/1694 :fantôkane,geôlier,Érudit,Évac',caleçon.5anciennes propositions intégrées,aucune nouvelle préparation ni nouvelle passe des2048positions ;280FRqualifiés,491propositions noms noninsérées. Principal6957sélections etcombat inchangés ;relecture exhaustive principale0.

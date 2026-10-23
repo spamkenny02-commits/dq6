@@ -1,0 +1,158 @@
+[
+  {
+    "position": 150,
+    "sids": [
+      150
+    ],
+    "current": "Parle",
+    "proposal": "Parler",
+    "layout": "Parler ",
+    "sfc_jp": "はなす",
+    "current_message_sha256": "7213c3b585257ad5909e517246dcc803f9e3bbb89f59a85604fe712724bd1a56",
+    "JP_message_sha256": "e372f6a05570f28f3fbd30c04b57cb7a4e6b0ccd9343a11c9a9ef2fb1de3d71c",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 99,
+        "JA_text": "@1はなす@",
+        "FR_text": "@4Parler@",
+        "JA_sha256": "148e50f7d8ab33bb55a5c1e090ca0086ee8420bc2d30a81f282f078ea2acff94",
+        "FR_sha256": "add19426474124f38096085e65b49d06e60962280c4fc7baafc050ec4338e1e6"
+      }
+    ],
+    "kind": "main_menu",
+    "review_note": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué."
+  },
+  {
+    "position": 151,
+    "sids": [
+      151
+    ],
+    "current": "Sort",
+    "proposal": "Magie",
+    "layout": "Magie",
+    "sfc_jp": "じゅもん",
+    "current_message_sha256": "96c4069f44d31faa5a6fe84aea5627db8115a4b9459432ea3bc26a9be7bb6dcf",
+    "JP_message_sha256": "709782ba6dfa48137ed953505683b0b6f386011ae4ed1c6c2f8eb926df545ba0",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 100,
+        "JA_text": "@1じゅもん@",
+        "FR_text": "@4Magie@",
+        "JA_sha256": "c1eab2cf4bb0af5a4dd609c80b9a8b08afea8d00725c130a16cb60ae78f4af8a",
+        "FR_sha256": "80711da37faf47a9dc987e3bde7dfa065872c7e9c8ec2de57daadcb75a9de931"
+      }
+    ],
+    "kind": "main_menu",
+    "review_note": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué."
+  },
+  {
+    "position": 152,
+    "sids": [
+      152
+    ],
+    "current": "Objet",
+    "proposal": "Objets",
+    "layout": "Objets ",
+    "sfc_jp": "どうぐ",
+    "current_message_sha256": "cf42487461c6cd0d41ae46ee391bb99f562740617c0777a6fc6bfcf27e03bd09",
+    "JP_message_sha256": "2463bd59914ba3720fca1fd866823dff92a28f3e48e6809cd20402daf747a276",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 101,
+        "JA_text": "@1どうぐ@",
+        "FR_text": "@4Objets@",
+        "JA_sha256": "815f0384be554b6465d85381d90e804c4319aef3db72757600fa68acc9230123",
+        "FR_sha256": "2c4cfc10d098ca04db6316d1914ed6cb9488bf79a1fd3898075379b5f4afe65c"
+      }
+    ],
+    "kind": "main_menu",
+    "review_note": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué."
+  },
+  {
+    "position": 153,
+    "sids": [
+      153
+    ],
+    "current": "Cherche",
+    "proposal": "Examiner",
+    "layout": "Examiner",
+    "sfc_jp": "しらべる",
+    "current_message_sha256": "d2e7d840841b2a1576da3eadd4e4e0595b46aab55c7ec93a17e1434d8b44e8b5",
+    "JP_message_sha256": "533973f303680a0fe12bf8afdfbeef5e5505f995a3039d2bd13a510f72f40381",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 102,
+        "JA_text": "@1しらべる@",
+        "FR_text": "@4Examiner@",
+        "JA_sha256": "14de3acceec58ba37bd917b0c124c8419c9fc8a353611464118521430d575bdd",
+        "FR_sha256": "6ed64953640112a6856116e8ae3ae925dde743fd5ed923c6062ce6b9e3fad2c3"
+      }
+    ],
+    "kind": "main_menu",
+    "review_note": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué."
+  },
+  {
+    "position": 154,
+    "sids": [
+      154
+    ],
+    "current": "Infos",
+    "proposal": "Caract.",
+    "layout": "Caract.",
+    "sfc_jp": "つよさ",
+    "current_message_sha256": "b7e4ac1ab7a77fb5d789f22af1e1a49236868a38df88c24a91b5dcc6df8d3e87",
+    "JP_message_sha256": "3cb8d89661cca63bd4d492aa673fdd6bc63f7af5dc88bc7661ec9d35c2e4069e",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 103,
+        "JA_text": "@1つよさ@",
+        "FR_text": "@4Caract.@",
+        "JA_sha256": "afef2ebffd565a5f96fe1c27e5ffd8841290d391e68cd1236d373c8430671dc9",
+        "FR_sha256": "f6ad3af5782bf70364a4fd9ed065d657edea48c079df47b07300bb355630cb13"
+      }
+    ],
+    "kind": "main_menu",
+    "review_note": "Libellé exact de la séquence DS99–104, contexte du menu principal observé. Divers104 est distinct de Tactique2 ; Caract.103 remplace Infos. Parler/Objets reçoivent des espaces techniques pour aligner les trois colonnes de droite ; fenêtre8 élargie de16à20tuiles. Aucun texte tronqué."
+  },
+  {
+    "position": 169,
+    "sids": [
+      169
+    ],
+    "current": "Equiper",
+    "sfc_jp": "そうび",
+    "current_message_sha256": "1e772dd0b4bec330facdca8d4c385b71277d78a4879cbf3ac92c450604025ebc",
+    "JP_message_sha256": "a425e18e10f253e61d0e7d186bd4428eb478b5d9999aa4cf04300bc7f402d8ba",
+    "status": "PREPARE_NON_INSERE",
+    "reason": "Proposition Équiper : largeur,glyphes ou rôle exact de fenêtre à établir. Aucune insertion automatique.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 350,
+        "JA_text": "@1そうび@",
+        "FR_text": "@4Équiper@",
+        "JA_sha256": "fa6b96b1b85a3fbd33ac98fba2098562fc824d40daad0fc1c33cc24e62456102",
+        "FR_sha256": "9647e4bf542d591f838122e2c998fdfcfc2b671ef2b5e01566c880c64d3985bc"
+      }
+    ],
+    "proposal": "Équiper",
+    "position_examined": true,
+    "natural_context_validated": false,
+    "secondary_IPS_text": "Equiper",
+    "secondary_IPS_message_sha256": "1e772dd0b4bec330facdca8d4c385b71277d78a4879cbf3ac92c450604025ebc",
+    "kind": "equipment_command",
+    "layout": "Équiper",
+    "review_note": "Correction orthographique française isolée Equiper→Équiper. JPそうび, référence DS350 du bloc Divers349–356 et rubrique équipement observée dans le jeu. Largeur inchangée7glyphes ; aucun réglage de fenêtre requis."
+  }
+]

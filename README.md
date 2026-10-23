@@ -1,3 +1,7 @@
+# Dernier point : v0.78
+
+87 libellés modifiés (81 traductions,6 révisions),10 corrections de mise en page B5.367 FR qualifiés/2048 ;405 propositions restantes. Lire dq6-fr/v0.78/README.md,manifest.json et etat-projet.json. Réserve nouvelle : petite fenêtre C02A4F texte incomplet ; ne pas déclarer le combat globalement validé. Recherche des oublis,relecture exhaustive et audits hérités restent ouverts.
+
 ## v0.77 — trois caractères natifs et cinq noms supplémentaires
 
 La police native prend désormais en charge **ô, ç et É**. Cinq propositions DS sont intégrées : fantôkane, geôlier, Érudit, Évac’ et caleçon. La table compte **280 positions françaises qualifiées sur 2048** ; **491 propositions restent non insérées**. Ce lot ne termine pas la traduction des ressources ni la relecture exhaustive. Voir [la recette et ses limites](dq6-fr/v0.77/README.md).

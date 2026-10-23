@@ -1,0 +1,721 @@
+{
+  "release": "v0.78",
+  "ROM_sha256": "0a69826c5139f75e8f78db7bdfa6ab5867180c866d09f26a548fdd2050c71a97",
+  "field_consumer": "C3763A, actual JSL including C0315E/C031DB and C376F2",
+  "B2_consumer": "C6FDF0, actual JSL including C0315E/C031DB and existing DTE dictionary",
+  "rows": [
+    {
+      "stage": "before",
+      "sid": 2187,
+      "native_field_glyphs_checked": 17,
+      "native_break_codes": [
+        153
+      ],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 18,
+      "field_tilemap_sha256": "58d6e98324b13b4faf45f9371e76deb13cc2113af95ae19c201080b8663a03f8",
+      "B2_buffer_sha256": "5a085064931c6512f78b0b349135461d73b02aebf434a565996d5e8efe2a5b76",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2188,
+      "native_field_glyphs_checked": 14,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 7,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 15,
+      "field_tilemap_sha256": "1a354e678f50697a3d2bb692367562916229ab97a92b2bc2f498c23253f87758",
+      "B2_buffer_sha256": "edb72d1adcb82695c1c9a531fc225b95b0098f14a108b8a1e041484c4ad32d86",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2193,
+      "native_field_glyphs_checked": 13,
+      "native_break_codes": [
+        153
+      ],
+      "native_field_final_cursor": 5,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 14,
+      "field_tilemap_sha256": "16ec825b102d3502286aa3bd5e8efe67b6dff312f69f075d62df6453546a51a7",
+      "B2_buffer_sha256": "baa003600692fb35fcef1fd5d0a1b72a941f768f109f10380cac0926aa6c2623",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2196,
+      "native_field_glyphs_checked": 15,
+      "native_break_codes": [
+        153
+      ],
+      "native_field_final_cursor": 7,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 16,
+      "field_tilemap_sha256": "071933190154e9df404355e99a2b3a16164f2de3e2ac219fae2c755e18184eee",
+      "B2_buffer_sha256": "4513173e6d614bc7c78817d2d6d980712c35ae30eea931adc1265342f968b2cc",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2197,
+      "native_field_glyphs_checked": 14,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 7,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 15,
+      "field_tilemap_sha256": "2b86c4651a025b901a679ec2135075f361807df70dd0e82b363f0631c7e0c759",
+      "B2_buffer_sha256": "ff21acc7f97e9e6c171f7591512190541effeae1af96692f03e8531a94aac678",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2201,
+      "native_field_glyphs_checked": 9,
+      "native_break_codes": [],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "61158d41b8a0cbf6460d65c21c902f0c32f17f17120b8dd7004ffbf5f96ff024",
+      "B2_buffer_sha256": "eb11a1dfc634ef6907d9865cd283d58793c672f7c9f4510a7262e1777d64931c",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2208,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [
+        151
+      ],
+      "native_field_final_cursor": 6,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "dd49f139c8ee36e4ed239205d7aed9238f74fb9713036723e1696099c05a101d",
+      "B2_buffer_sha256": "2bd04fe6ade858f1eb333172304aea98777fb1f5b1f869f8d86bd30e475f94ae",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2210,
+      "native_field_glyphs_checked": 15,
+      "native_break_codes": [
+        150
+      ],
+      "native_field_final_cursor": 10,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 16,
+      "field_tilemap_sha256": "de637d1e5dd836360f49aacc1095be56de7f645ecde2e4eb59bd127499b492e8",
+      "B2_buffer_sha256": "6f25f2b1719fed869f1d02de2c5975609b737d35cd17816fe021da4a54c50ad8",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2211,
+      "native_field_glyphs_checked": 13,
+      "native_break_codes": [
+        151
+      ],
+      "native_field_final_cursor": 7,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 14,
+      "field_tilemap_sha256": "9db2874d995a6369c53a5cfa969d87193ffe16501e947d59c9e97af9265574a7",
+      "B2_buffer_sha256": "45b2fdab0699f4ae7befc62016837ee8c47d0f6eea8f37dde718139de20a33a1",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2213,
+      "native_field_glyphs_checked": 10,
+      "native_break_codes": [],
+      "native_field_final_cursor": 10,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 10,
+      "field_tilemap_sha256": "99bfb98e5f19d71abe79e1de1fe7398d417ab6db4784b931bf3db9c6e5b2aa6e",
+      "B2_buffer_sha256": "c2bf721f90686e656beffd8a7967c86dbccf603f058f3cce446865f1f340080e",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2214,
+      "native_field_glyphs_checked": 14,
+      "native_break_codes": [
+        154
+      ],
+      "native_field_final_cursor": 5,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 15,
+      "field_tilemap_sha256": "eaec866537a1ceca5feb07201b165a266733c2983d222a958dbfa2cde9d93018",
+      "B2_buffer_sha256": "e658d803ae3af63465855bc9f84699ba25bca5314111ce74951b5289064f5b2d",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2218,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 5,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "94a14898c59bf85dcb53e2e447080f27ec1ad2b5d6cc198a78ae811051467622",
+      "B2_buffer_sha256": "4e8b5fb2add07efe23a5b513cd447c03ea335ca7f27a4c92cc248d70f18fb396",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2219,
+      "native_field_glyphs_checked": 17,
+      "native_break_codes": [
+        153
+      ],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 18,
+      "field_tilemap_sha256": "b72d6b919e9b38d34626b0040129e36be35eb65c310a9acdbac35e6b8e57807c",
+      "B2_buffer_sha256": "b8d92ae39c9de79cacb368927bf2ece63611144cc18324341d3835abd727c255",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2221,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [
+        148
+      ],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "57ccebe4fb4e647d200a618dc4f07b174572a0b51b19c9338abc3d1994655193",
+      "B2_buffer_sha256": "d1a04856e4be30b085b691896fd1e282f0db8e8c87d95833a3b130390e499d0b",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2223,
+      "native_field_glyphs_checked": 15,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 8,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 16,
+      "field_tilemap_sha256": "b3c8d03508f9dc9d477240ee55ee7a0346fc377ffdedadd2cead98790d5aed2f",
+      "B2_buffer_sha256": "69b71e0720348c46c09f9e570bf9bac9906b6cea7b7b9f598f55276390db0917",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2224,
+      "native_field_glyphs_checked": 13,
+      "native_break_codes": [
+        149
+      ],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 14,
+      "field_tilemap_sha256": "f34b7cd0bd35aa4c8b78aba18951b57114386186073fa7b1afcec838ce5766dc",
+      "B2_buffer_sha256": "a9cc1cde7c9c8f0a5e8946e05d68caeaefd64e943efbcb7c1453987e7e12aff9",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2226,
+      "native_field_glyphs_checked": 14,
+      "native_break_codes": [
+        150
+      ],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 15,
+      "field_tilemap_sha256": "54c3158203f6bc9de00f8a9681b34d01578e3e3ff8849bbf8a172dc9024d3d02",
+      "B2_buffer_sha256": "0646272c38dce862767449b3d979c953025f41cd8c246c38849acbac0b02ae74",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2231,
+      "native_field_glyphs_checked": 14,
+      "native_break_codes": [
+        151
+      ],
+      "native_field_final_cursor": 8,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 15,
+      "field_tilemap_sha256": "cc51e304dffa40fa4f55fdf157b6e4ac1437c900c8d5f1a25516d373425581d2",
+      "B2_buffer_sha256": "fd1959ee7270dbc929438096859bdc30d0715cd32fb27b466f12d97e4f9ec7f3",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2232,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 5,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "34ad62ca8499cb5c62180dd406902256981d97520d2cf3c992ea66cc69d52f63",
+      "B2_buffer_sha256": "62ba2b7745d707fbf0a3edb84884e619959d67cb01a3618d0d8562f2248f1ae9",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2233,
+      "native_field_glyphs_checked": 9,
+      "native_break_codes": [],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 9,
+      "field_tilemap_sha256": "4709f10250af3e45be8c5619f336a9dc65646a0edb4bbdaedd305a6670f7db92",
+      "B2_buffer_sha256": "8b0da72643408e0ce108030293f10a5e3db82899cd2769b2d727fd9cc8ef9cec",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2235,
+      "native_field_glyphs_checked": 11,
+      "native_break_codes": [],
+      "native_field_final_cursor": 11,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "373a5e6088d81de03c068332e3166e5bf09f79f19e677060926fa164b8b9060f",
+      "B2_buffer_sha256": "789cafcb2c5aff487b659423d2e415035fea3af6ff1e53f751d421c1cf249a1a",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2236,
+      "native_field_glyphs_checked": 14,
+      "native_break_codes": [
+        154
+      ],
+      "native_field_final_cursor": 5,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 15,
+      "field_tilemap_sha256": "b1315f495d347e826be005e990b1a755c0d198b499ee6b9925725b102c08df66",
+      "B2_buffer_sha256": "60c50f0398b1ec0a048f03e92da484bfc4c66ff5639cd3f500d342e3d3e35d4c",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2238,
+      "native_field_glyphs_checked": 11,
+      "native_break_codes": [
+        151
+      ],
+      "native_field_final_cursor": 5,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "c7c8f56b7bf0577ac58a6babff3b86e7182de8dc6df4cb7a831bfe4fe360316f",
+      "B2_buffer_sha256": "f3575bb323506f656c5731c9024bc1066c8a66d7fec8f36e3f8e577bb05cd587",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2240,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 5,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "20fa5c56115090e8b0004d1cc6a4731deb2905f8c281cf42d236f30e8e6bee8c",
+      "B2_buffer_sha256": "935d5a6e5d76393712f0616db7496b9149be1b88497914e4aa6f074b3bcb9f46",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "before",
+      "sid": 2242,
+      "native_field_glyphs_checked": 17,
+      "native_break_codes": [
+        155
+      ],
+      "native_field_final_cursor": 7,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 18,
+      "field_tilemap_sha256": "0c43c0b51f4f79aa477d9ad1f6618bbdd8c6475e1200ec950b2249f8ea790904",
+      "B2_buffer_sha256": "03d6df682667f766b7d40a6640d8b45802df6dc71b4ac069435af9843676ca75",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2187,
+      "native_field_glyphs_checked": 20,
+      "native_break_codes": [
+        155
+      ],
+      "native_field_final_cursor": 10,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 21,
+      "field_tilemap_sha256": "10c917696f5a727deb8cea4ab540b67572f6f0f2c0a229ff4b37555f471f561d",
+      "B2_buffer_sha256": "dd51b77ff3286ab233a022413c5022af08bbbb2b3e17237556c6b424ad287d3c",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2188,
+      "native_field_glyphs_checked": 15,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 8,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 16,
+      "field_tilemap_sha256": "7fa3228de1a554b2b95ae127fee462104fd9cf788c0f8f0f882d3970e0eb8b92",
+      "B2_buffer_sha256": "56594eadb54a38c6845f6103adb5f5b3e8e1a63681a7869d863d9b7c1ff316e0",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2193,
+      "native_field_glyphs_checked": 19,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 12,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 20,
+      "field_tilemap_sha256": "075d125c1633e514953af616299b4939133a0cb72efa4bde562d36711cf5d8e0",
+      "B2_buffer_sha256": "66a4288013f6ee55724e27387730651ff619abb24464af96ab856f5b87733dd3",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2196,
+      "native_field_glyphs_checked": 17,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 10,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 18,
+      "field_tilemap_sha256": "aac29a029c68d70ace202dfd6b5fb402a4d474d2bc6b6ecc3dd518ae0d7e13b6",
+      "B2_buffer_sha256": "df4d76f85326d973ac6e9e5c3a91c62317242572a6d5bd932b655611591072bd",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2197,
+      "native_field_glyphs_checked": 18,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 11,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 19,
+      "field_tilemap_sha256": "726c575a09e8538c063d80ea350e4ff0d764c7b476caab6e1e9ac091d1c16bdb",
+      "B2_buffer_sha256": "a4beb50954448204fa0be0f9bb9f82f82d788da25ce40a4cd96eb2ab01e4fd55",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2201,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [],
+      "native_field_final_cursor": 12,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "d5bc1104be40ff6be7d8c80914e0f545f75fc7daa084d69317bd8a08d13bece2",
+      "B2_buffer_sha256": "f2f9b9be108e6d3382cd63f1d183ee8a58e2f2b88eaa1baf94ca342539606680",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2208,
+      "native_field_glyphs_checked": 15,
+      "native_break_codes": [
+        150
+      ],
+      "native_field_final_cursor": 10,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 16,
+      "field_tilemap_sha256": "4108e2cd11ca50ddeb4da2e895a5b33b54ff0271a0f9798f9591c31249eeabe8",
+      "B2_buffer_sha256": "21d6eda185b444b2d1f58aeff0ded7fc2dde82a3c1df7caf06d33ed5d4d3a217",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2210,
+      "native_field_glyphs_checked": 18,
+      "native_break_codes": [
+        151
+      ],
+      "native_field_final_cursor": 12,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 19,
+      "field_tilemap_sha256": "37ddac21d620a422ce1070f42b3ae9e8c74e0a12be9dc9a4bd5bee8d01b008a2",
+      "B2_buffer_sha256": "440aa3ba45bdb14e86a0d83789aed63dc1f051c63803533db650e166b8f2dbd8",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2211,
+      "native_field_glyphs_checked": 18,
+      "native_break_codes": [
+        153
+      ],
+      "native_field_final_cursor": 10,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 19,
+      "field_tilemap_sha256": "72cc2a8364e4f9663ab3af0570478b0f4f71cf865b7564cdb187cf29581c0ccb",
+      "B2_buffer_sha256": "158f2334b80d6c88c8565db4e9bfb0573b2e9c4cd18a0390f3ccf0a4d6030ad2",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2213,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [],
+      "native_field_final_cursor": 12,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "ac6d209bd2318bf34edb29d7219fe53c9ef6b12ff4e69913346ef9c381fd8d26",
+      "B2_buffer_sha256": "9b2e6dbf1d82ca80fff823285149722c23a26f0ec0b2db86aabb59afa2cec9be",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2214,
+      "native_field_glyphs_checked": 11,
+      "native_break_codes": [
+        150
+      ],
+      "native_field_final_cursor": 6,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "d8036b4f967a37b975856b07871357a37a0abfeec3e57b41f1d726eda838486a",
+      "B2_buffer_sha256": "b511d572384535680e4b5f2d6650a9e4927545c6e48d7e3068fb415831def012",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2218,
+      "native_field_glyphs_checked": 16,
+      "native_break_codes": [
+        150
+      ],
+      "native_field_final_cursor": 11,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 17,
+      "field_tilemap_sha256": "262947f132313c214013727e4c31e0bdddbf95e586e917bd99e6f7d9056fa05e",
+      "B2_buffer_sha256": "395001e86a6298ae8b3c70ae1f90b593cfe412009f4b3b24b44dcd5e516e6ee1",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2219,
+      "native_field_glyphs_checked": 18,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 11,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 19,
+      "field_tilemap_sha256": "1b23deb1b50ca99fb0fbdd5414684ee99352663a7ff0ed580e9ed2805d328929",
+      "B2_buffer_sha256": "253a18f28252f36459de59b8e7d722e81660caf5b4f4b968118c29f7868f8232",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2221,
+      "native_field_glyphs_checked": 13,
+      "native_break_codes": [
+        149
+      ],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 14,
+      "field_tilemap_sha256": "e41a4f608b8903bfee3d9fd0875d0fb8961145f051a0767676038f94a45b5146",
+      "B2_buffer_sha256": "fbed11b9269546cb68db10e029ebdeb539a93baaa563f324a6a446c74de9a3b5",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2223,
+      "native_field_glyphs_checked": 22,
+      "native_break_codes": [
+        155
+      ],
+      "native_field_final_cursor": 12,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 23,
+      "field_tilemap_sha256": "5f7673449349452c455c97c11ab44494ca35d77fcdbb57021ebdd7dc2e7ebbd8",
+      "B2_buffer_sha256": "b4b4a26b5c82c028fd0d0fea741fc4eb1b8a32b704df089e4e638092b98e5a0f",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2224,
+      "native_field_glyphs_checked": 17,
+      "native_break_codes": [
+        151
+      ],
+      "native_field_final_cursor": 11,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 18,
+      "field_tilemap_sha256": "8397d25e9cab1f49f8bc03b7c72cfcfda681231945328a2806f789707defc790",
+      "B2_buffer_sha256": "7cfb03ce1d53269c99a3ab26b2a23e24f9da0afca151ddd049a0cc89eb926de3",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2226,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [
+        152
+      ],
+      "native_field_final_cursor": 5,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "6b9204de24d8c3b00d20ce24dee3049beb8c827e70e6af7f44f1252f6da5fec1",
+      "B2_buffer_sha256": "e2f375f24d9f7f64f1dee46de2f12f1384c98beb463215866a74bc83c3575f3a",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2231,
+      "native_field_glyphs_checked": 18,
+      "native_break_codes": [
+        151
+      ],
+      "native_field_final_cursor": 12,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 19,
+      "field_tilemap_sha256": "8e81800a2f63b10f878b1bca9359eaf5ae1ddb11c02df279eff52eda6a789673",
+      "B2_buffer_sha256": "417f29224e078d7bb9ecfba5d15d504878cd838755b794d2476d1888d99a17aa",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2232,
+      "native_field_glyphs_checked": 14,
+      "native_break_codes": [
+        149
+      ],
+      "native_field_final_cursor": 10,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 15,
+      "field_tilemap_sha256": "8e471170be4cb82c6dbf76686a3605cf1ff663ec630c29448faef3085acafee7",
+      "B2_buffer_sha256": "8f44cf87d862acc31b989653737c83b9386653b8243398ee5e910937ca527844",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2233,
+      "native_field_glyphs_checked": 11,
+      "native_break_codes": [],
+      "native_field_final_cursor": 11,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 11,
+      "field_tilemap_sha256": "5733b7950021e93df6c749760babab01f36a35019478162a28154aa45081bc4c",
+      "B2_buffer_sha256": "6ebb8a091c90c1e48b9fdeb89ed5157d2bbe8796103b76e670de298c9b50f6f9",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2235,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [],
+      "native_field_final_cursor": 12,
+      "native_field_second_line_column": null,
+      "native_B2_glyphs_checked": 12,
+      "field_tilemap_sha256": "74c96d399c872474fdc00d71d9c65b3f72c0af2cce29c85c3d69d9d9ff226eb5",
+      "B2_buffer_sha256": "ebd1c4fe592ef81ffd07024a41932015bc1a807f9894d867c7f1d2df0186d137",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2236,
+      "native_field_glyphs_checked": 22,
+      "native_break_codes": [
+        156
+      ],
+      "native_field_final_cursor": 11,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 23,
+      "field_tilemap_sha256": "ddd5b3f547f6c8c67a8e60538ce278b5884c80c5bed017135081e1cea5dbbfbf",
+      "B2_buffer_sha256": "bfbbdabe10b074647906c773c5a368a8aecad39c2204bd6d4005b6b9a7207543",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2238,
+      "native_field_glyphs_checked": 12,
+      "native_break_codes": [
+        150
+      ],
+      "native_field_final_cursor": 7,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 13,
+      "field_tilemap_sha256": "86621ab7a842f329e19a579b6aa082a54c6dc8f19b2c0569a3f25e12168037e4",
+      "B2_buffer_sha256": "e03dbd7badf086c5b42b9169029ad28acdb82b40249e1075c3a708e58d4c5f18",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2240,
+      "native_field_glyphs_checked": 13,
+      "native_break_codes": [
+        149
+      ],
+      "native_field_final_cursor": 9,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 14,
+      "field_tilemap_sha256": "57ba65a3580f9989440cd27b6324acd41792ab44843b3086b267c392e5e5aae1",
+      "B2_buffer_sha256": "84f06eca2dd0c00f5ee7a478e6daf8eeae7e3910ec9cdecdedb1e03f1fe7b35f",
+      "matches_expected_glyphs": true
+    },
+    {
+      "stage": "after",
+      "sid": 2242,
+      "native_field_glyphs_checked": 14,
+      "native_break_codes": [
+        148
+      ],
+      "native_field_final_cursor": 11,
+      "native_field_second_line_column": 1,
+      "native_B2_glyphs_checked": 15,
+      "field_tilemap_sha256": "78f9c35e7cdf3e3ca4c5b803c15d8c1b47723ca47527954a5ca999aa960e3593",
+      "B2_buffer_sha256": "bf54a20d7e2837be96f7a7bbbc40437577af014f1ee1261ce8c204421efc92de",
+      "matches_expected_glyphs": true
+    }
+  ],
+  "checked_SIDs": [
+    2187,
+    2188,
+    2193,
+    2196,
+    2197,
+    2201,
+    2208,
+    2210,
+    2211,
+    2213,
+    2214,
+    2218,
+    2219,
+    2221,
+    2223,
+    2224,
+    2226,
+    2231,
+    2232,
+    2233,
+    2235,
+    2236,
+    2238,
+    2240,
+    2242
+  ],
+  "natural_validation": false,
+  "limits": "Private CPU redirection from camp. Dynamic SID branch09A7..09C9 and other natural menu paths not validated; no renderer code modified. Full field grids and B2 buffers checked before/after. Item break counts unchanged; menu alignment spaces explicit. Window and actual-menu rendering checked separately."
+}

@@ -1,0 +1,8 @@
+"""Replay ordinary inputs from the existing private camp waypoint.
+Creates a private field waypoint; never commits it or a ROM.
+"""
+from pathlib import Path
+import argparse,json,subprocess,sys,hashlib
+O=Path(__file__).resolve().parent
+p=argparse.ArgumentParser();p.add_argument('--rom',type=Path,required=True);p.add_argument('--runner',type=Path,required=True);p.add_argument('--camp',type=Path,required=True);p.add_argument('--out',type=Path,required=True);a=p.parse_args();steps=json.loads((O/'prologue-inputs.json').read_text());a.out.mkdir(exist_ok=True,parents=True);seq=[action for step in steps for action in step['sequence']];tag='v078-field-replay'
+proc=subprocess.run([sys.executable,str(a.runner.resolve()),'--rom',str(a.rom.resolve()),'--load-state',str(a.camp.resolve()),'--session',tag,'--tag',tag,'--sequence',json.dumps(seq)],capture_output=True,timeout=180);assert proc.returncode==0,proc.stderr.decode();P=a.runner.resolve().parent;state=P/(tag+'.state');(a.out/'field-replay.state').write_bytes(state.read_bytes());sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest();q=dict(ROM_sha256=sha(a.rom),camp_private_state_sha256=sha(a.camp),field_private_state_sha256=sha(state),final_screenshot_sha256=sha(P/(tag+'.png')),input_actions=len(seq),frames=sum(x['frames'] for x in seq),WRAM_ROM_or_VRAM_injections=False,natural_inputs_from_private_camp=True,from_fresh_new_game=False,limitations='Existing camp waypoint used; not a fresh-start full playthrough, not exhaustive natural-path coverage.');(O/'qa-prologue-replay.json').write_text(json.dumps(q,indent=2)+'\n');print(json.dumps(q))
