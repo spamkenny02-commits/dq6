@@ -1,0 +1,36 @@
+{
+  "release": "v0.73",
+  "published_integration_commit": "9e972d2ee387c4f888b0ea077b6863eaae40aa34",
+  "published_tree": "e16f8cb6115a9c301c91deb26ca54e8845eaae65",
+  "restored_from": "git archive origin/main après publication, répertoire neuf",
+  "steps_executed": [
+    "restore_sources.py",
+    "prepare.py",
+    "build.py",
+    "verify.py",
+    "inventory_names.py"
+  ],
+  "manifest_files_verified": 28,
+  "manifest_sha256": "3d936045905e2158c8e9fd54df171dd15d9d1b7e71656bd470a9182a7cb9f03d",
+  "ROM_bytes": 8388608,
+  "ROM_sha256": "f38b7e3c75d2d4618c9b55e497a578ba6b00db6848acb7d678b6cf9f34773196",
+  "BPS_sha256": "376cc75dabd22f539ad317156dedd1827aed17be831ce65b83be06a1e4fed65c",
+  "IPS_sha256": "3412d368611d29df89239627c97e8fdfdb77cbaa31e0a08eee6bc35f79bf2566",
+  "BPS_reapplied": true,
+  "IPS_reapplied": true,
+  "bad_sources_rejected": [
+    "modified_JP",
+    "copier_header"
+  ],
+  "recipe_idempotent": true,
+  "protected_bytes_identical": true,
+  "new_translations": 12,
+  "prior_preparations_resolved": 12,
+  "new_preparations": 0,
+  "prepared_names_remaining": 574,
+  "qualified_french_names": 197,
+  "emulator_tests": "Exécutés avant publication sur la même empreinte ROM. 2477 SIDs statiques, mutation négative, deux consommateurs avant/après,24 rendus diagnostiques,bus4002 plages et Journal à froid. Non réexécutés dans la restauration.",
+  "natural_validation": false,
+  "full_main_reread_recorded": 0,
+  "project_finalized": false
+}
