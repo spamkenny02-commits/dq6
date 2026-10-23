@@ -1,0 +1,44 @@
+{
+  "release": "v0.69",
+  "header_byte": "85",
+  "main_glyph": "0240 (legacy charset metadata labels it period; actual B2 diagnostic visibly displays colon)",
+  "field_tile": "0385",
+  "native_8x8_font_offset": 357292,
+  "font_bytes_sha256": "7c81605f8b4b6cf35039c3123fbcf60efa2a19862ae71f45ae3eca969fef5e5f",
+  "font_and_main_mapping_unchanged": true,
+  "rows": [
+    {
+      "sid": 215,
+      "count": 1,
+      "unchanged_native_header_byte": true
+    },
+    {
+      "sid": 216,
+      "count": 1,
+      "unchanged_native_header_byte": true
+    },
+    {
+      "sid": 218,
+      "count": 1,
+      "unchanged_native_header_byte": true
+    },
+    {
+      "sid": 220,
+      "count": 1,
+      "unchanged_native_header_byte": true
+    },
+    {
+      "sid": 221,
+      "count": 1,
+      "unchanged_native_header_byte": true
+    },
+    {
+      "sid": 227,
+      "count": 1,
+      "unchanged_native_header_byte": true
+    }
+  ],
+  "B2_colon_visual_validation": true,
+  "natural_menu_validation": false,
+  "limits": "Six byte85 header endings preserved and visibly colons in B2 screenshots. Legacy charset metadata differs from observed rendering. Actual natural menu contexts and hardcoded alternative consumers remain unvalidated."
+}

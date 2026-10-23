@@ -1,0 +1,5 @@
+from common import *
+import argparse
+p=argparse.ArgumentParser();p.add_argument('--jp',type=Path,required=True);p.add_argument('--out',type=Path,required=True);a=p.parse_args();jp=a.jp.read_bytes();base,m=prepare(jp);assert read(O/'revue-table-v069.json')==m['rows'];rom=assemble(base,m);bps,ips=patches(jp,rom);a.out.mkdir(exist_ok=True,parents=True);(a.out/'result.sfc').write_bytes(rom);(a.out/'DQVI-FR-DS-v0.69-BASE-JP-PARTIEL.ips').write_bytes(ips);(R/'patches/DQVI-FR-DS-v0.69-BASE-JP-PARTIEL.bps').write_bytes(bps)
+q=dict(release='v0.69',baseline='v0.68',ROM_bytes=len(rom),ROM_sha256=sha(rom),BPS_sha256=sha(bps),IPS_sha256=sha(ips),placement=BASE['placement'],engine=BASE['engine'],name_pool_offset=NAME,name_reachable_bytes=len(bytes.fromhex(m['payload_hex'])),name_allocation_limit=NAME_LIMIT,old_pool_preserved_offset=POOL,old_pool_preserved_size=END-POOL,tail_sha256=BASE['tail_sha256'],new_translations=25,existing_french_qualified=13,physical_positions_examined=400,engine_modified=False,font_modified=False,natural_validation=False)
+(O/'build-report.json').write_text(json.dumps(q,ensure_ascii=False,indent=2)+'\n');print(q['ROM_sha256'])

@@ -1,0 +1,632 @@
+[
+  {
+    "sid": 174,
+    "position": 174,
+    "french": "Divination",
+    "previous": "Exp Requis",
+    "sfc_jp": "おつげをきく",
+    "review": "Menu église :おつげをきく est la divination des EXP requis, pas une résurrection.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 600,
+        "JA_text": "@1おつげをきく@",
+        "FR_text": "@4Divination@",
+        "JA_sha256": "bbe14a426c79176759cfd94002e84c5116498731e3b5a061f960eb11716929c3",
+        "FR_sha256": "54cc83d407d3522aa0ca4a9fb134fc5394957297d18dc5632d9c5245a62af4ae"
+      }
+    ],
+    "old_encoded_hex": "1459510121465256e0ac",
+    "encoded_hex": "134a57dfd24aeaac",
+    "old_sha256": "d049404d2e61122ccdd448a994af359e6bab92a9c087dccd4941f91844feba4b",
+    "new_sha256": "98949b18877efc1aaff1a0ad0157851f0d9531da0cda4b3d3516e17a949c8b73",
+    "old_columns": 10,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 182,
+    "position": 182,
+    "french": "Retrait",
+    "previous": "Retirer",
+    "sfc_jp": "ひきだす",
+    "review": "ひきだす : retrait bancaire, nom de commande DS conservé.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 620,
+        "JA_text": "@1ひきだす@",
+        "FR_text": "@4Retrait@",
+        "JA_sha256": "b2390a555b4531850e8e90bf87ae3fcec01961de6a2ba534c49e34b2154802b7",
+        "FR_sha256": "ce2c7e841ada9b8e867e1eebe8b36f40fd81db802675c6f2f48a364e35ebd063"
+      }
+    ],
+    "old_encoded_hex": "2146554af053ac",
+    "encoded_hex": "214655efe1ac",
+    "old_sha256": "a6f6e88f323b93f3eba243c33be91e2ab122eb391a94d46bffbba0351ae9d352",
+    "new_sha256": "41b09b8ada2052f7f22a5baebe7024b365cdf8e13377adf441814dfc7a268f69",
+    "old_columns": 7,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 186,
+    "position": 186,
+    "french": "Tactique",
+    "previous": "Strategie",
+    "sfc_jp": "さくせんがえ",
+    "review": "さくせんがえ : changement de tactique. Libellé DS, pas les deux fragments du nom de chaque tactique253–263.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 352,
+        "JA_text": "@1さくせんがえ@",
+        "FR_text": "@4Tactique@",
+        "JA_sha256": "b5989fd92aa5127eb363a972861c7dc03da7282c86b731d379bf0e6e9cf7a29d",
+        "FR_sha256": "60e9a71609b2ca14db14e62c0136f918e4e811bb24c0a19b3dd52121bdecdea2"
+      }
+    ],
+    "old_encoded_hex": "2255eff8484a46ac",
+    "encoded_hex": "23cd554a525646ac",
+    "old_sha256": "e60d9bf361be9d5e89b7d72eda2ee7476abd858fd97ad66ab6b3ea337a6dd3f5",
+    "new_sha256": "b402100d7ab2a84c415ec13124a680018b57b30916adf5ba8d218f44a298268c",
+    "old_columns": 9,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 191,
+    "position": 191,
+    "french": "Sac",
+    "previous": "Sack",
+    "sfc_jp": "ふくろ",
+    "review": "ふくろ : sac collectif, pas un sac équipé. Genre masculin DS sans insérer ses balises grammaticales.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1001000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1001000.mpt",
+        "id": 30,
+        "JA_text": "@1ふくろ@",
+        "FR_text": "@0M@1Sac@9N@",
+        "JA_sha256": "96320397fe793f2776c4b0f561fad65f556c6d0aec9c5aeb5a6d55fa5a1a102c",
+        "FR_sha256": "65dec602f3cc9daf15b3421934dad717cf7be39646436eb0544c773da489053a"
+      }
+    ],
+    "old_encoded_hex": "2242444cac",
+    "encoded_hex": "22cdac",
+    "old_sha256": "c80d59beee38935a361db239098f8dfd0cbcd9633b304bc7446c57cc16687bfe",
+    "new_sha256": "de0991f3522b1dff404477090d57399faf1f12c23a4ff44d3d46ab5260f8707a",
+    "old_columns": 4,
+    "new_columns": 3,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 210,
+    "position": 210,
+    "french": "PM requis",
+    "previous": "MP requis",
+    "sfc_jp": "しょうひMP",
+    "review": "しょうひMP : coût en PM. La référence DS établit PM ; requis est une adaptation du libellé SFC, pas une copie de PM max.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 657,
+        "JA_text": "@1さいだいＭＰ@",
+        "FR_text": "@4PM max@",
+        "JA_sha256": "8330e7e9e104288e5dfb7177206b7e6793c52a727c99dbd72d6686eda9a34d53",
+        "FR_sha256": "5dc9955b13c2bac0331504df40e38b6b3bec7714872858da8ee48770d3b8f474"
+      }
+    ],
+    "old_encoded_hex": "1c1f01f05256e0ac",
+    "encoded_hex": "1f1c01f05256e0ac",
+    "old_sha256": "3bc654ba93c6f4dc9845dd2141be5ecd992990e0ef36a60bb7ec5ecd1e632814",
+    "new_sha256": "2fdc14617ec8b17b64a9bce018f6f5d9267b0294e6db45d098fd1abca7e6b260",
+    "old_columns": 9,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 215,
+    "position": 215,
+    "french": "Force:",
+    "previous": "Pouvoir:",
+    "sfc_jp": "ちから:",
+    "review": "ちから: : Force ; deux-points SFC conservé, article DS omis dans un en-tête.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 283,
+        "JA_text": "@1ちから@",
+        "FR_text": "@2la @4Force@",
+        "JA_sha256": "00d6626dcd5f5d72dfc1c9e3c79097a35ee836bdcae4dfe263944a03f7a219aa",
+        "FR_sha256": "ea09fd710e8df9c8961d4511ee62abcc843acb6938c1ce9047293f4afd5d2e29"
+      }
+    ],
+    "old_encoded_hex": "1fed57e95385ac",
+    "encoded_hex": "15ecd385ac",
+    "old_sha256": "dd5e49ef1605880395201b1833e94ae1726c55adfe5afe813e6d7c23106a2a1d",
+    "new_sha256": "a37d682a7456329e067b3474427454133ea7ecbca3720d2e30058d4d0f194035",
+    "old_columns": 8,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 216,
+    "position": 216,
+    "french": "Agilité:",
+    "previous": "Vitesse:",
+    "sfc_jp": "すばやさ:",
+    "review": "すばやさ: : Agilité ; deux-points conservé.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 216,
+        "JA_text": "@1すばやさ@",
+        "FR_text": "@2l'@4Agilité@",
+        "JA_sha256": "700b072e0f3661593b91a8aee37c1da2994a0263f2792952e70557d75948d838",
+        "FR_sha256": "735654e62169ef0ba728fc65601a5db1352ac5d753651dbc359345c89e377222"
+      }
+    ],
+    "old_encoded_hex": "25e1db544685ac",
+    "encoded_hex": "10484a4de12d85ac",
+    "old_sha256": "707b3a7ae314ae9c37222e42c8ee043a3d3d272dcceb6b2033e83db8db487d88",
+    "new_sha256": "3696b1da5a5435a2787148b7c706d5fe34238f9a96636e2c20c8b3d1d18bc66f",
+    "old_columns": 8,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 217,
+    "position": 217,
+    "french": "Agilité",
+    "previous": "Vitesse",
+    "sfc_jp": "すばやさ",
+    "review": "すばやさ : Agilité, pas vitesse de texte.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 216,
+        "JA_text": "@1すばやさ@",
+        "FR_text": "@2l'@4Agilité@",
+        "JA_sha256": "700b072e0f3661593b91a8aee37c1da2994a0263f2792952e70557d75948d838",
+        "FR_sha256": "735654e62169ef0ba728fc65601a5db1352ac5d753651dbc359345c89e377222"
+      }
+    ],
+    "old_encoded_hex": "25e1db5446ac",
+    "encoded_hex": "10484a4de12dac",
+    "old_sha256": "665fdfebf009d727ffc9796ffe196ed9106ce20ae8beca6a6a610605e615de2a",
+    "new_sha256": "430d6ac8b1bfb8697e1dd3ce4420994d6c88c497a3e5f1b239bbfd37458b7923",
+    "old_columns": 7,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 218,
+    "position": 218,
+    "french": "Vitalité:",
+    "previous": " Agilite:",
+    "sfc_jp": "みのまもり:",
+    "review": "みのまもり: : Vitalité, distincte de Agilité et de la Défense équipée. Corrige un contresens hérité. Neuf colonnes conservées en remplaçant le blanc initial.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 285,
+        "JA_text": "@1みのまもり@",
+        "FR_text": "@2la @4Vitalité@",
+        "JA_sha256": "9aab14b5bc57d6be95c65e4ee12803afe10977a6cf10eaea3440365fdafa2d6e",
+        "FR_sha256": "1e3ffdd9d30e094dede1f2d09aba0e585f708b7e4a27473d70a4b7d4b12915e2"
+      }
+    ],
+    "old_encoded_hex": "0110484a4de14685ac",
+    "encoded_hex": "25e1424de12d85ac",
+    "old_sha256": "a90cbf33789e64db737d171f65869ab15f918135a868700e6a467f688b6c41a5",
+    "new_sha256": "4b6332ef22a1ed7c9df8c7c06411167df380f9613bbb7d431e551067195dc114",
+    "old_columns": 9,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 220,
+    "position": 220,
+    "french": "PV max:",
+    "previous": "Max HP:",
+    "sfc_jp": "さいだいHP:",
+    "review": "さいだいHP: : PV max, normalisation HP/PV et deux-points conservé.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 656,
+        "JA_text": "@1さいだいＨＰ@",
+        "FR_text": "@4PV max@",
+        "JA_sha256": "aa265c9ecc59da6069633d3e151a7402f088583c06a76d14c7efcf4e1f12c968",
+        "FR_sha256": "8797bf8b2e88ad74d03bbe441af4a19af3403ecfae8f92e73939b28c60b2a5e5"
+      }
+    ],
+    "old_encoded_hex": "1c425901171f85ac",
+    "encoded_hex": "1f25014e425985ac",
+    "old_sha256": "e3a01387a3e3a9ed88a4a0d9eac6471cb4b3326661ba4b1be2e7c65de12ab441",
+    "new_sha256": "4f3373001a6d65747bdab86f498c963f3452c1dc5c3c5aec1da11661e3df4ba2",
+    "old_columns": 7,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 221,
+    "position": 221,
+    "french": "PM max:",
+    "previous": "Max MP:",
+    "sfc_jp": "さいだいMP:",
+    "review": "さいだいMP: : PM max, normalisation MP/PM et deux-points conservé.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 657,
+        "JA_text": "@1さいだいＭＰ@",
+        "FR_text": "@4PM max@",
+        "JA_sha256": "8330e7e9e104288e5dfb7177206b7e6793c52a727c99dbd72d6686eda9a34d53",
+        "FR_sha256": "5dc9955b13c2bac0331504df40e38b6b3bec7714872858da8ee48770d3b8f474"
+      }
+    ],
+    "old_encoded_hex": "1c4259011c1f85ac",
+    "encoded_hex": "1f1c014e425985ac",
+    "old_sha256": "cc68860e5873ac1663f22d5ee72db29ac40a994a07b39766bc04a9db93a94814",
+    "new_sha256": "17f90896ed505e4a2281fc25679dc4c73f82def4f8f56ba9e9c047186f77b869",
+    "old_columns": 7,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 227,
+    "position": 227,
+    "french": "Défense:",
+    "previous": "Defense:",
+    "sfc_jp": "しゅびカ:",
+    "review": "しゅびカ: : défense équipée, confirmée par la forme complète voisineしゅびりょく229 et DSしゅび力. Distincte de Vitalité218 et garde158.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 25,
+        "JA_text": "@1しゅび力@",
+        "FR_text": "@2la @4Défense@",
+        "JA_sha256": "6d075e1e8b351f01aad8305068013da123ab7f5a5bb061592944ae74ddd3b277",
+        "FR_sha256": "17240229fbfcde29df5980cc95b08f28d81575b0d4dbb1cc59f7e19f991c80dc"
+      }
+    ],
+    "old_encoded_hex": "134647464f544685ac",
+    "encoded_hex": "132d47464f544685ac",
+    "old_sha256": "57243ad21e613117c15b05536f30aa82eba6b16adf2c1bf4cf342e05f7ec3883",
+    "new_sha256": "b3ffff7e8b0f6c9e01203e30ba3b7abe6ccd8da2921bbc73cad9a7430a1c763b",
+    "old_columns": 8,
+    "new_columns": 8,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 229,
+    "position": 229,
+    "french": "Défense",
+    "previous": "Defense",
+    "sfc_jp": "しゅびりょく",
+    "review": "しゅびりょく : puissance de défense, DSしゅび力. Accent rétabli.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 25,
+        "JA_text": "@1しゅび力@",
+        "FR_text": "@2la @4Défense@",
+        "JA_sha256": "6d075e1e8b351f01aad8305068013da123ab7f5a5bb061592944ae74ddd3b277",
+        "FR_sha256": "17240229fbfcde29df5980cc95b08f28d81575b0d4dbb1cc59f7e19f991c80dc"
+      }
+    ],
+    "old_encoded_hex": "134647464f5446ac",
+    "encoded_hex": "132d47464f5446ac",
+    "old_sha256": "96ce959c05f87b069af724853d5a3c90d485405e82e43edf26107267627a6a8f",
+    "new_sha256": "ecdb3ace54ce6f1a7788c355bdc8df250ec0477be98328a6d89eb4c22cd1bcbc",
+    "old_columns": 7,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 232,
+    "position": 232,
+    "french": "Continuer",
+    "previous": "Continuer un jeu",
+    "sfc_jp": "ぼうけんをする",
+    "review": "ぼうけんをする : continuer une aventure ; abrège le libellé DS sans ajouter un effet de nouvelle partie.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 750,
+        "JA_text": "@1ぼうけんをする@",
+        "FR_text": "@4Continuer votre aventure@",
+        "JA_sha256": "22e65d19698102345e2dacc66166b2e28cb1224a68dca724d6240fc8bb1aa499",
+        "FR_sha256": "3abd87a8c514ffd4c443a33bf402ef213e92377d0637fd68b9bdfaa77442f796"
+      }
+    ],
+    "old_encoded_hex": "12ea55df56da01564f014b4656ac",
+    "encoded_hex": "12ea55df56daac",
+    "old_sha256": "c983e826cfe878479f588788be79ad2dbe901de8489e0b8be4168872d63d2c87",
+    "new_sha256": "2c70ec85c3a54a1b9a12c4e114cc6be97d6b1e8a6c6545132bed822d60880d09",
+    "old_columns": 16,
+    "new_columns": 9,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 237,
+    "position": 237,
+    "french": "Vitesse du texte",
+    "previous": "Vitesse Messages",
+    "sfc_jp": "おこのみの　ひょうじそくどは?",
+    "review": "おこのみの ひょうじそくどは? : vitesse affichage des messages, voisines238/239 Vite/Lent. Adaptation directe SFC pour un libellé compact grammatical, pas une phrase DS identifiée.",
+    "DS_references": [],
+    "old_encoded_hex": "25e1db54d61cdb544248dbac",
+    "encoded_hex": "25e1db54d64556cb4659f8ac",
+    "old_sha256": "2f070632e2618c1c51925a15128de4329a391a0348543189c4eb5ce10741fa3e",
+    "new_sha256": "1a0caf0fe7613529d4b84d6c71e32b8100e32b29fdd07cd16830b69cba4f221a",
+    "old_columns": 16,
+    "new_columns": 16,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 240,
+    "position": 240,
+    "french": "Stéréo",
+    "previous": "Stereo",
+    "sfc_jp": "ステレオ",
+    "review": "ステレオ : stéréo. Accent français rétabli, même largeur6 ; option sonore explicite SFC, pas une référence DS inventée.",
+    "DS_references": [],
+    "old_encoded_hex": "22f8f050ac",
+    "encoded_hex": "22552d532d50ac",
+    "old_sha256": "f6f231ec668e11fa344da4ef750e0d7ca25d8a88c0449f9b8c0221f927aac268",
+    "new_sha256": "67954022e0e9c856990ab30d2dbd74df7c2f3b071d003feff131087053857bd4",
+    "old_columns": 6,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 242,
+    "position": 242,
+    "french": "Saisir un nom",
+    "previous": "Choisis le nom du Heros",
+    "sfc_jp": "なまえをいれてください",
+    "review": "なまえをいれてください : saisir un nom ; DSなまえをきめてください. Formulations japonaises distinctes mais même action de saisie, sans imposer héros à tous les usages.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 756,
+        "JA_text": "@1なまえをきめてください@",
+        "FR_text": "@4Saisir un nom@",
+        "JA_sha256": "339855b5975a0d735f90e732d8a0abc394f79a56a2b9a26416b6495c4554ca8d",
+        "FR_sha256": "5a1ef857aae265369b76b91fd9206ce6a69c578cee92f5f69c1cc9abd1145adb"
+      }
+    ],
+    "old_encoded_hex": "1249e954e001e201e64eca560117da5054ac",
+    "encoded_hex": "2242e04a5301564f01e64eac",
+    "old_sha256": "8e541177d7d41363b7b17be640dba7ef5b4692fc0e33704a84bd627e20ad7097",
+    "new_sha256": "9ff2bcfdaa3f46eb19db8e0d663fff5e0c58850565ca76099846d267a9e745ec",
+    "old_columns": 23,
+    "new_columns": 13,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 277,
+    "position": 277,
+    "french": "Féminin",
+    "previous": "Feminin",
+    "sfc_jp": "おんな",
+    "review": "おんな : féminin, accent rétabli, pas une catégorie d’objet.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 271,
+        "JA_text": "@1おんな@",
+        "FR_text": "@4Féminin@",
+        "JA_sha256": "bebbecccc12765510ede636db8fd378635d0acc383945e05efbe07cb4caab9b2",
+        "FR_sha256": "8d22df5854cff21b913764ead4f800a4497d19410c99c73a846076e929f478dd"
+      }
+    ],
+    "old_encoded_hex": "15464edfdfac",
+    "encoded_hex": "152d4edfdfac",
+    "old_sha256": "2cbcc11f7dfb425a913e5b1c4e505833b2a8cfb02ef7f3e06528ffc138e6bced",
+    "new_sha256": "bbcea575e65098e415eaa7c71cf8b64f4ec5ca5c66fdc7dc284b1c4e83804190",
+    "old_columns": 7,
+    "new_columns": 7,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 335,
+    "position": 335,
+    "french": "Accessoire",
+    "previous": "Accessories",
+    "sfc_jp": "そうしょくひん",
+    "review": "そうしょくひん : accessoire. Distinct deぼうぐ249, qui désigne les protections.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 203,
+        "JA_text": "@1そうしょくひん@",
+        "FR_text": "@4Accessoire@",
+        "JA_sha256": "b118be42b4aadff1cf16cb6aac32d48d07fc49c26a3339bdea7f73a8605dea06",
+        "FR_sha256": "b79c28f186128404afbf9bb9a30ec4b944ca4b2e215393b0cb552ecafad1ba61"
+      }
+    ],
+    "old_encoded_hex": "1044d354f4534adbac",
+    "encoded_hex": "1044d354f44af0ac",
+    "old_sha256": "c376dd43467f4e8e114b42a23195bc683f46ec852c3834bd38eb6eee98e112cf",
+    "new_sha256": "c9e502aa9c70b5e79279591d499d38f506f5f96baed4c314d57c072f2a1d2d30",
+    "old_columns": 11,
+    "new_columns": 10,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 340,
+    "position": 340,
+    "french": "Hugo",
+    "previous": "Dante",
+    "sfc_jp": "ダンテ",
+    "review": "ダンテ : nom propre NPC, correspondance JP exacte DS. Hugo complet4glyphes contre Dante5.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 316,
+        "JA_text": "@1ダンテ@",
+        "FR_text": "@1Hugo@",
+        "JA_sha256": "49f6fc13a1c9775d060955e12e8e05ab215bbcb747e2f31c69c7c26d81da2683",
+        "FR_sha256": "003dc401dc968e08fdb968da59398beec61e5d4154ed190f6b878dae66cd84f2"
+      }
+    ],
+    "old_encoded_hex": "13cff8ac",
+    "encoded_hex": "17564850ac",
+    "old_sha256": "ef6494bfaa3187e72448e6c64809aa554067bc757556a87175ab1b47df97e554",
+    "new_sha256": "a91a0e3e14862900fcdb05ce70314b879712409b0ceadefc56bceb6133a3d644",
+    "old_columns": 5,
+    "new_columns": 4,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 349,
+    "position": 349,
+    "french": "Enzo",
+    "previous": "Majiman",
+    "sfc_jp": "マジマン",
+    "review": "マジマン : nom propre masculin DS. Balise de genre non copiée dans la chaîne native.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 405,
+        "JA_text": "@1マジマン@",
+        "FR_text": "@0M@1Enzo@",
+        "JA_sha256": "4b35f07f8df164a0da669aacbf31be7c5120ba26618ee23ff1951a00d2938a79",
+        "FR_sha256": "6c293c041cafe7d53511258f168089f85d71ccb5a0a4815240088561a667c199"
+      }
+    ],
+    "old_encoded_hex": "1c424b4a4ecfac",
+    "encoded_hex": "144f5b50ac",
+    "old_sha256": "02e81c7f6d6db81d433b94eaf707c327691a41a9967d635037914564a0c39761",
+    "new_sha256": "b58e9c4c15b45ddaa875d40cef16bf63956c6d64328c06450b21053dcab2a3bd",
+    "old_columns": 7,
+    "new_columns": 4,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 353,
+    "position": 353,
+    "french": "Cindy",
+    "previous": "Sachi",
+    "sfc_jp": "さちまり",
+    "review": "さちまり : nom propre féminin DS. Cinq glyphes conservés.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 409,
+        "JA_text": "@1さちまり@",
+        "FR_text": "@0F@1Cindy@",
+        "JA_sha256": "adae3c79d95170c57fa643814f2ad71052279a940865ed612bba6c4dc2e43547",
+        "FR_sha256": "27f1311bb6eaf300c64de0ac8259b06826b90f0c8cbe170ea43ce318d4cafe33"
+      }
+    ],
+    "old_encoded_hex": "22cd494aac",
+    "encoded_hex": "12df455aac",
+    "old_sha256": "837ae3464b66d6c7ac8f636d43264e78e2d23433644cf55e43ed24a5cd506cc4",
+    "new_sha256": "d270bea440c5903c7b3c3f9eb0969d4428af268f20244443adfeae2419484b2e",
+    "old_columns": 5,
+    "new_columns": 5,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 358,
+    "position": 358,
+    "french": "Linda",
+    "previous": "Hiroline",
+    "sfc_jp": "ひろりん",
+    "review": "ひろりん : nom propre féminin DS. Nom complet5glyphes contre8.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 414,
+        "JA_text": "@1ひろりん@",
+        "FR_text": "@0F@1Linda@",
+        "JA_sha256": "65e5ffcb51137525b8c11c4e33f5fe3572a32cbbc1c4f9784823870403fb3521",
+        "FR_sha256": "38ff938444931534f1fabecaa5f8cdf1f78d56d36c9cdcf1dd75cdc6a304e964"
+      }
+    ],
+    "old_encoded_hex": "174af14ddf46ac",
+    "encoded_hex": "1bdf4542ac",
+    "old_sha256": "cd6603c1ef9090a6575280926ca6cad3a0db4a088c377085f7b51afad11a3a0a",
+    "new_sha256": "5b810af3c33dc783ef38d1fff5d6a2f264b37a46d4f71c5f854eb395f1b27f48",
+    "old_columns": 8,
+    "new_columns": 5,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 369,
+    "position": 369,
+    "french": "Claire",
+    "previous": "Clarice",
+    "sfc_jp": "クラリス",
+    "review": "クラリス : Claire DS, nom complet6glyphes contre Clarice7 ; ne pas confondre avec Céleste873.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 305,
+        "JA_text": "@1クラリス@",
+        "FR_text": "@1Claire@",
+        "JA_sha256": "9e7f2310fac6b8b933c227942f35f2fa9f95ff3190023ac86e2b557604774964",
+        "FR_sha256": "d765c87be64a96aabab7041acb267aedc144d88cd2491acc9cf479cd80789407"
+      }
+    ],
+    "old_encoded_hex": "124dd0de46ac",
+    "encoded_hex": "124d424af0ac",
+    "old_sha256": "5ec40c7e62a0ce998da8881cb7ff640ca3a612aaf735eb803f9faddf89bcfb0c",
+    "new_sha256": "b51662abd43bf0ef279c6a73ffa0d9ae95008d2e145a7e154cbb7a4f47ee5558",
+    "old_columns": 7,
+    "new_columns": 6,
+    "status": "RELU_POUR_INSERTION"
+  },
+  {
+    "sid": 374,
+    "position": 374,
+    "french": "Miroir de Râ",
+    "previous": "Mirroir de Ra",
+    "sfc_jp": "ラーのカガミのこと",
+    "review": "ラーのカガミのこと : sujet du miroir de Râ. DSラーのかがみのこと, kana/hiragana explicitement relus, pas un rapprochement flou. Corrige Mirroir et accent Râ ; sujet nominal abrégé pour la SFC.",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 322,
+        "JA_text": "@1ラーのかがみのこと@",
+        "FR_text": "@1Sur le miroir de Râ@",
+        "JA_sha256": "270b0062a1ed163cb6a12ae461645e2b7252b5100ffc95b92bc728798193ed35",
+        "FR_sha256": "f5c58aac4eef670c87cca8d56fa5d9c2d5ac3a128a1a65770d630db6c1b704ad"
+      }
+    ],
+    "old_encoded_hex": "1c4a53f14a53cad62142ac",
+    "encoded_hex": "1c4af14a53cad62135ac",
+    "old_sha256": "962c92eefd004d58f2806b17b4c4201d7b28ef1cd5187bb754ec87593f78d02e",
+    "new_sha256": "fc75ddbf3e48ae525a5034a5d4db66bb9510f9ea854c63796d6334290dd45b6b",
+    "old_columns": 13,
+    "new_columns": 12,
+    "status": "RELU_POUR_INSERTION"
+  }
+]

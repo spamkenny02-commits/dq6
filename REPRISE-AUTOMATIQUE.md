@@ -1,3 +1,9 @@
+# Reprise v0.69 — lot 0000–0399 des 2048 positions
+
+Lire dq6-fr/v0.69/README.md, registre-positions-0000-0399.json, revue et QA. 400positions examinées,25libellés modifiés,13français existants relus source,35PREPARE_NON_INSERE.100FRqualifiés/2048 ;1508autres,344identifiants,12candidatsFR,83vides et1crédit retiré. Pas400traductions ni400validations naturelles. Prochain lot400–799 puis800–1199,1200–1599,1600–1999,2000–2047 ; conserver un registre par position et revenir sur les réserves. Ne pas recycler ce lot.
+
+Table active7AF000..7B2819 (14361octets), réserver capacitéjusqu’à7B8703, moteur etcombat. Lecteur common.py::names/LogicalTable v068 ou ultérieur obligatoire ; ancienne table et miroir préservés. Particularité byte85 : deux-points natif8x8 etB2observé, malgré métadonnéecharset0240 « point » ; pas de validation naturelle parB2. Sources privées vérifiées ànouveau ; aucune ROM ni état surGit. Principal6957,combat et2lieux préparés438/479 inchangés. Relecture exhaustive0 ; audits et scènes naturelles ouverts.
+
 # Reprise v0.68 — table des noms relocalisée et cinq lieux intégrés
 
 Lire dq6-fr/v0.68/README.md,audit-relocation.json,revue et QA. Reprendre BPSv068 surJP intacte.5lieux préparés intégrés :Abbaye des Vocations436,Château de Joliroche437,Pic des Terreurs464,Cap de Somnia481,Prison du Chagrin490.2lieux préparés438/479 restent pour mise en page ; capacité de stockage débloquée.
