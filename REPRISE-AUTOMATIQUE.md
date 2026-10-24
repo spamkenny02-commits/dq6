@@ -1,3 +1,7 @@
+# Relecture préparatoire après v0.78 — dialogues800–899
+
+Lire preparations/relecture-principale-0800-0899/README.md :100 nouvelles positions,18 révisions préparées (14 glyphes,4 sens/neutralité).Cumul400–899 :500 positions préparatoirement relues,71 révisions principales et419 propositions noms/menus distinctes noninsérées.852 :captivité feinte ;888 :augmenter les rations ;828 référence recevoir/présenter requalifiée lexicale seulement.0nouvelle insertion ou test ROM,patch inchangé. Prochain ID900 ;0–399 reste à relire.
+
 # Relecture préparatoire après v0.78 — dialogues700–799
 
 Lire preparations/relecture-principale-0700-0799/README.md :100 nouvelles positions,12 révisions préparées (10 glyphes,2 sujet/composition).Cumul400–799 :400 positions préparatoirement relues,53 révisions principales et419 propositions noms/menus distinctes noninsérées. Audit784 :description neutre proposée,B2/B5 et toutes récompenses nonvalidés ;DF752 conservé,réserve ouverte. Aucun nouveau texte intégré,test natif ou patch. Prochain segment800–1199 ;0–399 reste à relire. Ne pas compter400 positions comme400 scènes testées ou400 corrections intégrées.

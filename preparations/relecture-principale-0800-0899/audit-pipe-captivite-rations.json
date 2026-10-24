@@ -1,0 +1,36 @@
+{
+  "status": "OUVERT_PREPARE_NON_INSERE",
+  "scope": "Comparaison textuelle828/852/875/876/888, aucun événement natif exécuté.",
+  "reference828": {
+    "source_action": "Présenter la pipe",
+    "inherited_DS_action": "Recevoir la pipe",
+    "scope": "LEXIQUE_SEULEMENT",
+    "text_kept": true
+  },
+  "capture852": {
+    "JP_phrase": "とらえられたフリ",
+    "DS_reference": "data/MESS6/FR/0088.p:110",
+    "old": "se laisser capturer",
+    "proposed": "faire semblant d'être en captivité",
+    "DB_tokens_preserved": 3,
+    "native_state_verified": false
+  },
+  "gender_neutral_revisions": [
+    875,
+    876
+  ],
+  "rations888": {
+    "JP_phrase": "もうすこし 食べものを",
+    "old": "augmenter le rationnement",
+    "proposed": "augmenter les rations",
+    "official_DS_lexical_revision": true
+  },
+  "event_flags_inspected": false,
+  "natural_scene_executed": false,
+  "required_tests": [
+    "Pipe: réponses oui/non,présentation à Airain,remise des outils.",
+    "Captivité feinte,captures réelles,clé,tenues et infiltration.",
+    "DA/DB/D4 et D3/C4: gardiens,Croisefer,réincarcération.",
+    "Nouvelles phrases,noms variables,pagination et glyphes."
+  ]
+}
