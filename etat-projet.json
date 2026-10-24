@@ -1,5 +1,5 @@
 {
-  "release": "v0.78",
+  "release": "v0.79",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
@@ -16,9 +16,20 @@
       5699,
       5700
     ],
-    "release_lot_additions": 0
+    "release_lot_additions": 0,
+    "existing_revisions_this_pass": 5,
+    "revision_IDs_this_pass": [
+      493,
+      556,
+      1018,
+      1151,
+      1181
+    ],
+    "readable_selection_recipe": "dq6-fr/v0.79/common.py::current_main_selection",
+    "readable_base": "dq6-fr/v0.56/insertion-candidates.json",
+    "latest_readable_override": "dq6-fr/v0.79/selection.json"
   },
-  "baseline": "v0.77",
+  "baseline": "v0.78",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 2,
@@ -28,7 +39,7 @@
     "separate_battle": 2,
     "separate_names": 419,
     "separate_battle_spell_combinations": 0,
-    "existing_main_revisions": 126
+    "existing_main_revisions": 121
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
@@ -39,7 +50,7 @@
     "inserted_place_total": 31,
     "additional_character_names_inserted": 3,
     "spell_action_labels_inserted": 20,
-    "new_this_pass": 87,
+    "new_this_pass": 0,
     "prepared_places": 2,
     "confirmed_french_entries": 367,
     "native_grammar_helpers_adapted": 4,
@@ -105,18 +116,18 @@
       "all_positions_examined": true,
       "all_positions_semantically_validated": false
     },
-    "new_linguistic_translations_this_pass": 81,
-    "existing_french_revisions_this_pass": 6,
+    "new_linguistic_translations_this_pass": 0,
+    "existing_french_revisions_this_pass": 0,
     "structural_dynamic_WRAM_slots": 35,
     "static_empty_reserve": 1,
     "opaque_JP_source_VF_empty_slots": 6,
     "parsed_VF_SIDs": 2512,
     "runtime_entry_count_proven": false,
-    "prepared_names_resolved_this_pass": 86
+    "prepared_names_resolved_this_pass": 0
   },
   "rom_bytes": 8388608,
-  "notes": "87 libellés modifiés : 81 nouvelles traductions, 6 révisions FR. 80 objets et 7 commandes. 86 propositions résolues, 405 restantes. 10 corrections de sauts de ligne B5 isolées. Pas de nouveau lot de 400 ni relecture exhaustive.",
-  "next": "Sources(3) et camp privé retrouvés/recréé au contrôle :lire checks/source-return-v078. Vérifier leur disponibilité avant tout lot. Reprendre les126 révisions principales préparées par cas sûrs à glyphes existants et tests natifs,puis extensions de glyphes et419 noms/menus. Dernière relecture principale400–1299,prochain1300 ;0–399 reste à relire. Audits1135/1179 et autres restent ouverts.",
+  "notes": "5 révisions françaises principales intégrées,0 nouvelle traduction,aucune nouvelle position de relecture. Police,noms,combat,moteur inchangés.25pages diagnostiques après/25avant,lire v079 ;scènes naturelles nonvalidées.",
+  "next": "Reprendre v0.79 (5révisions principales intégrées). Lire current_main_selection v079 pour superposer les5tokens/textes corrigés au v056.121autres révisions principales et419propositions noms/menus noninsérées. Glyphes manquants,scènes naturelles et audits hérités restent ouverts ;passe préparatoire400–1299 déjà900positions,prochain1300 et0–399 restant. Sources(3),cœur et camp de checks/source-return-v078 à revérifier.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -147,7 +158,7 @@
   ],
   "proofreading": {
     "exhaustive_pass_completed": false,
-    "reviewed_this_translation_pass": 87,
+    "reviewed_this_translation_pass": 5,
     "translation_reviews_not_a_full_reread": true,
     "full_main_reread_recorded": 0,
     "new_battle_integrated_from_review": 0,
@@ -169,15 +180,17 @@
     "new_prepared_technical_labels": 0,
     "storage_adaptations_checked_this_checkpoint": 0,
     "separate_place_names_reviewed_this_checkpoint": 0,
-    "table_positions_examined": 87,
-    "table_new_translations": 81,
-    "table_existing_french_source_reviewed": 6,
-    "table_existing_french_revisions": 6,
+    "table_positions_examined": 0,
+    "table_new_translations": 0,
+    "table_existing_french_source_reviewed": 0,
+    "table_existing_french_revisions": 0,
     "separate_existing_proposals_reread_this_pass": 0,
     "separate_proposals_registry": [],
     "separate_proposals_next_position": null,
     "separate_proposals_not_yet_in_this_semantic_batch": 0,
-    "separate_proposal_review_cycle_completed": 510
+    "separate_proposal_review_cycle_completed": 510,
+    "main_existing_revisions_integrated": 5,
+    "new_exhaustive_positions_this_pass": 0
   },
   "separate_battle_pool": {
     "runtime_entries": 608,
@@ -710,7 +723,7 @@
       435
     ]
   },
-  "checkpoint": "sources-revenues-reconstruction-v078",
+  "checkpoint": "v0.79-cinq-revisions-principales",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",
@@ -754,7 +767,7 @@
     "final_accepted": 0,
     "pending_runtime_or_reserves": 900,
     "ledger": "preparations/relecture-principale-0900-1299/registre-relecture.json",
-    "prepared_existing_main_revisions": 126,
+    "prepared_existing_main_revisions": 121,
     "new_integrated": 0,
     "ROM_tests": 0,
     "next_segment_suggestion": [
@@ -787,7 +800,15 @@
       897,
       1138,
       1178
-    ]
+    ],
+    "runtime_diagnostic_passed_IDs": [
+      493,
+      556,
+      1018,
+      1151,
+      1181
+    ],
+    "resolved_preparations": "dq6-fr/v0.79/preparations-resolues.json"
   },
   "provenance_selection_diagnostic": {
     "file": "preparations/relecture-principale-0500-0599/diagnostic-provenance-selection.json",

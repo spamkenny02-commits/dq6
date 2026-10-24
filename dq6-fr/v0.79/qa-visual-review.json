@@ -1,0 +1,48 @@
+{
+  "corrected_dialogues": [
+    493,
+    556,
+    1018,
+    1151,
+    1181
+  ],
+  "after_pages_captured": 25,
+  "before_pages_captured": 25,
+  "all25_after_pages_visually_read": true,
+  "five_corrected_pages_before_after_visually_read": true,
+  "expected_changed_pages": [
+    {
+      "id": 493,
+      "page": 2
+    },
+    {
+      "id": 556,
+      "page": 5
+    },
+    {
+      "id": 1018,
+      "page": 1
+    },
+    {
+      "id": 1151,
+      "page": 2
+    },
+    {
+      "id": 1181,
+      "page": 10
+    }
+  ],
+  "observed_changed_pages_exactly_expected": true,
+  "other20_page_screenshots_byte_identical": true,
+  "overflow_or_missing_text_observed": false,
+  "existing_circumflex_o_rendered_in_geolier": true,
+  "eight_character_C9_observed_in_1181": "AAAAAAAA",
+  "natural_target_scenes_executed": false,
+  "host_camp_choice_not_target_dialogue_selection": true,
+  "full_main_reread_completed": false,
+  "screenshots": {
+    "dialogue1181-apres.png": "ab318c5a49c794364ff3518d83bc75b4bf45ad825e1eac8c2244169f1e05eb2f",
+    "comparaison-corrections.png": "dbb3e1eb63369ea60dffd52c207d6ff9d5aba19b2e73fbddcccd548167fc4427",
+    "dialogues-courts-apres.png": "f1d915f687d496c5ea68dae3435811018370066782f760249df72fb81fcaa594"
+  }
+}

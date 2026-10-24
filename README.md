@@ -1,3 +1,7 @@
+# Dernière ROM publiée : v0.79 — cinq révisions principales
+
+Lire dq6-fr/v0.79/README.md,selection,delta,verification etQA :493/556/1018/1151/1181 corrigés,aucune traduction nouvelle.121révisions principales et419propositions noms/menus restantes.25pages après/25avant en camp diagnostique,seules5pages corrigées diffèrent ;démarrage froid/bus256glyphes,BPS/IPS et protections vérifiés. Aucun contexte naturel ou audit hérité clôturé. Pour le texte actuel,superposer selection v079 à la basev056 via current_main_selection ;ne pas recompter ces5positions comme nouvelle relecture. Couverture principale/table inchangée,8Mio.
+
 # Sources revenues — v0.78 reconstruite et nouveau camp privé
 
 Lire checks/source-return-v078 :trois SHA256 sources(3) vérifiés,reconstruction8Mio identique,BPS/IPS réappliqués,zones protégées et mauvaises sources contrôlées. Cœur officiel recompilé,démarrage froid4016plages/573869octets et256glyphes,nouvelle partie AAAAAAAA arrivée au camp sans injection. Sources/camp privés actuels,disponibilité après réinitialisation non garantie.126 révisions principales et419 noms/menus toujours noninsérés ;aucune relecture ou traduction nouvelle. Reprendre insertion/test des cas sûrs,ne plus supposer les ROM absentes sans vérifier.

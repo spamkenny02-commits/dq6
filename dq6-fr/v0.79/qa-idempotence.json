@@ -1,0 +1,13 @@
+{
+  "prepare_build_verify_repeated": true,
+  "identical_outputs": {
+    "dq6/dq6-fr/v0.79/selection.json": "4dfab1547d12d7bbd88dab075a229d330326e3f639189a273d0001af6efc63a7",
+    "dq6/dq6-fr/v0.79/delta-lisible.json": "fd9a4db4f4fb5768be504a36aa410c15a21e7f938681af6fc0cc4ddfad581d79",
+    "dq6/dq6-fr/v0.79/qa-sources.json": "fafd2e2f01c509c5600fc42085a99a38aeb476747d5593cdb9f0c349917f3658",
+    "dq6/dq6-fr/v0.79/build-report.json": "153f0df47f827aeecdb39d5adbf178c43ba90386861e3f0b5a202c51bf9e4326",
+    "dq6/dq6-fr/v0.79/verification.json": "7541f32ea4ec1929b88f160c60a8d2bc98d73f0ed23cad84449b990d786cd523",
+    "dq6/patches/DQVI-FR-DS-v0.79-BASE-JP-PARTIEL.bps": "3d047ad61cd3bd1189be10f04512dce1b9086c8099d3cf130050621fbf7df010",
+    "private-v079/result.sfc": "09bc2eed6043fae767b20580b8ccddcbf53c18fe8f0b7c8e3c2c172679a4e529"
+  },
+  "native_emulation_not_repeated_by_this_check": true
+}

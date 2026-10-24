@@ -1,0 +1,193 @@
+{
+  "release": "v0.79",
+  "baseline": "v0.78",
+  "ROM_bytes": 8388608,
+  "ROM_sha256": "09bc2eed6043fae767b20580b8ccddcbf53c18fe8f0b7c8e3c2c172679a4e529",
+  "BPS_sha256": "3d047ad61cd3bd1189be10f04512dce1b9086c8099d3cf130050621fbf7df010",
+  "IPS_sha256": "818f9880339ce158fbaad36f6610dc2d16ff14bddd37a2335eb223e58e01ac50",
+  "placement": {
+    "offset": 8018944,
+    "size": 23485,
+    "groups": 76,
+    "messages": 608
+  },
+  "engine": {
+    "allocation": {
+      "offset": 8017920,
+      "size": 1024
+    },
+    "segments": [
+      {
+        "offset": 8017920,
+        "size": 59,
+        "hex": "08ad285ac900ff902ac911ffb0252829ff000aaabf80597a1869b05985bae220a97a85bcc2209cb459a00000a2ba005c02fec628ad285a5c0c92c6"
+      },
+      {
+        "offset": 8018176,
+        "size": 82,
+        "hex": "22970ec02903000aaadaa910ff8d285a22162ac0f101a301aabf8667c28d285a22970ec0290300485aa3050a1863030900ff8d285aa3030aaaad285a22162ac0f2017a68fa0aaabf8e67c28d285a5c8567c2"
+      },
+      {
+        "offset": 8018304,
+        "size": 34,
+        "hex": "000007000e0015001c00270032003f004c00560060006b00780082008b0092009e00"
+      },
+      {
+        "offset": 8018352,
+        "size": 159,
+        "hex": "1a42574d424fac1a425150564eac1a42434a4f48ac1a4243424f48ac225651465354504a4f54ac244d55534254504a4f54ac184f54504e4f4a54504a4f54ac132d51424f4f7854504a4f54ac155056534f424a5446ac1459514d505553504fac22565357504d55424846ac15505645534a4f55464f5446ac1a4255425455535047ac232d4f2d43535053ac1a424350564eac154d4255565553424f5446acac"
+      },
+      {
+        "offset": 430601,
+        "size": 3,
+        "hex": "4cf0fe"
+      },
+      {
+        "offset": 4624905,
+        "size": 3,
+        "hex": "4cf0fe"
+      },
+      {
+        "offset": 458480,
+        "size": 4,
+        "hex": "5c00587a"
+      },
+      {
+        "offset": 4652784,
+        "size": 4,
+        "hex": "5c00587a"
+      },
+      {
+        "offset": 157529,
+        "size": 4,
+        "hex": "5c00597a"
+      },
+      {
+        "offset": 4351833,
+        "size": 4,
+        "hex": "5c00597a"
+      }
+    ],
+    "RNG_call_offsets": [
+      8018176,
+      8018208
+    ],
+    "handler": 8017920,
+    "generation": 8018176,
+    "table": 8018304,
+    "strings": 8018352,
+    "virtual_SIDs": [
+      "FF00",
+      "FF01",
+      "FF02",
+      "FF03",
+      "FF04",
+      "FF05",
+      "FF06",
+      "FF07",
+      "FF08",
+      "FF09",
+      "FF0A",
+      "FF0B",
+      "FF0C",
+      "FF0D",
+      "FF0E",
+      "FF0F",
+      "FF10"
+    ],
+    "names": [
+      "Kavlan",
+      "Kapoum",
+      "Kabing",
+      "Kabang",
+      "Supersoins",
+      "Ultrasoins",
+      "Insomnisoins",
+      "Dépann-soins",
+      "Fournaise",
+      "Explotron",
+      "Survoltage",
+      "Foudrintense",
+      "Katastrof",
+      "Ténébror",
+      "Kaboum",
+      "Flatutranse"
+    ],
+    "normal_B2_entry_unchanged": "C6920C",
+    "original_RTS_unchanged": "C26785",
+    "new_WRAM_scratch": false
+  },
+  "name_pool_offset": 8056832,
+  "name_reachable_bytes": 14221,
+  "name_allocation_limit": 8095491,
+  "old_pool_preserved_offset": 3901187,
+  "old_pool_preserved_size": 16399,
+  "tail_sha256": "052b228f3a9c594591edc826dc1eed3afc328f2a75b96101ce692ce9015f6fae",
+  "new_label_insertions": 0,
+  "new_translations": 0,
+  "existing_french_revisions": 0,
+  "existing_french_qualified": 0,
+  "physical_positions_examined": 87,
+  "engine_modified": false,
+  "font_modified": false,
+  "natural_validation": false,
+  "window8_width_tiles": 20,
+  "main_revision_IDs": [
+    493,
+    556,
+    1018,
+    1151,
+    1181
+  ],
+  "main_groups_written": [
+    {
+      "group": 61,
+      "old_file_offset": 3643697,
+      "old_size": 519,
+      "file_offset": 3643697,
+      "size": 519,
+      "cpu_address": 16226609,
+      "relocated": false
+    },
+    {
+      "group": 69,
+      "old_file_offset": 3648430,
+      "old_size": 670,
+      "file_offset": 3648430,
+      "size": 669,
+      "cpu_address": 16231342,
+      "relocated": false
+    },
+    {
+      "group": 127,
+      "old_file_offset": 3685466,
+      "old_size": 551,
+      "file_offset": 3685466,
+      "size": 551,
+      "cpu_address": 16268378,
+      "relocated": false
+    },
+    {
+      "group": 143,
+      "old_file_offset": 3693824,
+      "old_size": 408,
+      "file_offset": 3693824,
+      "size": 408,
+      "cpu_address": 16276736,
+      "relocated": false
+    },
+    {
+      "group": 147,
+      "old_file_offset": 3696146,
+      "old_size": 1210,
+      "file_offset": 3696146,
+      "size": 1210,
+      "cpu_address": 16279058,
+      "relocated": false
+    }
+  ],
+  "new_main_revisions": 5,
+  "native_font_modified": false,
+  "names_modified": false,
+  "battle_modified": false
+}
