@@ -1,0 +1,173 @@
+{
+  "release": "v0.80",
+  "baseline": "v0.79",
+  "ROM_bytes": 8388608,
+  "ROM_sha256": "11d3dd59602644b76b3244b1f0caf6e6ff93568a68b87030ac2dc5140e240a47",
+  "BPS_sha256": "2fdbeb411570b5403c91be25f9a45830a16a11c1c9fb06a2cad8b670a3706607",
+  "IPS_sha256": "f835a860167caa0c61040b6a91ed0aa69c0b191f0ff40ab9012b991b3c551ff2",
+  "placement": {
+    "offset": 8018944,
+    "size": 23485,
+    "groups": 76,
+    "messages": 608
+  },
+  "engine": {
+    "allocation": {
+      "offset": 8017920,
+      "size": 1024
+    },
+    "segments": [
+      {
+        "offset": 8017920,
+        "size": 59,
+        "hex": "08ad285ac900ff902ac911ffb0252829ff000aaabf80597a1869b05985bae220a97a85bcc2209cb459a00000a2ba005c02fec628ad285a5c0c92c6"
+      },
+      {
+        "offset": 8018176,
+        "size": 82,
+        "hex": "22970ec02903000aaadaa910ff8d285a22162ac0f101a301aabf8667c28d285a22970ec0290300485aa3050a1863030900ff8d285aa3030aaaad285a22162ac0f2017a68fa0aaabf8e67c28d285a5c8567c2"
+      },
+      {
+        "offset": 8018304,
+        "size": 34,
+        "hex": "000007000e0015001c00270032003f004c00560060006b00780082008b0092009e00"
+      },
+      {
+        "offset": 8018352,
+        "size": 159,
+        "hex": "1a42574d424fac1a425150564eac1a42434a4f48ac1a4243424f48ac225651465354504a4f54ac244d55534254504a4f54ac184f54504e4f4a54504a4f54ac132d51424f4f7854504a4f54ac155056534f424a5446ac1459514d505553504fac22565357504d55424846ac15505645534a4f55464f5446ac1a4255425455535047ac232d4f2d43535053ac1a424350564eac154d4255565553424f5446acac"
+      },
+      {
+        "offset": 430601,
+        "size": 3,
+        "hex": "4cf0fe"
+      },
+      {
+        "offset": 4624905,
+        "size": 3,
+        "hex": "4cf0fe"
+      },
+      {
+        "offset": 458480,
+        "size": 4,
+        "hex": "5c00587a"
+      },
+      {
+        "offset": 4652784,
+        "size": 4,
+        "hex": "5c00587a"
+      },
+      {
+        "offset": 157529,
+        "size": 4,
+        "hex": "5c00597a"
+      },
+      {
+        "offset": 4351833,
+        "size": 4,
+        "hex": "5c00597a"
+      }
+    ],
+    "RNG_call_offsets": [
+      8018176,
+      8018208
+    ],
+    "handler": 8017920,
+    "generation": 8018176,
+    "table": 8018304,
+    "strings": 8018352,
+    "virtual_SIDs": [
+      "FF00",
+      "FF01",
+      "FF02",
+      "FF03",
+      "FF04",
+      "FF05",
+      "FF06",
+      "FF07",
+      "FF08",
+      "FF09",
+      "FF0A",
+      "FF0B",
+      "FF0C",
+      "FF0D",
+      "FF0E",
+      "FF0F",
+      "FF10"
+    ],
+    "names": [
+      "Kavlan",
+      "Kapoum",
+      "Kabing",
+      "Kabang",
+      "Supersoins",
+      "Ultrasoins",
+      "Insomnisoins",
+      "Dépann-soins",
+      "Fournaise",
+      "Explotron",
+      "Survoltage",
+      "Foudrintense",
+      "Katastrof",
+      "Ténébror",
+      "Kaboum",
+      "Flatutranse"
+    ],
+    "normal_B2_entry_unchanged": "C6920C",
+    "original_RTS_unchanged": "C26785",
+    "new_WRAM_scratch": false
+  },
+  "name_pool_offset": 8056832,
+  "name_reachable_bytes": 14221,
+  "name_allocation_limit": 8095491,
+  "old_pool_preserved_offset": 3901187,
+  "old_pool_preserved_size": 16399,
+  "tail_sha256": "052b228f3a9c594591edc826dc1eed3afc328f2a75b96101ce692ce9015f6fae",
+  "new_label_insertions": 0,
+  "new_translations": 0,
+  "existing_french_revisions": 0,
+  "existing_french_qualified": 0,
+  "physical_positions_examined": 87,
+  "engine_modified": false,
+  "font_modified": false,
+  "natural_validation": false,
+  "window8_width_tiles": 20,
+  "main_revision_IDs": [
+    1003,
+    1012,
+    1252
+  ],
+  "main_groups_written": [
+    {
+      "group": 125,
+      "old_file_offset": 3684799,
+      "old_size": 379,
+      "file_offset": 8001024,
+      "size": 383,
+      "cpu_address": 8001024,
+      "relocated": true
+    },
+    {
+      "group": 126,
+      "old_file_offset": 3685178,
+      "old_size": 288,
+      "file_offset": 3685178,
+      "size": 285,
+      "cpu_address": 16268090,
+      "relocated": false
+    },
+    {
+      "group": 156,
+      "old_file_offset": 3701116,
+      "old_size": 498,
+      "file_offset": 8001536,
+      "size": 500,
+      "cpu_address": 8001536,
+      "relocated": true
+    }
+  ],
+  "new_main_revisions": 3,
+  "native_font_modified": false,
+  "names_modified": false,
+  "battle_modified": false
+}

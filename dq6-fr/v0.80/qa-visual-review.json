@@ -1,0 +1,72 @@
+{
+  "reviewed_after_pages": 6,
+  "reviewed_before_pages": 6,
+  "comparison": [
+    {
+      "id": 1003,
+      "page": 1,
+      "identical": false
+    },
+    {
+      "id": 1003,
+      "page": 2,
+      "identical": false
+    },
+    {
+      "id": 1012,
+      "page": 1,
+      "identical": false
+    },
+    {
+      "id": 1252,
+      "page": 1,
+      "identical": true
+    },
+    {
+      "id": 1252,
+      "page": 2,
+      "identical": true
+    },
+    {
+      "id": 1252,
+      "page": 3,
+      "identical": false
+    }
+  ],
+  "unchanged_pages": [
+    [
+      1252,
+      1
+    ],
+    [
+      1252,
+      2
+    ]
+  ],
+  "changed_pages": [
+    [
+      1003,
+      1
+    ],
+    [
+      1003,
+      2
+    ],
+    [
+      1012,
+      1
+    ],
+    [
+      1252,
+      3
+    ]
+  ],
+  "observations": {
+    "1003": "Confisqués lisible ; Retour aux cellules déplacé entier à la deuxième page ; deux pages sans débordement.",
+    "1012": "On n'a pas le choix... / On y va? lisible en deux lignes.",
+    "1252": "Apposition ma reine et moi, lisible sur dernière page ; deux pages précédentes identiques."
+  },
+  "native_commands_identical": true,
+  "host_yes_no_menu_is_not_target_choice": true,
+  "natural_scenes_validated": false
+}

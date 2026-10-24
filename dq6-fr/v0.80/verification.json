@@ -1,0 +1,29 @@
+{
+  "ROM_sha256": "11d3dd59602644b76b3244b1f0caf6e6ff93568a68b87030ac2dc5140e240a47",
+  "decoded_main_slots": 6960,
+  "visible_main_selections": 6957,
+  "changed_main_IDs": [
+    1003,
+    1012,
+    1252
+  ],
+  "other6957_slots_token_identical": true,
+  "other867_groups_byte_identical": true,
+  "main_huffman_tree_unchanged": true,
+  "all_controls_variables_breaks_pauses_identical": true,
+  "all_names_battle_font_engine_and_protected_regions_unchanged": true,
+  "name_allocation_preserved_to": 8095491,
+  "new_translations": 0,
+  "BPS_reapplied": true,
+  "IPS_reapplied": true,
+  "bad_sources_rejected": [
+    "modified_JP",
+    "copier_header"
+  ],
+  "negative_group_pointer_detected": true,
+  "negative_name_allocation_mutation_detected": true,
+  "current_readable_overlay6957_matches_native": true,
+  "recipe_idempotent": true,
+  "all_runtime_contexts_validated": false,
+  "natural_validation": false
+}

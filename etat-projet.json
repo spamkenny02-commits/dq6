@@ -1,5 +1,5 @@
 {
-  "release": "v0.79",
+  "release": "v0.80",
   "status": "SCRIPT_PRINCIPAL_TRADUIT_PROJET_PARTIEL",
   "main_script": {
     "validated": 6957,
@@ -17,19 +17,18 @@
       5700
     ],
     "release_lot_additions": 0,
-    "existing_revisions_this_pass": 5,
+    "existing_revisions_this_pass": 3,
     "revision_IDs_this_pass": [
-      493,
-      556,
-      1018,
-      1151,
-      1181
+      1003,
+      1012,
+      1252
     ],
-    "readable_selection_recipe": "dq6-fr/v0.79/common.py::current_main_selection",
+    "readable_selection_recipe": "dq6-fr/v0.80/common.py::current_main_selection",
     "readable_base": "dq6-fr/v0.56/insertion-candidates.json",
-    "latest_readable_override": "dq6-fr/v0.79/selection.json"
+    "latest_readable_override": "dq6-fr/v0.80/selection.json",
+    "readable_metadata_override": "dq6-fr/v0.80/metadata-1179.json"
   },
-  "baseline": "v0.78",
+  "baseline": "v0.79",
   "prepared_not_inserted": {
     "main": 0,
     "separate_places": 2,
@@ -39,7 +38,7 @@
     "separate_battle": 2,
     "separate_names": 419,
     "separate_battle_spell_combinations": 0,
-    "existing_main_revisions": 121
+    "existing_main_revisions": 118
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
@@ -126,8 +125,8 @@
     "prepared_names_resolved_this_pass": 0
   },
   "rom_bytes": 8388608,
-  "notes": "5 révisions françaises principales intégrées,0 nouvelle traduction,aucune nouvelle position de relecture. Police,noms,combat,moteur inchangés.25pages diagnostiques après/25avant,lire v079 ;scènes naturelles nonvalidées.",
-  "next": "Reprendre v0.79 (5révisions principales intégrées). Lire current_main_selection v079 pour superposer les5tokens/textes corrigés au v056.121autres révisions principales et419propositions noms/menus noninsérées. Glyphes manquants,scènes naturelles et audits hérités restent ouverts ;passe préparatoire400–1299 déjà900positions,prochain1300 et0–399 restant. Sources(3),cœur et camp de checks/source-return-v078 à revérifier.",
+  "notes": "3 révisions principales intégrées,0 nouvelle traduction,0 nouvelle position exhaustive.6pages après/6avant diagnostiques relues ;2pages identiques.1179 : métadonnée C9 réparée,2pages rendues avec AAAAAAAA,tokens ROM inchangés. Scènes naturelles/audits ouverts.",
+  "next": "Reprendre v0.80 et current_main_selection ;chaîne v056+v079+v080,metadata1179.118 révisions principales préparées et419noms/menus distincts restent à intégrer ;glyphes majeurs manquants À/Ç/œ à auditer.900positions400–1299 préparatoirement relues,prochain1300 ;0–399 restant. Aucun audit naturel clos.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -158,7 +157,7 @@
   ],
   "proofreading": {
     "exhaustive_pass_completed": false,
-    "reviewed_this_translation_pass": 5,
+    "reviewed_this_translation_pass": 3,
     "translation_reviews_not_a_full_reread": true,
     "full_main_reread_recorded": 0,
     "new_battle_integrated_from_review": 0,
@@ -189,7 +188,7 @@
     "separate_proposals_next_position": null,
     "separate_proposals_not_yet_in_this_semantic_batch": 0,
     "separate_proposal_review_cycle_completed": 510,
-    "main_existing_revisions_integrated": 5,
+    "main_existing_revisions_integrated": 3,
     "new_exhaustive_positions_this_pass": 0
   },
   "separate_battle_pool": {
@@ -723,7 +722,7 @@
       435
     ]
   },
-  "checkpoint": "v0.79-cinq-revisions-principales",
+  "checkpoint": "v0.80-trois-revisions-et-metadata1179",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",
@@ -767,7 +766,7 @@
     "final_accepted": 0,
     "pending_runtime_or_reserves": 900,
     "ledger": "preparations/relecture-principale-0900-1299/registre-relecture.json",
-    "prepared_existing_main_revisions": 121,
+    "prepared_existing_main_revisions": 118,
     "new_integrated": 0,
     "ROM_tests": 0,
     "next_segment_suggestion": [
@@ -806,9 +805,12 @@
       556,
       1018,
       1151,
-      1181
+      1181,
+      1003,
+      1012,
+      1252
     ],
-    "resolved_preparations": "dq6-fr/v0.79/preparations-resolues.json"
+    "resolved_preparations": "dq6-fr/v0.80/preparations-resolues.json"
   },
   "provenance_selection_diagnostic": {
     "file": "preparations/relecture-principale-0500-0599/diagnostic-provenance-selection.json",
@@ -845,10 +847,12 @@
     "native_orb_action_and_route_verified": false
   },
   "variable1179_readable_token_discrepancy": {
-    "file": "preparations/relecture-principale-0900-1299/audit-variable-1179.json",
-    "status": "A_REDECODER",
+    "file": "dq6-fr/v0.80/audit-variable1179.json",
+    "status": "REPRESENTATION_RESOLUE_CONTEXTE_NATUREL_OUVERT",
     "compiled_ROM_bug_proven": false,
-    "tokens_changed": false
+    "tokens_changed": false,
+    "metadata_corrected": true,
+    "native_diagnostic_two_pages_passed": true
   },
   "source_recovery_checkpoint": {
     "directory": "checks/source-return-v078",

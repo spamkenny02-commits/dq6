@@ -1,3 +1,7 @@
+# Dernière ROM publiée : v0.80 — trois révisions et métadonnée1179
+
+Lire dq6-fr/v0.80/README.md et rapports :1003 confisqués,1012 pas le choix,1252 apposition ponctuée.3révisions existantes,0traduction nouvelle,118révisions principales et419noms/menus préparés restants.6pages après/6avant diagnostiques,2pages identiques ;1179 métadonnée C9 corrigée,2pages avec nom8lettres AAAAAAAA,tokens ROM inchangés. Bus,démarrage,BPS/IPS et protections contrôlés. Texte actuel via current_main_selection v080 (v056+v079+v080+metadata1179). Scènes naturelles,audits et relecture exhaustive nonfinalisés.8Mio. Ancien chemin de verrou disparu : verrou exclusif pris dans /workspace/scratch/926e7cce0efd/.dq6-translation.lock.
+
 # Dernière ROM publiée : v0.79 — cinq révisions principales
 
 Lire dq6-fr/v0.79/README.md,selection,delta,verification etQA :493/556/1018/1151/1181 corrigés,aucune traduction nouvelle.121révisions principales et419propositions noms/menus restantes.25pages après/25avant en camp diagnostique,seules5pages corrigées diffèrent ;démarrage froid/bus256glyphes,BPS/IPS et protections vérifiés. Aucun contexte naturel ou audit hérité clôturé. Pour le texte actuel,superposer selection v079 à la basev056 via current_main_selection ;ne pas recompter ces5positions comme nouvelle relecture. Couverture principale/table inchangée,8Mio.

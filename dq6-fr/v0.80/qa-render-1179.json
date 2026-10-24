@@ -1,0 +1,61 @@
+{
+  "ROM_sha256": "11d3dd59602644b76b3244b1f0caf6e6ff93568a68b87030ac2dc5140e240a47",
+  "all_changed_dialogues_completed": false,
+  "captures": [
+    {
+      "id": 1179,
+      "page": 1,
+      "page_count": 2,
+      "screenshot_name": "v080-1179-page1.png",
+      "screenshot_sha256": "d016c7c1b022b527fae857688d872868bc5194798608083f46ce99db40a2e789",
+      "fixture_sha256": "a0f35f9e89e535473fb04ce51eccb91bc9384bd9328567abc80ba1dddc3eebb1",
+      "fixture_group12_offset": 8002048,
+      "sequence": [
+        {
+          "button": "a",
+          "frames": 4,
+          "press": 1
+        },
+        {
+          "frames": 330
+        },
+        {
+          "frames": 240
+        }
+      ],
+      "observed_message_id": 100,
+      "diagnostic": true,
+      "WRAM_injected": false,
+      "VRAM_injected": false,
+      "natural_scene": false
+    },
+    {
+      "id": 1179,
+      "page": 2,
+      "page_count": 2,
+      "screenshot_name": "v080-1179-page2.png",
+      "screenshot_sha256": "b01dd9d6189f05659b287442358e16edcb967192eb9151ed5914e01e029fc158",
+      "fixture_sha256": "a0f35f9e89e535473fb04ce51eccb91bc9384bd9328567abc80ba1dddc3eebb1",
+      "fixture_group12_offset": 8002048,
+      "sequence": [
+        {
+          "button": "a",
+          "frames": 4,
+          "press": 1
+        },
+        {
+          "frames": 240
+        }
+      ],
+      "observed_message_id": 100,
+      "diagnostic": true,
+      "WRAM_injected": false,
+      "VRAM_injected": false,
+      "natural_scene": false
+    }
+  ],
+  "natural_scenes_executed": false,
+  "private_camp_from_new_game": true,
+  "main_name_observed": "AAAAAAAA",
+  "release_ROM_unchanged": true
+}

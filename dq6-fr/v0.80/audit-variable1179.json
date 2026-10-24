@@ -1,0 +1,25 @@
+{
+  "id": 1179,
+  "compiled_tokens_unchanged": true,
+  "C9_occurrences": 1,
+  "token_sha256": "cb60930856ed864bcd53f85fa833e2613e200dfad7f2d70ac4502b0cf69d1a90",
+  "metadata_U_E000_replaced_by_U_E0C9": true,
+  "DS_fields_checked_from_ROM": [
+    {
+      "file": "data/MESS6/JA/0063.p",
+      "id": 347,
+      "text": "@a@bジュディ「ムニャムニャ……。\n\tねえ　%a000090　いつになったら\n\t結婚してくれるの？　スヤスヤ……。\n@c0@"
+    },
+    {
+      "file": "data/MESS6/FR/0063.p",
+      "id": 347,
+      "text": "@aJudith@bZzzz... Alors, %a000090, quand est-ce qu'on va se marierⓡ Zzzz...\n@c0@"
+    }
+  ],
+  "native_diagnostic_report": "qa-render-1179.json",
+  "observed_hero_name": "AAAAAAAA",
+  "all_two_pages_visually_read": true,
+  "no_overflow_observed": true,
+  "natural_Judith_scene_tested": false,
+  "scope": "Réserve de représentation résolue ; contexte naturel reste nonvalidé."
+}

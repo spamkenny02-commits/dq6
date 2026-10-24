@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1003,
+    "old_text": "La clef du geôlier et l'équipement de garde sont rendus. Retour aux cellules.",
+    "text": "La clef du geôlier et l'équipement de garde sont confisqués. Retour aux cellules.",
+    "changes": [
+      {
+        "line": 2,
+        "before": "sont rendus. Retour aux",
+        "after": "sont confisqués."
+      },
+      {
+        "line": 3,
+        "before": "cellules.",
+        "after": "Retour aux cellules."
+      }
+    ],
+    "pause_count": 1
+  },
+  {
+    "id": 1012,
+    "old_text": "C'était obligatoire... On continue?",
+    "text": "On n'a pas le choix... On y va?",
+    "changes": [
+      {
+        "line": 0,
+        "before": "C'était obligatoire...",
+        "after": "On n'a pas le choix..."
+      },
+      {
+        "line": 1,
+        "before": "On continue?",
+        "after": "On y va?"
+      }
+    ],
+    "pause_count": 0
+  },
+  {
+    "id": 1252,
+    "old_text": "Roi Somnus. C'est bien moi. Pardonnez-moi pour tous les problèmes que je vous ai causés. Mais assez bavardé. Nous avons beaucoup à faire! Escortez-nous moi et ma reine jusqu'au château immédiatement!",
+    "text": "Roi Somnus. C'est bien moi. Pardonnez-moi pour tous les problèmes que je vous ai causés. Mais assez bavardé. Nous avons beaucoup à faire! Escortez-nous, ma reine et moi, jusqu'au château immédiatement!",
+    "changes": [
+      {
+        "line": 6,
+        "before": "Escortez-nous moi et ma",
+        "after": "Escortez-nous, ma reine"
+      },
+      {
+        "line": 7,
+        "before": "reine jusqu'au château",
+        "after": "et moi, jusqu'au château"
+      }
+    ],
+    "pause_count": 2
+  }
+]

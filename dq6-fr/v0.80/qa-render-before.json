@@ -1,0 +1,163 @@
+{
+  "ROM_sha256": "09bc2eed6043fae767b20580b8ccddcbf53c18fe8f0b7c8e3c2c172679a4e529",
+  "all_changed_dialogues_completed": true,
+  "captures": [
+    {
+      "id": 1003,
+      "page": 1,
+      "page_count": 2,
+      "screenshot_name": "v080-before-1003-page1.png",
+      "screenshot_sha256": "2525216f2e9eb830601455b8cbbd980caf4df192e6c4028a612912ed3d971ae5",
+      "fixture_sha256": "ec1e85e7af7ecaad0019ac84a62adba0f9ea557234d17c4926783816c3e33d87",
+      "fixture_group12_offset": 8001024,
+      "sequence": [
+        {
+          "button": "a",
+          "frames": 4,
+          "press": 1
+        },
+        {
+          "frames": 330
+        },
+        {
+          "frames": 240
+        }
+      ],
+      "observed_message_id": 100,
+      "diagnostic": true,
+      "WRAM_injected": false,
+      "VRAM_injected": false,
+      "natural_scene": false
+    },
+    {
+      "id": 1003,
+      "page": 2,
+      "page_count": 2,
+      "screenshot_name": "v080-before-1003-page2.png",
+      "screenshot_sha256": "12541f56444480831cff906735895c45483f7b8ace8fa117c52a455b76e43477",
+      "fixture_sha256": "ec1e85e7af7ecaad0019ac84a62adba0f9ea557234d17c4926783816c3e33d87",
+      "fixture_group12_offset": 8001024,
+      "sequence": [
+        {
+          "button": "a",
+          "frames": 4,
+          "press": 1
+        },
+        {
+          "frames": 240
+        }
+      ],
+      "observed_message_id": 100,
+      "diagnostic": true,
+      "WRAM_injected": false,
+      "VRAM_injected": false,
+      "natural_scene": false
+    },
+    {
+      "id": 1012,
+      "page": 1,
+      "page_count": 1,
+      "screenshot_name": "v080-before-1012-page1.png",
+      "screenshot_sha256": "8194e60139168b0f40ed9cb0099df1557960cb2145d17329a55b3d0bbe5afe7a",
+      "fixture_sha256": "ec632852b1170d1d129f7c0f54ed5c9b94fe70861b79338b6a2bca7d2a4bea76",
+      "fixture_group12_offset": 8001024,
+      "sequence": [
+        {
+          "button": "a",
+          "frames": 4,
+          "press": 1
+        },
+        {
+          "frames": 330
+        },
+        {
+          "frames": 240
+        }
+      ],
+      "observed_message_id": 100,
+      "diagnostic": true,
+      "WRAM_injected": false,
+      "VRAM_injected": false,
+      "natural_scene": false
+    },
+    {
+      "id": 1252,
+      "page": 1,
+      "page_count": 3,
+      "screenshot_name": "v080-before-1252-page1.png",
+      "screenshot_sha256": "72a9b29cb971926ab880280f6a556184487c110c37a20810a9b6714193c6fffc",
+      "fixture_sha256": "56457f523b44948643445e3ea6df5d0edcf20d99fd173337c244d673efe62946",
+      "fixture_group12_offset": 8001024,
+      "sequence": [
+        {
+          "button": "a",
+          "frames": 4,
+          "press": 1
+        },
+        {
+          "frames": 330
+        },
+        {
+          "frames": 240
+        }
+      ],
+      "observed_message_id": 100,
+      "diagnostic": true,
+      "WRAM_injected": false,
+      "VRAM_injected": false,
+      "natural_scene": false
+    },
+    {
+      "id": 1252,
+      "page": 2,
+      "page_count": 3,
+      "screenshot_name": "v080-before-1252-page2.png",
+      "screenshot_sha256": "b4f5aa3cec265c0a778ca7ff065be9ff84df7d6d8a6a526cd5d43bdb0de65cbd",
+      "fixture_sha256": "56457f523b44948643445e3ea6df5d0edcf20d99fd173337c244d673efe62946",
+      "fixture_group12_offset": 8001024,
+      "sequence": [
+        {
+          "button": "a",
+          "frames": 4,
+          "press": 1
+        },
+        {
+          "frames": 240
+        }
+      ],
+      "observed_message_id": 100,
+      "diagnostic": true,
+      "WRAM_injected": false,
+      "VRAM_injected": false,
+      "natural_scene": false
+    },
+    {
+      "id": 1252,
+      "page": 3,
+      "page_count": 3,
+      "screenshot_name": "v080-before-1252-page3.png",
+      "screenshot_sha256": "8b0cd8e9c8285b4a8d946b5567194b9e57a0fb87d0882c713d0c0c7d896aa435",
+      "fixture_sha256": "56457f523b44948643445e3ea6df5d0edcf20d99fd173337c244d673efe62946",
+      "fixture_group12_offset": 8001024,
+      "sequence": [
+        {
+          "button": "a",
+          "frames": 4,
+          "press": 1
+        },
+        {
+          "frames": 240
+        }
+      ],
+      "observed_message_id": 100,
+      "diagnostic": true,
+      "WRAM_injected": false,
+      "VRAM_injected": false,
+      "natural_scene": false
+    }
+  ],
+  "natural_scenes_executed": false,
+  "private_camp_from_new_game": true,
+  "main_name_observed": "AAAAAAAA",
+  "release_ROM_unchanged": true
+}

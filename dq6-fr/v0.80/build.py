@@ -1,0 +1,4 @@
+from common import *
+import argparse
+p=argparse.ArgumentParser();p.add_argument('--jp',type=Path,required=True);p.add_argument('--out',type=Path,required=True);a=p.parse_args();jp=a.jp.read_bytes();base=baseline(jp);rows=selection(base);assert rows==read(O/'selection.json');rom,writes=assemble(base,rows);bps,ips=parent.patches(jp,rom);a.out.mkdir(parents=True,exist_ok=True);(a.out/'result.sfc').write_bytes(rom);(a.out/(PATCH+'.ips')).write_bytes(ips);(R/'patches'/(PATCH+'.bps')).write_bytes(bps)
+q=dict(BASE,release='v0.80',baseline='v0.79',ROM_bytes=len(rom),ROM_sha256=sha(rom),BPS_sha256=sha(bps),IPS_sha256=sha(ips),main_revision_IDs=IDS,main_groups_written=writes,new_label_insertions=0,new_translations=0,existing_french_revisions=0,new_main_revisions=3,native_font_modified=False,names_modified=False,battle_modified=False,natural_validation=False);save('build-report.json',q);print(q['ROM_sha256'])
