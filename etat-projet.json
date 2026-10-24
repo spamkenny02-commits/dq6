@@ -116,7 +116,7 @@
   },
   "rom_bytes": 8388608,
   "notes": "87 libellés modifiés : 81 nouvelles traductions, 6 révisions FR. 80 objets et 7 commandes. 86 propositions résolues, 405 restantes. 10 corrections de sauts de ligne B5 isolées. Pas de nouveau lot de 400 ni relecture exhaustive.",
-  "next": "Poursuivre à1300 puis les plages hors400–1299 déjà consignées ;0–399 reste à relire.126 révisions principales et419 propositions noms/menus noninsérées. Lire audits consignes/orbe/vin et variable1179 :pas de défaut ROM prouvé ni audit1135 clos. Sources privées absentes,aucun nouveau test ROM.",
+  "next": "Sources(3) et camp privé retrouvés/recréé au contrôle :lire checks/source-return-v078. Vérifier leur disponibilité avant tout lot. Reprendre les126 révisions principales préparées par cas sûrs à glyphes existants et tests natifs,puis extensions de glyphes et419 noms/menus. Dernière relecture principale400–1299,prochain1300 ;0–399 reste à relire. Audits1135/1179 et autres restent ouverts.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -710,7 +710,7 @@
       435
     ]
   },
-  "checkpoint": "relecture-preparatoire-principale-0900-1299",
+  "checkpoint": "sources-revenues-reconstruction-v078",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",
@@ -828,5 +828,17 @@
     "status": "A_REDECODER",
     "compiled_ROM_bug_proven": false,
     "tokens_changed": false
+  },
+  "source_recovery_checkpoint": {
+    "directory": "checks/source-return-v078",
+    "source_availability_verified": true,
+    "baseline_v078_rebuilt_verified": true,
+    "core_rebuilt": true,
+    "fresh_new_game_camp_created": true,
+    "private_camp_path": "/workspace/scratch/926e7cce0efd/private-emulator/tests/reprise-v078-camp.state",
+    "availability_after_reset_guaranteed": false,
+    "new_integrated": 0,
+    "prepared_main_revisions": 126,
+    "prepared_names": 419
   }
 }

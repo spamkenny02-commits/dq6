@@ -1,0 +1,17 @@
+diff --git a/libretro/libretro.cpp b/libretro/libretro.cpp
+index 6060767..67b5983 100644
+--- a/libretro/libretro.cpp
++++ b/libretro/libretro.cpp
+@@ -2169,3 +2169,12 @@ void S9xAutoSaveSRAM()
+ {
+     return;
+ }
++
++// Read-only ROM-map diagnostic; no CPU cycles, WRAM or ROM writes.
++extern "C" unsigned retro_test_read_rom_byte(unsigned address)
++{
++    const unsigned block = (address & 0xffffff) >> MEMMAP_SHIFT;
++    uint8 *mapped = Memory.Map[block];
++    if (!Memory.BlockIsROM[block] || mapped < (uint8 *) CMemory::MAP_LAST) return 256;
++    return mapped[address & 0xffff];
++}

@@ -1,3 +1,7 @@
+# Sources revenues — v0.78 reconstruite et nouveau camp privé
+
+Lire checks/source-return-v078 :trois SHA256 sources(3) vérifiés,reconstruction8Mio identique,BPS/IPS réappliqués,zones protégées et mauvaises sources contrôlées. Cœur officiel recompilé,démarrage froid4016plages/573869octets et256glyphes,nouvelle partie AAAAAAAA arrivée au camp sans injection. Sources/camp privés actuels,disponibilité après réinitialisation non garantie.126 révisions principales et419 noms/menus toujours noninsérés ;aucune relecture ou traduction nouvelle. Reprendre insertion/test des cas sûrs,ne plus supposer les ROM absentes sans vérifier.
+
 # Relecture préparatoire après v0.78 — dialogues900–1299
 
 Lire preparations/relecture-principale-0900-1299/README.md :400 nouvelles positions,55 révisions préparées dont43 dépendantes de glyphes. Cumul400–1299 :900 positions préparatoirement relues,126 révisions principales et419 propositions noms/menus distinctes noninsérées.961 consigne derrière,1105 nord-ouest,1018 geôlier ;audit1135 toujours ouvert,écart texte/tokens1179 à redécoder sans défaut ROM prouvé.0nouvelle insertion ou test natif,patch inchangé. Prochain ID1300 ;0–399 reste à relire.

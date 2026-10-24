@@ -1,0 +1,57 @@
+{
+  "baseline_commit": "7e4c0d2f4728775775a72c8dd605050cffee33f7",
+  "release_rebuilt": "v0.78",
+  "source_files": {
+    "JP": {
+      "local_name": "Dragon Quest VI - Maboroshi no Daichi (Japan)(3).sfc",
+      "sha256": "90ba1868f0e75734a19f873401fab515cb945c62cd0ad173f89cf352ab86f29e"
+    },
+    "DS": {
+      "local_name": "Dragon Quest VI - Realms of Reverie (E)(3).nds",
+      "sha256": "5667303e3c7ab518a1b6bb2119abdfcc17422b3387dc5083f67b8e2b54734fb5"
+    },
+    "IPS": {
+      "local_name": "Dq6f(3).ips",
+      "sha256": "b34155f476d0bce3d2247c577417b3ade3ee071e7c9b8af634f8a7cb613cdd37"
+    }
+  },
+  "source_availability_checked_now": true,
+  "availability_after_workspace_reset_guaranteed": false,
+  "ROM_bytes": 8388608,
+  "ROM_sha256": "0a69826c5139f75e8f78db7bdfa6ab5867180c866d09f26a548fdd2050c71a97",
+  "baseline_matches_published_ROM_hash": true,
+  "BPS_IPS_reapplied": true,
+  "wrong_sources_rejected": true,
+  "old_main_messages_and_protected_regions_unchanged": true,
+  "core_official_repository": "https://github.com/snes9xgit/snes9x",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "core_readonly_map_hook": true,
+  "map_hook_changes_CPU_cycles_or_game_memory": false,
+  "core_binary_sha256": "0645be373df918723caa91887ddfb944533aea836f37c98f86364bb6025f9eba",
+  "cold_boot": true,
+  "new_game_started": true,
+  "new_game_progress": "Camp du prologue atteint par entrées ordinaires depuis démarrage à froid et continuation de snapshots privés entre processus.",
+  "hero_name_observed": "AAAAAAAA",
+  "frames_from_cold_boot": 5833,
+  "WRAM_ROM_VRAM_injection_during_new_game": false,
+  "private_camp_path": "/workspace/scratch/926e7cce0efd/private-emulator/tests/reprise-v078-camp.state",
+  "private_camp_sha256": "310b739732a8e71cb4da01607de5b4b3b6f9e1258a8151106f9b002d672a2889",
+  "private_camp_bytes_published": false,
+  "screenshots_visually_reviewed": [
+    "Journal",
+    "Saisir un nom",
+    "Nom huit lettres",
+    "Fin",
+    "Vitesse du texte",
+    "Stéréo/Mono",
+    "Camp du prologue"
+  ],
+  "camp_screenshot_sha256": "becb68309df35a4d8ba38a459758bd2804cf390f481a50e050e67663b140df3f",
+  "new_translations_integrated": 0,
+  "prepared_main_revisions_unchanged": 126,
+  "prepared_names_unchanged": 419,
+  "new_preparatory_reviews": 0,
+  "natural_battle_or_travel_validated": false,
+  "all_prepared_revisions_tested": false,
+  "inherited_audits_closed": false
+}
