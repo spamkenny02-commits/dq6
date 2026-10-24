@@ -1,0 +1,794 @@
+{
+  "scope": "Comparaison textuelle dans le lot, pas simulation des récompenses.",
+  "status": "OUVERT_PREPARE_NON_INSERE",
+  "description_revision_id": 784,
+  "old_text": " et son équipe se réveillent ! Près du lit repose un splendide  dont l'éclat éblouit le regard. Objet reçu par  - ",
+  "proposed_text": " et son équipe se réveillent ! Près du lit repose le chef-d'oeuvre de Clume (). Son éclat éblouit le regard. Objet reçu par  - ",
+  "visible_variable_sequence_preserved": true,
+  "expected_source_counts": {
+    "D3": 2,
+    "B2": 1,
+    "B5": 1
+  },
+  "reward_list_or_B2_B5_mapping_verified": false,
+  "native_selection_or_item_IDs_inspected": false,
+  "natural_scene_executed": false,
+  "DS_JA_523_without_paired_FR_record_in_extraction": {
+    "file": "data/MESS6/JA/0084.p",
+    "id": 523,
+    "text": "@a@b%a000120は　エンデの%a002380を\n手に入れた！\n@c0@",
+    "record_sha256": "c9d80d07a17fb321fcf677c6e12fd22f4ff9b8b715ad8c61a429c16a4c001ec0",
+    "FR_record_present_in_this_extraction": false,
+    "does_not_prove_missing_translation_in_DS_ROM": true
+  },
+  "related_texts": [
+    {
+      "id": 768,
+      "text": "Qui êtes-vous? Je ne fabriquerai plus jamais d'armures. Quoi que je fasse ici, je ne pourrai plus retrouver ma famille... Hein? Vous êtes ici pour vaincre le démon suprême? Vous avez gagné ce monde par vos propres moyens? Non, je n'y crois pas! C'est sûrement encore un piège du démon suprême! Si ce que vous dites est vrai, montrez-m'en la preuve. Voyons... J'ai une idée. Ma maison est à Morneville, un petit village entouré de hautes montagnes. Ma famille doit encore y vivre, ma femme et mon chien Airain... Ils doivent s'inquiéter pour moi. Remettez donc ceci à ma femme, à Morneville.",
+      "source_japanese": "なんじゃ　お前さんは。[LINE]わしゃ　もう　2度と[LINE]防具なんぞ　つくらんぞ。[WAIT][LINE]ここで　何をしたって[LINE]もう　家族のもとには[LINE]もどれんのじゃ...。[WAIT][LINE]...ん?　なんじゃと?[LINE]大魔王を　たおすために　この世界に[LINE]やって来たじゃと?[WAIT][LINE]それじゃ　お前さん[LINE]自分のチカラで　この世界に[LINE]やって来たというのか...![WAIT][LINE]いや!　信じられん。　そんな話は[LINE]信じられんぞい!　これも　きっと[LINE]大魔王の　ワナじゃ![WAIT][LINE]もし　そうでないと　いうなら...[LINE]もし　お前さんの話が　本当なら[LINE]その　あかしを　見せてくれ。[WAIT][LINE]そうじゃな......[LINE]こういうのは　どうじゃ?[WAIT][LINE]ザクソンの村...　まわりを[LINE]高い山に　かこまれた　小さな村に[LINE]わしの家が　ある。[WAIT][LINE]そこには　残された　わしの家族が[LINE]おるはずじゃ。　わしの妻と[LINE]犬の　シルバー......。[WAIT][LINE]きっと　わしのことを[LINE]心配しておるじゃろう...。[WAIT][LINE]その　ザクソンの村の[LINE]わしの妻に　これを[LINE]わたしてほしいのじゃ。[WAIT][END STRING AC]",
+      "old_tokens_sha256": "ab582c69a15d66145d17a953504e788f3f02b5c83a686fde6988546515676a27",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 126,
+          "FR_text": "@a@b*ⓢ (soupir) Combien de fois devrai-je le répéterⓡ J'ai dit adieu à la fabrication d'armures. Pour de bon.\n@c0@",
+          "JA_text": "@a@b＊「なんじゃ　お前さんは\n\tわしゃ　もう　２度と\n\t防具なんぞ　つくらんぞ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "e7296b53ffe14939606ecaa9b9e3b6b00caad6b7addce8cabfd3459bfcd0175d",
+          "JA_record_sha256": "7e95c70de736fd74b1c99ff69de442ec28921baa4a33cf88ff2be6f2e093c4d5"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 127,
+          "FR_text": "@a@b*ⓢ Quel intérêt, de toute façon, heinⓡ C'est pas comme si ça allait me permettre de retrouver ma famille...\n@c0@",
+          "JA_text": "@a@b＊「ここで　何をしたって\n\tもう　家族のもとには\n\tもどれんのじゃ……。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "64496f64626162503f0e7afa8b165c063f41dbfa20f1eee96af8e9ab4ba04ebe",
+          "JA_record_sha256": "13c4a07bd3a052a220a25eb119fbe42cc460b90531afdf6f37e33d9bd225e81d"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 128,
+          "FR_text": "@a@b*ⓢ Mmmⓡ ㈢Qu'est-ce que vous ditesⓡ ㈢Vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z dans ce monde pour vaincre Mortamor et nous libérerⓡ\n@c0@",
+          "JA_text": "@a@b＊「……ん？㈢　なんじゃと？㈢\n\t大魔王を　たおすために　この世界に\n\tやって来たじゃと？\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "0c4154b3d0b2be6f682c515b793629dc38676cb1aca2d1f9e097eaea61a5a18c",
+          "JA_record_sha256": "142acba2f3d7f818f3446b56142773a908bef2ed45896df7367190a1f0e2b2ff"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 129,
+          "FR_text": "@a@b*ⓢ Vous voulez dire que... vous êtes %H0860%X%A0110%Xvenu%Z%B0110%Xvenue%Z%Y%R0000%Xvenues%Yvenus%Z%Z ici dans ce butⓡ Par vos propres moyensⓡⓐ\n@c0@",
+          "JA_text": "@a@b＊「それじゃ　お前さん\n\t自分のチカラで　この世界に\n\tやって来たというのか……！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "6b81005ab0b5b44e1b8b1f3621c1181f5260e3db1970ac2b8da594cddcd2c3a1",
+          "JA_record_sha256": "99330342aa45cac2df3772889c10023f864d2c2632d5488157f8c23ea5d96da7"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 130,
+          "FR_text": "@a@b*ⓢ Nonⓠ Ça ne prend pas avec moiⓠ Je parie que c'est encore une des ruses de Mortamorⓠ\n@c0@",
+          "JA_text": "@a@b＊「いや！　信じられん。　そんな話は\n\t信じられんぞい！　これも　きっと\n\t大魔王の　ワナじゃ！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "a0ce67c6ed5e9f41509325fb149b4ebb70a73627ed1b3bcbd74c7e3f9b8bfb06",
+          "JA_record_sha256": "9b05fd5c4d3525ca45e724e9bca2d5d7c9061038cf8b6f1c7edda9d4ae95b287"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 131,
+          "FR_text": "@a@b*ⓢ Il faudra faire mieux que ça pour m'entourlouperⓠ C'est pas comme si vous aviez une preuve à me donner...\n@c0@",
+          "JA_text": "@a@b＊「もし　そうでないと　いうなら……\n\tもし　お前さんの話が　本当なら\n\tその　あかしを　見せてくれ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "8b03029a4d0ac6c467d351932f6b048766a220771a3a278be14b2693e7e841ff",
+          "JA_record_sha256": "d66ccc8e3fc9048becba8ff0832cd1c67ee224581971e74e28f8ce144d6fe749"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 132,
+          "FR_text": "@a@b*ⓢ Mmm...㈢㈢ J'ai une idée.\n@c0@",
+          "JA_text": "@a@b＊「そうじゃな……㈢㈢\n\tこういうのは　どうじゃ？\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "e6f413f3a5540dd56ec31389cfdbb927499a7f41a9e5aff8032699fade83356a",
+          "JA_record_sha256": "2ebdbd306b249d9fa1f24397e8599662e0ad8d2d2c67210fc55bd3f4f2da3290"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 133,
+          "FR_text": "@a@b*ⓢ Le village de Morneville...\n@c0@",
+          "JA_text": "@a@b＊「ザクソンの村……。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "b73124ca41797aefe2d2ae989cddb4048326dc7a9a5428ddcdd82b6b30533e67",
+          "JA_record_sha256": "c2d47f31258e690ab06e6e6927be4862b5bc39e2af21893d6436e727e709a3a6"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 134,
+          "FR_text": "@a@b*ⓢ C'est là-bas que j'habite. C'est un tout petit village niché dans les montagnes au nord-ouest de Monstria.\n@c0@",
+          "JA_text": "@a@b＊「モンストルの北西の　まわりを\n\t高い山に　かこまれた　小さな村に\n\tわしの家が　ある。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "b6bdac0d65c3b576d8827cf2ed177fbc6eca696d4922aeec60f7f011cc1b411b",
+          "JA_record_sha256": "86a002b2e066f30bacb39a54aa13532dc3c617eab40cc21e38f904dfb81770bf"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 135,
+          "FR_text": "@a@b*ⓢ La famille dont j'ai été séparé devrait toujours y habiter... Mon épouse et mon chien, Airain.\n@c0@",
+          "JA_text": "@a@b＊「そこには　残された　わしの家族が\n\tおるはずじゃ。　わしの妻と\n\t犬の　シルバー……。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "50ea1669ff6c03813380636f0658251f51b6ac873a5295530b34e06dc071740e",
+          "JA_record_sha256": "0e3aebb93ff62ea260b5af9a011cef996fb7bc7a358ac195c2ef7c3cb61ca0bc"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 136,
+          "FR_text": "@a@b*ⓢ Ils doivent tous deux être morts d'inquiétude...\n@c0@",
+          "JA_text": "@a@b＊「きっと　わしのことを\n\t心配しておるじゃろう……。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "558faa51996e0cedd4ac9b73b25255687842f39ac82a4bbba5b4514e7460ef95",
+          "JA_record_sha256": "d9f2f82fd7f98131490264ba8ccb3bd94786b491ffbbcec3e5b37113ad95b5a3"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 137,
+          "FR_text": "@a@b*ⓢ Si vous réussissez à y aller, remettez ceci de ma part à mon épouse. C'est ma vieille pipe.\n@c0@",
+          "JA_text": "@a@b＊「その　ザクソンの村の\n\tわしの妻に　これを\n\tわたしてほしいのじゃ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "f002776b1712e49500046d2ee8a082210b2ec42fc7866ed350bd31ff91ed7035",
+          "JA_record_sha256": "66df102ea89c1114dacc9164bd1cb3e7e0aec8889c2140c6e37c757da2e20f7b"
+        }
+      ]
+    },
+    {
+      "id": 769,
+      "text": " reçoit une vieille pipe.",
+      "source_japanese": "[CODE D4][CODE D3]は　ふるびたパイプを[LINE]うけとった![END STRING AE]",
+      "old_tokens_sha256": "699c7c2ac5722e563f96dab04a12bb4fbb350391dee6e2de092afdc521ab4c1e",
+      "native_variables": {
+        "D3": 1
+      },
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 138,
+          "FR_text": "@a@b%0%a000120 reçoit une vieille pipe.\n@c0@",
+          "JA_text": "@a@b%a000120は　ふるびたパイプを\nうけとった！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "3f35935e0e4035ee67e4952b7a6cb5c0a3fee94eeaa93f098b8d519713fa747f",
+          "JA_record_sha256": "a4331f8883770d47c310a7e683b8c6458359e2680c8044a3007ef5f3868d8bfd"
+        }
+      ]
+    },
+    {
+      "id": 770,
+      "text": "Elle me l'a offerte quand on était jeunes. Elle la reconnaîtra, j'en suis sûr. Une fois que ce sera fait, demandez-lui de vous remettre mes outils. Elle devrait les trouver dans mon atelier. Ah, mieux vaut que je vous dise mon nom! Je m'appelle Clume. Tristan Clume.",
+      "source_japanese": "それは　若い頃　妻から[LINE]もらった物でな。[WAIT][LINE]これを見れば　妻は　すぐに[LINE]わしの物だと　わかるじゃろう。[WAIT][LINE]そうしたら　わしの　しごと道具を[LINE]妻に　出してもらって来てくれ。[LINE]わしの部屋に　おいてあるはずじゃ。[WAIT][LINE]いい忘れておったが　わしの名は[LINE]クラーク・エンデ。[WAIT][END STRING AC]",
+      "old_tokens_sha256": "1a8fa9355aee4c3b82eed58dccaf29e2f2a2b8fe2d3f68b6ebdd2b55c1933c26",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 139,
+          "FR_text": "@a@b*ⓢ Elle me l'a offerte quand on était jeunes.\n@c0@",
+          "JA_text": "@a@b＊「それは　若い頃　妻から\n\tもらった物でな。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "197294edc9f495da26e1c73d1274f30fa45464c8fc9308c3635a8680baaaa11b",
+          "JA_record_sha256": "46a9af5ddd94deb553dc20d46bab5be0f625b7cd8acc59597f6743a6d5458d21"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 140,
+          "FR_text": "@a@b*ⓢ Elle la reconnaîtra, j'en suis sûr.\n@c0@",
+          "JA_text": "@a@b＊「これを見れば　妻は　すぐに\n\tわしの物だと　わかるじゃろう。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "dde9069c3cf4a47a95dd71e8fdf653803ede0eb1a3d587c523dfb7a23d5824a5",
+          "JA_record_sha256": "83bc4c38f69e35ed82c3c93c2289d0e5ec9e74998a4223ec66e53f5c230f9c06"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 141,
+          "FR_text": "@a@b*ⓢ Une fois que ce sera fait, demandez-lui de vous remettre mes outils. Elle devrait les trouver dans mon atelier.\n@c0@",
+          "JA_text": "@a@b＊「そうしたら　わしの　しごと道具を\n\t妻に　出してもらって来てくれ。\n\tわしの部屋に　おいてあるはずじゃ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "1f5a90b446a560d60660633fce53248c93e764b394ce527eab4a4b43d8fcec1e",
+          "JA_record_sha256": "ed4b8deefe7b4f10c2fa87d6f9f5d518187de6798381bfcf14fc5f21220ab272"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 142,
+          "FR_text": "@a@b*ⓢ Ah, mieux vaut que je vous dise mon nomⓠ\nJe m'appelle Clume. Tristan Clume.\n@c0@",
+          "JA_text": "@a@b＊「いい忘れておったが　わしの名は\n\tクラーク・エンデ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "cc8348a3a1a618cea469782a4b38a880a375a00208120dcb00d885e0a029d082",
+          "JA_record_sha256": "ce895359a61ced3b112899a63e2f5cc43e06be78d9ccab25d8792fc80b336117"
+        }
+      ]
+    },
+    {
+      "id": 771,
+      "text": "Tristan Clume. Rapportez-moi mes outils de travail et je croirai peut-être à votre histoire.",
+      "source_japanese": "[CODE D4]エンデ「わしの　しごと道具を[LINE]もって来てくれたら　お前さんの[LINE]話を　信じよう。[END STRING AC]",
+      "old_tokens_sha256": "49a6024f59b0c457c48182e566fc815dd49575285133eb25bdafca203e8c41b4",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 143,
+          "FR_text": "@aTristan Clume@bRapportez-moi mes outils de travail et je croirai peut-être à votre histoire.\n@c0@",
+          "JA_text": "@a@bエンデ「わしの　しごと道具を\n\tもって来てくれたら　お前さんの\n\t話を　信じよう。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "3d25b52c04fdf26b40127a6dded167f9d5a2d83a0a1ca6ef9df69cbbeb519d41",
+          "JA_record_sha256": "4f5bd771fcccd522d827acaa8bb01fd4be4b23543d94769ea9141fec07ad6628"
+        }
+      ]
+    },
+    {
+      "id": 772,
+      "text": "Tristan Clume. Le village de Morneville... C'est là-bas que j'habite. C'est un tout petit village niché dans les montagnes. La famille dont j'ai été séparé devrait toujours y habiter... Mon épouse et mon chien, Airain. Rapportez-moi mes outils de travail et je croirai peut-être à votre histoire.",
+      "source_japanese": "[CODE D4]エンデ「ザクソンの村...　まわりを[LINE]高い山に　かこまれた　小さな村に[LINE]わしの家が　ある。[WAIT][LINE][CODE D4]エンデ「そこには　残された[LINE]わしの家族が　おるはずじゃ。[LINE]わしの妻と　犬の　シルバー......。[WAIT][LINE][CODE D4]エンデ「わしの　しごと道具を[LINE]もって来てくれたら　お前さんの[LINE]話を　信じよう。[END STRING AC]",
+      "old_tokens_sha256": "3e9a8a6ba478f0df1dabd60b042ae803b1f23250f763c16914f9066f6a757868",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 144,
+          "FR_text": "@aTristan Clume@bLe village de Morneville...\n@c0@",
+          "JA_text": "@a@bエンデ「ザクソンの村……。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "e6c0ea0d47a28b0b7b66ca4908d3e281e9fd08d5d7014131467d2e4818359e91",
+          "JA_record_sha256": "db5f02306056b06984326f60a828d162892354fb6cd581b94811309511a08de7"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 145,
+          "FR_text": "@aTristan Clume@bC'est là-bas que j'habite. C'est un tout petit village niché dans les montagnes au nord-ouest de Monstria.\n@c0@",
+          "JA_text": "@a@bエンデ「モンストルの北西の　まわりを\n\t高い山に　かこまれた　小さな村に\n\tわしの家が　ある。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "e7ebc86a6c6e9cff28d4b3e2e6b740bc576959d5fbce56654aeaaaabeefa6067",
+          "JA_record_sha256": "124c2fbe7768d91fd5769b95120f9639d2cda82fcbb2350fd2e97f4a441362c0"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 146,
+          "FR_text": "@aTristan Clume@bLa famille dont j'ai été séparé devrait toujours y habiter... Mon épouse et mon chien, Airain.\n@c0@",
+          "JA_text": "@a@bエンデ「そこには　残された\n\tわしの家族が　おるはずじゃ。\n\tわしの妻と　犬の　シルバー……。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "5f0d4b5705d66d51a3a5070b126612849af3f08950f49f697553a5b431119669",
+          "JA_record_sha256": "1c8959c1e4653b5a6816f35e4ca182b605ba3510aa4d622a3a54d689c467239e"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0082.p",
+          "JA_file": "data/MESS6/JA/0082.p",
+          "id": 147,
+          "FR_text": "@aTristan Clume@bRapportez-moi mes outils de travail et je croirai peut-être à votre histoire.\n@c0@",
+          "JA_text": "@a@bエンデ「わしの　しごと道具を\n\tもって来てくれたら　お前さんの\n\t話を　信じよう。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "45bd7735452290adfd5c4b28a3ed4a034355b366dab1e6baf43520f89e286ada",
+          "JA_record_sha256": "d708771315561207de8a62e1ea5af0e3b2a83a13b6f304766a55ba671fa31a24"
+        }
+      ]
+    },
+    {
+      "id": 773,
+      "text": "Tristan Clume. Mmm? Encore vous? Qu'est-ce que vous dites? Vous m'avez rapporté mes outils?",
+      "source_japanese": "[CODE D4]エンデ「なんじゃ　お前さんたち[LINE]また　やって来たのか。[WAIT][LINE][CODE D4]エンデ「ん?　なんだと?[LINE]わしの　しごと道具を[LINE]もって来たというのか?[END STRING AC]",
+      "old_tokens_sha256": "16b5187cb86f7a870ca51620067e3c5501c1c5ac663092db52bead23229cb8b6",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 495,
+          "FR_text": "@aTristan Clume@bMmmⓡ Encore vousⓡ\n@c0@",
+          "JA_text": "@a@bエンデ「なんじゃ　お前さんたち\n\tまた　やって来たのか。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "702d3128087fb866dcbd45bdf4f2b26d8ca164f9866abe7119cff868a20e73dd",
+          "JA_record_sha256": "671e52c8cdf5867c05ad848bd35967b16c6d0df320ee72d31567d946d6b76240"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 496,
+          "FR_text": "@aTristan Clume@bQu'est-ce que vous ditesⓡ Vous m'avez rapporté mes outilsⓡ\n@c0@",
+          "JA_text": "@a@bエンデ「ん？　なんだと？\n\tわしの　しごと道具を\n\tもって来たというのか？\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "7e9f957055adabf7b6b238960817aef6cd5f80e2ff24793777deedf94df872cd",
+          "JA_record_sha256": "8432adb6051abe4d221532bc4d7dfda0aa86c14b3fac2209cef58313868dae05"
+        }
+      ]
+    },
+    {
+      "id": 774,
+      "text": "Tristan Clume. Mmpf! Bien sûr que non. Seul un imbécile aurait gobé vos âneries.",
+      "source_japanese": "[CODE D4]エンデ「ふん!　そうじゃろうとも。[LINE]わしの　家族のもとへなど[LINE]いけるはずが　ないわい。[END STRING AC]",
+      "old_tokens_sha256": "565e544b9cd367711e1284d708ef036c052b7313c7d769214c3c3bf075fd7580",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 527,
+          "FR_text": "@aTristan Clume@bMmpfⓠ Bien sûr que non. Seul un imbécile aurait gobé vos âneries.\n@c0@",
+          "JA_text": "@a@bエンデ「ふん！　そうじゃろうとも。\n\tわしの　家族のもとへなど\n\tいけるはずが　ないわい。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "c2d41da5c31f0386fe362752fbded5fe375f01efc249f6e57bdd17bc2e8d4461",
+          "JA_record_sha256": "615a214e9bec4921b1237505dcf2338c20d05663c5760fc319215941d294c675"
+        }
+      ]
+    },
+    {
+      "id": 775,
+      "text": " remet à Clume ses outils de travail.",
+      "source_japanese": "[CODE D3]は　エンデの道具を[LINE]手わたした![END STRING AE]",
+      "old_tokens_sha256": "e1f137bae87ddbe843f1c263541d1a3e3b9ba3bb5bef1451eea918c148c85327",
+      "native_variables": {
+        "D3": 1
+      },
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 497,
+          "FR_text": "@a@b%0%a000120 remet à Clume ses outils de travail.\n@c0@",
+          "JA_text": "@a@b%a000120は　エンデの道具を\n手わたした！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "94d9777541fc44e6361aca169b64db0f9f0defa86edf338016d39c81af1fd045",
+          "JA_record_sha256": "fca8643fbf0e2b93eb9ac09666c33d1b2aa825218c81ba1c20914c20d99e3f6d"
+        }
+      ]
+    },
+    {
+      "id": 776,
+      "text": "Tristan Clume. Par la Déesse! Ce... Ce sont vraiment mes outils! Je les reconnaîtrais entre mille! Je suis navré d'avoir douté de vous. Je croyais que vous bluffiez... J'aurais jamais osé croire que vous puissiez dire vrai! Et si vous avez trouvé ces outils, ça veut dire... que mon épouse est vivante, n'est-ce pas?",
+      "source_japanese": "[CODE D4]エンデ「おお!　こっ　これは[LINE]確かに　わしの　大切な道具![WAIT][LINE][CODE D4]エンデ「まさか　本当に　ザクソンの村へ[LINE]いって来られるとは...[LINE]いや　うたがって　悪かった![WAIT][LINE][CODE D4]エンデ「しかも　これを　もって来たと[LINE]いうことは　わしの妻も[LINE]生きておったんじゃな?[END STRING AC]",
+      "old_tokens_sha256": "796fe42420b265ac5e4ca0119c163e4fe5f5e77b8957dee3ef525f3827e8f33b",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 498,
+          "FR_text": "@aTristan Clume@bPar la Déesseⓠ㈢ Ce...㈢ Ce sont vraiment mes outilsⓠ Je les reconnaîtrais entre milleⓠ\n@c0@",
+          "JA_text": "@a@bエンデ「おお！㈢　こっ㈢　これは\n\t確かに　わしの　大切な道具！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "623e3d4bb2d80b93543d3390845d20264a38ab85b4ba552769540708d7eb4217",
+          "JA_record_sha256": "22241bd64bce411c91e75725be41250fbdb38954b9b453ab9f2bd0bdff9fa52e"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 499,
+          "FR_text": "@aTristan Clume@bJe suis navré d'avoir douté de vous. Je croyais que vous bluffiez... J'aurais jamais osé croire que vous puissiez dire vraiⓠ\n@c0@",
+          "JA_text": "@a@bエンデ「まさか　本当に　ザクソンの村に\n\tいって来られるとは……\n\tいや　うたがって　悪かった！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "ff36ce5bf2405bf35fc300cc48c2ef81f90aa5fe9f0370f0725a721cbed207c8",
+          "JA_record_sha256": "0be62b9a5ddc2de0a2a730c78fcfe5dffa8ea7fc430709d1c2ee58a3f7301151"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 500,
+          "FR_text": "@aTristan Clume@bEt si vous avez trouvé ces outils, ça veut dire... que mon épouse est vivante, n'est-ce pasⓡ\n@c0@",
+          "JA_text": "@a@bエンデ「しかも　これを　もって来たと\n\tいうことは　わしの妻も\n\t生きておったんじゃな？\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "13bb949a0bb6e55e6cc7aae09ff74f75e51691fd48719e0a5df5e993819befa3",
+          "JA_record_sha256": "9f4552326dd04361c256cd98e305ca98ffd497ec719d7820f21edbac28b47e20"
+        }
+      ]
+    },
+    {
+      "id": 777,
+      "text": "Tristan Clume. Vous avez un sacré sens de l'humour! Comment auriez-vous trouvé ces outils si elle ne vous les avait pas remis en personne?",
+      "source_japanese": "[CODE D4]エンデ「わっはっはっ　何をいう![LINE]妻が　おらんで　この道具のある[LINE]場所が　わかるものか。[END STRING AC]",
+      "old_tokens_sha256": "a9b01c7cb4a780fc27d94c2a4e19a351aeb120a9c6df06289d58672cdd42117f",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 525,
+          "FR_text": "@aTristan Clume@bVous avez un sacré sens de l'humourⓠ Comment auriez-vous trouvé ces outils si elle ne vous les avait pas remis en personneⓡ\n@c0@",
+          "JA_text": "@a@bエンデ「わっはっはっ　何をいう！\n\t妻が　おらんで　この道具のある\n\t場所が　わかるものか。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "d9ce3cd540b4a3ecffc31e4352440fb0b5dc1f8aa0d9070f48e02df639106b56",
+          "JA_record_sha256": "798b009be247705cd095b6905a790519f339098b9399ca4b64dad21c0a1f9993"
+        }
+      ]
+    },
+    {
+      "id": 778,
+      "text": "Tristan Clume. Ahh, c'est merveilleux... J'étais si inquiet!",
+      "source_japanese": "[CODE D4]エンデ「そうか　そうか。[LINE]よかった...　本当に　よかった。[END STRING AC]",
+      "old_tokens_sha256": "c0789c4e5dd0f9c45b1996cadca0a89fcd32b32925bba9f9673375d1f4e73cec",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 501,
+          "FR_text": "@aTristan Clume@bAhh, c'est merveilleux... J'étais si inquietⓠ\n@c0@",
+          "JA_text": "@a@bエンデ「そうか　そうか。\n\tよかった…　本当に　よかった。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "3cfa754262b8d67b2bac21cac70d17b1938c62ab213fdb1f82eddeef3d71562f",
+          "JA_record_sha256": "cd1f86946689a2a667f2f30974a978fb7fd08e3f9a9b19c10baee9fcc08bf326"
+        }
+      ]
+    },
+    {
+      "id": 779,
+      "text": "Tristan Clume. Bon, maintenant que j'ai récupéré mes outils, j'ai bien envie de me remettre au travail. Une pièce d'armure sur mesure, ça vous dit? De quoi avez-vous envie? Faites votre choix et je me mettrai au boulot!",
+      "source_japanese": "[CODE D4]エンデ「よし!　道具も　きたことだし[LINE]お前さんたちのために　ひとつ[LINE]うでを　ふるってやろう![WAIT][LINE][CODE D4]エンデ「なにが　ええかのう?[END STRING AC]",
+      "old_tokens_sha256": "90bdf8d372ae5a33e8712cfa1c6ea3e1c5ac2f5db761f3d2b8e94a9b80d46e22",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 502,
+          "FR_text": "@aTristan Clume@bBon, maintenant que j'ai récupéré mes outils, j'ai bien envie de me remettre au travail. Une pièce d'armure sur mesure, ça vous ditⓡ\n@c0@",
+          "JA_text": "@a@bエンデ「よし！　道具も　きたことだし\n\tお前さんたちのために　ひとつ\n\tうでを　ふるってやろう！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "d7879cd658e60948f6617fb8cf633b1217656721ba68018c86eb119880f4ae19",
+          "JA_record_sha256": "ab1b771593b9c2abeed33f7693767dae6cb7edd700111c8538abf68841f0cc8a"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 503,
+          "FR_text": "@aTristan Clume@bDe quoi avez-vous envieⓡ Faites votre choix et je me mettrai au boulotⓠ\n@c0@",
+          "JA_text": "@a@bエンデ「なにが　ええかのう？\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "6d49e133fb9e1347b45be6b1e849a46ad1afe3e890740bcc6a03de63c2bae9e1",
+          "JA_record_sha256": "98fcbb901ae8316159d128ffb59795f09a34fda78a7d166e2e37db7e7d72e89a"
+        }
+      ]
+    },
+    {
+      "id": 780,
+      "text": "Tristan Clume. Ainsi, vous choisissez . Vous confirmez?",
+      "source_japanese": "[CODE D4]エンデ「そうか　[CODE B2]が　ええか。[LINE]それで　ええんじゃな?[END STRING AC]",
+      "old_tokens_sha256": "33111dd7eb297c4a6fb0b0f87f13d3facac4340372cc71662666ac9c3f1752e9",
+      "native_variables": {
+        "B2": 1
+      },
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 511,
+          "FR_text": "@aTristan Clume@b%0%a002380, heinⓡ Vous êtes %A0110%Xsûr%Z%B0110%Xsûre%Zⓡ\n@c0@",
+          "JA_text": "@a@bエンデ「そうか　%a002380が　ええか。\n\tそれで　ええんじゃな？\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "1b1e6bdd7ca76280df5e15d7c70d8e9f9557d380a8a9d04180593a608034b614",
+          "JA_record_sha256": "6db828e32b890acf23e939d5effcb7314ee22cfb61294cddb346db9743293e79"
+        }
+      ]
+    },
+    {
+      "id": 781,
+      "text": "Tristan Clume. Non? Alors, quel est votre choix?",
+      "source_japanese": "[CODE D4]エンデ「なんじゃ　ちがうのか。[LINE]じゃったら　なにが　ええんじゃ?[END STRING AC]",
+      "old_tokens_sha256": "3e229f2a05d0d0f186704ddf54b259fc612197cca5ce8bc0d569b5f0de26ea56",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 513,
+          "FR_text": "@aTristan Clume@bNonⓡ Alors, quel est votre choixⓡ\n@c0@",
+          "JA_text": "@a@bエンデ「なんじゃ　ちがうのか。\n\tじゃったら　なにが　ええんじゃ？\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "447bcb4506307f6c3983523ce498b9ceb14e8a0391b8cda7ae8ad3dd1842f833",
+          "JA_record_sha256": "6ef8363b822f1fae0f66d8688618aeb5fdf7245cd097c4b2d79b8bcc71eb1d3f"
+        }
+      ]
+    },
+    {
+      "id": 782,
+      "text": "Tristan Clume. Vous préférez y réfléchir, hein? Je comprends. Revenez me voir quand vous aurez pris votre décision. Je ne bouge pas d'ici!",
+      "source_japanese": "[CODE D4]エンデ「そうか。今は思いつかんか。[LINE]じゃあ　ゆっくり考えて[LINE]あとで　くるとええ。[WAIT][LINE][CODE D4]エンデ「わしは　ここで[LINE]まっとるからの。[END STRING AC]",
+      "old_tokens_sha256": "4ad61a9f1f21d6894ef318f6c1b087d44faad4c050363be68d63d14ee1b7d9f6",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 507,
+          "FR_text": "@aTristan Clume@bVous préférez y réfléchir, heinⓡ Je comprends. Revenez me voir quand vous aurez pris votre décision.\n@c0@",
+          "JA_text": "@a@bエンデ「そうか。　今は思いつかんか。\n\tじゃあ　ゆっくり考えて\n\tあとで　くるとええ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "f48b509651d97f80754b8b6c8122cc339c8e679f94536ecb015c14c0b907aebc",
+          "JA_record_sha256": "888a72b72573ea8ca5af121ea950d4cbef05ee805cac8174cc3865c9c8e6ec91"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 508,
+          "FR_text": "@aTristan Clume@bJe ne bouge pas d'iciⓠ\n@c0@",
+          "JA_text": "@a@bエンデ「わしは　ここで\n\tまっとるからの。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "5429491ca7d34ac9c1f7685f7732b823f1048ea1f77434c3dbd2665fd5470bce",
+          "JA_record_sha256": "888985568ff31dd71851e016f96cb68098c675360c2d881dfaecc992baecab4c"
+        }
+      ]
+    },
+    {
+      "id": 783,
+      "text": "Tristan Clume. Splendide! Je vais vous forger la plus belle pièce d'armure qui soit! ça va me prendre un certain temps, alors n'hésitez pas à vous reposer ici pendant que je travaille. Bon! Au travail, maintenant!",
+      "source_japanese": "[CODE D4]エンデ「よし!　わしが[LINE]とびきりのやつを[LINE]つくってやろう![WAIT][LINE][CODE D4]エンデ「すこしばかり　時間が[LINE]かかるが　できるまでの間[LINE]そこで　ねとってええぞ。[WAIT][LINE][CODE D4]エンデ「じゃあ　とりかかると[LINE]しようかの。[END STRING AC]",
+      "old_tokens_sha256": "93d495b3f58127528db8c078fe5cb99519d0e77380e89d7d4952f5c916458bd0",
+      "native_variables": {},
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 515,
+          "FR_text": "@aTristan Clume@bSplendideⓠ Je vais vous forger la plus belle pièce d'armure qui soitⓠ\n@c0@",
+          "JA_text": "@a@bエンデ「よし！　わしが\n\tとびきりのやつを\n\tつくってやろう！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "ad22960cbb822797721c2a4f521fc36e08480ba6ea4d9d3c40114f809185b2a9",
+          "JA_record_sha256": "8a395ee55465f8fc6ecc3ae67d0560d31e4f47e78d4f38b8dcc55de2abf03c8a"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 516,
+          "FR_text": "@aTristan Clume@bÇa va me prendre un certain temps, alors n'hésitez pas à vous reposer ici pendant que je travaille.\n@c0@",
+          "JA_text": "@a@bエンデ「すこしばかり　時間が\n\tかかるが　できるまでの間\n\tそこで　ねとってええぞ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "d5313b54bb8d7cecafe44b3204a045b5903f64bd4274cdeeb261183d78008dd9",
+          "JA_record_sha256": "faa8ca3de4a95b1823f1a20df3d314972f7d5aeb85c4154b10b9c30f5daf70d9"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 517,
+          "FR_text": "@aTristan Clume@bBonⓠ Au travail, maintenantⓠ\n@c0@",
+          "JA_text": "@a@bエンデ「じゃあ　とりかかると\n\tしようかの。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "e3367deb021fe2137ff195815da8e6dda25fcacfad0c0ed1d41d1b1a0c37f8bc",
+          "JA_record_sha256": "f9b585b3af7a5ef88be1bfb5830d01a20845be3844dd4f344b0351a716606f5e"
+        }
+      ]
+    },
+    {
+      "id": 784,
+      "text": " et son équipe se réveillent ! Près du lit repose un splendide  dont l'éclat éblouit le regard. Objet reçu par  - ",
+      "source_japanese": "[CODE D3]たちは　目をさました![WAIT][LINE]ベッドの横には[LINE]まぶしいほどに　みごとな　[CODE B2]が[LINE]おかれている。[WAIT][LINE][CODE D3]は　[CODE B5]を[LINE]手に入れた![END STRING AE]",
+      "old_tokens_sha256": "0ab8548c3edf73af05141194b8568166f1c875b569a9998303f505a17ec0af3c",
+      "native_variables": {
+        "B2": 1,
+        "B5": 1,
+        "D3": 2
+      },
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 521,
+          "FR_text": "@a@b%0%a000120 ouvre les yeux.\n@c0@",
+          "JA_text": "@a@b%a000120たちは　目をさました！\n@c0@",
+          "scopes": [
+            "COMPARAISON_VARIANTE_OU_COMPOSITION_NON_INSEREE"
+          ],
+          "FR_record_sha256": "83fe817737b282ed917df73c2e450beee39f66c2b102c8f0e9026e33d73e02e7",
+          "JA_record_sha256": "a7063fc97b0c3a54cb78a1947739dded2b59056948ff97cd37011473702ea55f"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0084.p",
+          "JA_file": "data/MESS6/JA/0084.p",
+          "id": 522,
+          "FR_text": "@a@bÀ côté du lit repose le chef-d'œuvre de Clume.\n@c0@",
+          "JA_text": "@a@bベッドの横には\nまぶしいほどに　みごとな　%a002380が\nおかれている。\n@c0@",
+          "scopes": [
+            "COMPARAISON_VARIANTE_OU_COMPOSITION_NON_INSEREE"
+          ],
+          "FR_record_sha256": "3f8c8017e39cfb8cdc5aeb702e87fb90f15e7be7c58d2813d0e63b7ea3690914",
+          "JA_record_sha256": "c22505387865a898f2d2af7f665a67327e921e6b53030e3470bba5897db5ef61"
+        }
+      ]
+    },
+    {
+      "id": 785,
+      "text": "Ah, vous voilà debout! Grâce à vous, tous ont retrouvé espoir. Merci infiniment. Et puis, monsieur Clume a laissé  pour . Quel bonheur de le voir reprendre des forces! Moi aussi, je dois m'y mettre!",
+      "source_japanese": "あら　目が　覚めたのね。[LINE]あなた方のおかげで　皆が[LINE]希望を　とりもどしたわ。[WAIT][LINE]本当に　ありがとう。[WAIT][LINE]それから　エンデじいさんが[LINE]あの　[CODE B2]を　[CODE D3]さんにって。[WAIT][LINE]おじいさんも　元気になってくれて[LINE]よかったわ。[LINE]私も　がんばらなくちゃ![END STRING AC]",
+      "old_tokens_sha256": "14141896590d364e4adee8be9f448a54751c284e4cac2bce22d4a0a894f2930c",
+      "native_variables": {
+        "B2": 1,
+        "D3": 1
+      },
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0085.p",
+          "JA_file": "data/MESS6/JA/0085.p",
+          "id": 0,
+          "FR_text": "@a@b*ⓢ Oh, vous êtes %H0860%X%A0110%Xréveillé%Z%B0110%Xréveillée%Z%Y%R0000%Xréveillées%Yréveillés%Z%Zⓠ J'ai une merveilleuse nouvelle à vous annoncerⓠ L'espoir renaît enfin dans cette ville et c'est grâce à vousⓠ\n@c0@",
+          "JA_text": "@a@b＊「あら　目が　覚めたのね。\n\tあなた方のおかげで　皆が\n\t希望を　とりもどしたわ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "9d2eec7cc678a7646624c092780e33e0fcf730940d7e03c0e1a3a69ba286a5c9",
+          "JA_record_sha256": "49dbad59d37f17fa9a702c86a53ab270603dede9425c3ec70b01c097f5f001bb"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0085.p",
+          "JA_file": "data/MESS6/JA/0085.p",
+          "id": 1,
+          "FR_text": "@a@b*ⓢ Nous vous sommes tellement redevablesⓠ\n@c0@",
+          "JA_text": "@a@b＊「本当に　ありがとう。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "48c875a2be6016e729fb08cc32be23608728335c9c473d79faf10b478933ec5f",
+          "JA_record_sha256": "81ce6222ac06ef7a86f3512d983b59ba1b72a781bfa6aed0f9e33a0c3583939f"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0085.p",
+          "JA_file": "data/MESS6/JA/0085.p",
+          "id": 2,
+          "FR_text": "@a@b*ⓢ Au fait, cette pièce d'armure vous appartient. Monsieur Clume a dit l'avoir forgée exprès pour vous.\n@c0@",
+          "JA_text": "@a@b＊「それから　エンデじいさんが\n\tあの　%a002380を　%a000120さんにって。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "9a938cf8c1125abc7f100b906cf20f0e6281b68628e72c9ba9a59c40403e2808",
+          "JA_record_sha256": "0047e2c5f024ced15e6be251a198ea0cea8b311f1ae419e4cfed6ba50e843fe1"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0085.p",
+          "JA_file": "data/MESS6/JA/0085.p",
+          "id": 3,
+          "FR_text": "@a@b*ⓢ Quel bonheur de le voir reprendre le travailⓠ Nous devrions tous suivre son exemple.\n@c0@",
+          "JA_text": "@a@b＊「おじいさんも　元気になってくれて\n\tよかったわ。\n\t私も　がんばらなくちゃ！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "6f48f9449fd852d6c5e932208a34681b33503872e6a8dba16c11bb0d79d4b605",
+          "JA_record_sha256": "9138dc3a3c7299e77c0f1640e103c1c26fc51b19e25736c6971ab4dbd709835b"
+        }
+      ]
+    },
+    {
+      "id": 797,
+      "text": "Tristan Clume. Ah, c'est vous! Que dites-vous de ? Cela vous plaît, hein? Ha ha ha! Avec ça, vous devez absolument vaincre le démon suprême!",
+      "source_japanese": "[CODE D4]エンデ「おお　お前さんたちか。[LINE]どうじゃ　わしの　きたえた[LINE][CODE B2]は![WAIT][LINE][CODE D4]エンデ「気に入ったじゃろう。[LINE]わっはっはっ。　それを使って[LINE]必ずや　大魔王を　たおせよ![END STRING AC]",
+      "old_tokens_sha256": "ed6d28863847675f8b80f41f18c4256e26275e914ad213d9bd16c2464d30e0f0",
+      "native_variables": {
+        "B2": 1
+      },
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0085.p",
+          "JA_file": "data/MESS6/JA/0085.p",
+          "id": 38,
+          "FR_text": "@aTristan Clume@bAh, c'est vousⓠ Alors, que dites-vous de cette pièce d'armureⓡ Pas mal, heinⓡ\n@c0@",
+          "JA_text": "@a@bエンデ「おお　お前さんたちか。\n\tどうじゃ　わしの　きたえた\n\t%a002380は！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "659dfa974c6888786c28ac75adae461bc54d5baed12eeac720afe910c4c429d6",
+          "JA_record_sha256": "44b946872315684a4fb8684bab794a270c33573b1f48123053093824971a763a"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0085.p",
+          "JA_file": "data/MESS6/JA/0085.p",
+          "id": 39,
+          "FR_text": "@aTristan Clume@bAvec ça, je suis sûr que ce maudit Mortamor ne fera pas long feuⓠ\n@c0@",
+          "JA_text": "@a@bエンデ「気に入ったじゃろう。\n\tわっはっはっ。　それを使って\n\t必ずや　大魔王を　たおせよ！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "b7580cf53081bf18dc204893a2438b5c178a79b3f706e9576339a8eac9e7dfce",
+          "JA_record_sha256": "dc3f9358b85f3423b0c5361b27a6509db09371d53c065f591f911aa63ec3c027"
+        }
+      ]
+    }
+  ],
+  "required_tests": [
+    "Establish every actual native choice and its B2 and B5 values.",
+    "Test confirmation,cancellation,return,delivery and possession for every actual reward.",
+    "Render full names,player-name substitutions,parentheses and pagination naturally.",
+    "Keep diagnostic redirections distinct from the acquisition path; do not count a sample as all rewards."
+  ]
+}

@@ -1,3 +1,7 @@
+# Relecture préparatoire après v0.78 — dialogues700–799
+
+Lire preparations/relecture-principale-0700-0799/README.md :100 nouvelles positions,12 révisions préparées (10 glyphes,2 sujet/composition).Cumul400–799 :400 positions préparatoirement relues,53 révisions principales et419 propositions noms/menus distinctes noninsérées. Audit784 :description neutre proposée,B2/B5 et toutes récompenses nonvalidés ;DF752 conservé,réserve ouverte. Aucun nouveau texte intégré,test natif ou patch. Prochain segment800–1199 ;0–399 reste à relire. Ne pas compter400 positions comme400 scènes testées ou400 corrections intégrées.
+
 # Relecture préparatoire après v0.78 — dialogues600–699
 
 Lire preparations/relecture-principale-0600-0699/README.md :100 nouvelles positions,18 révisions préparées (16 glyphes,2 harmonisation/simplification).Cumul400–699 :300 positions préparatoirement relues,41 révisions principales et419 propositions noms/menus distinctes noninsérées. Audit610 :indices proposés cohérents avec les choix raccourcis,mais ordre natif et porte nonvalidés ;réserve ouverte. Les23 ID1307–1329 comparés ne sont pas ajoutés à la passe exhaustive. Aucun nouveau texte intégré,test natif ou patch. Prochain segment700–1099 ;0–399 reste à relire.

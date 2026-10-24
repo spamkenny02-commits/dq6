@@ -28,7 +28,7 @@
     "separate_battle": 2,
     "separate_names": 419,
     "separate_battle_spell_combinations": 0,
-    "existing_main_revisions": 41
+    "existing_main_revisions": 53
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
@@ -116,7 +116,7 @@
   },
   "rom_bytes": 8388608,
   "notes": "87 libellés modifiés : 81 nouvelles traductions, 6 révisions FR. 80 objets et 7 commandes. 86 propositions résolues, 405 restantes. 10 corrections de sauts de ligne B5 isolées. Pas de nouveau lot de 400 ni relecture exhaustive.",
-  "next": "Hors400–699 déjà consignés,poursuivre la relecture préparatoire700–1099 et les autres plages.41 révisions principales et419 propositions noms/menus restent noninsérées. Lire audit610 :harmonisation des indices proposée,ordre des réponses et porte nonvalidés. Sources privées absentes,aucun test ROM ;tables,331/367,audits hérités et relecture finale restent ouverts.",
+  "next": "Poursuivre la relecture préparatoire800–1199 et les autres plages hors400–799 déjà consignés.53 révisions principales et419 propositions noms/menus noninsérées. Lire audit Clume784 pour variables et genre ;DF752,noms de récompenses,pagination et parcours nonvalidés. Réserve610,331/367,audits hérités et recherche globale restent ouverts ;sources privées absentes,aucun test ROM revendiqué.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -710,7 +710,7 @@
       435
     ]
   },
-  "checkpoint": "relecture-preparatoire-principale-0600-0699",
+  "checkpoint": "relecture-preparatoire-principale-0700-0799",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",
@@ -744,22 +744,22 @@
     "segments": [
       [
         400,
-        699
+        799
       ]
     ],
-    "reviewed_positions": 300,
+    "reviewed_positions": 400,
     "silence_with_variable_IDs": [
       430
     ],
     "final_accepted": 0,
-    "pending_runtime_or_reserves": 300,
-    "ledger": "preparations/relecture-principale-0600-0699/registre-relecture.json",
-    "prepared_existing_main_revisions": 41,
+    "pending_runtime_or_reserves": 400,
+    "ledger": "preparations/relecture-principale-0700-0799/registre-relecture.json",
+    "prepared_existing_main_revisions": 53,
     "new_integrated": 0,
     "ROM_tests": 0,
     "next_segment_suggestion": [
-      700,
-      1099
+      800,
+      1199
     ],
     "not_yet_reviewed_ranges": [
       [
@@ -767,7 +767,7 @@
         399
       ],
       [
-        700,
+        800,
         6956
       ]
     ],
@@ -775,11 +775,13 @@
     "ledgers": [
       "preparations/relecture-principale-0400-0499/registre-relecture.json",
       "preparations/relecture-principale-0500-0599/registre-relecture.json",
-      "preparations/relecture-principale-0600-0699/registre-relecture.json"
+      "preparations/relecture-principale-0600-0699/registre-relecture.json",
+      "preparations/relecture-principale-0700-0799/registre-relecture.json"
     ],
     "silence_composition_IDs": [
       430,
-      532
+      532,
+      755
     ]
   },
   "provenance_selection_diagnostic": {
@@ -796,5 +798,12 @@
     "native_success_sequence_verified": false,
     "natural_scene_verified": false,
     "supplementary_1307_1329_not_full_reread": true
+  },
+  "Clume_reward_composition_audit": {
+    "file": "preparations/relecture-principale-0700-0799/audit-composition-recompense-clume.json",
+    "status": "OUVERT_PREPARE_NON_INSERE",
+    "all_actual_choices_verified": false,
+    "B2_B5_runtime_binding_verified": false,
+    "description784_neutral_proposed": true
   }
 }
