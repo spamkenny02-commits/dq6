@@ -1,0 +1,47 @@
+{
+  "baseline_commit": "ef5cf2071f53e47d532f096270ade31257d69e3a",
+  "new_integrated": 0,
+  "ROM_unchanged": true,
+  "files": {
+    "README.md": {
+      "size": 7999,
+      "sha256": "6d1850685e6df55bd04e3d4762285ab55fb6b1eda1930fbc20eae93a0fa2b768"
+    },
+    "REPRISE-AUTOMATIQUE.md": {
+      "size": 69541,
+      "sha256": "ecd635d0129fbfef1516b5f5cecb5feba919477619eb8e570b0a6d336743d361"
+    },
+    "etat-projet.json": {
+      "size": 15719,
+      "sha256": "851de94898f660447b46034ba8edbee424a74633ba9ad0f84f4c82251c922bef"
+    },
+    "preparations/relecture-principale-0500-0599/README.md": {
+      "size": 6182,
+      "sha256": "4d3e9a9e8a22b3e273b71a93f062ee6536c796f4d158dfb583c114ab01bb9255"
+    },
+    "preparations/relecture-principale-0500-0599/diagnostic-provenance-selection.json": {
+      "size": 100058,
+      "sha256": "796916fc2c793fd76cc33d4450ca5ffbd20fa15d47166292a01a60a93faef312"
+    },
+    "preparations/relecture-principale-0500-0599/notes.json": {
+      "size": 16260,
+      "sha256": "5969317a3d3a62e1075e04f7c94577deff608fd4151e817f749ffca1454ec409"
+    },
+    "preparations/relecture-principale-0500-0599/prepare.py": {
+      "size": 6974,
+      "sha256": "0241c2630a79b184f18b586e50f07bf90653bb7318d2c3b794550a4f9f44b064"
+    },
+    "preparations/relecture-principale-0500-0599/qa-preparation.json": {
+      "size": 2191,
+      "sha256": "0b2b67f885684c1443d5f12396ff3b27ef6e15342cf1f7c15f95b340ee605868"
+    },
+    "preparations/relecture-principale-0500-0599/registre-relecture.json": {
+      "size": 361314,
+      "sha256": "0d793721a9442f90583cb587204da694f90f70fe1170a034a6e2eb16466696e5"
+    },
+    "preparations/relecture-principale-0500-0599/revisions-preparees-non-inserees.json": {
+      "size": 39012,
+      "sha256": "13ca24ae738fbdf7dbe090b5da633be1e72b0f70dfcc0cdac9e0966e288ea36d"
+    }
+  }
+}

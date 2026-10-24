@@ -1,3 +1,7 @@
+# Relecture préparatoire après v0.78 — dialogues500–599
+
+Lire preparations/relecture-principale-0500-0599/README.md et le registre :100 nouvelles positions,12 révisions PREPARE_NON_INSERE (4 contexte/grammaire/formulation,8 glyphes).Cumul400–599 :200 positions préparatoirement relues,23 révisions principales et419 propositions noms/menus distinctes noninsérées. Aucun nouveau texte intégré,test ROM ou scène validée. Diagnostic séparé315 champs de provenance incomplets dans la sélection,ni315 nouvelles revues ni315 traductions manquantes ;chercher les références dans les autres registres avant conclusion. Prochain segment600–999,0–399 encore à relire. Sources privées toujours absentes.
+
 # Relecture préparatoire après v0.78 — dialogues400–499
 
 Lire preparations/relecture-principale-0400-0499/README.md et son registre :100 positions principales comparées,11 révisions PREPARE_NON_INSERE (1 accord,10 capitales avec réserve de glyphes). Aucun nouveau texte intégré ou testé ;419 propositions noms/menus inchangées. Relecture sémantique préparatoire100,en attente des réserves techniques ;relecture exhaustive finale validée0. Ne pas rejouer400–499 comme nouvelle passe ;0–399 et500–6956 restent à parcourir. Sources privées toujours absentes,aucune ROM reconstruite ni émulation.
