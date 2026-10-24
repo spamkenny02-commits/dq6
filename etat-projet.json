@@ -28,7 +28,7 @@
     "separate_battle": 2,
     "separate_names": 419,
     "separate_battle_spell_combinations": 0,
-    "existing_main_revisions": 23
+    "existing_main_revisions": 41
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
@@ -116,7 +116,7 @@
   },
   "rom_bytes": 8388608,
   "notes": "87 libellés modifiés : 81 nouvelles traductions, 6 révisions FR. 80 objets et 7 commandes. 86 propositions résolues, 405 restantes. 10 corrections de sauts de ligne B5 isolées. Pas de nouveau lot de 400 ni relecture exhaustive.",
-  "next": "Hors des positions400–599 déjà consignées,poursuivre la relecture préparatoire600–999 puis autres plages.23 révisions principales et419 propositions noms/menus restent noninsérées ;capitales/ligature,contexte et tests à établir avec les sources intactes.315 champs de provenance à rapprocher des registres historiques ne sont pas315 traductions manquantes. Tables,331/367,recherche globale et audits hérités ouverts.",
+  "next": "Hors400–699 déjà consignés,poursuivre la relecture préparatoire700–1099 et les autres plages.41 révisions principales et419 propositions noms/menus restent noninsérées. Lire audit610 :harmonisation des indices proposée,ordre des réponses et porte nonvalidés. Sources privées absentes,aucun test ROM ;tables,331/367,audits hérités et relecture finale restent ouverts.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -710,7 +710,7 @@
       435
     ]
   },
-  "checkpoint": "relecture-preparatoire-principale-0500-0599",
+  "checkpoint": "relecture-preparatoire-principale-0600-0699",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",
@@ -744,22 +744,22 @@
     "segments": [
       [
         400,
-        599
+        699
       ]
     ],
-    "reviewed_positions": 200,
+    "reviewed_positions": 300,
     "silence_with_variable_IDs": [
       430
     ],
     "final_accepted": 0,
-    "pending_runtime_or_reserves": 200,
-    "ledger": "preparations/relecture-principale-0500-0599/registre-relecture.json",
-    "prepared_existing_main_revisions": 23,
+    "pending_runtime_or_reserves": 300,
+    "ledger": "preparations/relecture-principale-0600-0699/registre-relecture.json",
+    "prepared_existing_main_revisions": 41,
     "new_integrated": 0,
     "ROM_tests": 0,
     "next_segment_suggestion": [
-      600,
-      999
+      700,
+      1099
     ],
     "not_yet_reviewed_ranges": [
       [
@@ -767,14 +767,15 @@
         399
       ],
       [
-        600,
+        700,
         6956
       ]
     ],
     "not_additive_to_main_6957": true,
     "ledgers": [
       "preparations/relecture-principale-0400-0499/registre-relecture.json",
-      "preparations/relecture-principale-0500-0599/registre-relecture.json"
+      "preparations/relecture-principale-0500-0599/registre-relecture.json",
+      "preparations/relecture-principale-0600-0699/registre-relecture.json"
     ],
     "silence_composition_IDs": [
       430,
@@ -787,5 +788,13 @@
     "mechanical_only": true,
     "not_missing_translations_count": true,
     "new_semantic_reviews_from_scan": 0
+  },
+  "inherited_610_text_audit": {
+    "file": "preparations/relecture-principale-0600-0699/audit-610-indices-selections.json",
+    "status": "OUVERT_PREPARE_NON_INSERE",
+    "hints_harmonization_proposed": true,
+    "native_success_sequence_verified": false,
+    "natural_scene_verified": false,
+    "supplementary_1307_1329_not_full_reread": true
   }
 }

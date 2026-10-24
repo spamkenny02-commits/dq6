@@ -1,3 +1,7 @@
+# Relecture préparatoire après v0.78 — dialogues600–699
+
+Lire preparations/relecture-principale-0600-0699/README.md :100 nouvelles positions,18 révisions préparées (16 glyphes,2 harmonisation/simplification).Cumul400–699 :300 positions préparatoirement relues,41 révisions principales et419 propositions noms/menus distinctes noninsérées. Audit610 :indices proposés cohérents avec les choix raccourcis,mais ordre natif et porte nonvalidés ;réserve ouverte. Les23 ID1307–1329 comparés ne sont pas ajoutés à la passe exhaustive. Aucun nouveau texte intégré,test natif ou patch. Prochain segment700–1099 ;0–399 reste à relire.
+
 # Relecture préparatoire après v0.78 — dialogues500–599
 
 Lire preparations/relecture-principale-0500-0599/README.md et le registre :100 nouvelles positions,12 révisions PREPARE_NON_INSERE (4 contexte/grammaire/formulation,8 glyphes).Cumul400–599 :200 positions préparatoirement relues,23 révisions principales et419 propositions noms/menus distinctes noninsérées. Aucun nouveau texte intégré,test ROM ou scène validée. Diagnostic séparé315 champs de provenance incomplets dans la sélection,ni315 nouvelles revues ni315 traductions manquantes ;chercher les références dans les autres registres avant conclusion. Prochain segment600–999,0–399 encore à relire. Sources privées toujours absentes.

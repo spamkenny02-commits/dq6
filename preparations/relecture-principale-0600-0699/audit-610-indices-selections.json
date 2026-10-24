@@ -1,0 +1,942 @@
+{
+  "inherited_reserve_id": 610,
+  "status": "OUVERT_PREPARE_NON_INSERE",
+  "comparative_text_audit_only": true,
+  "password_spelling_same_in_610_1308_1309": true,
+  "password": "Frizzam",
+  "hint_DS_references": [
+    {
+      "FR_file": "data/MESS6/FR/0072.p",
+      "JA_file": "data/MESS6/JA/0072.p",
+      "id": 53,
+      "FR_text": "@aKad Abra@bAlors, la formule magique se compose d'un mot de passe suivi de trois petites phrases.\n@c0@",
+      "JA_text": "@a@bザム「封印を解く言葉は\n\tはじめの　合い言葉と\n\t３つの文章から　なっておる。\n@c0@",
+      "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+      "FR_record_sha256": "dc1e9edbc0264386b961ab78e80ac5a3e1a6db538f03d19049d3680f056f85a4",
+      "JA_record_sha256": "4ecfdff5673c130a05879d4ecaf9b14951fcd7eebeff9c2a2d9fba7607499fe9"
+    },
+    {
+      "FR_file": "data/MESS6/FR/0072.p",
+      "JA_file": "data/MESS6/JA/0072.p",
+      "id": 54,
+      "FR_text": "@aKad Abra@bLe mot de passe est ⓥFrizzamⓠⓦ En prononçant ce mot, vous devriez attirer l'attention de la porte.\n@c0@",
+      "JA_text": "@a@bザム「まず　はじめの　合い言葉は\n\tメラサム！　これで　封印のトビラが\n\t目覚めるはずじゃ。\n@c0@",
+      "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+      "FR_record_sha256": "56e4028d832d7e1178187919672a76d1449f20c3991f642001e4a3e6842583f1",
+      "JA_record_sha256": "e3e0cd3527a9b9af7033cd59b76d823eac3080f1062508867ac9dff5cb31ea2b"
+    },
+    {
+      "FR_file": "data/MESS6/FR/0072.p",
+      "JA_file": "data/MESS6/JA/0072.p",
+      "id": 55,
+      "FR_text": "@aKad Abra@bMaintenant, écoutez bien. Il est essentiel que vous reteniez ce que je vais vous dire.\n@c0@",
+      "JA_text": "@a@bザム「そして　ここからが　大事じゃぞ。\n\tこころして　覚えるようにな。\n@c0@",
+      "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+      "FR_record_sha256": "657a09623730ecb89c9d7d091c173c12c6e3579e7036ea722be0fce4769166b1",
+      "JA_record_sha256": "cef36aaab0c4d3771499bec5d81ce9b5a347bb685d59619287008748d7e46213"
+    },
+    {
+      "FR_file": "data/MESS6/FR/0072.p",
+      "JA_file": "data/MESS6/JA/0072.p",
+      "id": 56,
+      "FR_text": "@aKad Abra@bPour la première phrase... Laissez-moi voir... C'est le fait de détenir la vérité.\n@c0@",
+      "JA_text": "@a@bザム「まず　ひとつめの文章はな……\n\tんー　んー　自分は正直者だと\n\tいうようなことだったか……。\n@c0@",
+      "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+      "FR_record_sha256": "367505231c66335fa1ad2874215ca1bbe4d553664c9bb0e9d88746a7c12d6b21",
+      "JA_record_sha256": "fe4ba87d0e93a584754b13b12602d3c2d2c597a51712fcff0541ad94d48ba9a1"
+    },
+    {
+      "FR_file": "data/MESS6/FR/0072.p",
+      "JA_file": "data/MESS6/JA/0072.p",
+      "id": 57,
+      "FR_text": "@aKad Abra@bLa deuxième phrase... Oh bon sang... Ça parle de lame et de galets, je croisⓡ Enfin, vous voyez.\n@c0@",
+      "JA_text": "@a@bザム「ふたつめは……。　えーと……。\n\tちからもちの姫が　たるを\n\tもちあげて……　じゃったか。\n@c0@",
+      "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+      "FR_record_sha256": "fa2c0b2dadf6d1acd613a44e328744ececf64542470be11d5a0039c901deb64a",
+      "JA_record_sha256": "8f64f521e62e87eb202135edc41b6309e19d7b9a1ff041bc44e0ee8ed849604c"
+    },
+    {
+      "FR_file": "data/MESS6/FR/0072.p",
+      "JA_file": "data/MESS6/JA/0072.p",
+      "id": 58,
+      "FR_text": "@aKad Abra@bEt la troisième phrase parle d'un type qui sort de la glace.... Oui, c'est çaⓠ Ou pas...\n@c0@",
+      "JA_text": "@a@bザム「そして　最後の３つめは\n\t氷を食べるときは　さむくて\n\tはなや　たんが出てくる……じゃな。\n@c0@",
+      "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+      "FR_record_sha256": "0f7a39b7cc4091e99699badb82b6a7a6255c28b46e1a0ae02fd668baf1ffe1aa",
+      "JA_record_sha256": "038c22510abd86d3e6855264162068e6315f63678f5c0755564f7bb6443207b7"
+    },
+    {
+      "FR_file": "data/MESS6/FR/0072.p",
+      "JA_file": "data/MESS6/JA/0072.p",
+      "id": 59,
+      "FR_text": "@aKad Abra@bOui, vous avez toutes les informations dont vous avez besoin. Vous briserez ce sceau en un rien de tempsⓠ\n@c0@",
+      "JA_text": "@a@bザム「うむ！　これだけ　教えれば\n\t封印は　解けたも　同然！\n@c0@",
+      "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+      "FR_record_sha256": "f2495e593959f65975a2d6b423b0cd56aa0011edb8382155a51a1778793cae83",
+      "JA_record_sha256": "b0c17fe0889057080fc5676a1870cec6f7e01f13740665bc03de3a12362dc5f5"
+    },
+    {
+      "FR_file": "data/MESS6/FR/0072.p",
+      "JA_file": "data/MESS6/JA/0072.p",
+      "id": 60,
+      "FR_text": "@aKad Abra@bJe vous ai dit que l'épée était dans la grotte gelée au nord, nonⓡ Alors, filez-yⓠ\n@c0@",
+      "JA_text": "@a@bザム「剣は　この村から北の\n\t氷に　おおわれた　洞くつに眠る。\n\t心して　ゆくがよい！\n@c0@",
+      "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+      "FR_record_sha256": "9da88fb93403eff014c2838cd8de4627e7a6e3e8c13fc507116b37c85a52a4c8",
+      "JA_record_sha256": "c5d177260028d83f97a4f9e5a81f1fab5a47e3b7313ab88637fbb46af208dcee"
+    },
+    {
+      "FR_file": "data/MESS6/FR/0072.p",
+      "JA_file": "data/MESS6/JA/0072.p",
+      "id": 61,
+      "FR_text": "@aKad Abra@bOhⓠ Et revenez me voir quand vous aurez l'épée, d'accordⓡ\n@c0@",
+      "JA_text": "@a@bザム「おっと　いいわすれたが\n\tもし剣を　手に入れたら　わしに\n\t報告しに　もどってくるようにな。\n@c0@",
+      "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+      "FR_record_sha256": "3f5b22286748cc3b07288900c7e4aec7c1462c509e956aaa33ff8e982030dec8",
+      "JA_record_sha256": "307ec33802c6d72ce8d6a792294db1f4cb8fe92d5f86c893e4db15b21df5341f"
+    },
+    {
+      "FR_file": "data/MESS6/FR/0072.p",
+      "JA_file": "data/MESS6/JA/0072.p",
+      "id": 62,
+      "FR_text": "@aKad Abra@bC'est la moindre des choses.\n@c0@",
+      "JA_text": "@a@bザム「それが　礼儀と\n\tいうものじゃぞ。　んー。\n@c0@",
+      "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+      "FR_record_sha256": "a5c71d28bfa717e1716dc6869db5a560c4d7f66b1bc13c5b78519e538053ad0a",
+      "JA_record_sha256": "117255ec7850dba4132d7f59d28fe06a0ff2fa834b63dc26da4ee5f1e5f6ad3e"
+    }
+  ],
+  "old_hint_text": "Kad Abra. La formule qui brise le sceau comprend un mot de passe et trois phrases. Kad Abra. Le mot de passe est Frizzam ! Cela devrait réveiller la porte scellée. Kad Abra. Et maintenant, le plus important. Retenez bien ce qui suit. Kad Abra. La première phrase... Hmm... Il y est question de détenir la vérité, je crois... Kad Abra. La deuxième... Euh... ça parle de lame et de galets, je crois ? Enfin, vous voyez. Kad Abra. Et la troisième... Un type qui sort de la glace... Oui, c'est ça ! Ou pas... Kad Abra. Bon ! Avec tout cela, le sceau est pour ainsi dire brisé ! Kad Abra. L'épée dort dans une grotte couverte de glace, au nord de ce village. Soyez prudents ! Kad Abra. Ah, j'oubliais... si vous obtenez l'épée, revenez me le dire. Kad Abra. C'est la moindre des politesses. Hmm.",
+  "proposed_hint_text": "Kad Abra. La formule qui brise le sceau comprend un mot de passe et trois phrases. Kad Abra. Le mot de passe est Frizzam ! Cela devrait réveiller la porte scellée. Kad Abra. Et maintenant, le plus important. Retenez bien ce qui suit. Kad Abra. La première phrase... Hmm... Il y est question d'avoir le coeur pur, je crois... Kad Abra. La deuxième... Euh... Une lame qui cache sa force, peut-être ? Enfin, vous voyez. Kad Abra. Et la troisième... Un type qui sort de la glace... Oui, c'est ça ! Ou pas... Kad Abra. Bon ! Avec tout cela, le sceau est pour ainsi dire brisé ! Kad Abra. L'épée dort dans une grotte couverte de glace, au nord de ce village. Soyez prudents ! Kad Abra. Ah, j'oubliais... si vous obtenez l'épée, revenez me le dire. Kad Abra. C'est la moindre des politesses. Hmm.",
+  "source_D4_count": 10,
+  "source_commands": {
+    "D4": 10,
+    "AD": 53,
+    "AF": 17,
+    "AC": 1
+  },
+  "choice_groups": [
+    {
+      "menu_id": 1312,
+      "options": [
+        {
+          "display_position": 1,
+          "label": "J'ai le coeur pur",
+          "echo_id": 1313,
+          "echo": "J'ai le coeur pur",
+          "same_visible_label": true
+        },
+        {
+          "display_position": 2,
+          "label": "L'heure est venue !",
+          "echo_id": 1314,
+          "echo": "L'heure est venue !",
+          "same_visible_label": true
+        },
+        {
+          "display_position": 3,
+          "label": "Tout selon la légende",
+          "echo_id": 1315,
+          "echo": "Tout selon la légende",
+          "same_visible_label": true
+        }
+      ],
+      "semantic_hypothesis_display_position": 1,
+      "success_branch_verified": false
+    },
+    {
+      "menu_id": 1317,
+      "options": [
+        {
+          "display_position": 1,
+          "label": "Beauté d'antan...",
+          "echo_id": 1318,
+          "echo": "Belle princesse d'antan",
+          "same_visible_label": false
+        },
+        {
+          "display_position": 2,
+          "label": "Combattons ensemble",
+          "echo_id": 1319,
+          "echo": "Combattons ensemble",
+          "same_visible_label": true
+        },
+        {
+          "display_position": 3,
+          "label": "Lame à force cachée",
+          "echo_id": 1320,
+          "echo": "Lame à force cachée",
+          "same_visible_label": true
+        }
+      ],
+      "semantic_hypothesis_display_position": 3,
+      "success_branch_verified": false
+    },
+    {
+      "menu_id": 1322,
+      "options": [
+        {
+          "display_position": 1,
+          "label": "Révèle-toi ici !",
+          "echo_id": 1323,
+          "echo": "Révèle-toi ici !",
+          "same_visible_label": true
+        },
+        {
+          "display_position": 2,
+          "label": "Sors de la glace !",
+          "echo_id": 1324,
+          "echo": "Sors de la glace !",
+          "same_visible_label": true
+        },
+        {
+          "display_position": 3,
+          "label": "Éclaire nos vies.",
+          "echo_id": 1325,
+          "echo": "Éclaire nos vies.",
+          "same_visible_label": true
+        }
+      ],
+      "semantic_hypothesis_display_position": 2,
+      "success_branch_verified": false
+    }
+  ],
+  "semantic_hypothesis_not_native_success_sequence": true,
+  "ROM_or_event_code_inspected": false,
+  "natural_scene_executed": false,
+  "all_related_IDs_counted_as_new_full_reread": false,
+  "related_texts": [
+    {
+      "id": 1307,
+      "text": "Prononcer la formule magique que vous a apprise Kad Abra?",
+      "lines": [
+        "Prononcer la formule",
+        "magique que vous a",
+        "apprise Kad Abra?"
+      ],
+      "source_japanese": "ザム神官に　教わった合い言葉を[LINE]となえて　みますか?[END STRING AC]",
+      "tokens_sha256": "30b9ff3378f38e9dccef5206291d3b160d05f4c5624a577fd2e7f501ae4a7cbe",
+      "nontext_tokens": [
+        173,
+        173,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 500,
+          "FR_text": "@a@bPrononcer la formule magique que vous a apprise Kad Abraⓡ\n@c0@",
+          "JA_text": "@a@bザム神官に教わった　合い言葉を\nとなえて　みますか？\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "c532255d4ef51c02451eb41f8b31ec3f65570a8e16f2a325924da566eaa42db7",
+          "JA_record_sha256": "bb2ca22aa730e9d6112a42843b2110a6ab5b1a19c8efa7d5758944c9e6fa9eb8"
+        }
+      ]
+    },
+    {
+      "id": 1308,
+      "text": ". Frizzam!",
+      "lines": [
+        ".",
+        "Frizzam!"
+      ],
+      "source_japanese": "[CODE D4][CODE DA][CODE D3]「メラサム![END STRING AC]",
+      "tokens_sha256": "1a62b9c27f0f332a806a465c3384dabdaa8d43bfc39e6c028c615ddfd45243fe",
+      "nontext_tokens": [
+        212,
+        218,
+        211,
+        173,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 503,
+          "FR_text": "@a%0%a000120@bFrizzamⓠ\n@c0@",
+          "JA_text": "@a@b%a000120「メラサム！\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "ef783145713fa02757b24c8945be3a668e07aebbe11a46423591232f1675cbfb",
+          "JA_record_sha256": "3a532899b84ac628d4eae6f9c18f16505962f858accf143e125e6091820d6fb1"
+        }
+      ]
+    },
+    {
+      "id": 1309,
+      "text": ". Frizzam!",
+      "lines": [
+        ".",
+        "Frizzam!"
+      ],
+      "source_japanese": "[CODE D4][CODE D9][CODE D3]「メラサム![END STRING AC]",
+      "tokens_sha256": "48d2ef8f73c5a58397f8630e417f4c5ec46a77f3c8c33e297db682006d25ef28",
+      "nontext_tokens": [
+        212,
+        217,
+        211,
+        173,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 503,
+          "FR_text": "@a%0%a000120@bFrizzamⓠ\n@c0@",
+          "JA_text": "@a@b%a000120「メラサム！\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "ef783145713fa02757b24c8945be3a668e07aebbe11a46423591232f1675cbfb",
+          "JA_record_sha256": "3a532899b84ac628d4eae6f9c18f16505962f858accf143e125e6091820d6fb1"
+        }
+      ]
+    },
+    {
+      "id": 1310,
+      "text": "La porte semble prendre vie!",
+      "lines": [
+        "La porte semble",
+        "prendre vie!"
+      ],
+      "source_japanese": "なんと　トビラが　目をさました![WAIT][END STRING AC]",
+      "tokens_sha256": "d17205c39448067c2dc55099335c4f33d1dfefc09757d0d80a6f9e12576df8c3",
+      "nontext_tokens": [
+        173,
+        175,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 504,
+          "FR_text": "@a@bLa porte semble prendre vieⓠ\n@c0@",
+          "JA_text": "@a@bなんと　トビラが　目をさました！\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "721afc46c37bc3aed87551454e0df1974dd3fb71164dfd990f57de2710aad7c2",
+          "JA_record_sha256": "9127d2d4b90eab707ca0678736da70c5036b15c40dd0ff1ea86f83c6c2440050"
+        }
+      ]
+    },
+    {
+      "id": 1311,
+      "text": "Je suis celui qui garde le chemin. Si vous souhaitez passer, prononcez les mots sacrés. Choisissez la première phrase.",
+      "lines": [
+        "Je suis celui qui",
+        "garde le chemin. Si vous",
+        "souhaitez passer,",
+        "prononcez les mots",
+        "sacrés. Choisissez la",
+        "première phrase."
+      ],
+      "source_japanese": "[CODE DB]われは　なんじの　道を[LINE]ふさぐ者なり。[WAIT][LINE][CODE DB]なんじの道　切り開きたくば[LINE]定められし　言葉を[LINE]われに　つたえよ。[WAIT][LINE][CODE DB]はじめの言葉は　いかに?[WAIT][END STRING AC]",
+      "tokens_sha256": "fc6ccffa145759b12752256a06f768870de51b9382fb32e53be74e57a509f076",
+      "nontext_tokens": [
+        219,
+        173,
+        173,
+        175,
+        173,
+        173,
+        173,
+        175,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 505,
+          "FR_text": "@a@b*ⓢ Je suis celui qui garde le chemin.\n@c0@",
+          "JA_text": "@a@b＊「われは　なんじの　道を\n\tふさぐ者なり。\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "ace10d91209d6fc2415c40f19eb686266683819e413e62102669ef4250aaa4c1",
+          "JA_record_sha256": "bb733e113c73b5fd0f731c355c23bee1a711b3be90da5c88cb16bdc11139e08f"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 506,
+          "FR_text": "@a@b*ⓢ Si vous souhaitez passer, prononcez les mots sacrés.\n@c0@",
+          "JA_text": "@a@b＊「なんじの道　切り開きたくば\n\t定められし　言葉を\n\tわれに　つたえよ。\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "94f5754975387da9dda8e0bb793db009b315ed061f7d78ca9cff40614833e53d",
+          "JA_record_sha256": "9fbf495bcf9105f49802e9817bac1ec4d3c21c300cf0d6f6f83cdc0acfb7525e"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 507,
+          "FR_text": "@a@b*ⓢ Choisissez la première phrase.\n@c0@",
+          "JA_text": "@a@b＊「はじめの言葉は　いかに？\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "f1c645ea2a58afd0822d5a0e9ba4b2bfe2696fd9f3eee8e8c4b9fd7b61c422f6",
+          "JA_record_sha256": "f408f753930165f48553bd17fdf4cd1a834f05d83811f216592de3e117510b21"
+        }
+      ]
+    },
+    {
+      "id": 1312,
+      "text": "1 J'ai le coeur pur2 L'heure est venue !3 Tout selon la légende",
+      "lines": [
+        "1 J'ai le coeur pur",
+        "2 L'heure est venue !",
+        "3 Tout selon la légende"
+      ],
+      "source_japanese": "1　われ　正しき心を　もつ者なり[LINE]2　ときは　きたれり![LINE]3　すべては　伝説のままに[END STRING AC]",
+      "tokens_sha256": "99f77ece6cb726e6ae087e23a3339a04de9d36b5e70f754ddcd2a50439d2a863",
+      "nontext_tokens": [
+        173,
+        173,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 307,
+          "FR_text": "@1J'ai dans mon cœur la vérité.@",
+          "JA_text": "@1われ　正しき心を　もつ者なり@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "7a49b6feb0f6dffdc18c9f9411c439b4d8df445df48f201ea49887f98b7117bc",
+          "JA_record_sha256": "0a15d12c87b746b2823c0bf06ee76c2e5b42f554f07ed9227f68cd20986af811"
+        },
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 308,
+          "FR_text": "@1Le moment est enfin venu.@",
+          "JA_text": "@1ときは　きたれり！@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "71622550b31db3887c455e4f4e2095fd5a93c78a459e44b66579e82aab03cc77",
+          "JA_record_sha256": "dc246efd34b43f7a33d55b1ccf25035f5ffecdb48e2f0cf7782ea1c333f23c38"
+        },
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 309,
+          "FR_text": "@1Tout est conforme à la légende.@",
+          "JA_text": "@1すべては　伝説のままに@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "199b3ee0f6f4a7c89bbf5f84db8b48a0c8eccb56535e923c2ef15af9eda49394",
+          "JA_record_sha256": "0639eccb9b51821c7db2d982d4e58b94eab907b235d9e10ab2d354ba51a1228a"
+        }
+      ]
+    },
+    {
+      "id": 1313,
+      "text": "J'ai le coeur pur",
+      "lines": [
+        "J'ai le coeur pur",
+        ""
+      ],
+      "source_japanese": "われ　正しき心を　もつ者なり[CODE D5][LINE][END STRING AE]",
+      "tokens_sha256": "f5cdb4d71284b419ed511ac8bbb9391c5c6a93691b2916adc04479e63ab30c01",
+      "nontext_tokens": [
+        213,
+        173,
+        174
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 307,
+          "FR_text": "@1J'ai dans mon cœur la vérité.@",
+          "JA_text": "@1われ　正しき心を　もつ者なり@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "7a49b6feb0f6dffdc18c9f9411c439b4d8df445df48f201ea49887f98b7117bc",
+          "JA_record_sha256": "0a15d12c87b746b2823c0bf06ee76c2e5b42f554f07ed9227f68cd20986af811"
+        }
+      ]
+    },
+    {
+      "id": 1314,
+      "text": "L'heure est venue !",
+      "lines": [
+        "L'heure est venue !",
+        ""
+      ],
+      "source_japanese": "ときは　きたれり![CODE D5][LINE][END STRING AE]",
+      "tokens_sha256": "0694080047a82b1f24be0666a506e11ede0747465bbaa80c7d3045c8cc05746c",
+      "nontext_tokens": [
+        213,
+        173,
+        174
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 308,
+          "FR_text": "@1Le moment est enfin venu.@",
+          "JA_text": "@1ときは　きたれり！@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "71622550b31db3887c455e4f4e2095fd5a93c78a459e44b66579e82aab03cc77",
+          "JA_record_sha256": "dc246efd34b43f7a33d55b1ccf25035f5ffecdb48e2f0cf7782ea1c333f23c38"
+        }
+      ]
+    },
+    {
+      "id": 1315,
+      "text": "Tout selon la légende",
+      "lines": [
+        "Tout selon la légende",
+        ""
+      ],
+      "source_japanese": "すべては　伝説のままに[CODE D5][LINE][END STRING AE]",
+      "tokens_sha256": "abc4a82065f1281086b65a3622250b417d7c6079f9a68ee4375c7cdf2499b29f",
+      "nontext_tokens": [
+        213,
+        173,
+        174
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 309,
+          "FR_text": "@1Tout est conforme à la légende.@",
+          "JA_text": "@1すべては　伝説のままに@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "199b3ee0f6f4a7c89bbf5f84db8b48a0c8eccb56535e923c2ef15af9eda49394",
+          "JA_record_sha256": "0639eccb9b51821c7db2d982d4e58b94eab907b235d9e10ab2d354ba51a1228a"
+        }
+      ]
+    },
+    {
+      "id": 1316,
+      "text": "Choisissez la deuxième phrase.",
+      "lines": [
+        "Choisissez la deuxième",
+        "phrase."
+      ],
+      "source_japanese": "[CODE DB]次なる言葉は　いかに?[WAIT][END STRING AC]",
+      "tokens_sha256": "75bf3bd3056a8aa879f56c673007103c70646ee309aa1b6a55b41d36c2bbf494",
+      "nontext_tokens": [
+        219,
+        173,
+        175,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 509,
+          "FR_text": "@a@b*ⓢ Choisissez la deuxième phrase.\n@c0@",
+          "JA_text": "@a@b＊「次なる言葉は　いかに？\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "0f663687b7bbd0a2e2122f8031b5a9e6796be898b30eeddadceaf2ca7704a518",
+          "JA_record_sha256": "ae795835abf9fd78118ef36014b5e912785d48ba69638c02cfca3b218e3f57ad"
+        }
+      ]
+    },
+    {
+      "id": 1317,
+      "text": "1 Beauté d'antan...2 Combattons ensemble3 Lame à force cachée",
+      "lines": [
+        "1 Beauté d'antan...",
+        "2 Combattons ensemble",
+        "3 Lame à force cachée"
+      ],
+      "source_japanese": "1　古しえの姫の　うつくしさを[LINE]2　われと　ともに　戦わん[LINE]3　ちから　ひめたる　やいばを[END STRING AC]",
+      "tokens_sha256": "5550016a3d9b47454a351aadd9ca7163172937953938cb412db6e49220c9b43c",
+      "nontext_tokens": [
+        173,
+        173,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 310,
+          "FR_text": "@1Par la beauté de l'ancienne princesse...@",
+          "JA_text": "@1古しえの姫の　うつくしさを@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "5992ff71d1fe37fff523165a8118990f52d16c3e421e51734cb9b4889efc0197",
+          "JA_record_sha256": "062e8e42eba6a24a4c56a8bdef318b80d8771a345db2b398c05122d31fa7e7ed"
+        },
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 311,
+          "FR_text": "@1Nous devons lutter ensemble...@",
+          "JA_text": "@1われと　ともに　戦わん@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "92237bf73e74be8eaae7978b6a74c1987cd5b46fc072c17c09d1bb00f597b943",
+          "JA_record_sha256": "eaa65d870dac40ff5c79d22bc95db1ed9a4825c05138d4323a908918ee152873"
+        },
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 312,
+          "FR_text": "@1La lame à la puissance inégalée...@",
+          "JA_text": "@1ちから　ひめたる　やいばを@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "2e82124842ff08fc5704d9b5b8a61ece9a80b5df55c3de27c920ea687cf98bc5",
+          "JA_record_sha256": "ac62295f53dc5395692ada30c29fa05a81b44277a51b3459b11349474a5c72d9"
+        }
+      ]
+    },
+    {
+      "id": 1318,
+      "text": "Belle princesse d'antan",
+      "lines": [
+        "Belle princesse d'antan",
+        ""
+      ],
+      "source_japanese": "古しえの姫の　うつくしさを[CODE D5][LINE][END STRING AE]",
+      "tokens_sha256": "5384d97e438da9d11f24bf8c14ccaf8aada6278253a3226b3b169493978c14b9",
+      "nontext_tokens": [
+        213,
+        173,
+        174
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 310,
+          "FR_text": "@1Par la beauté de l'ancienne princesse...@",
+          "JA_text": "@1古しえの姫の　うつくしさを@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "5992ff71d1fe37fff523165a8118990f52d16c3e421e51734cb9b4889efc0197",
+          "JA_record_sha256": "062e8e42eba6a24a4c56a8bdef318b80d8771a345db2b398c05122d31fa7e7ed"
+        }
+      ]
+    },
+    {
+      "id": 1319,
+      "text": "Combattons ensemble",
+      "lines": [
+        "Combattons ensemble",
+        ""
+      ],
+      "source_japanese": "われと　ともに　戦わん[CODE D5][LINE][END STRING AE]",
+      "tokens_sha256": "291fc61a4ca07c7a3031bdf333cdac76cbf50cd0917eb852217c8e0149449df8",
+      "nontext_tokens": [
+        213,
+        173,
+        174
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 311,
+          "FR_text": "@1Nous devons lutter ensemble...@",
+          "JA_text": "@1われと　ともに　戦わん@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "92237bf73e74be8eaae7978b6a74c1987cd5b46fc072c17c09d1bb00f597b943",
+          "JA_record_sha256": "eaa65d870dac40ff5c79d22bc95db1ed9a4825c05138d4323a908918ee152873"
+        }
+      ]
+    },
+    {
+      "id": 1320,
+      "text": "Lame à force cachée",
+      "lines": [
+        "Lame à force cachée",
+        ""
+      ],
+      "source_japanese": "ちから　ひめたる　やいばを[CODE D5][LINE][END STRING AE]",
+      "tokens_sha256": "5bca87b3991106284438bd58c3389c59012999806d4926be497381418082e87d",
+      "nontext_tokens": [
+        213,
+        173,
+        174
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 312,
+          "FR_text": "@1La lame à la puissance inégalée...@",
+          "JA_text": "@1ちから　ひめたる　やいばを@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "2e82124842ff08fc5704d9b5b8a61ece9a80b5df55c3de27c920ea687cf98bc5",
+          "JA_record_sha256": "ac62295f53dc5395692ada30c29fa05a81b44277a51b3459b11349474a5c72d9"
+        }
+      ]
+    },
+    {
+      "id": 1321,
+      "text": "Choisissez la troisième phrase.",
+      "lines": [
+        "Choisissez la",
+        "troisième phrase."
+      ],
+      "source_japanese": "[CODE DB]最後の言葉は　いかに?[WAIT][END STRING AC]",
+      "tokens_sha256": "4835c7d4c55829dad1a40862ee820dd7141ea282337ca9e6e1cf75e3608a5ca3",
+      "nontext_tokens": [
+        219,
+        173,
+        175,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 511,
+          "FR_text": "@a@b*ⓢ Choisissez la troisième phrase.\n@c0@",
+          "JA_text": "@a@b＊「最後の言葉は　いかに？\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "4e329ec414820a62d079a5cb316e38d0b667926648cda7b28c525cb87bb72de4",
+          "JA_record_sha256": "3f72bdc2a8bdc48ca61ae2ff49797191c7f3313b33fd56cbfef394ec3f598d21"
+        }
+      ]
+    },
+    {
+      "id": 1322,
+      "text": "1 Révèle-toi ici !2 Sors de la glace !3 Éclaire nos vies.",
+      "lines": [
+        "1 Révèle-toi ici !",
+        "2 Sors de la glace !",
+        "3 Éclaire nos vies."
+      ],
+      "source_japanese": "1　今ここに　しめすべし。[LINE]2　氷のふちより　ときはなたん![LINE]3　われらが　命の　ともしびに。[END STRING AC]",
+      "tokens_sha256": "6463ba57ed1ce5791913e3cbeb17a8353c819bf643090985eeea2f919376e62f",
+      "nontext_tokens": [
+        173,
+        173,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 313,
+          "FR_text": "@1Que la vérité soit révélée !@",
+          "JA_text": "@1今ここに　しめすべし@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "8b4c4f830e5a7a825c2548d3e64ee2af3131fc4ec7c265b5cd1f088ad0c0d7d4",
+          "JA_record_sha256": "346796d79f198f818898faed5f8fd9c1904f485632debbde30f70efba2fed0a9"
+        },
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 314,
+          "FR_text": "@1Qu'elle surgisse de la glace !@",
+          "JA_text": "@1氷のふちより　ときはなたん！@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "cb601887d98a39e1743ddf512cd9db67e863905c326fd281041bd96fa31c3ac7",
+          "JA_record_sha256": "cafb2edb1c5bfd481bbacbb7c12b2f8d863c071d53fd874d81157e0ef057a70e"
+        },
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 315,
+          "FR_text": "@1Deviens la lumière qui nous guide !@",
+          "JA_text": "@1われらが　命の　ともしびに。@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "8de5dda7300504a7db0a02134758443d051689d69b918e63a1997db48439da29",
+          "JA_record_sha256": "a56ec12aeab9d63c85ff08a00606c7839b36f397c5a0c98ecf32a7d96a016bca"
+        }
+      ]
+    },
+    {
+      "id": 1323,
+      "text": "Révèle-toi ici !",
+      "lines": [
+        "Révèle-toi ici !"
+      ],
+      "source_japanese": "今ここに　しめすべし。[CODE D5][END STRING AE]",
+      "tokens_sha256": "8d4be1e13a4f477c17c854eaa9f70c0222aa6a5f56b8c2337f8d0a568092cbb3",
+      "nontext_tokens": [
+        213,
+        174
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 313,
+          "FR_text": "@1Que la vérité soit révélée !@",
+          "JA_text": "@1今ここに　しめすべし@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "8b4c4f830e5a7a825c2548d3e64ee2af3131fc4ec7c265b5cd1f088ad0c0d7d4",
+          "JA_record_sha256": "346796d79f198f818898faed5f8fd9c1904f485632debbde30f70efba2fed0a9"
+        }
+      ]
+    },
+    {
+      "id": 1324,
+      "text": "Sors de la glace !",
+      "lines": [
+        "Sors de la glace !"
+      ],
+      "source_japanese": "氷のふちより　ときはなたん![CODE D5][END STRING AE]",
+      "tokens_sha256": "c7bd68c04edfe85f12bc8048575035707d56763cbe9c3744f22a1a9f554d1e5a",
+      "nontext_tokens": [
+        213,
+        174
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 314,
+          "FR_text": "@1Qu'elle surgisse de la glace !@",
+          "JA_text": "@1氷のふちより　ときはなたん！@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "cb601887d98a39e1743ddf512cd9db67e863905c326fd281041bd96fa31c3ac7",
+          "JA_record_sha256": "cafb2edb1c5bfd481bbacbb7c12b2f8d863c071d53fd874d81157e0ef057a70e"
+        }
+      ]
+    },
+    {
+      "id": 1325,
+      "text": "Éclaire nos vies.",
+      "lines": [
+        "Éclaire nos vies."
+      ],
+      "source_japanese": "われらが　命の　ともしびに。[CODE D5][END STRING AE]",
+      "tokens_sha256": "6c103a913873dd0592b5777576fdc4d1f73ef0f62b2bb1823d8ee4c068082067",
+      "nontext_tokens": [
+        213,
+        174
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+          "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+          "id": 315,
+          "FR_text": "@1Deviens la lumière qui nous guide !@",
+          "JA_text": "@1われらが　命の　ともしびに。@",
+          "scope": "SOURCE_DS_EXPLICITE_ADAPTEE_AU_SFC",
+          "FR_record_sha256": "8de5dda7300504a7db0a02134758443d051689d69b918e63a1997db48439da29",
+          "JA_record_sha256": "a56ec12aeab9d63c85ff08a00606c7839b36f397c5a0c98ecf32a7d96a016bca"
+        }
+      ]
+    },
+    {
+      "id": 1326,
+      "text": "Voici les mots que vous avez prononcés,",
+      "lines": [
+        "Voici les mots que",
+        "vous avez prononcés,"
+      ],
+      "source_japanese": "[CODE DB]なんじの　言葉を　ここに[LINE]しめさん。[WAIT][END STRING AC]",
+      "tokens_sha256": "3d2a6c8699552c2f72bb8643a8da6e1a25581fa63bf0fdded6c52d6d85979362",
+      "nontext_tokens": [
+        219,
+        173,
+        175,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 513,
+          "FR_text": "@a@b*ⓢ Voici les mots que vous avez prononcésⓢ\n@c0@",
+          "JA_text": "@a@b＊「なんじの　言葉を　ここに\n\tしめさん。\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "50a0d1bbfcf5fc3673b98a9ffdb6a9208cd40b9b0b3125b3db2e4d0937739af9",
+          "JA_record_sha256": "e11d146c9753bd40ea9756580a3e1c2e0dc69e3c0f59b79357fd5e5ccf0e469c"
+        }
+      ]
+    },
+    {
+      "id": 1327,
+      "text": "Ces paroles sont erronées. Partez sur-le-champ.",
+      "lines": [
+        "Ces paroles sont",
+        "erronées. Partez",
+        "sur-le-champ."
+      ],
+      "source_japanese": "[CODE DB]なんじの言葉　定められし[LINE]ものと　異なるものなり。[LINE]なんじ　立ちさるが　よろし![END STRING AC]",
+      "tokens_sha256": "e963d9fea57f4b7339afdf9dff2f609a8aa45ce223febdb68157dbf5485bb116",
+      "nontext_tokens": [
+        219,
+        173,
+        173,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 516,
+          "FR_text": "@a@b*ⓢ Ces paroles sont erronées. Partez sur-le-champ.\n@c0@",
+          "JA_text": "@a@b＊「なんじの言葉　定められし\n\tものと　異なるものなり。\n\tなんじ　立ち去るが　よろし！\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "156d83ae1f80fb13fde05a33bd5439bee66a60e41d4f606e70227d9d003d56e0",
+          "JA_record_sha256": "418a69c7529b791ae0652812613e7e09a1cb92bca32c1982e45633facddfd6e9"
+        }
+      ]
+    },
+    {
+      "id": 1328,
+      "text": "Les paroles sacrées ont été prononcées. Le sceau va être brisé.",
+      "lines": [
+        "Les paroles sacrées",
+        "ont été prononcées. Le",
+        "sceau va être brisé."
+      ],
+      "source_japanese": "[CODE DB]なんじの言葉　正しきものなり。[LINE]われ　封印を　ここに　とかん。[END STRING AC]",
+      "tokens_sha256": "fb9f35f00eaf44349abe2409cf7566acc9078368cda9e8af601df5249a38b33d",
+      "nontext_tokens": [
+        219,
+        173,
+        173,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 521,
+          "FR_text": "@a@b*ⓢ Les paroles sacrées ont été prononcées.\nLe sceau va être brisé.\n@c0@",
+          "JA_text": "@a@b＊「なんじの言葉　正しきものなり。\n\tわれ　封印を　ここに　とかん。\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "dc3a4a6b057f674016c5bdb8368eb29e25246665cde3efb9afabedbd509b46b4",
+          "JA_record_sha256": "ecd7c6a39099554af0df26ec45f4ce370afd0b628e5b26b2ecb857db0b9c010d"
+        }
+      ]
+    },
+    {
+      "id": 1329,
+      "text": "La voie s'ouvre à vous qui avez prononcé les paroles sacrées. Vous pouvez passer.",
+      "lines": [
+        "La voie s'ouvre à vous",
+        "qui avez prononcé les",
+        "paroles sacrées. Vous",
+        "pouvez passer."
+      ],
+      "source_japanese": "[CODE DB]なんじの道は　開かれた。[LINE]なんじの道を　進むがよし。[END STRING AC]",
+      "tokens_sha256": "7cfad12449f6c183a59a497e285ff9fc983bf6a242147e5b804b2dfd483923f5",
+      "nontext_tokens": [
+        219,
+        173,
+        173,
+        175,
+        173,
+        172
+      ],
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0072.p",
+          "JA_file": "data/MESS6/JA/0072.p",
+          "id": 522,
+          "FR_text": "@a@b*ⓢ La voie s'ouvre à vous qui avez prononcé les paroles sacrées. Vous pouvez passer.\n@c0@",
+          "JA_text": "@a@b＊「なんじの道は　開かれた。\n\tなんじの道を　進むがよし。\n@c0@",
+          "scope": "REFERENCE_DE_LA_SELECTION_PUBLIEE",
+          "FR_record_sha256": "240ebfea435e27e34cdcaebd5a9ad763836eea97491b7b1fd6da770999feea63",
+          "JA_record_sha256": "ece3df13d2645b70f521b14186496f93b03661a25b429004b02ef61a42d9c2e0"
+        }
+      ]
+    }
+  ],
+  "required_tests": [
+    "Play native Frizzam and both available player-voice paths.",
+    "Read all ten610 parts with their pauses.",
+    "Exercise every wrong response and restart.",
+    "Prove the actual accepted sequence and echo selection without inferring it solely from semantic labels.",
+    "Check success opens the door and preserves flags;diagnostic redirection is not natural play."
+  ]
+}
