@@ -1,0 +1,617 @@
+{
+  "status": "OUVERT_PREPARE_NON_INSERE",
+  "scope": "Comparaison des consignes/objets/éditions dans les400positions, pas parcours naturel.",
+  "comparison_rows": [
+    {
+      "id": 955,
+      "source_japanese": "ここは　いちおう　食堂だけどさ[LINE]それも　名ばかり。[WAIT][LINE]兵士たちから　配給される[LINE]材料じゃ　ろくな料理も[LINE]つくれやしないよ。[END STRING AC]",
+      "old_text": "C'est censé être le réfectoire, mais à vrai dire, on mange rarement ici. Les rations des gardes sont maigres et on peine à préparer des repas convenables.",
+      "old_tokens_sha256": "bbd7004322d7c48b71de0f6ffc43fa15ff7af260b52acec98ec831579ce52c7d",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0088.p",
+          "JA_file": "data/MESS6/JA/0088.p",
+          "id": 777,
+          "FR_text": "@a@b*ⓢ C'est censé être le réfectoire, mais à vrai dire, on mange rarement ici.\n@c0@",
+          "JA_text": "@a@b＊「ここは　いちおう　食堂だけどさ\n\tそれも　名ばかり。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "2fc736d161c1edae6dafc66c31b125de767a43617ee922aab43aed89744503ed",
+          "JA_record_sha256": "5efdf9acd304615430b244059898d3b03016f511974ffa370741927d4c70d3e4"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0088.p",
+          "JA_file": "data/MESS6/JA/0088.p",
+          "id": 778,
+          "FR_text": "@a@b*ⓢ Les rations des gardes sont maigres et on peine à préparer des repas convenables.\n@c0@",
+          "JA_text": "@a@b＊「兵士たちから　配給される\n\t材料じゃ　ろくな料理も\n\tつくれやしないよ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "4cdb27b5d95de6b422a4939d3ecf50a4cf5fd79e4085c3b9852b73fe8f43fe8f",
+          "JA_record_sha256": "c37a245f01c89bca1681f1430039042f8c4f6b35c8cb3b9feb7178048cffd266"
+        }
+      ],
+      "proposed_text": "C'est censé être le réfectoire, mais à vrai dire, on mange rarement ici. Les rations distribuées par les gardes sont maigres et on peine à préparer des repas convenables.",
+      "note": "Rations des gardes ambigu sur bénéficiaires ; JP 材料/DSJA778 dit distribuées par les gardes. Proposer rations distribuées par les gardes, reste conservé."
+    },
+    {
+      "id": 960,
+      "source_japanese": "[CODE D4]ルイ「あんたが　その気なら[LINE]道具屋の主人に　話してごらん。[WAIT][LINE][CODE D4]ルイ「ただし　こっそりとね。[LINE]兵士たちに　バレたら　あたしらの[LINE]命も　あぶないからさ。[END STRING AC]",
+      "old_text": "Tully. Si vous êtes d'accord, parlez au marchand d'objets. Tully. Mais discrètement ! Si les gardes l'apprennent, nos vies seront en danger.",
+      "old_tokens_sha256": "a57c57381a6177b56395e2239062c646108276ab36a9cae1b9779ee85ea41cb2",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0088.p",
+          "JA_file": "data/MESS6/JA/0088.p",
+          "id": 771,
+          "FR_text": "@aTully@bSi c'est le cas, je vous conseille de vous adresser à l'homme qui distribue la nourriture.\n@c0@",
+          "JA_text": "@a@bルイ「あんたが　その気なら\n\t道具屋の主人に　話してごらん。\n@c0@",
+          "scopes": [
+            "REFERENCE_EXPLICITE"
+          ],
+          "FR_record_sha256": "eb20fd50a5e025caf1b40c5e0d168441ddb8697e365bdcbcdf0d7e6bcd0ea990",
+          "JA_record_sha256": "7c75f79816672cb24cd3567f93e076105085a45d49b516923078d48f6b35de69"
+        }
+      ],
+      "proposed_text": null,
+      "note": "SFC dit marchand d'objets, FR DS771 distributeur de nourriture ; adaptation SFC conservée, itinéraire et commerce natif restent à vérifier."
+    },
+    {
+      "id": 961,
+      "source_japanese": "え?　アクバーを　たおしたい?[LINE]シーーッ![WAIT][LINE]こ　こまりますよ　こんなところで...[LINE]そういう話なら　うらに[LINE]まわってくれなくちゃ。[END STRING AE]",
+      "old_text": "Comment? Vous voulez vaincre Noirkeur? Chut! Je vais avoir des problèmes si on m'entend. Restons discrets.",
+      "old_tokens_sha256": "e9b6c8b183cfb3b67b7eb18a14d092684cbaff529eb8830ec973a987c52701d1",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0088.p",
+          "JA_file": "data/MESS6/JA/0088.p",
+          "id": 787,
+          "FR_text": "@a@b*ⓢ Commentⓡⓐ Vous voulez vaincre Noirkeurⓡ Chutⓠ\n@c0@",
+          "JA_text": "@a@b＊「え？　アクバーを　たおしたい？\n\tシーーッ！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "637112c2110792d51fdcbbfeef93abc282d3f9dff548634fbbc8995904de5387",
+          "JA_record_sha256": "deb2c856cf5f41f859f31c805d2345abd370c9aecf0f941a4c6e46b8e6f5148d"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0088.p",
+          "JA_file": "data/MESS6/JA/0088.p",
+          "id": 788,
+          "FR_text": "@a@b*ⓢ Je vais avoir des problèmes si on m'entend. Restons discrets.\n@c0@",
+          "JA_text": "@a@b＊「こ　こまりますよ　こんなところで……\n\tそういう話なら　うらに\n\tまわってくれなくちゃ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "8091625259c044b0e6a687db390f19d98a19ead01afd2b00a6241e5516a2a6b9",
+          "JA_record_sha256": "68a6b42df3d37ada006dbd70498f8e8345bee5e2c8d6221ad29f3feb0248bc1a"
+        }
+      ],
+      "proposed_text": "Comment? Vous voulez vaincre Noirkeur? Chut! Je vais avoir des problèmes si on m'entend. Restons discrets. Passez par derrière pour en parler.",
+      "note": "JP/JA DS788 demande passer derrière ; FR DS omet cette consigne. Proposer Passez par derrière pour en parler après Restons discrets ; géométrie et déclencheur non testés."
+    },
+    {
+      "id": 962,
+      "source_japanese": "酒場のうらにいる　ゴンに[LINE]声をかけてみてください。[END STRING AC]",
+      "old_text": "Allez voir Magnus. Vous le trouverez derrière le bar.",
+      "old_tokens_sha256": "2e276592b39b1ccdfbe4b81c4e5294005a70717d4983e3f27b0b0e12363ace54",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0088.p",
+          "JA_file": "data/MESS6/JA/0088.p",
+          "id": 789,
+          "FR_text": "@a@b*ⓢ Allez voir Magnus. Vous le trouverez derrière le bar.\n@c0@",
+          "JA_text": "@a@b＊「酒場のうらにいる　ゴンに\n\t声をかけてみてください。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "c610865e55414a53be51121c73d5936fc3b973e5722e27fcabb9ae885f90d922",
+          "JA_record_sha256": "a473c67b0f8c194fcd1222251385803b0f20535ed6ec90817222f7b4455a6541"
+        }
+      ],
+      "proposed_text": null,
+      "note": "Magnus derrière le bar DS789 ; consigne ne prouve pas que derrière961 désigne exactement le même point physique."
+    },
+    {
+      "id": 1001,
+      "source_japanese": "[CODE D4]兵士「この　さわぎで　また[LINE]兵士長どのに　おこられますよ。[LINE]やってられませんね。[END STRING AC]",
+      "old_text": "Soldat. à cause de ce bazar, le capitaine s'est encore énervé contre moi. C'est mal barré.",
+      "old_tokens_sha256": "9e8c028200b25a5262d48f4618585f1a029426cb44587fb16236cb85f602b9bc",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0088.p",
+          "JA_file": "data/MESS6/JA/0088.p",
+          "id": 890,
+          "FR_text": "@aSoldat@bÀ cause de ce bazar, le capitaine s'est encore énervé contre moi. C'est mal barré.\n@c0@",
+          "JA_text": "@a@b兵士「この　さわぎで　また\n\t兵士長どのに　おこられますよ。\n\tやってられませんね。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "983fe535a7c9aaefb2d734a41500d09452e61050967bf7b6fcea04f73fff756a",
+          "JA_record_sha256": "cc37a946b84d910f0f3199b2f84dcf9bdcccbf50a928ffbf4632ccde5dae7cdf"
+        }
+      ],
+      "proposed_text": "Soldat. À cause de ce bazar, le capitaine s'est encore énervé contre moi. C'est mal barré.",
+      "note": "Colère capitaine DS890/JP réprimande à venir ; temps passé DS conservé, À proposé et pas référence au frère IPS."
+    },
+    {
+      "id": 1002,
+      "source_japanese": "[CODE D4]兵士「まったくだぜ![LINE]うまい　ぶどう酒でも　もっていって[LINE]ごきげんを　とらなくちゃな。[END STRING AC]",
+      "old_text": "Soldat. C'est clair! Ce qu'il nous faut, c'est un ou deux bons verres de vin. ça nous remonterait le moral!",
+      "old_tokens_sha256": "5943497951dc613ee46dd03fbe6d7891a7d92b954f66b285694e9b515d5a4d8c",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0088.p",
+          "JA_file": "data/MESS6/JA/0088.p",
+          "id": 891,
+          "FR_text": "@aSoldat@bC'est clairⓠ Ce qu'il nous faut, c'est un ou deux bons verres de vin. Ça nous remonterait le moralⓠ\n@c0@",
+          "JA_text": "@a@b兵士「まったくだぜ！\n\tうまい　ぶどう酒でも　もっていって\n\tごきげんを　とらなくちゃな。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "ea50bd25a099d567816cf4841863b0562656fee927a173a9d0f91002195c0f66",
+          "JA_record_sha256": "6c916deff5e967f656eb3bda7eae9ad0147186842fda5f4f527d63c6251b02f0"
+        }
+      ],
+      "proposed_text": "Soldat. C'est clair! Il va falloir lui apporter du bon vin pour le mettre de bonne humeur!",
+      "note": "JP ごきげんをとる et apporter vin visent apaiser capitaine1001 ; FR DS891 dit boire pour leur propre moral. Proposer lui apporter du bon vin pour le mettre de bonne humeur ; lien pronom capitaine à tester, pas nouvelle scène inventée."
+    },
+    {
+      "id": 1003,
+      "source_japanese": "　　　　　　　[CODE D3]たちは　カギと服を[LINE]　　とりあげられ　再び　牢に入れられた...。[END STRING AC]",
+      "old_text": "La clef du geôlier et l'équipement de garde sont rendus. Retour aux cellules.",
+      "old_tokens_sha256": "bb9d1516c9504184032f106d0cb6784394c10e6ba35968c5227026b1fea363f1",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0088.p",
+          "JA_file": "data/MESS6/JA/0088.p",
+          "id": 893,
+          "FR_text": "@a@b%3%H0860%X%0%a000120 rend la clef du geôlier et sa tenue de garde%YL'équipe rend la clef du geôlier et ses tenues de garde%Z avant de rejoindre sa cellule.%4\n@c0@",
+          "JA_text": "@a@b%3%a000120たちは　カギと服を\nとりあげられ　再び　牢に入れられた……。%4\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "fa3a7c41ea5d5c01267961a1a90a75a47c65c0706a8bfd7c6d553edf60cdb1d5",
+          "JA_record_sha256": "b312499975a3ceedb28c4093dbc34cd3115915905f8cb5c1de5a99f2a51ef39d"
+        }
+      ],
+      "proposed_text": "La clef du geôlier et l'équipement de garde sont confisqués. Retour aux cellules.",
+      "note": "JP clé/tenues retirées de force, DS rend peut suggérer volontariat ; proposer sont confisqués, D3 des tokens conservé même absent de la formulation visible."
+    },
+    {
+      "id": 1010,
+      "source_japanese": "[CODE D4]兵士「な　なんだ　きさまらは![WAIT][LINE][CODE D4]兵士「はっ...　もしや[LINE]ゆうべの　ぶどう酒に　きさまらが[LINE]なにか　しかけを...![END STRING AC]",
+      "old_text": "Soldat. Q-qui êtes-vous? Minute! Ne me dites pas que vous avez mis quelque chose dans le vin hier soir?",
+      "old_tokens_sha256": "a0aa4d76094d65d878ef1f3abd34b7161003885b4c12122570413641a87e19a3",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 15,
+          "FR_text": "@aSoldat@bQ-qui êtes-vousⓡⓐ\n@c0@",
+          "JA_text": "@a@b兵士「な　なんだ　きさまらは！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "33c3fa088ea4d0210925b73e424a5daf725ffcca936e2a8715bd1d8eb3a9f498",
+          "JA_record_sha256": "68fa92e7dd2e5b41c22ecab1bdd2749f264d8011171c010bebf4239ffd862fc2"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 16,
+          "FR_text": "@aSoldat@bMinuteⓠ Ne me dites pas que vous avez mis quelque chose dans le vin hier soirⓡⓐ\n@c0@",
+          "JA_text": "@a@b兵士「はっ……　もしや\n\tゆうべの　ぶどう酒に　きさまらが\n\tなにか　しかけを……！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "47266815cad4acb035afeb182d96a129dab9beece319883f247d3a2eaea5249e",
+          "JA_record_sha256": "930f07a112c5aa39dd98632d6ffeb91f5916031140d030623df0858f28c3320c"
+        }
+      ],
+      "proposed_text": null,
+      "note": "Soldat soupçonne vin de la veille DS15–16, cohérent1002/1045 ; pas de composition native du somnifère inspectée."
+    },
+    {
+      "id": 1012,
+      "source_japanese": "しかたない...　やるか?[END STRING AC]",
+      "old_text": "C'était obligatoire... On continue?",
+      "old_tokens_sha256": "c645b1c277d5380dc0c7be871c0c314bde7d001fbc49f723d17a6a6c870ec900",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 18,
+          "FR_text": "@a@b*ⓢ C'était obligatoire...㈢㈢ On continueⓡ\n@c0@",
+          "JA_text": "@a@b＊「しかたない……㈢㈢　やるか？\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "19c43719b44f8ecd1397aeb1f292be4104b0cc6666957e016f4aa7f4e8dffd1e",
+          "JA_record_sha256": "737a8b477ec83ec38ce2c86c355cd199570e2e055e0d901c89c26f5c133811cb"
+        }
+      ],
+      "proposed_text": "On n'a pas le choix... On y va?",
+      "note": "JP しかたない = pas le choix maintenant ; FR DS C'était obligatoire maladroit au passé. Proposer On n'a pas le choix... On y va? en lien1013, pas confirmation de combat jouée."
+    },
+    {
+      "id": 1018,
+      "source_japanese": "[CODE D4]ゴン「よし!　牢のカギを[LINE]手に入れたぜ![END STRING AC]",
+      "old_text": "Magnus. Ha ha! On a la clef du gêolier!",
+      "old_tokens_sha256": "6d6b07916b0bb3685504b2ffb777a9e3c927e37a4e19a371650bfcc610b61328",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 25,
+          "FR_text": "@aMagnus@bHa haⓠ On a la clef du gêolierⓠ\n@c0@",
+          "JA_text": "@a@bゴン「よし！　牢のカギを\n\t手に入れたぜ！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "338e02d7d08b2b18d7c616ca2078ee8f9324709963b1c44939ae78b63808353f",
+          "JA_record_sha256": "2367f937dcfd4fbd662c5a690d6b2add14a36b8f988a58f97c32d6983ab578b9"
+        }
+      ],
+      "proposed_text": "Magnus. Ha ha! On a la clef du geôlier!",
+      "note": "Gêolier faute présente dans DS25 ; proposer geôlier, cohérent853/1047/1048/1092. Â/Ç/œ non concernés par cette correction, encodage quand même non exécuté."
+    },
+    {
+      "id": 1038,
+      "source_japanese": "やあ　きのうは　ボクの兄を[LINE]助けてくださって[LINE]ありがとうございました。[WAIT][LINE]そのお礼と　クーデターの[LINE]けいきづけに　ぶどう酒を[LINE]いっぱい　どうです?[WAIT][LINE]...あれ?　おっと　これは[LINE]ゆうべ　兵士たちに　くばった[LINE]ぶどう酒の方だった。[END STRING AC]",
+      "old_text": "Je vous remercie du fond du coeur d'avoir sauvé mon frère de la guillotine hier. Pour vous remercier, voici un verre de vin. Portons un toast à la révolution! Une minute! Euh... C'est le vin qu'on a donné aux soldats. Désolé!",
+      "old_tokens_sha256": "27b2c4b81a2c8dcf893696e3cd1c0de7971106d076a995b87f38d5873417bfe8",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 59,
+          "FR_text": "@a@b*ⓢ Je vous remercie du fond du cœur d'avoir sauvé mon frère de la guillotine hier.\n@c0@",
+          "JA_text": "@a@b＊「やあ　きのうは　ボクの兄を\n\t助けてくださって\n\tありがとうございました。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "a28916060002c12b492583f3001015d7d1fe42c105a9a2a0e8e7a76588acb64c",
+          "JA_record_sha256": "85ddc8414e55265ddb9d74a1837ddf6ecb6d7ff850b5022ad87246029d693a98"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 60,
+          "FR_text": "@a@b*ⓢ Pour vous remercier, voici une dose de jus de raisin. Portons un toast à la révolutionⓠ\n@c0@",
+          "JA_text": "@a@b＊「そのお礼と　クーデターの\n\tけいきづけに　ジュースでも\n\tいっぱい　どうです？\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "6cf49e3381a4be808a4de5f22a3049ed8d02a7e4c2bca133bfbeb4a54b67d0b9",
+          "JA_record_sha256": "6da3f9b83432153e7cee4248ca9b3f3746d5200c90e879a8fe7572b7851d2012"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 61,
+          "FR_text": "@a@b*ⓢ Une minuteⓠ Euh... C'est le vin qu'on a donné aux soldats. Désoléⓠ\n@c0@",
+          "JA_text": "@a@b＊「……あれ？　おっと　これは\n\tゆうべ　兵士たちに　くばった\n\tぶどう酒の方だった。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "5efeca9fe11c8eab321e49a61741b9441513b5772f5d4b6dd2ed01bbfebbf3b7",
+          "JA_record_sha256": "6731e4c6038c0402d31aa8b748224878ab94d8b2da9afede0ea80a16f676e3cf"
+        }
+      ],
+      "proposed_text": "Je vous remercie du fond du cœur d'avoir sauvé mon frère de la guillotine hier. Pour vous remercier, voici un verre de vin. Portons un toast à la révolution! Une minute! Euh... C'est le vin qu'on a donné aux soldats. Désolé!",
+      "note": "Frère remercie et confond vins DS59–61 ; verre de vin adapté au SFC contre jus de raisin DS60. Cœur proposé, boire/non boire natif non testé."
+    },
+    {
+      "id": 1045,
+      "source_japanese": "[CODE D4]トンヌラ「とりあえず　ほとんどの[LINE]兵士は　オラの　すいみん薬入り[LINE]ぶどう酒で　眠らせてある。[WAIT][LINE][CODE D4]トンヌラ「のこりの　兵士たちは[LINE]オラたちで　やっつけるから......[WAIT][LINE][CODE D4]トンヌラ「あんたがたは　アクバーから[LINE]シスター　アンナを助けだしてくれ。[LINE]じゅんびは　いいだか?[END STRING AC]",
+      "old_text": "Elric. Nous avons réussi à éliminer la plupart des soldats grâce à notre mélange de vin et de somnifères. Nous allons nous occuper des soldats encore debout. Ne vous souciez pas d'eux! Votre mission est de vaincre Noirkeur et de sauver la soeur Anne. Tout est prêt?",
+      "old_tokens_sha256": "f4ea4929d73585224143e1915d4daaac179e8c9519db808279108d2e0891b3a7",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 78,
+          "FR_text": "@aElric@bNous avons réussi à éliminer la plupart des soldats grâce à notre mélange de vin et de somnifères.\n@c0@",
+          "JA_text": "@a@bトンヌラ「とりあえず　ほとんどの\n\t兵士は　オラの　すいみん薬入りの\n\tぶどう酒で　眠らせてある。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "0caab51f146a729c69ca505a2e2a0b2b78584b20b2027c4e23a9a9296c7934ba",
+          "JA_record_sha256": "ead22f4a5ffb3b86baaf7a2a206de7d902ba1215f0ee242b37139614fe7cccf6"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 79,
+          "FR_text": "@aElric@bNous allons nous occuper des soldats encore debout. Ne vous souciez pas d'euxⓠ\n@c0@",
+          "JA_text": "@a@bトンヌラ「のこりの　兵士たちは\n\tオラたちで　やっつけるから……\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "ce0165d3e3c0bfaa8363e1e64873ad6e3d4659e42b132b36733c02a2206a2699",
+          "JA_record_sha256": "a295bac661166706be1d2512c1b23c45c45101fc4a9b31644f2ffd5afd5b66f8"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 80,
+          "FR_text": "@aElric@bVotre mission est de vaincre Noirkeur et de sauver la sœur Anne. Tout est prêtⓡ\n@c0@",
+          "JA_text": "@a@bトンヌラ「あんたがたは　アクバーから\n\tシスター　アンナを助けだしてくれ。\n\t準備は　いいだか？\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "848e47783ec48455c69ed730cc4bc59c079743d7752f85f9851853002261df7a",
+          "JA_record_sha256": "a4fd934a64c6a9302be92bce611d4c79f2d7991c90a5fb47543b62bf78e9773c"
+        }
+      ],
+      "proposed_text": "Elric. Nous avons réussi à endormir la plupart des soldats grâce à notre mélange de vin et de somnifères. Nous allons nous occuper des soldats encore debout. Ne vous souciez pas d'eux! Votre mission est de vaincre Noirkeur et de sauver la sœur Anne. Tout est prêt?",
+      "note": "JP眠らせた et DSJA78 disent endormir, FR éliminer ambigu ; proposer endormir et sœur, somnifères déjà cités. Pas massacre inventé, efficacité native non testée."
+    },
+    {
+      "id": 1105,
+      "source_japanese": "おお　ありがたい![LINE]お礼に　いいことを　教えましょう。[WAIT][LINE]この町の　北西にある[LINE]暗黒の岬から　大魔王の城へ[LINE]いけるはずです。[WAIT][LINE]それから　大魔王は　かならず[LINE]まやかしの術を　使います。[LINE]決して　まどわされませぬよう。[END STRING AC]",
+      "old_text": "Merci beaucoup! En échange de votre bonté, j'ai des informations intéressantes pour vous. Il semblerait qu'il soit possible d'atteindre le château du démon suprême depuis le cap de la Mort, au nord-est d'ici. Mais faites bien attention, le démon suprême est capable d'utiliser toutes sortes d'illusions.",
+      "old_tokens_sha256": "e9826047fa500865390c1ed57d0c07067d666c2f91ea4bb092fcad96abda3caa",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 542,
+          "FR_text": "@a@b*ⓢ Merci beaucoupⓠ En échange de votre bonté, j'ai des informations intéressantes pour vous.\n@c0@",
+          "JA_text": "@a@b＊「おお　ありがたい！\n\tお礼に　いいことを　教えましょう。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "bd9f3361fd02b8d8675f836f03193d5a3d859a7f9cb1abaa298c56b222aa7118",
+          "JA_record_sha256": "9bcf08bb4344eacd2f7b08a19ed0e956b4776c14a32889fad10f254aa0b437f4"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 543,
+          "FR_text": "@a@b*ⓢ Il semblerait qu'il soit possible d'atteindre le château du démon suprême depuis le cap de la Mort, au nord-est d'ici.\n@c0@",
+          "JA_text": "@a@b＊「この町の　北西にある\n\t暗黒の岬から　大魔王の城へ\n\tいけるはずです。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "df73931f612b198d6a24494cce7ab3d50b43556d2701367c98850bf091e947c3",
+          "JA_record_sha256": "26fe75fb6603a617774bf6185e69de3678f04b97f60348157f7e180c3acaa8a4"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 544,
+          "FR_text": "@a@b*ⓢ Mais faites bien attentionⓢ le démon suprême est capable d'utiliser toutes sortes d'illusions.\n@c0@",
+          "JA_text": "@a@b＊「それから　大魔王は　かならず\n\tまやかしの術を　使います。\n\t決して　まどわされませぬよう。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "e4b77db4393065cdedc33633a2d38b656f98cc9a6decd246bc9d0c704ef27c38",
+          "JA_record_sha256": "24f082ed2fa9dfc089659b247bae1d98d108d7fdcc4f542320cf6a19c7f5638b"
+        }
+      ],
+      "proposed_text": "Merci beaucoup! En échange de votre bonté, j'ai des informations intéressantes pour vous. Il semblerait qu'il soit possible d'atteindre le château du démon suprême depuis le cap de la Mort, au nord-ouest d'ici. Mais faites bien attention, le démon suprême est capable d'utiliser toutes sortes d'illusions.",
+      "note": "Cap au nord-ouest JP SFC et JA DS543 北西 contre FR DS nord-est : correction nord-ouest préparée, pas itinéraire réellement parcouru. Illusions du démon conservées."
+    },
+    {
+      "id": 1131,
+      "source_japanese": "[CODE D4]クリムト「大賢者マサールは[LINE]大魔王の城に　とらえられておる。[END STRING AC]",
+      "old_text": "Blaise. Pascal est emprisonné près du château du démon suprême.",
+      "old_tokens_sha256": "3b8a15855193d9932ccc9b29d567f97fccd2bc90edace91714a27a47878c6584",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 625,
+          "FR_text": "@aBlaise@bPascal est emprisonné près du château du démon suprême.\n@c0@",
+          "JA_text": "@a@bクリムト「大賢者マサールは\n\t大魔王の城の　近くに\n\tとらえられておる。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "4c319657e194e87bc153602cb403d959e262362f6a7ebbedea21f758511dfa49",
+          "JA_record_sha256": "91dec98f7afd57d659e832c8522db836f9431a0ab2268877646261d1a13c5689"
+        }
+      ],
+      "proposed_text": "Blaise. Pascal est emprisonné au château du démon suprême.",
+      "note": "SFC dit Pascal prisonnier au château, JP/FR DS625 ajoute près ; proposer au château pour édition SFC, géographie réelle et entrée château à tester, pas fusion des éditions."
+    },
+    {
+      "id": 1135,
+      "source_japanese": "[CODE D4]クリムト「それは　真実のオーブ。[LINE]暗黒の岬から　無の海へ　はなてば[LINE]この世界の　真の姿が見えるだろう。[WAIT][LINE][CODE D4]クリムト「そなたたちなら...[LINE]かならず......[END STRING AC]",
+      "old_text": "Blaise. C'est l'orbe de vérité. Lancez-le depuis le cap de la Mort dans la mer du Néant. Vous verrez la vraie forme de ce monde. Blaise. Vous y arriverez... J'en suis sûr...",
+      "old_tokens_sha256": "cd81289fcb2c70149048f61d9c09959cfc1d7c111157e71e0e0d7bfae9f6f4cd",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 634,
+          "FR_text": "@aBlaise@bVous tenez dans vos mains l'orbe de vérité.\n@c0@",
+          "JA_text": "@a@bクリムト「それは　真実のオーブ。\n@c0@",
+          "scopes": [
+            "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC"
+          ],
+          "FR_record_sha256": "c0edf48608bf4528c4439dc85f5561dcd9325286356ded07a0fde4037e1c2913",
+          "JA_record_sha256": "3c4c4d6f139c1603a60099324657b9d9a835ff893369eca9e84ff09a355fb5da"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 635,
+          "FR_text": "@aBlaise@bAllez vers le cap de la Mort au nord-est d'ici et levez-le au-dessus de l'océan du Néant. Vous verrez alors la véritable forme de cet univers.\n@c0@",
+          "JA_text": "@a@bクリムト「この町より　北西にある\n\t暗黒の岬から　無の海に　かざせば\n\tこの世界の　真の姿が見えるだろう。\n@c0@",
+          "scopes": [
+            "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC"
+          ],
+          "FR_record_sha256": "779bd8b7bdf65b03741175fbe3167f51c19871ee08887d05f40106980c5e8e18",
+          "JA_record_sha256": "1ba626b43a596debfd34effa6d4d76df431717055e0b4815b1d493ed3d39d6d8"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 636,
+          "FR_text": "@aBlaise@bV-vous pouvez...㈢㈢ V-vous devez...\n@c0@",
+          "JA_text": "@a@bクリムト「そなたたちなら……㈢㈢\n\tかならず……\n@c0@",
+          "scopes": [
+            "FRAGMENT_DS_RELIS_ET_ADAPTE_AU_SFC"
+          ],
+          "FR_record_sha256": "da9bd4a5bbed2f46ba818071e772e66da923c6425b9dd0ec64ff44f8c4de950c",
+          "JA_record_sha256": "a1559dabf771957da9d410fbdcaed19865feca723bf3d9a659f4b22300092689"
+        }
+      ],
+      "proposed_text": null,
+      "note": "Audit hérité relu dans ce lot : SFC lancer orbe depuis cap dans mer, DS635 le lever et nord-ouest JA/nord-est FR. Adaptation SFC actuelle conservée ; ne pas remplacer lancer par lever. Action,lieu,orientation et apparition réels restent ouverts, pas audit clôturé par texte."
+    },
+    {
+      "id": 1137,
+      "source_japanese": "[CODE D4]ソルディ「どうやら　ねむってしまった[LINE]ようだ。　無理もない。　長い間[LINE]とじこめられていたのだから...。[END STRING AC]",
+      "old_text": "Capitaine Croisefer. On dirait qu'il s'est endormi. Rien d'étonnant après avoir été enfermé si longtemps...",
+      "old_tokens_sha256": "ca7695262bd62157fa883ac9cee3c47f2642eb3953c4d7b26eb6925146ee86c5",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 640,
+          "FR_text": "@aCapitaine Croisefer@bOn dirait qu'il s'est endormi. Rien d'étonnant après avoir dépensé tant d'énergie...\n@c0@",
+          "JA_text": "@a@bソルディ「どうやら　ねむってしまった\n\tようだ。　無理もない。　あのような\n\tチカラを　ふりしぼられたのだから……。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "0279039e15e8ef49b39abff47f3320f30b07fb775dc8f47a581c4743aefe12ca",
+          "JA_record_sha256": "3fc0b9c567e4c8cb17f1798cfe115479cdb5be8358fa08f3aabb92594a026f6a"
+        }
+      ],
+      "proposed_text": null,
+      "note": "SFC fatigue de longue captivité, DS640 effort magique ; adaptation SFC existante correcte, pas collage du DS cause différente."
+    },
+    {
+      "id": 1150,
+      "source_japanese": "[CODE D4]クリムト「......[CODE D3]よ。[LINE]今の私には　どうすることも[LINE]できない......[WAIT][LINE][CODE D4]クリムト「そなたたちに...　希望を[LINE]たくす......　真実のオーブで[LINE]無の海の向こうに......。[END STRING AC]",
+      "old_text": "Blaise. Écoutez-moi, . Je ne peux rien faire maintenant. Vous êtes notre seul espoir. Prenez l'orbe de vérité et allez jusqu'à la mer du Néant.",
+      "old_tokens_sha256": "9af4cb1b53525919cc1f3c2e052b8ff0a3d07bc824d2e61e181b611070b4c34a",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 714,
+          "FR_text": "@aBlaise@bÉcoutez-moi, %a000120. Je ne peux rien faire maintenant.\n@c0@",
+          "JA_text": "@a@bクリムト「……%a000120よ。\n\t今の私には　どうすることも\n\tできない……\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "21c0a6aaec530dfeee9974dc47bf8fbbbac0ca35a8869517fb172b4a1e4f0664",
+          "JA_record_sha256": "e9ffc7e816f46894e4fd753a2d44a1419811d3208bef3cd1ad14bac6c475f2be"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0089.p",
+          "JA_file": "data/MESS6/JA/0089.p",
+          "id": 715,
+          "FR_text": "@aBlaise@bVous êtes notre seul espoir. Prenez l'orbe de vérité et allez jusqu'à la mer du Néant.\n@c0@",
+          "JA_text": "@a@bクリムト「そなたたちに……\n\t希望をたくす……　真実のオーブで\n\t無の海の向こうに……。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "02ba571fbe90f9c5b8a90f92293fc6c0d1d297e60849e60e57a0eb953f61d732",
+          "JA_record_sha256": "5ed4b5fceaed6d02324af4d8c6dd9a185bac74a2f86178dc55c07d3380f49b64"
+        }
+      ],
+      "proposed_text": null,
+      "note": "Orbe et mer du Néant DS714–715 ; SFC dit au-delà, français jusqu'à est abrégé, réserve d'itinéraire liée1135 sans réécriture forcée."
+    },
+    {
+      "id": 1252,
+      "source_japanese": "[CODE D4]王「ふむ......。いろいろと[LINE]苦労を　かけたようじゃな。[WAIT][LINE][CODE D4]王「それは　ともかく[LINE]なにを　ぼやぼやしておる![WAIT][LINE][CODE D4]王「わしと　王妃を　はやく[LINE]城まで　連れてもどらぬかっ![END STRING AC]",
+      "old_text": "Roi Somnus. C'est bien moi. Pardonnez-moi pour tous les problèmes que je vous ai causés. Mais assez bavardé. Nous avons beaucoup à faire! Escortez-nous moi et ma reine jusqu'au château immédiatement!",
+      "old_tokens_sha256": "6b92141433983d5ce3eca596c69399ca2831a0fcc245c01dffa2524cdac3859f",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0012.p",
+          "JA_file": "data/MESS6/JA/0012.p",
+          "id": 552,
+          "FR_text": "@aRoi Somnus@bC'est bien moi. Pardonnez-moi pour tous les problèmes que je vous ai causés.\n@c0@",
+          "JA_text": "@a@b王「ふむ……。　いろいろと\n\t苦労を　かけたようじゃな。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "f672a314cc70c1b6e16a30eee8ce225a9a282e288ae15d09b05f66a7a32694ea",
+          "JA_record_sha256": "dcb401fffde79ee3d2e096706f7625a0fca7a2dc7337f963ea228c56d5cc71a9"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0012.p",
+          "JA_file": "data/MESS6/JA/0012.p",
+          "id": 553,
+          "FR_text": "@aRoi Somnus@bMais assez bavardé. Nous avons beaucoup à faireⓠ\n@c0@",
+          "JA_text": "@a@b王「それは　ともかく\n\tなにを　ぼやぼやしておる！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "b2e8a18be8e64a838159e1cb2b7d83f7f39b39824ebd6b18337d4e60ed187c1c",
+          "JA_record_sha256": "5e194ff0635a0e444669e64dceae1431c3a6756c0fd902da60ea89d0222ec5a9"
+        },
+        {
+          "FR_file": "data/MESS6/FR/0012.p",
+          "JA_file": "data/MESS6/JA/0012.p",
+          "id": 554,
+          "FR_text": "@aRoi Somnus@bEscortez-nous moi et ma reine jusqu'au château immédiatementⓠ\n@c0@",
+          "JA_text": "@a@b王「わしと　王妃を　はやく\n\t城まで　連れてもどらぬかっ！\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "22b3a22a22925e174c8a3374c660ff7c9fee79d6f9532cb62f2cb71be8d8e89c",
+          "JA_record_sha256": "c041422d65a7d31a9b6514dc5dd519184cb76ba6e34756e37d0eeaa293422c20"
+        }
+      ],
+      "proposed_text": "Roi Somnus. C'est bien moi. Pardonnez-moi pour tous les problèmes que je vous ai causés. Mais assez bavardé. Nous avons beaucoup à faire! Escortez-nous, ma reine et moi, jusqu'au château immédiatement!",
+      "note": "Ordre retour château DS552–554 ; proposer apposition ponctuée Escortez-nous, ma reine et moi, jusqu'au château immédiatement!, D4 intacts, sens inchangé."
+    },
+    {
+      "id": 1291,
+      "source_japanese": "[CODE D4]ロブ「ディーネの仲間たちは[LINE]はるか北東の　かいきょうを[LINE]こえた海で　くらしてるはずだ。[WAIT][LINE][CODE D4]ロブ「たのんだぞーーー!![END STRING AC]",
+      "old_text": "Colin. Les amies sirènes d'Ondine doivent vivre dans la mer au-delà du détroit, loin au nord-est. Je compte sur vous!",
+      "old_tokens_sha256": "5c31a29da59ca6310e49917c604f49efb6980dd45b120351c23b2a0df72e1af8",
+      "DS_references": [
+        {
+          "FR_file": "data/MESS6/FR/0045.p",
+          "JA_file": "data/MESS6/JA/0045.p",
+          "id": 99,
+          "FR_text": "@aColin@bLes amies sirènes d'Ondine doivent vivre dans la mer au-delà du détroit au nord-est.\n@c0@",
+          "JA_text": "@a@bロブ「ディーネの仲間たちは\n\tはるか北東の　海峡を\n\t越えた海で　暮らしてるはずだ。\n@c0@",
+          "scopes": [
+            "REFERENCE_DE_LA_SELECTION_PUBLIEE"
+          ],
+          "FR_record_sha256": "5c379d3b97bf70c8e86a14e7eeab4de4e836b0df0f5a89f84cff586350b24e11",
+          "JA_record_sha256": "1249bea282d1dbba680980de5413ee8f9952e3f9918546527fae45f5ea5cbb94"
+        }
+      ],
+      "proposed_text": null,
+      "note": "Amies au-delà détroit nord-est JP 北東 et DS99 ; direction concordante et loin rétabli SFC, ne pas corriger comme1105. Appel final Je compte sur vous adapté au JP."
+    }
+  ],
+  "cap_direction1105": {
+    "SFC_JP": "北西:nord-ouest",
+    "DS_JP": "北西:nord-ouest",
+    "DS_FR": "nord-est",
+    "proposal": "nord-ouest",
+    "SFC_map_verified": false
+  },
+  "inherited1135": {
+    "actual_full_preparatory_reread_this_batch": true,
+    "SFC_action": "放てば:lancer/libérer",
+    "DS_action": "かざせば:lever/exposer",
+    "text_kept": true,
+    "cap_sea_orb_native_sequence_verified": false,
+    "reserve_closed": false
+  },
+  "right_barrel_or_sleep_effect_verified": false,
+  "capture_confiscation_or_keys_tested": false,
+  "global_direction_replace_performed": false,
+  "northeast1291_retained": true,
+  "required_tests": [
+    "961: point arrière et déclenchement exact avant Magnus ; ne pas confondre consigne avec route962.",
+    "1002/1003/1045: vin offert au capitaine,confiscation puis sommeil sans mort des gardes.",
+    "1105/1131/1135: carte SFC,cap,orientation,objet orbe et action naturelle,avec mauvais emplacement et mauvais objet comme diagnostics séparés.",
+    "Variantes équipe seule/groupe,noms longs,DA/DB/D4/D3/C4,pagination et glyphes."
+  ]
+}

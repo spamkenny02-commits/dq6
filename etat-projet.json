@@ -28,7 +28,7 @@
     "separate_battle": 2,
     "separate_names": 419,
     "separate_battle_spell_combinations": 0,
-    "existing_main_revisions": 71
+    "existing_main_revisions": 126
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
@@ -116,7 +116,7 @@
   },
   "rom_bytes": 8388608,
   "notes": "87 libellés modifiés : 81 nouvelles traductions, 6 révisions FR. 80 objets et 7 commandes. 86 propositions résolues, 405 restantes. 10 corrections de sauts de ligne B5 isolées. Pas de nouveau lot de 400 ni relecture exhaustive.",
-  "next": "Poursuivre à900 puis les plages hors400–899 déjà consignées ;0–399 reste à relire.71 révisions principales et419 propositions noms/menus noninsérées. Audit852 captivité feinte,828 référence lexicale,875/876 neutralité,888 rations ;sources privées absentes,aucun test ROM nouveau. Audits hérités et recherche globale ouverts.",
+  "next": "Poursuivre à1300 puis les plages hors400–1299 déjà consignées ;0–399 reste à relire.126 révisions principales et419 propositions noms/menus noninsérées. Lire audits consignes/orbe/vin et variable1179 :pas de défaut ROM prouvé ni audit1135 clos. Sources privées absentes,aucun nouveau test ROM.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -710,7 +710,7 @@
       435
     ]
   },
-  "checkpoint": "relecture-preparatoire-principale-0800-0899",
+  "checkpoint": "relecture-preparatoire-principale-0900-1299",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",
@@ -744,22 +744,22 @@
     "segments": [
       [
         400,
-        899
+        1299
       ]
     ],
-    "reviewed_positions": 500,
+    "reviewed_positions": 900,
     "silence_with_variable_IDs": [
       430
     ],
     "final_accepted": 0,
-    "pending_runtime_or_reserves": 500,
-    "ledger": "preparations/relecture-principale-0800-0899/registre-relecture.json",
-    "prepared_existing_main_revisions": 71,
+    "pending_runtime_or_reserves": 900,
+    "ledger": "preparations/relecture-principale-0900-1299/registre-relecture.json",
+    "prepared_existing_main_revisions": 126,
     "new_integrated": 0,
     "ROM_tests": 0,
     "next_segment_suggestion": [
-      900,
-      1299
+      1300,
+      1699
     ],
     "not_yet_reviewed_ranges": [
       [
@@ -767,7 +767,7 @@
         399
       ],
       [
-        900,
+        1300,
         6956
       ]
     ],
@@ -777,13 +777,16 @@
       "preparations/relecture-principale-0500-0599/registre-relecture.json",
       "preparations/relecture-principale-0600-0699/registre-relecture.json",
       "preparations/relecture-principale-0700-0799/registre-relecture.json",
-      "preparations/relecture-principale-0800-0899/registre-relecture.json"
+      "preparations/relecture-principale-0800-0899/registre-relecture.json",
+      "preparations/relecture-principale-0900-1299/registre-relecture.json"
     ],
     "silence_composition_IDs": [
       430,
       532,
       755,
-      897
+      897,
+      1138,
+      1178
     ]
   },
   "provenance_selection_diagnostic": {
@@ -813,5 +816,17 @@
     "status": "OUVERT_PREPARE_NON_INSERE",
     "native_capture_and_disguise_verified": false,
     "inherited828_reference_requalified_lexical_only": true
+  },
+  "inherited1135_preparatory_review": {
+    "file": "preparations/relecture-principale-0900-1299/audit-consignes-orbe-vin.json",
+    "status": "OUVERT_PREPARE_NON_INSERE",
+    "new_full_preparatory_reread_recorded": true,
+    "native_orb_action_and_route_verified": false
+  },
+  "variable1179_readable_token_discrepancy": {
+    "file": "preparations/relecture-principale-0900-1299/audit-variable-1179.json",
+    "status": "A_REDECODER",
+    "compiled_ROM_bug_proven": false,
+    "tokens_changed": false
   }
 }
