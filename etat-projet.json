@@ -27,7 +27,8 @@
     "boundary_audit": 0,
     "separate_battle": 2,
     "separate_names": 419,
-    "separate_battle_spell_combinations": 0
+    "separate_battle_spell_combinations": 0,
+    "existing_main_revisions": 11
   },
   "deferred_examined_in_v034": 26,
   "separate_tables": {
@@ -115,7 +116,7 @@
   },
   "rom_bytes": 8388608,
   "notes": "87 libellés modifiés : 81 nouvelles traductions, 6 révisions FR. 80 objets et 7 commandes. 86 propositions résolues, 405 restantes. 10 corrections de sauts de ligne B5 isolées. Pas de nouveau lot de 400 ni relecture exhaustive.",
-  "next": "Reprendre les blocages des419 propositions noms/menus ;14 nouvelles préparations et27 références documentées dans preparations/menus-apres-v078. Pas de sources ROM locales : continuer les revues depuis Git sans insertion ni test inventé. Lire aussi le complément v078 pour les appels331/367, puis recherche globale,relecture exhaustive et audits hérités.",
+  "next": "Sans ROM, poursuivre les revues depuis Git hors du segment400–499 déjà consigné. Onze révisions principales restent préparées sous réserve de glyphes/encodage et tests ;419 propositions noms/menus inchangées. Reprendre les blocages des tables,331/367 et audits hérités dès retour des sources intactes. Ne pas assimiler la relecture préparatoire100 à100 scènes testées ou à une passe finale validée.",
   "deferred_remaining_from_v034": 1,
   "resolved_from_v034_ids": [
     1135,
@@ -709,7 +710,7 @@
       435
     ]
   },
-  "checkpoint": "preparation-menus-apres-v078-sans-ROM",
+  "checkpoint": "relecture-preparatoire-principale-0400-0499",
   "blocking_inherited_name_tail": {
     "report": "dq6-fr/v0.65/qa-storage.json",
     "introduced": "v0.61",
@@ -738,5 +739,38 @@
     "main_full_reread_added": 0,
     "physical_table_positions_newly_examined": 0,
     "prior_release_counts_unchanged": true
+  },
+  "main_semantic_review_preparatory": {
+    "segments": [
+      [
+        400,
+        499
+      ]
+    ],
+    "reviewed_positions": 100,
+    "silence_with_variable_IDs": [
+      430
+    ],
+    "final_accepted": 0,
+    "pending_runtime_or_reserves": 100,
+    "ledger": "preparations/relecture-principale-0400-0499/registre-relecture.json",
+    "prepared_existing_main_revisions": 11,
+    "new_integrated": 0,
+    "ROM_tests": 0,
+    "next_segment_suggestion": [
+      500,
+      899
+    ],
+    "not_yet_reviewed_ranges": [
+      [
+        0,
+        399
+      ],
+      [
+        500,
+        6956
+      ]
+    ],
+    "not_additive_to_main_6957": true
   }
 }

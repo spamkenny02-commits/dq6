@@ -1,3 +1,7 @@
+# Relecture préparatoire après v0.78 — dialogues400–499
+
+Lire preparations/relecture-principale-0400-0499/README.md et son registre :100 positions principales comparées,11 révisions PREPARE_NON_INSERE (1 accord,10 capitales avec réserve de glyphes). Aucun nouveau texte intégré ou testé ;419 propositions noms/menus inchangées. Relecture sémantique préparatoire100,en attente des réserves techniques ;relecture exhaustive finale validée0. Ne pas rejouer400–499 comme nouvelle passe ;0–399 et500–6956 restent à parcourir. Sources privées toujours absentes,aucune ROM reconstruite ni émulation.
+
 # Point préparatoire après v0.78 — sources privées absentes
 
 Lire preparations/menus-apres-v078/README.md et son registre :43 positions de menus relues,14 nouvelles propositions PREPARE_NON_INSERE,27 propositions antérieures mieux référencées,235/249 sans DS exact établi.419 propositions noms/menus préparées au total ;367 FR qualifiés inchangés,aucun nouveau texte inséré ou testé en ROM. Script principal6948 textes+9 structures inchangé,relecture exhaustive0. Ne pas recompter les43 à la prochaine reprise. Lire aussi dq6-fr/v0.78/POINT-DE-REPRISE.md pour les huit appels de grande fenêtre retrouvés et331/367 encore ouverts.
