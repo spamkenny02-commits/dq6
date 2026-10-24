@@ -1,0 +1,47 @@
+{
+  "baseline_commit": "46f7046d4e20f943fcfe772978ec4108705c74d7",
+  "ROM_unchanged": true,
+  "new_integrated": 0,
+  "files": {
+    "README.md": {
+      "size": 6657,
+      "sha256": "481a87268cb6409a34d76734a3071da1211cb36734df9cd26047dda3adcbc175"
+    },
+    "REPRISE-AUTOMATIQUE.md": {
+      "size": 68199,
+      "sha256": "a6afc1acc1ddec088336e01e7bcfd42c17310dfdeff3835da5341e6a8713680a"
+    },
+    "etat-projet.json": {
+      "size": 14435,
+      "sha256": "70b4329dd493746f779ad2a0e214ecb132767bae625d14bd8a3b364582ea8737"
+    },
+    "preparations/menus-apres-v078/README.md": {
+      "size": 3742,
+      "sha256": "61f5bc2eea0cb6b2d57739f6aa0cd785a1d98095505afa538e6a959ab7ed9cb9"
+    },
+    "preparations/menus-apres-v078/decisions.json": {
+      "size": 7818,
+      "sha256": "e753fdb681b321ad7875500ac0218446fc0673e0e14f6b945dbc29000301a901"
+    },
+    "preparations/menus-apres-v078/prepare.py": {
+      "size": 5131,
+      "sha256": "355e1436f102bda776fb81603496f2af55bcfe0313eb04af62b068281310ef57"
+    },
+    "preparations/menus-apres-v078/prepares-non-inseres.json": {
+      "size": 29294,
+      "sha256": "5eb882c8f8582470f93931c6d022174206010dcbc091b62d37942d7d9d0bd098"
+    },
+    "preparations/menus-apres-v078/qa-extractions.json": {
+      "size": 1674,
+      "sha256": "110bd5001229f43acbb2ec2fa2a9bf36c6e2f5fd6d2b9e2fd80b99130937fbf9"
+    },
+    "preparations/menus-apres-v078/references-propositions-existantes.json": {
+      "size": 38713,
+      "sha256": "3a9f0d4022994dbc201be978cf468ecab2dd3c9a78419b8d56c9d33a97dfe629"
+    },
+    "preparations/menus-apres-v078/registre-relecture.json": {
+      "size": 13681,
+      "sha256": "7ab72c372f813429388fa560336913066910a5357d33ca5710ed2b0c409d2fc0"
+    }
+  }
+}

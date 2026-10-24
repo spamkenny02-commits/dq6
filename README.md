@@ -1,3 +1,7 @@
+# Point préparatoire après v0.78 — sources privées absentes
+
+Lire preparations/menus-apres-v078/README.md et son registre :43 positions de menus relues,14 nouvelles propositions PREPARE_NON_INSERE,27 propositions antérieures mieux référencées,235/249 sans DS exact établi.419 propositions noms/menus préparées au total ;367 FR qualifiés inchangés,aucun nouveau texte inséré ou testé en ROM. Script principal6948 textes+9 structures inchangé,relecture exhaustive0. Ne pas recompter les43 à la prochaine reprise. Lire aussi dq6-fr/v0.78/POINT-DE-REPRISE.md pour les huit appels de grande fenêtre retrouvés et331/367 encore ouverts.
+
 # Dernier point : v0.78
 
 87 libellés modifiés (81 traductions,6 révisions),10 corrections de mise en page B5.367 FR qualifiés/2048 ;405 propositions restantes. Lire dq6-fr/v0.78/README.md,manifest.json et etat-projet.json. Réserve nouvelle : petite fenêtre C02A4F texte incomplet ; ne pas déclarer le combat globalement validé. Recherche des oublis,relecture exhaustive et audits hérités restent ouverts.

@@ -1,0 +1,797 @@
+[
+  {
+    "position": 157,
+    "sids": [
+      157
+    ],
+    "current": "Attaque",
+    "sfc_jp": "たたかう",
+    "current_message_sha256": "5276f0544fd93a9515ed33c04d4339ac976fcdabc327182a0f0520b0f6739aad",
+    "JP_message_sha256": "41cb2a26ba53fa41745b07165df081c299c20c30a9561e0a8d295d04c75b5a52",
+    "secondary_IPS_text": "Attaque",
+    "secondary_IPS_message_sha256": "5276f0544fd93a9515ed33c04d4339ac976fcdabc327182a0f0520b0f6739aad",
+    "proposal": "Combattre",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 0,
+        "JA_text": "@1たたかう@",
+        "FR_text": "@4Combattre@",
+        "JA_extracted_record_sha256": "ebc37e5174e5529dbb2e95ca94b625f4340e79ae9429145b77331b30e5608914",
+        "FR_extracted_record_sha256": "0eed275b3070134e00a9378dbd0e171076734ebe0a4a6097ac380ccb0fa081c7",
+        "context": [
+          {
+            "id": 0,
+            "JA": "@1たたかう@",
+            "FR": "@4Combattre@"
+          },
+          {
+            "id": 1,
+            "JA": "@1いれかえ@",
+            "FR": "@4Équipe@"
+          },
+          {
+            "id": 2,
+            "JA": "@1さくせん@",
+            "FR": "@4Tactique@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "たたかう ouvre les commandes du combat ; distinct de l'attaque physique こうげき/Attaquer DS4. L'ancien Attaque confond ces deux actions.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 159,
+    "sids": [
+      159
+    ],
+    "current": "Changer",
+    "sfc_jp": "いれかえ",
+    "current_message_sha256": "556509fdeb871f97f2d8915da1b9626af6133aad43813cee9662193b9250661f",
+    "JP_message_sha256": "e94deb4c8a860d30f47c69a4dff8ce4c56a4f4915fa6782d5a8151f457bfd3d6",
+    "secondary_IPS_text": "Changer",
+    "secondary_IPS_message_sha256": "556509fdeb871f97f2d8915da1b9626af6133aad43813cee9662193b9250661f",
+    "proposal": "Changer un seul",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 8,
+        "JA_text": "@1いれかえ@",
+        "FR_text": "@4Changer un seul@",
+        "JA_extracted_record_sha256": "d2a20a470bfe473969cc1f119cc955f8b4e3795f7fdefdecf39c91130d167ffb",
+        "FR_extracted_record_sha256": "c43f72f66d268ebca3e82592f24bb2e3e90d11039cba681e79706cdae3bc6695",
+        "context": [
+          {
+            "id": 6,
+            "JA": "@1どうぐ@",
+            "FR": "@4Objets@"
+          },
+          {
+            "id": 7,
+            "JA": "@1ぼうぎょ@",
+            "FR": "@4Défense@"
+          },
+          {
+            "id": 8,
+            "JA": "@1いれかえ@",
+            "FR": "@4Changer un seul@"
+          },
+          {
+            "id": 9,
+            "JA": "@1そうがえ@",
+            "FR": "@4Changer tous@"
+          },
+          {
+            "id": 10,
+            "JA": "@1つかう@",
+            "FR": "@4Utiliser@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "いれかえ désigne ici le changement individuel, voisin de そうがえ. DS8 distingue Changer un seul de l'en-tête Équipe DS1 ; largeur naturelle encore inconnue.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 160,
+    "sids": [
+      160
+    ],
+    "current": "Un",
+    "sfc_jp": "そうがえ",
+    "current_message_sha256": "0dad1d6e7ecec344eeb66891eb8be9d0b6a2e37bccd6433589d713b90ebb7bff",
+    "JP_message_sha256": "40d29169fea3570627f12a77fdcccb193ca054db420a2c1d45275376346d29eb",
+    "secondary_IPS_text": "Un",
+    "secondary_IPS_message_sha256": "0dad1d6e7ecec344eeb66891eb8be9d0b6a2e37bccd6433589d713b90ebb7bff",
+    "proposal": "Changer tous",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 9,
+        "JA_text": "@1そうがえ@",
+        "FR_text": "@4Changer tous@",
+        "JA_extracted_record_sha256": "d0f70737c1b1cc68a53181bb8474075c2bffba6a81adc99fe05d1f5d790095d5",
+        "FR_extracted_record_sha256": "34e5b22be53c87c8c1913df28c175e3975bdbf8f050675fae292646cc9f800e9",
+        "context": [
+          {
+            "id": 7,
+            "JA": "@1ぼうぎょ@",
+            "FR": "@4Défense@"
+          },
+          {
+            "id": 8,
+            "JA": "@1いれかえ@",
+            "FR": "@4Changer un seul@"
+          },
+          {
+            "id": 9,
+            "JA": "@1そうがえ@",
+            "FR": "@4Changer tous@"
+          },
+          {
+            "id": 10,
+            "JA": "@1つかう@",
+            "FR": "@4Utiliser@"
+          },
+          {
+            "id": 11,
+            "JA": "@1そうび@",
+            "FR": "@4Équiper@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "そうがえ change toute l'équipe ; Un est un contresens. La paire DS8/9 confirme le contraste individuel/collectif.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 168,
+    "sids": [
+      168
+    ],
+    "current": "Donner",
+    "sfc_jp": "わたす",
+    "current_message_sha256": "bec1ecb6a77eca7235a495e54bae7d42b40496e175a14ef1cf752943806e7fa6",
+    "JP_message_sha256": "fdcfcd646238c0ecc3cf31765ad80df2538a79d31256ea8cfd2df5996a450893",
+    "secondary_IPS_text": "Donner",
+    "secondary_IPS_message_sha256": "bec1ecb6a77eca7235a495e54bae7d42b40496e175a14ef1cf752943806e7fa6",
+    "proposal": "Transférer",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 161,
+        "JA_text": "@1わたす@",
+        "FR_text": "@4Transférer@",
+        "JA_extracted_record_sha256": "76678143274634ef0076ef82d2a9ee3eacb74962b0d5b9dd8a0f73561040bded",
+        "FR_extracted_record_sha256": "f6f458f5b1e04f9bce4d46071aec5a0c82320fcbc562be8d70a81630a0d681f8",
+        "context": [
+          {
+            "id": 159,
+            "JA": "@1どうぐいちらん@",
+            "FR": "@4Voir les objets@"
+          },
+          {
+            "id": 160,
+            "JA": "@1つかう@",
+            "FR": "@4Utiliser@"
+          },
+          {
+            "id": 161,
+            "JA": "@1わたす@",
+            "FR": "@4Transférer@"
+          },
+          {
+            "id": 162,
+            "JA": "@1すてる@",
+            "FR": "@4Abandonner@"
+          },
+          {
+            "id": 163,
+            "JA": "@1そうび@",
+            "FR": "@4Équiper@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "わたす est la commande d'inventaire voisine de Utiliser/Abandonner/Équiper ; reprendre Transférer DS161, sans l'appliquer aux autres occurrences de donner.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 173,
+    "sids": [
+      173
+    ],
+    "current": "Sauvegarder jeu",
+    "sfc_jp": "おいのりをする",
+    "current_message_sha256": "7d737ca44d3acdb0b4dbfb6bc9dbb0d4a3bbfeb26a32c263e5f7d4f810dda6bd",
+    "JP_message_sha256": "81590f2f53de69d58804ca78e5e5ec3ecea094f916eb0adb5d3f6e56bb2f0917",
+    "secondary_IPS_text": "Sauvegarder jeu",
+    "secondary_IPS_message_sha256": "7d737ca44d3acdb0b4dbfb6bc9dbb0d4a3bbfeb26a32c263e5f7d4f810dda6bd",
+    "proposal": "Confession (Sauveg.)",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 599,
+        "JA_text": "@1おいのりをする@",
+        "FR_text": "@4Confession (Sauveg.)@",
+        "JA_extracted_record_sha256": "2a9a8d3a8fcf774076060d10e541f14e5facfc490559521228953acf5b10d7da",
+        "FR_extracted_record_sha256": "38138c7f0c55af0b6c480dd566b422246774194457edb21ef9011e7ed4666054",
+        "context": [
+          {
+            "id": 599,
+            "JA": "@1おいのりをする@",
+            "FR": "@4Confession (Sauveg.)@"
+          },
+          {
+            "id": 600,
+            "JA": "@1おつげをきく@",
+            "FR": "@4Divination@"
+          },
+          {
+            "id": 601,
+            "JA": "@1いきかえらせる@",
+            "FR": "@4Résurrection@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "おいのりをする est le service d'église qui sauvegarde, non un dialogue générique. DS599 précise la fonction entre parenthèses ; longueur19 à valider, aucune abréviation inventée.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 174,
+    "sids": [
+      174
+    ],
+    "current": "Exp Requis",
+    "sfc_jp": "おつげをきく",
+    "current_message_sha256": "d049404d2e61122ccdd448a994af359e6bab92a9c087dccd4941f91844feba4b",
+    "JP_message_sha256": "284614772c3ade8afecc856f8af2a2eceae60d26ab397e009f6ea864c9d038ca",
+    "secondary_IPS_text": "Exp Requis",
+    "secondary_IPS_message_sha256": "d049404d2e61122ccdd448a994af359e6bab92a9c087dccd4941f91844feba4b",
+    "proposal": "Divination",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 600,
+        "JA_text": "@1おつげをきく@",
+        "FR_text": "@4Divination@",
+        "JA_extracted_record_sha256": "8f389e8aaafff144ceee2171b0f825d83c0c2820b70b44bc49f5171733a3bc1a",
+        "FR_extracted_record_sha256": "ec83e6dc9e4d7ec583e31920ef90c66ee43d84a748164474bacde4c238a2201b",
+        "context": [
+          {
+            "id": 599,
+            "JA": "@1おいのりをする@",
+            "FR": "@4Confession (Sauveg.)@"
+          },
+          {
+            "id": 600,
+            "JA": "@1おつげをきく@",
+            "FR": "@4Divination@"
+          },
+          {
+            "id": 601,
+            "JA": "@1いきかえらせる@",
+            "FR": "@4Résurrection@"
+          },
+          {
+            "id": 602,
+            "JA": "@1どくのちりょう@",
+            "FR": "@4Purification@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "おつげをきく est le service d'église qui indique l'expérience requise. DS600 donne Divination ; ne pas perdre cette fonction en révisant le libellé.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 182,
+    "sids": [
+      182
+    ],
+    "current": "Retirer",
+    "sfc_jp": "ひきだす",
+    "current_message_sha256": "a6f6e88f323b93f3eba243c33be91e2ab122eb391a94d46bffbba0351ae9d352",
+    "JP_message_sha256": "bef5e04d5386a707b17e2a4e00bcf641d8f139dbde3b8eb705d0d231ad813670",
+    "secondary_IPS_text": "Retirer",
+    "secondary_IPS_message_sha256": "a6f6e88f323b93f3eba243c33be91e2ab122eb391a94d46bffbba0351ae9d352",
+    "proposal": "Retrait",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 620,
+        "JA_text": "@1ひきだす@",
+        "FR_text": "@4Retrait@",
+        "JA_extracted_record_sha256": "35d7b292f2662247d53cf9956353cf6a63f2f684ebcdcc43e305cf439b0f5aeb",
+        "FR_extracted_record_sha256": "bcaaf4a01bf1ac7cfe410689af2853f7235a25fcb6ee4019d401833c3ba1f089",
+        "context": [
+          {
+            "id": 619,
+            "JA": "@1あずける@",
+            "FR": "@4Dépôt@"
+          },
+          {
+            "id": 620,
+            "JA": "@1ひきだす@",
+            "FR": "@4Retrait@"
+          },
+          {
+            "id": 621,
+            "JA": "@1やめる@",
+            "FR": "@4Rien@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "ひきだす est le retrait bancaire, en paire avec Dépôt619 et non la sortie d'un personnage de la réserve.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 186,
+    "sids": [
+      186
+    ],
+    "current": "Strategie",
+    "sfc_jp": "さくせんがえ",
+    "current_message_sha256": "e60d9bf361be9d5e89b7d72eda2ee7476abd858fd97ad66ab6b3ea337a6dd3f5",
+    "JP_message_sha256": "5e0824d68f69a54e3c8d8abcb203c6716d768119a84f7f7fc8038371ad3bc862",
+    "secondary_IPS_text": "Strategie",
+    "secondary_IPS_message_sha256": "e60d9bf361be9d5e89b7d72eda2ee7476abd858fd97ad66ab6b3ea337a6dd3f5",
+    "proposal": "Tactique",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 352,
+        "JA_text": "@1さくせんがえ@",
+        "FR_text": "@4Tactique@",
+        "JA_extracted_record_sha256": "e114f99399bd024a8ff732a5cc26d6d0efe7dc7604a973ac7fc5b1786c3a1673",
+        "FR_extracted_record_sha256": "a25848744b3330ba2378fa3b51f75fbc67ab6e5cce6e27ab49ed622a497d2e5a",
+        "context": [
+          {
+            "id": 350,
+            "JA": "@1そうび@",
+            "FR": "@4Équiper@"
+          },
+          {
+            "id": 351,
+            "JA": "@1ならびかえ@",
+            "FR": "@4Alignement@"
+          },
+          {
+            "id": 352,
+            "JA": "@1さくせんがえ@",
+            "FR": "@4Tactique@"
+          },
+          {
+            "id": 353,
+            "JA": "@1どうぐせいり@",
+            "FR": "@4Ranger objets@"
+          },
+          {
+            "id": 354,
+            "JA": "@1%a001400せいり@",
+            "FR": "@4Trier sac@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "さくせんがえ est le changement de stratégie dans Divers ; distinct du libellé Divers104 du menu principal déjà corrigé en v078.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 187,
+    "sids": [
+      187
+    ],
+    "current": "Ordre",
+    "sfc_jp": "ならびかえ",
+    "current_message_sha256": "7e4fa4e786ae4a45b0a104c44e4bfb53119ee8d383aa56c87d13a646ebc84683",
+    "JP_message_sha256": "da46b2e639fed37f08f9924397344f691da8ab8334d2e66ee899e20e4e2aa7b9",
+    "secondary_IPS_text": "Ordre",
+    "secondary_IPS_message_sha256": "7e4fa4e786ae4a45b0a104c44e4bfb53119ee8d383aa56c87d13a646ebc84683",
+    "proposal": "Alignement",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 351,
+        "JA_text": "@1ならびかえ@",
+        "FR_text": "@4Alignement@",
+        "JA_extracted_record_sha256": "4e27729889fd45185538da1a8f4765cd817738d502e8557134b6b6b78072888c",
+        "FR_extracted_record_sha256": "5ab6ce3d76b21609754b127c841ef7b158dd253766bd99d5394993279c86bf0c",
+        "context": [
+          {
+            "id": 349,
+            "JA": "@1まんたん@",
+            "FR": "@4Soigner tous@"
+          },
+          {
+            "id": 350,
+            "JA": "@1そうび@",
+            "FR": "@4Équiper@"
+          },
+          {
+            "id": 351,
+            "JA": "@1ならびかえ@",
+            "FR": "@4Alignement@"
+          },
+          {
+            "id": 352,
+            "JA": "@1さくせんがえ@",
+            "FR": "@4Tactique@"
+          },
+          {
+            "id": 353,
+            "JA": "@1どうぐせいり@",
+            "FR": "@4Ranger objets@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "ならびかえ réordonne l'équipe ; correspond à Alignement351, pas à un ordre donné pendant un tour de combat.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 191,
+    "sids": [
+      191
+    ],
+    "current": "Sack",
+    "sfc_jp": "ふくろ",
+    "current_message_sha256": "c80d59beee38935a361db239098f8dfd0cbcd9633b304bc7446c57cc16687bfe",
+    "JP_message_sha256": "97dc4a751647f7c748f772a46894d2ebf98a4bb6993e28b81d1587c8ccf58c8a",
+    "secondary_IPS_text": "Sack",
+    "secondary_IPS_message_sha256": "c80d59beee38935a361db239098f8dfd0cbcd9633b304bc7446c57cc16687bfe",
+    "proposal": "Sac",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1001000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1001000.mpt",
+        "id": 30,
+        "JA_text": "@1ふくろ@",
+        "FR_text": "@0M@1Sac@9N@",
+        "JA_extracted_record_sha256": "533fd4cff723137c7802a5c30d5f8bb16b765270d5013a3905f1816be5ebae27",
+        "FR_extracted_record_sha256": "b312bfcdcbe64c1ebc711b012c0fcb16581be7e4d1e07491437d78e9c28dae56",
+        "context": [
+          {
+            "id": 28,
+            "JA": "@1キングス@",
+            "FR": "@0M@1Glovis@9N@"
+          },
+          {
+            "id": 29,
+            "JA": "@1ぜんいん@",
+            "FR": "@0F@1Équipe@9Y@"
+          },
+          {
+            "id": 30,
+            "JA": "@1ふくろ@",
+            "FR": "@0M@1Sac@9N@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "ふくろ désigne le conteneur d'objets. Le champ DS porte les métadonnées masculin/nombre @0M et @9N ; elles restent documentées, sans les insérer dans la SFC.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 215,
+    "sids": [
+      215
+    ],
+    "current": "Pouvoir:",
+    "sfc_jp": "ちから:",
+    "current_message_sha256": "dd5e49ef1605880395201b1833e94ae1726c55adfe5afe813e6d7c23106a2a1d",
+    "JP_message_sha256": "14ba87e8fbaa77a88b4b6f6bafbac2a79de76fce7700645c29422371ad182c18",
+    "secondary_IPS_text": "Pouvoir:",
+    "secondary_IPS_message_sha256": "dd5e49ef1605880395201b1833e94ae1726c55adfe5afe813e6d7c23106a2a1d",
+    "proposal": "Force:",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 283,
+        "JA_text": "@1ちから@",
+        "FR_text": "@2la @4Force@",
+        "JA_extracted_record_sha256": "6a76ccc98f2f64a3f771a2f30e802c2756af37f3a9cb88565a56ca36664e7a9c",
+        "FR_extracted_record_sha256": "fc61ae9b6987ed132838344ea46039b7e8be907b01857cf9c048a58022859006",
+        "context": [
+          {
+            "id": 281,
+            "JA": "@1②Ⓩ@",
+            "FR": "@4⑵@"
+          },
+          {
+            "id": 282,
+            "JA": "@1③Ⓩ@",
+            "FR": "@4⑶@"
+          },
+          {
+            "id": 283,
+            "JA": "@1ちから@",
+            "FR": "@2la @4Force@"
+          },
+          {
+            "id": 284,
+            "JA": "@1すばやさ@",
+            "FR": "@2l'@4Agilité@"
+          },
+          {
+            "id": 285,
+            "JA": "@1みのまもり@",
+            "FR": "@2la @4Vitalité@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "ちから est la Force physique ; Pouvoir n'est pas le nom DS de la statistique. Préserver le deux-points natif de l'étiquette SFC ; article DS 'la' non recopié dans ce libellé.",
+    "adaptation": "Deux-points natif SFC conservé sans article DS.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 216,
+    "sids": [
+      216
+    ],
+    "current": "Vitesse:",
+    "sfc_jp": "すばやさ:",
+    "current_message_sha256": "707b3a7ae314ae9c37222e42c8ee043a3d3d272dcceb6b2033e83db8db487d88",
+    "JP_message_sha256": "5c67fff58095c51bf68d35a054954a208036670b80b864aa65aed30268a8e735",
+    "secondary_IPS_text": "Vitesse:",
+    "secondary_IPS_message_sha256": "707b3a7ae314ae9c37222e42c8ee043a3d3d272dcceb6b2033e83db8db487d88",
+    "proposal": "Agilité:",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 284,
+        "JA_text": "@1すばやさ@",
+        "FR_text": "@2l'@4Agilité@",
+        "JA_extracted_record_sha256": "9851b7bea4edf79c05a06b549ad4c0cfab1202f76997fbffa878b708448f7466",
+        "FR_extracted_record_sha256": "617207752853839476e58190e7254cb895700c0ecd8559f9e598dde7d36ec8e2",
+        "context": [
+          {
+            "id": 282,
+            "JA": "@1③Ⓩ@",
+            "FR": "@4⑶@"
+          },
+          {
+            "id": 283,
+            "JA": "@1ちから@",
+            "FR": "@2la @4Force@"
+          },
+          {
+            "id": 284,
+            "JA": "@1すばやさ@",
+            "FR": "@2l'@4Agilité@"
+          },
+          {
+            "id": 285,
+            "JA": "@1みのまもり@",
+            "FR": "@2la @4Vitalité@"
+          },
+          {
+            "id": 286,
+            "JA": "@1かしこさ@",
+            "FR": "@2la @4Sagesse@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "すばやさ correspond à Agilité, distinct de la Vitalité suivante. Deux-points SFC conservé ; article élidé DS retiré du seul libellé.",
+    "adaptation": "Deux-points natif SFC conservé sans article DS.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 217,
+    "sids": [
+      217
+    ],
+    "current": "Vitesse",
+    "sfc_jp": "すばやさ",
+    "current_message_sha256": "665fdfebf009d727ffc9796ffe196ed9106ce20ae8beca6a6a610605e615de2a",
+    "JP_message_sha256": "4f46fb100943da4849bfdaedd9fd34a2a24522cfbd21c466a91cffc6d78e4a41",
+    "secondary_IPS_text": "Vitesse",
+    "secondary_IPS_message_sha256": "665fdfebf009d727ffc9796ffe196ed9106ce20ae8beca6a6a610605e615de2a",
+    "proposal": "Agilité",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 284,
+        "JA_text": "@1すばやさ@",
+        "FR_text": "@2l'@4Agilité@",
+        "JA_extracted_record_sha256": "9851b7bea4edf79c05a06b549ad4c0cfab1202f76997fbffa878b708448f7466",
+        "FR_extracted_record_sha256": "617207752853839476e58190e7254cb895700c0ecd8559f9e598dde7d36ec8e2",
+        "context": [
+          {
+            "id": 282,
+            "JA": "@1③Ⓩ@",
+            "FR": "@4⑶@"
+          },
+          {
+            "id": 283,
+            "JA": "@1ちから@",
+            "FR": "@2la @4Force@"
+          },
+          {
+            "id": 284,
+            "JA": "@1すばやさ@",
+            "FR": "@2l'@4Agilité@"
+          },
+          {
+            "id": 285,
+            "JA": "@1みのまもり@",
+            "FR": "@2la @4Vitalité@"
+          },
+          {
+            "id": 286,
+            "JA": "@1かしこさ@",
+            "FR": "@2la @4Sagesse@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "Même statistique すばやさ que216, mais chaîne physique sans deux-points ; conserver cette différence et ne pas fusionner les positions.",
+    "adaptation": "Libellé DS exact ; métadonnées de genre/nombre non injectées.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  },
+  {
+    "position": 218,
+    "sids": [
+      218
+    ],
+    "current": " Agilite:",
+    "sfc_jp": "みのまもり:",
+    "current_message_sha256": "a90cbf33789e64db737d171f65869ab15f918135a868700e6a467f688b6c41a5",
+    "JP_message_sha256": "cf8ccd37c7fd6efe4a234d1970b140f8b1335709b4f51fa6bf89592525561487",
+    "secondary_IPS_text": " Agilite:",
+    "secondary_IPS_message_sha256": "a90cbf33789e64db737d171f65869ab15f918135a868700e6a467f688b6c41a5",
+    "proposal": "Vitalité:",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 285,
+        "JA_text": "@1みのまもり@",
+        "FR_text": "@2la @4Vitalité@",
+        "JA_extracted_record_sha256": "c540308944e4d7e6e2db47f5b85e16128ed4cde31a17a840b97ea687f21c9e8a",
+        "FR_extracted_record_sha256": "e52c4e19fa2d0a47d6ffae2529ab478f39ef91f15607f9b577b9cdabed6b0063",
+        "context": [
+          {
+            "id": 283,
+            "JA": "@1ちから@",
+            "FR": "@2la @4Force@"
+          },
+          {
+            "id": 284,
+            "JA": "@1すばやさ@",
+            "FR": "@2l'@4Agilité@"
+          },
+          {
+            "id": 285,
+            "JA": "@1みのまもり@",
+            "FR": "@2la @4Vitalité@"
+          },
+          {
+            "id": 286,
+            "JA": "@1かしこさ@",
+            "FR": "@2la @4Sagesse@"
+          },
+          {
+            "id": 287,
+            "JA": "@1かっこよさ@",
+            "FR": "@2le @4Style@"
+          }
+        ]
+      }
+    ],
+    "semantic_review": "みのまもり correspond à Vitalité DS285 ; l'ancien Agilite désigne à tort すばやさ. Révision de sens isolée, deux-points conservé ; le blanc technique initial ne sera décidé qu'après mesure de la fenêtre.",
+    "adaptation": "Deux-points natif SFC conservé sans article DS.",
+    "runtime_blockers": [
+      "Sources ROM absentes : encodage, redécodage, compilation et tests natifs non exécutés.",
+      "Largeur, espacement technique, pagination, aliases et tous consommateurs SFC à contrôler avant insertion."
+    ],
+    "integrated": false,
+    "native_tested": false
+  }
+]

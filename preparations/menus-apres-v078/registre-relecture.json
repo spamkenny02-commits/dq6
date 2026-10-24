@@ -1,0 +1,512 @@
+[
+  {
+    "position": 157,
+    "SIDs": [
+      157
+    ],
+    "new_preparation": true,
+    "note": "たたかう ouvre les commandes du combat ; distinct de l'attaque physique こうげき/Attaquer DS4. L'ancien Attaque confond ces deux actions.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 0
+    }
+  },
+  {
+    "position": 158,
+    "SIDs": [
+      158
+    ],
+    "new_preparation": false,
+    "note": "Défense correspond à ぼうぎょ dans les commandes de combat ; les champs dummy et japonais résiduels ne servent pas de traduction.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 7
+    }
+  },
+  {
+    "position": 159,
+    "SIDs": [
+      159
+    ],
+    "new_preparation": true,
+    "note": "いれかえ désigne ici le changement individuel, voisin de そうがえ. DS8 distingue Changer un seul de l'en-tête Équipe DS1 ; largeur naturelle encore inconnue.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 8
+    }
+  },
+  {
+    "position": 160,
+    "SIDs": [
+      160
+    ],
+    "new_preparation": true,
+    "note": "そうがえ change toute l'équipe ; Un est un contresens. La paire DS8/9 confirme le contraste individuel/collectif.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 9
+    }
+  },
+  {
+    "position": 163,
+    "SIDs": [
+      163
+    ],
+    "new_preparation": false,
+    "note": "Aptitudes est une correspondance exacte665 mais とくぎ est Magie au menu de combat DS5. Maintenir le choix de contexte ouvert avant insertion ; aucune sélection sur la seule identité japonaise.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 665
+    }
+  },
+  {
+    "position": 168,
+    "SIDs": [
+      168
+    ],
+    "new_preparation": true,
+    "note": "わたす est la commande d'inventaire voisine de Utiliser/Abandonner/Équiper ; reprendre Transférer DS161, sans l'appliquer aux autres occurrences de donner.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 161
+    }
+  },
+  {
+    "position": 170,
+    "SIDs": [
+      170
+    ],
+    "new_preparation": false,
+    "note": "Abandonner appartient au menu d'objet160–165 ; ne pas le confondre avec abandonner une vocation625.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 162
+    }
+  },
+  {
+    "position": 173,
+    "SIDs": [
+      173
+    ],
+    "new_preparation": true,
+    "note": "おいのりをする est le service d'église qui sauvegarde, non un dialogue générique. DS599 précise la fonction entre parenthèses ; longueur19 à valider, aucune abréviation inventée.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 599
+    }
+  },
+  {
+    "position": 174,
+    "SIDs": [
+      174
+    ],
+    "new_preparation": true,
+    "note": "おつげをきく est le service d'église qui indique l'expérience requise. DS600 donne Divination ; ne pas perdre cette fonction en révisant le libellé.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 600
+    }
+  },
+  {
+    "position": 175,
+    "SIDs": [
+      175
+    ],
+    "new_preparation": false,
+    "note": "Résurrection : service d'église de retour à la vie, voisin de Confession/Divination/Purification.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 601
+    }
+  },
+  {
+    "position": 176,
+    "SIDs": [
+      176
+    ],
+    "new_preparation": false,
+    "note": "Purification soigne le poison ; Bénédiction603 lève une malédiction. Préserver cette distinction.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 602
+    }
+  },
+  {
+    "position": 177,
+    "SIDs": [
+      177
+    ],
+    "new_preparation": false,
+    "note": "Congédier un membre : dépôt d'un compagnon en réserve, en paire avec680 ; l'anglais Quitter était trompeur.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 679
+    }
+  },
+  {
+    "position": 178,
+    "SIDs": [
+      178
+    ],
+    "new_preparation": false,
+    "note": "Intégrer un membre : reprendre un compagnon de réserve ; même bloc de services679–684.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 680
+    }
+  },
+  {
+    "position": 179,
+    "SIDs": [
+      179
+    ],
+    "new_preparation": false,
+    "note": "Voir les candidats : consultation de la réserve. Le simple Status hérité ne rend pas le rôle DS du menu.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 681
+    }
+  },
+  {
+    "position": 181,
+    "SIDs": [
+      181
+    ],
+    "new_preparation": false,
+    "note": "Dépôt est bancaire, voisin de Retrait620 ; ne pas recopier Congédier un membre679, autre sens de déposer.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 619
+    }
+  },
+  {
+    "position": 182,
+    "SIDs": [
+      182
+    ],
+    "new_preparation": true,
+    "note": "ひきだす est le retrait bancaire, en paire avec Dépôt619 et non la sortie d'un personnage de la réserve.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 620
+    }
+  },
+  {
+    "position": 186,
+    "SIDs": [
+      186
+    ],
+    "new_preparation": true,
+    "note": "さくせんがえ est le changement de stratégie dans Divers ; distinct du libellé Divers104 du menu principal déjà corrigé en v078.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 352
+    }
+  },
+  {
+    "position": 187,
+    "SIDs": [
+      187
+    ],
+    "new_preparation": true,
+    "note": "ならびかえ réordonne l'équipe ; correspond à Alignement351, pas à un ordre donné pendant un tour de combat.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 351
+    }
+  },
+  {
+    "position": 188,
+    "SIDs": [
+      188
+    ],
+    "new_preparation": false,
+    "note": "Soigner tous correspond au soin de groupe dans Divers349–356 ; ni restauration de sauvegarde ni résurrection automatique.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 349
+    }
+  },
+  {
+    "position": 189,
+    "SIDs": [
+      189
+    ],
+    "new_preparation": false,
+    "note": "Quitter165 est propre au menu d'objet ; やめる devient Rien dans l'église604, banque621 et réserve684. Consommateur SFC de189 à établir avant de retenir un unique français.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 165
+    }
+  },
+  {
+    "position": 191,
+    "SIDs": [
+      191
+    ],
+    "new_preparation": true,
+    "note": "ふくろ désigne le conteneur d'objets. Le champ DS porte les métadonnées masculin/nombre @0M et @9N ; elles restent documentées, sans les insérer dans la SFC.",
+    "DS_reference": {
+      "file": "b1001000.mpt",
+      "id": 30
+    }
+  },
+  {
+    "position": 215,
+    "SIDs": [
+      215
+    ],
+    "new_preparation": true,
+    "note": "ちから est la Force physique ; Pouvoir n'est pas le nom DS de la statistique. Préserver le deux-points natif de l'étiquette SFC ; article DS 'la' non recopié dans ce libellé.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 283
+    }
+  },
+  {
+    "position": 216,
+    "SIDs": [
+      216
+    ],
+    "new_preparation": true,
+    "note": "すばやさ correspond à Agilité, distinct de la Vitalité suivante. Deux-points SFC conservé ; article élidé DS retiré du seul libellé.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 284
+    }
+  },
+  {
+    "position": 217,
+    "SIDs": [
+      217
+    ],
+    "new_preparation": true,
+    "note": "Même statistique すばやさ que216, mais chaîne physique sans deux-points ; conserver cette différence et ne pas fusionner les positions.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 284
+    }
+  },
+  {
+    "position": 218,
+    "SIDs": [
+      218
+    ],
+    "new_preparation": true,
+    "note": "みのまもり correspond à Vitalité DS285 ; l'ancien Agilite désigne à tort すばやさ. Révision de sens isolée, deux-points conservé ; le blanc technique initial ne sera décidé qu'après mesure de la fenêtre.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 285
+    }
+  },
+  {
+    "position": 219,
+    "SIDs": [
+      219
+    ],
+    "new_preparation": false,
+    "note": "Sagesse est la statistique かしこさ ; conserver le deux-points SFC et exclure l'article grammatical DS du nom isolé.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 286
+    }
+  },
+  {
+    "position": 235,
+    "SIDs": [
+      235
+    ],
+    "new_preparation": false,
+    "status": "DIFFERE_REFERENCE_EXACTE",
+    "note": "Aucun champ DS exact de ぼうけんのしょをうつす retrouvé ; fonction SFC copier distincte de supprimer752. Copier un journal demeure une adaptation préparée sans référence exacte."
+  },
+  {
+    "position": 236,
+    "SIDs": [
+      236
+    ],
+    "new_preparation": false,
+    "note": "Supprimer un journal : service destructif de sauvegarde, non copier. Le champ DS de copie235 n'a pas été trouvé ; ne pas réutiliser752 pour235.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 752
+    }
+  },
+  {
+    "position": 249,
+    "SIDs": [
+      249
+    ],
+    "new_preparation": false,
+    "status": "DIFFERE_REFERENCE_EXACTE",
+    "note": "Aucun champ DS exact ぼうぐ retrouvé dans ce contrôle ; le sens général est équipement défensif, mais les catégories SFC et alias doivent être établis. Ne pas approuver Protections par rapprochement flou."
+  },
+  {
+    "position": 287,
+    "SIDs": [
+      287
+    ],
+    "new_preparation": false,
+    "note": "Jeter correspond à かえる dans le bloc poker859–863. Sens contextuel de changer ses cartes, non jeter un objet ; la fenêtre SFC de ce groupe reste à identifier.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 859
+    }
+  },
+  {
+    "position": 288,
+    "SIDs": [
+      288
+    ],
+    "new_preparation": false,
+    "note": "Garder ses cartes : opposé de Jeter859 dans le même bloc. Accord/verbe conservé comme commande, pas comme nom d'objet.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 860
+    }
+  },
+  {
+    "position": 289,
+    "SIDs": [
+      289
+    ],
+    "new_preparation": false,
+    "note": "DONNER est la distribution des cartes ; conserver la capitalisation DS comme proposition, ne pas confondre avec Transférer161.",
+    "DS_reference": {
+      "file": "b1004000.mpt",
+      "id": 861
+    }
+  },
+  {
+    "position": 341,
+    "SIDs": [
+      341
+    ],
+    "new_preparation": false,
+    "note": "ラルフ/Calvin : nom propre exact dans la séquence de candidats, aucune translittération automatique.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 317
+    }
+  },
+  {
+    "position": 342,
+    "SIDs": [
+      342
+    ],
+    "new_preparation": false,
+    "note": "クワット/Gianni : nom exact voisin de Calvin et Toutenkanon, non correction phonétique du japonais.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 318
+    }
+  },
+  {
+    "position": 343,
+    "SIDs": [
+      343
+    ],
+    "new_preparation": false,
+    "note": "デドロン/Toutenkanon : nom exact de la même séquence ; longueur à tester dans la sélection SFC.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 319
+    }
+  },
+  {
+    "position": 344,
+    "SIDs": [
+      344
+    ],
+    "new_preparation": false,
+    "note": "ユキノフ/Théodore : @0M est une métadonnée de genre DS, pas une partie du nom ; conserver l'accent français.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 400
+    }
+  },
+  {
+    "position": 347,
+    "SIDs": [
+      347
+    ],
+    "new_preparation": false,
+    "note": "すぎやん/Stanislas : correspondance nominale exacte ; métadonnée masculine documentée, pas injectée dans les tokens SFC.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 403
+    }
+  },
+  {
+    "position": 351,
+    "SIDs": [
+      351
+    ],
+    "new_preparation": false,
+    "note": "ユルルン/Ferdinand : nom exact ; le voisinage de la liste permet de distinguer ce nom d'un monstre homonyme.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 407
+    }
+  },
+  {
+    "position": 368,
+    "SIDs": [
+      368
+    ],
+    "new_preparation": false,
+    "note": "ターニア/Mélodie : nom français localisé, pas Tania ; le rôle de cette entrée distincte reste à tester.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 306
+    }
+  },
+  {
+    "position": 372,
+    "SIDs": [
+      372
+    ],
+    "new_preparation": false,
+    "note": "ほかのまちのこと est le sujet de conversation sur les autres villes ; Sur les villes DS320 est une sélection, pas un nom de lieu.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 320
+    }
+  },
+  {
+    "position": 373,
+    "SIDs": [
+      373
+    ],
+    "new_preparation": false,
+    "note": "まおう signifie le roi démon. DS321 nomme Meurtor dans cette sélection ; le personnage visé dans le chemin SFC reste à confirmer, ne pas imposer ce nom dans tout contexte.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 321
+    }
+  },
+  {
+    "position": 375,
+    "SIDs": [
+      375
+    ],
+    "new_preparation": false,
+    "note": "もうすぐ/Très bientôt est une réponse temporelle, non un message de système ; cohérence à vérifier avec la question SFC.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 323
+    }
+  },
+  {
+    "position": 376,
+    "SIDs": [
+      376
+    ],
+    "new_preparation": false,
+    "note": "きがむいたら/Quand je veux exprime le choix selon l'envie ; conserver comme réponse de dialogue, contexte de question encore requis.",
+    "DS_reference": {
+      "file": "b1005000.mpt",
+      "id": 324
+    }
+  }
+]

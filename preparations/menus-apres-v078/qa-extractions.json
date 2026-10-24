@@ -1,0 +1,33 @@
+{
+  "baseline_release": "v0.78",
+  "baseline_commit": "46f7046d4e20f943fcfe772978ec4108705c74d7",
+  "reviewed_positions": 43,
+  "new_prepared_not_inserted": 14,
+  "existing_preparations_reference_gaps_documented": 27,
+  "remaining_exact_reference_reserves": 2,
+  "main_new_integrated": 0,
+  "names_new_integrated": 0,
+  "names_prepared_previous": 405,
+  "names_prepared_current": 419,
+  "names_french_qualified_unchanged": 367,
+  "physical_table_positions_previously_examined": 2048,
+  "new_physical_positions_examined": 0,
+  "full_main_reread_unchanged": 0,
+  "source_ROMs_available": false,
+  "rebuild_executed": false,
+  "emulator_executed": false,
+  "published_extraction_checks_only": true,
+  "inputs_sha256": {
+    "preparations/menus-apres-v078/decisions.json": "e753fdb681b321ad7875500ac0218446fc0673e0e14f6b945dbc29000301a901",
+    "dq6-fr/v0.69/registre-positions-0000-0399.json": "09b927e8ec4059778aaf3cd5c5044f7212774122f5bf0e0b12f500d8f3a9f1a0",
+    "dq6-fr/v0.78/blocages-restants.json": "83be246b21e14b606a527d4dcfd2a92dd49b3046033e42832173d19bd1de122e",
+    "dq6-fr/clean-base/ds-ja.json": "e6ce3a7fc9bae5e67db396ce00507a4251388b597e04cdf8e89ec531886a51a1",
+    "dq6-fr/clean-base/ds-fr.json": "8356086236ffe93ca18aed38e94ea0025a28f0a3662c0c883c6573924576dd18"
+  },
+  "limits": [
+    "Published extraction identity is verified; extraction was not repeated from absent ROMs.",
+    "Previously prepared entries are not counted as new translations or new preparations.",
+    "No codec, glyph, window, alias, assembly, patch or natural scene validation is claimed.",
+    "This menu review does not close the full French script reread or inherited audits."
+  ]
+}

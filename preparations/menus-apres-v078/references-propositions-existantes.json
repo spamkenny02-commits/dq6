@@ -1,0 +1,1272 @@
+[
+  {
+    "position": 158,
+    "sids": [
+      158
+    ],
+    "proposal": "Défense",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 7,
+        "JA_text": "@1ぼうぎょ@",
+        "FR_text": "@4Défense@",
+        "JA_extracted_record_sha256": "369ee3fba2381faea8896b42d048928c1f18a6f137ea8feec6f410f4c7a11f02",
+        "FR_extracted_record_sha256": "9a644d78ccdd9af5334f5d0c3adffdcd0f8cb011535e90e8525bbff38d52e8e8",
+        "context": [
+          {
+            "id": 5,
+            "JA": "@1とくぎ@",
+            "FR": "@4Magie@"
+          },
+          {
+            "id": 6,
+            "JA": "@1どうぐ@",
+            "FR": "@4Objets@"
+          },
+          {
+            "id": 7,
+            "JA": "@1ぼうぎょ@",
+            "FR": "@4Défense@"
+          },
+          {
+            "id": 8,
+            "JA": "@1いれかえ@",
+            "FR": "@4Changer un seul@"
+          },
+          {
+            "id": 9,
+            "JA": "@1そうがえ@",
+            "FR": "@4Changer tous@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Défense correspond à ぼうぎょ dans les commandes de combat ; les champs dummy et japonais résiduels ne servent pas de traduction.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 163,
+    "sids": [
+      163
+    ],
+    "proposal": "Aptitudes",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 665,
+        "JA_text": "@1とくぎ@",
+        "FR_text": "@4Aptitudes@",
+        "JA_extracted_record_sha256": "b69ab3fadfa730cf9bb662ca0c9f07d4f8815aa2c539de27c9feb021c4ee447f",
+        "FR_extracted_record_sha256": "3fbf5b71b1336dfa0f03e730d0ec1c9d5cf012e5ba26e324e84a5c7296547ef5",
+        "context": [
+          {
+            "id": 664,
+            "JA": "@1おぼえるじゅもん・とくぎ@",
+            "FR": "@4Sorts et aptitudes assimilables@"
+          },
+          {
+            "id": 665,
+            "JA": "@1とくぎ@",
+            "FR": "@4Aptitudes@"
+          },
+          {
+            "id": 666,
+            "JA": "@1とくちょう@",
+            "FR": "@4Caractéristiques @"
+          },
+          {
+            "id": 667,
+            "JA": "@1てんしょくじょうけん@",
+            "FR": "@4Conditions @"
+          }
+        ]
+      }
+    ],
+    "context_review": "Aptitudes est une correspondance exacte665 mais とくぎ est Magie au menu de combat DS5. Maintenir le choix de contexte ouvert avant insertion ; aucune sélection sur la seule identité japonaise.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 170,
+    "sids": [
+      170
+    ],
+    "proposal": "Abandonner",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 162,
+        "JA_text": "@1すてる@",
+        "FR_text": "@4Abandonner@",
+        "JA_extracted_record_sha256": "e9abe59ea66863b2ddf4b544ba04e553f127c630dc076afb0dad2a922a06ed6c",
+        "FR_extracted_record_sha256": "96090c1bd7c1796cc361f06284a9fce987407e9ff8bd7ccd73deafa951003bdd",
+        "context": [
+          {
+            "id": 160,
+            "JA": "@1つかう@",
+            "FR": "@4Utiliser@"
+          },
+          {
+            "id": 161,
+            "JA": "@1わたす@",
+            "FR": "@4Transférer@"
+          },
+          {
+            "id": 162,
+            "JA": "@1すてる@",
+            "FR": "@4Abandonner@"
+          },
+          {
+            "id": 163,
+            "JA": "@1そうび@",
+            "FR": "@4Équiper@"
+          },
+          {
+            "id": 164,
+            "JA": "@1インパス@",
+            "FR": "@4Examiner@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Abandonner appartient au menu d'objet160–165 ; ne pas le confondre avec abandonner une vocation625.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 175,
+    "sids": [
+      175
+    ],
+    "proposal": "Résurrection",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 601,
+        "JA_text": "@1いきかえらせる@",
+        "FR_text": "@4Résurrection@",
+        "JA_extracted_record_sha256": "e6784c548639941c87bad9860207dbb88186f6390e3baa78badd4c5d27a247e4",
+        "FR_extracted_record_sha256": "9e0d3e87fc31659fe788b33561f99e7a90f8b0912489dbcf06dda954fdd68e40",
+        "context": [
+          {
+            "id": 599,
+            "JA": "@1おいのりをする@",
+            "FR": "@4Confession (Sauveg.)@"
+          },
+          {
+            "id": 600,
+            "JA": "@1おつげをきく@",
+            "FR": "@4Divination@"
+          },
+          {
+            "id": 601,
+            "JA": "@1いきかえらせる@",
+            "FR": "@4Résurrection@"
+          },
+          {
+            "id": 602,
+            "JA": "@1どくのちりょう@",
+            "FR": "@4Purification@"
+          },
+          {
+            "id": 603,
+            "JA": "@1のろいをとく@",
+            "FR": "@4Bénédiction@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Résurrection : service d'église de retour à la vie, voisin de Confession/Divination/Purification.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 176,
+    "sids": [
+      176
+    ],
+    "proposal": "Purification",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 602,
+        "JA_text": "@1どくのちりょう@",
+        "FR_text": "@4Purification@",
+        "JA_extracted_record_sha256": "4bb55a493f7c89c7ec89335c2c70d4ed53cadf993412af0a55df56c0ea917e83",
+        "FR_extracted_record_sha256": "33cb731ec4e3e54b9959cd5c6831851fef94d6fe073f664f3a44b2b8a234cb5d",
+        "context": [
+          {
+            "id": 600,
+            "JA": "@1おつげをきく@",
+            "FR": "@4Divination@"
+          },
+          {
+            "id": 601,
+            "JA": "@1いきかえらせる@",
+            "FR": "@4Résurrection@"
+          },
+          {
+            "id": 602,
+            "JA": "@1どくのちりょう@",
+            "FR": "@4Purification@"
+          },
+          {
+            "id": 603,
+            "JA": "@1のろいをとく@",
+            "FR": "@4Bénédiction@"
+          },
+          {
+            "id": 604,
+            "JA": "@1やめる@",
+            "FR": "@4Rien@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Purification soigne le poison ; Bénédiction603 lève une malédiction. Préserver cette distinction.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 177,
+    "sids": [
+      177
+    ],
+    "proposal": "Congédier un membre",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 679,
+        "JA_text": "@1あずけにきた@",
+        "FR_text": "@4Congédier un membre@",
+        "JA_extracted_record_sha256": "32065f405f12617418e1b970479d2af57ae4dfdc2dbf0742ca016e04c7be8a03",
+        "FR_extracted_record_sha256": "e993810e64e0d8297fb5cafc3c4b4d1427b38a0b20fe32c35fddab6becf0f918",
+        "context": [
+          {
+            "id": 679,
+            "JA": "@1あずけにきた@",
+            "FR": "@4Congédier un membre@"
+          },
+          {
+            "id": 680,
+            "JA": "@1むかえにきた@",
+            "FR": "@4Intégrer un membre@"
+          },
+          {
+            "id": 681,
+            "JA": "@1ようすをみる@",
+            "FR": "@4Voir les candidats@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Congédier un membre : dépôt d'un compagnon en réserve, en paire avec680 ; l'anglais Quitter était trompeur.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 178,
+    "sids": [
+      178
+    ],
+    "proposal": "Intégrer un membre",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 680,
+        "JA_text": "@1むかえにきた@",
+        "FR_text": "@4Intégrer un membre@",
+        "JA_extracted_record_sha256": "01923c4925e4bc63cfa78719dd9a9f150c111cc03d66cb05933edcfa29f6c83a",
+        "FR_extracted_record_sha256": "870a5e1861afa8048209da2cc4d10668ef6745854bccff073319ec6c423a1823",
+        "context": [
+          {
+            "id": 679,
+            "JA": "@1あずけにきた@",
+            "FR": "@4Congédier un membre@"
+          },
+          {
+            "id": 680,
+            "JA": "@1むかえにきた@",
+            "FR": "@4Intégrer un membre@"
+          },
+          {
+            "id": 681,
+            "JA": "@1ようすをみる@",
+            "FR": "@4Voir les candidats@"
+          },
+          {
+            "id": 682,
+            "JA": "@1なまえをかえる@",
+            "FR": "@4Renommer un membre@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Intégrer un membre : reprendre un compagnon de réserve ; même bloc de services679–684.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 179,
+    "sids": [
+      179
+    ],
+    "proposal": "Voir les candidats",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 681,
+        "JA_text": "@1ようすをみる@",
+        "FR_text": "@4Voir les candidats@",
+        "JA_extracted_record_sha256": "5707d3486f94ce3148f30b3618fc9327b1983135ac229cbacd95efe20bf05c9a",
+        "FR_extracted_record_sha256": "2808f42ebf07be9d7a75a2f0ee69cdeacace7f3784030fd1cd3e5966c1440dd0",
+        "context": [
+          {
+            "id": 679,
+            "JA": "@1あずけにきた@",
+            "FR": "@4Congédier un membre@"
+          },
+          {
+            "id": 680,
+            "JA": "@1むかえにきた@",
+            "FR": "@4Intégrer un membre@"
+          },
+          {
+            "id": 681,
+            "JA": "@1ようすをみる@",
+            "FR": "@4Voir les candidats@"
+          },
+          {
+            "id": 682,
+            "JA": "@1なまえをかえる@",
+            "FR": "@4Renommer un membre@"
+          },
+          {
+            "id": 683,
+            "JA": "@1もとのなまえにもどす@",
+            "FR": "@4Rétablir nom d'origine@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Voir les candidats : consultation de la réserve. Le simple Status hérité ne rend pas le rôle DS du menu.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 181,
+    "sids": [
+      181
+    ],
+    "proposal": "Dépôt",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 619,
+        "JA_text": "@1あずける@",
+        "FR_text": "@4Dépôt@",
+        "JA_extracted_record_sha256": "ccc253c42ca2433a080811e523c19d65760f03e80544bc5d2da2609d8cea4c72",
+        "FR_extracted_record_sha256": "21e0d29cd0ec406d98dfd2548428a4511849ee9708a53514ee67411e544b5ee4",
+        "context": [
+          {
+            "id": 619,
+            "JA": "@1あずける@",
+            "FR": "@4Dépôt@"
+          },
+          {
+            "id": 620,
+            "JA": "@1ひきだす@",
+            "FR": "@4Retrait@"
+          },
+          {
+            "id": 621,
+            "JA": "@1やめる@",
+            "FR": "@4Rien@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Dépôt est bancaire, voisin de Retrait620 ; ne pas recopier Congédier un membre679, autre sens de déposer.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 188,
+    "sids": [
+      188
+    ],
+    "proposal": "Soigner tous",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 349,
+        "JA_text": "@1まんたん@",
+        "FR_text": "@4Soigner tous@",
+        "JA_extracted_record_sha256": "b7fce59832fdd997b3e3cadf4069379a29b93645c46c96f5164e7f96b552fb96",
+        "FR_extracted_record_sha256": "9cfc360197086813c5c03e85699f484b9ff848810e1a9877d64099afada9e4ba",
+        "context": [
+          {
+            "id": 349,
+            "JA": "@1まんたん@",
+            "FR": "@4Soigner tous@"
+          },
+          {
+            "id": 350,
+            "JA": "@1そうび@",
+            "FR": "@4Équiper@"
+          },
+          {
+            "id": 351,
+            "JA": "@1ならびかえ@",
+            "FR": "@4Alignement@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Soigner tous correspond au soin de groupe dans Divers349–356 ; ni restauration de sauvegarde ni résurrection automatique.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 189,
+    "sids": [
+      189
+    ],
+    "proposal": "Quitter",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 165,
+        "JA_text": "@1やめる@",
+        "FR_text": "@4Quitter@",
+        "JA_extracted_record_sha256": "9a3a7b9712ca80e926ac397f38cde755a8027c1173801522a4c2731cac0d9beb",
+        "FR_extracted_record_sha256": "76b9475bbfcf3891af18544b3e91c31686492886fa28bd51fc47f29ffd352e49",
+        "context": [
+          {
+            "id": 163,
+            "JA": "@1そうび@",
+            "FR": "@4Équiper@"
+          },
+          {
+            "id": 164,
+            "JA": "@1インパス@",
+            "FR": "@4Examiner@"
+          },
+          {
+            "id": 165,
+            "JA": "@1やめる@",
+            "FR": "@4Quitter@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Quitter165 est propre au menu d'objet ; やめる devient Rien dans l'église604, banque621 et réserve684. Consommateur SFC de189 à établir avant de retenir un unique français.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 219,
+    "sids": [
+      219
+    ],
+    "proposal": "Sagesse:",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 286,
+        "JA_text": "@1かしこさ@",
+        "FR_text": "@2la @4Sagesse@",
+        "JA_extracted_record_sha256": "2efba723e08f734c987f0b45c8a5d886205e5a3feeb512620ea0b0435ed72ad9",
+        "FR_extracted_record_sha256": "dc37838972e1aac11bde78f0ecdd4b76ca2b41a230608d742152d4a7e233a656",
+        "context": [
+          {
+            "id": 284,
+            "JA": "@1すばやさ@",
+            "FR": "@2l'@4Agilité@"
+          },
+          {
+            "id": 285,
+            "JA": "@1みのまもり@",
+            "FR": "@2la @4Vitalité@"
+          },
+          {
+            "id": 286,
+            "JA": "@1かしこさ@",
+            "FR": "@2la @4Sagesse@"
+          },
+          {
+            "id": 287,
+            "JA": "@1かっこよさ@",
+            "FR": "@2le @4Style@"
+          },
+          {
+            "id": 288,
+            "JA": "@1こうげき力@",
+            "FR": "@2l'@4Attaque@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Sagesse est la statistique かしこさ ; conserver le deux-points SFC et exclure l'article grammatical DS du nom isolé.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 236,
+    "sids": [
+      236
+    ],
+    "proposal": "Supprimer un journal",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 752,
+        "JA_text": "@1ぼうけんのしょをけす@",
+        "FR_text": "@4Supprimer un journal@",
+        "JA_extracted_record_sha256": "aac07d06e268ab8180b291c253c4ecd2f3e2cd93074b0d73a3670b535bdcf788",
+        "FR_extracted_record_sha256": "ef04ef75e23eb0ea8bae30ac2e1d9f011c5249e7f2822c975f8033e5213ef61a",
+        "context": [
+          {
+            "id": 750,
+            "JA": "@1ぼうけんをする@",
+            "FR": "@4Continuer votre aventure@"
+          },
+          {
+            "id": 751,
+            "JA": "@1ぼうけんのしょをつくる@",
+            "FR": "@4Créer un nouveau journal@"
+          },
+          {
+            "id": 752,
+            "JA": "@1ぼうけんのしょをけす@",
+            "FR": "@4Supprimer un journal@"
+          },
+          {
+            "id": 754,
+            "JA": "@1使用していません@",
+            "FR": "@4Inutilisé@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Supprimer un journal : service destructif de sauvegarde, non copier. Le champ DS de copie235 n'a pas été trouvé ; ne pas réutiliser752 pour235.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 287,
+    "sids": [
+      287
+    ],
+    "proposal": "Jeter",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 859,
+        "JA_text": "@1かえる@",
+        "FR_text": "@4Jeter@",
+        "JA_extracted_record_sha256": "fc6b49aba3281747c3591070da2fd27dc0ced0f525d15d1e7ae36f0e1c6c8c50",
+        "FR_extracted_record_sha256": "6af80f6b5259aeb8c7a816699495ec8902a0b066149c2e99baaca964b6ff6f30",
+        "context": [
+          {
+            "id": 859,
+            "JA": "@1かえる@",
+            "FR": "@4Jeter@"
+          },
+          {
+            "id": 860,
+            "JA": "@1のこす@",
+            "FR": "@4Garder@"
+          },
+          {
+            "id": 861,
+            "JA": "@1くばる@",
+            "FR": "@4DONNER@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Jeter correspond à かえる dans le bloc poker859–863. Sens contextuel de changer ses cartes, non jeter un objet ; la fenêtre SFC de ce groupe reste à identifier.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 288,
+    "sids": [
+      288
+    ],
+    "proposal": "Garder",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 860,
+        "JA_text": "@1のこす@",
+        "FR_text": "@4Garder@",
+        "JA_extracted_record_sha256": "7acb87835555f64c36353e1b7021ca9e1a5a899698775ff5a3a8212cfef8c306",
+        "FR_extracted_record_sha256": "29b2b43d86aa77cb63cf3c73ea8c3b2611c934680854f390e741fc2a1b938149",
+        "context": [
+          {
+            "id": 859,
+            "JA": "@1かえる@",
+            "FR": "@4Jeter@"
+          },
+          {
+            "id": 860,
+            "JA": "@1のこす@",
+            "FR": "@4Garder@"
+          },
+          {
+            "id": 861,
+            "JA": "@1くばる@",
+            "FR": "@4DONNER@"
+          },
+          {
+            "id": 862,
+            "JA": "@1たかい@",
+            "FR": "@4+ forte@"
+          }
+        ]
+      }
+    ],
+    "context_review": "Garder ses cartes : opposé de Jeter859 dans le même bloc. Accord/verbe conservé comme commande, pas comme nom d'objet.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 289,
+    "sids": [
+      289
+    ],
+    "proposal": "DONNER",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1004000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1004000.mpt",
+        "id": 861,
+        "JA_text": "@1くばる@",
+        "FR_text": "@4DONNER@",
+        "JA_extracted_record_sha256": "b5cc6c92014dd0ee57d6fb2e61f660dcd19c7b7567eb761ea15c4fc5d83f4f58",
+        "FR_extracted_record_sha256": "f82bf4287c747edd15f58017d2bab197ff914468213b8ba6ebfb6e84411cf202",
+        "context": [
+          {
+            "id": 859,
+            "JA": "@1かえる@",
+            "FR": "@4Jeter@"
+          },
+          {
+            "id": 860,
+            "JA": "@1のこす@",
+            "FR": "@4Garder@"
+          },
+          {
+            "id": 861,
+            "JA": "@1くばる@",
+            "FR": "@4DONNER@"
+          },
+          {
+            "id": 862,
+            "JA": "@1たかい@",
+            "FR": "@4+ forte@"
+          },
+          {
+            "id": 863,
+            "JA": "@1ひくい@",
+            "FR": "@4- forte@"
+          }
+        ]
+      }
+    ],
+    "context_review": "DONNER est la distribution des cartes ; conserver la capitalisation DS comme proposition, ne pas confondre avec Transférer161.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 341,
+    "sids": [
+      341
+    ],
+    "proposal": "Calvin",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 317,
+        "JA_text": "@1ラルフ@",
+        "FR_text": "@1Calvin@",
+        "JA_extracted_record_sha256": "de2fb68fba62f3637438f83fe71db74a5988c008f0590a21409ed90388a4af10",
+        "FR_extracted_record_sha256": "c3b097e77b877d4797924f8fd46a6bc6ef171659d02016d9dcc9e29000b6f6ab",
+        "context": [
+          {
+            "id": 315,
+            "JA": "@1われらが　命の　ともしびに。@",
+            "FR": "@1Deviens la lumière qui nous guide !@"
+          },
+          {
+            "id": 316,
+            "JA": "@1ダンテ@",
+            "FR": "@1Hugo@"
+          },
+          {
+            "id": 317,
+            "JA": "@1ラルフ@",
+            "FR": "@1Calvin@"
+          },
+          {
+            "id": 318,
+            "JA": "@1クワット@",
+            "FR": "@1Gianni@"
+          },
+          {
+            "id": 319,
+            "JA": "@1デドロン@",
+            "FR": "@1Toutenkanon@"
+          }
+        ]
+      }
+    ],
+    "context_review": "ラルフ/Calvin : nom propre exact dans la séquence de candidats, aucune translittération automatique.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 342,
+    "sids": [
+      342
+    ],
+    "proposal": "Gianni",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 318,
+        "JA_text": "@1クワット@",
+        "FR_text": "@1Gianni@",
+        "JA_extracted_record_sha256": "0a358deb0d556de9abf83743d4197af8e6bfcd7f9448294533fe3a6700b8b440",
+        "FR_extracted_record_sha256": "b63a2d9e477e3180ccbd96bc1206ecd85879577085e78c6f3cec29131561dc7a",
+        "context": [
+          {
+            "id": 316,
+            "JA": "@1ダンテ@",
+            "FR": "@1Hugo@"
+          },
+          {
+            "id": 317,
+            "JA": "@1ラルフ@",
+            "FR": "@1Calvin@"
+          },
+          {
+            "id": 318,
+            "JA": "@1クワット@",
+            "FR": "@1Gianni@"
+          },
+          {
+            "id": 319,
+            "JA": "@1デドロン@",
+            "FR": "@1Toutenkanon@"
+          },
+          {
+            "id": 320,
+            "JA": "@1ほかのまちのこと@",
+            "FR": "@1Sur les villes@"
+          }
+        ]
+      }
+    ],
+    "context_review": "クワット/Gianni : nom exact voisin de Calvin et Toutenkanon, non correction phonétique du japonais.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 343,
+    "sids": [
+      343
+    ],
+    "proposal": "Toutenkanon",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 319,
+        "JA_text": "@1デドロン@",
+        "FR_text": "@1Toutenkanon@",
+        "JA_extracted_record_sha256": "4793cd4d6d016c77b3c2e41f11df214f964ccf39b95a3f4afdb1913e5f8f358b",
+        "FR_extracted_record_sha256": "226118b64f9f3f27ca4284d3c85ef44542ca6f7c1e2cf5a093ec723646d6873f",
+        "context": [
+          {
+            "id": 317,
+            "JA": "@1ラルフ@",
+            "FR": "@1Calvin@"
+          },
+          {
+            "id": 318,
+            "JA": "@1クワット@",
+            "FR": "@1Gianni@"
+          },
+          {
+            "id": 319,
+            "JA": "@1デドロン@",
+            "FR": "@1Toutenkanon@"
+          },
+          {
+            "id": 320,
+            "JA": "@1ほかのまちのこと@",
+            "FR": "@1Sur les villes@"
+          },
+          {
+            "id": 321,
+            "JA": "@1まおうのこと@",
+            "FR": "@1Sur Meurtor@"
+          }
+        ]
+      }
+    ],
+    "context_review": "デドロン/Toutenkanon : nom exact de la même séquence ; longueur à tester dans la sélection SFC.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 344,
+    "sids": [
+      344
+    ],
+    "proposal": "Théodore",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 400,
+        "JA_text": "@1ユキノフ@",
+        "FR_text": "@0M@1Théodore@",
+        "JA_extracted_record_sha256": "41d744b56eb3bdfd4d953b887d6e18dc75d04a0f6cfc5e7026e01c57df4a538d",
+        "FR_extracted_record_sha256": "a32d0c6cbad66eee6aa1614b741b3e83098d4ddc2c3ad4a093c0eb853545f3df",
+        "context": [
+          {
+            "id": 400,
+            "JA": "@1ユキノフ@",
+            "FR": "@0M@1Théodore@"
+          },
+          {
+            "id": 401,
+            "JA": "@1ミヤーケ@",
+            "FR": "@0M@1Rodrigue@"
+          },
+          {
+            "id": 402,
+            "JA": "@1ふじのり@",
+            "FR": "@0M@1Orlando@"
+          }
+        ]
+      }
+    ],
+    "context_review": "ユキノフ/Théodore : @0M est une métadonnée de genre DS, pas une partie du nom ; conserver l'accent français.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 347,
+    "sids": [
+      347
+    ],
+    "proposal": "Stanislas",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 403,
+        "JA_text": "@1すぎやん@",
+        "FR_text": "@0M@1Stanislas@",
+        "JA_extracted_record_sha256": "969e8f9bfca76ddf85a496bd7d03084a44f7f73a9446c15ac1fc966c8d64d7df",
+        "FR_extracted_record_sha256": "c2b2c199adcb39353c5ee6a8ad7c80c6433abb7ad2b1fa34cfb25aadb87d27e7",
+        "context": [
+          {
+            "id": 401,
+            "JA": "@1ミヤーケ@",
+            "FR": "@0M@1Rodrigue@"
+          },
+          {
+            "id": 402,
+            "JA": "@1ふじのり@",
+            "FR": "@0M@1Orlando@"
+          },
+          {
+            "id": 403,
+            "JA": "@1すぎやん@",
+            "FR": "@0M@1Stanislas@"
+          },
+          {
+            "id": 404,
+            "JA": "@1よしき@",
+            "FR": "@0M@1Cyprien@"
+          },
+          {
+            "id": 405,
+            "JA": "@1マジマン@",
+            "FR": "@0M@1Enzo@"
+          }
+        ]
+      }
+    ],
+    "context_review": "すぎやん/Stanislas : correspondance nominale exacte ; métadonnée masculine documentée, pas injectée dans les tokens SFC.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 351,
+    "sids": [
+      351
+    ],
+    "proposal": "Ferdinand",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 407,
+        "JA_text": "@1ユルルン@",
+        "FR_text": "@0M@1Ferdinand@",
+        "JA_extracted_record_sha256": "43bff716cb9bf854acff08b4ab8ebe6dd1e227c545251a7f5bef34730d001570",
+        "FR_extracted_record_sha256": "6de008f01cc441b4cbd1be1225c9b6ab96a35b519712c0c844cef9c6c627067f",
+        "context": [
+          {
+            "id": 405,
+            "JA": "@1マジマン@",
+            "FR": "@0M@1Enzo@"
+          },
+          {
+            "id": 406,
+            "JA": "@1なおゆき@",
+            "FR": "@0M@1Gonzague@"
+          },
+          {
+            "id": 407,
+            "JA": "@1ユルルン@",
+            "FR": "@0M@1Ferdinand@"
+          },
+          {
+            "id": 408,
+            "JA": "@1るりるり@",
+            "FR": "@0F@1Heidi@"
+          },
+          {
+            "id": 409,
+            "JA": "@1さちまり@",
+            "FR": "@0F@1Cindy@"
+          }
+        ]
+      }
+    ],
+    "context_review": "ユルルン/Ferdinand : nom exact ; le voisinage de la liste permet de distinguer ce nom d'un monstre homonyme.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 368,
+    "sids": [
+      368
+    ],
+    "proposal": "Mélodie",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 306,
+        "JA_text": "@1ターニア@",
+        "FR_text": "@1Mélodie@",
+        "JA_extracted_record_sha256": "a7535cd00ddbadac62bc34e73600e33df7b908c23090b7203f923e988bac751e",
+        "FR_extracted_record_sha256": "90c10eed71ad38112486b69d5eca7eef2f2da918b1ce26b882d777d8757a7c02",
+        "context": [
+          {
+            "id": 304,
+            "JA": "@1バネッサ@",
+            "FR": "@1Vanessa@"
+          },
+          {
+            "id": 305,
+            "JA": "@1クラリス@",
+            "FR": "@1Claire@"
+          },
+          {
+            "id": 306,
+            "JA": "@1ターニア@",
+            "FR": "@1Mélodie@"
+          },
+          {
+            "id": 307,
+            "JA": "@1われ　正しき心を　もつ者なり@",
+            "FR": "@1J'ai dans mon cœur la vérité.@"
+          },
+          {
+            "id": 308,
+            "JA": "@1ときは　きたれり！@",
+            "FR": "@1Le moment est enfin venu.@"
+          }
+        ]
+      }
+    ],
+    "context_review": "ターニア/Mélodie : nom français localisé, pas Tania ; le rôle de cette entrée distincte reste à tester.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 372,
+    "sids": [
+      372
+    ],
+    "proposal": "Sur les villes",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 320,
+        "JA_text": "@1ほかのまちのこと@",
+        "FR_text": "@1Sur les villes@",
+        "JA_extracted_record_sha256": "ae841c5f4b5c93d76a2955c3f1bbe2d27e05f21a24e63476ced83246071b67e8",
+        "FR_extracted_record_sha256": "8056c9600a11fd83c911e210af3d8c528a3b37bfa3c5c3394d952739b57fd278",
+        "context": [
+          {
+            "id": 318,
+            "JA": "@1クワット@",
+            "FR": "@1Gianni@"
+          },
+          {
+            "id": 319,
+            "JA": "@1デドロン@",
+            "FR": "@1Toutenkanon@"
+          },
+          {
+            "id": 320,
+            "JA": "@1ほかのまちのこと@",
+            "FR": "@1Sur les villes@"
+          },
+          {
+            "id": 321,
+            "JA": "@1まおうのこと@",
+            "FR": "@1Sur Meurtor@"
+          },
+          {
+            "id": 322,
+            "JA": "@1ラーのかがみのこと@",
+            "FR": "@1Sur le miroir de Râ@"
+          }
+        ]
+      }
+    ],
+    "context_review": "ほかのまちのこと est le sujet de conversation sur les autres villes ; Sur les villes DS320 est une sélection, pas un nom de lieu.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 373,
+    "sids": [
+      373
+    ],
+    "proposal": "Sur Meurtor",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 321,
+        "JA_text": "@1まおうのこと@",
+        "FR_text": "@1Sur Meurtor@",
+        "JA_extracted_record_sha256": "4afc850aa8286cbb6eaf6b98ea24196bb35c08454a6a97fcbee8c31ed3af723c",
+        "FR_extracted_record_sha256": "9213b43979c752b51847de2d579dc7f670c4e8600ff1f9540933bdaae8fb3c55",
+        "context": [
+          {
+            "id": 319,
+            "JA": "@1デドロン@",
+            "FR": "@1Toutenkanon@"
+          },
+          {
+            "id": 320,
+            "JA": "@1ほかのまちのこと@",
+            "FR": "@1Sur les villes@"
+          },
+          {
+            "id": 321,
+            "JA": "@1まおうのこと@",
+            "FR": "@1Sur Meurtor@"
+          },
+          {
+            "id": 322,
+            "JA": "@1ラーのかがみのこと@",
+            "FR": "@1Sur le miroir de Râ@"
+          },
+          {
+            "id": 323,
+            "JA": "@1もうすぐ@",
+            "FR": "@1Très bientôt@"
+          }
+        ]
+      }
+    ],
+    "context_review": "まおう signifie le roi démon. DS321 nomme Meurtor dans cette sélection ; le personnage visé dans le chemin SFC reste à confirmer, ne pas imposer ce nom dans tout contexte.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 375,
+    "sids": [
+      375
+    ],
+    "proposal": "Très bientôt",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 323,
+        "JA_text": "@1もうすぐ@",
+        "FR_text": "@1Très bientôt@",
+        "JA_extracted_record_sha256": "d9cba34b6cdaefd4884452a577ad98018567d6b8cd3408a1617919c984077cee",
+        "FR_extracted_record_sha256": "f9b5ab34c801686e40be3894072c2ae4ae1c677b58aa3b015f2ec319ea99f667",
+        "context": [
+          {
+            "id": 321,
+            "JA": "@1まおうのこと@",
+            "FR": "@1Sur Meurtor@"
+          },
+          {
+            "id": 322,
+            "JA": "@1ラーのかがみのこと@",
+            "FR": "@1Sur le miroir de Râ@"
+          },
+          {
+            "id": 323,
+            "JA": "@1もうすぐ@",
+            "FR": "@1Très bientôt@"
+          },
+          {
+            "id": 324,
+            "JA": "@1きがむいたら@",
+            "FR": "@1Quand je veux@"
+          },
+          {
+            "id": 325,
+            "JA": "@1しない@",
+            "FR": "@1Pas question@"
+          }
+        ]
+      }
+    ],
+    "context_review": "もうすぐ/Très bientôt est une réponse temporelle, non un message de système ; cohérence à vérifier avec la question SFC.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  },
+  {
+    "position": 376,
+    "sids": [
+      376
+    ],
+    "proposal": "Quand je veux",
+    "prior_status": "PREPARE_NON_INSERE",
+    "status": "PREPARE_NON_INSERE",
+    "DS_references": [
+      {
+        "JA_file": "data/MENULIST6/JA/b1005000.mpt",
+        "FR_file": "data/MENULIST6/FR/b1005000.mpt",
+        "id": 324,
+        "JA_text": "@1きがむいたら@",
+        "FR_text": "@1Quand je veux@",
+        "JA_extracted_record_sha256": "73b854e8d4dfddc7d1ca29f92c43ba6a26baf06c63cdc185f5f39648dbde7e99",
+        "FR_extracted_record_sha256": "40f907985733276eee8af67e8fe699a858dee5dd897867140f2d657dfe72606a",
+        "context": [
+          {
+            "id": 322,
+            "JA": "@1ラーのかがみのこと@",
+            "FR": "@1Sur le miroir de Râ@"
+          },
+          {
+            "id": 323,
+            "JA": "@1もうすぐ@",
+            "FR": "@1Très bientôt@"
+          },
+          {
+            "id": 324,
+            "JA": "@1きがむいたら@",
+            "FR": "@1Quand je veux@"
+          },
+          {
+            "id": 325,
+            "JA": "@1しない@",
+            "FR": "@1Pas question@"
+          },
+          {
+            "id": 326,
+            "JA": "@1よろい@",
+            "FR": "@1Une armure@"
+          }
+        ]
+      }
+    ],
+    "context_review": "きがむいたら/Quand je veux exprime le choix selon l'envie ; conserver comme réponse de dialogue, contexte de question encore requis.",
+    "resolves_reference_gap": true,
+    "resolves_runtime_blocker": false
+  }
+]

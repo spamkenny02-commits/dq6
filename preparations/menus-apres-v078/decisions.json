@@ -1,0 +1,51 @@
+{
+  "new": {
+    "157": ["Combattre", "b1004000.mpt", 0, "たたかう ouvre les commandes du combat ; distinct de l'attaque physique こうげき/Attaquer DS4. L'ancien Attaque confond ces deux actions."],
+    "159": ["Changer un seul", "b1004000.mpt", 8, "いれかえ désigne ici le changement individuel, voisin de そうがえ. DS8 distingue Changer un seul de l'en-tête Équipe DS1 ; largeur naturelle encore inconnue."],
+    "160": ["Changer tous", "b1004000.mpt", 9, "そうがえ change toute l'équipe ; Un est un contresens. La paire DS8/9 confirme le contraste individuel/collectif."],
+    "168": ["Transférer", "b1004000.mpt", 161, "わたす est la commande d'inventaire voisine de Utiliser/Abandonner/Équiper ; reprendre Transférer DS161, sans l'appliquer aux autres occurrences de donner."],
+    "173": ["Confession (Sauveg.)", "b1004000.mpt", 599, "おいのりをする est le service d'église qui sauvegarde, non un dialogue générique. DS599 précise la fonction entre parenthèses ; longueur19 à valider, aucune abréviation inventée."],
+    "174": ["Divination", "b1004000.mpt", 600, "おつげをきく est le service d'église qui indique l'expérience requise. DS600 donne Divination ; ne pas perdre cette fonction en révisant le libellé."],
+    "182": ["Retrait", "b1004000.mpt", 620, "ひきだす est le retrait bancaire, en paire avec Dépôt619 et non la sortie d'un personnage de la réserve."],
+    "186": ["Tactique", "b1004000.mpt", 352, "さくせんがえ est le changement de stratégie dans Divers ; distinct du libellé Divers104 du menu principal déjà corrigé en v078."],
+    "187": ["Alignement", "b1004000.mpt", 351, "ならびかえ réordonne l'équipe ; correspond à Alignement351, pas à un ordre donné pendant un tour de combat."],
+    "191": ["Sac", "b1001000.mpt", 30, "ふくろ désigne le conteneur d'objets. Le champ DS porte les métadonnées masculin/nombre @0M et @9N ; elles restent documentées, sans les insérer dans la SFC."],
+    "215": ["Force:", "b1004000.mpt", 283, "ちから est la Force physique ; Pouvoir n'est pas le nom DS de la statistique. Préserver le deux-points natif de l'étiquette SFC ; article DS 'la' non recopié dans ce libellé."],
+    "216": ["Agilité:", "b1004000.mpt", 284, "すばやさ correspond à Agilité, distinct de la Vitalité suivante. Deux-points SFC conservé ; article élidé DS retiré du seul libellé."],
+    "217": ["Agilité", "b1004000.mpt", 284, "Même statistique すばやさ que216, mais chaîne physique sans deux-points ; conserver cette différence et ne pas fusionner les positions."],
+    "218": ["Vitalité:", "b1004000.mpt", 285, "みのまもり correspond à Vitalité DS285 ; l'ancien Agilite désigne à tort すばやさ. Révision de sens isolée, deux-points conservé ; le blanc technique initial ne sera décidé qu'après mesure de la fenêtre." ]
+  },
+  "existing": {
+    "158": ["b1004000.mpt", 7, "Défense correspond à ぼうぎょ dans les commandes de combat ; les champs dummy et japonais résiduels ne servent pas de traduction."],
+    "163": ["b1004000.mpt", 665, "Aptitudes est une correspondance exacte665 mais とくぎ est Magie au menu de combat DS5. Maintenir le choix de contexte ouvert avant insertion ; aucune sélection sur la seule identité japonaise."],
+    "170": ["b1004000.mpt", 162, "Abandonner appartient au menu d'objet160–165 ; ne pas le confondre avec abandonner une vocation625."],
+    "175": ["b1004000.mpt", 601, "Résurrection : service d'église de retour à la vie, voisin de Confession/Divination/Purification."],
+    "176": ["b1004000.mpt", 602, "Purification soigne le poison ; Bénédiction603 lève une malédiction. Préserver cette distinction."],
+    "177": ["b1004000.mpt", 679, "Congédier un membre : dépôt d'un compagnon en réserve, en paire avec680 ; l'anglais Quitter était trompeur."],
+    "178": ["b1004000.mpt", 680, "Intégrer un membre : reprendre un compagnon de réserve ; même bloc de services679–684."],
+    "179": ["b1004000.mpt", 681, "Voir les candidats : consultation de la réserve. Le simple Status hérité ne rend pas le rôle DS du menu."],
+    "181": ["b1004000.mpt", 619, "Dépôt est bancaire, voisin de Retrait620 ; ne pas recopier Congédier un membre679, autre sens de déposer."],
+    "188": ["b1004000.mpt", 349, "Soigner tous correspond au soin de groupe dans Divers349–356 ; ni restauration de sauvegarde ni résurrection automatique."],
+    "189": ["b1004000.mpt", 165, "Quitter165 est propre au menu d'objet ; やめる devient Rien dans l'église604, banque621 et réserve684. Consommateur SFC de189 à établir avant de retenir un unique français."],
+    "219": ["b1004000.mpt", 286, "Sagesse est la statistique かしこさ ; conserver le deux-points SFC et exclure l'article grammatical DS du nom isolé."],
+    "236": ["b1004000.mpt", 752, "Supprimer un journal : service destructif de sauvegarde, non copier. Le champ DS de copie235 n'a pas été trouvé ; ne pas réutiliser752 pour235."],
+    "287": ["b1004000.mpt", 859, "Jeter correspond à かえる dans le bloc poker859–863. Sens contextuel de changer ses cartes, non jeter un objet ; la fenêtre SFC de ce groupe reste à identifier."],
+    "288": ["b1004000.mpt", 860, "Garder ses cartes : opposé de Jeter859 dans le même bloc. Accord/verbe conservé comme commande, pas comme nom d'objet."],
+    "289": ["b1004000.mpt", 861, "DONNER est la distribution des cartes ; conserver la capitalisation DS comme proposition, ne pas confondre avec Transférer161."],
+    "341": ["b1005000.mpt", 317, "ラルフ/Calvin : nom propre exact dans la séquence de candidats, aucune translittération automatique."],
+    "342": ["b1005000.mpt", 318, "クワット/Gianni : nom exact voisin de Calvin et Toutenkanon, non correction phonétique du japonais."],
+    "343": ["b1005000.mpt", 319, "デドロン/Toutenkanon : nom exact de la même séquence ; longueur à tester dans la sélection SFC."],
+    "344": ["b1005000.mpt", 400, "ユキノフ/Théodore : @0M est une métadonnée de genre DS, pas une partie du nom ; conserver l'accent français."],
+    "347": ["b1005000.mpt", 403, "すぎやん/Stanislas : correspondance nominale exacte ; métadonnée masculine documentée, pas injectée dans les tokens SFC."],
+    "351": ["b1005000.mpt", 407, "ユルルン/Ferdinand : nom exact ; le voisinage de la liste permet de distinguer ce nom d'un monstre homonyme."],
+    "368": ["b1005000.mpt", 306, "ターニア/Mélodie : nom français localisé, pas Tania ; le rôle de cette entrée distincte reste à tester."],
+    "372": ["b1005000.mpt", 320, "ほかのまちのこと est le sujet de conversation sur les autres villes ; Sur les villes DS320 est une sélection, pas un nom de lieu."],
+    "373": ["b1005000.mpt", 321, "まおう signifie le roi démon. DS321 nomme Meurtor dans cette sélection ; le personnage visé dans le chemin SFC reste à confirmer, ne pas imposer ce nom dans tout contexte."],
+    "375": ["b1005000.mpt", 323, "もうすぐ/Très bientôt est une réponse temporelle, non un message de système ; cohérence à vérifier avec la question SFC."],
+    "376": ["b1005000.mpt", 324, "きがむいたら/Quand je veux exprime le choix selon l'envie ; conserver comme réponse de dialogue, contexte de question encore requis."]
+  },
+  "unresolved": {
+    "235": "Aucun champ DS exact de ぼうけんのしょをうつす retrouvé ; fonction SFC copier distincte de supprimer752. Copier un journal demeure une adaptation préparée sans référence exacte.",
+    "249": "Aucun champ DS exact ぼうぐ retrouvé dans ce contrôle ; le sens général est équipement défensif, mais les catégories SFC et alias doivent être établis. Ne pas approuver Protections par rapprochement flou."
+  }
+}
