@@ -1,0 +1,30 @@
+{
+  "published_commit": "5b20e0edb987d311710c48b07ee3b78dc47c25fb",
+  "published_tree": "b9c4b0e44f4c85256d0b4436822cba9cfc6918f7",
+  "baseline_commit": "ab302ae56e260770bb3a000013b6572c06cac565",
+  "verification": "Dossier neuf restauré depuis tree préparé,tous les lots,puis superposition du commit publié identique et réexécution prepare/build/verify/audit1179 avec les trois sources privées vérifiées.",
+  "all_source_lots_restored": true,
+  "published_manifest_file_hashes_verified": 31,
+  "private_rebuilt_ROM_sha256": "11d3dd59602644b76b3244b1f0caf6e6ff93568a68b87030ac2dc5140e240a47",
+  "published_BPS_sha256": "2fdbeb411570b5403c91be25f9a45830a16a11c1c9fb06a2cad8b670a3706607",
+  "BPS_IPS_reapplied_to_intact_JP": true,
+  "wrong_sources_and_negative_main_pointer_and_name_allocation_detected": true,
+  "new_translations": 0,
+  "existing_main_revisions_inserted": 3,
+  "main_revision_ids": [
+    1003,
+    1012,
+    1252
+  ],
+  "metadata1179_corrected_without_native_token_change": true,
+  "new_exhaustive_review_positions": 0,
+  "prepared_main_revisions_remaining": 118,
+  "names_prepared_remaining": 419,
+  "ROM_or_state_published": false,
+  "native_after_pages_prepublication": 6,
+  "native_before_pages_prepublication": 6,
+  "native_1179_pages_prepublication": 2,
+  "native_emulation_repeated_postpublication": false,
+  "natural_target_scenes_validated": false,
+  "full_main_reread_completed": false
+}
